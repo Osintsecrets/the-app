@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "title": "OSINT Essentials",
+      "links": [
+        { "label": "Have I Been Pwned", "url": "https://haveibeenpwned.com", "icon": "hibp.png" },
+        { "label": "Wayback Machine", "url": "https://web.archive.org", "icon": "wayback.png" }
+      ]
+    },
+    {
+      "title": "News",
+      "links": [
+        { "label": "Reuters", "url": "https://www.reuters.com", "icon": "reuters.png" },
+        { "label": "AP", "url": "https://apnews.com", "icon": "ap.png" }
+      ]
+    }
+  ]
+}
