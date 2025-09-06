@@ -30,9 +30,9 @@
 </head>
 <body class="bg-slate-950 text-slate-100 min-h-screen">
   <!-- Top bar -->
-  <header class="sticky top-0 z-40 backdrop-blur border-b border-slate-800 bg-slate-950/70">
+  <header class="sticky top-0 z-40 backdrop-blur border-b border-slate-800 bg-slate-950/70 opacity-0 transition-opacity duration-1000">
     <div class="mx-auto max-w-5xl px-4 py-3 flex items-center justify-between">
-      <h1 class="text-xl font-semibold tracking-tight">My Dashboard</h1>
+      <h1 id="headerTitle" class="text-xl font-semibold tracking-tight">My Dashboard</h1>
       <nav class="flex items-center gap-2">
         <a href="index.html" class="px-3 py-1 rounded-lg hover:bg-slate-800 transition">Feed</a>
         <a href="library.html" class="px-3 py-1 rounded-lg hover:bg-slate-800 transition">Bookmarks</a>
@@ -71,7 +71,8 @@
     <p>Offline-ready. Data aggregated by GitHub Actions into <code>/data/feeds.json</code>.</p>
   </footer>
 
-  <script type="module" src="js/app.js"></script>
+    <script type="module" src="js/header.js"></script>
+    <script type="module" src="js/app.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
