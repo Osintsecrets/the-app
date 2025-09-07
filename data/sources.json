@@ -1,11 +1,74 @@
 {
-  "topics": ["OSINT", "News"],
+  "topics": [
+    "OSINT",
+    "News"
+  ],
   "sources": [
-    { "name": "Bellingcat", "topic": "OSINT", "type": "rss", "url": "https://www.bellingcat.com/feed/" },
-    { "name": "OSINTCurio (YouTube)", "topic": "OSINT", "type": "rss", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxxxx" },
-    { "name": "r/osint", "topic": "OSINT", "type": "rss", "url": "https://www.reddit.com/r/osint/.rss" },
-    { "name": "Reuters World", "topic": "News", "type": "rss", "url": "https://www.reuters.com/world/rss" },
-    { "name": "Associated Press", "topic": "News", "type": "rss", "url": "https://apnews.com/hub/ap-top-news?utm_source=apnews.com&utm_medium=referral&utm_campaign=ap-rss&utm_content=topnews" },
-    { "name": "BBC World", "topic": "News", "type": "rss", "url": "http://feeds.bbci.co.uk/news/world/rss.xml" }
+    {
+      "name": "Associated Press",
+      "topic": "News",
+      "type": "rss",
+      "url": "https://apnews.com/hub/ap-top-news?utm_source=apnews.com&utm_medium=referral&utm_campaign=ap-rss&utm_content=topnews"
+    },
+    {
+      "name": "BBC World",
+      "topic": "News",
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    {
+      "name": "Reuters World",
+      "topic": "News",
+      "type": "rss",
+      "url": "https://www.reuters.com/world/rss"
+    },
+    {
+      "name": "Bellingcat",
+      "topic": "OSINT",
+      "type": "rss",
+      "url": "https://www.bellingcat.com/feed/"
+    },
+    {
+      "name": "Cyb_detective (Substack)",
+      "topic": "OSINT",
+      "type": "rss",
+      "url": "https://cybdetective.substack.com/feed"
+    },
+    {
+      "name": "OSINTCurio (YouTube)",
+      "topic": "OSINT",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxxxx"
+    },
+    {
+      "name": "r/GreatOSINT (Reddit)",
+      "topic": "OSINT",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/GreatOSINT/.rss"
+    },
+    {
+      "name": "r/osint",
+      "topic": "OSINT",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/osint/.rss"
+    },
+    {
+      "name": "r/osinttools (Reddit)",
+      "topic": "OSINT",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/osinttools/.rss"
+    },
+    {
+      "name": "r/privacy (Reddit)",
+      "topic": "OSINT",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/privacy/.rss"
+    },
+    {
+      "name": "r/PrivacySecurityOSINT (Reddit)",
+      "topic": "OSINT",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/PrivacySecurityOSINT/.rss"
+    }
   ]
 }
