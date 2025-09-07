@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-09-07T19:31:12.102Z",
+  "generated_at": "2025-09-07T20:08:29.922Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israel’s U17 flag football team snags silver at European Championship",
+      "url": "https://www.jpost.com/israel-news/sports/article-866673",
+      "image": null,
+      "published_at": "2025-09-07T22:37:23.000Z",
+      "summary": "Flag football has been gaining momentum worldwide, and the Israeli Under-17 team is preparing for the sport's debut inclusion in the 2028 Olympics."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -79,7 +89,7 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-866661",
       "image": null,
       "published_at": "2025-09-07T20:21:48.000Z",
-      "summary": "Notably, this agreement would not end the war or lead to a complete IDF withdrawal from the Gaza Strip."
+      "summary": "Hamas claimed to Sky News Arabia that they are considering Trump's proposal with \"a positive spirit,\" and reaffirmed their desires for a full IDF withdrawal from the Gaza Strip."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -102,6 +112,106 @@
       "summary": "A Pew Research Center survey reveals the mixed attitudes held by Israelis ahead of the United Nations General Assembly meeting. "
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "US-European sanctions could ‘collapse’ Russian economy: Trump aide",
+      "url": "https://www.aljazeera.com/news/2025/9/7/us-european-sanctions-could-collapse-russian-economy-trump-aide?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-07T20:01:46.000Z",
+      "summary": "Scott Bessent calls for secondary tariffs on Russian oil importers to bring President Vladimir Putin 'to the table'."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הרצוג בכנס חירום של מועצת אוקטובר: \"ועדת חקירה ממלכתית זו הדרך הנכונה\"",
+      "url": "https://www.ynet.co.il/news/article/bk6v7bs9xl",
+      "image": null,
+      "published_at": "2025-09-07T19:59:25.000Z",
+      "summary": "מאות משפחות של נרצחים, חטופים, פצועים ותושבי העוטף השתתפו בכנס \"שנתיים ללא תשובות\". הנשיא תמך בקריאה להקמת ועדת חקירה ממלכתית: \"צריך לרדת לשורש הכשלים שהביאו אותנו ל-7.10\". איל אשל, אביה של רוני ז\"ל: \"הפעילו נגדנו את מכונת הרעל\". עפרי ביבס, אחותו של ירדן: \"כבר שנתיים אני שואלת את עצמי אם יכולתי להצי"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"דיאטת בן גביר\", והמשמעות האמיתית של פסיקת בג\"ץ ",
+      "url": "https://www.ynet.co.il/news/article/rktsrvsqex",
+      "image": null,
+      "published_at": "2025-09-07T19:56:28.000Z",
+      "summary": "הרבה רעש, מעט משמעות: שופטי בג\"ץ לא ביטלו את המדיניות של השר לביטחון לאומי ונציב שב\"ס, שצמצמה את האוכל רק לאסירים הביטחוניים - ולמעשה אף אישרו אותה, תוך הצעה לחיזוק הפיקוח שספק אם תשנה משהו מהותית. שורשי העתירה וההישג המפתיע של השר"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "High Court rules state failed its duty to feed Palestinian prisoners, in slap to Ben Gvir",
+      "url": "https://www.timesofisrael.com/high-court-rules-state-failed-its-duty-to-feed-palestinian-prisoners-in-slap-to-ben-gvir/",
+      "image": null,
+      "published_at": "2025-09-07T19:54:02.000Z",
+      "summary": "Court says providing adequate nutrition to prisoners is 'the A, B, C of the rule of law,' and rations cannot be used as a form of punishment\nThe post High Court rules state failed its duty to feed Palestinian prisoners, in slap to Ben Gvir appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "His Highness the Aga Khan meets the President of the United Arab Emirates - Aga Khan Development Network",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb2tKWXRmbEhVUWI5RXo2R0ZYYjh5VjdDMGs1bndYSlZDbEtBMkVYRVNYMlpsNHJEYmhvdDFTUmZ1ME1oWEh2RFVCUkhPRHh0eXlNd2N4cU9TZ2FkS2ZJMEFZSl92RkRNSXJ1LXk3SERLQlQyQkU3VFFRS0Q3MGdoUW9TS2I3eWV6YVB0cU50Nm9FYXpUUGZxbUpTRVVaN0syTG5lZmk5X0h6VDZyRlFjaVpGeHhzUXE0S3ZheXdtUWtibGtsYjVLaGo2ZEs?oc=5",
+      "image": null,
+      "published_at": "2025-09-07T19:49:55.000Z",
+      "summary": "His Highness the Aga Khan meets the President of the United Arab Emirates  Aga Khan Development Network"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvc0pQ",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Live in the Heart of Tel Aviv — Limited Presale Opportunity - Sponsored Content",
+      "url": "https://toi.li/sJPRKT",
+      "image": null,
+      "published_at": "2025-09-07T19:46:03.000Z",
+      "summary": "Own your dream boutique apartment steps from Tel Aviv’s shoreline — comfort, serenity and style. Presale now open.\nThe post Live in the Heart of Tel Aviv — Limited Presale Opportunity appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Ministers approve Negev phosphate mine, but accept conditions that could stop it opening",
+      "url": "https://www.timesofisrael.com/ministers-approve-negev-phosphate-mine-but-accept-conditions-that-could-stop-it-opening/",
+      "image": null,
+      "published_at": "2025-09-07T19:45:58.000Z",
+      "summary": "Prime Minister's Office proposal to fast-track mine close to southern city of Arad now contingent upon health and environmental impact surveys, plan to relocate Bedouin\nThe post Ministers approve Negev phosphate mine, but accept conditions that could stop it opening appeared first on The Times of Is"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Katz okays most senior IDF picks after clash with chief of staff — but rejects two",
+      "url": "https://www.timesofisrael.com/katz-okays-most-senior-idf-picks-after-clash-with-chief-of-staff-but-rejects-two/",
+      "image": null,
+      "published_at": "2025-09-07T19:45:42.000Z",
+      "summary": "Defense minister nixes appointments to head 201st Division, Ground Forces; former senior cop Yoram Halevi to head COGAT, Israel's liaison to Palestinians, in unprecedented move\nThe post Katz okays most senior IDF picks after clash with chief of staff — but rejects two appeared first on The Times of "
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Panic on Italian island: Strange cylinder with Hebrew inscriptions spooks locals",
+      "url": "https://www.israelnationalnews.com/news/414538",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1198068.jpg",
+      "published_at": "2025-09-07T19:41:00.000Z",
+      "summary": "Discovery of a Hebrew-marked cylinder off Lampedusa fuels alarm in Italy, with speculation over satellites, military debris, and growing political outcry."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "India faces tough Qatar test in AFC U-23 Asian Cup 2026 Qualifiers - Sportstar",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbmVBYTgwbFlyNGF5S21FVkJ4bm1PN3NLQ2VXUjI5d1hiZTVIT2xmaUx3RGZuSm1PM3cwNUM1eGNWcHJoQ29GcmFIcXhCdk9STUg5cTRNZmFGM0xWSzJRRlMxeDMtNEpPeDNPaTVJNXBkaTIyMEV1Qk9DWWFuaG1MU1RUYy1nXzg4bmVES2ZoYXVxZVVhSDBuaURGSnFLZWVkdXJhY05zRXBldjFKOWZNSU13YVN1djFOWkVaN2FGRk01Wk05QmF4cEUzcW5lVTZkMmNZbFY1WEROUFUtQkFWOGE0R0lZSExXX0hNdllMeVhyN203ZEpRR195UVY0UdIBhAJBVV95cUxQTW9BaGxRY2FoVHltZEVjRVJwTXA5RFAwOGdwN09uZ21mdkVUNEhGUkFHWUVEZC1EU2RrNjhGVzNpcUdWUVpHQ2UxMENQQ292Ui1GdnVRUmFEUVUzemQ2aldLQkJtVGdzaVM0aUw3OG8wdEdWVGI4am9pSF82Q01LMDRmU2JvTWFsS2JTbUU5ZE4yaGNUcy1xYjlxNUhjbzRBYjczdXlaNXpVNHgxc3g4amxOcElEZmd0bVk3aDFGMlRkMTdna2JZWkFSRUJmd2I0dDZzOE5WbUlWYm1jcnBOekZHU3pSeVFhSm1ZWTZfZFhJbll2MkUtSHphdklTelppWVNCUA?oc=5",
+      "image": null,
+      "published_at": "2025-09-07T19:40:58.000Z",
+      "summary": "India faces tough Qatar test in AFC U-23 Asian Cup 2026 Qualifiers  Sportstar"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -110,6 +220,76 @@
       "image": null,
       "published_at": "2025-09-07T19:40:05.000Z",
       "summary": "Eisenkot and Bennett shared that they had discussed the “deterioration of Israel’s international standing, and actions toward creating a new and better leadership for Israel.\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ראשוני: שוטר נפצע קשה מירי במהלך מרדף אחרי טרקטורון במעלה עירון",
+      "url": "https://www.ynet.co.il/news/article/sjgaaiocle",
+      "image": null,
+      "published_at": "2025-09-07T19:38:09.000Z",
+      "summary": "לפי המשטרה, האש נפתחה לעבר השוטר מכיוון טרקטורון. מנכ\"ל מד\"א עדכן כי מצבו של הפצוע לא יציב, המשטרה ממשיכה במרדף"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Internet down in UAE after Red Sea cable cuts: What caused it and when it will be fixed - Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ3NHVmJZbmhjOUltVHRXenpXRkdqVGpTUllFSlhSOXhzeDBYbVBaRkZkS2Zna25fUkhkQUFycENvU0k2NC0yY29xeVlrRkE3bGlWNnM1MGVKQXdwSmIxOHVDUnZLTUFlMU0ydDRMNFBlQmw0REdJZXItVnZ6VjkxUno2VFNuZGt3ZE9mblNSc1ZGOVFoUmY1SE83NHdxOWRHWTU4TUxDdlpqWGFhSXNJTUZFanF6QmpYVHZLZkNScW4yclV4Y3ZBek8yNFBlZDd1WDdxbTl2V1UxVEZtaURCbVlSUFJ0ZEswdGg4c3dRa2I0WldKUDQ5WXdn0gH_AUFVX3lxTE8yMWQ5bXB4RTFaQm5KUjNGT1BjaFBrMlNkRUZDcnZvS2VMa01kOUJaelhJR2YzWmp4MUlGSmREampUVnA5S2lXOG9hUHBsWXRYNDg1X1NKdmlMMEtodUFxNFRiTmQtM3JFTjN2b0ZFTXpILURVeWQ2anRVMHRfSURpcENmYnlIV3hLNUpONzVjTmdUVUxwV2UySWt1M0dvVC01bmlTYkFkYUhPODVvaV9KY2dNbkhIMVpLWlQxaVlIZ2ZId3VPNkNuN1Y1RTNSb2tLVlRGa2VwSk52a2p5NTBTY2xUTENZanh0WVVueHZrRmZDR3Izcmk1eGFEX2hibw?oc=5",
+      "image": null,
+      "published_at": "2025-09-07T19:38:00.000Z",
+      "summary": "Internet down in UAE after Red Sea cable cuts: What caused it and when it will be fixed  Times of India"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "French defender Kimpembe joins Qatar Sports Club from PSG - Arab News PK",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nQUxfVG9YMXB1Qnc1ZmxtSGNvUWZWcm90V2FxeDVqa3c4V292QVoyWU9OYzBSdkE4VDUtSzhsbUpkc2xKYV84RDhCVjhNVkR0VHNGd3dwYUE?oc=5",
+      "image": null,
+      "published_at": "2025-09-07T19:35:39.000Z",
+      "summary": "French defender Kimpembe joins Qatar Sports Club from PSG  Arab News PK"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"הנקמה האמיתית לא התחילה\": החות'ים ממשיכים לאיים - וחוגגים כל \"ניצחון\" קטן",
+      "url": "https://www.ynet.co.il/news/article/rjao7xi9lx",
+      "image": null,
+      "published_at": "2025-09-07T19:34:45.000Z",
+      "summary": "פגיעת הכטב\"ם בשדה התעופה ברמון היא הישג נוסף לחות'ים. השיגורים שלהם לרוב מיורטים או נופלים בדרך, אך במשך כמעט שנתיים הם רשמו הצלחות מת\"א ועד אילת, שמעבר לנזק הנקודתי - השפיעו רבות על ישראל. גם אחרי החיסולים בצנעא, שלטון הטרור ממשיך לשגר, לאיים – ולחגוג \"ניצחון\" גם כשהוא לא פוגע"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "חיילי צה\"ל תועדו מפוצצים בניין ליד חמור: \"נודר, הוא מת\"",
+      "url": "https://www.ynet.co.il/news/article/hjh9blj9le",
+      "image": null,
+      "published_at": "2025-09-07T19:34:24.000Z",
+      "summary": "בעל החיים עמד בסמוך לבניין, החיילים אמרו: \"איזה יופי\". דובר צה\"ל מסר כי הנושא בבדיקה: \"ההתנהלות לא עולה בקנה אחד עם ערכינו\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "חמאס \"לא פוסל\" את הצעת טראמפ, והאם ישראל \"שוקלת\" או מסכימה?",
+      "url": "https://www.ynet.co.il/news/article/bj5p4iscll",
+      "image": null,
+      "published_at": "2025-09-07T19:30:29.000Z",
+      "summary": "בזמן שצה\"ל תוקף בעיר עזה, נשיא ארה\"ב הדגיש ש\"הישראלים כבר הסכימו\" להפסקת אש - אך בהודעתו של רה\"מ לא נמסרה כל הסכמה, אלא אמירה כללית על כך שישראל \"שוקלת\" את המתווה, וכי ארגון הטרור ממילא לא צפוי להסכים לו. אלא שבחמאס לא מיהרו לשלול - ומבקשים הבהרות לגבי המחבלים שישוחררו"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Afghanistan falls to Pakistan in UAE Tri-Nation Series final - Amu TV",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9hbkYyUFBwTHlrMmxnWHZwWFoydXV0Q0xuOGJQTUp1bEpNS1FWSzFkOXZDTzdURG9Idnc?oc=5",
+      "image": null,
+      "published_at": "2025-09-07T19:29:17.000Z",
+      "summary": "Afghanistan falls to Pakistan in UAE Tri-Nation Series final  Amu TV"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -122,6 +302,16 @@
       "summary": "The former police commander, who was accused in the past of secretly being in contact with PM Netanyahu, is the first appointee to the position who comes from outside the IDF"
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Lebanon Lunar Eclipse - Goshen News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSDZVU1Z3NThYVTIzY3BSTzI4em1NVDNuUndXTTF5alVyWEdqMko1RkdldWFmcVRHN2k2T0pYa0hVdG5sR0NzbTJ2cVB2aUJnTy1RaFdOSERnQjBqTkNucTE4UzFGSTJ2endaN19aSkJBUGsxQWkyRWo0alA3M2xUNFpJWlpOcU0wMTlfUkRsbVJXbE50QzhuTXpTV3FMVUIzZ1V2SVNzczllaWxsYnNCWGwtZG12dw?oc=5",
+      "image": null,
+      "published_at": "2025-09-07T19:27:21.000Z",
+      "summary": "Lebanon Lunar Eclipse  Goshen News"
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -130,6 +320,26 @@
       "image": "https://img.haarets.co.il/bs/00000199-2564-d3e4-abb9-65edba5f0001/c6/c0/a2b41bb2476b92ea3907d65ac502/982695-2.jpg?height=81",
       "published_at": "2025-09-07T19:26:20.000Z",
       "summary": "Unlike Trump, who, in renaming the Department of War, decided to break through the euphemism of 'defense,' Netanyahu has repeatedly embraced it to justify the IDF's actions in Gaza"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump suggests he put forward new Gaza ceasefire proposal",
+      "url": "https://www.aljazeera.com/news/2025/9/7/trump-suggests-he-put-forward-new-gaza-ceasefire-proposal?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-07T19:25:41.000Z",
+      "summary": "US president claims Israel accepted his terms to end the war in Gaza and issues &#039;last warning&#039; for Hamas."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "India U-23 pay the penalty against Qatar - Times of India",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanNxMkY4a1VhLTJLYTQwcmZLUi1iV2dQZ3lpU0pOZGhvV3VxUFJSRFd5TjZIbUhadWxWYWh5MXZQZE12TmNfS05fSlE0MGRUeUlaNDlYdkc1b1E0RlMxbnBaV0JOTmlCYThUcy1IVWJBeXRYNzU1UUNOUWJkb0VBQ0RtUkJLUUIxbUI5MTdyaWdlbmZET1o5ZjI2cU82YjM2bng2M3F0VUtMMWdmMnpnUdIBtgFBVV95cUxOSm43cFdwVTFTOTNYQU56cGtRQ2xlUTB0ZzFQZlNaeERaMjc4YTh5SU4xTVZ1aTBhZTVaUkQ1Mm4yck5iMmJ4aDNHOV96V0FIdk9FLUJUb1ZxU1laSjU0YWc3YmtYYnJLZmJZZjdCTHA3aFpVdklvVEQyS3ZHXzlhLUhyUG94bUNYQ3JocDBKdkM0NzN3TFh2ZWU3M19IX3RGWUZ1YXNkR09jRjZGUWlNak1qSXBpdw?oc=5",
+      "image": null,
+      "published_at": "2025-09-07T19:24:00.000Z",
+      "summary": "India U-23 pay the penalty against Qatar  Times of India"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
@@ -162,6 +372,16 @@
       "summary": "The IDF attack on Gaza City included hits on two mosques and a school sheltering displaced people, and other reports indicate more strikes in other parts of the Strip"
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Taliban Restrictions Delay Medical Help For Women In Quake-Hit Areas: Report - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeGVaR2s0SWNNRGJweTNnLXdIdnY0bHMwZ203Rm1pamhpelFPUllKYlpDN0l0QUl1R1pvMG5MZkxBQkZsU0VWUG5fMFBnRFdzOUhNcWx4ZXZIQVpfaV9pVDZpdktCQXZ2Vml3cnhMMUpEekhxOFdaZUw5Sk1XWEpDbjJMWFl1VnZlMTZWajBuQmxFLV9DcGNpQW5xYTF4V3EtbEJrWGdESWZlWXVaUkpicjQ1azItd9IBvgFBVV95cUxOTERHUmc1THYteTc1X0ZzZVFnb2JwQ2Vka0FyN1o3b2JHRkZvcEFJOXBEMHRfc3ZSMEUza1dIckdaWXlmYjFQb0szZU5KVk0xblUwRzluaEJyUmN1TEJUTVZxMDF4MjNEUU94NVNodXJTbEo2aFlJUWlrSl9yaW5kOU5BbkJNTUFDY2xvNEJ6Rm5jSE1FdVAtai1ibGMyYmhyNWJzeGRXQ2pWb2V2U2Zld2FEYlhucVVmWms4VlBR?oc=5",
+      "image": null,
+      "published_at": "2025-09-07T19:17:21.000Z",
+      "summary": "Taliban Restrictions Delay Medical Help For Women In Quake-Hit Areas: Report  NDTV"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -185,21 +405,21 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "India faces tough Qatar test in AFC U-23 Asian Cup 2026 Qualifiers - Sportstar",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbmVBYTgwbFlyNGF5S21FVkJ4bm1PN3NLQ2VXUjI5d1hiZTVIT2xmaUx3RGZuSm1PM3cwNUM1eGNWcHJoQ29GcmFIcXhCdk9STUg5cTRNZmFGM0xWSzJRRlMxeDMtNEpPeDNPaTVJNXBkaTIyMEV1Qk9DWWFuaG1MU1RUYy1nXzg4bmVES2ZoYXVxZVVhSDBuaURGSnFLZWVkdXJhY05zRXBldjFKOWZNSU13YVN1djFOWkVaN2FGRk01Wk05QmF4cEUzcW5lVTZkMmNZbFY1WEROUFUtQkFWOGE0R0lZSExXX0hNdllMeVhyN203ZEpRR195UVY0UdIBhAJBVV95cUxQTW9BaGxRY2FoVHltZEVjRVJwTXA5RFAwOGdwN09uZ21mdkVUNEhGUkFHWUVEZC1EU2RrNjhGVzNpcUdWUVpHQ2UxMENQQ292Ui1GdnVRUmFEUVUzemQ2aldLQkJtVGdzaVM0aUw3OG8wdEdWVGI4am9pSF82Q01LMDRmU2JvTWFsS2JTbUU5ZE4yaGNUcy1xYjlxNUhjbzRBYjczdXlaNXpVNHgxc3g4amxOcElEZmd0bVk3aDFGMlRkMTdna2JZWkFSRUJmd2I0dDZzOE5WbUlWYm1jcnBOekZHU3pSeVFhSm1ZWTZfZFhJbll2MkUtSHphdklTelppWVNCUA?oc=5",
-      "image": null,
-      "published_at": "2025-09-07T19:11:56.000Z",
-      "summary": "India faces tough Qatar test in AFC U-23 Asian Cup 2026 Qualifiers  Sportstar"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
       "title": "Lebanon Lunar Eclipse - The Herald Journal",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNzkzOXFGSnN0bXRPN08zaWUycFZ0eFVkeUpXMGh2Y0l6Z0RBeU1vbWNVMnBpYnZsNkpKUC01QndjUlV3ZDUySFlrQXZtQVBXUC14N0N1WGZxWGZEUzN2MF9GYkRqU2hDVXpZaG81R2NrbDVqV1BoUlhRV1U5YlVSME8tWHBGa0lxcVBGNFlSanRvOG1TU3VralFya3JQUGM?oc=5",
       "image": null,
       "published_at": "2025-09-07T19:09:12.000Z",
       "summary": "Lebanon Lunar Eclipse  The Herald Journal"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Lebanon Lunar Eclipse - Idaho State Journal",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmhEajF0Mk0yNkE3UFdTS3VUYzJWclMwMWRaM0pCRFROSTdmU2VDSWVoeFFWSEh2VVZHeXF3WU5Pa3JqOEhhcTB1SXVZN0xZZU5kRkV5WUlmYm9rbExhdGp2bnJBWVdPZ3luSHF4WDI1Zk54WWZoVWRmYThxZ1o2QzdjcV9UVnBEWTJPSkY2TFRWM1NvYjN4RlBhc1Jfbk5Pc2wxcWZILWFmQTZlMEZEYmlmbHc?oc=5",
+      "image": null,
+      "published_at": "2025-09-07T19:09:12.000Z",
+      "summary": "Lebanon Lunar Eclipse  Idaho State Journal"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -220,6 +440,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d77/live/5c764ae0-8c1a-11f0-9cf6-cbf3e73ce2b9.jpg",
       "published_at": "2025-09-07T19:00:54.000Z",
       "summary": "s the Moon passes through the Earth's shadow, it will take on a deep red hue, creating a striking \"Blood Moon\"."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Transit traps: The connecting flight issues that could ruin your holiday - The Sydney Morning Herald",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeEptUmF0VUp1dlFaY3RHeW1odVIwWmlmT3lHTDIwNFdxV2dSd242SDlfc01VSzR2ektGSHNXOUVQLUZUeC1fMnRRTWdTR3V6blFIQmxfTm5pbnQ5OTBjbHVWU0ltVzVPb3ZlY1BSNnpkd3Y1S0xaSEpFVDhHZjFURENWcHF1Wi1tc2pUNDZDY3NyRU4zWDY5MXRaN21HenNKUVQ3QkZZa3ptX2tPckstNmg1Y05YTHYyTExtQm9TZWZaTk1qbm1iMzFKNmxVTTd2VF9NTVF4SHFDWjlJ?oc=5",
+      "image": null,
+      "published_at": "2025-09-07T19:00:00.000Z",
+      "summary": "Transit traps: The connecting flight issues that could ruin your holiday  The Sydney Morning Herald"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -365,11 +595,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Taliban back upgrade in ties as India explores ministerial visit - The Times of India",
+      "title": "Taliban back upgrade in ties as India explores ministerial visit - Times of India",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMXQ0R041LTN5Q0kxcEpudlBMd09fOHQ2QUpIa0MxMjMyakx4YThGalVMOXpxSDBRVW50MEVzMXNEMGRZQVI5ai1lZ0FUQVBjeGR4VEoyN0R4RjdncmVJaG1QTEFzajVoR0JkLXVSSklRMjlHd2RBNlFyWVlmcUcwdl85bjBhUktuN1hRQ1ZwQkU5QzJLdVY2RHBRd2gtLUtYTXRNbmNDd05PRENqbkFTOFNqeVBYc0Fla3FzcWo1ZzBzeEIxLVZCQ0tla1bSAdIBQVVfeXFMTjFzS3dSQ0RVb2E5U0o5ZmhiT09MYWJMSk1vNlhBOWltd1BQQW56ZXVQTDJJSjdzRkJHenJNMWRUaUJCTldhVTA3cWxUbWx0d24tQWJQMXNCY0Vnd3JPN0tEWDFyLVJjeG9jaHd1d25iWTFDQncwQk5rdnJjLVVtUmxfLWlPN3hOSUpSXzdxNFJBZ3l1WlFSQjJyVXZFSlRJdHY0amdJQ1pvVHNaS3dvRHFxZEJ4SkszM0NmNmJuazNhN0twQmEwOWhpN3hkQ2RQUHpR?oc=5",
       "image": null,
       "published_at": "2025-09-07T18:35:00.000Z",
-      "summary": "Taliban back upgrade in ties as India explores ministerial visit  The Times of India"
+      "summary": "Taliban back upgrade in ties as India explores ministerial visit  Times of India"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -422,14 +652,14 @@
       "summary": "הוועדה שחוקרת את הליכי רכש הצוללות בין 2009 ל-2017 העבירה למוזהרים שהיו מעורבים בנושא פירוט נוסף על הממצאים נגדם. לפי הוועדה, רה\"מ נתניהו וראש המל\"ל לשעבר כהן לא דיווחו למערכת הביטחון על מכירת צוללות למצרים למרות ההשלכות החמורות. מה דרש נתניהו ממנכ\"ל משרד הביטחון בזמן אמת?"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "German MP flees to shelter with Jewish orphans in Odessa",
-      "url": "https://www.israelnationalnews.com/news/414535",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1198406.jpg",
-      "published_at": "2025-09-07T18:15:12.000Z",
-      "summary": "German lawmaker Kathrin Göring-Eckardt sheltered with children at Odessa’s Jewish orphanage during a siren, praising their resilience and urging international efforts for peace in Ukraine."
+      "title": "World Cup winner severs ties with PSG after 20 years - with home-grown hero Presnel Kimpembe heading to Qatar - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbHl4V1VQVVJCT0VaYWlEQW1XMDllcm5LV3doWGp1LWVDTEthS2FmUEliREZuMU9BMUUtZFZreThKY0JqM2ktU3RPYzhNMkxFMEI2b2pZd1FvMXc5ZE9OelltTVVXT09HcFJwcEI3SzVBOU00eUtfMFV1THBJZkdwWXpLcnJ4S0FnWnVGWUFtc0d0aEFrajdUQ1pzalBwZ1hWRTN1UHVrYWo5VnRlN01IYWdyUTg0eGdGODRfcU1NTTQtcVJJYkFhUEh0QTBGNkFHdG5BajNZcWs?oc=5",
+      "image": null,
+      "published_at": "2025-09-07T18:16:14.000Z",
+      "summary": "World Cup winner severs ties with PSG after 20 years - with home-grown hero Presnel Kimpembe heading to Qatar  Goal.com"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -442,16 +672,6 @@
       "summary": "Roisinblit, born in town of Jewish migrants, was reunited with grandson in 2000, witnessed her daughter and son-in-law's kidnappers brought to justice in 2016\nThe post Rosa Roisinblit, who fought for children &#8216;stolen&#8217; by Argentine junta, dies at 106 appeared first on The Times of Israel."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Vice President discusses latest developments in Gaza and West Bank with Qatari Prime Minister - WAFA Agency",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UdVBmTTZwUUFORlYtMV9ZMUd4V2cyZHhHMnJHM041b05MMGYxRjNHTkxYMFJEX0Z5X3ZKemxOMFFPZkZ4YXpuT0oxRzBYQmwyLVFVWFRXdw?oc=5",
-      "image": null,
-      "published_at": "2025-09-07T18:08:29.000Z",
-      "summary": "Vice President discusses latest developments in Gaza and West Bank with Qatari Prime Minister  WAFA Agency"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -462,16 +682,6 @@
       "summary": "The mass protest in Jerusalem on Saturday, which capped a week of protests that focused on Netanyahu's home in Jerusalem, featured several hostage relatives who spoke about their conversations with IDF officers who expressed unequivocally that the Gaza campaign would put the hostages in danger"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "‘Enough is enough’: Thousands march against antisemitism in London",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-866650",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/679936",
-      "published_at": "2025-09-07T18:05:26.000Z",
-      "summary": "Thousands marched in London to protest rising antisemitism, calling for action as incidents surge across the UK. Leaders urged solidarity and vigilance."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -480,26 +690,6 @@
       "image": null,
       "published_at": "2025-09-07T18:00:41.000Z",
       "summary": "Holocaust Museum LA says the post was misinterpreted as a &#039;political statement&#039; and promises to &#039;do better&#039;."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Spinning riso-printed disc installation among exhibition projects by VCUarts Qatar - Dezeen",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHctWGZuS2dNMmQtY0xnb08xeTMtb01QdVFGTmxzcnNQUVA2cl82MWF3VVl3UTJ5Y0kxYk5fWC1PcEdKQ1BEaDI3TkNmTGUyVlhmOFVWMmdOTnR3RGxDaEtZaWo5cVdmTS00bGstN0RDNE9DTW5udXRlSG5RQjdNSHVJZnQxR2dVbGdERG1SaEw0eTZHcjRVWGdNX0Q5VXFCd2JaREZZdTB0NkY4NHJ2Q3dJVU4tdVZZdnA0OU45Vlpoc2ZrVTVkMg?oc=5",
-      "image": null,
-      "published_at": "2025-09-07T18:00:00.000Z",
-      "summary": "Spinning riso-printed disc installation among exhibition projects by VCUarts Qatar  Dezeen"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "'And After Two Decades...': Presnel Kimpembe Moves To Qatar SC From Boyhood Club PSG | Sports News - News18",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVlSektGQ2ZzNVpONnQ1ekpBaFo1Z0EydmN5M2lDeTk3U20zMC1qZGN5Sk8tZWtxOUZfbEpvejFpMTZTbkJaR3lIZGNCb0V3WlR0ajR5dXVlQXdnWWNLdkU3S3VCOW1HU2Yzb0hGT1lrUWY4V2tGYjBzTm10cXQ2am0tUHRMV19NdGZmUm91TzktVjZyQlF4ZmlzUjVIZC1XNC1FZGtVYjhRaUdkQ0EybjBHUGZVTGVKYlNfdERR?oc=5",
-      "image": null,
-      "published_at": "2025-09-07T17:49:58.000Z",
-      "summary": "'And After Two Decades...': Presnel Kimpembe Moves To Qatar SC From Boyhood Club PSG | Sports News  News18"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -522,36 +712,6 @@
       "summary": "Britain, France, and Germany use remaining leverage in diplomatic push; Iran has ways to retaliate if sanctions reimposed, but must contend with possibility of renewed IAF strikes \nThe post After Israeli, US strikes, Europeans hope snapback threats push Iran to tougher nuclear deal appeared first on"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Kimpembe leaves PSG and signs for Qatar SC - besoccer.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNEkyYWR0ekM4Sm5qc2pFODVHbHlEak5NdV9ydW1jOE9pVVZ3NGk3Qm9JQ3F5ekZpZGFfaDd1Yzh0MkRlVldhZUg1V21oMHdNd3Y4YTVwVkZaQTVHdk9OSzVoVUlqTGloWlphSWotVF9kMzdZS1hoYTVhNElVdGlJcGE4S3BjQdIBiwFBVV95cUxNV1cyN1lRZzdnOEdSMnR5N0hOZDZCLVNFTnpLaURwenRIb3FJZmkxTHVvSkNEa0lPRTlJY1RpRmV4Y3lNVUVuTFRWWlFhSGd2QWlKZTBHY2NFX290YmpWMGUzVTlIVVhBNnhnVk01eHpfaERUMnNQVWhrOWhuNXAwQmo2aGtRU2dzV2dF?oc=5",
-      "image": null,
-      "published_at": "2025-09-07T17:46:05.000Z",
-      "summary": "Kimpembe leaves PSG and signs for Qatar SC  besoccer.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "As Syria Tries to Move Away From Dictatorship, Signs of Authoritarianism Linger",
-      "url": "https://www.nytimes.com/2025/09/07/world/middleeast/syria-shara-authoritarian-reform.html",
-      "image": "https://static01.nyt.com/images/2025/09/07/multimedia/07int-syria-government-ftbp/07int-syria-government-ftbp-mediumSquareAt3X.jpg",
-      "published_at": "2025-09-07T17:46:03.000Z",
-      "summary": "The ex-rebels now in control of Syria say they are ending rule by fear, overhauling the security and prison systems, and holding elections. But concerns over sectarianism and inclusivity remain."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel: Opposition leader Lapid: Hostage deal is on the table | blue News - blue News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSk5fd1JkSGhRZlJBdUlFcTZPWURIWFFTQUExc3dBZTByNVY1N3I5bGEtd0xweWRIUmtjQlgtZ09SdTlMMXhTVVIxdlRlZXFUdnJPNzRoYWk5S25BNGFxXzJBcHdIaVRsZ0FJYnAtbzNucmFIVDBTcFVaeExvRm10VWNnQXVlWmRXaXJpenk0ZTZRb3ZQeEpOUjZrREwzdk5ocUpoWkUzRWo0RUl1U3NN?oc=5",
-      "image": null,
-      "published_at": "2025-09-07T17:44:00.000Z",
-      "summary": "Israel: Opposition leader Lapid: Hostage deal is on the table | blue News  blue News"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -572,16 +732,6 @@
       "summary": "Bismuth, the committee chair, indicates willingness to maintain military exemptions for yeshiva students; study says travel restrictions 'could have significant impact'\nThe post Legal adviser: Knesset panel should pass Haredi conscription bill as &#8216;temporary measure&#8217; appeared first on The"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Watch live: Full lunar eclipse over Israel",
-      "url": "https://www.israelnationalnews.com/news/414534",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1198413.jpg",
-      "published_at": "2025-09-07T17:34:00.000Z",
-      "summary": "Israeli Astronomical Association is broadcasting the full lunar eclipse live."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -590,26 +740,6 @@
       "image": null,
       "published_at": "2025-09-07T17:31:46.000Z",
       "summary": "The petition alleged that the policy of trimming down food counts as hunger and holding prisoners in torturous conditions, which goes against both Israeli law and international law. "
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Signs of stress? Hamas continues to ask for ceasefire",
-      "url": "https://www.israelnationalnews.com/news/414533",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1197530.jpg",
-      "published_at": "2025-09-07T17:28:40.000Z",
-      "summary": "A senior Hamas official says that the organization agrees to the mediators' proposal and is ready to examine any new proposal that will lead to a ceasefire and relief for Gaza residents."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Presnel Kimpembe Joins Qatar Sports Club Amidst Injury Aftermath - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmVBdlRYczFmNTlJQzgwbVJEY1FoSHd2VU55blotaXQyY0lVcUFKWXBPZmFBOHhpMWpHSVRjalYxVFN5Q3AwdmVhMXRDZTZ1bTYyZzlCb0NaVExwOEptM2hLdUd1N2R1VW9LeGNvakhIQUF5UGd6b25GaXBaTlJzM0djVXNiZVJicFdSOEpwRWI1Y1pEZjRnZGdRY0Rtbm1tUmNfdlo4d01yWFNWWXBVaUFYN3p3TnVCT0xMcTUyd9IBxAFBVV95cUxNdzZJcnFWQXpyd3NNbExZUEdzZXJXVzdCLVBneGY0UUl1RVQ0TlFnYVhyTTZJaUlLVHZRQkd6c0p1b214ZGhBcWhLNkt4YTB2cmNIaHJGRHoxdElyOXdmWUd3UzZfNzlnSzJsRTdRd2pKc1lwa1FzYzk2S1dLSzFzUG5vZzRpOXdEWjk3c19sdDgxQnlGR1p4QmR4TlkyVC1OZDNNQ2FXdC1UVnVUc0ZVRkNXbFFKRmNDUWlCQ3hxUFBRNmVh?oc=5",
-      "image": null,
-      "published_at": "2025-09-07T17:27:22.000Z",
-      "summary": "Presnel Kimpembe Joins Qatar Sports Club Amidst Injury Aftermath  Devdiscourse"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1032,16 +1162,6 @@
       "summary": "A red racing car has been sighted on motorways in the Czech Republic since 2019 but until now has evaded police."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Sa’ar: Recognizing Palestinian state ‘will push Israel to make unilateral decisions’",
-      "url": "https://www.timesofisrael.com/saar-recognizing-palestinian-state-will-push-israel-to-make-unilateral-decisions/",
-      "image": null,
-      "published_at": "2025-09-07T14:47:28.000Z",
-      "summary": "Alongside Danish counterpart, foreign minister vague on whether Israel will annex parts of West Bank; FMs clash over Gaza humanitarian situation — Denmark says Israel must do more\nThe post Sa’ar: Recognizing Palestinian state ‘will push Israel to make unilateral decisions’ appeared first on The Time"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1092,26 +1212,6 @@
       "summary": "Aid from the kingdom&#039;s charity KSRelief will also help rebuild dozens of schools and bakeries throughout Syria."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Houthi drone evades defenses, smashes into Ramon Airport terminal in south; one hurt",
-      "url": "https://www.timesofisrael.com/houthi-drone-evades-defenses-smashes-into-ramon-airport-terminal-in-south-one-hurt/",
-      "image": null,
-      "published_at": "2025-09-07T14:02:24.000Z",
-      "summary": "Military probe finds explosive-laden UAV from Yemen was detected, but not classified as threat; Air Force shot down 3 other drones on Egyptian border minutes before airport impact\nThe post Houthi drone evades defenses, smashes into Ramon Airport terminal in south; one hurt appeared first on The Time"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Netanyahu to sign E1 &#8216;framework agreement&#8217; in Ma&#8217;ale Adumim this week &#8211; report",
-      "url": "https://www.timesofisrael.com/netanyahu-to-sign-e1-framework-agreement-in-maale-adumim-this-week-report/",
-      "image": null,
-      "published_at": "2025-09-07T13:56:51.000Z",
-      "summary": "Ma'ale Adumim mayor insists time is ripe for annexing West Bank, but says he's unaware of intention to ink a deal with the PM on plan for controversial settlement expansion\nThe post Netanyahu to sign E1 &#8216;framework agreement&#8217; in Ma&#8217;ale Adumim this week &#8211; report appeared first "
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1140,16 +1240,6 @@
       "image": null,
       "published_at": "2025-09-07T13:38:38.000Z",
       "summary": "כשעתיים אחרי פגיעת הכטב\"ם החות'י ללא התרעה, וחרף ההרס באולם הנוסעים, הודיעו בשדה התעופה ברמון על חזרה לפעילות מלאה: \"אירוע שבמזל רב הסתיים בלי הרוגים\". במד\"א סיפרו על 8 פצועים קל ונפגעי חרדה שפונו לבית החולים, נוסעת ששהתה במקום: \"אנשים נלחצו, רצו לתוך הטרמינל כשעוד היה עשן\""
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "&#8216;God&#8217;s influencer&#8217;: Pope Leo proclaims first millennial saint at Vatican",
-      "url": "https://www.timesofisrael.com/gods-influencer-pope-leo-proclaims-first-millennial-saint-at-vatican/",
-      "image": null,
-      "published_at": "2025-09-07T13:30:14.000Z",
-      "summary": "Carlo Acutis, who died at 15, canonized for documenting miracles and other elements of Catholicism online; Vatican criticized for overlooking antisemitic motifs tied to some of the miracles\nThe post &#8216;God&#8217;s influencer&#8217;: Pope Leo proclaims first millennial saint at Vatican appeared f"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1392,26 +1482,6 @@
       "summary": "Two Palestinians injured as settlers target homes while Israel&#039;s national security minister participates in storming."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אישום נגד המורה לאנגלית מפ\"ת: \"עבירות מין רבות וחמורות בתלמידה בת 12, במשך שנתיים\"",
-      "url": "https://www.ynet.co.il/news/article/skq4lyjqlg",
-      "image": null,
-      "published_at": "2025-09-07T10:40:18.000Z",
-      "summary": "המורה אוראל שרון הואשם בשורה ארוכה של עבירות מין בתלמידתו בחטיבת הביניים. לפי האישום, הוא ביצע בה את המעשים מאז הייתה התלמידה בת 12, והמשיך בהם כשנתיים"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "החות'ים שיבשו את האינטרנט במזרח התיכון? כבלים תת-ימיים נחתכו בים האדום",
-      "url": "https://www.ynet.co.il/news/article/sjkkma95le",
-      "image": null,
-      "published_at": "2025-09-07T10:37:47.000Z",
-      "summary": "מיקרוסופט ו-NetBlocks מדווחות על שיבושים בכמה מדינות בעקבות ניתוקים בכבלים ליד חופי תימן. בעבר הזהירו יריבי החות'ים: \"הם יפגעו בכבלים ובגישה לרשת\", בצנעא הכחישו. ברקע: איומי הארגון לנקום בישראל על חיסול הצמרת שלו"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1422,16 +1492,6 @@
       "summary": "We sail to sustain hope. To lose hope is to give up on the people of Gaza and surrender them to an evil regime."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אחרי ההפגנות מחוץ לבית הרמטכ\"ל: צה\"ל הכריז על האזור \"שטח צבאי סגור\"",
-      "url": "https://www.ynet.co.il/news/article/bjs8haqcex",
-      "image": null,
-      "published_at": "2025-09-07T10:29:47.000Z",
-      "summary": "\"ההחלטה התקבלה בהתאם לשיקולים מקצועיים וביטחוניים\", מסר דובר צה\"ל, בעוד ההנחיה תהיה בתוקף לפחות עד יום רביעי. תנועת \"אמא ערה\": \"צבא שמפחד מהאזרחים שעליהם הוא אמור להגן - הוא לא צבא העם\""
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1440,16 +1500,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d23/live/15063fd0-8be8-11f0-84c8-99de564f0440.png",
       "published_at": "2025-09-07T10:21:00.000Z",
       "summary": "The prime minister had struggled to inspire confidence as Japan faced economic headwinds."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"דיקטטורה לפי הספר\": מפגינים מעידים ששוטרים סמויים עקבו אחריהם ואיימו",
-      "url": "https://www.ynet.co.il/news/article/b1nknx99xg",
-      "image": null,
-      "published_at": "2025-09-07T10:18:53.000Z",
-      "summary": "\"נסעו איתי וירדו בתחנה שלי. גם כשהלכתי לבית קפה הם היו איתי\": מוחים שהגיעו אמש לעצרת למען החטופים בירושלים סיפרו ל-ynet כי שוטרים בלבוש אזרחי עקבו אחריהם במשך קילומטרים. \"טורגטנו\", אמר אחד מהם, \"קיבלנו שיחות שכל דבר שקורה היום - הוא עלינו\". אחר הזהיר: \"זה מעבר לדיכוי מחאה רגיל\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1470,26 +1520,6 @@
       "image": null,
       "published_at": "2025-09-07T10:00:07.000Z",
       "summary": "A new public committee, led by senior medical experts, will oversee an expanded national response for wounded IDF soldiers, with a focus on psychological care and integration."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "עסקים נסגרו, שכירים פוטרו: הקשיים של משפחות משרתי המילואים, בצל הגיוס הנרחב",
-      "url": "https://www.ynet.co.il/news/article/rjcr7pq9ll",
-      "image": null,
-      "published_at": "2025-09-07T10:00:05.000Z",
-      "summary": "דוח חדש של הלמ\"ס חושף את המורכבות שאיתה נאלצות להתמודד משפחות המשרתים מאז פרוץ המלחמה, בזמן שעשרות אלפים גויסו שוב. 73% מבנות הזוג העצמאיות נפגעו תעסוקתית, 34% מהמשפחות חוות קושי כלכלי - וכמחצית מבנות הזוג של המשרתים נפגעו בלימודים האקדמיים | הנתונים המלאים"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בן 88 טבע למוות בחוף בנתניה",
-      "url": "https://www.ynet.co.il/news/article/r1tk06c9le",
-      "image": null,
-      "published_at": "2025-09-07T09:35:28.000Z",
-      "summary": "הקשיש נמשה מהמים בחוף סירונית כשהוא מחוסר הכרה ובמצב אנוש. צוותי מד\"א שהוזעקו למקום קבעו את מותו בתום פעולות ההחייאה"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1560,16 +1590,6 @@
       "image": null,
       "published_at": "2025-09-07T08:10:53.000Z",
       "summary": "“Israel requires a clear law, one that defines any NGO funded by a foreign government as a foreign agent, with binding restrictions and transparency,\" Moshe Fuzaylov said."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Video: Protests in US over deployment of national guard troops",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/7/video-protests-in-us-over-deployment-of-national-guard-troops?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-07T08:08:17.000Z",
-      "summary": "Thousands of protesters marched in Washington DC and Chicago in the US, to denounce deployment of National Guard troops."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1850,16 +1870,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-2076-d1da-a3df-b57698e80000/94/35/ddd109d942538c3ee001eb2df37c/006143.jpg?height=81",
       "published_at": "2025-09-06T19:27:05.000Z",
       "summary": "Germany's Bild newspaper reported that former security service head and cabinet minister Jacob Perry orchestrated the abduction of Christina Block's two children from their father. Block is the heiress to Germany's Block House steakhouse chain, and her fortune is estimated at hundreds of millions of"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Terrorist who boasted of murdering ten Israelis on Oct. 7 killed in IDF strike - report",
-      "url": "https://www.jpost.com/israel-news/article-866559",
-      "image": null,
-      "published_at": "2025-09-06T19:13:32.000Z",
-      "summary": "In the chilling conversation, Afana repeatedly bragged about the murders, with the clip revealed two and a half weeks after the massacre during a discussion at the UN Security Council, Ynet reported."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2989,16 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856782",
       "image": null,
       "published_at": "2025-06-06T08:35:51.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "SpaceX will not decommission Dragon, Musk says",
-      "url": "https://www.jpost.com/breaking-news/article-856781",
-      "image": null,
-      "published_at": "2025-06-06T04:46:02.000Z",
       "summary": ""
     }
   ]
