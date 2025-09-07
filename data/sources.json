@@ -1,9 +1,15 @@
 {
   "topics": [
-    "OSINT",
-    "News"
+    "News",
+    "OSINT"
   ],
   "sources": [
+    {
+      "name": "Al Jazeera — All News",
+      "topic": "News",
+      "type": "rss",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml"
+    },
     {
       "name": "Associated Press",
       "topic": "News",
@@ -17,10 +23,46 @@
       "url": "http://feeds.bbci.co.uk/news/world/rss.xml"
     },
     {
+      "name": "Haaretz — All Headlines",
+      "topic": "News",
+      "type": "rss",
+      "url": "https://www.haaretz.com/cmlink/haaretz-com-all-headlines-rss-1.4605102"
+    },
+    {
+      "name": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "type": "rss",
+      "url": "https://www.jpost.com/rss/rssfeedsheadlines.aspx"
+    },
+    {
+      "name": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "type": "rss",
+      "url": "https://www.jpost.com/rss/rssfeedsisraelnews.aspx"
+    },
+    {
       "name": "Reuters World",
       "topic": "News",
       "type": "rss",
       "url": "https://www.reuters.com/world/rss"
+    },
+    {
+      "name": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "type": "rss",
+      "url": "https://start.me/p/9EQrXa/10-mideast.rss"
+    },
+    {
+      "name": "Times of Israel — All",
+      "topic": "News",
+      "type": "rss",
+      "url": "https://www.timesofisrael.com/feed/"
+    },
+    {
+      "name": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "type": "rss",
+      "url": "http://www.ynet.co.il/Integration/StoryRss2.xml"
     },
     {
       "name": "Bellingcat",
@@ -47,6 +89,12 @@
       "url": "https://www.reddit.com/r/GreatOSINT/.rss"
     },
     {
+      "name": "r/PrivacySecurityOSINT (Reddit)",
+      "topic": "OSINT",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/PrivacySecurityOSINT/.rss"
+    },
+    {
       "name": "r/osint",
       "topic": "OSINT",
       "type": "rss",
@@ -63,12 +111,6 @@
       "topic": "OSINT",
       "type": "rss",
       "url": "https://www.reddit.com/r/privacy/.rss"
-    },
-    {
-      "name": "r/PrivacySecurityOSINT (Reddit)",
-      "topic": "OSINT",
-      "type": "rss",
-      "url": "https://www.reddit.com/r/PrivacySecurityOSINT/.rss"
     }
   ]
 }
