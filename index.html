@@ -1,56 +1,60 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="h-full">
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>My Dashboard</title>
-  <meta name="description" content="Personal dashboard: news, OSINT, and tools." />
-  <meta name="theme-color" content="#0f172a" />
-
-  <!-- Open Graph / Share -->
+  <meta name="description" content="Personal OSINT & news dashboard." />
+  <meta name="theme-color" content="#0b1020" />
   <meta property="og:title" content="My Dashboard" />
-  <meta property="og:description" content="Personal dashboard: news, OSINT, and tools." />
+  <meta property="og:description" content="Personal OSINT & news dashboard." />
   <meta property="og:image" content="assets/og/cover.png" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="__REPLACE_WITH_PAGES_URL__" />
-
-  <!-- Icons (user will upload binaries into /assets/icons/) -->
   <link rel="icon" href="assets/icons/favicon.ico" />
   <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png" />
   <link rel="manifest" href="manifest.webmanifest" />
-  <link rel="stylesheet" href="styles.css" />
-
-  <!-- Minimal modern CSS (no build step). Tailwind via CDN for fast styling. -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Plus+Jakarta+Sans:wght@400;700;800&display=swap" rel="stylesheet">
   <script src="https://cdn.tailwindcss.com"></script>
-  <style>
-    @media (prefers-reduced-motion: reduce) {
-      * { animation: none !important; transition: none !important; }
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: { sans: ['Inter','system-ui','sans-serif'], display: ['Plus Jakarta Sans','Inter','system-ui','sans-serif'] },
+          colors: { ink:'#0b1020' }
+        }
+      }
     }
-  </style>
+  </script>
+  <link rel="stylesheet" href="styles.css" />
 </head>
-<body class="bg-slate-950 text-slate-100 min-h-screen">
-  <!-- Top bar -->
+<body class="h-full bg-ink text-slate-100 selection:bg-cyan-500/30">
+  <!-- AURORA background -->
+  <div aria-hidden="true" class="pointer-events-none fixed inset-0 -z-10 overflow-hidden">
+    <div class="abs-aurora a1"></div>
+    <div class="abs-aurora a2"></div>
+    <div class="abs-aurora a3"></div>
+    <div class="grain"></div>
+  </div>
+
+  <!-- Header -->
   <header class="sticky top-0 z-50 backdrop-blur border-b border-white/5 bg-black/30">
     <div class="mx-auto max-w-6xl px-4 py-3 flex items-center justify-between">
-      <a href="index.html" class="text-xl font-display font-extrabold tracking-tight">
-        <span class="bg-gradient-to-r from-white via-cyan-200 to-indigo-300 bg-clip-text text-transparent">My Dashboard</span>
-      </a>
+      <a href="index.html" class="text-xl font-display font-extrabold tracking-tight brand-gradient">My Dashboard</a>
       <nav class="hidden sm:flex items-center gap-2">
-        <a href="index.html" class="nav-chip nav-chip--active">Feed</a>
+        <a href="index.html" class="nav-chip nav-active">Feed</a>
         <a href="feeds.html" class="nav-chip">Feeds</a>
         <a href="library.html" class="nav-chip">Bookmarks</a>
         <button id="installBtn" class="btn-subtle">Install</button>
         <button id="themeToggle" class="btn-subtle" title="Theme">Theme</button>
       </nav>
-      <button id="hamburger" class="sm:hidden inline-flex items-center gap-2 rounded-xl px-3 py-2 border border-white/10 bg-white/5 hover:bg-white/10 transition">
-        <svg width="18" height="18" viewBox="0 0 24 24" class="opacity-90"><path fill="currentColor" d="M4 6h16v2H4zm0 5h16v2H4zm0 5h16v2H4"/></svg>
-        <span class="text-sm">Menu</span>
-      </button>
+      <button id="hamburger" class="hamburger sm:hidden"><span>Menu</span></button>
     </div>
-    <div id="menuOverlay" data-open="false" class="fixed inset-0 hidden">
-      <div class="absolute inset-0 bg-black/60 backdrop-blur-sm"></div>
-      <div class="absolute right-3 top-3 w-[88%] sm:w-[420px] rounded-2xl border border-white/10 bg-gradient-to-b from-white/10 to-white/5 shadow-glow p-4 origin-top-right scale-95 opacity-0 transition-[opacity,transform] duration-200">
+    <!-- overlay menu -->
+    <div id="menuOverlay" data-open="false" class="overlay hidden">
+      <div class="overlay-backdrop"></div>
+      <div class="overlay-panel">
         <div class="flex items-center justify-between">
           <h2 class="font-display font-bold text-lg">Quick nav</h2>
           <button id="menuClose" class="btn-subtle">Close</button>
@@ -59,50 +63,57 @@
           <a class="menu-item" href="index.html">Feed</a>
           <a class="menu-item" href="feeds.html">Feeds</a>
           <a class="menu-item" href="library.html">Bookmarks</a>
+          <button id="menuInstall" class="menu-item">Install app</button>
+          <button id="menuTheme" class="menu-item">Toggle theme</button>
         </div>
       </div>
     </div>
   </header>
 
-  <!-- Content -->
-  <main class="mx-auto max-w-5xl px-4 py-6 space-y-6">
-    <section class="flex items-center justify-between">
+  <!-- Main -->
+  <main class="mx-auto max-w-6xl px-4 py-6 space-y-6">
+    <section class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-3">
       <div>
-        <h2 class="text-lg font-semibold">Today</h2>
+        <h1 class="text-2xl font-display font-extrabold tracking-tight">Today</h1>
         <p id="lastRefreshed" class="text-sm text-slate-400">Last refreshed: —</p>
       </div>
-      <div class="flex items-center gap-2">
-        <!-- NOTE: We cannot safely trigger the Action from the client without a token.
-             This button simply reloads feeds.json; add a pinned link to the Actions page below. -->
-        <button id="reloadBtn" class="px-3 py-2 rounded-lg bg-indigo-600 hover:bg-indigo-500 transition">
-          Reload feed
-        </button>
-        <a id="actionsLink" target="_blank" rel="noopener"
-           class="px-3 py-2 rounded-lg bg-slate-800 hover:bg-slate-700 transition"
-           href="https://github.com/__OWNER__/__REPO__/actions/workflows/fetch-feeds.yml">
-          Open GitHub Actions
-        </a>
+      <div class="flex flex-wrap items-center gap-2">
+        <button id="reloadBtn" class="btn-primary">Reload feed</button>
+        <select id="density" class="ui-select">
+          <option value="comfortable">Comfortable</option>
+          <option value="compact">Compact</option>
+        </select>
+        <select id="viewMode" class="ui-select">
+          <option value="cards">Cards</option>
+          <option value="list">List</option>
+        </select>
+        <select id="topicFilter" class="ui-select">
+          <option value="all">All topics</option>
+          <option value="OSINT">OSINT</option>
+          <option value="News">News</option>
+        </select>
+        <button id="starToggle" class="btn-subtle" title="Show starred only">★</button>
       </div>
     </section>
 
-    <section id="feed" class="grid gap-4 md:grid-cols-2">
-      <!-- Cards injected by app.js -->
+    <section id="feed" class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
     </section>
   </main>
 
-  <footer class="mx-auto max-w-5xl px-4 pb-8 pt-2 text-xs text-slate-500">
+  <div id="toastHost" class="toast-host"></div>
+
+  <footer class="mx-auto max-w-6xl px-4 pb-8 pt-2 text-xs text-slate-400">
     <p>Offline-ready. Data aggregated by GitHub Actions into <code>/data/feeds.json</code>.</p>
   </footer>
-
-  <div id="toastHost" class="fixed bottom-4 left-1/2 -translate-x-1/2 z-50 space-y-2"></div>
 
   <script type="module" src="js/ui.js"></script>
   <script type="module" src="js/app.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('service-worker.js').catch(console.error);
-      });
+      addEventListener('load', () => navigator.serviceWorker.register('service-worker.js').catch(console.error));
     }
   </script>
 </body>
