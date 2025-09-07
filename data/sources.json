@@ -65,6 +65,42 @@
       "url": "http://www.ynet.co.il/Integration/StoryRss2.xml"
     },
     {
+      "name": "r/ChatGPT (Reddit)",
+      "topic": "News",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/ChatGPT/.rss"
+    },
+    {
+      "name": "r/ChatGPTJailbreak (Reddit)",
+      "topic": "News",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/ChatGPTJailbreak/.rss"
+    },
+    {
+      "name": "r/ChatGPTNSFW (Reddit)",
+      "topic": "News",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/ChatGPTNSFW/.rss"
+    },
+    {
+      "name": "r/ChatGPTPro (Reddit)",
+      "topic": "News",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/ChatGPTPro/.rss"
+    },
+    {
+      "name": "r/ChatGPTforWork (Reddit)",
+      "topic": "News",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/ChatGPTforWork/.rss"
+    },
+    {
+      "name": "r/chatgpt_prompts_ (Reddit)",
+      "topic": "News",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/chatgpt_prompts_/.rss"
+    },
+    {
       "name": "Bellingcat",
       "topic": "OSINT",
       "type": "rss",
