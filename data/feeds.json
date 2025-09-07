@@ -1,25 +1,265 @@
 {
-  "generated_at": "2025-09-07T05:34:35.734Z",
+  "generated_at": "2025-09-07T06:10:57.843Z",
   "items": [
     {
-      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
-      "source": "Krebs on Security",
-      "topic": "Security",
-      "title": "GOP Cries Censorship Over Spam Filters That Work",
-      "url": "https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/",
-      "image": null,
-      "published_at": "2025-09-06T03:23:35.000Z",
-      "summary": "The chairman of the Federal Trade Commission (FTC) last week sent a letter to Google's CEO demanding to know why Gmail was blocking messages from Republican senders while allegedly failing to block similar missives supporting Democrats. The letter followed media reports accusing Gmail of disproporti"
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "One of America's most wanted evaded the FBI for 21 years - only to be found in Wales",
+      "url": "https://www.bbc.com/news/articles/ckgjpn8gl97o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f75/live/b9e24860-8b29-11f0-8abb-4d8cd1fe8125.png",
+      "published_at": "2025-09-07T06:08:20.000Z",
+      "summary": "The prime suspect for two bombings in California in 2003 was found in a Welsh cottage last year."
     },
     {
-      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
-      "source": "Krebs on Security",
-      "topic": "Security",
-      "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
-      "url": "https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/",
-      "image": null,
-      "published_at": "2025-09-01T21:55:04.000Z",
-      "summary": "The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns t"
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ukraine's main government building in Kyiv hit for first time, PM says",
+      "url": "https://www.bbc.com/news/articles/cpq5dl5y4nlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e006/live/9d7ada90-8bae-11f0-94f7-a595856b120f.jpg",
+      "published_at": "2025-09-07T05:58:41.000Z",
+      "summary": "Several residential buildings were reported partially destroyed and two people, including a one-year-old, killed in the attacks."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Boko Haram kills at least 60 in overnight attack on Nigerian village",
+      "url": "https://www.bbc.com/news/articles/c3rvxdw52vdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a0a/live/0b476e30-8b5f-11f0-b391-6936825093bd.png",
+      "published_at": "2025-09-06T20:57:46.000Z",
+      "summary": "Many of those killed had recently returned to the village in Borno State, following years of displacement. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'We are the troops': Inside Chicago's split communities as Trump vows to deploy National Guard",
+      "url": "https://www.bbc.com/news/articles/c4gj489q6e0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc96/live/eaa23ae0-8acb-11f0-8949-d38631893a6a.jpg",
+      "published_at": "2025-09-06T20:54:22.000Z",
+      "summary": "Some locals are working to prevent youngsters from sliding into gangs, but others ask the troops to come sooner."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Cable snapped before Lisbon funicular crash, investigators say",
+      "url": "https://www.bbc.com/news/articles/c2dnp9pre2lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1692/live/b6e4a9e0-8b57-11f0-bc53-038b81db70b3.png",
+      "published_at": "2025-09-06T19:44:26.000Z",
+      "summary": "The rest of the mechanism worked properly, says a preliminary statement into the crash which killed 16 people."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Israel destroys second high-rise as assault on Gaza City intensifies ",
+      "url": "https://www.bbc.com/news/articles/cz9jpzql958o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67a0/live/d8f798e0-8b38-11f0-a23b-03b8d466a85d.png",
+      "published_at": "2025-09-06T18:44:36.000Z",
+      "summary": "Israel continues to expand its military operation in Gaza, urging Palestinians to leave Gaza City and move south."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Mourners pay tribute at public viewing of Giorgio Armani's coffin",
+      "url": "https://www.bbc.com/news/videos/cnvrd46e4q1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1d/live/a8215550-8b40-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "published_at": "2025-09-06T17:24:45.000Z",
+      "summary": "Mourners queue in Milan to say goodbye to the Italian designer who died on Thursday, aged 91."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Seoul holds emergency meeting after citizens detained in US Hyundai raid",
+      "url": "https://www.bbc.com/news/articles/c5yvjnp295xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8306/live/fbbb4c60-8b3c-11f0-a23b-03b8d466a85d.jpg",
+      "published_at": "2025-09-06T16:57:21.000Z",
+      "summary": "US immigration officials detained 475 workers on Thursday - most of them South Korean nationals - saying they were working illegally."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US tells Kilmar Ábrego García he faces deportation to Eswatini",
+      "url": "https://www.bbc.com/news/articles/cn0r3nx4rd7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fdf/live/88890610-8b19-11f0-b7cb-a948b12ba583.jpg",
+      "published_at": "2025-09-06T13:22:47.000Z",
+      "summary": "The Salvadoran has been at the heart of an immigration row since he was mistakenly deported in March."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'Strange noises' heard before squatter found in house with lights, TV and bed",
+      "url": "https://www.bbc.com/news/articles/c059gqml15go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/203c/live/bd4c8200-8b14-11f0-b7cb-a948b12ba583.jpg",
+      "published_at": "2025-09-06T11:52:58.000Z",
+      "summary": "The owner had no idea the intruder was living in the crawl space beneath the home near Portland, Oregon."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Sudanese villagers dig with hands to reach landslide victims, group says",
+      "url": "https://www.bbc.com/news/articles/cn0xepvr0x4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4897/live/b220ae40-8b0c-11f0-9a92-61c69444c65a.png",
+      "published_at": "2025-09-06T11:02:38.000Z",
+      "summary": "People have no access to tools or machinery to conduct their rescue efforts, Save the Children says."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump says Venezuelan jets will be shot down if they endanger US ships",
+      "url": "https://www.bbc.com/news/articles/cr70511v774o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c86/live/16090120-8ae8-11f0-bf71-952c4cc93229.jpg",
+      "published_at": "2025-09-06T10:12:33.000Z",
+      "summary": "Venezuelan President Nicolás Maduro says \"differences\" between the countries do not justify a \"military conflict\"."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'No doubt' Russia will cross Nato border if Ukraine falls, former US VP says",
+      "url": "https://www.bbc.com/news/videos/cq65410424qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1336/live/f8e1c100-8b04-11f0-b391-6936825093bd.jpg",
+      "published_at": "2025-09-06T09:46:41.000Z",
+      "summary": "Former US Vice-President Mike Pence calls for security guarantees in Ukraine to help deliver “just and lasting peace”."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "The sunscreen scandal shocking Australia - the world's skin cancer hotspot",
+      "url": "https://www.bbc.com/news/articles/c4gzl41rpdqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3042/live/3de63510-8a4c-11f0-84c8-99de564f0440.jpg",
+      "published_at": "2025-09-06T05:41:05.000Z",
+      "summary": "It has shaken consumer trust and raised questions about global sunscreen regulation."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Man dies after suspected shark attack in Sydney",
+      "url": "https://www.bbc.com/news/articles/cy8r9p28yp7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1f9/live/3a6d1d00-8ad2-11f0-aac3-89eb0eb0ce4d.jpg",
+      "published_at": "2025-09-06T05:06:06.000Z",
+      "summary": "A morning surfer \"died at the scene\" after being pulled out of the water, Australian police say."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Judge rules ending protections for Venezuelan and Haitian migrants is unlawful",
+      "url": "https://www.bbc.com/news/articles/c3vzknpywp4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a928/live/0da0d120-8aa7-11f0-8d32-095c155d0044.jpg",
+      "published_at": "2025-09-06T02:27:27.000Z",
+      "summary": "The decision is in response to the Trump administration's efforts to end temporary protected status (TPS). "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "New Bollywood romcom sparks debate over stereotyping south India",
+      "url": "https://www.bbc.com/news/articles/c4gveer8wgro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0f7/live/5432c890-8a26-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "published_at": "2025-09-06T00:46:16.000Z",
+      "summary": "Param Sundari has reignited conversation on how India's most influential film industry represents non-Hindi speaking states."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Rosenberg: What's behind Putin's uncompromising stance on Ukraine?",
+      "url": "https://www.bbc.com/news/articles/c0m40pv44kgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/240a/live/f3044bd0-8ac9-11f0-b391-6936825093bd.jpg",
+      "published_at": "2025-09-06T00:42:54.000Z",
+      "summary": "Moscow's diplomatic success in China, and Trump's lack of action, have emboldened Putin, reports Steve Rosenberg."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Why the world is watching RFK's fight with US health agency",
+      "url": "https://www.bbc.com/news/articles/c62ngkpxk9lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5db9/live/054073e0-8a67-11f0-b758-393fbf15c843.jpg",
+      "published_at": "2025-09-06T00:24:45.000Z",
+      "summary": "The US health secretary's plans could have a huge impact on health policy not just in the US, but across the globe."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Watch: What's in the 'missing minute' of Epstein's jail video?",
+      "url": "https://www.bbc.com/news/videos/c98eyn3xey2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8108/live/dd2d4e60-8aab-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "published_at": "2025-09-05T23:01:23.000Z",
+      "summary": "The US House Oversight Committee has released new surveillance footage recorded hours before the convicted paedophile's death."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Russia targets WhatsApp and pushes new 'super-app' as internet blackouts grow",
+      "url": "https://www.bbc.com/news/articles/ce9rj2145jgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a0d/live/687ca970-8a5c-11f0-8d38-636775327ed2.jpg",
+      "published_at": "2025-09-05T23:00:51.000Z",
+      "summary": "Millions of Russians have faced restrictions on popular apps while a new app called Max is aggressively promoted."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Three ways Epstein scandal could go for Trump",
+      "url": "https://www.bbc.com/news/articles/c059gmypj4jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead0/live/7469b5e0-8a5a-11f0-84c8-99de564f0440.jpg",
+      "published_at": "2025-09-05T17:27:51.000Z",
+      "summary": "This week the victims of Epstein's crimes came forward to demand more information, piling pressure on the White House."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'The hit was very hard': Eyewitness in second carriage shares video of crash moment",
+      "url": "https://www.bbc.com/news/videos/c3vzx4wk10ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c9/live/9e17fc20-89c5-11f0-84c8-99de564f0440.jpg",
+      "published_at": "2025-09-04T19:42:39.000Z",
+      "summary": "The incident in Lisbon's funicular has left 16 dead and multiple injured."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Watch: Key moments from RFK Jr's heated Senate hearing",
+      "url": "https://www.bbc.com/news/videos/ce8604l4vkmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03b8/live/78b62380-89d4-11f0-b391-6936825093bd.jpg",
+      "published_at": "2025-09-04T18:01:30.000Z",
+      "summary": "The US health secretary faced questions on Covid deaths and vaccines a week after firing the head of the Centers for Disease Control and Prevention."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'He doesn't follow trends': How celebrities described Armani over the years",
+      "url": "https://www.bbc.com/news/videos/c5y85eyvlm0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a0f/live/bc65a290-89a2-11f0-b391-6936825093bd.jpg",
+      "published_at": "2025-09-04T15:31:16.000Z",
+      "summary": "The Italian fashion designer and billionaire brand owner Giorgio Armani has died at the age of 91."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Watch: BBC correspondent at scene of Lisbon funicular crash",
+      "url": "https://www.bbc.com/news/videos/c7v15j8ydreo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a9f/live/b9923710-897d-11f0-84c8-99de564f0440.jpg",
+      "published_at": "2025-09-04T11:08:23.000Z",
+      "summary": "Local media reports suggest a cable came loose along the railway's route, causing it to lose control - a national day of mourning is being observed"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
@@ -30,56 +270,6 @@
       "image": null,
       "published_at": "2025-09-01T09:44:41.000Z",
       "summary": "Join Bellingcat’s WhatsApp Channel for the latest news and resources from us. How does one monitor a conflict zone on the brink of civil war, especially in a region which is difficult to access, experiences frequent internet shutdowns and where misinformation is common? In this guide, we outline the"
-    },
-    {
-      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
-      "source": "Krebs on Security",
-      "topic": "Security",
-      "title": "Affiliates Flock to &#8216;Soulless&#8217; Scam Gambling Machine",
-      "url": "https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/",
-      "image": null,
-      "published_at": "2025-08-28T17:21:32.000Z",
-      "summary": "Last month, KrebsOnSecurity tracked the sudden emergence of hundreds of polished online gaming and wagering websites that lure people with free credits and eventually abscond with any cryptocurrency funds deposited by players. We've since learned that these scam gambling sites have proliferated than"
-    },
-    {
-      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
-      "source": "Krebs on Security",
-      "topic": "Security",
-      "title": "DSLRoot, Proxies, and the Threat of &#8216;Legal Botnets&#8217;",
-      "url": "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/",
-      "image": null,
-      "published_at": "2025-08-26T14:05:12.000Z",
-      "summary": "The cybersecurity community on Reddit responded in disbelief this month when a self-described Air National Guard member with top secret security clearance began questioning the arrangement they'd made with company called DSLRoot, which was paying $250 a month to plug a pair of laptops into the Reddi"
-    },
-    {
-      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
-      "source": "Krebs on Security",
-      "topic": "Security",
-      "title": "SIM-Swapper, Scattered Spider Hacker Gets 10 Years",
-      "url": "https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/",
-      "image": null,
-      "published_at": "2025-08-21T01:47:22.000Z",
-      "summary": "A 21-year-old Florida man at the center of a prolific cybercrime group known as \"Scattered Spider\" was sentenced to 10 years in federal prison today, and ordered to pay roughly $13 million in restitution to victims.\n\nNoah Michael Urban of Palm Coast, Fla. pleaded guilty in April 2025 to charges of w"
-    },
-    {
-      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
-      "source": "Krebs on Security",
-      "topic": "Security",
-      "title": "Oregon Man Charged in &#8216;Rapper Bot&#8217; DDoS Service",
-      "url": "https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/",
-      "image": null,
-      "published_at": "2025-08-19T20:51:06.000Z",
-      "summary": "A 22-year-old Oregon man has been arrested on suspicion of operating \"Rapper Bot,\" a massive botnet used to power a service for launching distributed denial-of-service (DDoS) attacks against targets -- including a March 2025 DDoS that knocked Twitter/X offline. The Justice Department asserts the sus"
-    },
-    {
-      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
-      "source": "Krebs on Security",
-      "topic": "Security",
-      "title": "Mobile Phishers Target Brokerage Accounts in &#8216;Ramp and Dump&#8217; Cashout Scheme",
-      "url": "https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/",
-      "image": null,
-      "published_at": "2025-08-15T18:27:05.000Z",
-      "summary": "Cybercriminal groups peddling sophisticated phishing kits that convert stolen card data into mobile wallets have recently shifted their focus to targeting customers of brokerage services, new research shows. Undeterred by security controls at these trading platforms that block users from wiring fund"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
@@ -102,26 +292,6 @@
       "summary": "Bellingcat’s Auto Archiver is a tool aimed at preserving online digital content before it can be modified, deleted or taken down. Publicly launched in 2022, it has preserved over 150,000 web pages and social media posts to date. The Auto Archiver has been used by Bellingcat’s journalists to preserve"
     },
     {
-      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
-      "source": "Krebs on Security",
-      "topic": "Security",
-      "title": "Microsoft Patch Tuesday, August 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/",
-      "image": null,
-      "published_at": "2025-08-12T22:14:41.000Z",
-      "summary": "Microsoft today released updates to fix more than 100 security flaws in its Windows operating systems and other software. At least 13 of the bugs received Microsoft's most-dire \"critical\" rating, meaning they could be abused by malware or malcontents to gain remote access to a Windows system with li"
-    },
-    {
-      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
-      "source": "Krebs on Security",
-      "topic": "Security",
-      "title": "KrebsOnSecurity in New &#8216;Most Wanted&#8217; HBO Max Series",
-      "url": "https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/",
-      "image": null,
-      "published_at": "2025-08-08T21:38:01.000Z",
-      "summary": "A new documentary series about cybercrime airing next month on HBO Max features interviews with Yours Truly. The four-part series follows the exploits of Julius Kivimäki, a prolific Finnish hacker recently convicted of leaking tens of thousands of patient records from an online psychotherapy practic"
-    },
-    {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
       "topic": "OSINT",
@@ -140,16 +310,6 @@
       "image": null,
       "published_at": "2025-08-07T13:42:10.000Z",
       "summary": "This article is the result of a collaboration with Japanese publishing partner Nikkei. You can find Nikkei’s investigation here. Earlier this year, a man and a woman stood trial in a New York courtroom on charges related to the illicit drugs trade. They had been arrested as part of an undercover sti"
-    },
-    {
-      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
-      "source": "Krebs on Security",
-      "topic": "Security",
-      "title": "Who Got Arrested in the Raid on the XSS Crime Forum?",
-      "url": "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/",
-      "image": null,
-      "published_at": "2025-08-06T12:12:37.000Z",
-      "summary": "On July 22, 2025, the European police agency Europol said a long-running investigation led by the French Police resulted in the arrest of a 38-year-old administrator of XSS, a Russian-language cybercrime forum with more than 50,000 members. The action has triggered an ongoing frenzy of speculation a"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
