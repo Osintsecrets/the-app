@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-09-07T02:20:36.514Z",
+  "generated_at": "2025-09-07T03:12:48.848Z",
   "items": [
+    {
+      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
+      "source": "Krebs on Security",
+      "topic": "Security",
+      "title": "GOP Cries Censorship Over Spam Filters That Work",
+      "url": "https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/",
+      "image": null,
+      "published_at": "2025-09-06T03:23:35.000Z",
+      "summary": "The chairman of the Federal Trade Commission (FTC) last week sent a letter to Google's CEO demanding to know why Gmail was blocking messages from Republican senders while allegedly failing to block similar missives supporting Democrats. The letter followed media reports accusing Gmail of disproporti"
+    },
+    {
+      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
+      "source": "Krebs on Security",
+      "topic": "Security",
+      "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
+      "url": "https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/",
+      "image": null,
+      "published_at": "2025-09-01T21:55:04.000Z",
+      "summary": "The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns t"
+    },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
@@ -10,6 +30,56 @@
       "image": null,
       "published_at": "2025-09-01T09:44:41.000Z",
       "summary": "Join Bellingcat’s WhatsApp Channel for the latest news and resources from us. How does one monitor a conflict zone on the brink of civil war, especially in a region which is difficult to access, experiences frequent internet shutdowns and where misinformation is common? In this guide, we outline the"
+    },
+    {
+      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
+      "source": "Krebs on Security",
+      "topic": "Security",
+      "title": "Affiliates Flock to &#8216;Soulless&#8217; Scam Gambling Machine",
+      "url": "https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/",
+      "image": null,
+      "published_at": "2025-08-28T17:21:32.000Z",
+      "summary": "Last month, KrebsOnSecurity tracked the sudden emergence of hundreds of polished online gaming and wagering websites that lure people with free credits and eventually abscond with any cryptocurrency funds deposited by players. We've since learned that these scam gambling sites have proliferated than"
+    },
+    {
+      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
+      "source": "Krebs on Security",
+      "topic": "Security",
+      "title": "DSLRoot, Proxies, and the Threat of &#8216;Legal Botnets&#8217;",
+      "url": "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/",
+      "image": null,
+      "published_at": "2025-08-26T14:05:12.000Z",
+      "summary": "The cybersecurity community on Reddit responded in disbelief this month when a self-described Air National Guard member with top secret security clearance began questioning the arrangement they'd made with company called DSLRoot, which was paying $250 a month to plug a pair of laptops into the Reddi"
+    },
+    {
+      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
+      "source": "Krebs on Security",
+      "topic": "Security",
+      "title": "SIM-Swapper, Scattered Spider Hacker Gets 10 Years",
+      "url": "https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/",
+      "image": null,
+      "published_at": "2025-08-21T01:47:22.000Z",
+      "summary": "A 21-year-old Florida man at the center of a prolific cybercrime group known as \"Scattered Spider\" was sentenced to 10 years in federal prison today, and ordered to pay roughly $13 million in restitution to victims.\n\nNoah Michael Urban of Palm Coast, Fla. pleaded guilty in April 2025 to charges of w"
+    },
+    {
+      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
+      "source": "Krebs on Security",
+      "topic": "Security",
+      "title": "Oregon Man Charged in &#8216;Rapper Bot&#8217; DDoS Service",
+      "url": "https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/",
+      "image": null,
+      "published_at": "2025-08-19T20:51:06.000Z",
+      "summary": "A 22-year-old Oregon man has been arrested on suspicion of operating \"Rapper Bot,\" a massive botnet used to power a service for launching distributed denial-of-service (DDoS) attacks against targets -- including a March 2025 DDoS that knocked Twitter/X offline. The Justice Department asserts the sus"
+    },
+    {
+      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
+      "source": "Krebs on Security",
+      "topic": "Security",
+      "title": "Mobile Phishers Target Brokerage Accounts in &#8216;Ramp and Dump&#8217; Cashout Scheme",
+      "url": "https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/",
+      "image": null,
+      "published_at": "2025-08-15T18:27:05.000Z",
+      "summary": "Cybercriminal groups peddling sophisticated phishing kits that convert stolen card data into mobile wallets have recently shifted their focus to targeting customers of brokerage services, new research shows. Undeterred by security controls at these trading platforms that block users from wiring fund"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
@@ -32,6 +102,26 @@
       "summary": "Bellingcat’s Auto Archiver is a tool aimed at preserving online digital content before it can be modified, deleted or taken down. Publicly launched in 2022, it has preserved over 150,000 web pages and social media posts to date. The Auto Archiver has been used by Bellingcat’s journalists to preserve"
     },
     {
+      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
+      "source": "Krebs on Security",
+      "topic": "Security",
+      "title": "Microsoft Patch Tuesday, August 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/",
+      "image": null,
+      "published_at": "2025-08-12T22:14:41.000Z",
+      "summary": "Microsoft today released updates to fix more than 100 security flaws in its Windows operating systems and other software. At least 13 of the bugs received Microsoft's most-dire \"critical\" rating, meaning they could be abused by malware or malcontents to gain remote access to a Windows system with li"
+    },
+    {
+      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
+      "source": "Krebs on Security",
+      "topic": "Security",
+      "title": "KrebsOnSecurity in New &#8216;Most Wanted&#8217; HBO Max Series",
+      "url": "https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/",
+      "image": null,
+      "published_at": "2025-08-08T21:38:01.000Z",
+      "summary": "A new documentary series about cybercrime airing next month on HBO Max features interviews with Yours Truly. The four-part series follows the exploits of Julius Kivimäki, a prolific Finnish hacker recently convicted of leaking tens of thousands of patient records from an online psychotherapy practic"
+    },
+    {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
       "topic": "OSINT",
@@ -50,6 +140,16 @@
       "image": null,
       "published_at": "2025-08-07T13:42:10.000Z",
       "summary": "This article is the result of a collaboration with Japanese publishing partner Nikkei. You can find Nikkei’s investigation here. Earlier this year, a man and a woman stood trial in a New York courtroom on charges related to the illicit drugs trade. They had been arrested as part of an undercover sti"
+    },
+    {
+      "id": "Krebs on Security-aHR0cHM6Ly9rcmVic29uc2Vj",
+      "source": "Krebs on Security",
+      "topic": "Security",
+      "title": "Who Got Arrested in the Raid on the XSS Crime Forum?",
+      "url": "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/",
+      "image": null,
+      "published_at": "2025-08-06T12:12:37.000Z",
+      "summary": "On July 22, 2025, the European police agency Europol said a long-running investigation led by the French Police resulted in the arrest of a 38-year-old administrator of XSS, a Russian-language cybercrime forum with more than 50,000 members. The action has triggered an ongoing frenzy of speculation a"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
