@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-09-07T14:03:41.045Z",
+  "generated_at": "2025-09-07T14:32:38.163Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "High Court majority rules: Israel Prison Service fails to provide adequate nutrition to prisoners",
+      "url": "https://www.jpost.com/israel-news/article-866649",
+      "image": null,
+      "published_at": "2025-09-07T17:31:46.000Z",
+      "summary": "The petition alleged that the policy of trimming down food counts as hunger and holding prisoners in torturous conditions, which goes against both Israeli law and international law. "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -47,7 +57,7 @@
       "topic": "News",
       "title": "Scientists discover potential way to combat deadly weight loss in cancer patients",
       "url": "https://www.jpost.com/health-and-wellness/article-866643",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/679930",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/679930",
       "published_at": "2025-09-07T15:42:44.000Z",
       "summary": "Researchers at the Weizmann Institute of Science discovered a way to use pre-existing treatments to fight often terminal side effects of serious illnesses."
     },
@@ -82,6 +92,26 @@
       "summary": "Shaheen was sentenced to 27 years in prison for attempted murder and conspiracy to commit murder."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Social media influencer’s kidnap bid case: Islamabad court extends remand of suspect",
+      "url": "https://www.dawn.com/news/1940293/social-media-influencers-kidnap-bid-case-islamabad-court-extends-remand-of-suspect",
+      "image": "https://i.dawn.com/large/2025/09/07184116b741e10.webp",
+      "published_at": "2025-09-07T14:18:48.000Z",
+      "summary": "An Islamabad district and sessions court on Sunday extended the remand of a suspect, who allegedly threatened and attempted to abduct social media influencer Samiya Hijab.\nThe suspect was arrested on Monday and a case was registered in the capital’s Shalimar Police Station at her complaint under ..."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "פיצוצים אדירים בעיר עזה, התרעת פינוי לבניין נוסף | תיעוד",
+      "url": "https://www.ynet.co.il/news/article/r1xizgocgg",
+      "image": null,
+      "published_at": "2025-09-07T14:16:50.000Z",
+      "summary": ""
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -92,12 +122,52 @@
       "summary": "A YouGov poll found antisemitic attitudes in the UK at record highs, with 21% of Britons affirming antisemitic statements and young people showing growing hostility to Israel."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "PTI terminates basic party membership of 11 GB lawmakers, including CM Gulbar Khan",
+      "url": "https://www.dawn.com/news/1940286/pti-terminates-basic-party-membership-of-11-gb-lawmakers-including-cm-gulbar-khan",
+      "image": "https://i.dawn.com/large/2025/09/07172804068b3aa.webp",
+      "published_at": "2025-09-07T14:13:12.000Z",
+      "summary": "The PTI has terminated the basic party membership of 11 legislators of the Gilgit-Baltistan Assembly, including Chief Minister Gulbar Khan, saying that they made a forward bloc and voted against the party decision, it emerged on Sunday.\nMost of the suspended legislators are also members of Gulbar..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "\"A sense of community\" | New residence opened for lone national service volunteers",
+      "url": "https://www.israelnationalnews.com/news/414524",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1198397.jpg",
+      "published_at": "2025-09-07T14:13:00.000Z",
+      "summary": "Nefesh B’Nefesh opened a modern Lone Bnot Sherut residence in Jerusalem, providing 50 furnished apartments, guidance, community, and support for 95 young women. Arutz Sheva joined the inauguration."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Drug Sales and Sexual Abuse Allegations: What’s Happening Inside Taliban Prison in Herat? - Hasht-e Subh Daily",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekM0Qm53UEdobl9LWmJHT1d6OENDTzFieGl2M25kMDZ0YnJTbGZkVHg2Y1pyQTVySFhUMnRtVUEyekYydmNQNVk2V09XZm1jejl6WlZqVlNZUVFtczBFVC1oZU1GeW5kcG9DNVlmRjh2Um1JNXBZZ2RaWmItY2F6VDU3TGRNNkVncTZwS01rLW9ZZk4wRHNiQTVBUUhYMDZHdWtKbDYwb3pDeENQNmc?oc=5",
+      "image": null,
+      "published_at": "2025-09-07T14:10:31.000Z",
+      "summary": "Drug Sales and Sexual Abuse Allegations: What’s Happening Inside Taliban Prison in Herat?  Hasht-e Subh Daily"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Blood Moon 2025: Total lunar eclipse set to light up UAE skies — how to watch live - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnR4QXNVeHRfSVpEcVdOVGdFanFZSTRfMzJFYVljZndEVWxNQmNmQXNfb2lQbWVtX0tpTmVNTkJvZGxSbVlHNzkxenQtQUllcGpnZlJBeG8zWDNmS1B3RkliLTJMQjNBN0FYNTRtRW0zdkV5dXhhV0N6M2RVQUg4bXhVWkNLRHRHNGRPTGNGdXhyRXlKVTMtTXg5cnNpa2diNlhNX0t2RHZzbG1qZ3dnODItSW5oZHRST0RRTWJpMnBiZw?oc=5",
+      "image": null,
+      "published_at": "2025-09-07T14:10:05.000Z",
+      "summary": "Blood Moon 2025: Total lunar eclipse set to light up UAE skies — how to watch live  Gulf News"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
       "title": "Netanyahu says 100,000 Palestinians left Gaza, Hamas trying to stop them",
       "url": "https://www.jpost.com/israel-news/benjamin-netanyahu/article-866632",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_448,w_632/678016",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3305,w_4956/678016",
       "published_at": "2025-09-07T14:08:30.000Z",
       "summary": "PM: Ending the Gaza war quickly best way to combat diplomatic price paid by Israel  • 'Finish the war as quickly as possible, finish it with the victory we have defined'"
     },
@@ -112,14 +182,24 @@
       "summary": "The ambassador insists the evangelical bond with Israel is intact, even if the social-media soundtrack suggests otherwise."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Tune into today's top stories: Hostage families protest, IDF intercepts two Gazan rockets",
-      "url": "https://www.jpost.com/podcast/jpost-headlines/article-866631",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/679917",
-      "published_at": "2025-09-07T13:59:31.000Z",
-      "summary": "The Jerusalem Post's must-listen news roundup with Ezra Jacobs—the top stories, clear and concise."
+      "title": "UAE President and King of Jordan reject Israel plan to annex West Bank in Abu Dhabi talks - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQclk3R3lyV016MXZsN21qX2E2Ym9yZHBOZnNUUzRLRnNTa2pkaVZaMWMwNjZnU0hGTHFCNHZaTTkxZWxPbEQwMDZmNnE3TlB3Q3FCR0hDZ1NDVktyU1ZRUTA4Y2Q0R3lmY1BRZzdVV1B2R2s3WDExLWRoTkc0MXlmczlocFctM090TC15cnBUd1BkRUlsVTlIYm9XVXpZVFk3TTZ4cGNkUmVzNVJ2VW1KM1pXRkVTbGVpWVNmblNLTWZUR2ppakZNYVd2bjFQM2p4clpuc1d6MkFPUQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-07T14:02:25.000Z",
+      "summary": "UAE President and King of Jordan reject Israel plan to annex West Bank in Abu Dhabi talks  thenationalnews.com"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Houthi drone evades defenses, smashes into Ramon Airport terminal in south; one hurt",
+      "url": "https://www.timesofisrael.com/houthi-drone-evades-defenses-smashes-into-ramon-airport-terminal-in-south-one-hurt/",
+      "image": null,
+      "published_at": "2025-09-07T14:02:24.000Z",
+      "summary": "Military investigating how explosive-laden UAV from Yemen flew in undetected; Air Force shot down three other drones on Egyptian border minutes before the airport impact\nThe post Houthi drone evades defenses, smashes into Ramon Airport terminal in south; one hurt appeared first on The Times of Israe"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -132,14 +212,24 @@
       "summary": "Ma'ale Adumim mayor insists time is ripe for annexing West Bank, but says he's unaware of intention to ink a deal with the PM on plan for controversial settlement expansion\nThe post Netanyahu to sign E1 &#8216;framework agreement&#8217; in Ma&#8217;ale Adumim this week &#8211; report appeared first "
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Syria’s new diplomacy drive: Sharaa courts Arab states, China, and Russia - analysis",
-      "url": "https://www.jpost.com/middle-east/article-866630",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3117,w_4710/659337",
-      "published_at": "2025-09-07T13:51:06.000Z",
-      "summary": "Syria’s new president, Ahmed al-Shara’a, is stepping up diplomacy, seeking stronger ties with Arab states, China, Russia, and the West while gaining Arab League backing."
+      "title": "Total lunar eclipse, known as 'Blood moon,' to be visible across Israel on Sunday evening",
+      "url": "https://www.haaretz.com/israel-news/science/2025-09-07/ty-article/total-lunar-eclipse-known-as-blood-moon-to-be-visible-across-israel-on-sunday-evening/00000199-245b-d1da-a3df-b55b2d0c0000",
+      "image": "https://img.haarets.co.il/bs/00000199-2465-d336-addd-6f7fcbed0000/8a/eb/cb77edb04fd4ad949d3b0db4a477/944195.jpg?height=81",
+      "published_at": "2025-09-07T13:56:00.000Z",
+      "summary": "The 'blood moon' will reach its peak at 9:12 P.M., visible across the Middle East, Asia and beyond; the next total lunar eclipse won't occur until 2028"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israeli military says drone launched from Yemen hits airport arrivals hall",
+      "url": "https://www.aljazeera.com/news/2025/9/7/israeli-military-says-drone-launched-from-yemen-hits-airport-arrivals-hall?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-07T13:52:52.000Z",
+      "summary": "Local media report two people injured in drone strike on Ramon Airport in southern Israel."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -178,18 +268,18 @@
       "title": "Zonneveld feels sorry for Almeida after yet another UAE victory: \"So far this has cost them the Vuelta\" - MSN",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTmM5eXVuNEotT09TQlNfTHRSbEJJclY0dVRzRUx5eHNJcGlMb2JNdWtDbzZ3ZVNOa040ZXZ6eTl0OFo0UDBzWVZ4WGdjZ2tNMVg4ZGdDMjg1Ym5rYkxZSjBnNmdYcThTSFF5TmUzbEU3Q1RhcXdCZGttdHViUS1RS0lyR1FiRUhOdFItemdmRVh3UlhRczhYVXJSTzBDeFlnMUNIR0x3SU1lTHhZWDgxVHI2UTJHWmJXMHJmLXo5NTRETlU2QVowb1lTd1hCU3E3SDBBT1VOalRRU0FXeU91aG5pNA?oc=5",
       "image": null,
-      "published_at": "2025-09-07T13:41:31.000Z",
+      "published_at": "2025-09-07T13:41:54.000Z",
       "summary": "Zonneveld feels sorry for Almeida after yet another UAE victory: \"So far this has cost them the Vuelta\"  MSN"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "המסלולים ברמון לא נפגעו, השדה חזר לפעילות: \"אני רועדת, צריכה להגיד הגומל\"",
+      "title": "המסלולים ברמון לא נפגעו, השדה חזר לפעילות: \"ראיתי כדור אש - ופיצוץ אדיר\"",
       "url": "https://www.ynet.co.il/news/article/hk4dwbs5ll",
       "image": null,
       "published_at": "2025-09-07T13:38:38.000Z",
-      "summary": "כשעתיים אחרי פגיעת הכטב\"ם החות'י ללא התרעה, וחרף ההרס באולם הנוסעים, הודיעו בשדה התעופה ברמון על חזרה לפעילות מלאה: \"אירוע שבמזל רב הסתיים בלי הרוגים\". במד\"א סיפרו על 8 פצועים קל ונפגעי חרדה שפונו לבית החולים, עדת ראייה: \"אנשים נלחצו, רצו לתוך הטרמינל כשעוד היה עשן\""
+      "summary": "כשעתיים אחרי פגיעת הכטב\"ם החות'י ללא התרעה, וחרף ההרס באולם הנוסעים, הודיעו בשדה התעופה ברמון על חזרה לפעילות מלאה: \"אירוע שבמזל רב הסתיים בלי הרוגים\". במד\"א סיפרו על 8 פצועים קל ונפגעי חרדה שפונו לבית החולים, נוסעת ששהתה במקום: \"אנשים נלחצו, רצו לתוך הטרמינל כשעוד היה עשן\""
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -197,9 +287,19 @@
       "topic": "News",
       "title": "'Never again can't only mean never again for Jews': Holocaust Museum LA retracts social media post",
       "url": "https://www.jpost.com/diaspora/article-866626",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/679915",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4024,w_6036/679915",
       "published_at": "2025-09-07T13:36:37.000Z",
       "summary": "The museum said the post was \"easily open to misinterpretation by some as a political statement reflecting the ongoing situation in the Middle East. That was not our intent.”"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Has Israel defeated the Houthi drone threat from Yemen? - analysis",
+      "url": "https://www.jpost.com/middle-east/article-866628",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2268,w_4032/666490",
+      "published_at": "2025-09-07T13:35:09.000Z",
+      "summary": "The IDF said dozens of Houthi drones launched from Yemen have been intercepted in recent months, highlighting a diminished but persistent threat."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -239,7 +339,7 @@
       "url": "https://www.ynet.co.il/news/article/ryeit1icxe",
       "image": null,
       "published_at": "2025-09-07T13:22:48.000Z",
-      "summary": "לירז אסולין מקריית גת, גזברית עם תואר שני, נרצחה ב-7/10 ומהנייד שלה התגאה מוחמד עפאנה שחוסל לאחרונה ברצח 10 ישראלים. \"זה סוגר מעגל, אבל לא מנחם\", סיפרה אחותה ל-ynet: \"היא הייתה אור. אמרה שיורים עליה ושהיא אוהבת אותנו, כמו הודעת פרידה\". מותה אושר רק כעבור 11 ימים: \"עדיין לא יודעים מה קרה שם\""
+      "summary": "לירז אסולין, גזברית עם תואר שני, נרצחה ב-7/10 ומהנייד שלה התגאה מוחמד עפאנה שחוסל לאחרונה ברצח 10 ישראלים. \"זה סוגר מעגל, אבל לא מנחם\", סיפרה אחותה ל-ynet: \"היא הייתה אור. אמרה שיורים עליה ושהיא אוהבת אותנו, כמו הודעת פרידה\". מותה אושר רק כעבור 11 ימים: \"עדיין לא יודעים מה קרה שם\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -250,16 +350,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-237f-d3e4-abb9-67ffc7190001/40/e8/546205dc4fd48732d653343f936c/822786.jpg?height=81",
       "published_at": "2025-09-07T13:22:22.000Z",
       "summary": "Dozens of eighth-graders lost a lottery, even if they were stellar students. 'I'm worried that my daughter will slide into bad behavior,' one parent says, while others are keeping their children out of school until something is done"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Logistics sector's contribution to UAE's economy to exceed AED200 bn in seven years - Dubai Eye 103.8",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjdXNGIyVm5DSDhDdTZSVzNQa2t3U3JlNHNWR0wxdW0ydHRaUkRUN2lBa3VYZGk1aDJaSXl5aTNHYVVEdjNyYXEtc2YyZWNKMFhFdVpON3dHeU9HbGxMekxIQjRNcjlNeG9aTnVwQ0pRVkVHVnVwTlB3QXJweFlEQ3h2VXUtYXA0OC1yQ1FpOThRODVCemhucmVWdFc4Q0s3a3pHUkp2NkI3WWlJMDNpRGhJWS1PNHhhOTMwZldoTXgwQ0U?oc=5",
-      "image": null,
-      "published_at": "2025-09-07T13:19:55.000Z",
-      "summary": "Logistics sector's contribution to UAE's economy to exceed AED200 bn in seven years  Dubai Eye 103.8"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -362,16 +452,6 @@
       "summary": "Israeli rescue services said that two people were lightly wounded. According to the IDF, no sirens sounded in the area and the incident is being investigated. Three other drones were intercepted earlier on Sunday"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "PTI terminates basic party membership of 11 GB lawmakers, including CM Gulbar Khan",
-      "url": "https://www.dawn.com/news/1940286/pti-terminates-basic-party-membership-of-11-gb-lawmakers-including-cm-gulbar-khan",
-      "image": "https://i.dawn.com/large/2025/09/07172804068b3aa.webp",
-      "published_at": "2025-09-07T12:51:11.000Z",
-      "summary": "The PTI has terminated the basic party membership of 11 legislators of the Gilgit-Baltistan Assembly, including Chief Minister Gulbar Khan, alleging that they made a forward bloc and voted against the party decision, it emerged on Sunday.\nMost of the suspended legislators are also cabinet members..."
-    },
-    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -457,7 +537,7 @@
       "topic": "News",
       "title": "Thousands throng Jerusalem to press Netanyahu to make hostage release deal",
       "url": "https://www.bbc.com/news/articles/cn95x2vlv8ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bd3/live/52aef6b0-8bf2-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/921f/live/9204b060-8bf3-11f0-9cf6-cbf3e73ce2b9.jpg",
       "published_at": "2025-09-07T12:34:12.000Z",
       "summary": "Saturday's protests in Israel were some of the largest so far, but PM Netanyahu says defeating Hamas is the way to secure the hostages' release."
     },
@@ -505,7 +585,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Army declares IDF chief's suburban home a military zone following anti-Gaza war protests",
+      "title": "Israeli army declares IDF chief's suburban home a military zone following anti-Gaza war protests",
       "url": "https://www.haaretz.com/israel-news/2025-09-07/ty-article/.premium/idf-declares-chiefs-suburban-home-a-military-zone-barring-anti-gaza-war-protests/00000199-23d0-d487-a3d9-a7ff30ee0000",
       "image": "https://img.haarets.co.il/bs/00000199-23f0-d3e4-abb9-67fdffc40001/0a/21/2d15abb545d48f4781884c50490f/910203.jpg?height=81",
       "published_at": "2025-09-07T12:28:45.000Z",
@@ -530,56 +610,6 @@
       "image": null,
       "published_at": "2025-09-07T12:27:46.000Z",
       "summary": "Al Jazeera’s Ali Hashem reports at the mountainous region in Afghanistan that was affected by the recent earthquake."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Zonneveld feels sorry for Almeida after yet another UAE victory: \"So far this has cost them the Vuelta\" - IDLprocycling.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU1h2dTFweDVOaEFrSFk1NFZpZVJ4ckZ4X1R1T3ktNHRiYU16NjBwdWhWa1ZndnRFYkdGYmE5WkJCLTBQRXZuMnppTjd2d0otbzFOWTJtQlQyNVR6ODI4bGY0a3dFNUQxdmlUYm1FdDZDUEhXb1NZc2J0U3l4OUo2cnlFYkZfaktRZmF3SlJSY2xTQ2xhWktoSnRjcmp4OWxNcWJrUFNSeFRuWi1Uc0dwZGtBTE1EcnJwa1dwWFBvbEZOWFl6cV9XWGxpbjdBdnhtbXc?oc=5",
-      "image": null,
-      "published_at": "2025-09-07T12:26:18.000Z",
-      "summary": "Zonneveld feels sorry for Almeida after yet another UAE victory: \"So far this has cost them the Vuelta\"  IDLprocycling.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE leader welcomes Jordanian King on state visit to Abu Dhabi - Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nTmlUTktRMEZPMDhkaXJzMUNDZl9CVmhydFR6bjF5VjEtXzVpVENVR1FvSzBNbHdSQWVmanQwRHJwTXVwWkxLWnN3X2dVU2xPc0FxeXR4b2VPZ0Q4VUE?oc=5",
-      "image": null,
-      "published_at": "2025-09-07T12:23:03.000Z",
-      "summary": "UAE leader welcomes Jordanian King on state visit to Abu Dhabi  Arab News PK"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Farage goes full hardline with 'Taliban plan' for women amid UK's migrants showdown | UK Vs Migrants | Hindustan Times - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRVRBejFfM2hzMkkyTkl0MTJyS1E3NmdQcElQSEMzWUVwRGV0YW9acTRXMWdELVk5Z010VnlhbTdEWENvV0Fpc1lUdUZDejA5b0hKMUZUSEJoRnYwN01fQXBvVDhVRmM3OHlGSFB5VEFTTzUzLVZWdms4TEtiT0JEdERzT3FKT1Mta1FMVDFJczBhZ3MtdlIzX1BZT3V1cWpXYXp5NW5nZ0RXNm53WEpMdGltaTByUjM2Z3dubnNDYlJXa0swV056bXFiS1BUdmxyOVd2S1ZhUHQzZkJpYXIwMHR6WWZjbmhwRnfSAe8BQVVfeXFMTll2R3dDVG5MOGtqNGVtT1ZsYXQ4TzctR1RXZ25kRWFHZWl0czdZZVFPQ1VQT1gyQ3dNYTVrSnVyY1F1UWJKS0FGd0FRbWxWd3Q1eHBWSUo3QnZMYnVBQnYwbjc0MWlSZnBZVzd0MVVrb21ZVWt2bXlDUmhLd2pzbklsdGFqc3Zxa3pHQ3N2OFBfT2hkTDBoVjRTYXRuUjBUdzMtVjM2NWw2QzNWaW5vX2tNRnRMVzBpZ1A2MEpuV2JGOG5fS05QWlowbDhjRGd3c3BDTzFiQ0ZYenh5ZFluX1BsdXhsVzExcFRFdW5TLTQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-07T12:20:57.000Z",
-      "summary": "Farage goes full hardline with 'Taliban plan' for women amid UK's migrants showdown | UK Vs Migrants | Hindustan Times  Hindustan Times"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar vs Russia LIVE Score Updates in Friendly Match - VAVEL.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1ViTW9hYThlaHBSbnZUblNuanBBNE5HVy1YdVp2ZlBnSldVenJ0RkdLUlRjWXFKSV9qemhmdzA4Q2I5ZUlyTlphQXU1RFJrSnRHeE5GdkVLWERzM2ZrZHREdmhRMThGcmlPMWE3UU42YjdoRVhKbENuSUcwTXVkNGZrejJMZm1SYktjVlU0ZVA4U195NmhveV9uWGwtQkhpLXRJb3RMYWJzcTFkOW9mY1RMRFd2MTDSAbwBQVVfeXFMUERYZEVTRE9iTE5nS0N4Tm9fNld2Z2ZaMDRKdFFyRlVNcFRHVDR0RXdHYTQ4TXltVmRHQ1VUc19fcXEtcmdKQjViWHhMc093eGQtRXFnZmE2bkVjcGFfV2Y5c0tZVVhlcmNBMzhfUFhuNWExZEUwNUNGdFozMUdBNFZkelA1ZEFKYV9FT1RvVHozVDN5WEw2SFppXzNubG9HQTgxbXBBNHdaM1pncGRDb2NwSFl4OXByblAxQVY?oc=5",
-      "image": null,
-      "published_at": "2025-09-07T12:15:00.000Z",
-      "summary": "Qatar vs Russia LIVE Score Updates in Friendly Match  VAVEL.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Despite lack of local protests, Gaza City evacuation threatens Hamas's tight grip",
-      "url": "https://www.jpost.com/israel-news/article-866602",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_448,w_632/679919",
-      "published_at": "2025-09-07T12:11:28.000Z",
-      "summary": "Why are there no protests in Gaza against Hamas, who is threatening it on the ground, and what will happen without the human shield?"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -665,11 +695,11 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Ukraine's main government building in Kyiv hit for first time, PM says",
+      "title": "Zelensky condemns 'ruthless attack' after Russia hits main government building in Kyiv",
       "url": "https://www.bbc.com/news/articles/cpq5dl5y4nlo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e006/live/9d7ada90-8bae-11f0-94f7-a595856b120f.jpg",
       "published_at": "2025-09-07T11:39:13.000Z",
-      "summary": "Ukraine's air force reported a record number of drones and missiles were launched by Russia overnight, killing at least four people."
+      "summary": "It is the first time a Kyiv government building - in the heavily protected city centre - has been hit since Russia launched its full-scale invasion."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -755,8 +785,8 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "British police arrest over 400 at pro-Palestine London protest",
-      "url": "https://www.aljazeera.com/gallery/2025/9/7/british-police-arrest-over-400-at-pro-palestine-london-protest?traffic_source=rss",
+      "title": "British police arrest nearly 900 at pro-Palestine London protest",
+      "url": "https://www.aljazeera.com/gallery/2025/9/7/british-police-arrest-almost-900-at-pro-palestine-london-protest?traffic_source=rss",
       "image": null,
       "published_at": "2025-09-07T10:48:49.000Z",
       "summary": "Protesters chant against police actions as detentions surpass 400, prompting debates on freedom of speech in the UK."
@@ -765,7 +795,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Settlers attack Bedouins, Ben-Gvir fuels tensions in occupied West Bank",
+      "title": "Settlers attack Palestinians, Ben-Gvir fuels tensions in West Bank",
       "url": "https://www.aljazeera.com/news/2025/9/7/settlers-attack-bedouins-ben-gvir-fuels-tensions-in-the-occupied-west-back?traffic_source=rss",
       "image": null,
       "published_at": "2025-09-07T10:46:42.000Z",
@@ -1312,26 +1342,6 @@
       "summary": "שני שיגורים מחאן יונס הפעילו אזעקות במועצה האזורית שדות נגב ובנתיבות - שם נשמעה אזעקה לראשונה מאז המלחמה עם איראן, ובפעם השנייה מתחילת השנה בעקבות ירי מהרצועה"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Israel’s government is also at war with the environment",
-      "url": "https://www.timesofisrael.com/israels-government-is-also-at-war-with-the-environment/",
-      "image": null,
-      "published_at": "2025-09-07T05:06:42.000Z",
-      "summary": "By caving to populist media and political pressure, the coalition has turned science-based environmental policies into a political battleground\nThe post Israel’s government is also at war with the environment appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "LIVE: Israeli attacks on school, tents and homes kill at least 21 in Gaza",
-      "url": "https://www.aljazeera.com/news/liveblog/2025/9/7/live-israel-bombs-school-tents-and-homes-in-gaza-city-killing-17?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-07T05:00:00.000Z",
-      "summary": "Israel pounds Gaza City as its troops continue a large-scale offensive to seize the biggest urban centre in the Strip. "
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1360,16 +1370,6 @@
       "image": null,
       "published_at": "2025-09-07T04:36:13.000Z",
       "summary": "Movers and shakers in Israeli society.\n"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ה\"מו\"מ העמוק\" עם חמאס, השיחות של וויטקוף - והחרפת הטון המצרי נגד ישראל",
-      "url": "https://www.ynet.co.il/news/article/b1zo7f5cee",
-      "image": null,
-      "published_at": "2025-09-07T04:26:58.000Z",
-      "summary": "טראמפ כבר אישר כי למרות מבצע התעצמות \"מרכבות גדעון ב'\" המגעים לעסקה נמשכים, ושליחו המיוחד קיים לפי דיווחים פגישות עם המתווכות במטרה לחדש את השיחות. במטה המשפחות דורשים מנתניהו להוציא מיד משלחת מו\"מ: \"חלפו כבר 3 שבועות מתשובת חמאס\". גורם מצרי: \"ההסלמה ברטוריקה? זה טבעי\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1960,16 +1960,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/240a/live/f3044bd0-8ac9-11f0-b391-6936825093bd.jpg",
       "published_at": "2025-09-06T00:42:54.000Z",
       "summary": "Moscow's diplomatic success in China, and Trump's lack of action, have emboldened Putin, reports Steve Rosenberg."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel beats Moldova 4-0, gets key win to aim for playoffs in WC Qualifiers round",
-      "url": "https://www.jpost.com/israel-news/sports/article-866518",
-      "image": null,
-      "published_at": "2025-09-06T00:32:29.000Z",
-      "summary": "With goals from Dror Peretz, Manor Solomon, Tai Baribo, and Oscar Gloukh, Israel left Moldova with three points and a good form to face Italy on Monday."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2722,16 +2712,6 @@
       "summary": ""
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Fearing Trump more than Smotrich, is Netanyahu laying the groundwork toward a Gaza deal?",
-      "url": "https://www.haaretz.com/israel-news/2025-09-04/ty-article/.premium/unable-to-meet-trumps-expectations-in-gaza-netanyahu-leaves-all-options-on-the-table/00000199-112f-dfba-ab99-71ffe9cc0000",
-      "image": "https://img.haarets.co.il/bs/00000199-1377-d7a2-a9bf-137facc20000/09/dc/3bae9aca4d3fba36d75523d644f0/720266-1.jpg?height=81",
-      "published_at": "2025-09-03T21:28:25.000Z",
-      "summary": "Netanyahu talks tough about conquering Gaza while hinting to mediators at a partial deal. With U.S. pressure, political isolation, and the military pivoting to Iran, he seems likely to pursue a deal with Hamas"
-    },
-    {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
       "topic": "OSINT",
@@ -2999,6 +2979,26 @@
       "url": "https://www.jpost.com/breaking-news/article-856823",
       "image": null,
       "published_at": "2025-06-06T20:12:48.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "President Herzog honors Shira Banki at Jerusalem Pride Parade",
+      "url": "https://www.jpost.com/breaking-news/article-856818",
+      "image": null,
+      "published_at": "2025-06-06T16:47:45.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "France backs International Criminal Court after US sanctions judges",
+      "url": "https://www.jpost.com/breaking-news/article-856816",
+      "image": null,
+      "published_at": "2025-06-06T16:29:08.000Z",
       "summary": ""
     }
   ]
