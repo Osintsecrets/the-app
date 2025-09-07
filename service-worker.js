@@ -1,20 +1,24 @@
-const CACHE = 'dash-cache-v1';
+const CACHE = 'dash-cache-v3';
 const CORE = [
   './',
   './index.html',
+  './feeds.html',
   './library.html',
+  './styles.css',
+  './js/ui.js',
   './js/app.js',
+  './js/feeds.js',
   './js/library.js',
   './manifest.webmanifest',
   './data/feeds.json',
-  './data/bookmarks.json'
+  './data/bookmarks.json',
+  './data/sources.json'
 ];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)));
   self.skipWaiting();
 });
-
 self.addEventListener('activate', (e) => {
   e.waitUntil(
     caches.keys().then(keys =>
@@ -23,7 +27,6 @@ self.addEventListener('activate', (e) => {
   );
   self.clients.claim();
 });
-
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
   if (url.origin === location.origin) {
