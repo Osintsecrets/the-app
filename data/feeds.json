@@ -1,6 +1,36 @@
 {
-  "generated_at": "2025-09-09T15:09:34.759Z",
+  "generated_at": "2025-09-09T15:38:36.096Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "‘A flawless execution': Politicians, MKs commend Israeli strike on Hamas leadership in Doha",
+      "url": "https://www.jpost.com/israel-news/article-866916",
+      "image": null,
+      "published_at": "2025-09-09T18:16:22.000Z",
+      "summary": "Israeli leaders from the coalition and opposition praised the IDF and Shin Bet strike on Hamas leaders in Doha, calling it historic and justified."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Russia sends high-level team to Syria to discuss aid, energy",
+      "url": "https://www.jpost.com/international/article-866915",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2509,w_3694/680356",
+      "published_at": "2025-09-09T18:03:40.000Z",
+      "summary": "Russian and Syrian officials meet, attempting to strengthen relations after the fall of former Syrian President, Bashar al-Assad."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Thirty years of Hamas privilege ends in Doha - analysis",
+      "url": "https://www.jpost.com/middle-east/article-866913",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4047,w_6071/680362",
+      "published_at": "2025-09-09T17:54:19.000Z",
+      "summary": "On Tuesday, Israel ended Hamas leaders’ sense of immunity in Doha, striking figures long sheltered in Qatar who had cheered the Oct. 7 massacre while living in luxury abroad."
+    },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
@@ -9,7 +39,7 @@
       "url": "https://www.jpost.com/middle-east/article-866911",
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1309,w_1969/675949",
       "published_at": "2025-09-09T17:44:05.000Z",
-      "summary": "The Gulf state added that it would \"not tolerate reckless Israeli behavior and ongoing disruption of regional security\" after an airstrike targeted Hamas leadership."
+      "summary": "\"A grave fear now hangs over the price that the hostages may pay,\" the Hostages and Missing Families Forum responded."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -87,7 +117,7 @@
       "topic": "News",
       "title": "Accidental discovery could revolutionize computing, cameras, and sensors",
       "url": "https://www.jpost.com/business-and-innovation/article-866900",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_683,w_1024/680337",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/680337",
       "published_at": "2025-09-09T16:10:43.000Z",
       "summary": "Scientists at Tel Aviv University have developed a 'photonic origami' method of producing tiny glass structures."
     },
@@ -105,11 +135,11 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Hamas takes responsibility for the Jerusalem terror attack",
+      "title": "Netanyahu cites Jerusalem terror attack as reason for Qatar strike",
       "url": "https://www.jpost.com/israel-news/defense-news/article-866895",
       "image": null,
       "published_at": "2025-09-09T16:05:49.000Z",
-      "summary": "The Izzadin al-Qassam brigade was the one that coordinated the attack, according to the statement published on Tuesday."
+      "summary": "PM Netanyahu and DM Katz said the decision to attack the Hamas leadership in Qatar was made after the terror attack in Jerusalem that left six people dead."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -152,6 +182,36 @@
       "summary": "Police clashed with CHP supporters in Istanbul as Erdogan’s government banned protests and moved to tighten control over Turkey’s opposition."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Pope Leo says Israeli strikes on Qatar create 'very serious' situation",
+      "url": "https://www.al-monitor.com/originals/2025/09/pope-leo-says-israeli-strikes-qatar-create-very-serious-situation",
+      "image": null,
+      "published_at": "2025-09-09T15:35:39.000Z",
+      "summary": "VATICAN CITY (Reuters) -     Pope Leo, who typically refrains from speaking off the cuff, expressed unusually forceful concern on Tuesday about the consequences of Israel's strike in Qatar.\"There's some really serious news right now: Israel's attack on some Hamas leaders in Qatar,\" the pontiff to..."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "The pride of Ethiopia - What it took to build Africa's largest hydro-electric dam",
+      "url": "https://www.bbc.com/news/articles/cr4qx6377qgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ede0/live/be204f00-8a5f-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "published_at": "2025-09-09T15:33:01.000Z",
+      "summary": "In a fractious nation, the dam's construction has brought people together despite controversy abroad."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Pigs' heads left outside mosques in Paris region",
+      "url": "https://www.al-monitor.com/originals/2025/09/pigs-heads-left-outside-mosques-paris-region",
+      "image": null,
+      "published_at": "2025-09-09T15:30:22.000Z",
+      "summary": "At least nine pigs' heads were found outside several mosques in the Paris region on Tuesday, the city's police chief said -- an incident that has sparked alarm over rising anti-Muslim hatred.\"Pigs' heads have been left in front of certain mosques... Four in Paris and five in the inner suburbs,\" L..."
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -162,14 +222,144 @@
       "summary": "The Israel Antiquities Authority has launched a new database holding over three million historically significant records."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "The Latest: Israel says it targeted Hamas leadership in Qatar strike - Manistee News Advocate",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV09pR29SSEVzV1c1X1FSeXhtcXdEVEVmSE9ZSDJQTUdpQ2hMcjVwdWtpRHZRX3VnNzdTTGRnOEx5eXJINi0yYUl0Y1JZdjAzZlliUzktTEwzZVEzQlZFTUdSV05FVmVKMDU4aDJfWXg2NHlGRTdobkhuLUdmaHZzX1F4a2lCT194UVFPZV95Y1NyMzBhR0VpZHZjbw?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:27:20.000Z",
+      "summary": "The Latest: Israel says it targeted Hamas leadership in Qatar strike  Manistee News Advocate"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Pope Leo says Israeli strikes on Qatar create 'very serious' situation - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSjhpQ2JSXy1DakxUczJ0TjdvbnBjT1FtMkY5c1NsbnpCZjNOMWZuVHZfOWYyY3FObk5fNWh6T2ZzNTBBQ0ZsM01fc0JNS0gtcVhVb0I5WW1VOUJGUWkzNmE4ODZvMkEyNjhqeDJ4c2tsWkhFZnBYNkJGTDhrTnNqeWducDJyemFCaUNfUjE3Q2FpMEhNSVc2RTJrcnI1MnoyTkdUMEJXZU1lNWxrTDJLeEM2UnQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:26:59.000Z",
+      "summary": "Pope Leo says Israeli strikes on Qatar create 'very serious' situation  Reuters"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Watch: Moment of IDF airstrike in Qtar",
+      "url": "https://www.israelnationalnews.com/news/414657",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1198596.jpg",
+      "published_at": "2025-09-09T15:26:59.000Z",
+      "summary": "Footage captures moment of explosion from the airstrikes Israel carried out against Hamas leaders in Doha."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Wynn Resorts acquires land for second UAE resort project: report - Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0Ffdm96aG12czhibU0yNnNBZkFmMDZkZlFLM1ZoZjllZ1ZUUHp6MzJnazdSTnRtWldVVThKeXZ6SHNyS2RidTNBLS16Q29POU1aUmZyaE1LVFZoQmo4dGVBb3BQWFZrSm5XbkZrVnJra2o2MV9CR1MzenYwbE1Genpld0tkTzlpeEJfeVM5OWFkYXJrSFhhY0F3?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:25:44.000Z",
+      "summary": "Wynn Resorts acquires land for second UAE resort project: report  Macau Business"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"ניתוק צועק לשמיים\": \"החאפלה היוונית\" של משרד החוץ ביו\"ש - והתנגדות העובדים",
+      "url": "https://www.ynet.co.il/news/article/skkgm56cxx",
+      "image": null,
+      "published_at": "2025-09-09T15:25:33.000Z",
+      "summary": "חגיגת הראווה שמארגן המשרד לרגל ראש השנה במישור אדומים מסעירה את העובדים - שרבים מהם הודיעו שלא יגיעו בגלל המיקום ובגלל מצב הרוח הלאומי.  \"4 חיילים נפלו ו-6 נרצחו, היה מצופה לא לקיים אירוע ראוותני\", אמר בכיר במשרד. לעובדים הובהר שמי שלא יגיע יחתום חופש, המשרד מסר: \"שמחים לקיים היום\""
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
       "title": "Tune into today's top stories: Green light for Gaza deal, Gaza City evacuation ordered",
       "url": "https://www.jpost.com/podcast/jpost-headlines/article-866885",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/680322",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/680322",
       "published_at": "2025-09-09T15:22:37.000Z",
       "summary": "The Jerusalem Post's must-listen news roundup with Ezra Taylor - the top stories, clear and concise."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Firefighters battled blaze at Weaber Lumber in Lebanon County - Lebanon Daily News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUnhxNmY5TWN3RmtmMEJZOXNUNmFteEJyYURfQzVLNXJ4MldNOFZ1ZHNoTk10VmU3bU1kTEZvbWFJZTNLLVlLaXZoVEh2VTZCNzhoemZ1MEI0UE5aRXlVU1ZJSHR6M25ydXZhMldMd05OLWVvdFkyREVTU2VJOHJxQS01a2FfUFdmVHlWUG9TYkJjODJ6OFlsMnN2dTBYTE1yZkYwYm5OdTVQYTNN?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:22:04.000Z",
+      "summary": "Firefighters battled blaze at Weaber Lumber in Lebanon County  Lebanon Daily News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "'IMMEDIATE EVACUATION': State Police force evacuation to remove explosive devices, troopers say - WGAL",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2YybGRCUUZ5azM3M2dES3VucnkwSGMxM1otMUd3X0dvX1RTWmVCUXl5YUtDRnVBVFFLbkFxaVU5Ml96SjlSTkhhcmYwMnRfM0VTa05HTUoxNDhsM1B5SjUzU2hDRjM1MjFDUWUxZ1FhTDFjbkktZTBQU0FjVVJZQW9zWEQyUC0zNENsVl9GTGcxSG9TcThLd1Nqb2trbThuOFE?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:22:00.000Z",
+      "summary": "'IMMEDIATE EVACUATION': State Police force evacuation to remove explosive devices, troopers say  WGAL"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE joins regional condemnation of 'treacherous' Israeli attack on Qatar - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOGUxbHhFY0VhVm1iejlBVmpEMi1SbGNHNnFhOVhOcU11akZJTnZRdG5VTzhiZE5xNFJPQVpiMGRRM05aY2NDX2dVcmFJWHh5X2ZOZ2xPdVRTNGFzeVhEc2JLRFM1T19SRnR3Qk9ERVJjVjRMMTJwdHNxd0pXb3N2NXc3ZWFjS0JUVVk2N3NsX2h3UEZIRmpQVFJSb0RwaU1OS0pPaEFMc3RXSmNrSHNYYjVRWkVwczBzYjBOTEd3c0Z1UQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:21:51.000Z",
+      "summary": "UAE joins regional condemnation of 'treacherous' Israeli attack on Qatar  thenationalnews.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "The Latest: Israel says it targeted Hamas leadership in Qatar strike - Beaumont Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWVhOaVQ3elhsUE0yRzFuc0NVNHQxbWwwTjlQXzVyVnZ6VDVxYU00cFNPa0g4anNDZ1lMQTRpLS1lUzN2dFdiZG1ZUndzdVhBMUJEb2t6LVd3VHV5MDM0QzFBQVpWZXdDOUVOZmlHU2dYVW1uRGMyUWFKYmNxY2NGR1d6Nk5MTVZxTGJEdzBEckRDZWZlM2FCWWF3cWNTLUo4Z29F?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:20:13.000Z",
+      "summary": "The Latest: Israel says it targeted Hamas leadership in Qatar strike  Beaumont Enterprise"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Envision 2025 drives UAE's AI transformation forward, bringing together global leaders to shape tomorrow's smart communities - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbGthQ1hjOVgyaGwzZDc4eUFhQlcyWjkwbFczYzlnMm9ib0VBWjNXa3U5b2JjTFppTHAxSGg0X2RvMXZ0WUQyRW5qbkt0X2UzMVlpS1pzSzhJcVF2eUpnbHpCYnVkdkJIVVpnRGExT1ZxUWdMZU5iVTgxNWJpOEpCaFcyeFc2cmZxMVRqWjFBNWFmRmJydlc1WlZHXzhIUzFZNnJUSDJOWUtPY1VnRElkdlNEOEY0WFQzeWxfLUZTVENESFlSc19tZ1hJbUJScjM4TFF2WWpQVkh3d2E1SjFyZGtUWjVNemcxWHJxQjVrMkktWHNVaG5uaFZEaEdjamVOQlE?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:19:56.000Z",
+      "summary": "Envision 2025 drives UAE's AI transformation forward, bringing together global leaders to shape tomorrow's smart communities  MSN"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"חודשים של הכנות\": נוהל הקרב החשאי, האור הירוק - והפצצות הכבדות",
+      "url": "https://www.ynet.co.il/news/article/sjw062p5el",
+      "image": null,
+      "published_at": "2025-09-09T15:19:48.000Z",
+      "summary": "מבצע \"פסגת האש\" נגד הנהגת חמאס בקטאר יצא לפועל עם אישור חשאי של הקבינט המצומצם, וכדי להבטיח חיסול מוצלח של הבכירים - מטוסי הקרב הטילו 10 פצצות, חלקן כבדות. נתניהו היה בחמ\"ל שב\"כ שממנו נוהל המבצע, ולמרות שההחלטה התקבלה כבר לפני זמן רב, טען שהנחה על החיסול עקב הפיגוע אתמול"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Spain bans far-right Israeli ministers Ben-Gvir and Smotrich from entering country",
+      "url": "https://www.haaretz.com/world-news/europe/2025-09-09/ty-article/.premium/spain-bans-far-right-israeli-ministers-ben-gvir-and-smotrich-from-entering-country/00000199-2e47-d7a2-a9bf-3e5f51d60000",
+      "image": "https://img.haarets.co.il/bs/00000196-e934-dc13-a3bf-fbfd01510000/66/29/906a72a944ff8e48b0dc5cf0eaff/720364.jpg?height=81",
+      "published_at": "2025-09-09T15:18:02.000Z",
+      "summary": "Spain's foreign minister said his country 'cannot remain indifferent in the face of so many innocent deaths and so many violations of international law'; On Monday, Israel's foreign minister announced a ban on two Spanish ministers entering Israel, and Madrid recalled its ambassador for consultation"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel Targeted Hamas Leadership in Qatar Strike",
+      "url": "https://www.nytimes.com/2025/09/09/world/middleeast/israel-hamas-doha-qatar-strike.html",
+      "image": "https://static01.nyt.com/images/2025/09/09/multimedia/09Israel-qatar-strike2-tfhb/09Israel-qatar-strike2-tfhb-mediumSquareAt3X.jpg",
+      "published_at": "2025-09-09T15:17:59.000Z",
+      "summary": "The Gulf nation of Qatar has been trying to negotiate a cease-fire in the conflict. The attack threatened to destabilize those peace efforts."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -185,11 +375,191 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "State police evacuating area in Lebanon County because of explosive devices - Reading Eagle",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmlzVEo2TVBrU3JpUzlBX2F6Z3JHRDM3emJlMFJxRjg0TDFxWmhIblNZRE96eVZaak9lbjZUdkpUZE84eDNJYWRrZW4wN1FaSkJxbzFfZGRDbTVvaVNITVAtMHZ0QWN5QXZnNmJHQmFhSW1wa3N0N3Y1M08wTGhJb3JiUmlDM1dfTHdpQXpEeXhfM0J4WnZIX0ZXb3lYVm16aDRiRFdOdkxSOFJxdkFBTV9YVkp3UjQ?oc=5",
+      "title": "IND vs UAE: What happened when India met United Arab Emirates last time in Asia Cup? All you need to know - Mint",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSlVqRnR0dTk1ZmI1eE5UbnZfTExXbzNKRzMyR2xSd0tHOHpTb2U3Q25wYWpjSEMyTHpudGxzTXg4X3Z3bWtMdlhWVnRHbmlOZXM3M0JKMHdRTVkySmZ1T0VlbTRrU0VGai1oRFpBRlcxR3NKRUp2dlZzcl92ems0Z3NjOUJsT2dEQjU5ZnZpRnIxbWsyUEdHc0tMVmY4cmdVMEZJbmJiRlZfSHFjMVZrMl9oZDdyZU9NMW9LQW5oNmxLUGVMdVFHeXRoQnJKUGdnVUZZN2VVRDFfQ2tObElOUmx2X0hPVEJ2Y2VPOVVtNTAyUGt2a290NjJ5a1fSAYICQVVfeXFMUDJTY3BtOUlCOUxlOXQwank0dDNiSXNIOGVQMV9hSWZFTFhuMG1XR2FQV29ZSnpHbmF1NllGMHB6cFQwaEpidGxsNDliTkduZHJkNGpmTmNmNlZnUjROdzJodnJFOS1JQWdKdWdNRjBpTXZIZkgwQTFEZFBEVS1YaW1DZmpZWE9VY2NrZHQ2RUsyTFd2MGw5RlhoSTlaZHZXYmN2amdzcmR4ZzdWOXZ4bERfeHFxMlBIY1pTTkVoV09sZzB3XzZBX1Q4N3U3X0V6RkNVTW9wb3p2NDYtM3hCZ1dodmpKdy11ZmtGT05IOWZudFk0UkpObmtGTUdDalYtSU9R?oc=5",
       "image": null,
-      "published_at": "2025-09-09T15:00:26.000Z",
-      "summary": "State police evacuating area in Lebanon County because of explosive devices  Reading Eagle"
+      "published_at": "2025-09-09T15:16:37.000Z",
+      "summary": "IND vs UAE: What happened when India met United Arab Emirates last time in Asia Cup? All you need to know  Mint"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "The Latest: Israel says it targeted Hamas leadership in Qatar strike - Greenwich Time",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPek9Qc19ibXdQeXRFRXBwM2NuU0F6czV5QkdIME1nUTR3MXp0UHQyc1IzNnp5TFo1MEM4X2VuWjhaMVdxRElmRDJBMWI3bk9VT0xZSHJoMy0wSW5Wdk1oUnFqUTEySUpxdlJEYkZwR3RobEJJZWoxbVZ5NG1wZ1JfWkdaMXNZaXdmUVM2UUhIaVUyeFQtdEl3TlZsckw?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:16:12.000Z",
+      "summary": "The Latest: Israel says it targeted Hamas leadership in Qatar strike  Greenwich Time"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel Strikes On Hamas Officials in Doha, Qatar: Live Updates - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMlZmejNHUmFxM0pDMnhZV3V1ckZSTzhCcUE1OVVGNG1fQ3dHTjVuUUEyNDFXV1RReWlSSFlOVlpQenhUNmlPZlY2X0RMclVXVjhkSFBpbGRvdFdjV3ZfWFNNRWZORFByVDBsRzliMElVbGNTS3piN2Z2QjlhNTNQY0RlVDgtTDRxRXk4aVp3dGFIU3RtMWxjMldMcTRnbXZLaXFNVDNDUmNHaXpVcEpNblNMOVhjbWt4dnBDb2ZCaGQyamh6MTlON25UVVBwQVdKZ1p1cWZKQjlMdEhOX0lnM3p4cmJGWVBhc2ZsMmtYM2JTNjVY?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:15:46.000Z",
+      "summary": "Israel Strikes On Hamas Officials in Doha, Qatar: Live Updates  Bloomberg.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel strikes Hamas leadership in Qatar - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFhKcXA0OVBfbXhjRFNBX25yM2ZqQ1NBREdvZWR6b0c4NUxDc3JvODI2NzMxcHZjcjFad2t6ZW9tNkYzcEdSUXFJUUZIRXFOMVQ3N1JkMENtNXRnMHRGUDlCSzBjWWFMcV9UWlNqYmtVRGxlYTNIUm1tTm9wR2R3UHJiLWktbXNfNWE4SlEtampkY0sw0gFmQVVfeXFMUHRjOEdEOUtBVmZydEV2cmVvVGNPeWhENElwRFl6UEpNRVZfcE5YY3F2ZmoyUnZHbTloY2hUWW1wVEVwdzBBZkJDS2RqSFJ3cXgyYWl1TUluX0p6a09rYXZmbm1NU3R3?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:14:40.000Z",
+      "summary": "Israel strikes Hamas leadership in Qatar  NBC News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Израиль провел авиаудар по столице Катара",
+      "url": "https://centralasia.media/news:2325962?from=rss",
+      "image": null,
+      "published_at": "2025-09-09T15:14:35.000Z",
+      "summary": "9 сентября 2025 года Израиль провел авиаудар по столице Катара, Дохе, нацелившись на высшее руководство ХАМАС во время обсуждения предложения по прекращению огня, выдвинутого США, пишут СМИ,"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel informed US ahead of Qatar strike: White House official - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOenMwNGpBVmxGd0ZYRjZBRHhPNzRWN1FaSGR0Zkptc2JLNVRsSkdoTUtjV21UVVUyaENrN19IS2ZBMFp1eGVhYUJzREZYVE8zNzBEYUN4WnJyemt3b0VCWER1aFl0OWRtRDVYLVdHck9pSkdiMDg5TEl6RHhmaGRVOEpyVUwzb1YzcFBqUUtrUVRVcERnSlF1a2xibWZ0bHI3R01xMXdVMk5PN3c?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:14:23.000Z",
+      "summary": "Israel informed US ahead of Qatar strike: White House official  The Times of Israel"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel Launches Strikes on Hamas Leadership in Qatar: Live Updates - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnhQYUNueWdMbDdIZzJRcE4xVDZ1VjE1Z1VvOWdwNWJMWnlDMEQtY0hDaFNDX2ZJcWF3a1drN2hhREVsb013UEVYcEhXTnZCNzF1QlFSaEJqV3ZoQVQ3bmNzRmdfN1djYjE3OTkzTHhDU2NTS3hoS0hKZVZXTjZkT3MwREllLUhsTTRfSzdTenA?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:14:01.000Z",
+      "summary": "Israel Launches Strikes on Hamas Leadership in Qatar: Live Updates  Newsweek"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel Attack on Doha Qatar LIVE: Shelter-in-place alert issued following Israeli airstrike against Hamas leaders - Mint",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMFdYakQ0eFl5a25wRlViRURyZVlrclVKVk42VTN3OUNuVXRmcHg4cEtPVVBFLTlRYW5UdHNOS3MxYzFSZU5HV2xhOUhzMDFuUGREUGF3ajJTaDNXaGZIbkdzX0ExdXlVX0ZCRDNRQXF0U3B4bk1GMTdxN240blpyODh6WjQ1c0VOZ2ZKcFpuLXQ1TWZTdkV5LXBhRUlDYmhLRHVPZTMzUklueE15ZENLYTc0dVNlZ2R5eEFnWWpzRmJsdFZuR1JudmV1bmM5RUpDYnhoS0lqd1Vha09rNjNJVFI3WWtvMzlmazEteVdPeEZvZTltSHczRGZlRdIBgAJBVV95cUxPZjNqek9rck8tbEhQZ050WXBHUk9PRjRnNzJ5UmJiWW04cDJ3OEFNQ2NQMVk3R2c0MFJCSEhhYlUya0J2Qmk1RVJTMjZxMGR1UXU5dVZFNEswQ1oxOWNRVlFNTnFZWXd5eXJ4dFhPM3lIdmJFZEtFSHd5UUZOM2VLOVlJNGFhamN4UjNvMmliNFY5MlZWa29FRGZMV1VsR3o1MDNWclZNUGVVRjRuMmZXZWNidGkyY3ZvNkpTeVhXWmYwODRHRnIyT3MxUlZTUG5kckxhaWhJWHN3Yk1kYk1FdUhPc3BlNlRLcVprS3AtWnJJQUJhcUtjM1M0cWdVMFVK?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:12:38.000Z",
+      "summary": "Israel Attack on Doha Qatar LIVE: Shelter-in-place alert issued following Israeli airstrike against Hamas leaders  Mint"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE demonstrates resilience in face of cybersecurity threats, senior official says - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjJUQTdkMmpOSGJWQTlOU1NaVURua0VvTkpnVmxmWHFYRGdnMUtGaW9ndkhIR0lwNkZGZ2lTMXFHOXBUQmowV1h3LWNEbGt2amJkWHNGZ08ybS1tX1lsZTJLZk4zUzdDLXEtNmNuYU0xbk9nbVJza1VKaGdlTi05NUhOOTZiUWdQc2lHaGhfWmNDOUhRS2FFcEI2NWpNUW1WUHNualNPZw?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:12:32.000Z",
+      "summary": "UAE demonstrates resilience in face of cybersecurity threats, senior official says  thenationalnews.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE expresses solidarity with Qatar, Jordan condemns ‘brutal Israeli aggression’ - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlhkZkRtYTRLMnVTRkVUTU95M01lX255d2FqeDAtVnp4OVpUc1RSMHVsV0ZLX0xfTDFFUEw0dFBoOGVZZ3ZXVVVuamxUaExMNGpRRE0xYjFnUXFDLVcwVG10akJVYnBfaGI5Y2dsaWdHbXFHU1VSNzg5b1huZURyUGFtUEJBbWFDektmM0NhVU1MX0YtS3JCSUR0RFFnV0dTelRnZUpWdU9keFRuZGJnS0Q5d3dNeThBb28ycVVlbUM?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:11:15.000Z",
+      "summary": "UAE expresses solidarity with Qatar, Jordan condemns ‘brutal Israeli aggression’  The Times of Israel"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel launches attack aimed at Hamas leaders in Qatar’s capital - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZVJLS1llWWw3Y0pVcnpLREVtSnM5bllxRVBGRWVmNjExY0lKdDhiV2UtMVpFNDZWTTJRQ2xvN1RVa1l6T1VJNl9TbU5wRC1UanJYdFNFZ3NrYzhSQ3dfSi1oV2VMeXd6aXE4bWlkdWFTREMyNTE4SlhxZFJ1WVpWbjNjV3ZyYnVjMWNmanlhbGlhX1pVd1VmR1gzb2NYRjkySlE?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:11:15.000Z",
+      "summary": "Israel launches attack aimed at Hamas leaders in Qatar’s capital  New York Post"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE Follow-On Share Sales Near $5 Billion Mark, Eclipsing IPOs - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRVB5Q081WW43TlJnTjBEekF5VDQwb25XMjFpQUhqR2F1OFdmS1FkQ1lsX2FlZ2xVSXoyQk1TSXh6clpLdEFnZjgwUUJuck10N1pfQ0VuSjFBczQ3WjIyS3l2c2xEM21tVlBxQ3QxOFNKTkNTNlo4LUlXY3Nlbm5CMTRDcWwyLXJQa3FuWEMxWE1tX21GZHJqbHdBb2RUMnQzbHQxVS04TWlKTlhoTEg2Qw?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:08:59.000Z",
+      "summary": "UAE Follow-On Share Sales Near $5 Billion Mark, Eclipsing IPOs  Bloomberg.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "The Latest: Israel says it targeted Hamas leadership in Qatar strike - Huron Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3YxbzY1cWI2MDdWcFQxTlM2R3lKRjFvZll2dHNlTFA2eGRCdVpEVGpjTTJUc3Q1MUFsRE1jNkxZcWI0b0tHZWRNRjNEMFFzaWFjRDN6a1I2dURaTGwtbHV1MVo1OU45Y2RoTXByUTNyS08yV1NtQjFZSndMdXhlWjlfVWRWYThnb2VlLXBmckdXVE90SlBUWXJ0S0lwdw?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:08:42.000Z",
+      "summary": "The Latest: Israel says it targeted Hamas leadership in Qatar strike  Huron Daily Tribune"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "PM decided to strike Hamas leaders in Doha after shooting attack",
+      "url": "https://www.israelnationalnews.com/news/414656",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1198601.jpg",
+      "published_at": "2025-09-09T15:06:00.000Z",
+      "summary": "Netanyahu and Defense Minister Katz publish joint statement saying the decision to target Hamas leaders in Doha was made after 6 people were murdered in a shooting attack yesterday."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel says it struck Qatar to target senior Hamas leaders - NPR",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vVVdGZXdXZVE3T1QzTk5vWU4xYUhyUG1oLTBDeXR5MFdvWTJVZ3NER1FRVmpDb2Z1Sy1BUTlhZk1sQk11N2txMzRTZ0Z1OHcyblg3NlhSWjdqMWtreEJLOVdNTVk0SGN5bjRQZWRiMVBjWlAxdDc0?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:05:40.000Z",
+      "summary": "Israel says it struck Qatar to target senior Hamas leaders  NPR"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel Attacks Hamas Senior Leadership in Doha, Qatar - The Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQNVE3M0FJYnB4VUlzUHRuZlpCY0xUZHhReldpSE1xb2dMSmZTZ1lvbm1YMDVtT3d1aFUzejBrVkMzYl8tOEw1aHJ5WWQxcnN3V2pNZzh1RVIteXBkUUJ5b1k5WU1ZSzVWMndZZHJCdWZ4U1c5dmowN2tYX0QtdWJLUkJ6QXc2Wnp1ZTIzcWVBUjB5MUczN3hFSW8wemdGRENoSjlQS3B1cmdacGZMM2tWRDJfTkRtVElFZVVPWXNPdENiVmlOUG9PRTZ0aWswSGd1Y2dHVWZCOGtCVUliMllUYVFkZ25ybFFkY2dpNzY0QjVsSnhBMmRId25pdnFJUW13ZS1TR3BwMkFqbDhxcjAzZEdqUDU4eEEzdi1Sdng2UWlQYTFBYVE3TUc5aDJmVTU4MS1qMVRIUF9lU3NYT3JOTzE3YmlrSERwM0treUJ1a0RfeTZfY0ZxLXlsazJzSGlFMXJTa2dPT19sbU5OTGdHNGVVM2REVHdQZ0RBT0RwNTBneFFrZHJNNA?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:05:00.000Z",
+      "summary": "Israel Attacks Hamas Senior Leadership in Doha, Qatar  The Wall Street JournalIsraeli strike targets Hamas leadership in Qatar  Fox NewsLive updates: Israel’s attack in Qatar targets senior Hamas leadership  The Washington PostLive updates: Israel carries out attack in Qatar targeting Hamas leade..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Live updates: Israel says it targeted Hamas leadership in Qatar's capital as blast is heard in Doha - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qZVd5XzJOdVpXNXJyR3RqVkNDaUJfM0dZaGQ2NkJPbVZfUWRUNU9ieGZYbG0wTno3cmdIX0kxOXN3QWN4bWdKTlBQaVRuRUZkSmlVM19IeEVYaDZKSElUaXItUF9Ja0doZXc?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:05:00.000Z",
+      "summary": "Live updates: Israel says it targeted Hamas leadership in Qatar's capital as blast is heard in Doha  AP News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "The Latest: Israel says it targeted Hamas leadership in Qatar strike - WINK News",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa21HX2RfbjhjWWtXNHVaU1VKNkdNRS1IMmZweWtXVmlLMHNUd1c1T2gzd2hhbW8zMmRENTFHUW52MXBYLUc2VU0wVl91R0tDeHRPWHNkdE9WX3VQanFTMDlCNUNubk1vdDNyZHItekFsMVpKbzVwTUxDZkRnT2VOTkdEOXNMSUZBQlREZE9MT2o3OXhMWjBtU3R4OXkwaVBVTDdWWWNLcGhiZ0hLZGZ0ZjI4M1RhdndJWHQzZ0hzd2FkNHZROXRnVDhZbVo3ZnJsQS14ZlpscDVtdFdNX1pTUjUwUERkTmhVWkxydFFic0RfdE0?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:03:05.000Z",
+      "summary": "The Latest: Israel says it targeted Hamas leadership in Qatar strike  WINK News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Qatar Airways transforms Red Sea into must-visit hotspot - rollingout.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81cE5kLTNOUGJPQ3RQdlJWenlweElpU3dQNGFrdFpWUFFOZHlJT2NsakRudnI2UmxLNzVUVVNfVC0tX2dxX0gyM3NURDM0U2poQ2FHUlg0N1FDVUdrNWFjVHRLM002S1ZRcGpZSEJYUEJ1Z3lLWlVsaVVZNW1tUQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T15:02:28.000Z",
+      "summary": "Qatar Airways transforms Red Sea into must-visit hotspot  rollingout.com"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -202,44 +572,14 @@
       "summary": "Jerusalem and Madrid hit nadir in relations after Spain unveiled new punitive measures, including an arms embargo and partial trade ban\nThe post Spain bans far-right lawmakers Smotrich, Ben Gvir in latest reciprocal rap appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Lebanon City Police investigating late night shooting incident on N. Partridge St. - Lebanon Daily News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdXNsMFlrVE0xN3dwRE9BanZOcFJkVWpiWllDcFRTelczMEgwOGQwN2hCcEZ1amEwWmtXSjVnNzFtZEZVdUZoSDY4eDJYVHlxVk5RWVpBZEgxTTJlUGRhU21oel9NMDhuS0RVOHR5aUNDcWlST1drREtNVzh1aUJtQV9FQUNTSmN4aXQ1QTVqdC1xTElQejc5OG1MTjZFUFBicVZBa3BWYXJnU3lpdE55RlJwT2J2Z0ZSUFFhbnFOeDR4TWZfQmxB?oc=5",
+      "title": "Jerusalem shooting escalates “collective punishment acts”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/9/9/jerusalem-shooting-escalates-collective-punishment?traffic_source=rss",
       "image": null,
-      "published_at": "2025-09-09T14:55:10.000Z",
-      "summary": "Lebanon City Police investigating late night shooting incident on N. Partridge St.  Lebanon Daily News"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Reaction to Israel's attack on Hamas leaders in Qatar - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2p0cG9yZW41SHZjTlpuQ0Fab05xdk83SGhQZFhYWjV4UWk0UlFTVmVIV0t4d0tYcDVpczE3SHNsV3BaOHpjSHY3SkhFQk5lb1V5UUl3bk1XcWNEYlQ1bnY5X0EyNDR2VWo0bFV6eXRvWmFGN1lNbEkzYndtck1nRFhVa0xfLUJuVGxyOVhkX1pqRGhhQTFzTWVwUE0tUQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:54:37.000Z",
-      "summary": "Reaction to Israel's attack on Hamas leaders in Qatar  Reuters"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Five of a family killed in road accident on Hazara Motorway in KP: Rescue 1122 spokesperson",
-      "url": "https://www.dawn.com/news/1940739/five-of-a-family-killed-in-road-accident-on-hazara-motorway-in-kp-rescue-1122-spokesperson",
-      "image": "https://i.dawn.com/large/2025/09/09145627b30da1f.webp",
-      "published_at": "2025-09-09T14:52:42.000Z",
-      "summary": "Five members of a family were killed in a road accident on the Hazara Motorway in Khyber Pakhtunkhwa’s Haripur district late on Monday night, according to Rescue 1122.\nFaraz Bilal Sidiqqui, the spokesperson for Rescue 1122 in Haripur, told Dawn.com that the accident took place when a trailer en r..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "In a first, Israel airstrikes target Hamas leaders in Qatar, a Gaza ceasefire broker - Jewish Telegraphic Agency",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFU2VkdKYjVhVHNrUllkcHZOZ0QyNFcxdTJINjJtOE9jSWI4bDVsempTb3F5YVZYQkZhQ3VxcktSY3pWY3gyRkhLc0p1VDdkOGNjbGFkRWNtSnZyaWJ4b0NwRl8tNDdYcXBnNjNLSzlYNnJnR044UW12VlU0N185eldMR2tEMlo4cjAzVTFfODFqTWNwR1VfMVhHTGo?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:52:08.000Z",
-      "summary": "In a first, Israel airstrikes target Hamas leaders in Qatar, a Gaza ceasefire broker  Jewish Telegraphic Agency"
+      "published_at": "2025-09-09T14:55:55.000Z",
+      "summary": "“There is almost no Palestinian city or village that escapes attacks from illegal settlers.”"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -262,156 +602,6 @@
       "summary": "A Hamas official says the group's negotiating team was targeted during a meeting in Doha."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Hebron Telegram channel published tips for prospective terrorists",
-      "url": "https://www.israelnationalnews.com/news/414654",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1164377.jpg",
-      "published_at": "2025-09-09T14:50:30.000Z",
-      "summary": "A Hebron-based Telegram channel publishes instructions for lone terrorists, including how to enter Israel without arousing suspicion at checkpoints."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel carries out airstrike on Hamas leadership in Qatar’s Doha: Latest - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2NkWjJjdEx2WWFGZl9yY1FGbkktTWE1R1lqTGhqZXhKTGxNU2pXVVJKdjR0ejFUbWF2aUc3SUtIak1wXzc0dnNRZ1hibzYwN0VOZ25YRHhuZFhIMUFudVNZU09ibWpjbFprcGY1eHlRUFJVVVdhYUtkRmxBeEhoWjJRbHRlUnI1cEo4enFpTE9zbTBLVVJwMW4ybm4tS3FURllidUlEZUduQmlxaldVTnE5VEY4aGpNRno4VFpnUQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:49:00.000Z",
-      "summary": "Israel carries out airstrike on Hamas leadership in Qatar’s Doha: Latest  The Independent"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel Targets Hamas Leadership in Strikes on Qatari Capital - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWHMtSTJHeHRFSVZrUEtZTG1QeUZxX2tyWmd6U2Y1NXNOb0dldm5EMUtlLUY2N1lma2NDaTRjYTZ6dkRNTzI5endpYWlqLTJfZnRINHJ1d0RKV18taExfQ3Y2RVo5MW0zbGtXTllTdjVUaGk3Z2k1bU5ZMmhHbTJCUHdSaTZtTDdLRnJZVUNqWFJ4Qm11M2xTSTliRGltMkc3UjlpRFZfaFFabUtPTjJtSw?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:48:47.000Z",
-      "summary": "Israel Targets Hamas Leadership in Strikes on Qatari Capital  Bloomberg.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel targeted Hamas leaders in Qatar as they discussed Gaza war ceasefire proposal - Kentucky Today",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZEtaR3R4MThkVmxBdmdSTzc1ZWJpQ3QxSjRhSDF1eU1DcXFzTzUtdnluRmhqSThrZ2w1aTRVV0FVcjRhTk9iRjNlaU9ZemRzTThOSWZXQTZ6SWhjY0hqS25meHQzZ0w5VUd1c3NQTzlnUGF4dTNaWURxOUxvbjJHNElfc21QUlpiRmx1VGp4ak5CaVotVl83MEFrbEtwc2U1YUVrVmZaOUdoMjVOOF9GNU8tOC0tTmlTbjNKU1FJVk5kUlIwd21BakFFOFd3X1d3WkIwZ3VaNjl3VGhkaUFONkRNSE5QR3lWcnhIT3g4UURRQkxXZ1Itbzk3LWVUZw?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:46:56.000Z",
-      "summary": "Israel targeted Hamas leaders in Qatar as they discussed Gaza war ceasefire proposal  Kentucky Today"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel Strikes Hamas Leadership In Doha, Qatar - International Business Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yRk9hRnVVNkJzTEZCd2NsMWM1aUtJaTJlYTFBWkFFOGlMQnZQTVRwSDA5bEhaZVZ4bURBT0N4bnBiVC1rbVRxUk9lSFV6empmMUczeFRFZnRsVUMwWVFsOTZEZTgyOEtIbWNJYzg0MnRQSGJhajRXdjdmcVVBeTg?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:46:10.000Z",
-      "summary": "Israel Strikes Hamas Leadership In Doha, Qatar  International Business Times"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel announces strike on Hamas leaders as explosions rock Doha, Qatar - KTSA",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbTRmSXROTlpmZnZ6cHBSRmY4SHVZRkYtM3J3MTFKWTJTaU1wWHlVandtMk95Qk8xYmw5aUUtSUR0dG1DSGVGb2pycS1qNHJmT3dqQWowZVBGdzBGdU93YVlmeHJHTERKNnNaaFFlbVVjUTh4U3FRY2NVN3JLUHpQUlpJY3BDWkN0bzJCWUtrNTBPRllzUWFv?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:46:00.000Z",
-      "summary": "Israel announces strike on Hamas leaders as explosions rock Doha, Qatar  KTSA"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "‘Take full responsibility’: Israel targets Hamas leadership in Qatar, blasts heard - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa25FTF9pbVVsZkdHeHkwUWoyQzlDck1aM0xiMnFPUnBFaG1FZXFMRXM0aVlxSmtKcGFxZkEzaVNva2xYR0t6bzdXQko5TmduNVV3bDBJaFNUR3BWSGh2T05TSVNUR2xSM3h0WTFBNGtCN1VpNkpmcXoxMk84TTdCZmp5RDVrQkNtaXBiaWdjOTc1XzZuT1lxWDJFVDFBYXdIN0VtWm9zZWZMY3dt0gGzAUFVX3lxTE1hcmtrblh1M3EzcHhMTUNYRFMzQS1jZjlkQWJCZWFtZnZyS2c5Z2JMU1AzTlNPUEM3N1ZyRzFkX282UEx2ejctV2dkV1pfX0JYcWtTcVg0RHBrZHdzdkNFRGZxSm9PUWU1MERGSjVfWVZkZHBJdEVWaVFVek9nQ2huRkxGd09zZC1qaWcwUDczRXNNc2g4OElhenBhVER1VDhVdU9KVk1lYzRpQjBkOE5ZYm1j?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:46:00.000Z",
-      "summary": "‘Take full responsibility’: Israel targets Hamas leadership in Qatar, blasts heard  The Indian Express"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "PML-N’s Rana Sanaullah wins Senate by-election for Punjab seat",
-      "url": "https://www.dawn.com/news/1940757/pml-ns-rana-sanaullah-wins-senate-by-election-for-punjab-seat",
-      "image": "https://i.dawn.com/large/2025/09/091805121d1c1eb.webp",
-      "published_at": "2025-09-09T14:45:53.000Z",
-      "summary": "Adviser to the Prime Minister on Political Affairs Rana Sanaullah Khan won the Senate by-election from Punjab on Tuesday, according to unofficial results.\nAccording to Form-56 of the election results, the government candidate Sanaullah won after getting 250 votes.\nThe polling was held at the Punj..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Oil Prices Jump as Israel Strikes in Qatar - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWRmdWFXVVU0YkpoME9KNlJYZkdUZ3hUOEZwRk1uLUR0VHhqQ05rOHNWZ1podWZXTDVuS1ZJLW1RSmZENkN0Tm1tOXNoV2FhaWhoZEtrMURSZEUySDNXTXpSSm4tVVZkR1BYdGMwT2JFcGkzZmZVVzlhZ2xDenZYZGVxYlJncmVtSko5LTRiamJ5Q2NLZ2RveFAzWUxMNmvSAaQBQVVfeXFMTnRwc0dPRVk5UGpjVUE4TE9neFJWSHZ0YXRuWVU1TWIydkFqT1dSTTFjWlh5WjdTbUV3N25PSlNpRG9INlQzX0RfSWptNjU1WHJhUnpYRURvbnZaWXdRekpoMnl3aGZsMnZxRWxWd2dEYzEwUDNtNG9aVE9HZFJFYm5TMlAzdGZtOVZZS1dXeEIyRC1yOHRYakFnOGNyVWJnb3p0V1Q?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:44:18.000Z",
-      "summary": "Oil Prices Jump as Israel Strikes in Qatar  Crude Oil Prices Today | OilPrice.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar halts mediation in Israel-Hamas war after IDF strike - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EbFBHUFRROWZ4UFZ4VjJNcm4wUkZtZWVaNG1nS0s3QUpNZk1pMmVmeFZkVGtSU1N0MDZjeUZ6cl9LTHhjTGZWVk1KX015S2trQi1xOERVbHktSFVR?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:44:05.000Z",
-      "summary": "Qatar halts mediation in Israel-Hamas war after IDF strike  The Jerusalem Post"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Saudi Arabia, UAE condemn Doha attack, warning of 'grave consequences' - Middle East Eye",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLUoyTTV0TWxOSnk1RldmTEVwWXJRZU53Wjl3aTlPdEtrR2JFLUI0V21vSHNVYUphY2pQVVNaSWlvb2N0bkJnMDF4aXZSUGFhcy1CU3dMVjBiMGhXbmNqNTVLWk40NlBUeExPVTdQbWhheU5xTjBwZEo4RjhrWUVEOTFzM2dCQ2NxU1ZmeFBoejdjaGRYbi1zazBqU0doaHc0eG1YY2tNVU5fUTNEZ01Hb1hOOXJwakFJMFRtSg?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:44:00.000Z",
-      "summary": "Saudi Arabia, UAE condemn Doha attack, warning of 'grave consequences'  Middle East Eye"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel conducts ‘precise strike’ on Hamas leadership in Qatar: Officials - southernillinoisnow.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSWhMNW5wb1J1QzNjcUtDUC1faWFURGpPc0hTcmR3T1JXOHN0bFFzdXE5cUgwSm5ObGlKbHlqeG5PVHhJY0hyOWtPR3JaZ1ZwNjhORTZ1NUtsMzRMT0NWbXpvQ2p5anNsVmtjb0d4blpvNzNqZXVDdjlSV09wblVoNDFqRE85d2pFaXRuNHNSNEsydEZaclZwVXduc0FCeXhQanZpb1ZhSGdtQXBYS2J5OUJqSQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:43:10.000Z",
-      "summary": "Israel conducts ‘precise strike’ on Hamas leadership in Qatar: Officials  southernillinoisnow.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel Strikes On Hamas Officials in Doha, Qatar: Live Updates - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLWV0X2tLcEVRbVlUcGdmaDBwNjhiZndYU0tSVUdjcmtJRDFZUUI5R3VZVU9xRFpXZ0tubVREa1dEeHhicFVKLWo5RkF6RVVBMEFyZVZzR2ZhZFVVdzdBbWRxVnRkbGwtTlVuemV1REViRmlydFNXZ014YmJQeUhjTDU5c1ZDQVBHaGlaaHJudThLbWxZa3pGMG4xZ0dNOTV4eVhmQXBmZ1VWTmZTWk5HXzhmN1psVWp2TXV0akhrcEV5UmdhSXd0bVlUZjFBejdseEVXTFlFYi1DMm5SOHFrUmtlRTAtcXd0LWNNOTJXMWd3N0dZ?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:42:19.000Z",
-      "summary": "Israel Strikes On Hamas Officials in Doha, Qatar: Live Updates  Bloomberg.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar condemns ‘cowardly’ Israeli attack in Doha - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXZEVFRaczhrRHlfNzdzckFYaFVhaUU4SUpUb2tMdVRKQXVCZ3F5SFV6QnhMbGZLeHNGbnZHQ3U0dHU0LXVYS2F6QnhKRnNpamZIbzRWQ1V6QWxzODAwYWhEVXhvZG9OX2RkZTVkSzN3TkJxc21XQWFtZ0tma3c2UFlkYUFfX0pDZ3JENlhzTdIBlAFBVV95cUxPS3pBZ3pPNzZRalB5Zy16TlhNa1EtQVhROVFObDlkTzQ4bVFWNGtHdHRGOVBfU1ZNZEk2YUs5dzhtVmRtT1RLVWlkSlRkOWdVbHpTSThYME1lbzBzNnJIVFI2dXNrdUp6SkJ4cHpZMWd0UmMza1R4VXFUMldPMUlEY3lRUTN5akpwdWs4Q1A1bkpkT25L?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:41:24.000Z",
-      "summary": "Qatar condemns ‘cowardly’ Israeli attack in Doha  Al Jazeera"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "The Latest: Israel says it targeted Hamas leadership in Qatar strike - Imperial Valley Press Online",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQUc5MlNJbUJFUmFLems0dXpPMU95OEItaVRSVUdCV01mZGwyTTdnY0RlSENkd2dTTDkzaVlGUkpsM2JlTzFWT3N5VXpzTjZLbEhqY1ZDNWFBTEdvOTBScDN0UjFMZjMwZEZFeEhydzQ2VTJ1d2x4NGdnNkdNQXV6TUFOLTlwb19IbnY1TG9ORHVwWEJFLS1YTEJUTExSRThFNlY5OHhLOE1Lby1vSlpCR1FMQ2M3Qm51QTU2ZlJUU1daWjctZU03RldSN3RNMEx6c1VWNWd5YWtlUW1WRWRWNFFjTDdBRGZEQm1wMFNHel8?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:40:45.000Z",
-      "summary": "The Latest: Israel says it targeted Hamas leadership in Qatar strike  Imperial Valley Press Online"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -420,96 +610,6 @@
       "image": null,
       "published_at": "2025-09-09T14:39:58.000Z",
       "summary": "Israel's threat to shut France's Jerusalem consulate sparks warnings from Paris, raising tensions ahead of potential recognition of Palestinian statehood."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE strongly condemns Israeli attack on Doha - Dubai Eye 103.8",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOHh4WThDZC1FcGh1MjB1aUJSNW81VFpEdEw5N1NxMXFBWlZSVVJMTnZQVjI0Z2ZWMjU4OFpxQnVWR2tDVTFVUXZ6YkZsa1pHN2o4bDdJNzdHUkVKMkprQjFrTVJ6a1RHd2FZaU5teVltVk1ZM3o3ZVJxV29mbUxRdDBsUEdBNEltdTd3cjB3?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:39:39.000Z",
-      "summary": "UAE strongly condemns Israeli attack on Doha  Dubai Eye 103.8"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar announces immediate suspension of mediation efforts",
-      "url": "https://www.israelnationalnews.com/news/414655",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1048873.jpg",
-      "published_at": "2025-09-09T14:38:58.000Z",
-      "summary": "Qatar condemns \"cowardly\" Israeli attack on Hamas leaders in its capital, suspends efforts to mediate a hostage and ceasefire deal."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UN chief Guterres condemns Israeli strikes on Qatar - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa0QweG1jV1d2RS1wSDFXT1M3XzZ6Mi13RmVjdmREdnpZNUNFTGNRNzRBWkJmRnFFMV90RW9nUlQtUUxpaThVWHB2ak5RMEQ0UTdSdE5CWWZyNGVnWlJuZVduTnpySGhUVERxU01WYUNES0ZpS0JQdzNKbFRXdkNUaWN0MDBmRXBQNnMyWUEwN0l6UnhiQ3N3Z2JiZkYzVUtPclhabA?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:38:05.000Z",
-      "summary": "UN chief Guterres condemns Israeli strikes on Qatar  Reuters"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Damascus pushes for normality with diplo ties as airstrikes reportedly puncture calm - analysis",
-      "url": "https://www.jpost.com/middle-east/article-866875",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2349,w_3436/679155",
-      "published_at": "2025-09-09T14:37:52.000Z",
-      "summary": "The visits come after reported airstrikes in Homs and Lattakia and explosions at Damascus airport."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Blast heard in Doha as Israel says it targeted Hamas leadership in Qatari capital - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOang2bDhVejQtdVpGWnhoeEF1OWktckVMMU1mdnZ4T29lQmpPa2JrWENLUUt5NHV6UE1kblVqZzU0VlhlUWM2dFVlTVpQeEdQRGJyTVRwamVTSi1ZRmxORzhaM19Ed0NJZm5BWWhaRkwwY0diNDFUVFJqVk0zclNYY0hjV3pYU3VZUUFLX1Z5MjdZQ1l5TFI3bFZsRVRSa1dyM0VwMHZUUE90eU9lX29JLWJEYlAyVk5rRVAtNzBjV2o1elU?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:37:30.000Z",
-      "summary": "Blast heard in Doha as Israel says it targeted Hamas leadership in Qatari capital  CBC"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Live Updates: Israel targets Hamas officials in Qatar - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeDVMa3FFQ0JpdEEyQUVGQmRreXpNUS1VaGVYTEZHVzJhbGtMaW1BMkEzeFg0bno0SkNvMF9nWWFIRzB5SFQ2QnZJREpQOXNPY0xuazFMS1ktdW9faWdieGw3WlAtQ1dTak9EdV9EWlVaZm1nRW9XN3RvVnBUdVNBamVvOA?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:37:30.000Z",
-      "summary": "Live Updates: Israel targets Hamas officials in Qatar  The Jerusalem Post"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel conducts 'precise strike' on Hamas leadership in Qatar: Officials - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS1lnU1NhY282d1MtQThHVDMzT29LU2puMHVpZmxtZ3VzUEZvM3pMckVORHpwTW5aSkdQQ082c0lRT1VpNTBlbnFLNGVGWjgwSFpUQVp0YkV0T3hXeTlDbnlRN1RoV2RqRFJ3NnFEUW1lMk0xOWVlVEs5cVVtUTNGNnpXb0dZaEpzcnAwTEpJZHIzY3VyWUJ2OWpn0gGfAUFVX3lxTE10eVZjdFJuWHU4YXpYbHdBX0RaNkpKcUh3SWJyNllvTXdHaUU4R2hXaFpsU0x0WE1nS2NMTmJfdFBwWnM4U2xDQTFaLThHTEpBQ290VVpHLVlPajJHZEFGT0FsTElQY0dnVU50bmN6X1RhYThrVTBvYkI1dGttM2htUEkzS0ZXS2JLaXFaSW45cXFwSWxpS2tiM3YycUxHaw?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:37:30.000Z",
-      "summary": "Israel conducts 'precise strike' on Hamas leadership in Qatar: Officials  ABC News"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel strikes Hamas officials in Qatar - France 24",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1hPemJmcURPLWc3VXVMUm5CNGk3RXRPSVZzNzZSVDhYQUpBWGpBZXduNHVEN2lOSksyNm5CVUtyeDdtZ29SaWl1bXpNR3R4RU1yVWhvZlpiS1pkSW9xc0MxQ3BieUtLa1g0MnByUDlEQzI3UU9tWmVvR01oeWtTTU5MZVpwem1YbDlZLWpqbw?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:37:15.000Z",
-      "summary": "Israel strikes Hamas officials in Qatar  France 24"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel launches airstrikes against top Hamas members in Qatar for Gaza ceasefire talks - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGJOUXl3Rng1SUNGNHdBbHRHaW9RNDRSUkl5bUFWZ0s4eGkycUlrZG1xZTczWE9VcHZwYWpHUEFJU2NjTGZMYjR2OS1DRy1hTElfYTltMTJLVERGdUhxZlVIMkZhX1c2VDVRQ2twNnZjRjRRVlBSTjJTQ2VPZGp5V2ItUWJfOWhEQXNuTkVycmhKR0w4SUZkbU15OHJ0Q1Y2YTk4S2M5bG93ckFsR0w0dFdR?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:37:00.000Z",
-      "summary": "Israel launches airstrikes against top Hamas members in Qatar for Gaza ceasefire talks  The Guardian"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -532,34 +632,14 @@
       "summary": "Qatar says Israel&#039;s attack targeting residential building in Doha a &#039;flagrant violation of international law&#039;."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
       "topic": "News",
-      "title": "Live updates: Israel carries out attack in Qatar targeting Hamas leaders, Israeli source says - CNN",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1VVRkUkM4SGRaZ0pDcU5iQVpETTVqcXVvWktHWHcxWDJUVm5wWjJqcEt0Rm9MWTFJeTRNQV9zdXhsazE3SkdxcTlpRlJEamxtNFBsNkl2VTFtSDU0TS16eFFRY0p3SDdDSGp5ZS1IeEF3Zw?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:36:00.000Z",
-      "summary": "Live updates: Israel carries out attack in Qatar targeting Hamas leaders, Israeli source says  CNN"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "State Police request immediate evacuation of area in Newmanstown, Lebanon County - fox43.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcWVqX29KTXZlN09uay1Fb0E0Z0xIbVFGMmpFb052MDN5Wng3WnQteVBSZm1iRFVkSElrU3FPcmMtUW9HZXJwa1dwS2p2eEVMMnZQVGZLZXlBbVpUTThNM0VCbFVmZS1wbWo3a2pXc3dhRkxNdE0zdlVKMnRpb1V6LXdlVV9iU2p0bVY5a1dwblNkRDUzN3FKQnJLR0hTZExVd3dpYjEwM19CNWxtdWcxSng2TjJUMmRRSUhLWWpoVmdSaTRaUUQyaEFJVmdTbVVSYWNjWTk0MlY0c2ZIUVJtUkVWRXBBNW9VbzFOdG9ncmpsYWpZLXNwOQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:36:00.000Z",
-      "summary": "State Police request immediate evacuation of area in Newmanstown, Lebanon County  fox43.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Behind the scenes of Israel's strike in Qatar - www.israelhayom.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVnUzZHBqN01ELWlhUHFMU3hLclR5RjRHUWR4d2ZtTnl3UU1UR1RTaThuSWRJQXd6d0pITE9udDFDZnNUWjE5QTVnQ3pyS2h0OGNFR1Aza2Ezd2syRU54bFdZUjdMRXBGLXE2R1lTRHlJRDlIUnhUWTd5c2VDdWprd3M4eF92Y3RBc0FxSA?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T14:35:58.000Z",
-      "summary": "Behind the scenes of Israel's strike in Qatar  www.israelhayom.com"
+      "title": "Dozens of DR Congo mourners killed in attack linked to jihadist group",
+      "url": "https://www.bbc.com/news/articles/czdj4qgm4d9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86b9/live/4b656410-8d88-11f0-b391-6936825093bd.jpg",
+      "published_at": "2025-09-09T14:30:05.000Z",
+      "summary": "A funeral ceremony was being held in a village when the night-time assault took place, officials say."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -715,11 +795,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Israeli military says it attacks Hamas leaders in Qatar’s Doha",
+      "title": "Israeli military says it attacked Hamas leaders in Qatar’s Doha",
       "url": "https://www.aljazeera.com/news/2025/9/9/israeli-military-says-it-has-attacked-hamas-leadership-in-qatars-doha?traffic_source=rss",
       "image": null,
       "published_at": "2025-09-09T13:23:45.000Z",
-      "summary": "Spokesperson for Qatar’s foreign ministry slams ‘cowardly’ Israeli attack, condemns it &#039;in the strongest terms&#039;."
+      "summary": "Spokesperson for Qatar’s foreign ministry slams ‘criminal’ Israeli attack, condemns it &#039;in the strongest terms&#039;."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -920,16 +1000,6 @@
       "image": null,
       "published_at": "2025-09-09T12:07:36.000Z",
       "summary": "Videos show Nepal’s parliament on fire as protests continue, with Prime Minister Khadga Prasad Sharma Oli and other top "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "The pride of Ethiopia - What it took to build Africa's largest hydro-electric dam",
-      "url": "https://www.bbc.com/news/articles/cr4qx6377qgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ede0/live/be204f00-8a5f-11f0-9cf6-cbf3e73ce2b9.jpg",
-      "published_at": "2025-09-09T12:05:52.000Z",
-      "summary": "In a fractious nation, the dam's construction has brought people together despite controversy abroad."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1392,16 +1462,6 @@
       "summary": "Soldiers from the Binyamin Brigade operated in the villages of Katana and Al-Kubeiba to map the homes of the terrorists Muhammad Taha and Muthanna Amru."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Hospitalised Nepalese protesters recount police crackdown",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/9/hospitalised-nepalese-protesters-recount-police-crackdown?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-09T09:03:53.000Z",
-      "summary": "Wounded protesters in Nepal have been recounting the moments police opened fire on them."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1510,26 +1570,6 @@
       "image": null,
       "published_at": "2025-09-09T07:26:10.000Z",
       "summary": "חבר הכנסת מהליכוד פתח את עדותו הראשונה במשפטו הפלילי, שבו הוא מואשם בעבירות בסך מאות אלפי שקלים, בהכחשה: \"לא לקחתי שוחד, לא הפרתי אמונים\". הוא פירט את ההסתבכויות שקדמו לאישומים: \"היה לחץ מאוהדי הפועל ראשון לציון, לקחתי התחייבויות והסתבכתי\" - וטען: \"כל צ'ק שיצא נרשם\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ישראל מאבדת מורים - והכיתות בה כמעט הכי צפופות | דוח ה-OECD על החינוך",
-      "url": "https://www.ynet.co.il/news/article/skf6whhcex",
-      "image": null,
-      "published_at": "2025-09-09T06:59:55.000Z",
-      "summary": "הדוח, שסוקר מדדים בתחום החינוך ב-38 מדינות, הראה שרוב גדול מהמורים המתפטרים בבתי הספר היסודיים ובתיכונים עושים זאת תוך 5 שנים מאז שהחלו ללמד. הצפיפות בכיתות גבוהה בממוצע בכ-30% ממדינות ה-OECD, מספר הימים, שעות הלימוד וגם החופשים - מהגבוהים ביותר. קיש: \"תמונה מורכבת אך מוכרת\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "האב שחטף את ילדיו אגר נשק במחנה שבו חיו ביער. האם אחרי הריגתו: \"הסיוט נגמר\"",
-      "url": "https://www.ynet.co.il/news/article/h1npq4tqex",
-      "image": null,
-      "published_at": "2025-09-09T06:58:30.000Z",
-      "summary": "ניו זילנד פרסמה תיעוד מהמחנה המבודד שבו חיו טום פיליפס ושלושת ילדיו - אחד ממקומות מסתור רבים ששימשו אותם במשך 4 שנים של מנוסה מהרשויות. השוטרים הגיעו ליער אחרי שפיליפס נהרג בקרב יריות כשלצדו ג'יידה בת ה-12, שהובילה את המשטרה למחנה שבו התגלו שני אחיה, בני 9 ו-10, וגם תחמושת וטרקטורונים: \"ייקח לילדים "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1920,16 +1960,6 @@
       "image": null,
       "published_at": "2025-09-08T17:03:08.000Z",
       "summary": "The NIS 10 million deal between Israel and Moldova fell apart as 60,000 hasidim were preparing for an annual Rosh Hashanah pilgrimage. "
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "'A strategic step': Israel and India sign bilateral investment agreement",
-      "url": "https://www.jpost.com/israel-news/article-866775",
-      "image": null,
-      "published_at": "2025-09-08T16:41:35.000Z",
-      "summary": "The agreement, hailed by Israeli officials as the first of its kind between India and a Western-oriented member of the OECD, replaces an earlier treaty signed in 1996. "
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
@@ -2722,16 +2752,6 @@
       "summary": "The U.S. President also said that the protests calling for a hostage release deal 'put Israel in a tough position.' These remarks come as the IDF tells hostage families that a military operation raises the risk of harm to hostages"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "U.S.-sanctioned Palestinian NGOs condemn Trump administration's 'silencing attempt'",
-      "url": "https://www.haaretz.com/us-news/2025-09-06/ty-article/.premium/u-s-sanctioned-palestinian-ngos-condemn-trump-administrations-silencing-attempt/00000199-1b5c-d336-addd-7f7fc76a0000",
-      "image": "https://img.haarets.co.il/bs/00000199-1be0-d7a2-a9bf-1bf9075e0000/a6/f6/8ad6ed1d4ee0a2372e3bdfc605a4/843589.jpg?height=81",
-      "published_at": "2025-09-05T22:10:35.000Z",
-      "summary": "The director of one group said the sanctions announced Thursday by U.S. Secretary of State Rubio are part of Washington's policy of aiding Israel in the 'destruction of Gaza,' while another leader said turning to the ICC was necessary due to Israel's failure to investigate war crimes"
-    },
-    {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
       "topic": "OSINT",
@@ -2979,26 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856824",
       "image": null,
       "published_at": "2025-06-06T20:27:50.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Shin Bet arrests suspect who damaged Netanyahu's convoy vehicle - report",
-      "url": "https://www.jpost.com/breaking-news/article-856823",
-      "image": null,
-      "published_at": "2025-06-06T20:12:48.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "President Herzog honors Shira Banki at Jerusalem Pride Parade",
-      "url": "https://www.jpost.com/breaking-news/article-856818",
-      "image": null,
-      "published_at": "2025-06-06T16:47:45.000Z",
       "summary": ""
     }
   ]
