@@ -1,13 +1,23 @@
 {
-  "generated_at": "2025-09-09T05:09:28.620Z",
+  "generated_at": "2025-09-09T05:37:18.109Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF issues largest evacuation order yet to Gaza City as military prepares for full-scale invasion",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-866825",
+      "image": null,
+      "published_at": "2025-09-09T08:25:35.000Z",
+      "summary": "Prime Minister Benjamin Netanyahu has said that taking over Gaza City will convince Hamas to give up the remaining hostages and will lead to the group's defeat."
+    },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
       "title": "Amnesty says Pakistan spying on millions through phone-tapping, firewall",
       "url": "https://www.jpost.com/international/article-866822",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/636307",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2257,w_3385/636307",
       "published_at": "2025-09-09T07:35:57.000Z",
       "summary": "Already restricted political and media freedoms in Pakistan have tightened in recent years, particularly after the military broke with then-Prime Minister Imran Khan in 2022."
     },
@@ -57,7 +67,7 @@
       "topic": "News",
       "title": "When terror pays: Global recognition of Palestinian state rewards violence - editorial",
       "url": "https://www.jpost.com/opinion/article-866803",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4982,w_7470/680203",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/680203",
       "published_at": "2025-09-09T05:57:34.000Z",
       "summary": "As blood is spilled on Jerusalem’s streets, the international community rushes toward a predetermined outcome that ignores these harsh realities."
     },
@@ -72,24 +82,84 @@
       "summary": "The House Oversight Committee released Epstein's will and entries from his address book, but comittee Democrats released images of a lewd birthday card reportedly penned by Trump."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "IDF orders evacuation of the entire Gaza City ahead of intense operations",
+      "url": "https://www.israelnationalnews.com/news/414621",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1198399.jpg",
+      "published_at": "2025-09-09T05:22:00.000Z",
+      "summary": "IDF Arabic Language Spokesman Avichay Adraee called on residents of Gaza City to evacuate immediately, warning the IDF 'will operate in the Gaza City area with great force.'"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE’s AI healthcare leap: The future of medicine is already here - Gulf Business",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uY0paaWdYaVBaOFZPRGJSNVRVdkQ4eDVNdVdoTXlOS1V2WVJwVnFYLWRXQ25jTXNwSjB5dW1CRHBHY0tBX3hGakdha2UxNGlya1ZsaDl4NUswTFBDSTRaSVBKT1JfeERqeDd5aHk0N1BfbjJZNmc?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T05:21:08.000Z",
+      "summary": "UAE’s AI healthcare leap: The future of medicine is already here  Gulf Business"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "GB prepares proposal for PM committee to restore trade",
+      "url": "https://www.dawn.com/news/1940629/gb-prepares-proposal-for-pm-committee-to-restore-trade",
+      "image": "https://i.dawn.com/large/2025/09/091010355fdb93a.webp",
+      "published_at": "2025-09-09T05:11:22.000Z",
+      "summary": "GILGIT: A 50-day-long protest sit-in intensified on Monday as traders in Gilgit-Baltistan (GB) shut down a customs and immigration office in Sost, blocking the Karakoram Highway and stranding thousands of travellers headed to China via the Khunjerab Pass.\nTraders have suspended all trade and trav..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Russian researcher freed by Taliban after six weeks in detention: Report - Amu TV",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBRd05DT2hud3RFa19YbjZBSVdPNVk5UzBYUVplLWJkYjc1Qmh4dDczcWlnTWlrWGNURFE?oc=5",
+      "image": null,
+      "published_at": "2025-09-09T05:08:30.000Z",
+      "summary": "Russian researcher freed by Taliban after six weeks in detention: Report  Amu TV"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Indonesian President Prabowo replaces five ministers after deadly protests",
+      "url": "https://www.aljazeera.com/news/2025/9/9/indonesian-president-prabowo-replaces-five-ministers-after-deadly-protests?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-09T05:06:02.000Z",
+      "summary": "Finance Minister Sri Mulyani Indrawati was among those ousted days after protesters raided her home."
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "צה\"ל בצו פינוי לכל תושבי העיר עזה: \"נפעל בעוצמה, אם חמאס חוסם אתכם - תעדכנו\"",
+      "title": "צה\"ל בצו פינוי גורף לכמיליון עזתים: \"נפעל בעוצמה, אם חמאס חוסם - תתקשרו\" ",
       "url": "https://www.ynet.co.il/news/article/rjqk7et9ee",
       "image": null,
       "published_at": "2025-09-09T05:03:05.000Z",
-      "summary": ""
+      "summary": "אחרי ימים ארוכים של הפלת בניינים רבי-קומות, ויממה אחרי נפילת 4 הלוחמים, הצבא הוציא לראשונה צו פינוי לכל השוהים באזור העיר עזה - ופרסם מספר טלפון שדרכו יוכלו לדווח על מחסומי ארגון הטרור: \"הישארותכם מסוכנת\". כמיליון עדיין שוהים במעוז החמאס, שמחזיק בעיר גם בין 8 ל-10 מהחטופים החיים"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "LIVE: Israel pounds Gaza City as Netanyahu tells residents to ‘leave now’",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/9/9/live-israel-pounds-gaza-city-as-netanyahu-tells-residents-to-leave-now?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-09T05:00:58.000Z",
+      "summary": "Israeli forces bomb more high-rise buildings in Gaza City as Netanyahu warns residents to flee. "
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Neighbors praise yeshiva student, soldier who neutralized terrorists",
+      "title": "Neighbors praise soldier, yeshiva graduate, who neutralized terrorists",
       "url": "https://www.israelnationalnews.com/news/414619",
       "image": "https://www.israelnationalnews.com/files/pictures/0/1198511.jpg",
-      "published_at": "2025-09-09T04:56:02.000Z",
-      "summary": "'A virtuous young man, a Torah scholar, who publicly sanctified the name of God, say neighbors of 23-year-old haredi yeshiva graduate and soldier who eliminated terrorists at Ramot Junction attack."
+      "published_at": "2025-09-09T04:56:00.000Z",
+      "summary": "'A virtuous young man, a Torah scholar, who publicly sanctified the name of God, say neighbors of 23-year-old yeshiva graduate and squad commander from the haredi Hashmonaim Brigade who eliminated terrorists at Ramot Junction attack."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -139,7 +209,7 @@
       "url": "https://www.ynet.co.il/news/article/r1fecm6qgx",
       "image": null,
       "published_at": "2025-09-09T04:49:10.000Z",
-      "summary": "הפלסטינים טוענים שקבוצת אנשים שביקשה לשוב אל המחנה הסגור כדי לאסוף חפצים נקלעה לירי צה\"ל, שממנו נהרגו שני נערים ושניים נפצעו קשה. צה\"ל מסר כי הירי בוצע לאחר שהפלסטינים לא נשמעו להוראות והתקרבו אל הכוחות בצורה מאיימת. התיעודים שהתפרסמו: כך נראה המחנה, חודשים אחרי פינוי התושבים"
+      "summary": "הפלסטינים טוענים שקבוצת אנשים שביקשה לשוב אל המחנה הסגור כדי לאסוף חפצים נקלעה לירי צה\"ל, שממנו נהרגו שני נערים ושניים נפצעו קשה. צה\"ל מסר כי הם לא נשמעו להוראות והתקרבו אל הכוחות בצורה מאיימת. נהרס בית מחבל שרצח בן 12, התיעודים מג'נין: כך נראה המחנה, חודשים אחרי פינוי התושבים"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
@@ -195,21 +265,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaW5kZXBl",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Israel threatens ‘mighty hurricane’ unless Hamas returns hostages",
-      "url": "https://www.independent.ie/world-news/middle-east/israel-threatens-mighty-hurricane-unless-hamas-returns-hostages/a352097291.html",
-      "image": "https://focus.independent.ie/thumbor/9P90Vmh2yffIEed4nJAuUUUEujM=/720x0/smart/prod-mh-ireland/43625840-11fe-437c-86b6-09f38180787e/8ba2b245-7f7f-4009-8cf4-4a2c44a30dc5/43625840-11fe-437c-86b6-09f38180787e.jpg",
+      "title": "Ezz Al Din Abu Eisha: Teaching the deaf to survive bombs in Gaza’s silent war zone",
+      "url": "https://www.independent.ie/world-news/middle-east/ezz-al-din-abu-eisha-teaching-the-deaf-to-survive-bombs-in-gazas-silent-war-zone/a1526574698.html",
+      "image": "https://focus.independent.ie/thumbor/j7Ev1pVv000sL1njNWcUdGEMqPs=/720x0/smart/prod-mh-ireland/55fc8914-8519-4a54-88b9-ec787471e8e4/4aa1fc59-1538-4767-acfb-c023cb3159da/ANS-GAZA%20%28111%29.jpg",
       "published_at": "2025-09-09T04:30:00.000Z",
-      "summary": "Israel said it would step up airstrikes on Gaza yesterday in a “mighty hurricane”, to serve as a last warning to Hamas that it will destroy the enclave unless fighters accept a demand to free all hostages and surrender."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaW5kZXBl",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Palestinian gunmen kill six in attack at bus stop?in Jerusalem",
-      "url": "https://www.independent.ie/world-news/middle-east/palestinian-gunmen-kill-six-in-attack-at-bus-stopin-jerusalem/a463218338.html",
-      "image": "https://focus.independent.ie/thumbor/6a3vr4glzNZdT_l8fGqSuoat0ww=/720x0/smart/prod-mh-ireland/72645d69-2d26-4c88-80c1-919dc6021aa6/46972297-6e1d-42c0-bec9-1e701da44384/72645d69-2d26-4c88-80c1-919dc6021aa6.jpg",
-      "published_at": "2025-09-09T04:30:00.000Z",
-      "summary": "Palestinian attackers opened fire on people at a bus stop during the morning rush hour in Jerusalem yesterday, killing six people and wounding another 12, according to Israeli officials."
+      "summary": "Every Israeli bomb that falls on Gaza and shakes the Strip reminds Sara of her son Hussein. Deaf and non-speaking, Hussein had left their tent carrying a pot to bring back food."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaW5kZXBl",
@@ -225,21 +285,31 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaW5kZXBl",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Ezz Al Din Abu Eisha: Teaching the deaf to survive bombs in Gaza’s silent war zone",
-      "url": "https://www.independent.ie/world-news/middle-east/ezz-al-din-abu-eisha-teaching-the-deaf-to-survive-bombs-in-gazas-silent-war-zone/a1526574698.html",
-      "image": "https://focus.independent.ie/thumbor/j7Ev1pVv000sL1njNWcUdGEMqPs=/720x0/smart/prod-mh-ireland/55fc8914-8519-4a54-88b9-ec787471e8e4/4aa1fc59-1538-4767-acfb-c023cb3159da/ANS-GAZA%20%28111%29.jpg",
+      "title": "Palestinian gunmen kill six in attack at bus stop?in Jerusalem",
+      "url": "https://www.independent.ie/world-news/middle-east/palestinian-gunmen-kill-six-in-attack-at-bus-stopin-jerusalem/a463218338.html",
+      "image": "https://focus.independent.ie/thumbor/6a3vr4glzNZdT_l8fGqSuoat0ww=/720x0/smart/prod-mh-ireland/72645d69-2d26-4c88-80c1-919dc6021aa6/46972297-6e1d-42c0-bec9-1e701da44384/72645d69-2d26-4c88-80c1-919dc6021aa6.jpg",
       "published_at": "2025-09-09T04:30:00.000Z",
-      "summary": "Every Israeli bomb that falls on Gaza and shakes the Strip reminds Sara of her son Hussein. Deaf and non-speaking, Hussein had left their tent carrying a pot to bring back food."
+      "summary": "Palestinian attackers opened fire on people at a bus stop during the morning rush hour in Jerusalem yesterday, killing six people and wounding another 12, according to Israeli officials."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaW5kZXBl",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel threatens ‘mighty hurricane’ unless Hamas returns hostages",
+      "url": "https://www.independent.ie/world-news/middle-east/israel-threatens-mighty-hurricane-unless-hamas-returns-hostages/a352097291.html",
+      "image": "https://focus.independent.ie/thumbor/9P90Vmh2yffIEed4nJAuUUUEujM=/720x0/smart/prod-mh-ireland/43625840-11fe-437c-86b6-09f38180787e/8ba2b245-7f7f-4009-8cf4-4a2c44a30dc5/43625840-11fe-437c-86b6-09f38180787e.jpg",
+      "published_at": "2025-09-09T04:30:00.000Z",
+      "summary": "Israel said it would step up airstrikes on Gaza yesterday in a “mighty hurricane”, to serve as a last warning to Hamas that it will destroy the enclave unless fighters accept a demand to free all hostages and surrender."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Engagement terms for India, Qatar trade pact likely by October - Times of India",
+      "title": "Engagement terms for India, Qatar trade pact likely by October - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU2F6d0F3Y2xjWHRoV19kUkZwbUxBSzhsVnlHaV9SWDNHd3NYT3phZHR0MUc3dmxRcm5TcEcwRFVqaTVwQmlNMWY4OTlabWJRcS0xTnFOTDZKVjRhb3BkVHJETWp1am1hNU44aTloR1NTTUNQQmo1TUtzTnNQVC1GNGV5R05veTBQaGJKWEwwRkhUOVoxYXI1OGtwR3hBcVRtU3RCdnRoMjdJYWF2VVJUVG5VSXdMNDFBcGdqbFN4U2N6aWtES0dqZHVmUFF6ODJNWEhpNDA1dEtuazBNYmtSTtIB5gFBVV95cUxQbmV4MU5IdFlTTzZ5bWxBSUdPb2FQNVFhdDZud2xOSWFWS0cwdXNhUUVzTHNVcHZibnVhVE5rdmp6SHZtemZpam9yb0diOXNZZkVVbmQyelVpSm95V3BCZk5OUlBTeFVIVlJfZktzbnoyQ2NDMmxoUUdZUmtjUEsxQ2hYM3FrVzFiSUFRRzE3WW91U3VFSGdSS3U0SkxSVzdiSzhvZjhsdFhXaHY4ejBIVG5pRHpBa0szVENrN1M1aEhTaFlPZlhidE54YzF1VXIzZ3pUVVFwaGtUNTNONWVkQjItTnJpdw?oc=5",
       "image": null,
       "published_at": "2025-09-09T04:23:00.000Z",
-      "summary": "Engagement terms for India, Qatar trade pact likely by October  Times of India"
+      "summary": "Engagement terms for India, Qatar trade pact likely by October  The Times of India"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
@@ -502,26 +572,6 @@
       "summary": "Премьер-министр Израиля Биньямин Нетаниягу призвал жителей города Газа покинуть его, так как в ближайшее время Израиль начнет операцию по захвату города. Об этом он заявил в видеообращении, которое цитирует Times of Israel."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Cairo is pulling factions toward ceasefire, undercutting Netanyahu-Hamas 'tug-of-war' - opinion",
-      "url": "https://www.jpost.com/middle-east/article-866815",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_419,w_613/665911",
-      "published_at": "2025-09-09T03:17:07.000Z",
-      "summary": "Inside the power struggle: Hamas commander Izz al-Din al-Haddad and Israel’s next move."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "No role for Hamas: Starmer and Abbas agree on future Palestinian governance",
-      "url": "https://www.israelnationalnews.com/news/414616",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1198549.jpg",
-      "published_at": "2025-09-09T03:14:25.000Z",
-      "summary": "British PM Keir Starmer meets PA chairman Abbas in London, reaffirming UK’s plan to recognize “Palestine” unless Israel changes course. Both leaders rule out Hamas’s role and call for Gaza ceasefire."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -542,16 +592,6 @@
       "summary": "Accused of equating Nazi genocide of Jews with current Gaza war, museum pledges to 'do better' with vetting social media statements in future\nThe post LA Holocaust museum deletes post saying ‘Never again can’t only mean never again for Jews’ appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Экспорт Монголии упал на 13.8% за 8 месяцев",
-      "url": "https://centralasia.media/news:2325240?from=rss",
-      "image": null,
-      "published_at": "2025-09-09T03:00:35.000Z",
-      "summary": "По официальным данным, опубликованным в понедельник, за первые восемь месяцев 2025 года Монголия экспортировала товаров и сырья на сумму 9.1 млрд долларов США, что на 13.8% меньше, чем годом ранее.\nМестные эксперты считают, что это результат некомпетентности правящей Монгольской народной партии и..."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -560,36 +600,6 @@
       "image": null,
       "published_at": "2025-09-09T02:58:14.000Z",
       "summary": "Latest Israeli attacks on Homs and Latakia a continuation of Israel&#039;s &#039;aggressive escalations&#039;, says Syrian ministry.  "
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "IAEA chief: Time running out to resume Iran nuclear inspections",
-      "url": "https://www.israelnationalnews.com/news/414615",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1081778.jpg",
-      "published_at": "2025-09-09T02:52:28.000Z",
-      "summary": "IAEA chief Rafael Grossi warns time is short to resume nuclear inspections in Iran. Talks continue as Europe threatens sanctions unless Tehran complies and re-engages in nuclear diplomacy."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Multiple crews called to scene of commercial building fire in Lebanon County: dispatch - local21news.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0phMGNPNlhGdjVxUWozakc4cTUwN3ZPOXlRZlBGQVEtd2ludkhlT2NmV2hTZHBSYlhUTFgtT0NRYjVvZVo0OGl1WnprZUYwLTFiU3VoNU1qbVVMZUM3Um5OOXRPamdZdWNlbldBaHlQZmdIRllHS09aLUhYYW9fX3pkQk0yOFVjVHBVY2J3VTMxNzZCV2lQYm51NXFPV015ZXpDVjVpaFlPSFg4dnJmOHFmYVJOamlaMHNFRA?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T02:51:10.000Z",
-      "summary": "Multiple crews called to scene of commercial building fire in Lebanon County: dispatch  local21news.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "IND vs UAE: Gautam Gambhir wins hearts, signs autographs ahead of India's Asia Cup opener - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNT3BPTXhDMDctQ0VMUjJRTUxBdHY3U1FnUlpqelM0Z0FfWHRGQnVlVncwcUs5VjYyRmwtNjN2dXlnUUJiWXFmWjVRanJDeVA5c21GX3k5UnB6VG9KclhxVldERzVsSUxwbTBYVkZVLVZGQ21hLVkxZDNHNHgzaXpiNEN6bkVWTHhYR252NzMzVlJBYm5WLWFBRGV0Ul9WY21Vakp1Yk1aV2czemlfRjYtVDNzdzhTR0ptaktUN3kyemdmWjhyaHNWV1doU3V0bWJnMmsycUgtVjJkVEVnUzRiTkVPdldDbXZOZUNqbW50aXZzdzNuYUtQcjhLekk4ZkdOT0HSAYcCQVVfeXFMT21rNUhzVHJRd2FPSHBCTzhvSlpaMElTN3hSbjZBTDIxbTRjWmVzM1RkSlZfak5uMWgza0FTRDRPQkZ0U0RVdGdWYVcwMTRYV2E4VWJpOHpfNjVjU24zMHFvemNLdmEtRnlZUzkzZUR2MmRweFROT2pJZ25xSzFRNjZ3WG5QYkVJWGV1TTFkbTd1eTRuUm10UlI3R09iSGRWRGxaQS1UVy04a3VGbjRvQ1pTbklRTFVacXktZC12bC1zQWRQeW1PaktacklERjRoM3FqOUU1RFpkUGc2ZEw0S1FrdEx4SXd1VVFkS3dwNGRlU2FNclNwVVNEZkVQUUVwRGpFODhybXM?oc=5",
-      "image": null,
-      "published_at": "2025-09-09T02:48:00.000Z",
-      "summary": "IND vs UAE: Gautam Gambhir wins hearts, signs autographs ahead of India's Asia Cup opener  The Times of India"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -615,9 +625,9 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "IDF names Lt. Matan Abramovitz as fourth soldier killed in Monday's tank explosion in Gaza",
+      "title": "IDF issues sweeping evacuation order for all Gaza City residents",
       "url": "https://www.haaretz.com/israel-news/2025-09-09/ty-article-live/tunisia-says-fire-on-gaza-bound-boat-not-caused-by-drone-despite-organizers-claims/00000199-2c34-d487-a3d9-ac3f34c60000",
-      "image": "https://img.haarets.co.il/bs/00000199-2cab-d487-a3d9-acbf9df40001/42/9a/3b445c844aaa99349dbffcd57afd/matan-abramovitz.webp?height=81",
+      "image": "https://img.haarets.co.il/bs/00000199-2b76-df0a-a3bd-7b7641c40001/62/99/5defc7f14b45919b9ddb1d23d8f1/997602.jpg?height=81",
       "published_at": "2025-09-09T02:22:55.000Z",
       "summary": ""
     },
@@ -755,11 +765,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "&#8216;Gaza will be razed,&#8217; defense minister threatens, touting targeting of high-rises",
+      "title": "Israel orders all of Gaza City to evacuate as defense minister threatens to &#8216;raze&#8217; Strip",
       "url": "https://www.timesofisrael.com/liveblog-september-9-2025/",
       "image": null,
       "published_at": "2025-09-08T22:50:08.000Z",
-      "summary": "Katz claims 30 multistory buildings brought down Monday alone * Warplanes said to carry out wave of strikes deep inside Syria * Gaza flotilla organizers claim drone hit boat, but Tunisians blame internal blast\nThe post &#8216;Gaza will be razed,&#8217; defense minister threatens, touting targeting o"
+      "summary": "Katz claims 30 multistory buildings brought down Monday alone * Warplanes said to carry out wave of strikes deep inside Syria * Gaza flotilla organizers claim drone hit boat, but Tunisians blame internal blast\nThe post Israel orders all of Gaza City to evacuate as defense minister threatens to &#821"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1202,16 +1212,6 @@
       "summary": "The three drones that triggered sirens near the Dead Sea and in Eilat were intercepted in under half an hour, the army said. Several hours later, sirens sounded for 40 minutes in the southern West Bank, which the IDF clarified was due to false identification"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF names fourth soldier killed in northern Gaza tank explosion",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-866695",
-      "image": null,
-      "published_at": "2025-09-08T19:43:28.000Z",
-      "summary": "At around 6 a.m., a cell comprising three terrorists arrived on the outskirts of Sheikh Radwan in northern Gaza, opened fire, and threw an explosive device into the tank. "
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1252,16 +1252,6 @@
       "summary": "Observers are sceptical that Donald Trump&#039;s US ceasefire proposal can bring Israel&#039;s genocide in Gaza to an end."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Nepal ‘Gen Z’ protest death toll climbs, parliament stormed",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/8/nepal-gen-z-protest-death-toll-climbs-parliament-stormed?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-08T19:15:59.000Z",
-      "summary": "‘Gen Z’ demonstrators took to the streets and stormed parliament amid anger over a social media ban and corruption."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1290,16 +1280,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a169/live/17d8cda0-8ce1-11f0-a91d-134692780fdd.jpg",
       "published_at": "2025-09-08T19:11:14.000Z",
       "summary": "The French government loses a vote of confidence and PM François Bayrou will resign on Tuesday."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Banksy mural shows judge beating protester amid Palestine Action crackdown",
-      "url": "https://www.aljazeera.com/news/2025/9/8/banksy-mural-shows-judge-beating-protester-amid-palestine-action-crackdown?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-08T19:10:08.000Z",
-      "summary": "Banksy’s new High Court mural is thought to criticise Britain’s crackdown on Palestine Action protests."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2999,6 +2979,26 @@
       "url": "https://www.jpost.com/breaking-news/article-856824",
       "image": null,
       "published_at": "2025-06-06T20:27:50.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "Shin Bet arrests suspect who damaged Netanyahu's convoy vehicle - report",
+      "url": "https://www.jpost.com/breaking-news/article-856823",
+      "image": null,
+      "published_at": "2025-06-06T20:12:48.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "President Herzog honors Shira Banki at Jerusalem Pride Parade",
+      "url": "https://www.jpost.com/breaking-news/article-856818",
+      "image": null,
+      "published_at": "2025-06-06T16:47:45.000Z",
       "summary": ""
     }
   ]
