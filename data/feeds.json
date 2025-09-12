@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-09-12T08:41:33.683Z",
+  "generated_at": "2025-09-12T09:09:15.789Z",
   "items": [
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE summons Israeli ambassador following airstrikes in Doha - report",
+      "url": "https://www.jpost.com/middle-east/article-867263",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1840,w_3200/680508",
+      "published_at": "2025-09-12T11:26:07.000Z",
+      "summary": "Doha will host an emergency Arab-Islamic summit this Sunday and Monday to discuss the Israeli attack."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,9 +25,29 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
+      "title": "BBC censures own presenter for calling Hamas 'terror group'",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-867262",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3668,w_5500/680746",
+      "published_at": "2025-09-12T11:15:32.000Z",
+      "summary": "During a 15 June 2025 news broadcast, a presenter referred to Hamas as \"the terror group,\" leading to complaints from viewers."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israeli airstrikes lead to 'broader support for Houthis,' Yemeni opposition officials say - report",
+      "url": "https://www.jpost.com/middle-east/article-867261",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/679242",
+      "published_at": "2025-09-12T11:01:02.000Z",
+      "summary": "The strikes allow the Houthis to garner public support against Israel, KAN quoted the source as saying."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
       "title": "WATCH: FBI releases footage of Charlie Kirk shooting suspect fleeing scene",
       "url": "https://www.jpost.com/international/article-867260",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/680745",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_782,w_1230/680745",
       "published_at": "2025-09-12T10:34:54.000Z",
       "summary": "According to the FBI, trace evidence collected from the rooftop includes shoe impressions, a forearm imprint, and a palm print."
     },
@@ -52,6 +82,36 @@
       "summary": "The Trump administration's frustrations with Netanyahu have reportedly deepened since the strike on Tuesday, prompting officials to question whether Netanyahu is attempting to sabotage the talks. "
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "רצח האישה בירושלים: הגרוש החזיר את הבת - ופתח באש. בן זוגה שמע את הירי",
+      "url": "https://www.ynet.co.il/news/article/b1l1zi11jex",
+      "image": null,
+      "published_at": "2025-09-12T08:42:00.000Z",
+      "summary": "המאבטח דניאל זלקה החזיר את הבת המשותפת אל אשתו לשעבר שבהיריון - ואז ירה בה למוות. בעלה שהה בקרבת מקום. לפי החשד, הגרוש, שניסה לשים קץ לחייו ומצבו קשה מאוד, תכנן את הרצח. מעצרו הוארך. ארגוני נשים פנו לממשלה: אישה נרצחת בכל 8 ימים בממוצע - החמירו את מדיניות נשיאת הנשק"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "‘Words presented out of context’: IHC CJ clarifies exchange with Imaan Mazari",
+      "url": "https://www.dawn.com/news/1941439/words-presented-out-of-context-ihc-cj-clarifies-exchange-with-imaan-mazari",
+      "image": "https://i.dawn.com/large/2025/09/121311223805b29.webp",
+      "published_at": "2025-09-12T08:41:27.000Z",
+      "summary": "Islamabad High Court (IHC) Chief Justice Sardar Muhammad Sarfraz Dogar provided a clarification on Friday regarding his reported remarks during an exchange he had with renowned rights activist and lawyer Imaan Zainab Mazari-Hazir the previous day, saying that his words were presented “out of cont..."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "More than 300 South Korean workers return home after US immigration raid",
+      "url": "https://www.aljazeera.com/news/2025/9/12/more-than-300-south-korean-workers-return-home-after-us-immigration-raid?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-12T08:38:38.000Z",
+      "summary": "Images of arrested workers in handcuffs and chains have caused outrage over what many see as a betrayal of an ally."
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -60,6 +120,16 @@
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1199,w_2160/680735",
       "published_at": "2025-09-12T08:33:08.000Z",
       "summary": "“Charlie Kirk was assassinated by jews,” tweeted an account called Greatest Noticer, whose username is an apparent allusion to a neo-Nazi watchword."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel renews strikes on southern Lebanon – VIDEO - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sdkJpeWVRRnZEYWxWVnpMejdWZGx5Wkh2M2phemFJcDFGTEdlOVNZQllheGRzZW5LYm9KWDVMMnlubFB6VFpKaW92d2lsVWsteHNseVREd3ZXOEJCN0M5YWxGYy1abWU4OU11X3JYZjFDZXo0aFU0?oc=5",
+      "image": null,
+      "published_at": "2025-09-12T08:31:26.000Z",
+      "summary": "Israel renews strikes on southern Lebanon – VIDEO  Latest news from Azerbaijan"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -142,6 +212,16 @@
       "summary": "The court rules that his rape conviction is already in the public domain. "
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israel’s pattern is “to sabotage any efforts to end war”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/9/12/israels-pattern-is-to-sabotage-any-efforts-to-end-war?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-12T08:15:28.000Z",
+      "summary": "Israel’s attack on Hamas leaders in Qatar is part of a pattern to sabotage peace efforts, says analyst Omar Rahman"
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -150,16 +230,6 @@
       "image": null,
       "published_at": "2025-09-12T08:12:33.000Z",
       "summary": "מתחילת הטבח הייתה משפחת גודו-הבדלה מכיסופים נצורה 25 שעות שבהן התנהלו בסלון ביתה קרבות של ממש. בבוקר למחרת, כשהם עדיין ממתינים לחילוץ, נורו לתוך הממ\"ד ארבעה כדורים שהרגו את האב. רק שנה וחצי לאחר מכן נמסר רשמית: היורה היה חייל צה\"ל. כעת דורשת אשתו לימור לפתוח בחקירת מצ\"ח: \"זו הייתה פקודה לא חוקית בעל"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "‘Words presented out of context’: IHC CJ clarifies exchange with Imaan Mazari",
-      "url": "https://www.dawn.com/news/1941439/words-presented-out-of-context-ihc-cj-clarifies-exchange-with-imaan-mazari",
-      "image": "https://i.dawn.com/large/2025/09/121311223805b29.webp",
-      "published_at": "2025-09-12T08:11:44.000Z",
-      "summary": "Islamabad High Court (IHC) Chief Justice Sardar Muhammad Sarfraz Dogar provided a clarification on Friday regarding his reported remarks during an exchange he had with renowned rights activist and lawyer Imaan Zainab Mazari-Hazir the previous day, saying that his words were presented “out of cont..."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -287,7 +357,7 @@
       "topic": "News",
       "title": "'A serious and unacceptable act': Venetian mayor condemns antisemitic attack on Jewish tourists",
       "url": "https://www.jpost.com/diaspora/antisemitism/article-867248",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1200,w_2160/680734",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/680734",
       "published_at": "2025-09-12T07:53:43.000Z",
       "summary": "The incident follows another report of a Jewish couple being attacked in Venice last month."
     },
@@ -382,6 +452,26 @@
       "summary": "John Bercow denounces monarchy and backs Iran’s democratic resistance at the 2025 Free Iran rally in Brussels.\nThe post John Bercow at Brussels Free Iran Rally: Rejecting Monarchy, Backing Democratic Resistance appeared first on Iran Freedom."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "US joins UN Security Council’s condemnation of Qatar airstrike: Latest - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR012UVVFSGxXSWxBTXRnYXVsdHFvOGU5bnowOHl2UGhFQ2JhQnBrVHJkc3Z3czdtaFlZamRnSmotU3J3ZEpWX1ltUndjUjhZNzViOV8tcVBhV2JJYXczM3R6bUY5SmQ1cGZIazcxV1NBTHdXMC16QTlOaVNqMDJZV2ZxdjNDX1p0aWxSNTYtZFBIRkk5YzZvN3VpTnNHUWhQTGRkLS1FQ3VPdjlUdGFTQ29OXzVvTmdFOFdyX3gxQTJOVThm?oc=5",
+      "image": null,
+      "published_at": "2025-09-12T07:30:00.000Z",
+      "summary": "US joins UN Security Council’s condemnation of Qatar airstrike: Latest  The Independent"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE calls Israel actions 'reckless' at UN Security Council - ARN News Centre",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT0RYNGJrNlZ3NElDclo5RnBtTUZ0Vk9tdmVYaDQ2SnQtcElkcGlfM29oNXpUSHRKN0RVTnFsMl9xamwwZ0w1UXBqYmlVaW1oN2lwZENOYUpzWGg3eTU1R2xwbjFZV1ZLSWNNME5jOEdFUk5aSWRTYV9SUEZZOHJuU1Fja01DS2l1N0lrbUVSSWpRTndEUnFvVDNnanBzMW5IbEdJ?oc=5",
+      "image": null,
+      "published_at": "2025-09-12T07:30:00.000Z",
+      "summary": "UAE calls Israel actions 'reckless' at UN Security Council  ARN News Centre"
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -440,16 +530,6 @@
       "image": null,
       "published_at": "2025-09-12T07:15:17.000Z",
       "summary": "Польша закрыла все пограничные пункты на границе с Беларусью в ночь на 12 сентября. Польские пограничники протянули колючую проволоку перед пунктами пропуска и установили металлические заборы, сообщило белорусское государственное агентство «Белта»."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "US joins UN Security Council’s condemnation of Qatar airstrike: Latest - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR012UVVFSGxXSWxBTXRnYXVsdHFvOGU5bnowOHl2UGhFQ2JhQnBrVHJkc3Z3czdtaFlZamRnSmotU3J3ZEpWX1ltUndjUjhZNzViOV8tcVBhV2JJYXczM3R6bUY5SmQ1cGZIazcxV1NBTHdXMC16QTlOaVNqMDJZV2ZxdjNDX1p0aWxSNTYtZFBIRkk5YzZvN3VpTnNHUWhQTGRkLS1FQ3VPdjlUdGFTQ29OXzVvTmdFOFdyX3gxQTJOVThm?oc=5",
-      "image": null,
-      "published_at": "2025-09-12T07:14:06.000Z",
-      "summary": "US joins UN Security Council’s condemnation of Qatar airstrike: Latest  The Independent"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -552,46 +632,6 @@
       "summary": "Investigators have released photographs and video footage of suspect, are calling on the public to help identify him."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "When G-d wants you to compliment yourself",
-      "url": "https://www.israelnationalnews.com/news/414822",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1150778.jpg",
-      "published_at": "2025-09-12T06:50:13.000Z",
-      "summary": "Before I Confess My Sins, I Must Confess My Greatness."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Казахстан возобновляет железнодорожное сообщение между Алматы и Москвой спустя 8 лет",
-      "url": "https://centralasia.media/news:2327873?from=rss",
-      "image": null,
-      "published_at": "2025-09-12T06:47:32.000Z",
-      "summary": "Прямое железнодорожное сообщение между Алматы и Москвой возобновится 26 октября, сообщили в АО «Пассажирские перевозки» — одной из компаний «Казахстанских железных дорог». Сообщение было прервано восемь лет назад — в 2017 году."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "The UAE weather forecast announces the chance of a rainy weekend - Emirates Woman",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORDRyc3YyelFMMDhsTXRvVnh4ZlR2Z0F2MVhwNUNXSFVKWjNwbEJvaWFLaV9qT25tRk5wZzRPXzJvRGhGX29uRF8zZVR4RGtaT25sWEJWaWRCanJJamIwbUE4V0lvRDV4UnFZelljcnNHLWhOV2xwM3EzZEgtUUhaRHN3aDNrYUFLdGFnd25DTUphRTBQZHc?oc=5",
-      "image": null,
-      "published_at": "2025-09-12T06:47:29.000Z",
-      "summary": "The UAE weather forecast announces the chance of a rainy weekend  Emirates Woman"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Where there is faith, there is freedom",
-      "url": "https://www.israelnationalnews.com/news/414821",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1152855.jpg",
-      "published_at": "2025-09-12T06:45:40.000Z",
-      "summary": "Israel and the United States are nations of liberty, standing as spiritual twins against the forces of tyranny, darkness and enslavement. Opiniion."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -600,16 +640,6 @@
       "image": null,
       "published_at": "2025-09-12T06:43:57.000Z",
       "summary": "Here are the key events on day 1,296 of Russia’s war on Ukraine."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Lebanon grants license to Elon Musk’s Starlink to boost internet services - Economy Middle East",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONDN3QXQ4TVNsQk1vQnhsVG5GbDRmejRYbDlsNzhXaFJFbmNXemVFZTBkNDlhZ1cwNTR4OUVPWkljREloVWhySkExVmdfZHNCYk12ZUgzZm9rNm0wTktIWTRHMVh2b2lYaGxOT0RPeGhWd1ItMFVPNkdteU1Ib29nUkxWbXVFZjU2RHhyaDdUb2xMNVV3cXNNRmNmb0FfSnAzSndyYjIxQnZJRkRx?oc=5",
-      "image": null,
-      "published_at": "2025-09-12T06:34:32.000Z",
-      "summary": "Lebanon grants license to Elon Musk’s Starlink to boost internet services  Economy Middle East"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -622,34 +652,14 @@
       "summary": "אחרי שקבוצת האקרים טורקית פרסמה את מספר הטלפון של שר הביטחון ישראל כ\"ץ, והתקשרה אליו בשיחת וידיאו, מספרים נוספים לכאורה נחשפו על ידם ברשת X. בין היתר פורסמו הטלפונים של יואב גלנט, יו\"ר הכנסת אמיר אוחנה, השר דיכטר ועוד"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "200 employees found involved in misappropriation during anti-dengue drive in Pindi",
-      "url": "https://www.dawn.com/news/1941312/200-employees-found-involved-in-misappropriation-during-anti-dengue-drive-in-pindi",
-      "image": "https://i.dawn.com/large/2025/09/121130265d7ea57.webp",
-      "published_at": "2025-09-12T06:31:53.000Z",
-      "summary": "RAWALPINDI: Deputy Commissioner Dr Hassan Waqar Cheema on Thursday asked District Health Authority to take action against 200 health employees under the Punjab Employees Efficiency, Disciplinary and Accountability Act for being involved in misappropriation during the campaign against dengue mosqu..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UN General Assembly to vote on a Hamas-free Palestinian state",
-      "url": "https://www.al-monitor.com/originals/2025/09/un-general-assembly-vote-hamas-free-palestinian-state",
-      "image": null,
-      "published_at": "2025-09-12T06:30:19.000Z",
-      "summary": "The UN General Assembly will vote on Friday whether to back the \"New York Declaration,\" a resolution which seeks to breathe new life into the two-state solution between Israel and Palestine -- without the involvement of Hamas.Although Israel has criticized UN bodies for nearly two years over thei..."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Striking out: Legality of Israel&#8217;s strike against Hamas in Doha called into question",
+      "title": "Striking out: Legality of Israel&#8217;s attack on Hamas leaders in Doha called into question",
       "url": "https://www.timesofisrael.com/striking-out-legality-of-israels-strike-against-hamas-in-doha-called-into-question/",
       "image": null,
       "published_at": "2025-09-12T06:30:19.000Z",
-      "summary": "Doctrine of 'unwilling and unable' allows states to strike in non-hostile countries, but Doha has insisted Israel knew about and even requested Hamas leaders' presence there\nThe post Striking out: Legality of Israel&#8217;s strike against Hamas in Doha called into question appeared first on The Time"
+      "summary": "Doctrine of 'unwilling and unable' allows states to strike in non-hostile countries, but Doha has insisted Israel knew about and even requested Hamas leaders' presence there\nThe post Striking out: Legality of Israel&#8217;s attack on Hamas leaders in Doha called into question appeared first on The T"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -725,11 +735,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Man kills ex-wife, shoots himself, in Jerusalem&#8217;s Gilo neighborhood",
+      "title": "Man kills pregnant ex-wife, shoots himself, in Jerusalem&#8217;s Gilo neighborhood",
       "url": "https://www.timesofisrael.com/man-kills-ex-wife-shoots-himself-in-jerusalems-gilo-neighborhood/",
       "image": null,
       "published_at": "2025-09-12T05:34:27.000Z",
-      "summary": "Murder victim, killed outside her home, said to have been pregnant and recently remarried; 2025 has seen 24 women  and one child murdered in domestic disputes, up from last year\nThe post Man kills ex-wife, shoots himself, in Jerusalem&#8217;s Gilo neighborhood appeared first on The Times of Israel.\n"
+      "summary": "Murder victim, killed outside her home, had recently remarried; 2025 has seen 24 women and one child murdered in domestic disputes, up from last year\nThe post Man kills pregnant ex-wife, shoots himself, in Jerusalem&#8217;s Gilo neighborhood appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1302,16 +1312,6 @@
       "summary": "In his letter, Netanyahu asked that matters be rushed so that Zini could take the appointment already on September 21, when the acting Shin Bet director 'S' finishes his tenure. "
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בריטניה דחתה בקשות להוצאת צו מעצר נגד הנשיא הרצוג",
-      "url": "https://www.ynet.co.il/news/article/r13pehgjeg",
-      "image": null,
-      "published_at": "2025-09-11T20:54:11.000Z",
-      "summary": "קרן \"הינד רג'אב\" וארגונים פרו-פלסטינים נוספים הגישו מה שכינו כ\"תיק עם ראיות ברורות ומפורטות\", ודרשו לעצור את נשיא המדינה המבקר בלונדון. הבריטים דחו, והארגונים הודיעו שיעתרו לעליון. הנשיא השתתף באירוע התרמה עם שורדת השבי אמילי דמארי, ששיתפה: \"לא רציתי להיחטף, העדפתי למות\""
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1512,16 +1512,6 @@
       "summary": "Kirk's killing offered right-wing Israeli politicians a chance to fold an American figure into their struggle against the world, casting Israel's critics, the left and Muslims as common enemies under the banner of 'Judeo-Christian values'"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Ireland won’t participate in Eurovision 2026 if Israel does: Broadcaster",
-      "url": "https://www.aljazeera.com/news/2025/9/11/ireland-wont-participate-in-eurovision-2026-if-israel-does-broadcaster?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-11T19:00:22.000Z",
-      "summary": "RTE says participating would be &#039;unconscionable&#039; as a result of Israel&#039;s war on Gaza and the &#039;appalling loss of lives&#039;."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1530,16 +1520,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8819/live/929f57c0-8f2a-11f0-b391-6936825093bd.jpg",
       "published_at": "2025-09-11T18:55:36.000Z",
       "summary": "Fifty-two prisoners have been released, but more than 1,000 political prisoners remain in jail."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Litton Das guides Bangladesh away from Hong Kong shock in Asia Cup T20",
-      "url": "https://www.aljazeera.com/sports/2025/9/11/litton-das-guides-bangladesh-away-from-hong-kong-shock-in-asia-cup-t20?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-11T18:52:16.000Z",
-      "summary": "Bangladesh avoid upset in Asia Cup opener after captain Litton Das hits a half-century in seven wicket T20 win."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2999,6 +2979,26 @@
       "url": "https://www.jpost.com/breaking-news/article-856824",
       "image": null,
       "published_at": "2025-06-06T20:27:50.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "Shin Bet arrests suspect who damaged Netanyahu's convoy vehicle - report",
+      "url": "https://www.jpost.com/breaking-news/article-856823",
+      "image": null,
+      "published_at": "2025-06-06T20:12:48.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "President Herzog honors Shira Banki at Jerusalem Pride Parade",
+      "url": "https://www.jpost.com/breaking-news/article-856818",
+      "image": null,
+      "published_at": "2025-06-06T16:47:45.000Z",
       "summary": ""
     }
   ]
