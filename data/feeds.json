@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-09-14T17:31:04.430Z",
+  "generated_at": "2025-09-14T18:10:22.746Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Dozens of Mossad women penetrated Iran during June operation - exclusive",
+      "title": "Dozens of Mossad women penetrated Iran during 12-Day War- exclusive",
       "url": "https://www.jpost.com/israel-news/article-867443",
       "image": null,
       "published_at": "2025-09-14T20:29:34.000Z",
@@ -27,7 +27,7 @@
       "topic": "News",
       "title": "Spain's La Vuelta cycling race cancelled after pro-Palestinian protests",
       "url": "https://www.jpost.com/diaspora/article-867441",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3966,w_5726/681020",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/681020",
       "published_at": "2025-09-14T20:01:41.000Z",
       "summary": "A winner was announced after anti-Israel protesters wreaked havoc, causing the final leg of the cycling race to be cancelled."
     },
@@ -77,7 +77,7 @@
       "topic": "News",
       "title": "Antisemitic, anti-Israel conspiracy theories surge following Charlie Kirk's assassination",
       "url": "https://www.jpost.com/diaspora/antisemitism/article-867435",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2667,w_4000/680668",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/680668",
       "published_at": "2025-09-14T18:40:20.000Z",
       "summary": "“Pretty obvious that Israel ordered the hit after Charlie started noticing,” claimed far-right conspiracy theorist Stew Peters on X."
     },
@@ -112,6 +112,46 @@
       "summary": "The Qatari Prime Minister released a statement ahead of a summit to discuss cooperation between Arab nations and the impact of Israel's Doha strike."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בכיר חמאס שנטען שהיה במבנה בדוחא הופיע לראשונה",
+      "url": "https://www.ynet.co.il/news/article/bkln1k4oge",
+      "image": null,
+      "published_at": "2025-09-14T17:55:54.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Rubio Visits Israel In Wake Of Qatar Attack, As IDF Intensifies Strikes In Northern Gaza - HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUnNsM2RXc2w0ZjRuQXdXUjlVbmZxbzN0dHhoNmVVS044UGVVTjQ4b1dLOWVzeGtyRVBaZVNyNlAzQWFiS3lBWU14V19YUkpYZHdrUmFzc2k5UjRvU2pDdTU3dzlRbkFnMEpFY0FuZmFoSGxoOGkwMC11QVFIdE9RZFl5YWhibjN3QjgteEM5Ylh4OVAzYjNfejdnNmRBam1nOEtQWnpZRjhNRVhaUm1ySUpGc2lKdnlLYjA2bVpOTWhGTFRiSXJrZXVjdWJ0d9IBtwFBVV95cUxQLXRIb2hTcFNtRlFUajlLd01QVFcweWk2YVdmeHdtNFFUZjNlSnZnWnltbHN3WWRWaGxTa0l1WF8wTTV1MVl1Y3FXZ01aLU5GU2oyeVJaeUpSMVIyTE94Ui1DYVl5TUVRSmlRZU1JRVUtZHQ1WWd6VUhYa0wtWVJacjV3STFmV2htNm5vRDhxNXI0MVJyb3lzTy1BMWk5VjVhVTNlNG1QT0JTR2hEeGl5RldTT1oySWs?oc=5",
+      "image": null,
+      "published_at": "2025-09-14T17:51:18.000Z",
+      "summary": "Rubio Visits Israel In Wake Of Qatar Attack, As IDF Intensifies Strikes In Northern Gaza  HuffPost"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Qatari PM says Israel must be &#8216;punished&#8217; for strike, vows to continue ceasefire efforts",
+      "url": "https://www.timesofisrael.com/qatari-pm-says-israel-must-be-punished-for-strike-vows-to-continue-ceasefire-efforts/",
+      "image": null,
+      "published_at": "2025-09-14T17:49:02.000Z",
+      "summary": "But draft resolution ahead of Doha summit, which falls on 5th anniversary of Abraham Accords, reportedly does not include any concrete diplomatic or economic consequences\nThe post Qatari PM says Israel must be &#8216;punished&#8217; for strike, vows to continue ceasefire efforts appeared first on Th"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "'It's a kind of suicide': Israel's foreign Ministry freezes international cooperation budget",
+      "url": "https://www.haaretz.com/israel-news/2025-09-14/ty-article/.premium/its-a-kind-of-suicide-israels-foreign-ministry-freezes-intl-cooperation-budget/00000199-4903-d1b4-abdb-fbafaf650000",
+      "image": "https://img.haarets.co.il/bs/00000199-4903-d1b4-abdb-fbafac8f0000/d3/b0/47b523424a5cb44d47be6ffd24c0/63046976.JPG?height=81",
+      "published_at": "2025-09-14T17:46:24.000Z",
+      "summary": "The Foreign Ministry declines to say where the funds will be redirected. A document to employees says the director general will have discretion on the distribution. 'We're closing the door to those willing to work with us,' said a top ministry official"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -120,6 +160,56 @@
       "image": null,
       "published_at": "2025-09-14T17:41:17.000Z",
       "summary": "The threat is very real, as Hamas has built tunnels along key routes and under many buildings and streets in the Strip. "
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "55% of disabled Gaza war veterans treated by army rehab have mental health issues",
+      "url": "https://www.haaretz.com/israel-news/2025-09-14/ty-article/.premium/55-of-disabled-gaza-war-veterans-treated-by-army-rehab-have-mental-health-issues/00000199-4909-d1c2-a799-ddcdbf1c0000",
+      "image": "https://img.haarets.co.il/bs/00000198-e71b-d181-a99b-e71b66710001/7b/bd/0070abbf4761927ee25bfb58b58d/186781.jpg?height=81",
+      "published_at": "2025-09-14T17:41:16.000Z",
+      "summary": "'Each social worker has 750 patients,' the Defense Ministry said, warning staff shortages severely hinder care. Around 20,000 veterans are in the Rehabilitation Division, with 10,700 suffering psychological trauma. By 2028, the division expects to treat 100,000 injured, half with mental health condi"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אמו של גיא גלבוע-דלאל: \"עודכנתי שהוא מוחזק מעל הקרקע בעיר עזה - כמגן אנושי\"",
+      "url": "https://www.ynet.co.il/news/article/rjdg2ueigg",
+      "image": null,
+      "published_at": "2025-09-14T17:40:11.000Z",
+      "summary": "אמו של החטוף שתועד בסרטון של חמאס סיפרה כי הוא \"עושה תענית דיבור כי לא נתנו לו מספיק מים\", והוסיפה: \"אני כבר לא יודעת מה לעשות\""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Anti-Israel protesters block final stage of Vuelta after drawing Spanish PM&#8217;s praise",
+      "url": "https://www.timesofisrael.com/anti-israel-protesters-block-final-stage-of-vuelta-after-drawing-spanish-pms-praise/",
+      "image": null,
+      "published_at": "2025-09-14T17:39:04.000Z",
+      "summary": "Finale of major cycling race canceled in Madrid after clashes, despite being guarded by over 1,500 police officers; member of Israeli cycling team takes Best Young Rider\nThe post Anti-Israel protesters block final stage of Vuelta after drawing Spanish PM&#8217;s praise appeared first on The Times of"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Final stage of Vuelta abandoned because of protests",
+      "url": "https://www.bbc.com/sport/cycling/articles/crl5dele2wro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeeb/live/97c78650-918c-11f0-9f13-01e9f580d459.jpg",
+      "published_at": "2025-09-14T17:37:53.000Z",
+      "summary": "The final stage of the Vuelta a Espana is abandoned after pro-Palestinian protesters enter the course in the centre of Madrid."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Test books lost from Chief Rabbinate ordination exam",
+      "url": "https://www.israelnationalnews.com/news/414923",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1126992.jpg",
+      "published_at": "2025-09-14T17:36:51.000Z",
+      "summary": "The test books of sixty candidates for Rabbinic ordination were lost during the marking process. After months of uncertainty, the Chief Rabbinate summoned the candidates for a replacement exam."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -142,24 +232,14 @@
       "summary": "Following the failed Qatar strike and international pressure, Israel faces a critical decision: agree to a hostage deal and ceasefire or proceed with a full-scale ground operation into Gaza City."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Spain's PM praises pro-Palestinian protesters as Vuelta race nears end",
-      "url": "https://www.jpost.com/international/article-867418",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3793,w_5986/680988",
-      "published_at": "2025-09-14T17:26:06.000Z",
-      "summary": "Pedro Sanchez endorsed anti-Israel protests that disrupted the Vuelta a España cycling race."
-    },
-    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Rubio is in Israel in wake of Qatar attack as Israeli strikes intensify in northern Gaza - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVml1N0M5VTZoV0tVTDhYSDctS2tHZWplSVNBdjFNNkN3RG1XZmNZdWx1TjB1RUhCOVZ3OHQxQW80VjR3cVpWbW4tWnQ1SEwxeUFKMmhhTE5TOUhPNTNpOE1objJDdzJEV3hnT29rNGlWWkJtTTVMakZxbHM0bDkzZmYyN3FGU2MwV3BWNDkzX21xQkFJWG9LaVh2WGJNcGhKQUJLSzFRRm1sdDZIZ0ozLXR5NHBJU2s?oc=5",
+      "title": "UAE Golden Visa for High School and University Students: Who Qualifies, What It Offers, and How to Apply - news24online.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUDY5WkVsQUM2V2Ridy1Ga2wzb1g2UWxCSGs3SFBZVnN2bU90eVNmSDRUdGpRRzZrVHN4UGdwNEVpMnBLc0hIN1BrYmxuODYyb2R1Q3ZmTGxjeEJrbG5wZmxMbEdIQjI5ZGNGamdmZzFzbFl5dTVkTmlhR0tpZF9pX1BpRUpQcFdrUzAxYjVTU1dCTkh3OVV5NFZjYUd2cm1FcGJ5c2ZkY2k4Ymc2ZnVuVzktNE1xWTBZbXVqUWhHQTc0MlpaVzRBXzBnTkw0Vm8?oc=5",
       "image": null,
-      "published_at": "2025-09-14T17:19:36.000Z",
-      "summary": "Rubio is in Israel in wake of Qatar attack as Israeli strikes intensify in northern Gaza  Pittsburgh Post-Gazette"
+      "published_at": "2025-09-14T17:32:03.000Z",
+      "summary": "UAE Golden Visa for High School and University Students: Who Qualifies, What It Offers, and How to Apply  news24online.com"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
@@ -172,16 +252,6 @@
       "summary": "Former MK Yehudah Glick, himself the survivor of an assassination attempt, will lead a prayer gathering of Jews and Christians at 'the house of prayer for all nations.'"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Final stage of Vuelta abandoned because of protests",
-      "url": "https://www.bbc.com/sport/cycling/articles/crl5dele2wro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeeb/live/97c78650-918c-11f0-9f13-01e9f580d459.jpg",
-      "published_at": "2025-09-14T17:10:06.000Z",
-      "summary": "The final stage of the Vuelta a Espana is abandoned after pro-Palestinian protesters enter the course in the centre of Madrid."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -190,6 +260,36 @@
       "image": "https://img.haarets.co.il/bs/00000199-4926-d1b4-abdb-fbafb3750001/b0/af/68a034c04f818ebdf87bdb372694/63047009.JPG?height=81",
       "published_at": "2025-09-14T17:03:15.000Z",
       "summary": "'The audience has spoken,' said Noam Tibon, whose rescue of his family members on October 7 is documented in the film. 'This victory belongs to everyone who was there on October 7 and knows the truth about that horrible day'"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Lebanon Classic Car - chronicleonline.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTlwZ0lkQkotWWRTbW9iUjE3UnZXa21tMWk5Z243QnNXVFdkaEtxc0ZDZ2k3SUVkcnh5YTViQTBlLUFDdER4RUg4RXZmTUhmOTZaWFVqUVFpVUpVeURPNkY2Y3ZMc2E0Ty1uOUlCbFNVTTlSV1F3N2ltcDBEUDBqTGVvYi1BREZFODd0ZW8xdC1VVVNTaDRoU25kNXNEM3ZwajQyODB1QTQwcEdtdFFn?oc=5",
+      "image": null,
+      "published_at": "2025-09-14T17:00:01.000Z",
+      "summary": "Lebanon Classic Car  chronicleonline.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Lebanon Classic Car - Idaho State Journal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVQwVjFWNEV4aDFyVW1INUtEU1RYWlhXVVhsS1ppRngyWkZ2RnBtQjQyQTZndjNUVkt5RWFOZ1NUdmVva3pGUWJmaWxBdUllT21odkdyRWtnV2VzYU8xSEstdGc2QnFFcE41UkFTajJtOEdkcU9vX1RlNG8wb3JWRm1mU09PNlZwamYyM2M1RHU0bFFJdUo4aEloVDBUWWNBVXdHY0d3aGtPc1RTRmFGT0VR?oc=5",
+      "image": null,
+      "published_at": "2025-09-14T16:58:12.000Z",
+      "summary": "Lebanon Classic Car  Idaho State Journal"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Rubio arrives in Israel amid rising tensions following Qatar attack - Daily Express US",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM0Zjd0l6NmFsTDM3TjRaNkVwdUNrVzRLdEM0WmtoZ1FYSDB3WTdtWV94c3g1ZTNrM3cyR0wySzA1NmZmOTFyVjFiVnVTY1R0cDhTU0V5RUVUSDc2ZE4yb2pIcDBBbjR0YXByUXJ6WEQxUFVoQ3J5cjFwUnFhemdVUFhTMXBaOE1n0gGOAUFVX3lxTE94djdNMk5CSDN6UmhRM01KZGlTYzlSUWZuME1UTTgxVHlGaUR6MXVMa2oyNXNYT1Q1NVpoLVZUaEticW80QzJCRy1QS1lEOV9iOE1OMURaR19reHAxdzI5TDRlOXFWako5dTlFODk5c2JpZGZLLU1mR0ZkS2dWWkV3OUJ4YlF2YWRlSmJFYmc?oc=5",
+      "image": null,
+      "published_at": "2025-09-14T16:57:20.000Z",
+      "summary": "Rubio arrives in Israel amid rising tensions following Qatar attack  Daily Express US"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
@@ -235,11 +335,31 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
+      "title": "Lebanon Classic Cars - Goshen News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGtqbXV6dFBfQ1dESkRDcTFYOWJxbDdSa3FCTzhlNzYzUUlsZ01MUldlZzJHdzZhR00zb1VFa2FBRXNLYUhodk9tUG5IbWhaakg0dFVRXzNsZTRzRS1qZEN5aU1KY25HX1hLVUZ6TmZrSlcxbUlaMFg3RXp0aGRJSV9IVlBmZGZTT3J5Wl9hdjZhcjlTOUM3ajNNVERlZ1ljc2IzUGk5QVd4T1RlSlRjRzNLYlo?oc=5",
+      "image": null,
+      "published_at": "2025-09-14T16:49:55.000Z",
+      "summary": "Lebanon Classic Cars  Goshen News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
       "title": "Lebanon Classic Cars - The Herald Journal",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0dtZ3J1SUdWampQbG01N3Qzb0prNVBfYS1zWkpWOFFsVV8yMlZGWWRpSjVPSjRqbnFjN0dGcV95WG5Fc0FjeVRBZ2EyS21Xa0ZoS3ctOWhLbUJ6U1UtVTN6eHlEUXZ4SEcxNUVIMGwyM3YyNDFSS0VQZkk4ZkZwYjcxN3YyRW9CYmY5NXVRVXJiQWRjd2gxNTdnLTFBQQ?oc=5",
       "image": null,
       "published_at": "2025-09-14T16:49:48.000Z",
       "summary": "Lebanon Classic Cars  The Herald Journal"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Arab Ministers Meet on Response to Israeli Attack in Qatar - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMnZLNDBLSW1PdGJhUFdBRHo0TzJBNmRvLU5KaGszaFlMZERxaUhSQjJvdmRQZ1JkTzFnREpPaVpsT19fYXNidkRhaEZieGZEb0NmaEZsdjY0N1BCa2NvS3EyRnd0aWRLZ1BCekpwMmtsMGs1cWc0YUx3RlFiX0RxZ0Z6QnlBSWhUcFV4TQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-14T16:48:29.000Z",
+      "summary": "Arab Ministers Meet on Response to Israeli Attack in Qatar  The New York Times"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
@@ -269,7 +389,7 @@
       "url": "https://www.ynet.co.il/news/article/syvobpnile",
       "image": null,
       "published_at": "2025-09-14T16:40:29.000Z",
-      "summary": "\"פצצה מתקתקת\" בכספת הרמטכ\"ל: זמיר החליט להקפיא בחודשים את הטיפול במסקנות ועדת תורג'מן שמינה בעצמו, כדי לבחון את אופן תחקור מחדלי 7 באוקטובר. המטרה: להשיג \"שקט תעשייתי\" בתקופת התמרון בעזה. ל-ynet נודע: הוועדה מצאה ליקויים בתחקור תפקוד חטיבת המבצעים, שאותה הוביל ראש אמ\"ן כיום שלומי בינדר: \"הרמטכ\"ל מגב"
+      "summary": "\"פצצה מתקתקת\" בכספת הרמטכ\"ל: זמיר החליט להקפיא לחודשים את הטיפול במסקנות ועדת תורג'מן שמינה בעצמו, כדי לבחון את אופן תחקור מחדלי 7 באוקטובר. המטרה: להשיג \"שקט תעשייתי\" בתקופת התמרון בעזה. ל-ynet נודע: הוועדה מצאה ליקויים בתחקור תפקוד חטיבת המבצעים, שאותה הוביל ראש אמ\"ן כיום שלומי בינדר: \"הרמטכ\"ל מגב"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -295,21 +415,21 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Spain's La Vuelta halted in Madrid as police clash with pro-Palestinian protesters",
-      "url": "https://www.al-monitor.com/originals/2025/09/spains-la-vuelta-halted-madrid-police-clash-pro-palestinian-protesters",
-      "image": null,
-      "published_at": "2025-09-14T16:35:39.000Z",
-      "summary": "MADRID (Reuters) -Spain's La Vuelta cycling race was halted in Madrid on Sunday afternoon as cyclists were entering the city after police clashed with pro-Palestinian protesters in the Spanish capital's centre.   (Reporting by Inti Landauro, editing by Charlie Devereux)"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
       "title": "Tens of thousands protest against legal crackdown on Turkey's main opposition party",
       "url": "https://www.al-monitor.com/originals/2025/09/tens-thousands-protest-against-legal-crackdown-turkeys-main-opposition-party",
       "image": null,
       "published_at": "2025-09-14T16:35:39.000Z",
       "summary": "ANKARA (Reuters) -Tens of thousands of people protested in the capital Ankara on Sunday against a court case that could oust the head of the main opposition on Monday after a year-long legal crackdown on hundreds of its members.Live footage showed crowds chanting for President Tayyip Erdogan's re..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Spain's La Vuelta halted in Madrid as police clash with pro-Palestinian protesters",
+      "url": "https://www.al-monitor.com/originals/2025/09/spains-la-vuelta-halted-madrid-police-clash-pro-palestinian-protesters",
+      "image": null,
+      "published_at": "2025-09-14T16:35:39.000Z",
+      "summary": "MADRID (Reuters) -Spain's La Vuelta cycling race was halted in Madrid on Sunday afternoon as cyclists were entering the city after police clashed with pro-Palestinian protesters in the Spanish capital's centre.   (Reporting by Inti Landauro, editing by Charlie Devereux)"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -357,7 +477,7 @@
       "topic": "News",
       "title": "Arab-Islamic summit to back Qatar after Israeli attack",
       "url": "https://www.jpost.com/middle-east/article-867411",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/680980",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/680980",
       "published_at": "2025-09-14T16:30:42.000Z",
       "summary": "Prominent Arab League leaders met to discuss supporting Qatar in the aftermath of Israel's strike on Doha last week."
     },
@@ -472,16 +592,6 @@
       "summary": "UAE Tourism Set to Boost as Thrivestate Launches “Fly Before You Buy” Program in Dubai: All You Need to Know  Travel And Tour World"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Cairo cements MENA relationships with Tunisia - analysis",
-      "url": "https://www.jpost.com/international/article-867410",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/680978",
-      "published_at": "2025-09-14T15:56:40.000Z",
-      "summary": "Egypt further expanded its growing influence in North Africa by signing eight memoranda with Tunisia."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -532,26 +642,6 @@
       "summary": "Rubio visits Israel in wake of Qatar attack as Israeli strikes intensify in northern Gaza  PBS"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "The cardinal sins",
-      "url": "https://www.israelnationalnews.com/news/414918",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1057455.jpg",
-      "published_at": "2025-09-14T15:41:56.000Z",
-      "summary": "If one is forced to choose between death and violating one of these prohibitions — even in private — one should (generally) choose death. These prohibitions are that severe."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Karachi police warn citizens against aerial firing amid Pak-India Asia Cup clash",
-      "url": "https://www.dawn.com/news/1941952/karachi-police-warn-citizens-against-aerial-firing-amid-pak-india-asia-cup-clash",
-      "image": "https://i.dawn.com/large/2025/09/142030390f5c56a.webp",
-      "published_at": "2025-09-14T15:41:07.000Z",
-      "summary": "As excitement builds for Sunday’s highly anticipated Pakistan-India Asia Cup cricket match, law enforcement authorities in Karachi have issued a strong warning against celebratory aerial firing, citing concerns over public safety and law and order.\nKarachi Additional Inspector General of Police (..."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -572,16 +662,6 @@
       "summary": "אנוואר עטאללה, חבר מועצת העיר עזה, עזב את הרצועה לטורקיה עם משפחתו באישור מערכת הביטחון, ללא הסבר ברור. שר בממשלת ארגון הטרור שביקש לצאת עם משפחתו - סורב. צפו בתמונות מהפצצת רבי הקומות"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Bob Vylan frontman celebrates the killing of Charlie Kirk",
-      "url": "https://www.israelnationalnews.com/news/414916",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1198980.jpg",
-      "published_at": "2025-09-14T15:29:17.000Z",
-      "summary": "The frontman of Bob Vylan delivered a torrent of verbal abuse at the memory of Charlie Kirk during a show in Paradiso."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -590,16 +670,6 @@
       "image": null,
       "published_at": "2025-09-14T15:29:00.000Z",
       "summary": "Appointment may be sign that Netanyahu does not expect to solve dispute over Haredi enlistment and bring UTJ back into coalition; Katz currently helms four ministries\nThe post Likud’s Haim Katz okayed as permanent housing minister to replace UTJ’s Goldknopf appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Rubio is in Israel in wake of Qatar attack as Israeli strikes intensify in northern Gaza - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVWxOa1hCZ3hURVFIUUx5WEdwTDcyUVRyemE1VGdudkZWVmllNEp0eGtJMUNUOWRSb2hPMGp2a0Q2aUY4bXJEclAxaHhobUthUzBaMGlXQVRGalFwY2JuVnp5RDE5SmJyd2l4YlV2UnJlbEtHWnJJdXU3OUczRTRkeXF1X0pFQlgzMEhJSjhEVGZocXJzOThoMS1INGJjMG01RWJPamYzTjk2NVp3Z21BRjRLUkViX2stdDVKTHZwVkpOaWQwZUZkak9FUkZLcGRXeTA4cHdldWQtQQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-14T15:28:54.000Z",
-      "summary": "Rubio is in Israel in wake of Qatar attack as Israeli strikes intensify in northern Gaza  Los Angeles Times"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -985,11 +1055,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Manchester City vs Manchester United – Premier League",
+      "title": "Manchester City vs Manchester United 3-0: Premier League – as it happened",
       "url": "https://www.aljazeera.com/sports/liveblog/2025/9/14/live-manchester-city-vs-manchester-united-premier-league?traffic_source=rss",
       "image": null,
       "published_at": "2025-09-14T12:30:10.000Z",
-      "summary": "Follow the build-up, analyses, and live text commentary of the game as City host local rivals United at Etihad Stadium."
+      "summary": "All the updates as City ease past local rivals United at Etihad Stadium with a brace from Haaland and a Foden strike."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1362,16 +1432,6 @@
       "summary": "Beijing issues warning after joint exercises involving the US and Japan as it pushes a nature reserve plan in the area."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "שוב כוון לנמל התעופה רמון: יורט כטב\"ם חות'י בדרום הערבה | תיעוד",
-      "url": "https://www.ynet.co.il/news/article/bkvj711vigl",
-      "image": null,
-      "published_at": "2025-09-14T09:00:43.000Z",
-      "summary": "ההתרעות הופעלו באזור היישוב באר אורה שבדרום הערבה, סמוך לנמל התעופה שמשמש באחרונה למטרה עיקרית עבור המיליציה מתימן. כמה דקות אחר כך הוא יורט"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1380,16 +1440,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-4750-dc6e-a59f-cfdad8240007/40/34/4449f25f4045ada1cd6a9a800e53/jean-michel-de-t-et-jean-baptiste-humbert-gaza-atelier.jpg?height=81",
       "published_at": "2025-09-14T08:50:23.000Z",
       "summary": "After contacting the French government to prevent an Israeli strike, Gaza archeologists began moving items but struggled due to the conditions in Gaza. 'We saved a large part, but in a rescue you always lose things, and you always face painful choices,' one said"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ארה\"ב תיפרד מצ'רלי קירק בטקס ענק באצטדיון NFL, שמירה כבדה על הרוצח בכלא",
-      "url": "https://www.ynet.co.il/news/article/s19gdlvjle",
-      "image": null,
-      "published_at": "2025-09-14T08:49:24.000Z",
-      "summary": "ארגון Turning Point USA של פעיל הימין הפרו-ישראלי שנרצח קורא להמונים להגיע ב-21 בספטמבר לאצטדיון \"סטייט פארם\" באריזונה, שאירח את הסופרבול ויכול לקלוט עד 73 אלף איש, כדי לציין את חייו ומורשתו. גם טראמפ יבוא. בארה\"ב דווח כי הרוצח טיילר רובינסון ניהל יחסים רומנטיים עם שותפתו הטרנסג'נדרית ושלח לה הודעות"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1547,7 +1597,7 @@
       "topic": "News",
       "title": "Qatari PM at Doha summit: Israel seeks to resolve Palestinian issue by force",
       "url": "https://www.haaretz.com/israel-news/2025-09-14/ty-article-live/rubio-hamas-cannot-continue-to-exist-if-peace-in-the-region-is-the-goal/00000199-45cb-d336-addd-6fffa5380000",
-      "image": "https://img.haarets.co.il/bs/00000199-48fa-d1c2-a799-dcfe19700001/22/12/cedcccff4fae8a9d444a54ec3780/am-4259.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/00000199-48fd-d6e0-a7fb-cffd789c0001/75/13/bf17063940009c8389eb452572d9/010432.jpg?height=81",
       "published_at": "2025-09-14T01:56:40.000Z",
       "summary": ""
     },
@@ -2602,26 +2652,6 @@
       "summary": "Despite a heated initial call, Trump later inquired about the Doha strike's success as reports allege Trump's growing frustration with unilateral Israeli actions contrary to U.S. regional interests"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Netanyahu is taking ever-greater risks to keep the Gaza war going",
-      "url": "https://www.haaretz.com/israel-news/2025-09-11/ty-article/.premium/netanyahu-is-taking-ever-greater-risks-to-keep-the-gaza-war-going/00000199-3527-df32-a1df-3577301c0000",
-      "image": "https://img.haarets.co.il/bs/00000199-2996-d7a2-a9bf-399feb190006/23/94/771788c74ed4827cce4602367ef0/img-20250908-wa0127-2-2.jpg?height=81",
-      "published_at": "2025-09-11T03:00:20.000Z",
-      "summary": "Despite warnings from senior defense officials, Netanyahu approved the Qatar strike, raising doubts about its success and endangering hostages in Gaza. As U.S. coordination remains unclear, regional tensions grow and Israel's targeted operations become ever riskier"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Qatar accuses Israel of trying to derail Gaza peace efforts, vows to keep mediating",
-      "url": "https://www.haaretz.com/israel-news/2025-09-11/ty-article-live/defending-israels-democracy-in-wartime-haaretz-hosts-special-event-in-new-york/00000199-3680-d704-a9d9-fe8faa2a0000",
-      "image": "https://img.haarets.co.il/bs/00000199-3aa3-df32-a1df-3af328a70001/56/f7/9e6ffb61405f8405fce867ca455b/secco.JPG?height=81",
-      "published_at": "2025-09-11T02:18:44.000Z",
-      "summary": ""
-    },
-    {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
       "topic": "OSINT",
@@ -2969,36 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856781",
       "image": null,
       "published_at": "2025-06-06T04:46:02.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Agudat Israel will submit a bill to dissolve the Knesset",
-      "url": "https://www.jpost.com/breaking-news/article-856767",
-      "image": null,
-      "published_at": "2025-06-05T23:07:10.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Trump administration imposes sanctions on ICC judges, US Treasury says",
-      "url": "https://www.jpost.com/breaking-news/article-856765",
-      "image": null,
-      "published_at": "2025-06-05T22:56:38.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Trump suggests terminating Musk's US government contracts, subsidies",
-      "url": "https://www.jpost.com/breaking-news/article-856764",
-      "image": null,
-      "published_at": "2025-06-05T22:33:04.000Z",
       "summary": ""
     }
   ]
