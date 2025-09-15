@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-09-15T13:38:51.746Z",
+  "generated_at": "2025-09-15T14:09:33.822Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Nationalist Vandalism in the North",
+      "url": "https://www.jpost.com/israel-news/culture/article-867542",
+      "image": null,
+      "published_at": "2025-09-15T16:41:39.000Z",
+      "summary": "Hashomer HaChadash Assists Megiddo Regional Council and Farmers After Fence Destruction"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -65,6 +75,16 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
+      "title": "Light Rail construction sees major changes made to Jerusalem's bus routes",
+      "url": "https://www.jpost.com/business-and-innovation/all-news/article-867514",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/681128",
+      "published_at": "2025-09-15T14:45:15.000Z",
+      "summary": "The construction comes as a result of efforts to build a new \"Blue Line\" of the Light Rail, which will include a 2km-long tunnel that begins at the intersection of Jaffa Street and Strauss."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
       "title": "Five years later, Abraham Accords may have become a cold peace, expert says",
       "url": "https://www.jpost.com/middle-east/abraham-accords/article-867530",
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/663005",
@@ -75,21 +95,231 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Israeli study: Movement of wild animals can help us predict next pandemic",
-      "url": "https://www.jpost.com/science/article-867529",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/681124",
-      "published_at": "2025-09-15T14:25:13.000Z",
-      "summary": "A study from the Hebrew University of Jerusalem suggests that tracking animal movement and behavior in near real-time could detect dangerous pathogens."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
       "title": "Tune into today's top stories: Hostages above ground in Gaza City, Ministry drug lab - September 15",
       "url": "https://www.jpost.com/podcast/jpost-headlines/article-867527",
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/681112",
       "published_at": "2025-09-15T14:07:55.000Z",
       "summary": "The Jerusalem Post's must-listen news roundup with Shifra Jacobs - the top stories, clear and concise."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah: Disarming the resistance ‘a grave mistake’ that serves US and Israel - IRNA English",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYmdJYzdzN3l5TWxaNU9xU1kweXIwTHJTWVpRSVhSLWZiNTQ1OU50NEdENGQyT3oyY2JsTkd2ejRIZFhHa1hlblBBU2RhcHZ0STFKTHNDd2JJUlJUN24zOWxSd2l4aVBzSDBBVDgxSUZaN1ZZTHUyUl9WclptRXozSnRsdldmRnFWeUlDcm5ORjA1N2M3RXZwcFNGd9IBR0FVX3lxTE13cVpTd19UY0Ixa0YwcHA2NFBZS1dHaGtIMmgyTFNTWmwxNmUxMlRlX3JWTDhLejF0a1NHbFc5WHpXRG1MSF8w?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T14:04:05.000Z",
+      "summary": "Hezbollah: Disarming the resistance ‘a grave mistake’ that serves US and Israel  IRNA English"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Egypt's president says Israel's actions hinder chances of new peace treaties in the region",
+      "url": "https://www.al-monitor.com/originals/2025/09/egypts-president-says-israels-actions-hinder-chances-new-peace-treaties-region",
+      "image": null,
+      "published_at": "2025-09-15T14:00:50.000Z",
+      "summary": "DOHA (Reuters) -Egyptian President Abdel Fattah al-Sisi said on Monday that Israel's current actions hindered any chances of new peace treaties in the Middle East.In remarks aimed at Israel, he told the Arab-Islamic summit in Doha: \"What is happening right now hinders the future of peace, threate..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE Vs Oman Live Score, Asia Cup 2025: Waseem & Sharafu Hit Fifties; UAE 172/5 In 20 Overs - News18",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYnRucHBRSnNpRHAySjk0M0J4WGhGd1dsOEktQnNSZ3hSNkJqV1IyVUZhUEhlOFFic1Jqbm4wTjBoNTlpMFhpT0hlczA0NUJfaW12Sk9EaXpITjBabjFzbVdWUkZQcDFCaXk1MkxoNWktM2tBekdqSDVwQUd5WDdfeU1XcDAxSWZ2RFUwUjRhWXM3dVc4VG1VQTE2YUQzYkFaVjl3Z1FlQVVSQjlEdFVvYWxWbEtuSWlsSm55aUhXVmdzX2o1TTBQVVF4c1Z0WVcxRmFXOC1JczJUTl9LMVNwUlM0YzZEeUFOcjBLbjNQempUTEpQaEEtRUd2WlpKSFJST2NYN0UwWUVjTi1p0gGSAkFVX3lxTE45OWdxUmVjTUFHSjVFSUJ0emc0VnhZSmk1bkhDUkt3b18yT3RLcm1ROUZNRE5mNnRRM3lKT1BMN19sOWoya1NneWx5Wmxqc2o2ME1NRXFYcHplejNreVgtaUJleXFnNlVEOVZzejRZTUo2UTRZc2Z5MTFXaTlpRWY5T3B2T1RKckFZcXpTN2ctclBRTGM1X21ZMF9UZC1qa0pVV2s2a2pGNlhabW5ZeUpzZjU1Z3A4R21JdDJVb2lFWUY3Tmd4bFo0eFI4VkpRV0NKR0ZCMjA5RmdVZlY5azJ5RGNUcWRzd2RVMmJHSTZUdmVyOWlRbndqMkg4Yl9PUUxhb0ZENmJkSW45REdzSlZJRlE?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:59:24.000Z",
+      "summary": "UAE Vs Oman Live Score, Asia Cup 2025: Waseem & Sharafu Hit Fifties; UAE 172/5 In 20 Overs  News18"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "United Arab Emirates vs Oman Live Score, Asia Cup 2025: Muhammad Waseem, Alishan Sharafu power UAE to 172/5 against Oman in Abu Dhabi - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOTzdlWlE1MDJLTEJ4a2JDSGx3T1ZDSE0tcHF5YlQxcmxEaVZ4YWZ1LXNDM0tzakpHdmVHRlA2Uy00YWdkUm9ncDBLcGNKUGlRQzhSaXJPbExXZGw0dF9rT2czOHRXa3lhRmkxbk9XNkFyUWQzU0RpSW0tWk9tWWQ4VlVOdmlVQ25jdHN1bDJkOEtGLUVNN0x4WnJfb1F5OFUzOS1yOHhjVGItbWloaE5kdDBWcmVXbHQ5d0IzRVBJc1Jid1QwQUUwTE5zaV9nY29MclYtcUdoUWt4M1ZMMjZWNExpbjhRQmxCdG1WRHN5TWxXNlU4c2lXTjhVVWVJdVQxRmpUbGNmY1R3eDZBcmlreDZKblVHeWZlWDB5cHhoWTVrWG0wWi1WQkJnbDjSAbICQVVfeXFMUGxhRVhkSW9QSnlFUkwwLXZGUVNVOTVRYlhacm1DWGRaemlZbmFJYzlYNTAteFdqbUhZY19udEtQbHpVMHZzQ3ZMR0VMNG9OMk1QUldxU0wxSjVuYkdpYk5Bc2lzYXBaNl95eVJySFNDZ2FadUZ5WlplRVdySDlPSnI1eGh0WnhxMHBZMVpnWUJBMmxnS09vanoxR0lqZnZ2Y2NDUEk2ZTRuMWkwNUYwTW5JVHRVeWZLNVFROGFPdU43Zk1GcTZ3TTRJUDFLZWp6bkZQT0ZVNXkzOUhQVUd5eUd5WHgtQmhUUl9vMkxTMlBZbzdQbE9FXzFuVmZ4VVhxaC1qWDFpeUtkNEJvVXFvM05nTm41a1pBQ3ZEdW5wdGl3WTZZcUJTbnA4dW14OC1kOHNn?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:59:24.000Z",
+      "summary": "United Arab Emirates vs Oman Live Score, Asia Cup 2025: Muhammad Waseem, Alishan Sharafu power UAE to 172/5 against Oman in Abu Dhabi  The Times of India"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE vs Oman LIVE Cricket Score, Asia Cup 2025 T20 Match 7: UAE 172/5 vs OMA in Abu Dhabi - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcjlUUkItU0NmTS1wMDI0cGJLUW43Z2Zzb1FneDNLZVdSWTFjTWNLOV81bkdxd2ZjME16SjJ4YWtmYk1CYUx4UVkxMGF1akR0dnhYaDhJUDU0aktsR0U4SXFRSmhnbk5IeWMtZWltOG5DQW5yVUlGS1ZRNTE5VGV6cHFZQVJzSmVNVXRDVndScEdIbDNUTDFhMm91dWpITmRYVmdPc2dRYmI2dDlXQU5fTjRPaWFkUXRrN3lhbWVYa0FlMzJPNXBKZUJuaXR2ZVNrbHUtT29QSkVQc0ZqT0h6VmtObEFiVDRwb1pvTzhBdWQ0bV96T2VlRV9nR1oxNUXSAYYCQVVfeXFMTUNfdXNIQk44YWZhdkFYUnQ4MjR2NGRoYTNsaHFWUVBmQXdhLUY2c3FpRlR0b3gzeWNvdkZzYkdsMncwM1VDSHhpQ1ZYeG1TX2JzclpCalZXRldQQXFsaGZBWVZaQlFOT3lyNFVBbmozVnJ5aThhcmNxR1Q5XzJDODNIdHlzS082RW51dlFGX3VOX0l2OWw5RTRzS1M2NGo2TGwyajBxa0dOQkotX2c3Y1d5UGE1b2NjM2VSV3hkVUl3THR0Z29VNENjYUktbGFHN2hCaHU1OVZLWjJnekRENW8ydXV1QzZjN25DSFBDVVVIZHBfRkhxTVR5Q1pyZktFWEFLdWQyZw?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:57:19.000Z",
+      "summary": "UAE vs Oman LIVE Cricket Score, Asia Cup 2025 T20 Match 7: UAE 172/5 vs OMA in Abu Dhabi  The Indian Express"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Adapting to extremes -- Lebanon's farmers battle heat and drought - Xinhua",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KZ2x2LU9hekF4N1VGZzNMcktzeHJ5dDdvcUFxbUVqVW9pdEl3MTdwM3VITUFmTWhtSVBYQWRaT0FZb05yd283b1dmWkw3Zm9LNHVnX1pHWDQtTHRTRmRzRmZuOGxJcmszWG5nMDU3VnRkaXdpT09vVnlJYno?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:52:15.000Z",
+      "summary": "Adapting to extremes -- Lebanon's farmers battle heat and drought  Xinhua"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Lebanon’s Pledge to Disarm Hezbollah: Reality or Illusion? - Manara Magazine",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tSHotZDB1RU1MTTFDZkRHeTd1bTN3RWpRR01oY0hCWXhDb1VCN1JxYVlXaXV3bXZRdll4ZU9ORklibi1pUHIzUkJOeEx3VFRETFYxZ1lYdEpQMTNoU3ZVcmNNdl9rNkI4a3hFcWJuc1Y2Rnh4aDl1WmhhTQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:50:39.000Z",
+      "summary": "Lebanon’s Pledge to Disarm Hezbollah: Reality or Illusion?  Manara Magazine"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "US, Saudi Arabia, UAE and Egypt call for Sudan truce - News24",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3hDQWNqSnlOV2dkU0I0T0xxRFNDdFh1ZGhOMk13MVVJOGswUmwtR2I4WG4ybVJpN3U3UC1TY0RYQUtkT1NyZTBMSnpieDZmUXNxajJVaVljSDVvWkx1RFFHelZzOWNwTENpSklkemlYTmpya1ZmMHZ0SUkyRHpfMnhxVnBiSlZ5Z1hPOUVOVGUzT1lEVm40Yg?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:50:33.000Z",
+      "summary": "US, Saudi Arabia, UAE and Egypt call for Sudan truce  News24"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Pakistan threaten to boycott their next Asia Cup 2025 match against UAE: Report - India TV News",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRmxJMFhHaXZic0tCcklkblFqRlBMOWhITEQ5dXBmS0ZMRC1MN2MybDNQUTMzR2RIYkFENTYxRWNmVlAyaFdxVnBUTDdSMzlvbkZiWUtCcWZqbW4tM19WZ1pqQTdlZXdQb0pGT0RJck42OFRIY2RPQlVJN3d4NUljZW5xMm9XcmEyR1c5Yk1MRTFvcjJQakhVdi01WjMyZTNvZEVlRFA5ckVRbHY4VkZoVjB6MHNBb21NQUN1NUZYWkpvclNkSFZVM25NVDdiTFBnOFg1WlJEONIB3AFBVV95cUxOd1MzX1ZwdFZNRzBVQ0N2MWhEdnZVc3dqTlFCeHk4eUtfWC1rUmlQTWpuaWYwYm1qMU10dHhUT3lXMnBsNjlkM2Y4Z1Y5cFBnOTRtNlllbXdUMzVzN29OTmNTdjVPLXF1SVRnM0wySTZ5azJ4N3pDc1ZJX2ZkOWxSZEtOM0dlV3I1M0dMZmZVaUNaVE4ybW03VTA3YWF2WXJxRkhteUdUbk5xOEFnSHRpdDBIc0xZSE5RVU5MRnhCdUtEc3JKTGd6Z0U3cGoxWG52dFRQLWZJTzhXakN6?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:49:17.000Z",
+      "summary": "Pakistan threaten to boycott their next Asia Cup 2025 match against UAE: Report  India TV News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Yossi Dagan: 'Disgrace that right-wing government has not implemented sovereignty'",
+      "url": "https://www.israelnationalnews.com/news/414968",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1199061.jpg",
+      "published_at": "2025-09-15T13:48:41.000Z",
+      "summary": "'Full sovereignty in Judea and Samaria is Israel's lifeline and safety belt,' says Samaria Council Head Yossi Dagan at the Samaria Council Conference."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE vs Oman LIVE Score, Asia Cup 2025: UAE reach 172/5 after twin 50s for openers, Oman claw it back with wicketsCrickit - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTC11VjU1WU5Qd3JFY0xIX3J4bkxuVndmeS0xX0RTeUNNSVBTb3V4Z0VFdnpMbU8yUVlCVjlhQXUteTEyc0poemNZWFVYcEVha0s5aXN4dF9mSlFlZDdGend2ZHAyZXBRcUxLcXR1TWs2cUdCVmFadkxsbmJYOFpkTzZuU3pGTGd6djVfbU9HSlpMV0VNRTRiR3h2NmVZSEpJSjRqdXZmLWVVNlV3eEc1aUN1YUVndHk1a1pWLW9rV1VfZFFvdTMyZ2lBb0FwQVRkMVZtRmJ1Uy1rNzkwRWI0M0pLX01hZ21HOWRDbXVCR0llNXdER2E4bjdUdkg5N1gwZ0JRSzVGMNIBjAJBVV95cUxPOEhJUHBNa2I1Y2xLeTFfSXZWX2JZT3Rzc2plT3NSNmN5XzlHeHZHcExFenMtcDEwb0NDY0I4eWIwQUJhS0lVRFRWRlVPV0QyOHEwODFTeFJqbUFCX1ZWOWxadGN0TDNVRnE5VlQ4dmdoSG5VNjlhZ0pCWkVSdXFWY1o0VWFERU1PcHQweGZmbTV2SHZXNXZIOW9BLVJMTExMOEY2eGxVVEtwdFRPR0ZuRFNWU3BXaGxCRjhtYVQ4c0lVYzNZcklwOXBwNFBZal9LbFhNS3ptaG1PVEpkR01UUUdFeUI0OUpHeE1ma3lub1IweFAyZWpKUlVZcVZPYmVudkFkZmtyS3dPd2U5?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:47:49.000Z",
+      "summary": "UAE vs Oman LIVE Score, Asia Cup 2025: UAE reach 172/5 after twin 50s for openers, Oman claw it back with wicketsCrickit  Hindustan Times"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE vs Oman LIVE Score, Asia Cup 2025: Oman snap 88-run opening stand, Sharafu dismissed after fine half-century - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQS1lQmRlX3JMdWFzcFRoamRDdzk3NV9nemR6S1BlTG5GV0Vpa3JaQkdIYTlXVm5lWHRJU3dUUVM4Ni1PT216YjhHUmtVYTJEZnJPU3V6UWgwdGItc1puUjA1YVhrX0V3d2ZWMzhpYVczNkZwTnR5TVM4ZjhuNnF3czZuS1lBNDVmUS11cDZRYVBHalotbllOdS10S3NEVnRWX3ZOX0M4V2UyVXdlYXRiUlJtY3lKYkRWOUliRjBzLWc4eHpwRlBOLThFN2VsN1plQnN0dXFCeVpLVVNBa09aY01JOEdBVHNtUTZCLQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:47:37.000Z",
+      "summary": "UAE vs Oman LIVE Score, Asia Cup 2025: Oman snap 88-run opening stand, Sharafu dismissed after fine half-century  MSN"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE Vs Oman Live Cricket Score, Asia Cup 2025: Fifties From Sharafu And Waseem Help Arab's Post 172/5 - Outlook India",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2xkM1RQQlB4WXBtSWNwQ24xRGY2RnFnQl9IMUlmaXFHLVJBbHFVUlFqVFg3YTZIaHRvMEY2N2JteWlmaWFaWXhHSXJITnF5RXpvR19DVW56UG14SEFJS3NENnRxRWpCdFk3dGR6SkhhbzZuS19laTFzVWVBazZDcHFncV95c2I0cXRtQmwyNVh3c1VXY1dGMHZ4azJtYlVGdWhDM2JhdW5SYTjSAbgBQVVfeXFMTTRMYlhjLWJyRkhNTUdhMDZLeXUyUjg5cUtEa1BzOEZtU2l5WXFHU3V6bjBTOENwNjc0QXowR2stUG10WlhERnhjWks2a3F4R0Uzai1RMEt3V2luTURDNWRxZWFNWW9OX1h1SU15SDY1TUlRQzg2UXh4ZVVlZEFxSjZzUkg4cV9nTFdXbGt6SkRYU21hV2pFUl9kQWJLU2VfWnljYnZ5WFcwM0JZX2xqMWhRS0JaTW1WdQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:46:23.000Z",
+      "summary": "UAE Vs Oman Live Cricket Score, Asia Cup 2025: Fifties From Sharafu And Waseem Help Arab's Post 172/5  Outlook India"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Two new polio cases reported in southern KP, taking country-wide tally to 26",
+      "url": "https://www.dawn.com/news/1942201/two-new-polio-cases-reported-in-southern-kp-taking-country-wide-tally-to-26",
+      "image": "https://i.dawn.com/large/2025/09/15185407fe10168.webp",
+      "published_at": "2025-09-15T13:45:19.000Z",
+      "summary": "Two fresh polio virus cases have been detected in the south of Khyber-Pakhtunkhwa, taking the nationwide tally to 26, the National Institutes of Health (NIH) said on Monday.\nPakistan is one of the last two countries in the world, alongside Afghanistan, where polio remains endemic. Despite global ..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Rubio: 'Regional problems would have been more difficult without Abraham Accords'",
+      "url": "https://www.israelnationalnews.com/news/414969",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1199066.jpg",
+      "published_at": "2025-09-15T13:43:20.000Z",
+      "summary": "President Isaac Herzog meets in Jerusalem with US Secretary of State Marco Rubio to mark the 5th anniversary of the Abraham Accords."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Daily Briefing Sept. 15: Day 710 &#8211; Rubio reaffirms strong US relationship in Israel visit",
+      "url": "https://www.timesofisrael.com/daily-briefing-sept-15-day-710-rubio-reaffirms-strong-us-relationship-in-israel-visit/",
+      "image": null,
+      "published_at": "2025-09-15T13:41:31.000Z",
+      "summary": "Diplomatic correspondent Lazar Berman on US Secretary of State Marco Rubio's public remarks during his trip to Israel in the wake of Israel's strike on Hamas in Qatar last week \nThe post Daily Briefing Sept. 15: Day 710 &#8211; Rubio reaffirms strong US relationship in Israel visit appeared first on"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Qatar hosts summit in response to Israeli strike on Hamas in Doha, seeking to restrain such attacks - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNckRfdHBjUk1jQkVrb3F0aFFSTlJqQlZrbkFvNFdrRjFrYmJjbWU3b1Fidm1BdjlmX3BkanRVRmZ2ZUdUeEpkb3ZVZzlYUXdKSUJSRjVlZmpnQkRxUkpYVFBiaFhrYzktdUpRQUV2c0xKQmtYSm4zZDZpNk15QlFDQmF3anktWFp5WmxnemdVVnQ0SlJTc05uSkpFeF91dEVDaGN3?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:41:00.000Z",
+      "summary": "Qatar hosts summit in response to Israeli strike on Hamas in Doha, seeking to restrain such attacks  AP News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Social media influencer Samiya Hijab agrees to withdraw complaint in ‘kidnapping and harassment’ case",
+      "url": "https://www.dawn.com/news/1942198/social-media-influencer-samiya-hijab-agrees-to-withdraw-complaint-in-kidnapping-and-harassment-case",
+      "image": "https://i.dawn.com/large/2025/09/151839540dc70ca.webp",
+      "published_at": "2025-09-15T13:40:15.000Z",
+      "summary": "Social media influencer Samiya Hijab on Monday agreed to withdraw her complaint in her alleged harassment and kidnapping case, with the court granting bail to the suspect.\nThe suspect was arrested on September 2 and a case was registered in the capital’s Shalimar Police Station at her complaint u..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Arab Leaders Meet to Weigh Response to Israel’s Attack in Qatar",
+      "url": "https://www.nytimes.com/2025/09/15/world/middleeast/qatar-arab-leaders-israel.html",
+      "image": "https://static01.nyt.com/images/2025/09/15/multimedia/15int-arab-summit-htkm/15int-arab-summit-htkm-mediumSquareAt3X.jpg",
+      "published_at": "2025-09-15T13:38:42.000Z",
+      "summary": "At a summit in the Qatari capital, Doha, participants are deciding whether to take tangible actions against Israel following last week’s strike."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Arab Leaders Meet to Weigh Response to Israel’s Attack in Qatar - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGJOZFJqOWRJM0hmT0VjYjhTNXlFanE3dlQxeEwyaVlPY0FvRkFlVWdkV2g4NXl4WXg0V2d1WWVTWDJRYzhGVkVpYjA3cE9NenFWM2RVUF9wa0w3OHhlSFdNRmMyd1ZhT2Y2bEI3ckIzNHdudGlRb2N1WFVKX3hJNXRTaGJTNFl0VWc?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:38:42.000Z",
+      "summary": "Arab Leaders Meet to Weigh Response to Israel’s Attack in Qatar  The New York Times"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Qatar, Arab League, and OIC Summit in Terrorist Denial (Israel) - Modern Tokyo Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZkNUS2w4VWlGVHd0LXNjRTJLYm9wczRMNERneXNhSDhTdVhRTlhwNkNqQWhtdXpXd2h3aVBva2w3WW5oeWJtYkpiczY3aDFVaEFUejdhV1JiVE9YdzVSUGVmSlp4ZGF0ZFJsUm1QcVdrbFRFOXpUOWtSUHBMdEx6dTNfSXVDV0Z0TW9wbnJFVm15SlU?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:37:54.000Z",
+      "summary": "Qatar, Arab League, and OIC Summit in Terrorist Denial (Israel)  Modern Tokyo Times"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Men jailed for attempting to bewitch and kill Zambia's president",
+      "url": "https://www.bbc.com/news/articles/cjr57rr9598o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2399/live/32f03df0-9211-11f0-85c7-5bdf6c05d36f.jpg",
+      "published_at": "2025-09-15T13:36:02.000Z",
+      "summary": "The pair were sentenced to two years in prison after being found with charms, including a chameleon."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -105,11 +335,41 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "UAE vs Oman LIVE Score, Asia Cup 2025: Oman snap 88-run opening stand, Sharafu dismissed after fine half-century - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYktZNGJHY1cyT2FKUHRkY01oeGVWckhNbzZfbWp1amJLZ2JIM3kwejJ2VGxGVFBLSER3Y1h1YWtGbzVRYmoyZk91cy1ZQVpoekxtVE94eWYtZFJGWmNUQ2x1QlFic3J6U0pmZ0NnTmJXRjROS2k2ajNSeXNCNjFvVVhVMzBkallORFNNZzF5WWR3RzR3MkNmQzBVT3JoSGJZdExuNFRUUllOLXdxME5XQUJ4aEQwaFRkRjd4UEVOMHpDcnhNdEFMNm1pZUM5a3F2OUFWTU5wOU1JWENYR0MzTF9SUHhGbW43Q29VbkJJUHI5SDNTSXR3WHRyV3U?oc=5",
+      "title": "Rubio is heading to Qatar after meeting with Netanyahu in Israel - WAPT",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ET0hjcUU3QmlOdEtaNllyVXI4cW1WRmw2V0Y1eXc1ZjBBTmJVbTBvdDJFOWNDU19rbVdtVU9pSVVxRkVSVklQUC1xT3VkWTU3LTJPUFgydVRlLVdVRU03OGFJaUE3Q0RwdUlnc3JoQjNMeGtoS0dBVmJxN0c?oc=5",
       "image": null,
-      "published_at": "2025-09-15T13:32:16.000Z",
-      "summary": "UAE vs Oman LIVE Score, Asia Cup 2025: Oman snap 88-run opening stand, Sharafu dismissed after fine half-century  MSN"
+      "published_at": "2025-09-15T13:34:00.000Z",
+      "summary": "Rubio is heading to Qatar after meeting with Netanyahu in Israel  WAPT"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Rubio is heading to Qatar after meeting with Netanyahu in Israel - WTAE",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02TG9wa3ZyS1A4YTYzMHZPdzFfTk1rU0xmaWdiamlHdXItZW9YUkV5a1ZuU0VodERFSHU2WE1TWjZ5Z1l0dmRlSEhfWmJlRl8tZlM5U1d3NDRQZjdjQzZIY2hqWEJ1TGdBTzJOWGhPXzZYdl9LTkVVckNYLXZsZw?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:34:00.000Z",
+      "summary": "Rubio is heading to Qatar after meeting with Netanyahu in Israel  WTAE"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Marco Rubio to travel to Doha after leaving Israel - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RRmtDb2t3STZsa28xdVRfTVVMNk9uTlF0NDRQR1FINDVUSEh5dzRlVzcyS1hPdUZLSlIyUERBM3gzcTFtRXRYSWU4Q01PNjVHMkFYQ2lNOWtYX0Fi?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:33:12.000Z",
+      "summary": "Marco Rubio to travel to Doha after leaving Israel  The Jerusalem Post"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Indonesia, UAE partner to strengthen digital government services - ANTARA News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY0tuVHpldU55M1RacUdrX0hHYncwOWdwWEgwUjdacTRFWmpDTy1aUGpNWnU2bDk2OW5nZXd3djZyb1RSMF8yUmN4Q0pDNk5GaUNJRGN2cU1JanoyQllSV2Q0Nks2VjBCOElYclJHLWVGWHZqRTM4b05wdmo3eG56T0JnQk5JaVRhNnVwZF9RdzJKVEtCcFVFbk10ZHhjZXprWndV0gGoAUFVX3lxTE5zWldXblk3TFNsdnk4MnNWRHhlNjNXSzF4Y2gzNThoVzJmX0JCUXV0SjFQZVRUdnNFckVlMW8taGdJVVpmNDhNNGIxcnFlcmpVWnVDaURNaEhhSVh1RV9fZjJHRk1pR3pLdWR6dzE0eHY2WTdlYzZWaEJlNzZjNm9XbDNfNERINHNvWXBPV19iMEFUVS1zRl9XREh3M2FZU2ZyV3JsRkxHRg?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:31:28.000Z",
+      "summary": "Indonesia, UAE partner to strengthen digital government services  ANTARA News"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -135,31 +395,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "UAE vs Oman LIVE Score, Asia Cup 2025: UAE try to go big at the death after top order sets great platformCrickit - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTC11VjU1WU5Qd3JFY0xIX3J4bkxuVndmeS0xX0RTeUNNSVBTb3V4Z0VFdnpMbU8yUVlCVjlhQXUteTEyc0poemNZWFVYcEVha0s5aXN4dF9mSlFlZDdGend2ZHAyZXBRcUxLcXR1TWs2cUdCVmFadkxsbmJYOFpkTzZuU3pGTGd6djVfbU9HSlpMV0VNRTRiR3h2NmVZSEpJSjRqdXZmLWVVNlV3eEc1aUN1YUVndHk1a1pWLW9rV1VfZFFvdTMyZ2lBb0FwQVRkMVZtRmJ1Uy1rNzkwRWI0M0pLX01hZ21HOWRDbXVCR0llNXdER2E4bjdUdkg5N1gwZ0JRSzVGMNIBjAJBVV95cUxPOEhJUHBNa2I1Y2xLeTFfSXZWX2JZT3Rzc2plT3NSNmN5XzlHeHZHcExFenMtcDEwb0NDY0I4eWIwQUJhS0lVRFRWRlVPV0QyOHEwODFTeFJqbUFCX1ZWOWxadGN0TDNVRnE5VlQ4dmdoSG5VNjlhZ0pCWkVSdXFWY1o0VWFERU1PcHQweGZmbTV2SHZXNXZIOW9BLVJMTExMOEY2eGxVVEtwdFRPR0ZuRFNWU3BXaGxCRjhtYVQ4c0lVYzNZcklwOXBwNFBZal9LbFhNS3ptaG1PVEpkR01UUUdFeUI0OUpHeE1ma3lub1IweFAyZWpKUlVZcVZPYmVudkFkZmtyS3dPd2U5?oc=5",
+      "title": "UAE leaders congratulate President of Honduras on Independence Day - Sharjah24",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yaExvUW16T1RCTWVnaU5LOTJ5MmhsTkxpdVRZS1ByeFZrUlJES3YtU0FkU2MyZ1ktb204RExfdnk3aEYwZWJiVzRnd21rQnJ6YVVKT3AwVFhTVWQtTGc?oc=5",
       "image": null,
-      "published_at": "2025-09-15T13:30:20.000Z",
-      "summary": "UAE vs Oman LIVE Score, Asia Cup 2025: UAE try to go big at the death after top order sets great platformCrickit  Hindustan Times"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE Vs Oman Live Score, Asia Cup 2025: Muhammad Waseem Hits Fifty; UAE 146/3 In 18 Overs - News18",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYnRucHBRSnNpRHAySjk0M0J4WGhGd1dsOEktQnNSZ3hSNkJqV1IyVUZhUEhlOFFic1Jqbm4wTjBoNTlpMFhpT0hlczA0NUJfaW12Sk9EaXpITjBabjFzbVdWUkZQcDFCaXk1MkxoNWktM2tBekdqSDVwQUd5WDdfeU1XcDAxSWZ2RFUwUjRhWXM3dVc4VG1VQTE2YUQzYkFaVjl3Z1FlQVVSQjlEdFVvYWxWbEtuSWlsSm55aUhXVmdzX2o1TTBQVVF4c1Z0WVcxRmFXOC1JczJUTl9LMVNwUlM0YzZEeUFOcjBLbjNQempUTEpQaEEtRUd2WlpKSFJST2NYN0UwWUVjTi1p0gGSAkFVX3lxTE45OWdxUmVjTUFHSjVFSUJ0emc0VnhZSmk1bkhDUkt3b18yT3RLcm1ROUZNRE5mNnRRM3lKT1BMN19sOWoya1NneWx5Wmxqc2o2ME1NRXFYcHplejNreVgtaUJleXFnNlVEOVZzejRZTUo2UTRZc2Z5MTFXaTlpRWY5T3B2T1RKckFZcXpTN2ctclBRTGM1X21ZMF9UZC1qa0pVV2s2a2pGNlhabW5ZeUpzZjU1Z3A4R21JdDJVb2lFWUY3Tmd4bFo0eFI4VkpRV0NKR0ZCMjA5RmdVZlY5azJ5RGNUcWRzd2RVMmJHSTZUdmVyOWlRbndqMkg4Yl9PUUxhb0ZENmJkSW45REdzSlZJRlE?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T13:29:05.000Z",
-      "summary": "UAE Vs Oman Live Score, Asia Cup 2025: Muhammad Waseem Hits Fifty; UAE 146/3 In 18 Overs  News18"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Rubio visits Israel, expected to visit Qatar after strike on Hamas - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY3VCV01LenVheG9SY3lRd1pVYnlUR0tTWWI1MjhQUjZTYVdVd3FXNERiOWhSR3RBdk5HQ2NTYVF0T09XWUhrRFJOenJGNUpuRUU5SDlqckhQbl84b2F4MVVJZXp4Nm0xdXRkNmt6YmRva2k3cW9Oel94ZS1paS1lZ2ZxTlpwQQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T13:28:52.000Z",
-      "summary": "Rubio visits Israel, expected to visit Qatar after strike on Hamas  The Washington Post"
+      "published_at": "2025-09-15T13:28:23.000Z",
+      "summary": "UAE leaders congratulate President of Honduras on Independence Day  Sharjah24"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
@@ -189,17 +429,7 @@
       "url": "https://www.timesofisrael.com/kan-public-broadcaster-rebuffs-calls-to-bow-out-of-eurovision-over-boycott-threats/",
       "image": null,
       "published_at": "2025-09-15T13:27:58.000Z",
-      "summary": "'No reason' to marginalize Israel at annual song contest, says CEO, after report says organizers may tell Israel to compete under neutral flag or face ban\nThe post Kan public broadcaster rebuffs calls to bow out of Eurovision over boycott threats appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE vs Oman LIVE Cricket Score, Asia Cup 2025 T20 Match 7: Asif Khan departs for 2, UAE 142/2 vs OMA in Abu Dhabi - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcjlUUkItU0NmTS1wMDI0cGJLUW43Z2Zzb1FneDNLZVdSWTFjTWNLOV81bkdxd2ZjME16SjJ4YWtmYk1CYUx4UVkxMGF1akR0dnhYaDhJUDU0aktsR0U4SXFRSmhnbk5IeWMtZWltOG5DQW5yVUlGS1ZRNTE5VGV6cHFZQVJzSmVNVXRDVndScEdIbDNUTDFhMm91dWpITmRYVmdPc2dRYmI2dDlXQU5fTjRPaWFkUXRrN3lhbWVYa0FlMzJPNXBKZUJuaXR2ZVNrbHUtT29QSkVQc0ZqT0h6VmtObEFiVDRwb1pvTzhBdWQ0bV96T2VlRV9nR1oxNUXSAYYCQVVfeXFMTUNfdXNIQk44YWZhdkFYUnQ4MjR2NGRoYTNsaHFWUVBmQXdhLUY2c3FpRlR0b3gzeWNvdkZzYkdsMncwM1VDSHhpQ1ZYeG1TX2JzclpCalZXRldQQXFsaGZBWVZaQlFOT3lyNFVBbmozVnJ5aThhcmNxR1Q5XzJDODNIdHlzS082RW51dlFGX3VOX0l2OWw5RTRzS1M2NGo2TGwyajBxa0dOQkotX2c3Y1d5UGE1b2NjM2VSV3hkVUl3THR0Z29VNENjYUktbGFHN2hCaHU1OVZLWjJnekRENW8ydXV1QzZjN25DSFBDVVVIZHBfRkhxTVR5Q1pyZktFWEFLdWQyZw?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T13:27:57.000Z",
-      "summary": "UAE vs Oman LIVE Cricket Score, Asia Cup 2025 T20 Match 7: Asif Khan departs for 2, UAE 142/2 vs OMA in Abu Dhabi  The Indian Express"
+      "summary": "'No reason' to marginalize Israel at annual song contest, says CEO, after a number of countries say they will refuse to participate if Jewish state is not barred from competition\nThe post Kan public broadcaster rebuffs calls to bow out of Eurovision over boycott threats appeared first on The Times o"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -255,6 +485,16 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
+      "title": "Rubio to go to Qatar after Israel visit - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb1Z4Vk8wVTljTEl0OVh4RV85RFgyMl9sdkQtYXF2OHVKc0NodzdINDFLelItaURGV01BUlBMQlByUURoTHI2YXV6S1VrclRFWGNQaXFXbE5aQndWekxWSmgxWXl2VTFrRlpfLWRJcVp3QVlmb2k4QUZuSGFHNTJ0TVhsQ1NLb3JoNTV5UmlHMms2TVVkUnlwSVJn?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:21:15.000Z",
+      "summary": "Rubio to go to Qatar after Israel visit  Investing.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
       "title": "LIVE: Qatar’s emir says Israeli ‘aggression blatant, treacherous, cowardly’ - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaG5pTTYyV2NQbk4wWmtNa3dBa01uaFZaUFJQQ2Z2MFBIa2hqSmdlNngySnY5NG50MVdCTFdtR0JnSWVfbGFFQ2JtanFxV1pmMVdJSHVrM0JyT3diYWdnMnVhLUwxUzZNeVVyUU50SVRUOGJ1WkJpUXp5UXVaRnVDUWZhYzR4T1JOSG16aEtSNmRZWWdZamk1R28yZnR2bDdsQWpoTlYwMWNPWG4xcmhOcmZqMnZGcnpLT1BoT09jdTIwZ9IBxwFBVV95cUxPTmJjYnc3WE05S0FMVEh2ajd2U3NqcHoyRzZLZFlsUm1PVTRXMHRTRHFDcFpuUXdXQ2JCVVJmSEVvUl81ekV4SGhBM0JyT2JndGpWbHFjb1YtZ09pTHRic01TN2trVFF4OVNYeGp4MFJFOGpIM3JNczRUeE5jWTMtWW9jell2U055Rmh4b3d3cWcySWZmMFV1MXl3dXY2U01JTWlsUUhLbkFOdGZWYUluUHRFZDd0MHZiX2FMUmw1SmUzU1dUOEdz?oc=5",
       "image": null,
@@ -265,11 +505,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Qatar’s ruling emir accuses Israel of working to ‘ensure is Gaza is no longer livable’ - Orlando Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSlo5bzVldE5TeGJTaWR6UktTYXU3OU9TUVFLS05OLTJSQUNGREpYbjg4RGFXcXpfZ2ZIRTBJYkhKMGZPSUJQd3AxTU9uaThKMG15QXBjdk51dlJET2JpQWNiT2tRRXhKRVpNbkJDRnlSemxVS29EbzRXRk9FZTdpdU9XTndQZw?oc=5",
+      "title": "Qatar’s ruling emir accuses Israel of working to ‘ensure is Gaza is no longer livable’ - Delco Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wLWY3M1BjMmxqUzN1bFF3ZE5YYm5zX2I3Qm5sd0U3OUVZNUlkdWpIN1VsRXJKZmo3WktscGM2NDFIQ3otdk5SX29YSXpfaG5EalAtejEwZUdULXFVSWx0WEptSWlWM0xUSHE0V2lFLWlhUl9kWnpmbUx0M2dqaWc?oc=5",
       "image": null,
-      "published_at": "2025-09-15T13:19:30.000Z",
-      "summary": "Qatar’s ruling emir accuses Israel of working to ‘ensure is Gaza is no longer livable’  Orlando Sentinel"
+      "published_at": "2025-09-15T13:19:26.000Z",
+      "summary": "Qatar’s ruling emir accuses Israel of working to ‘ensure is Gaza is no longer livable’  Delco Times"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -285,16 +525,6 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Qatar ‘a great ally,’ Trump tells reporters repeatedly - JNS.org",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aVXc2WThaWDRJWkJQQ0J0V2U4ZW04ei1JemU0akRTeVZubnlKQy05dlNQVC1WaWU0THlHRFdYa0xpaHZvS284dDQtc0xPQmZ6bWgtVlh4SkdLLVBMWHVMNklNR2NNQUY3ZWhvaFZSWlVlcUlzcUQ0X25LbXo?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T13:19:07.000Z",
-      "summary": "Qatar ‘a great ally,’ Trump tells reporters repeatedly  JNS.org"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
       "title": "UAE: Global Village is back! why this 30 year Dubai phenomenon draws millions every year - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVVR5SlZ0SkVZV1FlcmhuazBNLU8wS3J4ZDFHeDQ4NUdoQ2pCajRPOG9jUWJURjlNVXU3LTlzbmkzV2tFSW4wRU8tSFVTOTRZWDR3bFE5TFlWQmJxdkhSTEF6T2hBNTkzN0N2YnJYLVZ1WGNDU2dTMmlTOFRndjc2OVRiSGRreVlNM3Z3VXc4YWgxU2xEeDJuZGNhaUdac2xRWEJzUW10SkdjR3oybkNReHk3SVhFV0t3OXcwVFRBRFR4bXlxcFVESF9YOUhqS2t6UE5na2JPWnMtLU5UcS0ySkVfV3pHa09ldEF4cVppVnhzOERGQ1pCWi1B0gH_AUFVX3lxTE1NNmtFWWJqOFh4VmhGUkVxTFJRNXZpRkc3RDFUSzI3RFh2Zi1xcEs2cU1aWmRMWTF1aklNa2xYVWE5SnVLYjhzOTNUQ0FSQWEySXBNeVJPdHRrUjI1V3laeHdvRC0xYURGTGxsVTVYR0tXUTNlQzQ2SXVBRVBSS3dSd2tYTEZSUi15d1MtWG1HcnQ0c3gtYUlkdGtzMFFCT3FQa2FNak1qZ0RPR2VJLWVvNDIxMi11cEZhbVNkeVBTZHcyb3FNN3NaQ194ZVh2Q2JaMEtianB1RTYwT3dSQUdZUDRHRHFyMEJ1N3duYTd4eHpobUVqb3FYZGRpdWpTNA?oc=5",
       "image": null,
@@ -302,20 +532,20 @@
       "summary": "UAE: Global Village is back! why this 30 year Dubai phenomenon draws millions every year  The Times of India"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
       "topic": "News",
-      "title": "UAE Vs Oman Live Cricket Score, Asia Cup 2025: After Two Wickets In Quick Succession, Skipper Waseem Brings Up Fifty - Outlook India",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2xkM1RQQlB4WXBtSWNwQ24xRGY2RnFnQl9IMUlmaXFHLVJBbHFVUlFqVFg3YTZIaHRvMEY2N2JteWlmaWFaWXhHSXJITnF5RXpvR19DVW56UG14SEFJS3NENnRxRWpCdFk3dGR6SkhhbzZuS19laTFzVWVBazZDcHFncV95c2I0cXRtQmwyNVh3c1VXY1dGMHZ4azJtYlVGdWhDM2JhdW5SYTjSAbgBQVVfeXFMTTRMYlhjLWJyRkhNTUdhMDZLeXUyUjg5cUtEa1BzOEZtU2l5WXFHU3V6bjBTOENwNjc0QXowR2stUG10WlhERnhjWks2a3F4R0Uzai1RMEt3V2luTURDNWRxZWFNWW9OX1h1SU15SDY1TUlRQzg2UXh4ZVVlZEFxSjZzUkg4cV9nTFdXbGt6SkRYU21hV2pFUl9kQWJLU2VfWnljYnZ5WFcwM0JZX2xqMWhRS0JaTW1WdQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T13:16:28.000Z",
-      "summary": "UAE Vs Oman Live Cricket Score, Asia Cup 2025: After Two Wickets In Quick Succession, Skipper Waseem Brings Up Fifty  Outlook India"
+      "title": "Trump says Venezuela 'sending drugs, gang members' as tensions rise",
+      "url": "https://www.bbc.com/news/articles/cx2jel4gyezo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d6b/live/2969bd50-922b-11f0-8fd6-f3e5d0b160a2.jpg",
+      "published_at": "2025-09-15T13:15:21.000Z",
+      "summary": "Tension has been running high between the two countries since the US deployed war ships to the South Caribbean."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הפסגה הערבית החלה, אמיר קטאר: \"נתניהו פועל בשיטתיות לסיכול המו\"מ\"",
+      "title": "פניית א-סיסי לישראלים בפסגה הערבית, ואזהרת מלך ירדן: \"צריך תגובה מרתיעה\"",
       "url": "https://www.ynet.co.il/news/article/rjolkcbilx",
       "image": null,
       "published_at": "2025-09-15T13:15:08.000Z",
@@ -345,6 +575,16 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
+      "title": "Lebanon Says One Killed in Israeli Strike - The Defense Post",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50ZHQzcloxRGFzZk1Mb3hYNVdmbEprSEVlNVBFOXkzUVJ6eUZnWW9BeFFPVmE0U3k2aF9EYkdSZEdVcG9KeW14U251SmloYkNQRzhvb2EzakRSSms5REJnMjlad2lwS3g3LXFpUVdDcVQ1OVRF0gF6QVVfeXFMTndJd1ZQT2dDOWRkWkJZMWtjOEJlV0VPNEJ1UkpVNV95S1hiLWU1T2JvWXFBZldJNE9GY1VkaDNNWEpjaVplc29VXzEtdXlvWTMwTXd3LWpoM3c3cXJfZGpFVU9sWTZtMHc4alZGTFd0MWxMVzJTbWJheFE?oc=5",
+      "image": null,
+      "published_at": "2025-09-15T13:13:45.000Z",
+      "summary": "Lebanon Says One Killed in Israeli Strike  The Defense Post"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
       "title": "Rubio Set to Visit Qatar After Affirming US Support for Israel - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYS1QOXliMEFQREpaSmV5c3E1TXI3VlZwaWthc0hCSEZ6aWg2UENIM3lfNzdtZUVNVjF1Y0lDdkhCcWpOTnFxckJUdkVXYWRsTW5ZNWVOYjNqdjVHS1Z3MkhFSEltMGp2a1BBSE9yX3hnOHM5enJwNndMMmpwbDdrclZ3aVJ1ZWE2S1hTZjNBTlY4alVtcV92bTJEak9Bdkg3c3Nqbl9EOHcxR1AwRmZmOEpkNA?oc=5",
       "image": null,
@@ -352,24 +592,24 @@
       "summary": "Rubio Set to Visit Qatar After Affirming US Support for Israel  Bloomberg.com"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Asia Cup 2025 – Match 7 & 8 Predictions: UAE vs Oman, Sri Lanka vs Hong Kong - Cricket World",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVNGcjFZLVpKZGJnV0N2SFhGdXhpcnotTENQeUZ0WmRqRGNnaE9VemYybndCdlNJdkVuNDVjVGd1OFNXZlRJZE9Kb2Y3UHB6dnZITUZGbmJRNmNnaERnN3FjUlNjal9uNmFwSHZUYlQ1c294aGYzaEozZ0YxUUhXclhNOHBZY3JNSS11THByeUI0LXdFRzE1cmVjXzV5M2l5ZHhSMk03YVJtOTNiVW5v?oc=5",
+      "title": "Gaza City  evacuation order leaves families in “desperate conditions”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/9/15/gaza-city-evacuation-order-leaves-families-in-desperate?traffic_source=rss",
       "image": null,
-      "published_at": "2025-09-15T13:07:30.000Z",
-      "summary": "Asia Cup 2025 – Match 7 & 8 Predictions: UAE vs Oman, Sri Lanka vs Hong Kong  Cricket World"
+      "published_at": "2025-09-15T13:11:14.000Z",
+      "summary": "“She went into labour and gave birth on the side of the road while trying to find help.”"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Ohio senator cancels planned trip to Israel over fears of being used as ‘propaganda’",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-867487",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_320,w_320/681059",
-      "published_at": "2025-09-15T13:06:08.000Z",
-      "summary": "“My goal was to ask tough questions,” said Ohio Sen. Beth Liston, who canceled her Israel trip after constituent pressure."
+      "title": "Indian cricket’s Pakistan problem: Can you monetise patriotism?",
+      "url": "https://www.aljazeera.com/opinions/2025/9/15/indian-crickets-pakistan-problem-can-you-monetise-patriotism?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-15T13:09:36.000Z",
+      "summary": "India boycotts Pakistan across all forums except multinational cricket. That’s because it stands to lose too much money."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -382,46 +622,6 @@
       "summary": "The court refused to strike down the entire law saying \"the grant of stay is only in the rarest of rare category\"."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE vs Oman LIVE Updates, Asia Cup 2025: Oman opt to bowl first, put hosts in to bat in battle of the underdogs - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdlFmSHQ1dXk1d1YxNU5aOTBfSGpBU0FBM1RRUDU2alQyVkpNUWFsZGlpTVltbFlfVDlDalc1Y3JfM1VjQmxmMnl0T2JXTUlQVENuOGZXU0I0Q2JOUkgyNXM0ZGktUTB3bFg5dUVwN29mUjl5X0dXZFl1cW9iYkhmOS1JUTZBS1ExeWs5STM5dkxSNkVaMnJpRURxRmlCb1lBQ0FmVXZqanRoVjVrUjg4S0F6SEZqMnZ1MEFEZ2pJUVU0V2RlZ1M4MVl0YnJpRjVuRTE2SFAzLTAxcUxsUmcwUE1BSjBfZnRFLUdadWhiMGFEdVRn?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T13:02:44.000Z",
-      "summary": "UAE vs Oman LIVE Updates, Asia Cup 2025: Oman opt to bowl first, put hosts in to bat in battle of the underdogs  MSN"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar hosts summit in response to Israeli strike on Hamas in Doha, seeking to restrain such attacks - CT Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSS1MazMxOW5sYWZmdXFUZXZvalNaMGlXRElMZlZmRXhHNjRZcGlKU05VVWNueWFDM28tYkFISTVyaGNBUXBlMFVwYVZybnFjRE55dHQ4Tk9LN1FRZC1qaUJpeGR1MWdlTFdMMUNRUzJWMnVKdXNNZHlPVXlOVzVfZldma0tZbl9fTmNuS0VXeWlEY1JWUDZMek5LMW5TVjRCNEJ2bzljRHo?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T13:01:33.000Z",
-      "summary": "Qatar hosts summit in response to Israeli strike on Hamas in Doha, seeking to restrain such attacks  CT Insider"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Britain bans Israelis from London defence college over Gaza escalation",
-      "url": "https://www.al-monitor.com/originals/2025/09/britain-bans-israelis-london-defence-college-over-gaza-escalation",
-      "image": null,
-      "published_at": "2025-09-15T13:00:42.000Z",
-      "summary": "LONDON (Reuters) -Britain has banned Israelis from attending a prestigious London defence studies college due to the escalation of the war in Gaza, the UK's Ministry of Defence said on Monday, prompting an angry response from Israel.  While Britain remains a close ally of Israel's, it has recentl..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Spanish PM has 'deep admiration' for pro-Palestinian protesters",
-      "url": "https://www.al-monitor.com/originals/2025/09/spanish-pm-has-deep-admiration-pro-palestinian-protesters",
-      "image": null,
-      "published_at": "2025-09-15T13:00:20.000Z",
-      "summary": "Spanish Prime Minister Pedro Sanchez on Monday reiterated his \"deep admiration\" for pro-Palestinian protesters who forced the final stage of one of the most important international cycling races to be abandoned at the weekend.He also said Israel should be barred from international sporting compet..."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -430,36 +630,6 @@
       "image": null,
       "published_at": "2025-09-15T13:00:17.000Z",
       "summary": "אמיר ברעם הזהיר בכנס האוצר מפני עוד סבבים מול טהרן: \"מבצע 'עם כלביא' הסתיים בניצחון חד משמעי, אבל האיראנים לא נעלמו\". הוא ציין שעלות המלחמה חצתה את ה-205 מיליארד שקל, והכריז על הקמת \"מועצת חימוש עליונה\". למרות הבידוד, שבו הודה גם נתניהו, נחתמו עסקאות ייצוא ביטחוני ב-2.5 מיליארד דולר"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Live Updates: Netanyahu, Rubio discuss Qatar strike - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnVWWnJWMWd6S1JJMUtwSTFwN0J2bFYycGRXY3Brd0hKT2lEcHV2WUxUc3V4MFQ3UVU3el9ieXFwTVlCd3dUMHNDLU1zY2VLQTdSdlFSX3lLd3lTZVo5MG1KNHVTSGtTUUhUSTdHZS1POXh3X3JFd003RE1qb3JGSXZhaw?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T13:00:05.000Z",
-      "summary": "Live Updates: Netanyahu, Rubio discuss Qatar strike  The Jerusalem Post"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban Again Urges Uzbekistan and Tajikistan to Return Military Helicopters - The Times Of Central Asia",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRW9TdzFxRXo3UU5xcEh5eWlqTVJ1ekpYcThNY1J1ajBOZ1pQdzhhOE5ZQXN1X0NKeTdsSkdlUWoxME5nSjdnRzlpSW5iamZDVU9oeTZhcmtpcExiM0w5MFFheHMwMkl6QUhHS08zZUpaTGE0ZHhtS3E5aGNpOVk0a01PLW1MUVlpbXdKLTRwQlBiTmFVc3o5WXRyM3lmdw?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T12:58:07.000Z",
-      "summary": "Taliban Again Urges Uzbekistan and Tajikistan to Return Military Helicopters  The Times Of Central Asia"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Live Cricket Update - UAE vs OMA 7th Match, Group A - Live Blog - UAE and Oman seek first points in Asia Cup - ESPNcricinfo",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcWFvMF8zUVdPcHEycGR4TDgtUDl1cmIzc0ZpdnpBU2JCM3Rfemh6MURyT0J3ZXlJb0ZscmhnUTZvOThweTJCZ2Q4SlZSU0lPQU9kT1gxRUo2RF9rZjJVdmxOX0FpRFF3MjNXWjJnNUZLTGZyVVRZcy10amI4YkZsdFViQVFRQlhmVk1xRW5leHlCeUJIM3p3VEx2STlMSUdaM25kRjdpVHIwRXhPMGU0UG01dll4aG5RZFc4VWJLSnFQNzlDaG9kZnNocHhVWWdteEtPVQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T12:57:30.000Z",
-      "summary": "Live Cricket Update - UAE vs OMA 7th Match, Group A - Live Blog - UAE and Oman seek first points in Asia Cup  ESPNcricinfo"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -472,46 +642,6 @@
       "summary": "המפלגות החרדיות עזבו בקול גדול לאחר שדרישותיהן בחוק הגיוס לא נענו, אך מתחת לפני השטח נדמה שהן שומרות על מקומן. שר העבודה לשעבר יואב בן צור השתתף בחלוקת תעודות להנדסאיות חרדיות, השר יעקב מרגי נאם בהרמת כוסית במשרד הרווחה שעזב - זאת לצד אנשי המקצוע מטעם המפלגות שנשארו בלשכות"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UN Human Rights Council to hold urgent debate on Israeli airstrike on Qatar",
-      "url": "https://www.jpost.com/international/article-867519",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1997,w_3000/483295",
-      "published_at": "2025-09-15T12:56:43.000Z",
-      "summary": "The debate was requested by Pakistan on behalf of member states of the Organization of Islamic Cooperation (OIC), and by Kuwait on behalf of the Gulf Cooperation Council."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "5 controversial fights & red cards in Saudi, UAE, Qatar leagues that shocked fans - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQmxObzJmUVgtYjVKSVV5R19CYjVaVGdtWFVvOTh0Y0xqOG5sSjEyZE1TV2tUUnNuWGpsVUxrUU9XWnpWZ1BZX0F3MjU5ckpVM1FaR25xb0dhWVlNS1lHcEYyZ1R3R1cyYzVWQXVMZnFuNDdsa1ZrWlFqR2RUUm9keVNtSHAxcGxqMURoTzlNRXB3RE9BRTN6emNrZUpqNWY3MU1qcGltRGxTb0NCdjRSRmEyek1WSG53RmVGWlA1ZmlGRlBpbGp1dG05SW5kYUhrM1R5VGM1ZlJjbmhDUTFkS0kwb0ppWDJBZzA3Y29DRDhTbzVQZEllUXZR0gH_AUFVX3lxTE4wM2s3R2xzMGE5TmpTYWNvOGxabmVxOEFLLTNfenBnSDJfdk04NEZ2blhxTDFNcUcxbk9JSDgxR0U1SHRreTAxV3BoNVNsa3NQeHlUNU1qNW4xYm94VmlfTEF2a1Izdmt5TmRDVWQ1ZmJObWdhdnRMWjl5UjRTUkl3d2FSMFpaaWJRY1RtOTNab0pkN3ppX2ZKTDRWQjNSSWJnYWozOWN0eEQ5di1NMy1lcWJZbXk5MUZDWFE0cDZ1Q1pRNEE1MmRTTl9xU041dVlIQU9UOFVXd0lkSTJ3c1JrdllPVGxud1V2ampMTElLTUlmMmJLVjJBVGh5ZzlzNA?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T12:52:00.000Z",
-      "summary": "5 controversial fights & red cards in Saudi, UAE, Qatar leagues that shocked fans  The Times of India"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Three French women accused of Daesh links go on trial - Arab News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzZWdUeWY1Rk9NN1l4WVJYOU03eGRQc1Y4Y3BEcHc5V05SY1VnaVgzLXpfOElja2Vrd1hBVW9lOG1hME02V1Y5RnRtMWdEbTc5MnJNY1B3?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T12:51:38.000Z",
-      "summary": "Three French women accused of Daesh links go on trial  Arab News"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE vs Oman LIVE Updates, Asia Cup 2025: Oman opt to bowl first, put hosts in to bat in battle of the underdogs - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOW1oVFU3TEJFTEtlQTFXdVNIeHN4M19GRm9FOHlKZ2ZoSEZJX3ZVUnFTelU5NTJNR09iQ0dtUFBpTVZuRy1EbTJSWFl2SWJGQ0YzUmVrQ01lMlliQjRkdndrQy12bl81MXB3bW5IbDh4czFDQmlnR0FyYm84UWFEbDg3UVNBRlktQXVEVnZadEZRdC1nLWp2T2Jfd3NTS2RWZGl2X3VpVnJ4TjJLTGtyd004SHJtTjRpLUhDUkE2Ul9vQjZhNU5uZTJrNE5XQW5aSG9zUVVhOUc4RVlGMV9fRmpmc0ZUdlhaOHBubnJtTFc3RDNp?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T12:47:38.000Z",
-      "summary": "UAE vs Oman LIVE Updates, Asia Cup 2025: Oman opt to bowl first, put hosts in to bat in battle of the underdogs  MSN"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -520,16 +650,6 @@
       "image": null,
       "published_at": "2025-09-15T12:46:26.000Z",
       "summary": "The interim leader and her new team will govern the country until elections are held in early March."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Defense Min. Dir: 'War against Iran ended in victory, there will be more rounds'",
-      "url": "https://www.israelnationalnews.com/news/414966",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1199059.jpg",
-      "published_at": "2025-09-15T12:46:06.000Z",
-      "summary": "The Director General of the Defense Ministry believes there will be further rounds of combat against Iran."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -542,46 +662,6 @@
       "summary": "The Indonesian government cannot pursue an ambitious climate agenda while neglecting its human rights obligations."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Imaan Mazari approaches IHC committee, SJC against Justice Sarfraz Dogar",
-      "url": "https://www.dawn.com/news/1942190/imaan-mazari-approaches-ihc-committee-sjc-against-justice-sarfraz-dogar",
-      "image": "https://i.dawn.com/large/2025/09/151651109d6ef5e.webp",
-      "published_at": "2025-09-15T12:46:02.000Z",
-      "summary": "Rights activist and lawyer Imaan Zainab Mazari-Hazir on Monday approached an inquiry committee of the Islamabad High Court (IHC) and the Supreme Judicial Council (SJC) against IHC Chief Justice Sarfraz Dogar following last week’s altercation between them.\nOn Thursday, Justice Dogar had warned Maz..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Rubio urges Qatar to keep helping with Gaza as Israel batters enclave - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWYtSTd5SXBjUzdsQ0NQZjFYUHNsN1Q4LXRsR1psVFhuWkJNVEtDQW5DYlMtMGxRM3FkSEFfWGphNGRUSVI1OVVaR21WWFEyejhZRWtjLVRXNTQ0MFlEb09ZNDJGSVJHRWQ2eTVVVzRlLTVDWU16VU42NTJRWHJ1TTRDcktGdmhiQ0Y2NHlBdkFDOElwZEhibk1iNk9CNXFVX1pnZGVCRVBaejNSSWFaUmlVZWF1amw0?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T12:44:31.000Z",
-      "summary": "Rubio urges Qatar to keep helping with Gaza as Israel batters enclave  Reuters"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE vs Oman, Asia Cup 2025: Live Score and Updates from Abu Dhabi - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUFZ3ak9VVGtudlo2dkpOT0gzdFRORktPRXl2djRHU1UzQ2U5Qm1KVlZfUjkwRkp1MUcxVmkxbGdfWUE1YU9SY2g5RHZGYWJXZG5XQnp6RDNOU0NadkhINVYxU3RvTGg3OGE3VkxSN1hpaHFzMWJOTGtjZ2wtRm5uRnZSUmVEVzFhbzNsakVzcENYV0h4SnNiN1BXbFNLUnB6Nm14akZDTkt6eEwxSllQZmRIaHhyNzNDbF9DQlZuTEtUOG9pQTFQR18tRlZhNHlycHpZ0gHYAUFVX3lxTE4zUjRmT1Vnc0RzcmItT09wWHpyUkF1di1TQURudzViNnVhNXZjc3ZDSzZxeWk5ZzBsWl9UUVhMLTBaS2tHN3NXZG94U3p3UjBuQ19yQ192TldNWVBpREJTUDJhOU9NX2lqRFgzTF9mWGE2OVdsSUYxcWNZY080dkRYdkF3MGlmQmcwb3F4WEdFLVBOTlpDRVl6Q25xTkxyMVBveGVnaGhudWw4ZXluQkZqVEdjSTRORXVvRFozcmJVSXhjNDdVYUVocW9NVXl1N0V2TkxjMjhUeg?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T12:44:08.000Z",
-      "summary": "UAE vs Oman, Asia Cup 2025: Live Score and Updates from Abu Dhabi  India Today"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE: Lootah Biofuels offers Sustainable Aviation Fuel - ZAWYA",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS2ppVUk0WUlUM2FBVk80UHNSd1RtaDdidF9QUlo1VDZsV0xBYkFWWVhZSFFOSHducUZnSk5fdUpRbW1GdTFwOHlRcTNscUpzMkJYaml0bkhzTzdfZnphVG8wbXJVZ2YtZFFoMXoxVHp6cGZHRnVoazFlYWZaUTh1Zlg4VzhUTUlqWlEzUHpwamVoZzBjUkR0R2dEeXZMZkk?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T12:43:23.000Z",
-      "summary": "UAE: Lootah Biofuels offers Sustainable Aviation Fuel  ZAWYA"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -590,16 +670,6 @@
       "image": null,
       "published_at": "2025-09-15T12:41:21.000Z",
       "summary": "השרה לשוויון חברתי השתלחה ביועמ\"שית בהרב מיארה והציבה תנאים להגעתה לחקירה: \"אשקול להגיע רק לאחר שישחררו מיד את האנשים שנעצרו מתוך מטרה להלך עליי אימים\". החשדות בפרשת \"חגיגת הכספים\": קבלת דבר במרמה, שימוש בכספי ציבור לצרכים פרטיים והעסקה פיקטיבית במשרד"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE And Pakistan Strengthen Travel Links As Fly Jinnah Boosts Connectivity Between Dubai And Lahore With A New Non-Stop Flight Route - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQVBRbGMtZjVOY2lXUFZrZjBPY1VqRkROdEpoeGpjeERjaTVHQVpTcUktLVNMOFdfa0RSS1ZISlFfMVFNVkE2YnRGTHhyajNhQTN2UnBQd1ZYdEM3TnJJZ3lDc2E2d29MQnFvQzY3R3haZm5DYXU2Z0RzS1lTRS1EekdRV1QtMEIyekozZ2RRay1nTVUyWElFRko4NHQ0Z3RVZFJSSU5oTUMzTk1Gby00TEJ0Rk1kTXlkcGRRNDBtWUY5UmYyR2JTb05pdXAyUEF4Ui1MbUxQTWNsanYtUGdTTDVOUS1lWGtWTnJoSjJYdXpyeFZMMkNVNUI2NDlqQnUwcTd6VzJVNDlwbDJYYVE?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T12:37:33.000Z",
-      "summary": "UAE And Pakistan Strengthen Travel Links As Fly Jinnah Boosts Connectivity Between Dubai And Lahore With A New Non-Stop Flight Route  Travel And Tour World"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -632,16 +702,6 @@
       "summary": "Alternative for Germany, which came in second in national elections earlier this year, nearly tripled its vote share in in North Rhine-Westphalia, a region home to some 18 million\nThe post In German local elections, Merz&#8217;s conservatives win but far-right party makes gains appeared first on The"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "United Arab Emirates vs Oman Live Score, Asia Cup 2025: UAE off to solid start vs Oman in Abu Dhabi - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOTzdlWlE1MDJLTEJ4a2JDSGx3T1ZDSE0tcHF5YlQxcmxEaVZ4YWZ1LXNDM0tzakpHdmVHRlA2Uy00YWdkUm9ncDBLcGNKUGlRQzhSaXJPbExXZGw0dF9rT2czOHRXa3lhRmkxbk9XNkFyUWQzU0RpSW0tWk9tWWQ4VlVOdmlVQ25jdHN1bDJkOEtGLUVNN0x4WnJfb1F5OFUzOS1yOHhjVGItbWloaE5kdDBWcmVXbHQ5d0IzRVBJc1Jid1QwQUUwTE5zaV9nY29MclYtcUdoUWt4M1ZMMjZWNExpbjhRQmxCdG1WRHN5TWxXNlU4c2lXTjhVVWVJdVQxRmpUbGNmY1R3eDZBcmlreDZKblVHeWZlWDB5cHhoWTVrWG0wWi1WQkJnbDjSAbICQVVfeXFMUGxhRVhkSW9QSnlFUkwwLXZGUVNVOTVRYlhacm1DWGRaemlZbmFJYzlYNTAteFdqbUhZY19udEtQbHpVMHZzQ3ZMR0VMNG9OMk1QUldxU0wxSjVuYkdpYk5Bc2lzYXBaNl95eVJySFNDZ2FadUZ5WlplRVdySDlPSnI1eGh0WnhxMHBZMVpnWUJBMmxnS09vanoxR0lqZnZ2Y2NDUEk2ZTRuMWkwNUYwTW5JVHRVeWZLNVFROGFPdU43Zk1GcTZ3TTRJUDFLZWp6bkZQT0ZVNXkzOUhQVUd5eUd5WHgtQmhUUl9vMkxTMlBZbzdQbE9FXzFuVmZ4VVhxaC1qWDFpeUtkNEJvVXFvM05nTm41a1pBQ3ZEdW5wdGl3WTZZcUJTbnA4dW14OC1kOHNn?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T12:35:19.000Z",
-      "summary": "United Arab Emirates vs Oman Live Score, Asia Cup 2025: UAE off to solid start vs Oman in Abu Dhabi  The Times of India"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -650,16 +710,6 @@
       "image": null,
       "published_at": "2025-09-15T12:31:32.000Z",
       "summary": "רה\"מ אמר שישראל במצב מדיני מאתגר ויהיה צורך להסתגל \"לכלכלה עם סימנים אוטרקיים, להיות אתונה וסופר-ספרטה\". הוא האשים את המהפכה הדיגיטלית שאותה מנצלים יריבינו, כולל \"מדינות אויב כקטאר\". על המוסלמים שהיגרו לאירופה אמר: \"מכופפים את הממשלות\". לפיד: \"כלכלת בידוד? אמירה מטורפת\""
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "BIGBOX UAE 2025 Announces Esteemed Sponsors and Partners for its Upcoming Global Retail & E-Commerce Summit - intlbm",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZUJ5SzdFLW80RmxFd2xsdFVPTkpmSjZ1OWtnRXJTSkVaOUFRWGhIaERDRGtNeVFhZTRwUzlDNTBLaHNycTk0ek9GeUV3V2x4Nm9wZHM0TjZiVGMzSkJ3SmJfMkxQUmdMcEp6U1ZnV180SC1lOFJsaVBDSUpBcUxxUUpVMEV2c3hiV0s5cUE2UVpGeXJfR2xkbWs1Z05qbWNBOVF1THhUZUxkNDNHbkY1QkpEdm9DNG1SZDVFQWFJcTkxNXR3bHB2V19UNUotbUVkTEE?oc=5",
-      "image": null,
-      "published_at": "2025-09-15T12:30:56.000Z",
-      "summary": "BIGBOX UAE 2025 Announces Esteemed Sponsors and Partners for its Upcoming Global Retail & E-Commerce Summit  intlbm"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -800,6 +850,16 @@
       "image": null,
       "published_at": "2025-09-15T11:16:40.000Z",
       "summary": "לאחר שלא הצליחה להוכיח כי הוא זה שירה בהודיה גבאי, הפרקליטות הגיעה להסדר טיעון עם עבד אראזק אכרס מטייבה - וירדה מדרישתה למאסר עולם. סנגורו של אכרס (28), בעל עבר פלילי עשיר שישב בכלא, אמר כי \"בתיק נחשפו מחדלי חקירה דרמטיים והוסכם על ענישה מקלה\". חשוד נוסף בירי טרם נתפס"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Private zoo run by billionaire Ambani family cleared of 'foul play'",
+      "url": "https://www.bbc.com/news/articles/c147kzpy113o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29bb/live/488fb2a0-9219-11f0-aaf9-b9bd02805d2e.jpg",
+      "published_at": "2025-09-15T11:15:21.000Z",
+      "summary": "India's top court had formed a special team to investigate allegations that animals were mistreated at Vantara. "
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1045,11 +1105,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Lawyer tied to Likud minister&#8217;s alleged financial crimes arrested in sweeping police raid",
+      "title": "Lawyer tied to Likud minister&#8217;s alleged financial crimes arrested in sweeping raid",
       "url": "https://www.timesofisrael.com/lawyer-tied-to-likud-ministers-alleged-financial-crimes-arrested-in-sweeping-police-raid/",
       "image": null,
       "published_at": "2025-09-15T09:47:30.000Z",
-      "summary": "Police search Social Equality Ministry offices, detain associates of Minister May Golan suspected of fraud, misusing taxpayer funds; officers find marijuana farm in home of adviser\nThe post Lawyer tied to Likud minister&#8217;s alleged financial crimes arrested in sweeping police raid appeared first"
+      "summary": "Police search Social Equality Ministry offices, detain associates of Minister May Golan suspected of fraud, misusing taxpayer funds; officers find marijuana farm in home of adviser\nThe post Lawyer tied to Likud minister&#8217;s alleged financial crimes arrested in sweeping raid appeared first on The"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1292,16 +1352,6 @@
       "summary": "Comments come amid further indications Mossad refused to take part in operation, thought to have failed to kill Hamas' leaders, and ahead of Arab-Islamic summit in Doha\nThe post Trump says Israel must be &#8216;very careful&#8217; with &#8216;great ally&#8217; Qatar following strike appeared first o"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Actors voice pro-Palestinian messages at Emmys, trumpet Israeli film boycott",
-      "url": "https://www.timesofisrael.com/actors-voice-pro-palestinian-messages-at-emmys-trumpet-israeli-film-boycott/",
-      "image": null,
-      "published_at": "2025-09-15T08:02:47.000Z",
-      "summary": "Jewish actress Hannah Einbinder ends award acceptance speech with 'Free Palestine'; Javier Bardem vows he'll 'never work' with firms 'not condemning the genocide in Gaza'\nThe post Actors voice pro-Palestinian messages at Emmys, trumpet Israeli film boycott appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1442,26 +1492,6 @@
       "summary": "מפלגת ה-AfD, שחרתה על דגלה את המאבק בהגירה, לא מסתפקת עוד במעוזיה המסורתיים במזרח גרמניה, ושולחת זרועות למערב המדינה. אתמול שילשה את כוחה בבחירות בנורדריין-וסטפליה, מדינת המחוז המאוכלסת ביותר. זהו תמרור אזהרה לקנצלר פרידריך מרץ, למפלגתו השמרנית ולסוציאל-דמוקרטים מהשמאל"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "New York Governor Hochul endorses Zohran Mamdani for mayor amid poll surge",
-      "url": "https://www.aljazeera.com/news/2025/9/15/new-york-governor-hochul-endorses-zohran-mamdani-for-mayor-amid-poll-surge?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-15T06:12:19.000Z",
-      "summary": "Kathy Hochul&#039;s nod comes after Trump described Mamdani&#039;s 22-point lead in polls as a &#039;rebellion against bad candidates&#039;."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "The Pitt wins best TV drama Emmy, as war on Gaza echoes at ceremony",
-      "url": "https://www.aljazeera.com/news/2025/9/15/the-pitt-wins-best-tv-drama-emmy-as-war-on-gaza-echoes-at-ceremony?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-15T06:11:49.000Z",
-      "summary": "Hacks actress Hannah Einbinder, also an Emmy winner, calls for a free Palestine in her acceptance speech."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1555,7 +1585,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Gov't agrees to discuss A-G termination with high court",
+      "title": "Netanyahu gov't willing to discuss A-G firing with High Court",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-867452",
       "image": null,
       "published_at": "2025-09-15T00:12:10.000Z",
@@ -1910,16 +1940,6 @@
       "image": "https://gif.haarets.co.il/bs/00000199-480a-d1c2-a799-dcce12c40000/5a/3e/cc4890d744bf890635f48d5dc0df/omertop2.gif?height=81",
       "published_at": "2025-09-14T14:04:41.000Z",
       "summary": "Conservative AI slop aimed at religious audiences is just the first phase of foreign influence operations which gained thousands of followers by piggybacking on the Gaza war - laying the groundwork for election chaos"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Some 81,700 soldiers wounded in Israel’s wars, 20,000 in current one, Defense Ministry says",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-867401",
-      "image": null,
-      "published_at": "2025-09-14T14:01:25.000Z",
-      "summary": "Every month, around 1,000 soldiers file new claims regarding their wounds from the war."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2979,26 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856848",
       "image": null,
       "published_at": "2025-06-07T13:15:37.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Twenty live hostages, two undetermined, 33 dead, says Israeli source",
-      "url": "https://www.jpost.com/breaking-news/article-856847",
-      "image": null,
-      "published_at": "2025-06-07T11:18:14.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "North Korea internet hit by a major outage, analyst says",
-      "url": "https://www.jpost.com/breaking-news/article-856837",
-      "image": null,
-      "published_at": "2025-06-07T03:25:25.000Z",
       "summary": ""
     }
   ]
