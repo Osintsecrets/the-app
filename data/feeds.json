@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-17T10:09:33.444Z",
+  "generated_at": "2025-09-17T10:38:59.755Z",
   "items": [
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -47,7 +47,7 @@
       "topic": "News",
       "title": "Ben & Jerry's co-founder resigns after feud with parent Unilever over Gaza war",
       "url": "https://www.jpost.com/international/article-867730",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2000,w_3000/681361",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/681361",
       "published_at": "2025-09-17T11:13:48.000Z",
       "summary": "Unilever and Ben & Jerry’s have clashed since 2021, when the Chubby Hubby maker said it would stop sales in the West Bank."
     },
@@ -55,7 +55,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "IDF bombards terrorists overnight, striking 50 targets as Gaza City offensive intensifies",
+      "title": "WATCH: IDF strikes 50 targets overnight as Gaza City ground offensive intensifies",
       "url": "https://www.jpost.com/israel-news/defense-news/article-867720",
       "image": null,
       "published_at": "2025-09-17T10:46:11.000Z",
@@ -72,6 +72,66 @@
       "summary": "“The army’s role is to shape a military reality that gives Israel a stronger hand in future negotiations,” retired Maj.-Gen. Israel Zini said."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Pakistan, Palestine sign health MOU in bid to foster closer bilateral ties",
+      "url": "https://www.dawn.com/news/1942648/pakistan-palestine-sign-health-mou-in-bid-to-foster-closer-bilateral-ties",
+      "image": "https://i.dawn.com/large/2025/09/171515148e2a92e.webp",
+      "published_at": "2025-09-17T10:28:05.000Z",
+      "summary": "Pakistan and the State of Palestine signed a memorandum of understanding (MOU) aiming to “strengthen bilateral cooperation in the health sector,” as part of an effort to foster both nations’ brotherly ties, a press release issued by the Ministry of National Health Services said on Wednesday.\nThe ..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Больше половины сентябрьской нормы осадков выпало в Алматы",
+      "url": "https://centralasia.media/news:2331095?from=rss",
+      "image": null,
+      "published_at": "2025-09-17T10:27:10.000Z",
+      "summary": "16 сентября в Алматы выпало более половины месячной нормы осадков, подсчитали в акимате."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "התפתחות דרמטית בפרשת מאי גולן: גויס עד מדינה, מגעים עם חשוד נוסף",
+      "url": "https://www.ynet.co.il/news/article/syvkqguiel",
+      "image": null,
+      "published_at": "2025-09-17T10:22:36.000Z",
+      "summary": "אהוד גבאי, החשוד המרכזי בפרשה ומקורבה של השרה, החליף את סנגורו - בצעד שעשוי להעיד על חלקו בהתפתחות. בדיון שהתקיים בעניינו אתמול נראה נינוח על ספסל החשודים. סנגורו המוחלף טען שהופעל עליו לחץ כבד. מגעים עם חשוד נוסף"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Culture Minister halts funding for Israel's Film Academy Awards after film that 'depicts Israel negatively' wins top prize",
+      "url": "https://www.haaretz.com/israel-news/2025-09-17/ty-article/.premium/govt-cuts-funding-for-israeli-film-academy-ceremony-after-film-on-palestinian-boy-wins/00000199-56eb-dc75-a1d9-57ef53980000",
+      "image": "https://img.haarets.co.il/bs/00000199-56fc-dc75-a1d9-57fcab530006/e7/7e/1db974824f9e8c066446920ed335/102751-2.jpg?height=81",
+      "published_at": "2025-09-17T10:21:03.000Z",
+      "summary": "Claiming that the film 'defames' Israeli soldiers, Israel's Culture Minister announced the withdrawal of government funding for the Ophir Awards after the 'embarrassing ceremony'. The film, The Sea, tells the story of a Palestinian boy from Ramallah trying to visit the beach for the first time"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah unveils memorial program honoring Martyrs Nasrallah, Safieddine - ABNA English",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ3l4akJxLS1QbEJ5aUVFVWtnV3NNMVdxWU10a0lRaXk5eU5GVWQ5azhxcG9BTTdlOXZNblBsanFrdlN1TVFfX2J4TUs0cGhZVWhrM1RzUURWRzJKejJYVDRkY0pTSk52SmdQWkJyamR1RUFmd0RUMjB0QVNvZENTRlc0REdMb1I3cTl0N25QcFh0X3hZYUlyTzVSdjc?oc=5",
+      "image": null,
+      "published_at": "2025-09-17T10:21:00.000Z",
+      "summary": "Hezbollah unveils memorial program honoring Martyrs Nasrallah, Safieddine  ABNA English"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "From crypto billions to computer chips, Trump is selling out U.S. security - Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVFBYzhNVVhBQzMtVk5xVF90eF9pTzM3UFNlRTE0S3N1b1J6V19WS2FnaFFMVGgyU1hHYlBBN3RGQWNacHBaOWYwdFA3VUpZamRleDYxS01HeWdjOUxWNVdwZ2RlMy1qZlhSWmxQT1ZUSXliLTJhZlpfaWxhdHNvUG41SkZqdnp0RWFhcHc4YW5tOGZUS1NIR1FLOS1HSDFJRy1hZnlCc0FhcTJNaGc?oc=5",
+      "image": null,
+      "published_at": "2025-09-17T10:18:45.000Z",
+      "summary": "From crypto billions to computer chips, Trump is selling out U.S. security  Houston Chronicle"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -80,6 +140,126 @@
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/673082",
       "published_at": "2025-09-17T10:18:22.000Z",
       "summary": "Damascus said the agreement includes an understanding with Washington to seek security arrangements with Israel regarding southern Syria."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"איום ישיר\": אקוודור הכריזה על משמרות המהפכה, חמאס וחיזבאללה כארגוני טרור",
+      "url": "https://www.ynet.co.il/news/article/rkv117jdolg",
+      "image": null,
+      "published_at": "2025-09-17T10:16:18.000Z",
+      "summary": "אקוודור הצטרפה לשורת מדינות שמסווגות את הארגונים כארגוני טרור, והנשיא נובואה חתם על צו המזהיר מפני נוכחותם בדרום אמריקה. לפי הצו, ארגוני הטרור מאיימים על \"הריבונות של אקוודור\". סער בירך: \"צעד אמיץ\""
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Amb. Akunis: Both Qatar and Hamas responsible for safety of hostages",
+      "url": "https://www.israelnationalnews.com/news/415080",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1199232.jpg",
+      "published_at": "2025-09-17T10:14:48.000Z",
+      "summary": "Israeli Consul General in New York Ofir Akunis urges continued pressure on Qatar and Hamas to release all 48 hostages still held in Gaza, promises Israel 'will never apologize for defending the State of Israel and the Jewish people.'"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "The New Paradoxical Equation: Israel and the Resistance Under One Roof - The Media Line",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3B4OUFmbHhaTmhrMzZhcHo5MC1mRXFrOGotSkF5X09UUGxOX3dBaVFpWHZZcDBTUU9KS2NvNklQN2hoWEtzNjFBVUY1U045Y0FVOEZVTmFHdjdjQVFHZjNpTzFLd1N6NjcwdkZYNFEwTU95Y2ZMX3g0YkFFbTYxeDJmM2JNQm8yb1RqVVo1VGVVWkhCckM2VHQtc2ZtVEN5X1l1cjl2TURQWk9kcGg3UA?oc=5",
+      "image": null,
+      "published_at": "2025-09-17T10:14:33.000Z",
+      "summary": "The New Paradoxical Equation: Israel and the Resistance Under One Roof  The Media Line"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Over 90% of families have returned to Gaza border communities",
+      "url": "https://www.israelnationalnews.com/news/415081",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1147296.jpg",
+      "published_at": "2025-09-17T10:12:50.000Z",
+      "summary": "A new report by the government office responsible for rebuilding the Gaza region shows that an overwhelming majority of residents of the Gaza region have returned to their homes, and more than 2,500 new families have joined the area."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Huawei and 51Talk showcase digital learning for UAE students - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT0ZCZUEtUWJ0anN3NGUxZVMzVVJLZGFuWGpJRnlmcGk4RzNZZE9nMElUcmVqeGJEMk9vUmpoQjRKS3pXaWI4aEhvVVE0N3YtTlBscEFzSzVuV2RTUzhGUllHaERmQVFwOENScmtXcjl3M2x1c29rRUt1QnY5eTZVNHBtN1Nod1JSeTJxQmZ0anFGNm9LbFd1cFV6WUhFSUNaeGZnSWpn?oc=5",
+      "image": null,
+      "published_at": "2025-09-17T10:12:13.000Z",
+      "summary": "Huawei and 51Talk showcase digital learning for UAE students  Telecompaper"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump’s second state visit to the UK will be met by royal pomp, protests",
+      "url": "https://www.aljazeera.com/news/2025/9/17/trumps-second-state-visit-to-the-uk-will-be-met-by-royal-pomp-protests?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-17T10:11:37.000Z",
+      "summary": "The visit comes as both the US and UK leaders face fallout over the furore surrounding Jeffrey Epstein. "
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "OFIS Brings Norwegian Ergonomic Design To The UAE - Design Middle East",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWHR4ZTB5RE41QktYd1lhYmlwMFZWeHQ4V2F3bWEyeHpkWW8zaWxtWEdNbWtfendkbTlsQ3FQVENrcEFKN2oxM1Qzc0twRnVSTUFGell6TlJRQVdEWk9CdzVobWswYW51dHk2c2NmTjZZa3B0cVZMMjlfRkkyS3VLcEdzdlFHc0U?oc=5",
+      "image": null,
+      "published_at": "2025-09-17T10:09:54.000Z",
+      "summary": "OFIS Brings Norwegian Ergonomic Design To The UAE  Design Middle East"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Daily Briefing Sept. 17: Day 712 &#8211; Zamir rallies troops as IDF moves into Gaza City",
+      "url": "https://www.timesofisrael.com/daily-briefing-sept-17-day-712-zamir-rallies-troops-as-idf-moves-into-gaza-city/",
+      "image": null,
+      "published_at": "2025-09-17T10:07:57.000Z",
+      "summary": "Military correspondent Emanuel Fabian discusses day two of Gaza ground offensive and a possible war of attrition with Houthis\nThe post Daily Briefing Sept. 17: Day 712 &#8211; Zamir rallies troops as IDF moves into Gaza City appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Azerbaijan, UAE elevate relations on liberated lands to new strategic level [ANALYSIS] - AzerNews",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qSlhmVE4wa1lqZEUzRUpNY1h6anQ1bUNhU2ZSTDc5NEtOSzA1U1RsM1pnUDduYUVyeWNyUFdpcVRodTJfSEtpZVZDblBic2RPb29tNzNnNA?oc=5",
+      "image": null,
+      "published_at": "2025-09-17T10:05:00.000Z",
+      "summary": "Azerbaijan, UAE elevate relations on liberated lands to new strategic level [ANALYSIS]  AzerNews"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Trump’s Laissez-Faire Stance Gives Netanyahu Free Pass for Gaza Escalation",
+      "url": "https://www.nytimes.com/2025/09/16/world/middleeast/trump-netanyahu-gaza-escalation.html",
+      "image": "https://static01.nyt.com/images/2025/09/16/multimedia/16int-us-israel-assess-03-blhf/16int-us-israel-assess-03-blhf-mediumSquareAt3X.jpg",
+      "published_at": "2025-09-17T10:03:18.000Z",
+      "summary": "As Israel mounts a major Gaza offensive, President Trump has neither urged restraint nor endorsed the action, which Israel’s leader has taken as an implicit green light to proceed."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Did climate change cause 16,500 extra deaths in Europe this summer?",
+      "url": "https://www.aljazeera.com/news/2025/9/17/did-climate-change-cause-16500-extra-deaths-in-europe-this-summer?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-17T10:01:23.000Z",
+      "summary": "Study covering 854 European cities finds that officially reported heat deaths remain &#039;significantly underestimated&#039;."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Ivanhoe Mines announces $500M private placement with Qatar’s QIA - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY2dxQUFYZ2d3NGR0YmhGNUtCbTg0NHdoZXBxUUVFWlRHX3lOV2FobXlYV1MxWjJFa0ZzcFNoNTZMdmYwM2ZFbjFURTRFTXhqWkxNNFljSmZDZGZvbVBBMzByN1pSWXpJSHRYN255eXJVeVQ5akcwMDRlZUpsWnZtcEJ6NlF6dkhHQUhNNGtKWkp6M0V5YVNGeklLbVh5NERIRkp5aEhyd0hoc28xU1V4V2JiR0JTMVlkWW5rSEtBTnM0azdrTW9xRXJmOWVyczV5U21mSFRVMWp5Q2M?oc=5",
+      "image": null,
+      "published_at": "2025-09-17T10:00:58.000Z",
+      "summary": "Ivanhoe Mines announces $500M private placement with Qatar’s QIA  MSN"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
@@ -105,11 +285,21 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Israel-Hamas latest: Ground forces moving deeper into Gaza City, Israel says - Sky News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSlJzWjVhYUhzNlNOLS1sZ2hWZVR5cFFrdWQwTmFRVTVScHRUNkwzZUkxNFNaaUJJSXpwWE1NcEdIc1pjV3h1Z3ZNTWYwUFU3ZjNhbWk2NUw4cmRCZTBKUHZGSGw5cm1CMmctME5YNUIxcDZycThWN19xT19yR1E5SHBiQzBzclNnZDJBM0t0SUZJbEJtVkE?oc=5",
+      "title": "QatarEnergy, Samsung C&T ink EPC contract for 2GW solar PV project in Qatar - PV Tech",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQamZET3hhSXpIci1rR0VqMndGX29QZzlTUFVBUk45cV9ocFN3WTRUSVNuTlQzVGVORk1yVERad0h1cHhPUUw1WWZkUUxVVHZFTDFDcmJVTW83RDc0enpBZ3oyY1hYQmQ0d3drcDNKRmU5ZkVXZUN2ZzgyN1lMNTRPMkw4Mk0zZjNHSXBqeHNTTkp6NXp0RGZ1azJKNTllek0?oc=5",
       "image": null,
-      "published_at": "2025-09-17T09:56:19.000Z",
-      "summary": "Israel-Hamas latest: Ground forces moving deeper into Gaza City, Israel says  Sky News"
+      "published_at": "2025-09-17T09:57:52.000Z",
+      "summary": "QatarEnergy, Samsung C&T ink EPC contract for 2GW solar PV project in Qatar  PV Tech"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Asia Cup: Pakistan cancels pre-match PC ahead of UAE game - sentinelassam.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmxHU0NHX3QzaVZ1c0I2Y0xUT0YteXMxVDRmRTluRkt1SFlNeDFOOUp3SjJZS2JzZlNvcFlRWU1Oc1R4dTJEamtRSzMzYzVFUTRUYW9xOVFZY2lBVk0xZlNhTEVpVU02b0djS2tWM2QxY3dkRGE2ZzZxQXhCWkFVem12bWE3M1A3T1k5ejRwbGc4VUt4VjMtZXB5S1RXYzDSAawBQVVfeXFMUERkVWZvdWY1UzcySmJ4NmxsUnVBVmlUMGdlU1VTYU1teXEyR1ZfRWhmVEZEM0t3ZldQUC1JeW9qclRrYWtZZ2lKRzJyakIzRUZMSi1QQkdRbUI4X1hyQTVBazZIdjVvbmlRWTRQRnZRQjBuTGR5NjJOaFRaRkZlUWpMa3FaMGg3SEUxWjFyd0x1bnBSekttR0lHcWVZYTZoT0k1a0NQRmZsZkE2Xw?oc=5",
+      "image": null,
+      "published_at": "2025-09-17T09:57:02.000Z",
+      "summary": "Asia Cup: Pakistan cancels pre-match PC ahead of UAE game  sentinelassam.com"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdsaW5lc21h",
@@ -142,8 +332,8 @@
       "summary": "A year on, Lebanese maimed in Israel's pager attacks on long road to recovery  Global Banking | Finance | Review"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "Start.me — 10 Mideast (page feed)",
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
       "topic": "News",
       "title": "Thousands of Palestinians flee as Israeli troops push into Gaza City",
       "url": "https://www.bbc.com/news/articles/cx270y1rgzeo?at_medium=RSS&at_campaign=rss",
@@ -212,6 +402,16 @@
       "summary": "Asia Cup 2025 - Who will win between Pakistan vs United Arab Emirates: Match prediction and five key players to watch out for  WION"
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Asia Cup 2025 qualification scenarios: How can Pakistan, Bangladesh, Sri Lanka and Afghanistan join India in Super 4 round - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQjV1bGNxTEF0R1dYMUQwelo2QmVVX0JzMzJ6eEdnVGdtRG12d3BPbTJ3b3JUX2RheFc0elhrZ1dDNTdRb1V0UXBMcnkxekg1UVVlMHVONVVYX21CQUVhdjJCWTJPU1JXZ2c5RVVsdDlrbDV1RVg4bVMzay1fYUpaQk85bUcwcy1XS1NrSDFsbVZMMFpwZWlOZmwySzdpVEpoZnl1ZHJTUHRxRlBLekcwdmVFcTRMVXAtNDBrTUJfQ3ZIYWNpYWxMVmdMdmJlV09IMkHSAdgBQVVfeXFMUERRbHEtRy1mb2ZRbVVScWE0QW9vbVFlMlpwX013RnhEREVpR0huQUlfelpvMHg3Q3lmM0NEMWc0NHdTVTJTbFExTDVsMzJfSEg2cUs1UTBWeUw1NGtTeDVtVGt1dkNpWUpyVTVuTXpTdjdNRmMzV0dlVG9kWkoyUDUyU1BES2FfMmJBWFI5cmlGdTJ0T0M2YjhKbVYzYzljZzdBaUYyaTdXRTF0WGxEdlYtS0J2X0Zvc0RESXl6bkVZZkRGdUg1NDZGNF96TURvMlRiRWU3UUV0?oc=5",
+      "image": null,
+      "published_at": "2025-09-17T09:37:00.000Z",
+      "summary": "Asia Cup 2025 qualification scenarios: How can Pakistan, Bangladesh, Sri Lanka and Afghanistan join India in Super 4 round  The Indian Express"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -240,16 +440,6 @@
       "image": null,
       "published_at": "2025-09-17T09:33:45.000Z",
       "summary": "Carrefour closures: Why did they happen and will the UAE be next?  thenationalnews.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar’s emir visits Jordan to set military cooperation after Israel attack - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0Fnem5qNUZmdkdiWWVRMUtOWXdQak4xUFZYcjVaenpzUV9veHprcnc4eUdoRnZQX1dKcWN5bTFWeUxETzhUMEVZRTNkR1FnR1hrZDJaS1RsSXlnaHhwekgwbnpCR0VydFZmc2dQVElOXzNKWDJxM09SbEVnWjRnU1EwOUwzaEdCS3VROElDM21hU3hXVS04OEN4bUxzWWpSM2NmS252R1U3Rk5PQUQ4X21LV3nSAboBQVVfeXFMTVFNZ21hT0tuVUJreFRuQWl6WGZKeUh5Uk5NTXdvbkN6LVFOX1FpaEVCZm9uczVmZXdYYkN3Rnk5TG9qeXk3bFVvWnhnNm5jT0lxZDhrckEzZExLd3RPancweVVPV2JPWjJWdmxPeHZzNlZnTFZjdnVsVTFEMnI3ZlJhd0NIS3dnTFRTVTg5ZzNQTC1yS2o4RGZRTXJ5S0tuNkpDRDJYRkdHSTQ4UDNfWjU2Q1diYmJJNFl3?oc=5",
-      "image": null,
-      "published_at": "2025-09-17T09:32:55.000Z",
-      "summary": "Qatar’s emir visits Jordan to set military cooperation after Israel attack  Al Jazeera"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -305,21 +495,21 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
+      "title": "UAE: HSBC sets up shop in Dubai with region's first wealth centre to court wealthy clients - Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPazFlWE0wNnQwcm1XTXdCejdTQm85c3V2SkZ5R21EQ1pkamtJSU1MbTBRMGh6a1NaYy1FdG1GY1E4ejRXQWp3ZFF0TVpDTXV0MzBKNUd5LV9reFZLVUhBWWgteU5zaEdLVFFDYkhNTHNtU244Y3dnT2gzSEE5Yl94Y3FTa3hpWHBLbVEzeWxuNF9JQnZST2RlcWd5M2t4RkIyMGNSX0FaaWpsUTdhandfWkV3cTQtQlJPQUtHbXI1Z0ZmWmxaR3V6U3gzUEtCSTBlc2lUdUY3U2pBSmVmaUY3eFdVUkdHY1VtZ19VUm5FNU5MVTB6dXg0bDRlWU3SAYICQVVfeXFMTmlpaGgzUG1Rc1R1QW9RQ1BqbEJxLXJNZXZRRVhtcWV4REFhUXdDcHEtMktqYVozeGFQaGlvSTcyR3QzdkZnV2VHbXNtdXV2N3ZuQmhUZVNKMUdUNElWclZnN1d2SGk5ejRTSGZoTERYR21Lak9Hem4zRDZMak1rdVQ4d3g4T2ZTWDZoVmdkR2cyMVhFQUxKZDl6TlJ3T2FsNW51UTRkVUh3WEFwcmFwYnRlb09GTFhiU2JnMzlYVmpJTFRwY1B0NGlaVnBCSW1mMXoxSGtEUjM5MTR0eHk2MVltQXF1WWc5Q3NXZndWTlFRMU5vQ0xnWmcxcUFadVd5VnB3?oc=5",
+      "image": null,
+      "published_at": "2025-09-17T09:23:00.000Z",
+      "summary": "UAE: HSBC sets up shop in Dubai with region's first wealth centre to court wealthy clients  Times of India"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
       "title": "Traditional Korean medicine doctors get OK to practice in UAE - Korea.net",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wS1pkbmJWNE10ZWVvVWZHMW45QmRhaTNxSjU1MTlXSjhwaGRSdEd5TTY0bFRRS2tGVVBWdEhLVUc1U0hSc2Z3d0I5UzF0bGVuOXhQV2s2TlllRU9KOVM2UzNDMXBBTHVpWGZoSFhXQQ?oc=5",
       "image": null,
       "published_at": "2025-09-17T09:21:53.000Z",
       "summary": "Traditional Korean medicine doctors get OK to practice in UAE  Korea.net"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "מקורבה של השרה גולן יהפוך לעד מדינה? שכר את עורך הדין שייצג את חפץ וגנור",
-      "url": "https://www.ynet.co.il/news/article/syvkqguiel",
-      "image": null,
-      "published_at": "2025-09-17T09:20:40.000Z",
-      "summary": "אהוד גבאי, שנעצר בפרשה, החליף את סנגורו יממה לאחר שנראה נינוח על ספסל החשודים - בצעד שעשוי לסמן על התפתחות. \"הוצע לו להיות בלי אישור פרקליטות. החקירות החלו בלי לאפשר לו זכות היוועצות עם עו\"ד\", אמר סנגורו המוחלף"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -340,16 +530,6 @@
       "image": null,
       "published_at": "2025-09-17T09:17:04.000Z",
       "summary": "Afghanistan Banking System Hit By Taliban Internet Shutdown  افغانستان اینترنشنال"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "A Year On, Lebanese Maimed in Israel's Pager Attacks on Long Road to Recovery - U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdEFzZ2FRQVhzMGhoVjU1X0Z6QkU3d2c0Q19YZlpqYkZoejRval9xbmdkVXpPaGM5T25SRjQ3VC14WU1JVktKTElNX2hyWDJhM2lhbnlwbWw1QXMxX2hHQUNHSWN0by1BcjVheksxRHhoLVNLbHJOU2Z2UHdqQnJyekpFRjNPaWN3a0xnMm5KRlZWLTdVZTJPNE81TFBnWHFRaExzS01IZVV3cTRKM2RRQ0FHZkVZVmRjZDlLV2VoYWdUN2R4V1NobA?oc=5",
-      "image": null,
-      "published_at": "2025-09-17T09:16:51.000Z",
-      "summary": "A Year On, Lebanese Maimed in Israel's Pager Attacks on Long Road to Recovery  U.S. News & World Report"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -375,31 +555,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "SNG: Qatar Tourism showcases cruise sector growth at Seatrade Cruise Europe 2025 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMkg4NnBjanNPTHFvbGlaWk95c0NldkN0SlN2M2FvbVhoLTVfbzg3czE1N0pOaTRmZ0pzSlZvX0dqcmxPX1MwTWhhNzJoZWVWTE9wTUUza0tHdkdPbGpzUTBMSWNWUUptSUREandRbU1tMDBNMXZ0VGRCbTg5dzV0NkVHZUYwUjNwWXNrY1A5b3pZYTc1ak5vZzlIWm5fUVhtZ29Bbm9tVzcxSlJMU1NMNXdlV18xMmFyOTAwc1dubjgtcXBVWURYWEE0ZE4zZnczbEtfR0hxZDBfZUJoOVRFRklMc3lvWm5rc0Qw?oc=5",
-      "image": null,
-      "published_at": "2025-09-17T09:11:03.000Z",
-      "summary": "SNG: Qatar Tourism showcases cruise sector growth at Seatrade Cruise Europe 2025  TradingView"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
       "title": "Dashen Bank Taps UAE Ethiopian Community in Remittance Drive - Birr Metrics",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuMTk4SnNvVFRXenptWnpYSDN6LUU5MXVkcTNpOHR3MllfRkIwUjlhZmZnY2NrbldPXzZtM1BkbVJpUXBsYlE?oc=5",
       "image": null,
       "published_at": "2025-09-17T09:07:29.000Z",
       "summary": "Dashen Bank Taps UAE Ethiopian Community in Remittance Drive  Birr Metrics"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "A year on, Lebanese maimed in Israel's pager attacks on long road to recovery - AL-Monitor",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWZjbWlaWXBLRkY1anhVcWxxemdNNUx5VjZ4MEJNSGJCOTZsdXF3bnlxLWw2Nm9wWlJOOW1TMV95bXZWWUFaNmhZc09EOTlsTTB5Y2V5enU1eE9KeV9SUUFlbXJLZHBLRDhERXVoSU9Xd1hNRFJDRmpHZU5xQzlUUzQxcmZ1VkY1cG5BR2Q5bnpDNmpId0ppck1TRGMxWkZwb19NX1ZGYkR1QQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-17T09:05:39.000Z",
-      "summary": "A year on, Lebanese maimed in Israel's pager attacks on long road to recovery  AL-Monitor"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -415,21 +575,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Struggle For Water Continues Following Israeli Attacks on Lebanon - ipsnews.net",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXB4eE1nQTF4Wlp3a1dUM2VXRFNRc1hpdWtPY3I1UVJWb3JGVi1KQnk4czJ5c1lPdmw0dm5ZU1VJWTI1QTVtZlF0RzVFM1pMZmFoMzExY1JHMk0yZ2hQdUtEN0E4bGpTLWc3ZVVucFlMc0JQY0t3ZkhNckMzSTZIY0VyZnMxb1F2QVg0UmlzVHI4SUljRXpHWVRaNFZxSG8?oc=5",
+      "title": "A year on, Lebanese maimed in Israel's pager attacks on long road to recovery - AL-Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWZjbWlaWXBLRkY1anhVcWxxemdNNUx5VjZ4MEJNSGJCOTZsdXF3bnlxLWw2Nm9wWlJOOW1TMV95bXZWWUFaNmhZc09EOTlsTTB5Y2V5enU1eE9KeV9SUUFlbXJLZHBLRDhERXVoSU9Xd1hNRFJDRmpHZU5xQzlUUzQxcmZ1VkY1cG5BR2Q5bnpDNmpId0ppck1TRGMxWkZwb19NX1ZGYkR1QQ?oc=5",
       "image": null,
-      "published_at": "2025-09-17T09:02:49.000Z",
-      "summary": "Struggle For Water Continues Following Israeli Attacks on Lebanon  ipsnews.net"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Netanyahu and an Israel Without Restraint",
-      "url": "https://www.nytimes.com/2025/09/17/world/middleeast/netanyahu-israel-gaza.html",
-      "image": "https://static01.nyt.com/images/2025/09/17/multimedia/17int-israel-us-assess-1-mplv/17int-israel-us-assess-1-mplv-mediumSquareAt3X.jpg",
-      "published_at": "2025-09-17T09:02:32.000Z",
-      "summary": "With the assault on Gaza City, Israel’s prime minister has piled defiance on defiance, as any check from the Trump administration falls away."
+      "published_at": "2025-09-17T09:05:39.000Z",
+      "summary": "A year on, Lebanese maimed in Israel's pager attacks on long road to recovery  AL-Monitor"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -442,16 +592,6 @@
       "summary": "עשרות לוחמים סבלו מתסמינים קשים בימים האחרונים והמטבח בבסיס נסגר. אלא שגם אחרי שהובאו להם חמגשיות - כ-100 לקו בתסמיני הרעלת מזון ונשלחו לביתם או למנוחה בבסיס"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "How the UAE plans to remove single-use plastics from everyday life by 2026 - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNnNhSDJDZXc2Q1JfT0hXTVVrbzE2RXE5UWE4NUp5eEJzNEhYZnM0dWlrM3ZIc2hGU2UzcTd6U1RvRmw3amt4YWtsaF9xZFp6Snk5TFpCNU1wN0lia1diU2JmZjhGcngybTFtcUlVZ0F0S2tGRjllYkhQZDFST2QtM2ZLR2d6ZHp1R2JqT2E5WFZ3c3FVUFgtTTNXNXE3Q2h3TlVOdmNHLWpLb0d3OEg2NjVMU1lfYy1aM3NJeW8tR1B5dk50?oc=5",
-      "image": null,
-      "published_at": "2025-09-17T09:02:19.000Z",
-      "summary": "How the UAE plans to remove single-use plastics from everyday life by 2026  Gulf News"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -460,36 +600,6 @@
       "image": null,
       "published_at": "2025-09-17T09:01:46.000Z",
       "summary": "ישראל והמדינות שחתמו על הסכמי אברהם מבקשות להיאחז בהם כעוגן של יציבות בתקופה סוערת ורבת תהפוכות. מנגד, בטהרן נשמר קו עקבי מאז החתימה: ההסכמים מוצגים כבגידה וכחלק ממזימה ציונית־אמריקאית"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Botox under burqas, unlikely boom of cosmetic surgery in Taliban conservatism - WION",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU01WNXRIU0x3R2d5cFNHT2ppS1o2bTRjSWtUdmtTQjRvc0NyYWx3cVpFbW5IVDRBeVZHTG93Y2FEZnVfQ0hfdTM4ZUtJZnpydXZ6c051ODhYNkd2M2xQLVA5OXFGRGVBaG9Obm8td0MtUW1wN1hVLVBSMjRrdXRveHdpVkNCemlOZ3NMQWtObHJZNjBHN2Uyc01fajVzNlVsLU9xc1JtWTI3TmVfTzVv0gG0AUFVX3lxTE9sMGR2SlVxSUxuNVdhUndUT1J6akRVQXlPMU04ZXl4Z18tYVJWdHM1bEtFZEtKanpwU3Y1aHZ5cktxLW1feElTeUVDVzZsQlN4MTRSMHAtSzVxemRUUXp1cVVmaXFPWnptZl9xVVE3YlZ4Tk5iZnN0bTQ1cXRJblpuekVqdGFYem8yWHhPaEIxRnpCSUdCV25pN1NqSENqOGJ6WEpKY25YNF9wMlN4eUd2bmt5Vg?oc=5",
-      "image": null,
-      "published_at": "2025-09-17T09:01:00.000Z",
-      "summary": "Botox under burqas, unlikely boom of cosmetic surgery in Taliban conservatism  WION"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Ivanhoe Mines Announces US$500 Million Strategic Private Placement with Qatar Investment Authority (QIA) - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVF8xUUV3QksxajRSUDNkM0VtcUo5U0RUV3V2MmwzT1NQZEgxa3puYzFSbktlQWFES3h4emo0WnQ3V3ZvTXpmczRWeHkzZHZraWJMMjFrdk1CODlEenU4Qm5uRTBsdk5IbVRyYy0zWktnTVpidjB2bXh1ZU11dzE3eEUtM2Y5Q1NuMzBncDU5NkdxZTU1cmR4SS0zR1BmSXJ3WkRXWXNURkE2Tm5GVVFPdTBWZGNHR1Rob1J0ZklPQXJLQkRySE5LaGNrWjZwRDFPLURZUVAxcHpFaTdsd0g5d2hFU3NBYk5yUlRSalRIR0VhWFctNzJJUXJqN2tZQk81dEd4SjdsczI5UQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-17T09:00:21.000Z",
-      "summary": "Ivanhoe Mines Announces US$500 Million Strategic Private Placement with Qatar Investment Authority (QIA)  TradingView"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "$500 Million Sovereign Investment: Qatar's QIA Takes Strategic Stake in Mining Giant Ivanhoe Mines - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZk5xUl96ZmxkZFp5M3RkQ0dwcTVZdDVsUEpaYXkxSXpUdmluM24tUnN0WlNaMzdEX0pNNHRkRzRwWmwta2tqbzdNby13aTNVTGFfdUFrNEJuM2xrZzlla0NZNERGS1h0R1NacnE2eFkzandwc3h0S3hZdTRLanRPMG5mWUlobkQxUGFzM0c0UEZkeVdPQzFYaFRCWlhrWExwMUNTSVRPVHlibUo2QktzOE1ZaFo3UUtDOE8wWi1NOA?oc=5",
-      "image": null,
-      "published_at": "2025-09-17T09:00:00.000Z",
-      "summary": "$500 Million Sovereign Investment: Qatar's QIA Takes Strategic Stake in Mining Giant Ivanhoe Mines  Stock Titan"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -502,26 +612,6 @@
       "summary": "Most Europeans are unable to tolerate the images coming out of Gaza anymore, and the Gulf States are hoping that Trump's invitation to Netanyahu to the White House before the UN General Assembly can restrain Gaza City's destruction before it's too late"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar Tourism Unveils New Horizons For Global Cruise Partnerships At Sea trade Cruise Europe 2025, Paving The Way For An Unprecedented Cruise Season - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUFdIazZRZEZ0LWNtM3JJdWNLMGRQTnRRdjRhVEM4eWtxTW5PMlZnODFhQUdUTlA0aWx1WDRUdU9URUc5WDNRNlBBX2pxZ0RLTEFLVDFLRVRLVktnWmozMVRqclMxVGlVU3RYY1VhSkF3Z3NpSkMzXzQzQkZjY05ySTZuTmliRS13dzlSa3lnLTMzZGRjTGdTdUt1akgtTnNLVTJNQTI5cXEzQWcwYXYyNDNUcjlwUUZkR1FoLW1MbmtfY01jTXJRa0VZX1BPSXJianpJQjMzdFh3eTB3UkIzUzVnaE5zdUdvcHB5QlcwbG50UGk2ZE1mSXpDcDJUNFhKUkNzUnlqYmdabEhMdVZpMFlLU0FzeUE4SEVPR0xFTFJQUQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-17T08:56:38.000Z",
-      "summary": "Qatar Tourism Unveils New Horizons For Global Cruise Partnerships At Sea trade Cruise Europe 2025, Paving The Way For An Unprecedented Cruise Season  Travel And Tour World"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Innovo And Siemens Sign Strategic Partnership To Advance UAE’s Digital Infrastructure - Construction Business News Middle East",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOE5Vb1ZMTUl4NWlRbDVvRGdoanJzN054dmo5em51cU5JeERHWTJubFAtSHpJNDJBWEZvMHNEbTBTa2hZb2szN3BMNC1LU3BNS2drZmpqd1d0TUZWZkY2NF9lbHhnQmFpQTk3SkNpdkgzVTdWaGEyX0RUVW5LZDJPVDEyU25GemVxLUEwa011TUVWOUdDU0dVd3AtcDVBZC0zdGYxVEtfREwxN3lxbHZmZmpn?oc=5",
-      "image": null,
-      "published_at": "2025-09-17T08:55:36.000Z",
-      "summary": "Innovo And Siemens Sign Strategic Partnership To Advance UAE’s Digital Infrastructure  Construction Business News Middle East"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -530,36 +620,6 @@
       "image": null,
       "published_at": "2025-09-17T08:54:44.000Z",
       "summary": "ההרס של המלחמה הותיר חותם על קו הגבול וממחיש את הדרך הארוכה לשיקום. ובל נשכח שישנם בתי ספר שכלל לא פתחו את שנת הלימודים"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban blocks fiber optic internet in Afghan provinces for ‘immorality’ - Committee to Protect Journalists",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1VNa1RNZUhjUTBiMExYOGc1bXRBTDlCdjFnRVdlNjhTVHcybE4yMVlMVDQ2YWJTc01fZGEzT1ZCcEluTFp0RHk2aG9qd0toVldOSWgzYzEtczRkV29lbnUzajNDVUVDb3hlNFVCeHB0cGtZNFhwRnlDcFZYYkhaMnd6QmNfSUhPOVo0X3ZkaE1YMUpfXzJnWkxFTdIBoAFBVV95cUxQNUVpLTZRU19sbTBaV3RHaFQ3X29kTmlHVlVCQkZVM3RscTJ5Qk1CcDE2YksyWHFkUm5pX0RDWTJnanhabGJtMUVpNndqNXdYVEVzLUNhWVlqZkh5UGlfVkk3UGFoSVlfVFhhWDRkVi1GaXM2V0N3X2VwbGRQN2FwQVVzSzd1QUI4Y3U3aF9OaFlGWDdMVm13YVpWRTF0M1I3?oc=5",
-      "image": null,
-      "published_at": "2025-09-17T08:54:29.000Z",
-      "summary": "Taliban blocks fiber optic internet in Afghan provinces for ‘immorality’  Committee to Protect Journalists"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE establishes Future of Investment and Trade Partnership with 13 partners to address emerging trade issues - Economy Middle East",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNXlHcl9FdktlR2U3SGd4TGVWenVXQTJwNktMWXg4bGYta3lLOHdKOU8zXzM0WHByQ0hYZGhvVDFoN3hqeHllNVJhZ3lobXczdF9CSWNreHZIQkFVM3FTREpWVHlJVWZoMnUtN1dZOTNIdGZia0NGUHI1WTd0Wk9YVEhGaWNQUGM4M1RSeHQtTEpDQjgtSl9MQ2lnaUhFMl9HMkpCc2hmLTQ4ZXNCYS1aZA?oc=5",
-      "image": null,
-      "published_at": "2025-09-17T08:54:21.000Z",
-      "summary": "UAE establishes Future of Investment and Trade Partnership with 13 partners to address emerging trade issues  Economy Middle East"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE blamed for drone strike that killed Somali clan leader opposed to minerals deal - Somali Guardian",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNnJSV2t2VFRIdnVubjZUaVZOQjJ4bElqOU9oS0JCWEFtMFI3ZGMzXzNJaERsTXdTY0NWdlNvWUV2U2lIUkoxTFZOT0dCYmRHdUdJN2pIQkxjSkpzLV9KNlhvRUZHcWZXQWtlczVkU3JzdkRON2hyTEc2NXVpTkFYZkFwVkhJMG15Y3hBQmVqeldHenR2TmVqLVlrcVdXTjJOeFVQczViVl9OOXRZeFo4ZW9aSGhRazFjb2xHQlI1a3QwUERXQlViQkJOQUNQdw?oc=5",
-      "image": null,
-      "published_at": "2025-09-17T08:53:02.000Z",
-      "summary": "UAE blamed for drone strike that killed Somali clan leader opposed to minerals deal  Somali Guardian"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -582,16 +642,6 @@
       "summary": "Christian Brückner has never been charged with any crime in relation to the McCann case."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Минобороны России заявило о восьми сбитых за ночь беспилотниках",
-      "url": "https://centralasia.media/news:2330968?from=rss",
-      "image": null,
-      "published_at": "2025-09-17T08:50:18.000Z",
-      "summary": "В течение ночи дежурными средствами ПВО «уничтожены и перехвачены» восемь украинских беспилотных летательных аппаратов самолетного типа, утверждает российское Минобороны."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -600,16 +650,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-4d5d-d276-a7fd-4fdd622e0000/37/5e/d22c7bdb4d1da51624f0805d3203/085690.jpg?height=81",
       "published_at": "2025-09-17T08:49:24.000Z",
       "summary": "This season of heshbon nefesh – soul-accounting – calls us to face truths we would rather avoid. This year, avoiding politics, avoiding Israel and avoiding Gaza is an inherently political act"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "В ВСУ заявили об отражении атаки более 170 российских дронов",
-      "url": "https://centralasia.media/news:2330957?from=rss",
-      "image": null,
-      "published_at": "2025-09-17T08:46:30.000Z",
-      "summary": "Россия в ночь на среду атаковала Украину 172 беспилотниками, а также баллистической ракетой «Искандер-М/KN-23» и зенитной управляемой ракетой С-300, заявили Воздушные силы ВСУ."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1002,16 +1042,6 @@
       "summary": "If enacted, state would be first with coordinator to prevent antisemitism in public schools, as religiously motivated bigotry against Jews soars; teachers group opposed initial version\nThe post California lawmakers approve narrowed bill targeting antisemitism in schools appeared first on The Times o"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Britain looks for answers after huge far-right rally",
-      "url": "https://www.timesofisrael.com/britain-looks-for-answers-after-huge-far-right-rally/",
-      "image": null,
-      "published_at": "2025-09-17T04:53:24.000Z",
-      "summary": "Anti-immigration activist Tommy Robinson drew 150,000 to protest in what is seen as indication fringe politics is going mainstream\nThe post Britain looks for answers after huge far-right rally appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1252,26 +1282,6 @@
       "summary": "The film festival showcased diverse stories, refusing to back down in the face of international boycotts."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US President Donald Trump arrives in UK for second state visit",
-      "url": "https://www.aljazeera.com/news/2025/9/16/us-president-donald-trump-arrives-in-uk-for-second-state-visit?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-16T22:47:03.000Z",
-      "summary": "The visit comes as the UK and US prepare to sign a landmark technology agreement."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Police clash with French fans, while Palestine flag banned at Real Madrid",
-      "url": "https://www.aljazeera.com/sports/2025/9/16/police-clash-with-french-fans-while-palestine-flag-banned-at-real-madrid?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-16T22:46:57.000Z",
-      "summary": "Fans were prevented from taking Palestine flags into Real Madrid&#039;s stadium on heated night with Marseille fans in Spain."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1440,16 +1450,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-4e09-d276-a7fd-4e8dac5b0001/67/98/3880ec4e408b80e0becf984e7d01/925389.jpg?height=81",
       "published_at": "2025-09-16T21:08:33.000Z",
       "summary": "In Gaza, classrooms and university campuses that haven't been destroyed by IDF airstrikes now house displaced families. There's no end in sight, but students are continuing to take exams and earn degrees virtually – when there's internet"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המלך של ספרטה עירום",
-      "url": "https://www.ynet.co.il/news/article/yokra14518574",
-      "image": null,
-      "published_at": "2025-09-16T21:08:07.000Z",
-      "summary": "זה האיש שמוביל עם שלם בנתיב הסופר ספרטה. בנתיב הניתוק שלו הוא. בואו אחריי, הוא כמו אומר. דומם ומהמם בסופר ספרטה. אין עמים, אין דירוגי אשראי, אין דין בינלאומי, אין חטופים. עושים מה שרוצים"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2672,16 +2672,6 @@
       "summary": "'We're still trying to find a new normal,' says the mother of Omer Wenkert, freed after 505 days in Hamas captivity: 'Our family can't fully return to daily life while others remain held in Gaza'"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Ahead of Jewish holidays, Israel warns citizens traveling abroad not to share content about their IDF service",
-      "url": "https://www.haaretz.com/israel-news/2025-09-14/ty-article/.premium/israel-warns-citizens-traveling-abroad-not-to-share-content-about-their-idf-service/00000199-47ac-d1b4-abdb-f7af05b00000",
-      "image": "https://img.haarets.co.il/bs/00000194-1cf6-df29-abb4-9dff0f790000/f9/08/ec2cb6d54d2599874af8e2d1358d/797040.jpg?height=81",
-      "published_at": "2025-09-14T11:55:13.000Z",
-      "summary": "The council also warned that October 7, which falls during the Jewish holiday of Sukkot, could once again be a significant date for terrorist groups, particularly Hamas and Islamic Jihad"
-    },
-    {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
       "topic": "OSINT",
@@ -2999,6 +2989,16 @@
       "url": "https://www.jpost.com/breaking-news/article-856797",
       "image": null,
       "published_at": "2025-06-06T10:28:56.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "Eight Georgians caught attempting to illegally enter Israel using stolen passports",
+      "url": "https://www.jpost.com/breaking-news/article-856782",
+      "image": null,
+      "published_at": "2025-06-06T08:35:51.000Z",
       "summary": ""
     }
   ]
