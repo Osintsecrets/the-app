@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-19T16:10:00.762Z",
+  "generated_at": "2025-09-19T16:41:56.522Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -9,7 +9,7 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-868102",
       "image": null,
       "published_at": "2025-09-19T18:18:49.000Z",
-      "summary": "The division's operation was conducted amidst the military's ongoing incursion into the Palestinian city."
+      "summary": "While in Gaza City, troops have killed numerous terrorists using tank fire, armed drones, and air strikes."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -37,7 +37,7 @@
       "topic": "News",
       "title": "UN Security Council decides not to lift Iran sanctions, but still time to agree delay",
       "url": "https://www.jpost.com/middle-east/article-868104",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/681885",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3273,w_4909/681885",
       "published_at": "2025-09-19T17:43:50.000Z",
       "summary": "The resolution accused Tehran of failing to abide by a 2015 deal with world powers that aimed to prevent it from developing a nuclear weapon."
     },
@@ -47,7 +47,7 @@
       "topic": "News",
       "title": "Hezbollah chief calls on Saudi Arabia to turn 'new page, open dialogue with the group",
       "url": "https://www.jpost.com/middle-east/article-868103",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/676872",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2077,w_3704/676872",
       "published_at": "2025-09-19T17:28:28.000Z",
       "summary": "Lebanon is under pressure from the US, Saudi Arabia, and Hezbollah's domestic rivals to disarm the group."
     },
@@ -75,11 +75,241 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Lidl-Trek Denies UAE All-Time Win Record with McNulty 3rd - Outside Magazine",
+      "title": "Israeli airstrikes kills 2, injures 3 in southern Lebanon - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWk1tS2Y5R2pIbFZzc3B6Nkk5WEUtU3V5a2t4XzZuZXgwNU9WUHVoREw3dktMVmdpRWV4S1pFX3JZVzFVTzJzdC0xcTVRS2xzLTB4SDlJS2Z5YzZIazAtTFptbjdVRThKRmtRR0xXSHg1OEx4ekppSlA3eHp4SFNGMFlTUm4ySGZiSDJVUTRFakVFdnp6aWhXSXlmVjlrUU45b3hj?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:39:36.000Z",
+      "summary": "Israeli airstrikes kills 2, injures 3 in southern Lebanon  Anadolu Ajansı"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE-India trade agreement boosts non-oil commerce and investment - TV BRICS",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGdMUlQ3dm9lMXFvWEp5bkNjQzlLM3hnNFh0bTA3U2xwMnBJRGhvSnN3WjlSWXpXRW5NcnFydFR5dnk0WjhuR2J6SWNGMDEzNXN5VHhackJtaTI3ZmxsUHlaVzdwT1d0MTVwTEltSFdDWS13MzNva3NQOFJRTE5pdllELXozTE4yU3pGeHlOQk12dw?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:33:38.000Z",
+      "summary": "UAE-India trade agreement boosts non-oil commerce and investment  TV BRICS"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Nato intercepts Russian warplanes violating Estonian airspace",
+      "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8007/live/0dfedb80-956f-11f0-aa3a-ddc192c3f339.jpg",
+      "published_at": "2025-09-19T16:33:13.000Z",
+      "summary": "Estonia says three Russian MiG-31 fighter jets remained in Estonian airspace for 12 minutes."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Golan knocks Lapid for saying no future government will include Arab parties - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSmVuOVVyRXotMFkwdmhHdU5BMFVRczFmeEk1RHJDT1hOdHFldy1LX0NIVjZXR084NzlUd3d0ejBxU0psUkpGYUNNd2R4WENJeGYtZjFtNUtmMW8tRUpfMWNNbmZHai1jQWVZbzh1Qy12dTJXdjg4ZWZfREwzdUJmTlRlREJaYzlDN0VPQU5BOEQwemZ3ZjRHX3pOdjRpdjEySEtWN2YwWE1saGU5cy1fMGNTTGZjXzBPSlBpY2ptaw?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:32:13.000Z",
+      "summary": "Golan knocks Lapid for saying no future government will include Arab parties  The Times of Israel"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah leader calls for 'new page' with Saudi Arabia as regional tensions escalate - Jacksonville Journal-Courier",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFRwQ190eEwtWEtNNnA4MWJod1RyaHN3MlBSck01MDM4QWRXOExsVU9iVVAwa1NkS21KSVk0RFY2RkJ0X2w3UmxxXzFuaUlSaDlYcEUyQnBLS015YWllQXcwQXVEbFBPVjNsWUVPTXlBdGhDdXpHbDVzdHd1ckx3T0NCdXlocjhqQ2tQUldYQVZCUVlZa3ZKbjZ6TGdfS2t4aXNGWHB5SkZlOUVJUDhscQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:30:55.000Z",
+      "summary": "Hezbollah leader calls for 'new page' with Saudi Arabia as regional tensions escalate  Jacksonville Journal-Courier"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "LIVE: Israel kills more than 20 Palestinians as war on Gaza escalates - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUh1c29ieVFiT2FCMEVOR2hCOTFmTU00Q0V1UGZSUURmSC1NaTllVEdfWTRSWml4N0VzX3lrNE5ZamR4RGw1bTE4VGhtOUZoMHJ0TXg0QnVvblduVVkzS0ZBaXg0Unh2ZTVUUFVQS3FIQXJGbHRPSGF5eFp5WktSa1pZdXNiX1dPSnFqSlF4Mmc2bjRNSXA1M1JYYXhuNGRNbWZxMW94Slc2aUl3VjNr0gG0AUFVX3lxTE1CT2ZjbkhGcHYwMkJvSjBSUGFYdFNpVmJ2UkU0Tm8tSFlZR2hQM3o1MzdSNmEzQXNWeWxBLVBnc005U3JOUlJjQ0tvb241cU40MXlUWHVoQ0VGSHBRSlIwZlN0aWotVlB5T01EOUt3UlVCNmxlMXRwZUloRVJkdlR1MHZHVkFDYXJYbnBHMG9JWlRYQUFZd1RsRDd6eHlXdk4wMWJUa25raExtaDRBcVdHRzNwNA?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:28:47.000Z",
+      "summary": "LIVE: Israel kills more than 20 Palestinians as war on Gaza escalates  Al Jazeera"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah calls for unity against “Greater Israel” vision - Tehran Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFBsTnd0OUhVd3BmTGJ3ZDIySW5HZnluX21HSG9oVEdNd3hJU2hjc0FhN1puQnN5RXJrb0JNVjV2RFUwZGUzb2hNY0xEYUZGZE95WU5qT1VRbWdJQUgyemgxbGV2ZGRsdnU4UmhldzV6eDRUSTlQLXZXRnRKazJFS1FXYmhCcF9fV2lNSnJYU2t4WXJPbmY1bmZ3?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:25:05.000Z",
+      "summary": "Hezbollah calls for unity against “Greater Israel” vision  Tehran Times"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Trump's bid to reclaim Bagram air base sparks pushback from China, Taliban - India Today",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOEJCaFFfUEt6d0xZdkZIMnVaeFFaeW5PeGplTEY4MmYyTnNCN0g1aFhicDd0ejVXOEZfQ1pZdjFTbXAtNEF1U3czZzhqUzI2TFZZZ3BKejlHMy1UTEs1LVFtUDFxaWU2UzBnUmIzcUJPTWhBcjhxaXpaaFlRN2VSbnlhREVjdXpDazlrQno1S2ttaXlldl9oX3BOVkFrQVlDdmZHVktpYk9xUFk2WWx6T2tOcnllUFhzXzI4b3BVZmFNdS0zNmRYcdIBzgFBVV95cUxOdWZXQXhyVkQ0dVYtUHZtbERrc1ZaZWdyTWJnQXduUGFINUppMkpRQ3NoU0dER2pGM094WWtxN1UzTVh5NWxmWUtfSnZfMEZoZE9zcVVxTE9HZWFhc01PSnJBUzVZTW16Q09wZXhDSDdMNFJQM2g2OXlSMWc2ckl2Yy1QdjV3NGd5ZzI0UjltVkhVaFFaZWluRnFhVC1kMWJsZEZNMV9mRHNKdXNCTUowTFlnY0xjb29WM1pKWGx2bkZSeXBZQ1F5OWpHVERfdw?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:23:16.000Z",
+      "summary": "Trump's bid to reclaim Bagram air base sparks pushback from China, Taliban  India Today"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Can the US reclaim Afghanistan’s Bagram airbase from the Taliban? - trtworld.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GM29oWG45eXl3LWFNelFNaWYzdU1fc0phZmJfYUtPQnpBOXk1RjNCSFFqQXhxZ2JzSndaNlJVTXp2bm9Bekw5UUZkSWZXaHpGQ29FeWkwOG0?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:20:48.000Z",
+      "summary": "Can the US reclaim Afghanistan’s Bagram airbase from the Taliban?  trtworld.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah leader calls for ‘new page’ with Saudi Arabia as regional tensions escalate - The Spec",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOYnhmSnZkU1Qyd1hsSTRVWmtBM0o1UXhPRFRYVmI2YWl3LXMtXy1GUDdWTTN6YW1RMVVLb21RYW5HTFRjUzZUSnpkMTJKVk0xQTIwSnhONUx2b0htSmF6czZXWENBTnN2alFsenRUeTdjOVdyaHVaY09LMWxVakQteW9KNkFjcUpJUV9YNkZlRVdDeGVMZVZzWWRtWjJEZVF4Y2RtMjF6SFN5ZkVaWTg0TDFkRVEtenBMUEpQbVFTempFRnZsOXA2MjZlanNYM0F4YklYazJobVJIOUREcmpybGFNUVZlQjRodDJHcTIxd09jaUt4TFRFMDRIU0xNZDRfdEdyVUp3U1RIYmdJ?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:14:52.000Z",
+      "summary": "Hezbollah leader calls for ‘new page’ with Saudi Arabia as regional tensions escalate  The Spec"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah leader calls for 'new page' with Saudi Arabia as regional tensions escalate - Newsday",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXA4Y2Z2WWF4OURjNmkwX3JvbmpTTFk3a3RmeEZCQmM1X2IyUlhBdTBnZERLR3l1bUF2c2JDQ3JyN0pGeFZWNUZscFFkREw4c2NuWW11dFFEV0pZb3FzeUhrdHZudHRVVDlOal9NSDlqVXY2dkd4YmtoYWJUeU55emlwWUtERVIxQlk1Qm9PWW9XNEdVazh6N0V3?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:14:49.000Z",
+      "summary": "Hezbollah leader calls for 'new page' with Saudi Arabia as regional tensions escalate  Newsday"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah chief makes overtures to Saudi Arabia for front against Israel By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdTRWVEUzYk53cklEUE1lbUE3OEl4N1lzUmV0V2JIbmxJbjNHU2dJT2k0NTgzSXVOWkJZbURycXlpRVBZM3VwQ1ZVZXZqdHduVjYtOW8yY2EtaE41Y1FoMGRZY0VkX2gzQV9FZWExSjZfMVNNYktBTnltNjVJelJTNU1xWU4tQ0dJc3BQbE5rVVlhWE1ZQ3czQVVscEpmVHF3UGxWWWtsMVdIREpXR0Fhb2h4a1o0TXFSNFRIdGJ3UXRZNVFZRnFv?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:14:41.000Z",
+      "summary": "Hezbollah chief makes overtures to Saudi Arabia for front against Israel By Reuters  Investing.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah leader calls for 'new page' with Saudi Arabia as regional tensions escalate - The Derrick",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQnRQSWtYNXlzVloyQ29tbmh3NmM3SXZ1NGVuTVR0VnE5aFctV25vUnBFYzhKZkJ6aW5NdVVCTlV6c3BvbUNCLXI4NEIzM0hIamtBeFk3TG8xcnc2TW9fTkFaQXc5bmthZG9fUWVvQ1ZMcW5LcTdhb1FubDZ0dDFpU3pNcDlOVkhhY1hXV1h1YTVVWWNEQTEtUmstbGFkYVd0My10QjFHb1J3SGJ6bEVkMEVYVzAzekQ1R0FaYU13U3pURldLRUo1bnpodGRiRnppRk9RWFRmeUQtejlHWklSX09WalBfUHlsQV9LQXg4d1NMT0VnbnMzLWNEeGwtQQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:14:33.000Z",
+      "summary": "Hezbollah leader calls for 'new page' with Saudi Arabia as regional tensions escalate  The Derrick"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah leader calls for 'new page' with Saudi Arabia as regional tensions escalate - Temple Daily Telegram",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcmNFY0duaXZWRE1OeUNaY3hYOHQyZ1B4TjdfQlZva0tyOU0yZDg2S0RLSGRsVmxYelhjZmNDRmN4QThCZlZGLUdMNmVTY3ZFUmdOSkRZdC1CbHdQVGZDSFNtQzZVTjFRVFBKU3haMV9oeTBROG1hUHVwbGFQZU1SS01lT2xBWW9oY1VuTV9yMlh3WWJuQ2c?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:14:33.000Z",
+      "summary": "Hezbollah leader calls for 'new page' with Saudi Arabia as regional tensions escalate  Temple Daily Telegram"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah leader calls for ‘new page’ with Saudi Arabia as regional tensions escalate - AP News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzFfdG5PaVJCbUlmbnVwV0pVVG80NUpNT1I4S2pmT0pMQUMyT0FRLXpyQ2l5cVh6Tno0dE4zVE55ZFc1RW43Y3NEbW0tOGtDV1RQeURGd1Bmb25qWVJ2OHVtbE1sOEtpOUoyWVRaYWhIY1ZTNmxVYWF3bmhIRTN6V1MwVXRNTHc0ZzdxQ1hUUERUTnRlR3VBMmszU3ZjcnZ2Tkdudko4bFFWczBUdVFqUA?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:14:00.000Z",
+      "summary": "Hezbollah leader calls for ‘new page’ with Saudi Arabia as regional tensions escalate  AP News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Ibrahim Aghil: The architect of ‘Hezbollah military doctrine’ - Tehran Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWxrNTlqSENzT0hwZGQyM01KY1pXcFNUMjZrOEZHaGo2eHRRZ05jM2dCNDREVXRtcGJBMnhmZVBmMFhEbnY2QmVmbkhHQXJTdFpJVHJseVBRRld5OHI4SDJrb1ZyOXhuamYxajBwa29xQVk4cjhaWk9na2xTMHV1X1BpUm0zY1NfeHhzZUFYTlpFLWwtb0E0RWJwUmMzQQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:13:42.000Z",
+      "summary": "Ibrahim Aghil: The architect of ‘Hezbollah military doctrine’  Tehran Times"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מועצת הביטחון החליטה: יוטלו מחדש הסנקציות על איראן",
+      "url": "https://www.ynet.co.il/news/article/r1ppgljoex",
+      "image": null,
+      "published_at": "2025-09-19T16:10:47.000Z",
+      "summary": "בהמשך להחלטת המעצמות האירופיות להטיל מחדש את הסנקציות על טהרן, בטענה שהפרה את הסכם הגרעין מ-2015, מועצת הביטחון דחתה הצעה להסיר אותן מעליה לצמיתות. ההחלטה תיכנס לתוקף בעוד 8 ימים, אלא אם יושגו הסכמות עד אז. \"טוב שהעולם התעורר\", אמר השגריר לאו\"ם. אלו העיצומים"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah chief makes overtures to Saudi Arabia for front against Israel - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEZCZGNaWnNPMDNUSk1SX2FFbWREWmRBYVV1M19XcTAxSTNnLXowanZlQWtpdkJ3cU11RjdBVEJDRE9neXpCcU9pcTdJSHMycnhmVkpvSHRqUEpROW11RmJ3U3FBNURVcTNHNDVzVk1pQS1rT3RKRS1FcXZIeDJNRjE5Yl9FVmV6TVVIdXlIclpzcDVabV9sV1Q2eDkybzV5blMzS2UzUnAybFlPZE5LcC03ajdZQzE4WWVR?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:10:40.000Z",
+      "summary": "Hezbollah chief makes overtures to Saudi Arabia for front against Israel  Reuters"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Trump says he is working to get Afghan air base from Taliban - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGY4MGo4cUtBQzc3VFVPeFRQZHFQY0lhNkpxRURWYnNVMWx3QmpDdU9hdU90eXp0dTBZMDhJUW1JRWJpa1F6VHE2Y0tsaXJwYWUyNU5Cc2xpTmowZDJ6QWU0MWJJTEJhdERGTHhFMGE3blVEbDNyVUVtQ2hmSm5kTEJiMkZhdE93Sm9meWJETGdGSkRyTkVzQ1BWbFROZHJhaEdOUE5tYw?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:10:35.000Z",
+      "summary": "Trump says he is working to get Afghan air base from Taliban  The Washington Post"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "UN approves video address by Palestine’s Abbas after US visa refusal",
+      "url": "https://www.aljazeera.com/news/2025/9/19/un-approves-video-address-by-palestines-abbas-after-us-visa-refusal?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-19T16:10:31.000Z",
+      "summary": "UN General Assembly allows Abbas to address world leaders by video after US denies him a visa for travel to New York."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Marcos lauds UAE’s support for OFWs - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT3cwNlBWUjBRRWZBU1RvUE41dXRHbHgwUmZsX0tuQXZTQjJVd05uQ3RRbXhLTi1VVkxiZ2xGOExIYUFIYUl4RGNUMTVkWllLbVVZNGRYTzVIX2pWSU53ZERNazgxN1RvSFdQMmxQSEZaTDRRazFNVk8tdEVwSHZzN1ZNeFpnLVctek13eXlfQ09MVGRIT2NmeW5BY9IBoAFBVV95cUxQa2VkZDBxTkRCU2pKaGFVOWE1MGhYOTFCYjhMWmVEOHYzOHlFLWp1TlEwZlRnalhCQnNHZXRMYmRyeERmYWNQZ2VOY1pUYVJnTmRaS2pVOWU3dGZqX2dfQ1NRN1FLdTRIU2Z1Y0NId3lSSXJtVHRJd1A3T1NDWDk3ZE9NdGpyc1lvTjIyY21YSm5LYnFwbUdndzd5Xy1JZDEw?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:10:00.000Z",
+      "summary": "Marcos lauds UAE’s support for OFWs  The Manila Times"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "British couple reunited with family following months in Taliban detention - Global News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEJmSlVjcHY1S3VDODlqZWdnSHBZQ0E5Z3BkTHlqM1V2TE9JWXFVLTFMci1PMkg4V2VRbHFGbGdNMDFWek5IWDd0T3gyWGtDWVZsSjdFNXVPQ2lGSS1IRTY4Nk5ncFo2Nk52THd3N2pGeVMxVHRXZHhDNXBnM0ZoT1pYQ2lxc29GcWFvUl9WYVREeGRlVTNQQWx3WFBraGtoVUpWbHZBdkRoVVhmNGRoQtIBtgFBVV95cUxNZTEwSnN4djdMSl9xaDEyYjNOblc3ODBmaWZILW5DWW5SMzlJTzZHWHd3MlFCNUhwQ0FicHlmclp6cFVrWHdsOHV1clJhZmxwQUg3ZTVuWUdsQVdCSnlnangyaWppenBzdlh2UGlNbGZrUUVYamdoWlpUTHI4OEkzSFNmNk1aMDRrV29BRFZ6NUxpUlg4RDVzdVV2WjhTMDBPX04zTktjeVFWZlRQQm5PRExyLVJldw?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:08:12.000Z",
+      "summary": "British couple reunited with family following months in Taliban detention  Global News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Trump wants to get former US airbase in Afghanistan ‘back’ from Taliban - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQczBicDFKSW0ycHRuSlFoQ3V0Ql9OeEI1czlmTEJEdzUyTXVjQlFTNE5vLThQNjBzWG9nZXpkU0I4TkRlNWFTR2RxZlhkandpNUVNWXY3OXFyUWZuNFdwNkJocEVKUm9RMG9FNHNnS1dLZndhcnBmdzBtYUQ5eS1QNVVkZ3NkWTlUd00xYUlnZ2NVa1ZpWlhNT0U1Nk5kTnRVVHFV?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:06:00.000Z",
+      "summary": "Trump wants to get former US airbase in Afghanistan ‘back’ from Taliban  New York Post"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Lidl-Trek's Skjelmose Denies UAE All-Time Win Record with McNulty 3rd - Outside Magazine",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWkZ3czVXRGNKbUV0cmNGYjRxRHRmZEpMcUsxSTU1TjRpY05FeU9hOVFOSmNjczh6WTVzdGZsMF9NeVVsWWUzTHNHWkJaY2o0dk9ONm53RHFqQ1p0LXgtMUpmSV8yMFpoenY1UF9wX0NJWVlXZTBlX0RPYk5wYWtrZG9wZVdwelhOUnk3TTJNcUVIb3lPQTJaWlBrOHpfWTFlcVotSUh2dkprUQ?oc=5",
       "image": null,
       "published_at": "2025-09-19T16:04:41.000Z",
-      "summary": "Lidl-Trek Denies UAE All-Time Win Record with McNulty 3rd  Outside Magazine"
+      "summary": "Lidl-Trek's Skjelmose Denies UAE All-Time Win Record with McNulty 3rd  Outside Magazine"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -92,16 +322,6 @@
       "summary": "Exploring the Role of AI and Targeted Advertising in Shaping Tourism Choices and Travel Trends in the UAE  Travel And Tour World"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Trump says he is working to get Afghan air base from Taliban - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGY4MGo4cUtBQzc3VFVPeFRQZHFQY0lhNkpxRURWYnNVMWx3QmpDdU9hdU90eXp0dTBZMDhJUW1JRWJpa1F6VHE2Y0tsaXJwYWUyNU5Cc2xpTmowZDJ6QWU0MWJJTEJhdERGTHhFMGE3blVEbDNyVUVtQ2hmSm5kTEJiMkZhdE93Sm9meWJETGdGSkRyTkVzQ1BWbFROZHJhaEdOUE5tYw?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T16:02:29.000Z",
-      "summary": "Trump says he is working to get Afghan air base from Taliban  The Washington Post"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -109,7 +329,17 @@
       "url": "https://www.ynet.co.il/news/article/syja00gjslx",
       "image": null,
       "published_at": "2025-09-19T16:00:50.000Z",
-      "summary": "שורדת השבי הגיעה לאירוע של האו\"ם וזעקה עבור 48 החטופים שנותרו מאחור. בנאום מצמרר חזרה אל רגעי הפחד ברצועת עזה: \"477 ימים שיישארו חרוטים בגופי ונשמתי כל חיי\". היא שחזרה: \"רצתי תחת אש עם חוטפיי, שמעתי יריות וקליעים ששורקים ליד אוזניי\". הרגעים הקשים במנהרות - והקריאה לעולם: \"פעלו מיד!\""
+      "summary": "שורדת השבי הגיעה לאירוע של האו\"ם וזעקה עבור 48 החטופים שנותרו מאחור. בנאום מצמרר חזרה אל רגעי הפחד ברצועת עזה: \"477 ימים שיישארו חרוטים בגופי ונשמתי כל חיי\". היא שחזרה: \"רצתי תחת אש עם חוטפיי, שמעתי יריות וקליעים ששורקים ליד אוזניי\". התקופה הקשה במנהרות - והקריאה לעולם: \"פעלו מיד!\""
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Why Trump wants the U.S. to 'get back' the Bagram Airfield from the Taliban - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnRpMlZOUG56THhEQmFNZWVwRTNFT0JsZUhvMXlPV1ZabE9fNzVCdllOYTBRUWk3NG14bUhRNUJjWWY5d2p4ZVFWbjE4U2NWSmZkR3ZhNW9YNUl3RHZ5a3BWZXJIXzkydGQ4VDBhdjZUYk9HdkpZYzBTQl9kWXhVVzhqX19hTWUxaU9uanI2TU5kYndPQV8tcktKYnFXYml6NUHSAVZBVV95cUxQWWdCRXQ4TWlBek5DSThLd1lrSUNQck5sZ0RuS3VDSkljMDBpNWh5NWlESVd2VTAtZHFnSVZMTEdMS0JMeXpfZEcyaTY1WW1GQTQwNDJYZw?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T16:00:00.000Z",
+      "summary": "Why Trump wants the U.S. to 'get back' the Bagram Airfield from the Taliban  NBC News"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -122,6 +352,16 @@
       "summary": "Hezbollah Chief Calls for New Saudi Relations Amid Regional Tensions  Devdiscourse"
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "EU chief seeks sanctions on Russian LNG to pressure Moscow over Ukraine war",
+      "url": "https://www.aljazeera.com/news/2025/9/19/eu-chief-seeks-sanctions-on-russian-lng-to-pressure-moscow-over-ukraine-war?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-19T15:59:20.000Z",
+      "summary": "European Commission&#039;s Ursula von der Leyen urges members to back new sanctions to cut Russian fossil fuel revenues."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -130,6 +370,16 @@
       "image": null,
       "published_at": "2025-09-19T15:59:20.000Z",
       "summary": "The terrorist, Sim Mahmoud Yusuf Abu Alkhir, was involved in executing attacks against Israeli soldiers."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Mexico Set to Join Canada, Australia, India, Qatar, Cuba, and More in Introducing New eVisa for Brazil to Streamline Travel Access Boosting Tourism - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONXA2ZktBT0R3dW9pM2VvVm1DUlhuWElxQTVZdVZiUEJEN2VLVDRSQm1KZktwSkc3bnk1OFg3dGlhNFF5TG5kVkRLbTBYLWN6b3FTdEp4ZVBrbnJiWGtCOTEydVRSWlZzRW1Vdk5PUTVsc3doR2V0cXhtWC1VbVIwZWdWRklYREZvUnBDWURZQmpiNEtFbGJJLUw0dkZfeGxrMU5qX3VaSzV1RnN6b2t0d0RBd3E1d19Pdm5kZVd1b0ZRVGcwQVJwd1E4aE40S3ZycnNvNHNDd1VyajJYMzVLQzhmU3R2UDZNckJibXdiY3V5dWl6THJRYmVEUklScGV6UjF4aHRvQnJ2N054TE0waUlJWjF2QmVxcVE4?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T15:58:41.000Z",
+      "summary": "Mexico Set to Join Canada, Australia, India, Qatar, Cuba, and More in Introducing New eVisa for Brazil to Streamline Travel Access Boosting Tourism  Travel And Tour World"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -152,14 +402,14 @@
       "summary": "Israel has ordered hundreds of thousands of people to head south to al-Mawasi as it seeks to fully occupy Gaza City."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Nato intercepts Russian warplanes violating Estonian airspace",
-      "url": "https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8007/live/0dfedb80-956f-11f0-aa3a-ddc192c3f339.jpg",
-      "published_at": "2025-09-19T15:50:02.000Z",
-      "summary": "Estonia says three Russian MiG-31 fighter jets remained in Estonian airspace for 12 minutes."
+      "title": "Tennessee Agriculture Enchancement Program expands eligible sectors - Lebanon Democrat",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYzVMOTVkSjhkQms0dERZQTZlWHZ5VXFaRFNHcFZDOWR2aHNZSmxmOWNudkc4VXRkcENySGIyX3NHdDB3VWE2RVhPcXdnQ1ZWemlFX0xUcWd1SnlEOTAxOE1mYUVsTHVBRVhxWHdZcFRORDVPenRqTGc2QXQzQmZVemhOUl8tVEpLZlZGQm5aRno5RFVxMG9ZSDloUDRtZDkwbXJ3WUFJXzFTOWtxeTRJWGZsS21nZ092Ymhxb2k0MG1iS24xXzVpZzBuVWFPb0Q0ckZfWGcyT3U0TVJ5eEo4WG1obzZ4dzRURDRsT3dB?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T15:50:00.000Z",
+      "summary": "Tennessee Agriculture Enchancement Program expands eligible sectors  Lebanon Democrat"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -172,14 +422,14 @@
       "summary": "Lebanon Planning Board to discuss new 260-unit development  Valley News"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
       "topic": "News",
-      "title": "LIVE: Israel kills more than 20 Palestinians as war on Gaza escalates - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUh1c29ieVFiT2FCMEVOR2hCOTFmTU00Q0V1UGZSUURmSC1NaTllVEdfWTRSWml4N0VzX3lrNE5ZamR4RGw1bTE4VGhtOUZoMHJ0TXg0QnVvblduVVkzS0ZBaXg0Unh2ZTVUUFVQS3FIQXJGbHRPSGF5eFp5WktSa1pZdXNiX1dPSnFqSlF4Mmc2bjRNSXA1M1JYYXhuNGRNbWZxMW94Slc2aUl3VjNr0gG0AUFVX3lxTE1CT2ZjbkhGcHYwMkJvSjBSUGFYdFNpVmJ2UkU0Tm8tSFlZR2hQM3o1MzdSNmEzQXNWeWxBLVBnc005U3JOUlJjQ0tvb241cU40MXlUWHVoQ0VGSHBRSlIwZlN0aWotVlB5T01EOUt3UlVCNmxlMXRwZUloRVJkdlR1MHZHVkFDYXJYbnBHMG9JWlRYQUFZd1RsRDd6eHlXdk4wMWJUa25raExtaDRBcVdHRzNwNA?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:45:00.000Z",
-      "summary": "LIVE: Israel kills more than 20 Palestinians as war on Gaza escalates  Al Jazeera"
+      "title": "Trump and Xi to meet in South Korea as TikTok deal approved ",
+      "url": "https://www.bbc.com/news/articles/c4g7l7yl832o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c19/live/a39dc990-9573-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "published_at": "2025-09-19T15:45:33.000Z",
+      "summary": "The president plans to meet Xi at a global summit in South Korea next month and will travel to China next year. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -282,26 +532,6 @@
       "summary": "Hip-hop group Kneecap barred from entering Canada  CBC"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Exclusive | The U.A.E. Adds Another Property to Its $200 Million Collection of D.C. Homes - The Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOYVhSWm1KWXpoc2FVR3hNc05rb0xiaDZJT2lpdnkwenE1TkN4bkh5eUY4R2dUZ0JoNnBiWVIyVGVRMVFlQUVOSmN1cDJiRDI4RjIwREFmd3VoNTBqa3ItcU9qX1RjYnIxOGU0UjFVV2hTM3hONk5yZmpGUDZwY0hFblhyTTFWb08xdlNJVWlmRmZ4dEpGVnZLOHNicWRSTm5IZ3pmdDF3aDBJX3ktTmRaYUF4WGZSNW1RRk9pV0M3aEMxLTRZRGZ3bnBvaG9DV0NXSnVPR21xV2V0eExqOEFTU3NacFlDUzQyRjdjMURwV3k2NGFOcmZnUjgtVkd5LVlDaUF4ZnN3c2ZRN09mTy1Qbi1mT2JZRXJrcmJxd2wtcW5VQnRncFc1WThhckRSeThfVFJJc21NanVWTFVLQmVCUGVMemM0bjFteWxNaDZ1ZkxTSkxMYlV2TUpBR0NuZFVqNjhTczVrdzQwT2FTVzNBVlJYYm1FOEFkaTZHNFF2ZzgyT1ZTNjJGYnFFanc1T214X0pCSXV3ZEJWQQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:35:00.000Z",
-      "summary": "Exclusive | The U.A.E. Adds Another Property to Its $200 Million Collection of D.C. Homes  The Wall Street Journal"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE President arrives in Georgia on official visit - Gulf Today",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbF8yRjM1NlZtNDhvU0FTZFZheXNSdjJvMEhUc1lsb2VDOS0zUXdLVlVrQmV5b25qNkwyck5sZEYycTg3bHRRa1VyS3dBYzBlbFlTNlduMjUxXzdMMHZ4alFyTWZpbVJVMzdUU1I1T3ZLVUpJU01aM0dGb2c3VDdmelA3V3VoOW5xelFMWjYwX0E4S1puTVE?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:34:58.000Z",
-      "summary": "UAE President arrives in Georgia on official visit  Gulf Today"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -310,36 +540,6 @@
       "image": null,
       "published_at": "2025-09-19T15:33:24.000Z",
       "summary": "Italian skier Matteo Franzoso&#039;s death this week during training in Chile reports safety debate."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "PCB Threatened To Boycott UAE Match After Media Manager Stopped From Attending Meeting With Match Referee: - News18",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeFBPd3dpRTQtYl9WQzRZdEszU185VTk1MUNER3V6cmE2d3hDNk9OemJiSXNENC0zcERQSm9OdVNnaFE1RFFmU2FKMERrcFFyWE83cTdZR0hqMHdCb3d5dHFEazVVd0JGNm9WanQ2OF9tcEVFYlh0cWJpa3lCa3lzTkNrZ2pRN2FFeDFpczkydkRxNXVVS3BRX3M5aE8tamZPc3h2b3ZmSHlob19XRGJrTFhqWGhnanBUc3M5ak5oVE95a1ZIN18xRjN6WmFteWFMbTlQUjZEZ2dMRlhqU0xfWU1nREhUQVNHUXduNtIB8gFBVV95cUxPc09UeWNEY1pzbUF6UnoyWDRUT0VuSENGNFlaa0R2a0l5TS1HeWlLLXhXa3BXQmdpNTU1N2g1RnRUMElsQmYyMDRDb3ZjbnNxR3VIOHJnZWF0RTEzb2lPSFIycVliXzhmYUEtcEZsRDNkN1Ryb18tdXJUUnhlUkNueXJQNUxYcWFLZW0tdW5sckxPMTA4d2FjREdmVERpSFNXSmlpSnhkcmlxV05kS0lMNzZaTTB0bWVLemhpNkIwaVl3bG1qQzhqVlJMSHd4ZXA3TXlrajdLb1VwczNZMVhxYjljZnNKeFhZNjg0ZFM2eDBYQQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:32:13.000Z",
-      "summary": "PCB Threatened To Boycott UAE Match After Media Manager Stopped From Attending Meeting With Match Referee:  News18"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban releases British couple held in Afghanistan - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMEdDeHN3d25UU2xsRFRoWWxCVDlQRWVUZjNzUE5rajk0dmJxMUY0MmVsWXVuOTV3aGhtRDRNalNDWWRJaE5kV2I0ZE44R185MTBSdVlTX3hLakY2dVNVNXBINTZnMGF1Ti0yREM2bGpUOWNOYTR5Ul9rd01PNDFPcTFPYkpoc0NmWDhfQTFIMWVKbGw2aGNQV21xVklpSUZOMFAwOUJFNWE5QmZJVzVndjZrbmZ0RlRUMUkxOXN6RWh4OHBIWm9XYXZPelJGMGRDYjJBS08ya21PUQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:31:36.000Z",
-      "summary": "Taliban releases British couple held in Afghanistan  Los Angeles Times"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Suspect in 1982 attack on Paris Jewish restaurant arrested in West Bank",
-      "url": "https://www.jpost.com/middle-east/article-868099",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3744,w_5616/681879",
-      "published_at": "2025-09-19T15:30:01.000Z",
-      "summary": "It was part of a wave of overseas violence by Palestinian terrorists that had begun in the 1970s. No one has yet been tried in connection with the case."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -352,36 +552,6 @@
       "summary": "המחבלים ניסו לנהל לחימה שכללה ירי טילים וירי חי - ונתפסו על ידי לוחמי הימ\"מ ושב\"כ. במבנה שבו שהו אותרו עשרות רקטות, בהן שתיים שיועדו לשיגור, לצד עשרות מטענים וחומרי נפץ. צפו בתיעוד ממעצר החוליה ומהשמדת האמל\"ח"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Elderly British couple released by Taliban arrive in Qatar - Citizen Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT19mSU5jRGs2RUhSSUpfNjUwU3hRbVpnT3BDNlYybVFtcU9PdDlWd3IwaFg4OGhuMENNbnR1aWc3MlA0azVpQjZqR1hQMkQ2bFdFelQyRVJzalN6MnZ1WUp3LTVyVTRYUlAxSzIzWGN5VWMwTGlKMnMtT3FCeDg4VE1VU0hSZlBJeF9sbW03YVpaVzBJVTZrMFhPeFNDWWU2SEEwVGd3SlVtTTJBbzVSQ082WmhNbGF4ZmdtUGpxeUg2X0VtUFkyU0FFM3F5VXZZaEFXNVlSS0hPbzl1dGdpeFoyYVo2bWRq?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:25:54.000Z",
-      "summary": "Elderly British couple released by Taliban arrive in Qatar  Citizen Tribune"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban may seek hard bargain from US to let it reclaim Bagram Airbase: Sources - The Federal",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEh6MmkwVlpFZmpPQS1QbUtyNmZMQ3ZmRWdfeWpoVld1RF95YllPczdMZ3FjdTVReWNmekxQNGhxamxIQjRraHpqX1dNandLaTJOelFUZjBPQWNOeTlxcEtXYXZtVzZ3T0ozR2FOQUlDUllJajhRa0pwaFJaOE4zV08tcGZubmxfdVRqY2F3Vm1rY0la?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:17:15.000Z",
-      "summary": "Taliban may seek hard bargain from US to let it reclaim Bagram Airbase: Sources  The Federal"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Events that led to the ‘demolition of Islamabad High Court’, in the words of its own judges",
-      "url": "https://www.dawn.com/news/1943203/events-that-led-to-the-demolition-of-islamabad-high-court-in-the-words-of-its-own-judges",
-      "image": "https://i.dawn.com/large/2025/09/191956489a3fafe.webp",
-      "published_at": "2025-09-19T15:16:36.000Z",
-      "summary": "“The demolition of the IHC and its independence, that is being witnessed today, is only because the petitioner judges dared to object to the executive’s interference in their judicial work and uphold their oath as judges of the IHC.”\nThese are the words of five Islamabad High Court (IHC) judges w..."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -390,16 +560,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-6286-de72-a7fd-6ac713be0001/9e/57/067574b3437c84865203314a9bad/594712-2.jpg?height=81",
       "published_at": "2025-09-19T15:15:50.000Z",
       "summary": "Only five countries voted against the decision to allow Abbas to address the United Nations General Assembly via video, while 145 voted in favor and six abstained"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel’s attack on Qatar shows why it’s time for a Gulf defence union - Chatham House",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbkl5dkk5UzVPdVNyWjFpRFI4bWFJLS1FSDQ3VjFGVDd3QzExdVpSLWNkeEpsYy13aUF2blRTT0xMLW5PMXo3STFUSUw4UFNMVnhVRTBnbVk3YUhTOHU2YWxlYUNlWnJnQlh2Wjk2aHhRR3c4Qnk1V3FrV0RadVBDeW9BSEMza19oRlRCeGFYdEVnRENMOUR2VUhCTQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:15:21.000Z",
-      "summary": "Israel’s attack on Qatar shows why it’s time for a Gulf defence union  Chatham House"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -412,106 +572,6 @@
       "summary": "כ-200 אלף תושבים עזבו את העיר מאז החל השלב הקרקעי של מרכבות גדעון ב'. צה\"ל מעמיק את התמרון, ופועל בשיטת \"קילוף השכבות\". הדגש של הרמטכ\"ל: ביטחון הלוחמים על חשבון מהירות. אסטרטגיית ארגון הטרור: פחות חיכוכים, יותר \"פגע וברח\". למרות היחלשותו, בעזה מדגישים: \"חמאס עדיין השחקן היחיד בעיר\""
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Dispute within the IHC: 5 judges petition Supreme Court over benches, rosters, case transfers",
-      "url": "https://www.dawn.com/news/1943174/dispute-within-the-ihc-5-judges-petition-supreme-court-over-benches-rosters-case-transfers",
-      "image": "https://i.dawn.com/large/2025/09/191829251b5232e.webp",
-      "published_at": "2025-09-19T15:12:23.000Z",
-      "summary": "Five Islamabad High Court (IHC) judges — namely Justices Mohsin Akhtar Kayani, Babar Sattar, Tariq Mah­mood Jahangiri, Saman Rafat Imtiaz and Sardar Ejaz Ishaq Khan — submitted separate petitions at the Supreme Court (SC) together on Friday against a number of issues affecting the court recently,..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "After Gaza ceasefire veto, Ortagus heads to Lebanon amid outrage - The New Arab",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZXBqUHQtRG56MDZRZnNTYVdOV3dmQm9HMktjWlZuczlFb0NpOVZSXzdfcThOSkZfQlMtWGozbVZ5RkprZVZkYVpEQmtFU1ZhRFBMT1NEaHo0TlZxVUlSeGpzTXFzMU9teng2TklUZUNxb2J0a21tcV9KSG81aENfQjlfNHJOaVczeUY3eDhuVmNqVkXSAZgBQVVfeXFMT2I0SU5YZTJhbE5jZGNfMUZFUC1Jc25wZHRIdkx0TERvel9MSUVVQzBhUFF5STRqcWFRQUQ2eDB0aHhPWGFnT0lWUUc2NWJlOVV3NWxYbjBwcVQxZzh6T2F3eUxQQ2kxSERzSThpY1RsdzJVVlIwSF81VmlNcjBhM2FHU0U1b1BqWTdkVmhZcDZFVHF0SXVfWlM?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:11:15.000Z",
-      "summary": "After Gaza ceasefire veto, Ortagus heads to Lebanon amid outrage  The New Arab"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban officials reject Trump Bagram Air Base return suggestion - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT0hreG1ubE1pMzRpOXBRaFFWSVh2VFZMWEJUaXQ5TFIyclZYNnl2ZHI2OXdscndHMnpMLWkxY2x0ZWlQaTdBUllSX1FhS19jNGFrLThUaldkdG51U3lUUTNiZ3dCSGR6Z0VlbU0xazBfNzJTSURmWmhsYVBJZVY1cGpOSmtMVXUwX1FKemFiMVFLMlZTOS1Xd2dUZldnZnfSAaQBQVVfeXFMTV9vSE4zVmVZVjJHVWcyOFFCRy1pZlFna01haUpDOG9lZUxKNmd4V2RGbENaMU4tdjlFRWFjaWRKSnAxMHlFdVB5M2ttZVpiX3dZcXFXLU9USlJyTkpBckdzM3Y0M1gxX0w2eVFjQzBTNXFTN2QtZ3E4SGl2OEY3QUM1bWtXZVMxSWk0enJaZlJFZnV1MnlodHJkcEx3M2hGVG9PRmo?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:10:00.000Z",
-      "summary": "Taliban officials reject Trump Bagram Air Base return suggestion  The Hill"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Shabbat Shalom from Israel! Updates continue from North America",
-      "url": "https://www.israelnationalnews.com/news/383503",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1058818.jpg",
-      "published_at": "2025-09-19T15:10:00.000Z",
-      "summary": "Shabbat about to begin in Israel. INN's North America desk will continue to update the site until Shabbat begins in New York."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israeli drone strike kills at least one following a day of escalated attacks on south Lebanon - thenationalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVNzYy0wX2tXWDR6ckV0MGxTOFJKZWRTSVhzVnhXNzE4b0dCSi1CcFhEb21QbXJObThRNlhrUk13VEp5bUNTSUNLd0JSbG9OWmJ2bV9DOUlpd3hLenNKdlAtbVRtb2RRR0dmWVIxeHhOM0lRcGduTDJSM3F0b3E1UmJEdFFOYUVMX1dPbjI4V1VvUGc5aVctejd1QWZVU3hobmk3U0o0WnpZU01CVDJFdjN3?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:09:40.000Z",
-      "summary": "Israeli drone strike kills at least one following a day of escalated attacks on south Lebanon  thenationalnews.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban release British couple held for months in Afghanistan - PBS",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeHFndVFYeVgybUlfc2N1LVpHTDRlVFM5QTRIU0VHeWtYQXlwWnpHRUhnenBWSlFvVEphTW9URWR5RTlocGYxTXpCYkowdmNqcUxaRkc2SEU4Y3A2SjdjVmZubncyX3pNQ2YxZ3ZKVUNMQlZ2OG9pOWdnODN1TnhqbllILUw4WjY0T0xncC1YOFBGeWp0RlZ2X2pfb1jSAaIBQVVfeXFMTk8xMktkQi00R3NocTh3ZjFLWXl6VjN1VTNaVFVGQWVjMFBhcjZxdnNZTS1EVF8yYTk3RWV0Q0wtWndtYS1rbXJYSHN6b0E4SjM0RjQyVlJKUkM1X1RNc19ma2lBdmV1bUEyR2ZBdU13TWVuYmJURk54Y0JDWGw2azJtb1VCd2lYOWZ5TlVMNVBreWNnYnNaYTBMU3FodkxNLWx3?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:07:52.000Z",
-      "summary": "Taliban release British couple held for months in Afghanistan  PBS"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Young widow opens up after Ramot Junction Terror attack",
-      "url": "https://www.israelnationalnews.com/news/414644",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1199151.jpg",
-      "published_at": "2025-09-19T15:07:48.000Z",
-      "summary": "Rivka David’s husband Yosef hy”d was murdered in the terror attack at Ramot Junction. She breaks down in tears as she tells of her family’s plight."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Hezbollah chief calls on Saudi Arabia to turn ‘new page, open dialogue’ with the group - Al Arabiya English",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUGJqSTJjY0ktNmpxTFMwc1NjWXlWT0hHT0dBcUFpNE1qZDFabFJpMDFNa3hMd3liT3N3UTg5dlBZYnJBLVV0Ri1IT0R5RnMxaVdPTjZENjVOZ0tSTFRpMW9IOTVkWGpSdTNpOGVwX2NvWVBjellleEp3cE9BcVcyZnhXX1NYcFgzRXlILV9tbkIwOGM4dmk4THVIcDVVb3pqeGQwTUl5N0FvSWwwSlFtWURzekUtaVJOT0dpb0FwNWZEWlpmd3NxaE9VbEp3S2c2QVlFN2NYZG3SAd4BQVVfeXFMUFdZSXUtR3lFekFmNVhOOXhuM3FNWFJMWWIyWHowaFNUbFhMVjdGRFZ4MkJDdzhkTkhBSlljSzlwYUltSUI2NXBIV054MmN0eDlSbHFETzgyQmpmMXZHOVNUS1BwNk9fV0Vpalo3WEdJZS0tckdJTmJ4TF9WNHliQmNNc2lSSXpndklwU3paT09uZl83aThsRWpHZVpocGROQUxyVW96c3B2c3pPUnUzRXN1VGdVZjhCTGhQaldyXzRKa1pKVk1nSXdnVG9kYmp3aEpYbHY0VDdXQnNISmxn?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:07:00.000Z",
-      "summary": "Hezbollah chief calls on Saudi Arabia to turn ‘new page, open dialogue’ with the group  Al Arabiya English"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "China, Taliban reject Trump’s plan to reclaim key Afghan air base near Chinese border - Tribune India",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdWNKNlFWTTdOT21pVlRySXVGdGYtTVd0bFdoYnRkSkV0SmRTZE5meVR6YkxvdVVpM0dNbks0QldtWXlkMHhOdVg1YVp6UEQ1cmtHMEFlZGNkbTZVNlBYQVU3NVNCUUtPRkZCWFZWZjlBaGw0d0d3TV9uLVdzREE3ZU9aU19EdGtVanlNVTRHWG1QazhWbTB1VVQ1TjRWUVZPd0VfWFhULUpNNHBGNHZSeWt4RFA0eG0tWkdGMW9aVnhPUdIBxgFBVV95cUxObG14SXhCX0ItWkZjejBkb3ZiblRXcUZDUUxoQkhrWmM0aWp0SVpObGVJZHlYd1kxOWRpMzNIZXBzQjJoTGJ1UFh2eW9DMktaVmNlaEtBdTdhVkIwSmlQdXN6ZjNVZkQ0OXhPX0p2bUtsWnI4MTh2MDdGeHJMNC1CbHJobWx3RTVYcVp1U1FaSVQ1M2p0NkN3MFg3NlMyZjlyWEk3WE1ZQzFhRlNKTnJzakVVMHVSemctLWZIZTFwMXZNc1laeFE?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:02:54.000Z",
-      "summary": "China, Taliban reject Trump’s plan to reclaim key Afghan air base near Chinese border  Tribune India"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Trump’s patience with Netanyahu tested over Qatar strikes - Read Lion",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFJkanVxUTNQdEVKQm85MnFLc3pkVVBCQ2tYRWFyVUg5VHBNbEpoWVljR1VHU21sMlFqNm1NT1hzUFNyWDZhaFVqNU9yNmhqTGdJQlpPcVBKWGdmSm12Z0JET3puc0MyU09KdXZZcWNqZmdXbVNSTV9GT0JQblllZ1d2czE?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T15:00:50.000Z",
-      "summary": "Trump’s patience with Netanyahu tested over Qatar strikes  Read Lion"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -520,36 +580,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6dd/live/a73f8890-954b-11f0-9cf6-cbf3e73ce2b9.jpg",
       "published_at": "2025-09-19T14:59:34.000Z",
       "summary": "The group includes at least four medical doctors who have places to study at UK universities. "
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban respond to Trump’s idea of returning US troops to Afghanistan - RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXlkeUFVclRRbHE3cExGdzVWTTFvWURhUzF2UUFBQ2VMcndibFZoZ0U1ZC1mUkFNRmNURHhBM1B3WUpEVmNOS21ZdmxHcl9DZnNLRjUwNDY2VkRhMksxRzdhV2RFZWdqX3p3aERRbm5MeHRWVk1pZUZkeE8yclNFTzktU3d0U2xLbFFWdVhCMmZHWW5ta0w4?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T14:58:41.000Z",
-      "summary": "Taliban respond to Trump’s idea of returning US troops to Afghanistan  RBC-Ukraine"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "The Shaky Future of the Abraham Accords - Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wcDFIVHRBVFhVQ3liSlN0QnNPTXVOcXBIU2FXQWF4M3c4Z19yLUR5YmlFaFNWSlN5amRfdnNZbHN0NlN5VTdsU25NZFBnTkdCeVFsdnMxN191bjRlY0ZzUg?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T14:56:25.000Z",
-      "summary": "The Shaky Future of the Abraham Accords  Time Magazine"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "British couple freed by Afghanistan's Taliban arrive in Qatar - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcV9uX25nSUZLNERsdmlhQk5WSVY5UGVSeG9QeFhiN0sxaGlhaDE4cEwxNTZCZnBkWnZ4T0N2VTNqdzdsSDhmYkFHN1FSZG5RSENNZlo1a2JkVnY0dkdvRmVVY0ZqNFJTY3BCUzNMSTRudzIzcXJGZ0ZYOWNkMk02MmVlYlhQZkJkTlQxaHVEV0o5d004Vk1kb2NQR1ZBWjYza2VlZWp2NG0tc1FV?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T14:53:40.000Z",
-      "summary": "British couple freed by Afghanistan's Taliban arrive in Qatar  Reuters"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -615,16 +645,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Minister rejects Trump's call for military to tackle illegal migration",
-      "url": "https://www.bbc.com/news/articles/c04qre9l0v3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0392/live/e22cf300-9534-11f0-ad73-8b4a30771edb.jpg",
-      "published_at": "2025-09-19T14:14:53.000Z",
-      "summary": "US President Donald Trump suggested the military could help tackle illegal migration to the UK. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Watch: Hugs on tarmac as family reunite after Afghan ordeal",
       "url": "https://www.bbc.com/news/videos/cly6v6r531jo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f40/live/5592e7f0-9562-11f0-84c8-99de564f0440.jpg",
@@ -645,11 +665,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "קטטה בבית האבות נגמרה ברצח: בן 74 אותר ללא רוח חיים, בן 77 נעצר",
+      "title": "קטטה בבית האבות נגמרה ברצח: בן 74 אותר ללא רוח חיים, שותפו לחדר נעצר",
       "url": "https://www.ynet.co.il/news/article/bjr9gjooel",
       "image": null,
       "published_at": "2025-09-19T13:57:53.000Z",
-      "summary": "דייר בבית אבות בכרכור נמצא ללא רוח חיים עם פציעות בגופו. המשטרה עצרה דייר אחר, בן 77 מחדרה, בחשד לרצח"
+      "summary": "דייר בבית אבות בכרכור נמצא ללא רוח חיים עם פציעות בגופו, והמשטרה עצרה את שותפו לחדר, בן 77 מחדרה, בחשד לרצח. החשוד הגיע לבית האבות מבית חולים פסיכיאטרי לפני כמה ימים, ועל פי החשד הוא היכה את הקורבן עם מקל וחנק אותו. נבדק הוא נכנס להתקף פסיכוטי, המשטרה תבקש להאריך את מעצרו"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1422,26 +1442,6 @@
       "summary": "סרן ערן שלם, צוער בבה\"ד 1 ששירת בסיירת, נהרג ברפיח עם 3 מחבריו להאמר. אביו עידו מוביל את שיקום קיבוץ מנרה שנהרס במלחמה, סבו אלישע שימש כמג\"ד צנחנים בכיבוש החרמון, והסבא רבא מתתיהו כתב את \"שיבולת בשדה\". \"איזו משפחה לתפארת ושבט ישראלי מדהים. איזה אובדן נורא של נער מדהים ומוכשר\""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Kim Jong Un declares AI military drone development a ‘top priority’",
-      "url": "https://www.aljazeera.com/news/2025/9/19/kim-jong-un-declares-ai-military-drone-development-a-top-priority?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-19T05:06:58.000Z",
-      "summary": "North Korea &#039;is in its strongest strategic position in decades&#039;, US military intelligence said in May."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "‘Crisis of justice’ as floods devastate: Pakistan’s climate change minister",
-      "url": "https://www.aljazeera.com/news/2025/9/19/impact-of-climate-change-a-harsh-reality-facing-pakistan?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-19T05:02:28.000Z",
-      "summary": "Pakistan ranks among top 10 most climate-vulnerable nations but contributes less than 1 percent of global emissions."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1640,16 +1640,6 @@
       "image": null,
       "published_at": "2025-09-18T21:43:20.000Z",
       "summary": "IDF identified the launch of a missile from Yemen, with alerts expected to sound in the coming minutes, the military said."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "תמרור אזהרה משמעותי: ההתחממות שעלולה לפגוע גם בהישגים בעזה",
-      "url": "https://www.ynet.co.il/news/article/bkfzh6togg",
-      "image": null,
-      "published_at": "2025-09-18T21:39:23.000Z",
-      "summary": "אחרי הפיגועים הקטלניים במעבר אלנבי אתמול ובירושלים בשבוע שעבר, ישנו חשש מהתחממות ברחוב הפלסטיני וגל טרור שעלול להתפרץ ברגע. גורם ביטחוני הסביר ל-ynet: \"כשמביטים באירועים האחרונים - זה בהחלט מטריד. כל דבר יכול להדליק אש. רצף פיגועים ש'מצליחים' מייצר הדבקה והשראה\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2999,6 +2989,16 @@
       "url": "https://www.jpost.com/breaking-news/article-856811",
       "image": null,
       "published_at": "2025-06-06T15:18:22.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "Jerusalem Supreme Rabbinical Court appoints three judges from Religious Zionist party",
+      "url": "https://www.jpost.com/breaking-news/article-856807",
+      "image": null,
+      "published_at": "2025-06-06T12:45:58.000Z",
       "summary": ""
     }
   ]
