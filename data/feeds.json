@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-19T23:31:16.567Z",
+  "generated_at": "2025-09-20T00:38:16.831Z",
   "items": [
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -7,9 +7,19 @@
       "topic": "News",
       "title": "Trump says fewer than 20 hostages still alive, Gaza City op. may save them",
       "url": "https://www.jpost.com/international/article-868128",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3333,w_5000/681094",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/648498",
       "published_at": "2025-09-20T01:13:15.000Z",
-      "summary": "The United States president disagreed with a United Nations inquiry that concluded Israel was committing a genocide in Gaza."
+      "summary": "When asked about the Gaza City expansion and its impact on the hostages, Trump responded, “They might be [at greater risk]. They also may be freed because of that...\""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump says Xi approves of TikTok deal as leaders plan South Korea meeting",
+      "url": "https://www.bbc.com/news/articles/c4g7l7yl832o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c7f/live/e25d5330-9573-11f0-bc5b-7ff2de9d2e33.jpg",
+      "published_at": "2025-09-20T00:34:04.000Z",
+      "summary": "The president hailed \"progress\" during a phone call with Xi and said that he also would travel to China next year."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -22,6 +32,16 @@
       "summary": "While UNICEF named the parties only as “armed individuals,” COGAT announced that Hamas had robbed the aid trucks."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Events that led to the ‘demolition of Islamabad High Court’, in the words of its own judges",
+      "url": "https://www.dawn.com/news/1943203/events-that-led-to-the-demolition-of-islamabad-high-court-in-the-words-of-its-own-judges",
+      "image": "https://i.dawn.com/large/2025/09/191956489a3fafe.webp",
+      "published_at": "2025-09-20T00:30:21.000Z",
+      "summary": "“The demolition of the IHC and its independence, that is being witnessed today, is only because the petitioner judges dared to object to the executive’s interference in their judicial work and uphold their oath as judges of the IHC.”\nThese are the words of five Islamabad High Court (IHC) judges w..."
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -32,6 +52,56 @@
       "summary": "Portugal will join a handful of other EU members supporting the recognition."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Sikh granny's arrest by US immigration sparks community anger",
+      "url": "https://www.bbc.com/news/articles/ckgq63lgn7zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5c/live/aa187440-93ad-11f0-b391-6936825093bd.jpg",
+      "published_at": "2025-09-20T00:22:11.000Z",
+      "summary": "Harjit Kaur, a 73-year-old who unsuccessfully applied for asylum, was arrested by immigration authorities last week."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "After years of war, world’s oldest synagogue paintings found intact in Damascus",
+      "url": "https://www.timesofisrael.com/after-years-of-war-worlds-oldest-synagogue-paintings-found-intact-in-damascus/",
+      "image": null,
+      "published_at": "2025-09-20T00:18:32.000Z",
+      "summary": "Paintings from Dura Europos synagogue, believed to have been lost to time after the shul's destruction, are now being housed inside a replica of the synagogue at Syria's national museum\nThe post After years of war, world’s oldest synagogue paintings found intact in Damascus appeared first on The Tim"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump says US struck another alleged drug smuggling vessel, killing three",
+      "url": "https://www.aljazeera.com/news/2025/9/20/trump-says-us-struck-another-alleged-drug-smuggling-vessel-killing-three?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-20T00:06:11.000Z",
+      "summary": "US president says American forces struck the vessel in the Southern Command&#039;s &#039;area of responsibility&#039;."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israeli strikes on south Lebanon kill two: ministry - The New Arab",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSXBoY2RSR2lMMzhTekhvMDRGczBULWlCM05jb2dyRG5ZMHRXX1hKS0FBQ29XTkU3Y2pCWGZJOHhNQVV6TVR3bk12d2NSV2h2VnZDUWVnX1BJV1FMb0ZScWt0QWZUX0hkbjM0WjBIdlhVRG1RUThiSFBuanF2NnAwb3pB0gGHAUFVX3lxTE9vRTJkOGVCZVpOR3dsbER1dlJKektNcnZpb0xhQUNkWUYwRVd0ckpobl80Mm1qbmp4b1FOV0dWZlRGSERyLVk5QVBuVlhhekg0cXpTZXZBd3RXWjFkQUY1SnNCRlk0alNUN1U5VzdRR2hDQ2NNSnpHb1VuN0lLMDI2elVmZ1NSbw?oc=5",
+      "image": null,
+      "published_at": "2025-09-20T00:04:18.000Z",
+      "summary": "Israeli strikes on south Lebanon kill two: ministry  The New Arab"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Painturo's in Mt. Juliet to close: 'Business decision we could not avoid' - The Tennessean",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ3UtWnBNMzl5dDczTDBKUFE3TEdicXFzUVRVcFExZjhic3huaW1iZ1BtcU1fWTNjS1lJMzJtWGFEdnhmcmxRZUlIN0NSWUlYMkVOdzZwQkdwQ2NIR2tYQzBPZlVVSy14ZlpaWExMZVc1Vzg5SkpPU09rWWdSd3k4aHMyQ0NqZWVXaV9HelE2V2preEpOcXY5M3U3a3A1UlZuUUtPOVZNMndUWUhsMEtKYUZuSWJRTDN2RzM2MWRPb2ZlNjhMSVYxSllDYWY3NDhIUEdV?oc=5",
+      "image": null,
+      "published_at": "2025-09-20T00:02:55.000Z",
+      "summary": "Painturo's in Mt. Juliet to close: 'Business decision we could not avoid'  The Tennessean"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -40,6 +110,36 @@
       "image": null,
       "published_at": "2025-09-20T00:02:07.000Z",
       "summary": "The unarmed individuals may have been migrant workers."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Unifil condemns Israel’s bombing of towns in southern Lebanon - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMDRoQjJmSFk4QmJESmNCUlB3LWp3SFdtY0ZrUnhYbEQ5c1FSOFctOHRfSjJSRTVUam1rY3dWckFHWGxHdUdVQjFpSGpjZGhOMC1wNVBFdUdKMThzTGZzY1M2akxld1BwaFliMUFmekVxUmNfTEl1ZlU1M3pBczVHNGdBQ3ZBVTlIMDRqZnJxWW43WGh5?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T23:57:04.000Z",
+      "summary": "Unifil condemns Israel’s bombing of towns in southern Lebanon  thenationalnews.com"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"צה\"ל ישים קץ לחייך\": יהודי נאשם באיומים נגד המועמד המוסלמי לראשות העיר ניו יורק",
+      "url": "https://www.ynet.co.il/news/article/rkmqr11ssxl",
+      "image": null,
+      "published_at": "2025-09-19T23:54:23.000Z",
+      "summary": "\"טרוריסט מז***ן\": ג'רמי אהרון פיסטל מטקסס נאשם באיומים, פשעי שנאה והטרדה מחמירה של המועמד הדמוקרטי זוהראן ממדאני, מתנגד בולט של ישראל. לפי האישום, הוא איים לירות בראשו של הפוליטיקאי וייחל \"לראות כדור של צה\"ל חודר לגולגולת שלך\""
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE keen on expanding investments in India: Goyal | Latest News India - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTUphLU9SNXpKTjZxMmZWRVY0SVVUT2VjZmpFc2RxM2RPZzRJbnBMSWtzQ3dOVDB4Q190ZWJzUTQ4M3cyUldHYXUxNzJSU0dPT1RMam5VRjIyWVhpVVQ1QUN0eWtudFZ3ejVJTGJEb2hNUUtpSjlDdHBRY1ByVEVhd0xqb2VRclpjVFFTdFhzTXg0emdhV21LYmVuRmloNVhKUE9rSWpEQkZ1ZzluQWEw0gG0AUFVX3lxTE80RUlYalI4MnRnbmRhakhtRTlPVTNPQkhRNlo1MjVGN2xHVWZ4a19UYkJoellzb1l2WlJXNjV4Q2oxNWRESFhNWi1YQmZLSFBQNkVlN1NJckdNRHM2c0pJbjVGcGg3UmF4TnFMcU14QmNsWk9ORzJTMEFxbXU0ekMxMWlBNEVvSnFhZlo2RXJPLVJkRHZHa0RZMlR2TnJtQlFQR1BTXzB2TEpldWhMcDdWdWtiTw?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T23:50:19.000Z",
+      "summary": "UAE keen on expanding investments in India: Goyal | Latest News India  Hindustan Times"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -62,6 +162,56 @@
       "summary": "The United States will halt deportation protections for Syrian nationals."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Rap group Kneecap banned from Canada for allegedly supporting Hezbollah and Hamas - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclZEd3lnT2w3QkIyMkZGVjh6T2JVQkozNmlDWFR0STBCT1RTRmc5d3NJOTNLbHMxVW13RW9hOXVYYldiVC1OYUt5U2ItRHl1bThFc2lSUEtkbElUbGNUM21XQWZ3MzZhTVhBbzlaMXVGcTNVVVY0WTg5UFJta3Q4Zkx5aEtLZElUYjdPNU1FcG5vYW5UUk5aT0hoTGRlZTg?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T23:41:57.000Z",
+      "summary": "Rap group Kneecap banned from Canada for allegedly supporting Hezbollah and Hamas  The Globe and Mail"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Aftermath of Israeli airstrikes in Burj Qalaouiyah, southern Lebanon - Xinhua",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hOEZtSHRseUJKZWsycW01WHR6UmlWakRxc0I1czNjVkRSMTBYWjlLaVo5U3E0M0h3bWpOSVR0cjFYVjdyQ1YyaU1DV29KZTJjTk1CLV9kUkRNM1JDSkhOUDh2a2RrVUV4bEh5Y09rTGxaOHJ4SkNGd2p5RDk?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T23:37:12.000Z",
+      "summary": "Aftermath of Israeli airstrikes in Burj Qalaouiyah, southern Lebanon  Xinhua"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Tears of joy as Egyptian immigrant and Cincinnati chaplain is released from detention - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDZXN3Y3M3AzTWoycy1HS0trb1JJYmhGRzZOcnI2N1VTc0k5LXI2MnVaRFVPZ2ptMnJDempIUTRkaDdqcWpoVzVZZU5jMFhPaUsxeVRPTnhNUFlGc2J1RGRvZHNMcmxLVW1FZU9iVnlkblA0U2h2Zl93ZzdKZEVlMEowZ0Nuc1U3a1pMVENPaG5oczgzcnBhZnl1ZHl0ODRsVFhnSA?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T23:29:00.000Z",
+      "summary": "Tears of joy as Egyptian immigrant and Cincinnati chaplain is released from detention  The Independent"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Trump: Hostages might face greater risk but ‘also may be freed&#8217; by Gaza City offensive",
+      "url": "https://www.timesofisrael.com/liveblog-september-20-2025/",
+      "image": null,
+      "published_at": "2025-09-19T23:27:00.000Z",
+      "summary": "US president again suggests fewer than 20 captives are alive, calls Oct. 7 ‘genocide at the highest level’ * Portugal says it will recognize Palestine on Sunday, ahead of UN assembly\nThe post Trump: Hostages might face greater risk but ‘also may be freed&#8217; by Gaza City offensive appeared first "
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "‘The damage is significant’: Diesel mixed with gas at Lebanon station, impacting multiple motorists - WKRN News 2",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclhZOHh6TXRHRElpb2hJaHRodnFZdDdVR2ZfYjhLd0Ezc0RaYVlCVUkzVnZ5NkZPQXM5dGZ5dDBRaEt0SlZkalpWdkhWNmdwdElCOHF6RFhwdjNZbkhfY3ZrYnlMSTBvQVBpUHBSazgyVDMyalBWazM0OC1xeVlIeUNnTzNvTHhBMUxTUjhpVmkxbVRkSDlZZ0VBekF1MEptTVhCNE1OQmwwTVNLTGRONWpnYmowXzB1QXI2SERiZmd5azdOcXFHamlaYjRmQdIB0wFBVV95cUxPdGN2QTg5X0pLVXZLMmtQY1dGRDdsbk1Lb0llcHI1NDRVd21ZVXVPVk4yTi13OUJGZy01Sk55VU5pUnRtR1JGMkREVHpSTnlZNnU0dEt6RV9JcldkcG9rM2V1OC0wbXQ4UXJRY0pfa1I4OVdxV09KWjNDQzR1V3R3R0RTZ3dfRzF5R1VaOVdpdVR5M041OGp2R1AzQVZ4U2NLTmtRczREOTFfUkIxNWlPbC1hVUhBaXdOaUc1akwzUVUzblhtTUUxX3F6SkpmaF91dHgw?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T23:15:43.000Z",
+      "summary": "‘The damage is significant’: Diesel mixed with gas at Lebanon station, impacting multiple motorists  WKRN News 2"
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -82,6 +232,26 @@
       "summary": "Diesel mixed with gas at Lebanon station, impacting multiple motorists  WKRN News 2"
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'I'm Kenyan, don't shoot' - the athlete who says he was duped into the Russian army",
+      "url": "https://www.bbc.com/news/articles/c79vqpnqgy7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9202/live/bcab3690-94a4-11f0-84c8-99de564f0440.jpg",
+      "published_at": "2025-09-19T23:05:28.000Z",
+      "summary": "Evans Kibet, now being held in Ukraine after surrendering, says he did not know he was signing up."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Russia's answer to Eurovision is less kitsch, more Kremlin",
+      "url": "https://www.bbc.com/news/articles/cre5vv0x31po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/deab9c00-9556-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "published_at": "2025-09-19T23:04:07.000Z",
+      "summary": "Putin resurrects a Soviet-era global song contest, to distract from Russia's invasion of Ukraine."
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -95,21 +265,31 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Unifil condemns Israel’s bombing of towns in southern Lebanon - thenationalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMDRoQjJmSFk4QmJESmNCUlB3LWp3SFdtY0ZrUnhYbEQ5c1FSOFctOHRfSjJSRTVUam1rY3dWckFHWGxHdUdVQjFpSGpjZGhOMC1wNVBFdUdKMThzTGZzY1M2akxld1BwaFliMUFmekVxUmNfTEl1ZlU1M3pBczVHNGdBQ3ZBVTlIMDRqZnJxWW43WGh5?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T23:02:52.000Z",
-      "summary": "Unifil condemns Israel’s bombing of towns in southern Lebanon  thenationalnews.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
       "title": "Industry Minister hopeful of ‘larger’ UAE investment - Tribune India",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWFiRVFOOG9VcUJPRnJsVV9GRm1PTDZmelJVS0ZlUUVTYmc4N2xXWFlLeWIzUlJNejBjeG8zYTEwdkNlMklLd0p3MHVwcTMxZ3FrWXhyQm1ydkhpY0UwVWhlYk5YNUFYalZQdkEwTUlxR2k1dERJaUZFbkt2eDMteXZtbFlSUlVzS0pydDNkTGJraC1Ja2VfLWVB0gGeAUFVX3lxTE80SXV5UG56c1JHYUlYS3VUV3dFQmVyUGhmS2NOZTRJczVwWkxKc0NjR0pnTEhLRW9XRjVvUXdhWWxjWEpTSk4yRnFDTVB4OE83djhhTGNkNEEwNktKc0NKX3U2YnJGTE5ReXQyazZhblVhZ3FCN1dnbnhoNzVQdkN1S3JJSEFCY0hxcU9rb1hldEQySE9rNTZsYVMteFRn?oc=5",
       "image": null,
       "published_at": "2025-09-19T23:01:02.000Z",
       "summary": "Industry Minister hopeful of ‘larger’ UAE investment  Tribune India"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US vaccine panel no longer recommends Covid-19 jab to adults",
+      "url": "https://www.bbc.com/news/articles/cly080jx480o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1fe/live/5537caa0-9599-11f0-bbd3-97206a9cd9e0.jpg",
+      "published_at": "2025-09-19T22:53:41.000Z",
+      "summary": "The panel has also changed its recommendation on the MMRV vaccine and delayed a vote on the hepatitis B jab."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "How a man's affair with his mother-in-law became a viral film in Indonesia",
+      "url": "https://www.bbc.com/news/articles/cwyd57w3n79o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e5/live/4a2007a0-952f-11f0-84c8-99de564f0440.png",
+      "published_at": "2025-09-19T22:53:10.000Z",
+      "summary": "Norma, a movie based on a viral true story from TikTok, has become a nationwide obsession."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -120,6 +300,16 @@
       "image": null,
       "published_at": "2025-09-19T22:46:01.000Z",
       "summary": "The terrorists were engaged in efforts to restore Hezbollah's terror infrastructure in the area, the IDF added in their statement."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israeli air strikes kill two Hezbollah terrorists, destroy vessel in southern Lebanon - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbmRHSFhSXzZOeGZVTllNeEd6SVNmeDhIY0RNem4zZ3dNQVF1a3FweWxlMXJmVnBCeGZkNFpYTzFUZFU1cnJkMjVvWjBkbDFJOHEycGtseTZaMGs5cG5Zb2ZNS2J6SGtwWkM5NmtYaVl4WExCeWtVYnFQOXd2TXZZR1p3XzBsZw?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T22:46:01.000Z",
+      "summary": "Israeli air strikes kill two Hezbollah terrorists, destroy vessel in southern Lebanon  Yahoo"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -230,6 +420,16 @@
       "image": null,
       "published_at": "2025-09-19T22:13:00.000Z",
       "summary": "Superintendent: Fake cameras placed in bathrooms by students at Lebanon High School  WLWT"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "US, UK, France put on hold Pakistan bid to designate Baloch group as terrorists - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1g5eG1WY2RBcTZYZk9yVXZ1dkJad0Z4ak1wNHgyRUFfU0RXbGV6aF9FZFEzSG1JS0tkNUZrNHYxLW9VWlVYVDRPc2hJWjAzc0VKWkNUNVNKeFphZllSdF9XSi1td2FiQjNJWUxtc2psd2VPVHVaVWllaWpmTjZqWUZOUmhzdldHS21uNzJENklNcUl3YllWWkRmLUl4NGxKOUVWY2NZaU54SUlnQUxUMVdzZm5jS21Td3IyZl9hMHd5Q3N5eFHSAcwBQVVfeXFMUGMyUzItVDhPM2tRYjRCc1BRa013dzNKSnFvVXowaTZWYlYwUW9wd2VZTFRKYzNuRzZKdW95VDY3TTV3X2FGZTM3YlVJRmltZ2FWdklUUDNvakZfQjhfeExZY2hsUmpsTGRFY0R0LWlnZUxDd0U3YmhJRGVEb0U1RE9meS1OM211cWEyRUw1NTVNZzQteGxETmV4OHhJUjNEMjNpVE1fSm9kTTZaZG05YXNBZWtkUjY4WmpsODZBRnNDUGt2T0FsZXFDRW9H?oc=5",
+      "image": null,
+      "published_at": "2025-09-19T22:11:23.000Z",
+      "summary": "US, UK, France put on hold Pakistan bid to designate Baloch group as terrorists  The Indian Express"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -462,16 +662,6 @@
       "summary": "Hezbollah leader calls for 'new page' with Saudi Arabia as regional tensions escalate  New Haven Register"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Pair of bombings hours apart kill 8 people, wound 23 in southwest Pakistan - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeGNyZEpqNDJwMm9qbVUyUE53RWRiWGEzTlZqOEpZTHh0SmtIdy0tREFFY2pScFBvX3pOMl9QOUVTVURXVy1hVG9Fc01mS0VwWDNHWHF5dWc4Wmx3Wm1BQ1FHelhhMU0waVlUN0xCRktuNDBmN2V0eDBvek00ZWdlNGFzUTExcDBZcGVzV1pMQ0tmaXZLQlNkRG1YbEZkWWpKeklYT9IBqgFBVV95cUxQZkN2UGItNnFHdWRWY2Y2SnV2eGhzLVppQ2YzNHpqZHV0cmkyMllIYUFQSkY5OFlfVTEzNTV4cUdtQU5nTXpxQ3NpdUVxWXJwcUVOcmxEX2FtOWdnV1JtZFlkTVpseklWOF9SQ1g3UVVjMy1jRVZtMWZaXzEwTV9JU3lCNHJQRDZ5OUZkQjVQZi1SNUJKNEprQnZEV2xTNi1BTmZQSUFIUFh3QQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T20:54:24.000Z",
-      "summary": "Pair of bombings hours apart kill 8 people, wound 23 in southwest Pakistan  ABC News - Breaking News, Latest News and Videos"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -482,26 +672,6 @@
       "summary": "Break from past recommendations comes amid warning of scientific backslide under leadership of HHS secretary RFK Jr. "
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "🇫🇷🇮🇱 PRES MACRON: CIVILIAN TOLL IS DESTROYING ISRAEL’S CREDIBILITY \"Israel delivered unique security results and restored its credibility in the region against Hezbollah, against Hamas, and against key extremist figures in the region. But these typ - X",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KYmJxVGRja1MxVUc0OWVTY251Nmh1YnFzMGNNTU9kYXMzSC1jMFRheElNQUthbnhSbWlhQTJaZDRaSm1udjR0a0JxakRYcjZuSGN1eDlHZkZjeGQ4U2piV19TQk5ibFI5Rmc?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T20:50:00.000Z",
-      "summary": "🇫🇷🇮🇱 PRES MACRON: CIVILIAN TOLL IS DESTROYING ISRAEL’S CREDIBILITY \"Israel delivered unique security results and restored its credibility in the region against Hezbollah, against Hamas, and against key extremist figures in the region. But these typ  X"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Why Netanyahu’s ‘Greater Israel’ vision still rattles the Middle East - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55aG5qalV0ZjZ3OHdZbDRTV2k3ZWJ0SnRtUEZMUWV5dVo5czBmOFR5bEZTUlZMSWQ5U3pwZ2VTSGhtTE1neXZVZldMSDhod1VKNFR4eFJ3?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T20:48:39.000Z",
-      "summary": "Why Netanyahu’s ‘Greater Israel’ vision still rattles the Middle East  Ynetnews"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -510,16 +680,6 @@
       "image": null,
       "published_at": "2025-09-19T20:46:43.000Z",
       "summary": "ישראל ופלסטין חייבות להיות שתי מדינות עצמאיות וריבוניות לאורך גבולות 67', אך לא כחומה המפרידה בין גטאות אתניים אלא עם חופש תנועה, שיתוף פעולה אזרחי וביטחוני, וזיקה הדדית לאותה חבל ארץ – מבלי שמישהו יידרש לוותר על זהותו או על שייכותו"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Soccer Game Preview: Kennett vs. Lebanon - MaxPreps.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmJ1MWZidWVzUFVONzFkckxWQzh3RGx5MVFLRVZibWZ2RU5NTWdFQjFhR3o0a2VmNFlRdHY3ZVNkMGVveW5lWVVaNVo5enhHSnpsVWJFTUI1bHhhTlVFdS10dUkxVVltSllPUUctdFdXZnpQZDU5aXBHUXJ5R3YwZ3d6SWFrME9MbEtZMTgtWk5LaVFMTkFwMmluYw?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T20:41:45.000Z",
-      "summary": "Soccer Game Preview: Kennett vs. Lebanon  MaxPreps.com"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -540,26 +700,6 @@
       "image": null,
       "published_at": "2025-09-19T20:36:38.000Z",
       "summary": "At least 70 people were killed when the paramilitary RSF struck a mosque in Sudan’s el-Fasher in Darfur."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Trump to host Erdogan: We have always had a very good relationship",
-      "url": "https://www.israelnationalnews.com/news/415221",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1199447.jpg",
-      "published_at": "2025-09-19T20:36:09.000Z",
-      "summary": "US President announces he will host Turkish President Erdogan on September 25. The agenda includes trade, military deals like F-16 and F-35 talks, and potential energy agreements."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "USUP President Ibrahim Mrad: Qassem’s flattery of Saudi Arabia doesn’t change Hezbollah’s terror or illegal weapons - Syriac Press",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPajBFakg2QnFvQ3dZWVVhUmdJbGl5U0FFcEtBVlg3YlNMRkhkb1dzN1VyQ1RqZjlKTWxzakVnTGIwbERLUWIxSlc0RlBNNjVsZ055Q1N5MFp4TWM4VnFjLTlHekNqSFRpYVNTOUd4ZFFNY1BmVHd5bEVCUkZiR19YLWc4S1BhRUJPZW04UXgzTjJVR1dsb1RwZU4tT0h5eXRsUDloay1nQWZGT3B3SFdfNXZMRXBnSEQ1b0paelpXM3BoVlhTZldrNjdpaFE0OXRsUjMzcE1ocmRfeWJJTFFiRUlLcHI4T3c?oc=5",
-      "image": null,
-      "published_at": "2025-09-19T20:33:58.000Z",
-      "summary": "USUP President Ibrahim Mrad: Qassem’s flattery of Saudi Arabia doesn’t change Hezbollah’s terror or illegal weapons  Syriac Press"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -640,6 +780,16 @@
       "image": null,
       "published_at": "2025-09-19T19:55:02.000Z",
       "summary": "US envoy says talks taking place but he's 'not familiar with anything that's ready for signature'; on Gaza City offensive: Israel will 'do what it has to do to get its hostages back'\nThe post Huckabee: US has talked with Gulf states about post-war Gaza administration appeared first on The Times of I"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump adds $100,000 fee for skilled worker visa applicants",
+      "url": "https://www.bbc.com/news/articles/cm2zk4l8g26o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa5f/live/38c3b210-95af-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "published_at": "2025-09-19T19:54:03.000Z",
+      "summary": "\"Train Americans,\" said the commerce secretary. \"Stop bringing in people to take our jobs.\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1025,11 +1175,11 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Trump says Xi approves of TikTok deal as leaders plan South Korea meeting",
-      "url": "https://www.bbc.com/news/articles/c4g7l7yl832o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c7f/live/e25d5330-9573-11f0-bc5b-7ff2de9d2e33.jpg",
-      "published_at": "2025-09-19T15:45:33.000Z",
-      "summary": "The president hailed \"progress\" during a phone call with Xi and said that he also would travel to China next year."
+      "title": "The motive behind Charlie Kirk's killing: What we know and don't know",
+      "url": "https://www.bbc.com/news/articles/c7v1rle0598o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8958/live/712ebd90-957b-11f0-9cf6-cbf3e73ce2b9.jpg",
+      "published_at": "2025-09-19T15:48:18.000Z",
+      "summary": "Prosecutors have broadly outlined suspect Tyler Robinson's political views - but many questions remain."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1200,36 +1350,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-620f-d7ad-a1d9-727f63680000/04/05/e5211d7d44f88dd154b55ee03451/130999-3.jpg?height=81",
       "published_at": "2025-09-19T13:55:11.000Z",
       "summary": "Since he came back from Hamas captivity after 484 days, Keith Siegel has not stopped working to bring the remaining hostages home. Now the thoughts of the expanded military campaign in Gaza scare him: 'The terrorists became more violent when IDF operations intensified,' he recalls"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "What are the GCC’s air defence capabilities?",
-      "url": "https://www.aljazeera.com/news/2025/9/19/what-are-the-gccs-air-defence-capabilities?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-19T13:54:34.000Z",
-      "summary": "Six-nation group in the Middle East reaffirms joint military system in light of Israeli attack on Qatar.\n"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Survey: US Jewish staff say internal rifts worse for morale than antisemitism, Gaza war",
-      "url": "https://www.timesofisrael.com/survey-us-jewish-staff-say-internal-rifts-worse-for-morale-than-antisemitism-gaza-war/",
-      "image": null,
-      "published_at": "2025-09-19T13:51:14.000Z",
-      "summary": "Poll of some 950 communal professionals finds just 25% often feel hopeful about future, compared to 82% of the general population, as they watch 'communities tear themselves apart'\nThe post Survey: US Jewish staff say internal rifts worse for morale than antisemitism, Gaza war appeared first on The "
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "University leaders endorse US Jewish letter decrying Trump’s campus antisemitism wars",
-      "url": "https://www.timesofisrael.com/university-leaders-endorse-us-jewish-letter-decrying-trumps-campus-antisemitism-wars/",
-      "image": null,
-      "published_at": "2025-09-19T13:50:43.000Z",
-      "summary": "Among over 100 signatories to missive slamming the president's 'disingenuous claims' of Jew-hatred to deport students are a Ben &#038; Jerry's co-founder and heads of a leading anti-Zionist group\nThe post University leaders endorse US Jewish letter decrying Trump’s campus antisemitism wars appeared "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1512,16 +1632,6 @@
       "summary": "As Israel prepares to govern the coastal enclave directly without a plan for local administration, there is no functioning government at any district, city, or village level. Experience from Syria, Iraq, and Afghanistan shows that local militias often turn against their creators and follow only thei"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "האשמות נתניהו, ה\"זעזוע\" של סין - ומה עומד מאחורי החרפת היחסים עם המעצמה",
-      "url": "https://www.ynet.co.il/news/article/rkbuz5tjll",
-      "image": null,
-      "published_at": "2025-09-19T09:04:07.000Z",
-      "summary": "רה\"מ אמר שסין וקטאר \"מטילות מצור\" על ישראל בסיוע בינה מלאכותית - ואחרי שתיקה של יומיים, ענו בבייג'ינג. \"טענות חסרות בסיס, צריך חוכמה פוליטית ודיפלומטיה - ולא רק הפצצות אינסופיות\", עקצו בשגרירות הסינית. ברקע: החשש שסין מסייעת לאיראן לשקם את תוכנית הטילים שלה - וניסיון נתניהו להראות לטראמפ שישראל עומד"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1660,16 +1770,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-5e6e-d08f-a5fd-ffefadae0000/3a/e7/ad1efbfc4de89a21fe641a74e01c/086053.jpg?height=81",
       "published_at": "2025-09-19T03:01:18.000Z",
       "summary": "Israel's prime minister can't explain how he'll win the Gaza campaign while keeping hostages safe, for the simple reason that he has no plan to do so. Meanwhile, the IDF chief of staff, who opposes the Gaza City operation, is slowing down the military campaign to reduce risks"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Doctor penalised for calling mushroom murderer 'disturbed sociopath'",
-      "url": "https://www.bbc.com/news/articles/cjr51251353o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bdb/live/056b8830-94ff-11f0-896d-7587f11c57a7.png",
-      "published_at": "2025-09-19T02:56:35.000Z",
-      "summary": "Chris Webster said he realised Patterson was a killer within minutes of speaking to her."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2052,16 +2152,6 @@
       "summary": "Kairat Almaty, a Kazakh club that nearly collapsed a decade ago, will make its debut in the Champions League with two Israeli players at its core"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "In pictures: US President Donald Trump on second state to UK",
-      "url": "https://www.bbc.com/news/articles/c4gqd70v496o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e5/live/841aa450-946d-11f0-9cf6-cbf3e73ce2b9.jpg",
-      "published_at": "2025-09-18T11:15:06.000Z",
-      "summary": "President Trump greeted by the King and Queen and other senior royals at Windsor Castle."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2142,16 +2232,6 @@
       "summary": "Khalil's lawyers said they plan to appeal the decision, adding that another court's decision remains in effect and prohibits his deportation"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Katty Kay: America is at a dangerous crossroads following the Charlie Kirk shooting ",
-      "url": "https://www.bbc.com/news/articles/c78n0e83ye0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e9/live/4ff31d80-93b2-11f0-b391-6936825093bd.png",
-      "published_at": "2025-09-18T04:18:51.000Z",
-      "summary": "This moment has parallels with other periods of discord in US history, but it is more complicated than simply repeating them."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2202,16 +2282,6 @@
       "summary": "Protesters called on the Israeli prime minister to seal a hostage deal, asking 'How many more soldiers will be killed until we achieve reach victory?' Netanyahu, whose testimony ended early due to a visit by the prime minister of Fiji, did not respond to the protesters"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Battling a rare brain-eating disease in an Indian state",
-      "url": "https://www.bbc.com/news/articles/c79ven0xxyqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebc/live/55e37030-92b5-11f0-9cf6-cbf3e73ce2b9.jpg",
-      "published_at": "2025-09-18T00:00:04.000Z",
-      "summary": "In Kerala this year, more than 70 people have been diagnosed and 19 have died from the brain-eating amoeba."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2242,16 +2312,6 @@
       "summary": "The country's farming and tourism sectors have been heavily affected by a spate of blazes."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Could the US interest rate cut boost the housing market?",
-      "url": "https://www.bbc.com/news/articles/c4gv3ynyp43o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e62a/live/dda0f950-9262-11f0-a315-d7312117e0e7.jpg",
-      "published_at": "2025-09-17T23:02:17.000Z",
-      "summary": "Borrowing costs are not guaranteed to come down much more than they already have, even after this week's rate cut."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2280,16 +2340,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-530b-d7ad-a1d9-537b74280001/c8/ea/48dbd2624a579ec2f80cdc3b57f6/63060978.JPG?height=81",
       "published_at": "2025-09-17T22:21:03.000Z",
       "summary": "Attorney Ehud Gabay, who was in negotiations with the police and the prosecution regarding an agreement, is on being held until Thursday and is suspected of breach of trust and fraud. Police consider him a central figure in the commission of offenses also attributed to Social Equality Minister May G"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Fury over corruption and 'nepo babies' as floods paralyse Philippines",
-      "url": "https://www.bbc.com/news/articles/czrp7xkd2gpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea91/live/eb3ab350-942c-11f0-b391-6936825093bd.jpg",
-      "published_at": "2025-09-17T22:06:32.000Z",
-      "summary": "An unusually fierce monsoon has derailed daily life more than ever in the South East Asian nation."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2582,16 +2632,6 @@
       "summary": "In an open letter shared by partner Ben Cohen on X, Greenfield said Ben & Jerry's has lost its independence since Unilever curtailed its social activism. The brand has sued Unilever over alleged silencing and called the Gaza conflict 'genocide,' a rare stance for a major U.S. company"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Champions League debut and Luiz - the rise of Pafos",
-      "url": "https://www.bbc.com/sport/football/articles/cj6x7rrxzedo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b70e/live/3d0cce50-8fd9-11f0-a984-69b738896393.jpg",
-      "published_at": "2025-09-17T06:15:58.000Z",
-      "summary": "BBC Sport looks at Pafos FC, the team from Cyprus set to make their full Champions League debut with David Luiz in defence."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2615,41 +2655,11 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "'The hungry can't stay silent' - behind deadly protests in oil-rich Angola",
-      "url": "https://www.bbc.com/news/articles/c8ex6k88yy9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/862c/live/02f4e9e0-9241-11f0-84c8-99de564f0440.jpg",
-      "published_at": "2025-09-17T02:34:08.000Z",
-      "summary": "As the 50th independence anniversary approaches the country grapples with poverty and inequality."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Syria's worst drought in decades pushes millions to the brink",
-      "url": "https://www.bbc.com/news/articles/c70x500lkdno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/210a/live/1c47faf0-93ad-11f0-84c8-99de564f0440.jpg",
-      "published_at": "2025-09-17T01:44:40.000Z",
-      "summary": "The drought has slashed wheat harvests by 40% in a country where nearly 90% of the population already lives in poverty."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Watch: Key takeaways from Charlie Kirk suspect's first court appearance",
       "url": "https://www.bbc.com/news/videos/cvgj59p3v7po?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714e/live/6399c250-9360-11f0-b391-6936825093bd.jpg",
       "published_at": "2025-09-17T00:56:27.000Z",
       "summary": "The BBC's Nada Tawfik reports from Utah, where Tyler Robinson appeared in court as prosecutors read the charges against him."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Bowen: UN commission report on genocide is blunt indictment of Israel's actions in Gaza",
-      "url": "https://www.bbc.com/news/articles/c0m4rxjppl8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0c2/live/ba645b50-9319-11f0-b391-6936825093bd.jpg",
-      "published_at": "2025-09-16T07:01:46.000Z",
-      "summary": "A new report accuses Israel of committing genocide in Gaza, in \"the strongest and most authoritative UN finding to date\". "
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
@@ -2989,16 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856782",
       "image": null,
       "published_at": "2025-06-06T08:35:51.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "SpaceX will not decommission Dragon, Musk says",
-      "url": "https://www.jpost.com/breaking-news/article-856781",
-      "image": null,
-      "published_at": "2025-06-06T04:46:02.000Z",
       "summary": ""
     }
   ]
