@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-21T08:10:25.640Z",
+  "generated_at": "2025-09-21T08:37:39.797Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -57,7 +57,7 @@
       "topic": "News",
       "title": "US says UN ceasefire demand would leave Hamas free to strike again",
       "url": "https://www.jpost.com/international/article-868197",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/681889",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/642096",
       "published_at": "2025-09-21T10:11:24.000Z",
       "summary": "The US slammed a UN resolution backing Palestinian statehood, warning it ignores Hamas terror, fails to demand hostage releases, and creates a false equivalence between Israel and Hamas."
     },
@@ -92,6 +92,16 @@
       "summary": "Six defendants are being held over the charges, which saw prized historic artefacts listed for sale at €200,000."
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Gunman reportedly says 'free Palestine' in New Hampshire shooting that left one dead",
+      "url": "https://www.haaretz.com/us-news/2025-09-21/ty-article/gunman-reportedly-says-free-palestine-in-new-hampshire-shooting-that-left-one-dead/00000199-6b20-daaf-a79f-eb767ef50000",
+      "image": "https://img.haarets.co.il/bs/00000199-6b26-d921-afdf-ebaf0b590000/10/6e/ce39d8e64ffab9f8f3ba5d9c355a/164608.jpg?height=81",
+      "published_at": "2025-09-21T08:31:35.000Z",
+      "summary": "A witness said he heard the shooter say 'the children are safe' and 'free Palestine' as he attended his nephew's wedding at the Sky Meadow Country Club. 'We heard about six shots and everybody ducked for cover,' he said"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -100,6 +110,96 @@
       "image": null,
       "published_at": "2025-09-21T08:26:31.000Z",
       "summary": "Zoabi was arrested over remarks she made several months ago at a conference held abroad."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "How Russian-funded fake news network aims to disrupt election in Europe - BBC investigation",
+      "url": "https://www.bbc.com/news/articles/c4g5kl0n5d2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfdd/live/d65a2150-9562-11f0-b391-6936825093bd.jpg",
+      "published_at": "2025-09-21T08:26:04.000Z",
+      "summary": "An undercover reporter discovers a network is offering to pay for social media posts undermining Moldova’s ruling party. \n\n"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "With cash, doctors and bulldozers, Saudi Arabia pursues soft power push in Syria",
+      "url": "https://www.timesofisrael.com/with-cash-doctors-and-bulldozers-saudi-arabia-pursues-soft-power-push-in-syria/",
+      "image": null,
+      "published_at": "2025-09-21T08:23:53.000Z",
+      "summary": "Riyadh pledges rebuilding program and Saudi medical teams perform open-heart surgeries and cochlear implant operations across Syria, as Qatar and Turkey also vie for influence\nThe post With cash, doctors and bulldozers, Saudi Arabia pursues soft power push in Syria appeared first on The Times of Isr"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Rabbi Doron Perez: 'One can live with a broken heart and a full heart'",
+      "url": "https://www.israelnationalnews.com/news/415263",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1193212.jpg",
+      "published_at": "2025-09-21T08:23:02.000Z",
+      "summary": "Rabbi Doron Perez, father of Daniel, who was kidnapped and murdered on October 7, speaks about the last Tishrei holidays with his son, and the pain, while also giving a message of hope."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "עם 100 אלף איש ואבטחה כמו בסופרבול: ארה\"ב תיפרד היום מצ'רלי קירק, חשש מאלימות",
+      "url": "https://www.ynet.co.il/news/article/r1xktqtolg",
+      "image": null,
+      "published_at": "2025-09-21T08:21:20.000Z",
+      "summary": "רבבות צפויים להגיע לאצטדיון \"סטייט פארם\" באריזונה להשתתף בטקס לפעיל הימין הפרו-ישראלי, שנרצח לפני שבוע וחצי בידי מתנקש. טראמפ, טאקר קרלסון ובכירי MAGA ינאמו, והממשל הכריז על אירוע ב\"דרגת חשיבות 1\", עם בידוק כמו בנמלי תעופה. בסופ\"ש נעצר שם חשוד שהתחזה לשוטר והיה חמוש בסכין ואקדח"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Murdered Kenyan's friends want UK soldier to face justice",
+      "url": "https://www.bbc.com/news/articles/ce3yn033xewo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b640/live/ef332a10-92e1-11f0-b391-6936825093bd.png",
+      "published_at": "2025-09-21T08:21:05.000Z",
+      "summary": "Friends of the stabbed 21-year-old Kenyan woman recount to the BBC events on the night she went missing."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "PM Shehbaz to attend meeting of ‘select’ Muslim leaders with US President Trump in New York: FO",
+      "url": "https://www.dawn.com/news/1943645/pm-shehbaz-to-attend-meeting-of-select-muslim-leaders-with-us-president-trump-in-new-york-fo",
+      "image": "https://i.dawn.com/large/2025/09/21114533f788db8.webp",
+      "published_at": "2025-09-21T08:20:34.000Z",
+      "summary": "Prime Minister Shehbaz Sharif will be among the attendees of a meeting of “select” Muslim leaders with US President Donald Trump in the coming week on the sidelines of the 80th United Nations General Assembly (UNGA) session in New York, the Foreign Office (FO) said on Sunday.\n“The prime minister ..."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "קרע פנימי במשט לעזה: הדובר עזב, גרטה עברה לסירה ש\"נשרפה\" והפעילים נוטשים",
+      "url": "https://www.ynet.co.il/news/article/ryszwgpsgx",
+      "image": null,
+      "published_at": "2025-09-21T08:17:49.000Z",
+      "summary": "המשט \"סוּמוּד\" ממשיך בדרכו לרצועת עזה, אך אחרי כמעט חודש במים היחסים בין הפעילים מתערערים - שחלקם עזבו בשל \"לחץ נפשי ופיזי\". \"הפעילה הסביבתית\" עזבה את הסירה שלה ועברה לזו שלטענתה נפגעה מכטב\"ם בתוניסיה. כדי להילחם בביקורת, משרד התפוצות הקים אתר על אנשי המשט: \"טונברג? מסך עשן\""
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "PropTech could halve construction costs in the UAE - Construction Week Online",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdkdTNWJGOHRfVEJtcWVBR3ExVVhFdjZMRHNTSDhLQTRZU3l3SWRMU2pMMkVZbzFMLWN0QjltaVZSZzFkLVJiMm9QdnltYk1wSUtRZjF0QVg0U0JTb3JQa0MwU1pOVHNBeU5TbUhuY0FVTWZmT2ZyRVJ2UjMxTUZySw?oc=5",
+      "image": null,
+      "published_at": "2025-09-21T08:12:00.000Z",
+      "summary": "PropTech could halve construction costs in the UAE  Construction Week Online"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "UN ‘gravely alarmed’ by deteriorating situation in Sudan’s el-Fasher",
+      "url": "https://www.aljazeera.com/news/2025/9/21/un-gravely-alarmed-by-deteriorating-situation-in-sudans-el-fasher?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-21T08:07:04.000Z",
+      "summary": "A deadly drone attack killed more than 70 people on Friday, in the single deadliest attack on the besieged city."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -242,16 +342,6 @@
       "summary": "Local police have not confirmed the shooter's motive, despite claiming to have video evidence of the event."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "PM Shehbaz to attend meeting of ‘select’ Muslim leaders with US President Trump in New York: FO",
-      "url": "https://www.dawn.com/news/1943645/pm-shehbaz-to-attend-meeting-of-select-muslim-leaders-with-us-president-trump-in-new-york-fo",
-      "image": "https://i.dawn.com/large/2025/09/21114533f788db8.webp",
-      "published_at": "2025-09-21T07:31:35.000Z",
-      "summary": "Prime Minister Shehbaz Sharif will be among the attendees of a meeting of “select” Muslim leaders with US President Donald Trump in the coming week on the sidelines of the 80th United Nations General Assembly (UNGA) session in New York, the Foreign Office (FO) said on Sunday.\n“The prime minister ..."
-    },
-    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -360,6 +450,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab3/live/923ef370-9629-11f0-8115-2505008faa13.jpg",
       "published_at": "2025-09-21T07:13:14.000Z",
       "summary": "Their son tells the BBC he is \"overwhelmed\" by release after nearly eight months in prison."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "British couple held by Taliban arrive in UK after release - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ueHE0M1VhdUFjdFNvWTZlUU9odHZUbU5pRlBWV0JZVERpUzA2bS1aQVFHamtvR1FYUG9sS2k3X0pHdUw1RTZPd3NfZkNWN09iUk9VckpRdVE1Z9IBX0FVX3lxTE9xTUtialZoU1l2ZXFqMjdENExMY1d5QW9mQmhjUEJaX0ppeE9TRjMyZ19NUU5DSmFYWFhNbnFCM1ZsT2paY2dVY0tkSWdHYkxrZGlrbEMwV2ZWS25tbmNN?oc=5",
+      "image": null,
+      "published_at": "2025-09-21T07:13:14.000Z",
+      "summary": "British couple held by Taliban arrive in UK after release  BBC"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -552,50 +652,10 @@
       "summary": "'One apology' can restart Gaza peace talks, but will Netanyahu apologise to Qatar?  WION"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Punjab prohibits sale, purchase of land ahead of work on flyovers, underpasses",
-      "url": "https://www.dawn.com/news/1943474/punjab-prohibits-sale-purchase-of-land-ahead-of-work-on-flyovers-underpasses",
-      "image": "https://i.dawn.com/large/2025/09/211137352fa49d0.webp",
-      "published_at": "2025-09-21T06:39:53.000Z",
-      "summary": "RAWALPINDI: The district revenue department has imposed Section 4 of the Land Revenue Act of Punjab while prohibiting the sale and purchase of land for the construction of three flyovers and three underpasses at Kutchery Chowk, Iftikhar Janjua Road, and Jinnah Park on Old Airport Road.\nA senior o..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "В Узбекистане 22 сентября ожидаются магнитные бури",
-      "url": "https://centralasia.media/news:2333213?from=rss",
-      "image": null,
-      "published_at": "2025-09-21T06:38:02.000Z",
-      "summary": "В Узбекистане 22 сентября ожидаются магнитные бури уровня 4 из 9."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "105 shopkeepers booked for attacking officials in Toba Tek Singh",
-      "url": "https://www.dawn.com/news/1943500/105-shopkeepers-booked-for-attacking-officials-in-toba-tek-singh",
-      "image": "https://i.dawn.com/large/2025/09/21113431f10b685.webp",
-      "published_at": "2025-09-21T06:36:15.000Z",
-      "summary": "TOBA TEK SINGH: The Arrouti police of Pirmahal booked 105 shopkeepers on Saturday for attacking officials and damaging the vehicle of the Pirmahal assistant commissioner during an anti-encroachment drive in Sindhillanwali Town.\nTehsildar Imran Abbas claimed in his complaint that during an operati..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban return body of Panjshir resident to family after detention - Amu TV",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5vOFhfX3I2T0RDdFFmSjJ1dVM3elp4VS15YlJaVW42eEhZWWlYN2p2dU5SVFRpZllZZHc?oc=5",
-      "image": null,
-      "published_at": "2025-09-21T06:34:16.000Z",
-      "summary": "Taliban return body of Panjshir resident to family after detention  Amu TV"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Israel kills 14 Palestinians in Gaza since dawn",
+      "title": "LIVE: Israel kills 31 Palestinians in Gaza since dawn",
       "url": "https://www.aljazeera.com/news/liveblog/2025/9/21/live-israel-kills-14-palestinians-in-gaza-since-dawn?traffic_source=rss",
       "image": null,
       "published_at": "2025-09-21T06:26:03.000Z",
@@ -825,11 +885,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Why the world still gives Netanyahu a chance to make amends at the UN despite Gaza",
+      "title": "Despite harsh words and symbolic measures, practical actions against Israel remain limited",
       "url": "https://www.haaretz.com/israel-news/2025-09-21/ty-article/.premium/why-the-world-still-gives-netanyahu-a-chance-to-make-amends-at-the-un-despite-gaza/00000199-68b4-dc39-abbf-6af4f4840000",
       "image": "https://img.haarets.co.il/bs/00000193-44ce-dd32-a9df-7ecea6820001/8c/b2/937ad8d54827967d0ecaaf5075b5/132421-5.jpg?height=81",
       "published_at": "2025-09-21T03:01:34.000Z",
-      "summary": "Ahead of the UN General Assembly this week, global public opinion and government policies remain far apart. Despite harsh words and token measures, real action is limited as the world waits for Netanyahu's response"
+      "summary": "Ahead of the UN General Assembly this week, global public opinion and government policies remain far apart. The world is waiting for Netanyahu before calculating its next steps"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -879,7 +939,7 @@
       "url": "https://www.ynet.co.il/news/article/bjnrqc9sxg",
       "image": null,
       "published_at": "2025-09-21T02:34:00.000Z",
-      "summary": "כנראה לעולם לא אצליח לסכם את אלמוג במילים אבל לפחות אדאג שלא ישכחו אותו. תזכרו אותם וכך תשאירו אותם חיים"
+      "summary": "כנראה לעולם לא אצליח לסכם את אלמוג במילים אבל לפחות אדאג שלא ישכחו אותו. תזכרו אותם וכך תשאירו אותם חיים | ynet והספרייה הלאומית קוראת לשלוח סטיקרים והספדים"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -940,16 +1000,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-5cf4-de72-a7fd-7cf7ebd20001/6b/60/4f454ec94b0a94015d3e27cd191d/126943.jpg?height=81",
       "published_at": "2025-09-21T00:42:54.000Z",
       "summary": "According to Israeli data, about 9 percent of aid to Gaza by truck passes through the Allenby crossing. Aid groups say Jordan is crucial for supplying tents urgently needed amid the evacuation of Gaza City residents"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Murdered Kenyan's friends want UK soldier to face justice",
-      "url": "https://www.bbc.com/news/articles/ce3yn033xewo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b640/live/ef332a10-92e1-11f0-b391-6936825093bd.png",
-      "published_at": "2025-09-21T00:37:05.000Z",
-      "summary": "Friends of the stabbed 21-year-old Kenyan woman recount to the BBC events on the night she went missing."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1502,16 +1552,6 @@
       "summary": "As many as 10,000 terrorists are understood to be hiding out in Gaza City."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump seeks enforcement of transgender and non-binary passport policy",
-      "url": "https://www.aljazeera.com/news/2025/9/20/trump-seeks-enforcement-of-transgender-and-non-binary-passport-policy?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-20T18:13:12.000Z",
-      "summary": "Rights groups say policy requiring male or female designations on passports is &#039;unjustifiable and discriminatory&#039;."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1562,26 +1602,6 @@
       "summary": "Three young men from Beit She'an are suspected of impersonating women and extorting more than NIS 100,000 from people online. "
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Gazans say Israel’s building demolitions fuel fears of permanent displacement",
-      "url": "https://www.timesofisrael.com/gazans-say-israels-building-demolitions-fuel-fears-of-permanent-displacement/",
-      "image": null,
-      "published_at": "2025-09-20T17:13:12.000Z",
-      "summary": "Palestinians claim destruction of residential towers is aimed at emptying Gaza City, while Israel insists sites are Hamas strongholds\nThe post Gazans say Israel’s building demolitions fuel fears of permanent displacement appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המונים הפגינו ברחבי הארץ, מוחים נחסמו ליד בית נתניהו: \"כל פצצה עלולה להרוג חטוף\"",
-      "url": "https://www.ynet.co.il/news/article/hy0qri2slx",
-      "image": null,
-      "published_at": "2025-09-20T17:08:05.000Z",
-      "summary": "עצרות גדולות בת\"א, ירושלים וחיפה, הפגנות נערכו בשורת מוקדים; כאלף מפגינים צעדו לבית רה\"מ, אחרי שמשפחות חטופים פונו משם בכוח. אבא של רום ברסלבסקי סיפר: \"העיפו אותנו משם, בן גביר גיחך לי בפנים\". אח של החטוף נמרוד כהן פנה לטראמפ: \"נתניהו הורס את המורשת שלך, אל תיתן לו\""
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1590,16 +1610,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d5/live/d74b9470-4127-11f0-bace-e1270fc31f5e.jpg",
       "published_at": "2025-09-20T16:32:52.000Z",
       "summary": "The 17-year-old's murder sparked debate about women on social media in Pakistan."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "צה\"ל: חמאס ירה על צוות או\"ם שפתח ציר סיוע - ושדד משאיות מזון לתינוקות",
-      "url": "https://www.ynet.co.il/news/article/hjg6yb2oee",
-      "image": null,
-      "published_at": "2025-09-20T16:28:14.000Z",
-      "summary": "לפי מתפ\"ש, במהלך סוף השבוע מחבלים ירו לעבר צוות האו\"ם בדרום הרצועה וסיכלו פתיחת ציר סיוע הומניטרי חדש: \"נואש לסכל את הרחבת המענה לדרום הרצועה\". יוניצף דיווחה במקביל: מחבלים השתלטו באיומי נשק על משאיות - ושדדו מזון שהיה מיועד ל-2,700 תינוקות בעזה"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2679,16 +2689,6 @@
       "url": "https://www.haaretz.com/opinion/2025-09-17/ty-article-opinion/.premium/a-letter-to-my-friend-a-pilot-in-the-israel-air-force-who-simply-followed-orders/00000199-5934-dc75-a1d9-5f7c36210000",
       "image": "https://img.haarets.co.il/bs/00000197-862f-d81d-afd7-f6bfc4ee0001/3f/68/dab7a7d84066b50edc7349c48bd9/115738.jpg?height=81",
       "published_at": "2025-09-17T20:54:55.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Haaretz Cartoon",
-      "url": "https://www.haaretz.com/opinion/daily-cartoon/2025-09-17/ty-article-opinion/haaretz-cartoon/00000199-5962-d7ad-a1d9-597aac080000",
-      "image": "https://img.haarets.co.il/bs/00000199-5963-d907-a5db-7de730150000/6f/11/b1e6cfee4247bbe8e51a15b7faf3/image-2025-09-17-133516484.png?height=81",
-      "published_at": "2025-09-17T20:37:58.000Z",
       "summary": ""
     },
     {
