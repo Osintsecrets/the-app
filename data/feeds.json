@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-09-21T15:03:14.849Z",
+  "generated_at": "2025-09-21T15:31:47.173Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "High Court rejects police officer’s petition against Ben-Gvir, refers case to lower court",
+      "url": "https://www.jpost.com/israel-news/article-868285",
+      "image": null,
+      "published_at": "2025-09-21T18:13:37.000Z",
+      "summary": "The High Court ruled that the petition should have been filed to a lower, more appropriate court, rather than being brought straight before the High Court."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,7 +25,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Far-right ministers, regional heads call for Israeli over sovereignty West Bank",
+      "title": "Far-right ministers call for West Bank annexation after countries recognize Palestine",
       "url": "https://www.jpost.com/israel-news/article-868283",
       "image": null,
       "published_at": "2025-09-21T17:55:32.000Z",
@@ -45,7 +55,7 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Why Egypt wants to keep Sinai quiet - analysis",
+      "title": "Egypt's military posture in Sinai and what it means for Israel - analysis",
       "url": "https://www.jpost.com/middle-east/article-868279",
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/682100",
       "published_at": "2025-09-21T16:56:31.000Z",
@@ -102,6 +112,26 @@
       "summary": "Jewish Agency and Jewish Federations of North America launch loan fund\n"
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Starmer confirms formal UK recognition of Palestinian state",
+      "url": "https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6651/live/98372180-96f1-11f0-b421-1f7adb2b0f32.jpg",
+      "published_at": "2025-09-21T15:25:49.000Z",
+      "summary": "Australia and Canada make similar announcements but move draws criticism from Israeli government and families of hostages held in Gaza."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Egyptians outraged after pharaoh&#8217;s bracelet stolen from museum, melted for gold",
+      "url": "https://www.timesofisrael.com/egyptians-outraged-after-pharaohs-bracelet-stolen-from-museum-melted-for-gold/",
+      "image": null,
+      "published_at": "2025-09-21T15:24:55.000Z",
+      "summary": "3,000-year-old bangle belonging to Pharaoh Amenemope was taken from restoration lab of Egyptian Museum in Cairo, which had no security cameras, sold to gold worker for some $4,000\nThe post Egyptians outraged after pharaoh&#8217;s bracelet stolen from museum, melted for gold appeared first on The Tim"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -110,6 +140,66 @@
       "image": null,
       "published_at": "2025-09-21T15:23:52.000Z",
       "summary": "Jonathan Riss, Managing Director of MOTJ, reflects on the Museum’s highlights, vision, and what lies ahead"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE launches campaign to become 'start-up capital of the world' - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRVlCZjJMdTcwZlJoTWJqT2ZoUDhjMk1ET050V0dGeUY0cnpNdDQyazN6RmdhRjNYbTBkckViOUI4d0JVRG1IUU5UaVFFcjNlSzhmYlEzRk5EODd0RktIZUhPck5jZ3BPUUdqelNDWHJ4WFFEam1kZVo1ZEIwSEpoQmhXdW5uV1dIb2FkSTVCY1BJT1RQRV9KSWJ3MDVTNVpZMGJ2NlUzYy1QSnJCREQ0N3NyemNfbDBHeV82dURIUFNxSjBjLVZaYUdvN0Q1SlhkeVE?oc=5",
+      "image": null,
+      "published_at": "2025-09-21T15:21:50.000Z",
+      "summary": "UAE launches campaign to become 'start-up capital of the world'  MSN"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE’s Anwar Gargash: UN recognition of Palestine key to two-state solution - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTRJR04zWUFpUUlzY0ZIRVlQcmJGd3BBUnQwOEs0aGE5eVJVMW9pWlptRlRyY1BhTnlIY3V6Y3c1bC0yN3hoVXppdnAxU1hreEEzNDdkQlYyUUJnTmNCQk9OeE9hMGhqUmVnX05aYXZERE42M2RSMmd0bDAyYWt3WEtNVmpDT0p2N1JyRnRxNHFIdTRVX2xfcms1bC1GOEpLek9nM05iT1IzbmNuUmc?oc=5",
+      "image": null,
+      "published_at": "2025-09-21T15:19:17.000Z",
+      "summary": "UAE’s Anwar Gargash: UN recognition of Palestine key to two-state solution  Gulf News"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בלבנון טוענים לטבח: \"5 נהרגו בתקיפה ישראלית, 4 מהם - אב וילדיו\"",
+      "url": "https://www.ynet.co.il/news/article/hkevqc6jge",
+      "image": null,
+      "published_at": "2025-09-21T15:17:53.000Z",
+      "summary": "בבינת ג'בל בדרום לבנון הופצץ אופנוע ועליו לפי הדיווחים פעיל חיזבאללה. במדינה טענו שבתקיפה נהרגו גם אב ושלושה ילדיו. הנשיא עאון: \"לעצור את ההפרות - וללחוץ על ישראל לסגת\""
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "U.N. Gathers Amid Its 80th Anniversary and a ‘Free Fall’",
+      "url": "https://www.nytimes.com/2025/09/21/world/middleeast/un-general-assembly-80th-anniversary.html",
+      "image": "https://static01.nyt.com/images/2025/09/21/multimedia/21intl-un-eighty-kjlm/21intl-un-eighty-kjlm-mediumSquareAt3X.jpg",
+      "published_at": "2025-09-21T15:08:22.000Z",
+      "summary": "The wars in Ukraine, Gaza and Sudan will hang over the annual gathering of the U.N. General Assembly next week in New York. So, too, will budget and identity crises."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Heathrow warns of second day of disruption after cyber-attack",
+      "url": "https://www.bbc.com/news/articles/cwy88857llno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5616/live/42744a10-96c0-11f0-90f2-5f87cb020b24.jpg",
+      "published_at": "2025-09-21T15:07:38.000Z",
+      "summary": "The issue affecting check-in and baggage systems caused hundreds of delays and cancellations on Saturday."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "תקפו באגרופים וניסו לדרוס: תושב אום אל-פחם הוכה בקריית אונו ונזקק לתפרים | תיעוד",
+      "url": "https://www.ynet.co.il/news/article/sysvmutjel",
+      "image": null,
+      "published_at": "2025-09-21T15:05:42.000Z",
+      "summary": "עווד ברבור, סטודנט באוניברסיטת בר אילן, הותקף על ידי חמישה בני אדם בסופר שבו הוא עובד ובסמוך אליו: \"גזענים קיללו, דחפו ותקפו אותי רק בגלל שאני ערבי - והמשטרה אדישה\". המשטרה: \"נפתחה חקירה\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -122,6 +212,16 @@
       "summary": "Out of tragedy a generation has emerged, unwilling to be spectators—a generation determined to lead"
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "The Taliban are reaching out — and some countries are responding - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazNxV0VDVlJjcVI1Qk1WYXAySWZpV2I4QmNZWVVXUGh4TzhLNVFJQVFiN2ZtazZla3Z3TUpqTW4xWmp4M1dFWEc3Ymxkb3BYb2lfMUJLWU1CNlhpNmRkeUtEZGtoandzSG9yNlp4NlVfbVZDSDVTN0lZUVAwT0pBRmw0QnBYUEF1b2J3akc5ams?oc=5",
+      "image": null,
+      "published_at": "2025-09-21T15:02:01.000Z",
+      "summary": "The Taliban are reaching out — and some countries are responding  The Washington Post"
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -132,6 +232,16 @@
       "summary": "Far-right Minister Itamar Ben-Gvir said that the recognition of a Palestinian state by the U.K., Canada and Australia requires 'immediate application of sovereignty over the West Bank,' adding that he intends to officially propose the move in the next security cabinet meeting"
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE: Dubai Ruler Sheikh Mohammed launches campaign to train 10,000 youth and create 30,000 jobs - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTDRBcEp3NHFEUE43dm1ZX2JTdDVFWjQ3c2dncHlCWEdwY0NsR2VLOV9JbHl6QlhCNDJ6UjhDOV9IcVQzeUtzOWhvUVQwYVdXTEVzOFZZdGNYalptVGNBeVRuZnlGRFM2VE9uRVh2NlJQV3ZUeDh0Y3VDcjd4bG9EUWRPTTVOc09LUEphUHp5Y1NMeTVlcjlQVHJUNmhDSFpQX1VBbjlHYU9Hd3ZHYWZxSEg1V3FKVzJ5WURIMXFYekRyeFAyb19wR2pCM3FVeG9GSlpIbTkxS1pzOFRRQjRsU0hLNG5pQmZfdm1tYnh6OGhJREx1M2Y4ZHh1Z1BYTGPSAYQCQVVfeXFMTjU4RU1KaWxTSkVIQS0wM2VLYzZPVzJrU1ZoV0toNzY3cUNNc283UmpveUplWkVKZ29CdGVXNThvYjk0clI1U2cwVXJuQmFTdXR1eVpLRDB2aVFWV2RUeHo0akZqTVNLRDZTQ25zTVRaQ2RnbjR5Ri1CYTRWaEtKZnJXQm9MT3RuM0QtbGduR0V3cW9WR3pPaUJMbXNpWUd4bGNRNDRhaUItVG1qV3QwYlBYamI2Zmc2T1dsdG9zTXhveGhIb3JUVVBVM3dTUFpVclFyVXE4SVdHOHJxdHdmei1ySnNhN2ZiUGVpV2VVU0IwZml0bzllb3dCQlBRNEF2MlBGUkk?oc=5",
+      "image": null,
+      "published_at": "2025-09-21T15:00:00.000Z",
+      "summary": "UAE: Dubai Ruler Sheikh Mohammed launches campaign to train 10,000 youth and create 30,000 jobs  The Times of India"
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -140,6 +250,16 @@
       "image": "https://img.haarets.co.il/bs/00000199-6c9d-d04a-adfd-7d9d71ff0000/ba/f9/5e4cc20a4822bac8753524bba275/63136993.JPG?height=81",
       "published_at": "2025-09-21T14:54:36.000Z",
       "summary": "How medieval scholars compressed two centuries of history to create the calendar system Jews use today"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "PM reports progress in talks with Syria as US official says security deal ‘99%’ done - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMUZCQnZLMVhWOC1yM0hUS21HRGxkMkxETktLQm0yUy00VkNQOFNHdW9ZbDR6dXRpRG4tb09jeWhnOFB0TFg4VkZHcTBIUmdUaExOMWtPaTVZeTUzQ2I5SHhEZTZCcG1lRjUtMEZxSTYyMnpTV28wbWN1SFBlTERvdFd0aHlvNzJIM1RENTA2bFZiY25UQUJ1ODh6VWFrcjZiMGxxZXQwUUI2OUlqb3hjRWlR0gG3AUFVX3lxTE9FMzBsbkkzeURabkJhVnE1bTRqUElDQWFUanpHZVd6WkRoVWN2T054ODEtdG80SGp5bTBZZEoxdTYyVzRBR3U3ekFfX0cza3dacFZ1bnNTNUdLNXU1WjktUDh4MXVjZF9TUGJCNGt5UVF1dXFQLTc0QVpSVjdCMzhLY01EQnJ2WXl1V3RhVGFleVVwVFNac2JacmRkRDhpVmNYYzFTdmtrWGdKY1RzMnNDTTM2WEFfRQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-21T14:54:05.000Z",
+      "summary": "PM reports progress in talks with Syria as US official says security deal ‘99%’ done  The Times of Israel"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -182,6 +302,16 @@
       "summary": "Sheikh Abdullah leads UAE delegation at UN General Assembly in New York  ARN News Centre"
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "US and Israel in shock as Iran tests ICBM with range of over 10,000 km, Saudi Arabia and UAE worried because… - india.com",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZVlIZzVOVW00Z1FPbXpTUW9VampJM0RyMWZvWnh4NlI1MnZabUtveVpla1RiYlgxZDROeER0YVI3THFTamphYlFDeXRxUW11R2tpUVlFOUFBODFOT3k1NmlnQjctbWRFM2hPLXVueHpfMWY5NHd5a2REcFBhaVN2UUZ2Sk5PSXFIRXZJLW5WLXUtZ2VtZ1ZVYjg1TGVRUWZiejIxNkxUaXlJVUZpeC1VTm0ySmRpWDk4UXJaLUpHQUJPTFAzTmVEX0hkWDh5SHV1NWdXcjFJck5OUVZaTGdFYXBGcTloLUVnOFBYN09IeEdVdF9pa0lZWjFSN2p2Q1NnN1VSY0VLUEt2VE9kOEtyU3BR0gGXAkFVX3lxTE9EZHJIT244TXlnUENVVTVXMW1DdDZoM2lmN1I3NU5TWXpOdjdGVkRzX1g5NkNOa2FWcDQ3cEcwTWZDMUdreFZzU3owQ1dnX3pKbkdGbC1oWHVmbUFmZGVleFBZZzRBTDJ5SmduSEF2enRYbVJiNFdqT3BPek02NVpHTTF4cnplQ1Rua1VaOV9ZMEpFV2NSZEFtRjNNdEZ5QTFLQjN4c1J0aDFkWVMtSmFQZEVUQjhiVGFnSTZ3MjdBN1doREttRzczUnd2UmxDaUFRS0U2c1djWktDb0JnTnpIWFNES1NuWGNkTmxvaklYdFBOWmJRY0I4UHVtSE54aDByOE81QWJmdlhTVE11S3M2SGlNUVo1OA?oc=5",
+      "image": null,
+      "published_at": "2025-09-21T14:45:38.000Z",
+      "summary": "US and Israel in shock as Iran tests ICBM with range of over 10,000 km, Saudi Arabia and UAE worried because…  india.com"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -199,7 +329,7 @@
       "url": "https://www.ynet.co.il/news/article/r1g9dyaiel",
       "image": null,
       "published_at": "2025-09-21T14:44:28.000Z",
-      "summary": "ההכרה של בריטניה, אוסטרליה וקנדה במדינה פלסטינית גררה ברכות מצד הרשות הפלסטינית. בחמאס עדיין שותקים. \"זה ניצחון האמת\", אמר סגנו של אבו מאזן. היו\"ר לא התייחס לרפורמות שהתחייב לבצע"
+      "summary": "ההכרה של בריטניה, אוסטרליה וקנדה במדינה פלסטינית גררה ברכות מצד הרשות הפלסטינית. \"זה ניצחון האמת\", אמר סגנו של אבו מאזן. היו\"ר לא התייחס לרפורמות שהתחייב לבצע, בכיר חמאס התעלם מהדרישה שארגונו לא יהיה חלק מהעתיד הפלסטיני: \"תחנה חשובה\""
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -210,16 +340,6 @@
       "image": null,
       "published_at": "2025-09-21T14:43:41.000Z",
       "summary": "Lebanese media says four killed, including children, in Israeli drone strike in southern Lebanon  The Times of Israel"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Starmer announces UK recognition of Palestinian state",
-      "url": "https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6651/live/98372180-96f1-11f0-b421-1f7adb2b0f32.jpg",
-      "published_at": "2025-09-21T14:39:47.000Z",
-      "summary": "Australia and Canada also announced formal recognition, with Portugal expected to follow."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -312,14 +432,14 @@
       "summary": "Lebanon says Israeli strike kills at least 4, including children, in south  Al Arabiya English"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Abbas welcomes recognition of Palestinian state by Canada, UK, Australia",
-      "url": "https://www.israelnationalnews.com/news/415284",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1098447.jpg",
-      "published_at": "2025-09-21T14:32:00.000Z",
-      "summary": "PA Chairman Abbas praised the decisions of Canada, the UK, and Australia to officially recognize a Palestinian state, calling the steps vital to advancing peace and implementing the two-state solution."
+      "title": "Lebanon County's Jesslyn Risser Crowned 2025-2026 Pennsylvania Dairy Princess - Lancaster Farming",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOOFFlWFZrQU5SNjBDTWlIWjhvWGxZc1VZZ3NseWNpaldIWFN4ZjZwVFRESHhlWXNpTFpkMmlNSzJ4cUFmRktjeDY3TkRUdjJtM1VfT1VhY3VET3lZRkhQRnRqS3BTbkZ3VWlDUEpEcHQxeTJKM1p4b2Y3UGotMHpyT2JtUGpCUHZ5Y0l0ckViT0FYTUptTWI4bzZaQkp1Z2htYzBPR01USGo3Q1RPa0xVSjhQNnB3WmRTMUd0N2Z0VkVFcDYyVTVyV0wzbTJ1RlJFN0ZmQm9xNDEzandOeERjOFd0Z3BvYTlEWi1uWm1aM0xQR25jUGRIRXExZ29XYnhCY3pjQVFvYkF3R3BBUnIya2s2SXNYbEE?oc=5",
+      "image": null,
+      "published_at": "2025-09-21T14:33:00.000Z",
+      "summary": "Lebanon County's Jesslyn Risser Crowned 2025-2026 Pennsylvania Dairy Princess  Lancaster Farming"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -330,6 +450,16 @@
       "image": null,
       "published_at": "2025-09-21T14:32:00.000Z",
       "summary": "Israeli strike kills four in Lebanon, including children  Middle East Eye"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Abbas welcomes recognition of Palestinian state by Canada, UK, Australia",
+      "url": "https://www.israelnationalnews.com/news/415284",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1098447.jpg",
+      "published_at": "2025-09-21T14:32:00.000Z",
+      "summary": "PA Chairman Abbas praised the decisions of Canada, the UK, and Australia to officially recognize a Palestinian state, calling the steps vital to advancing peace and implementing the two-state solution."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
@@ -360,16 +490,6 @@
       "image": null,
       "published_at": "2025-09-21T14:22:38.000Z",
       "summary": "The country needed music, and the IPO management decided that live music was vital in raising soldiers and civilians' morale. “And this belief remains to this day,” they told the Post."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Abdullah bin Zayed Leads UAE Delegation at the 80th Session of the UN General Assembly in New York - mofa.gov.ae",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkVXFJMjhVQ2lwY0pYWUJDcXJKLVhvdVZCbFJxSzJWdG44bWY5MUZJRExzZDA3OHMtbWdRSklZMk1Fc200bFJUOXdUQjJIWDlKdVI4VUY1d0RTLUpUcDh0aHpCN3NGWFF1Z1U0N1pHc1g2a012U2xN?oc=5",
-      "image": null,
-      "published_at": "2025-09-21T14:21:43.000Z",
-      "summary": "Abdullah bin Zayed Leads UAE Delegation at the 80th Session of the UN General Assembly in New York  mofa.gov.ae"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -405,21 +525,21 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Afghan Taliban rejects Trump threats over taking back Bagram airbase - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPclBmWkRFLXUyR3hhRUNYS3FDdVF5clF1OG9FWWRkdmtfOUZCdzNfbVE4SXdMMVlpNGI0elZwV21LM1hBMUNVSmhOZHRPTzV2ZWQ2YmVfVnRCWmdkMm1lOWgxYXhuelpWNm1fbG1sOThQR1MxT1B2UTRoLWp6a1BqZU5aSGxJaTdzRFBFQWkxZGNGN3JiRVFxeTB5R0UweEtnX2t0V09BcWtKQkNNd0HSAbMBQVVfeXFMTUZ2ckhDUU5fbTlZWTItS2R0OE90WU5VZmNHeWRiQkFRZTZkWnhIYU1yN1BBYncxT1BSVndZa1JObFVJdjFSQndyRi1QWXltbGxDeHQtS2R6b3dzS3BhUkVQOUNROTlLZkc0UGFWWXpNd2FjeU9SbktxWWZ5M1JIbUlnRHJMQjlSb3hGczhUN2FVUHlUcHJNcERKVU1fal8xc29YYUZaNHhZRkpZbk5JRk9yWUU?oc=5",
-      "image": null,
-      "published_at": "2025-09-21T14:15:00.000Z",
-      "summary": "Afghan Taliban rejects Trump threats over taking back Bagram airbase  Al Jazeera"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
       "title": "Kenya joins nations in outlawing Muslim Brotherhood, Hizb ut-Tahrir - the-star.co.ke",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSXdadDMycGk2SzBMQ2FoRVBWSF9uTkxVRzMzcUl4N1paZ1BUaDBORS0xcFFtelpoVDBlZklHbXdsVTFMV2pVcGxhVkdwNWlRRXBVQkVPcEFudHNPVG9yRmtka3dpV3lCM2xUanJBQk1GbWtucW5tVG9zRnJVUnotdXU1a1NBSWNRMHpROGx3NkYxRE1Jdko0MzR3?oc=5",
       "image": null,
       "published_at": "2025-09-21T14:15:00.000Z",
       "summary": "Kenya joins nations in outlawing Muslim Brotherhood, Hizb ut-Tahrir  the-star.co.ke"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Afghan Taliban rejects Trump threats over taking back Bagram airbase - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPclBmWkRFLXUyR3hhRUNYS3FDdVF5clF1OG9FWWRkdmtfOUZCdzNfbVE4SXdMMVlpNGI0elZwV21LM1hBMUNVSmhOZHRPTzV2ZWQ2YmVfVnRCWmdkMm1lOWgxYXhuelpWNm1fbG1sOThQR1MxT1B2UTRoLWp6a1BqZU5aSGxJaTdzRFBFQWkxZGNGN3JiRVFxeTB5R0UweEtnX2t0V09BcWtKQkNNd0HSAbMBQVVfeXFMTUZ2ckhDUU5fbTlZWTItS2R0OE90WU5VZmNHeWRiQkFRZTZkWnhIYU1yN1BBYncxT1BSVndZa1JObFVJdjFSQndyRi1QWXltbGxDeHQtS2R6b3dzS3BhUkVQOUNROTlLZkc0UGFWWXpNd2FjeU9SbktxWWZ5M1JIbUlnRHJMQjlSb3hGczhUN2FVUHlUcHJNcERKVU1fal8xc29YYUZaNHhZRkpZbk5JRk9yWUU?oc=5",
+      "image": null,
+      "published_at": "2025-09-21T14:15:00.000Z",
+      "summary": "Afghan Taliban rejects Trump threats over taking back Bagram airbase  Al Jazeera"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -465,11 +585,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "No. 3: Israel's Mossad chief David Barnea - The Jerusalem Post",
+      "title": "No. 3: David Barnea: Mossad chief revitalizing the Israeli intelligence network - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zcnhKRnZhNEJsRlM4bDliRHJlcXNkc1lyTkJXa2JxQXFmZUIxU2NLUWVURjFpVkk5UGpnMm1WdUJBUnRtNUtxYW1hV25rRUt6MVQxeXZyN2t0WEgzeV9JeHlaZEhFMlVmOXlUX3lB?oc=5",
       "image": null,
       "published_at": "2025-09-21T14:06:43.000Z",
-      "summary": "No. 3: Israel's Mossad chief David Barnea  The Jerusalem Post"
+      "summary": "No. 3: David Barnea: Mossad chief revitalizing the Israeli intelligence network  The Jerusalem Post"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -552,16 +672,6 @@
       "summary": "The move, which comes ahead of Monday's UN General Assembly, reflects growing diplomatic pressure to end the war in Gaza, create conditions for lasting peace, and potentially reform Palestinian Authority governance in preparation for statehood"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel Responds: 'There is neither a Palestinian state nor people'",
-      "url": "https://www.israelnationalnews.com/news/415282",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1199533.jpg",
-      "published_at": "2025-09-21T13:51:00.000Z",
-      "summary": "Israeli ministers delivered scathing rebuttals to the announcements by Britain, Canada, and Australia that they now recognize a Palestinian state."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -569,7 +679,7 @@
       "url": "https://www.aljazeera.com/news/2025/9/21/canada-australia-join-uk-in-recognising-palestinian-statehood?traffic_source=rss",
       "image": null,
       "published_at": "2025-09-21T13:49:22.000Z",
-      "summary": "Recognition of Palestine from Canada, Australia comes in coordination with UK, ahead of UN General Assembly meeting. "
+      "summary": "Recognition of Palestine from Canada and Australia comes in coordination with the UK before UN General Assembly meeting."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -592,36 +702,6 @@
       "summary": "Law enforcement officials will also be required to identify themselves while conducting duties by both name and badge number."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Instead of recognizing ‘Palestine,’ Europe should present a strategic plan for Gaza - opinion",
-      "url": "https://www.jpost.com/opinion/article-868247",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3510,w_5265/667355",
-      "published_at": "2025-09-21T13:48:40.000Z",
-      "summary": "Recognition alone – currently planned by France, Britain, Belgium, Canada, and others – will not bring peace."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Afghan govt spokesperson says leaders shouldn’t make ‘provocative’ statements, stresses need for talks",
-      "url": "https://www.dawn.com/news/1943679/afghan-govt-spokesperson-says-leaders-shouldnt-make-provocative-statements-stresses-need-for-talks",
-      "image": "https://i.dawn.com/large/2025/09/211744439207e34.webp",
-      "published_at": "2025-09-21T13:47:13.000Z",
-      "summary": "The spokesperson for the Taliban government in Afghanistan Zabiullah Mujahid has said that leaders should refrain from making “provocative” statements and that his country could not be held responsible for attacks taking place in Pakistan.\nMujahid’s remarks come as Pakistan continues to raise ala..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Trump White House scrambles to save Kirk's young voter machine after his death",
-      "url": "https://www.jpost.com/american-politics/article-868246",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_900,w_1600/680671",
-      "published_at": "2025-09-21T13:46:13.000Z",
-      "summary": "The Trump White House is working to maintain Charlie Kirk’s influence with young voters after his assassination left a leadership gap at Turning Point USA."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -642,16 +722,6 @@
       "summary": "With a stream of emotions both contradictory and complementary, Early Signs, Eran Zur's latest album, stood out clearly above all others in the past Jewish year"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban Dismisses Donald Trump's Call For Bagram Air Base Reclamation: 'We Do Not Fear Any Bully Or Aggressor' - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS25yckJVT0NXN0pXTlA1RWg3UXozdnhtcUFaV2xXSWF1U1NwcVlkcFc4LVg0OE05N3QyUWt3ZkNHMGhnQWRyQUQwOE42dkhMc08zVUJmNDhBdG95bFlvODVlbExTd1FkbTdUYkZVTzdoeWJ4bTNuQUZWRzIzRTZkQ05NdGxhWlo1N3c?oc=5",
-      "image": null,
-      "published_at": "2025-09-21T13:39:23.000Z",
-      "summary": "Taliban Dismisses Donald Trump's Call For Bagram Air Base Reclamation: 'We Do Not Fear Any Bully Or Aggressor'  Yahoo Finance"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -660,26 +730,6 @@
       "image": null,
       "published_at": "2025-09-21T13:37:41.000Z",
       "summary": "Longtime confidant of Netanyahu, who is under investigation for suspected forgery relating to official record of Oct. 7 attacks, will replace outgoing ambassador Tzipi Hotovely\nThe post Cabinet approves Netanyahu&#8217;s chief of staff Braverman as next envoy to UK appeared first on The Times of Isr"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Saudi bourse extends gains; Qatar and Egypt fall on profit-taking - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0NnZ1NDZ0Y4Y2g3TFctc3A1Ynh2VTh1LW9hdmlLZS1IbGZvd3hHRURzOExySHlUZXVSclNYQ0FXRzFsM3FGU28xdUtQRVY4MUYyQ2RsODlCRTNOWGkxMXNMdG9hemY1NVA1aW5xMkFDUmpvVG1ibHNPT2Z5a2NWemc5MkFXTGpoR0Q2VUt3Z0RmcXFPLTZFZGVuRTRvUXp5WjA0bnBjU01XSVVqREEwVQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-21T13:37:09.000Z",
-      "summary": "Saudi bourse extends gains; Qatar and Egypt fall on profit-taking  Reuters"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Ruto’s Govt Declares Muslim Brotherhood And Hizb-ur-Tahrir Terrorist Entities - The Kenya Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaQnM4d3EtRjFDSEJfUnMtSGphOVoyZ0F4OTBxQXRsSU1LdUNDejNvX1hkc3hFRWNhS0Y1TmN5NDVpTjJsb0RXdUcxeDZieDBMMS1yMTVxRkozNVFFYUVIT3FMaXN2UERtWV9Qa1VYeVJOeHBmWVpEUw?oc=5",
-      "image": null,
-      "published_at": "2025-09-21T13:36:45.000Z",
-      "summary": "Ruto’s Govt Declares Muslim Brotherhood And Hizb-ur-Tahrir Terrorist Entities  The Kenya Times"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -749,7 +799,7 @@
       "url": "https://www.ynet.co.il/news/article/symhxdpogg",
       "image": null,
       "published_at": "2025-09-21T13:01:30.000Z",
-      "summary": "כמעט שנתיים אחרי טבח חמאס ב-7/10, שלוש מדינות מערביות מרכזיות הודיעו בזו אחר זו על הכרה רשמית במדינה פלסטינית. ראש ממשלת בריטניה דיבר על החטופים, האשים את ישראל באכזריות וטען: \"זה לא פרס לחמאס\". קנדה: איבדנו תקווה להסדר מוסכם. אוסטרליה: קיבלנו התחייבויות לרפורמות ברשות"
+      "summary": "כמעט שנתיים אחרי טבח חמאס ב-7/10, שלוש מדינות מערביות מרכזיות הודיעו בזו אחר זו על הכרה רשמית במדינה פלסטינית. ראש ממשלת בריטניה דיבר על החטופים, האשים את ישראל באכזריות וטען: \"זה לא פרס לחמאס\". קנדה: איבדנו תקווה להסדר מוסכם. אוסטרליה: קיבלנו התחייבויות לרפורמות ברשות. משרד החוץ: \"לא נקבל שום טקסט "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -940,16 +990,6 @@
       "image": null,
       "published_at": "2025-09-21T11:27:56.000Z",
       "summary": "Hong Kong police have defused a 450kg World War II-era bomb discovered at a construction site, prompting the evacuation "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Heathrow warns of second day of disruption after cyber-attack",
-      "url": "https://www.bbc.com/news/articles/cwy88857llno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5616/live/42744a10-96c0-11f0-90f2-5f87cb020b24.jpg",
-      "published_at": "2025-09-21T11:25:01.000Z",
-      "summary": "The issue affecting check-in and baggage systems caused hundreds of delays and cancellations on Saturday."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1402,16 +1442,6 @@
       "summary": "Kigali hosts the 2025 UCI Road World Championship"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Mossad deployed over 100 foreign agents in Iran war, its largest ever mission &#8211; report",
-      "url": "https://www.timesofisrael.com/mossad-deployed-over-100-foreign-agents-in-iran-war-its-largest-ever-mission-report/",
-      "image": null,
-      "published_at": "2025-09-21T07:25:09.000Z",
-      "summary": "Channel 13 details unprecedented operation that saw missile systems smuggled into Iran, reveals transcripts of PM saying it was important Trump saw 'pyrotechnics' during 12-day war\nThe post Mossad deployed over 100 foreign agents in Iran war, its largest ever mission &#8211; report appeared first on"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1512,26 +1542,6 @@
       "summary": "As prime minister, Benjamin Netanyahu always dreamed of an Israel free of U.S. restraints and conditions"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "איראן מאיימת, ימים אחרי הפעילות הלילית החריגה: \"אם האויב יטעה - נגיב בצורה קטלנית\"",
-      "url": "https://www.ynet.co.il/news/article/hyktezaogg",
-      "image": null,
-      "published_at": "2025-09-21T04:49:45.000Z",
-      "summary": "לאחר הדיווחים על ניסוי טיל בין-יבשתי והפעילות הלילית החריגה, ועל רקע המתיחות עם ישראל, משמרות המהפכה שיגרו איום: \"ידה של איראן תהיה על העליונה - היא תתפוס את היוזמה בשדה הקרב בצורה קטלנית ומלמדת שוב\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "נרצח מירי בחתונה במועדון קאנטרי בניו המפשייר, עד ראייה: \"היורה צעק 'תשוחרר פלסטין'\"",
-      "url": "https://www.ynet.co.il/news/article/bkvl0gaoee",
-      "image": null,
-      "published_at": "2025-09-21T04:36:06.000Z",
-      "summary": "גבר נורה למוות וכמה אחרים באירוע ירי המוני במהלך חתונה במועדון הקאנטרי Sky Meadow בעיר נשואה. החשוד נעצר במקום, מצב הפצועים, שחלקם הגיעו עצמאית לבית החולים, טרם ידוע"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1547,7 +1557,7 @@
       "topic": "News",
       "title": "Canadian PM says Palestinian Authority pledged to hold elections in 2026 without Hamas",
       "url": "https://www.haaretz.com/israel-news/2025-09-21/ty-article-live/u-k-to-reportedly-recognize-palestinian-state-on-sunday-as-hostage-families-urge-delay/00000199-6a39-deb5-afdb-7bf99edf0000",
-      "image": "https://img.haarets.co.il/bs/00000199-5335-dc75-a1d9-577defef0000/73/9a/009b83904c0ca2a04ed8fd759b62/8e83e80d-57cb-4c0d-a481-cfc6dd64b4b6.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/00000196-e9c7-dc13-a3bf-fbff57970000/72/9f/96b342d340d0bac3248bbffeb9cb/740069.jpg?height=81",
       "published_at": "2025-09-21T03:23:52.000Z",
       "summary": ""
     },
@@ -1920,16 +1930,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-6780-de72-a7fd-6fc3c0ba0007/88/90/d2370c834078a31c83d172e7b2c4/610007-3.jpg?height=81",
       "published_at": "2025-09-20T15:13:07.000Z",
       "summary": "Moskona, born in Bulgaria and raised in Israel, starred in iconic films like Kazablan and Givat Halfon, won two Ophir Awards, and recorded hit songs in the 1970s. 'He was a giant of Israeli stage and screen,'  colleagues said. He is survived by his wife, four children and ten grandchildren"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israeli soldier moderately wounded by Hamas sniper fire in Gaza City area as incursion intensifies",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-868144",
-      "image": null,
-      "published_at": "2025-09-20T15:09:32.000Z",
-      "summary": "The IDF targeted underground terrorist infrastructure, weapons depots, and terrorist cells."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
