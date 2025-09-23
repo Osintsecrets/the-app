@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-09-23T03:08:53.991Z",
+  "generated_at": "2025-09-23T03:43:38.358Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF shares name of fallen soldier Shahar Netanel Bozaglo, who fell in northern Gaza",
+      "url": "https://www.jpost.com/israel-news/article-868407",
+      "image": null,
+      "published_at": "2025-09-23T06:07:40.000Z",
+      "summary": "Major Shahar Netanel Bozaglo, aged 27, from Migdal Haemek, fell during combat in the northern Gaza Strip."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel's latest innovation to fight PTSD: Animated characters and neuromodulation devices",
+      "url": "https://www.jpost.com/health-and-wellness/article-868404",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3917,w_5875/582882",
+      "published_at": "2025-09-23T05:30:39.000Z",
+      "summary": "Now, for the first time, the US Food and Drug Administration has cleared a neuromodulation device for treating PTSD."
+    },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
@@ -52,6 +72,26 @@
       "summary": "The Trump administration has used the killing as a pretext to revive years-old plans to target left-wing groups they regard as being hostile to conservative views."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Trump to meet officials from Muslim-majority countries to discuss Gaza",
+      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/09/trump-meet-officials-muslim-majority-countries-discuss-gaza_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
+      "image": null,
+      "published_at": "2025-09-23T03:35:39.000Z",
+      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npBy Kanishka Singh and Steve Holland/ppWASHINGTON (Reuters) -U.S. President Donald Trump will meet leaders and officials from multiple Muslim-majority..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Some Western nations offer to assist with treating patients from Gaza in West Bank",
+      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/09/some-western-nations-offer-assist-treating-patients-gaza-west-bank_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
+      "image": null,
+      "published_at": "2025-09-23T03:35:39.000Z",
+      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npWASHINGTON (Reuters) -Canada, France, Germany and some other Western and European countries made an offer on Monday to provide financial contribution..."
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -60,6 +100,16 @@
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3000,w_4500/682138",
       "published_at": "2025-09-23T03:18:21.000Z",
       "summary": "The High Holy Days begin with Rosh Hashanah - the Jewish New Year - and continue through Yom Kippur, the Day of Atonement, which ends at nightfall October 2."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "A sticky situation: Locals ask for community’s help for Lebanon candy maker - Lebanon Local",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb05zVm5nU1d1YWRyQk43cG5fa3VFMExMYjc5ZVVOQUtMcUQxbUJmd2NuZ2lldW5CeXByQUtTVzV1Y1dseWxfSjRqcnFZOWdjXzRPaW44LUFRQmszX2VWSGVpUGlWeGZEQjk0M3ZQRmxaUTQwaVdVeW1tOW0yX0Viejg1dE9ERkFPY2g3UXJCVXVVdFg0VzcwWG1LaUxjSkktUllLSWhJNXVnQU0?oc=5",
+      "image": null,
+      "published_at": "2025-09-23T03:11:15.000Z",
+      "summary": "A sticky situation: Locals ask for community’s help for Lebanon candy maker  Lebanon Local"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -89,7 +139,7 @@
       "url": "https://www.ynet.co.il/news/article/rksl3nk3ex",
       "image": null,
       "published_at": "2025-09-23T03:02:08.000Z",
-      "summary": "החלל הראשון במבצע מרכבות גדעון ב': רס\"ן בוזגלו, שפעל תחת גולני במסגרת הרחבת הפעולה בעזה, נפגע מרקטת RPG שירו מחבלים על טנק בחלק הדרומי של העיר. הוא נפצע אנושות ומותו נקבע בהמשך בבית החולים"
+      "summary": "החלל הראשון במבצע מרכבות גדעון ב': רס\"ן בוזגלו, שפעל תחת גולני במסגרת הרחבת הפעולה בעזה וכניסת אוגדה 36, נפגע מרקטת RPG שירו מחבלים על טנק בחלק הדרומי של העיר. הוא נפצע אנושות ומותו נקבע בהמשך בבית החולים. 911 חיילים נפלו מפרוץ המלחמה"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -140,6 +190,16 @@
       "image": "https://i.dawn.com/large/2025/09/2307405590967a6.webp",
       "published_at": "2025-09-23T02:42:26.000Z",
       "summary": "ISLAMABAD: Former prime minister Imran Khan’s sister, Aleema Khan, claimed on Monday that her brother had barred the party leadership from contacting “the establishment”, stressing that they should reach out to her brother directly if they are genuinely interested in talks.\nShe made these remarks..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE signs Declaration for Protection of Humanitarian Personnel at UNGA80 - ARN News Centre",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMXZLcmRvNWFDZXBTRUFULXQtSWFPVVlzUElWWkx2elBqV2dfRGtPcF9hOUVxQlRBLU1ubGFyWFhWWjRINllxdHhMMkJhb3JoNkNGR000dTM4RjFON24tYTBsOTRnTWdwSVBCNkc2aC1Ga3RxdDhNdjB0NGRhdldPU0IxWXp5MzgxclQtajRrZFU3cFptNDAyMXd3Z0JkRnpVTk85Zks0U0ZldmVHaFpPQmQyV28?oc=5",
+      "image": null,
+      "published_at": "2025-09-23T02:30:42.000Z",
+      "summary": "UAE signs Declaration for Protection of Humanitarian Personnel at UNGA80  ARN News Centre"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -242,16 +302,6 @@
       "summary": "\"Shiri, Ariel and Kfir - I love you most in the world, always in the world,” he wrote in an Erev Rosh Hashanah Instagram post. "
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "🇺🇸 U.S. SPECIAL ENVOY TOM BARRACK: WE WON’T ARM THEM TO FIGHT ISRAEL Reporter: \"You're talking about the left that's arming Hezbollah?\" Barrack: \"It's the only people who are there. So, left being mostly Sunnis, there are Shias, and it's a good or - X",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UVHFibmRxZVVsMjRPaUlEb2IxNkVWMzdaSmNFUE9sTDVZNnJHSTlUSXM0d1VqWmRVLUdZMDd2RURaOGR3M3EySXVQZmpNakRpdEhOWmlyVVgxMUZEYUhiQnVZWkFPa3ktRWc?oc=5",
-      "image": null,
-      "published_at": "2025-09-23T02:07:43.000Z",
-      "summary": "🇺🇸 U.S. SPECIAL ENVOY TOM BARRACK: WE WON’T ARM THEM TO FIGHT ISRAEL Reporter: \"You're talking about the left that's arming Hezbollah?\" Barrack: \"It's the only people who are there. So, left being mostly Sunnis, there are Shias, and it's a good or  X"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -315,7 +365,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Report: Trump to present Arab leaders with U.S. proposal for ending Israel-Gaza war",
+      "title": "Israeli soldier killed in fighting in northern Gaza, IDF announces",
       "url": "https://www.haaretz.com/israel-news/2025-09-23/ty-article-live/report-trump-to-present-arab-leaders-with-u-s-proposal-for-ending-israel-gaza-war/00000199-7432-d27b-affd-7eb274010000",
       "image": "https://img.haarets.co.il/bs/00000194-cd6e-d0b0-afdf-cdfecf990000/4c/6f/a015eadb490fa405572c5335839b/434896.jpg?height=81",
       "published_at": "2025-09-23T01:42:45.000Z",
@@ -350,16 +400,6 @@
       "image": null,
       "published_at": "2025-09-23T01:26:07.000Z",
       "summary": "Crackdown on draft dodgers amid Gaza war adds additional challenge for pilgrims visiting Hasidic sage's grave in Ukraine, where the airspace remains closed due to the conflict with Russia\nThe post Annual Rosh Hashanah pilgrimage to Uman clouded by arrests of yeshiva students in Israel appeared first"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE-based Dragon Oil signs Iraqi oilfield services deals - MSN",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORG5Rbm9HWmxYeThSbVhxTWZweEI1OFhDbFdGZHpKMXZyNW9uX0ZMZzJSSUp2TUJ5M09RY0RUYXliUzlnYkRMcVVFLXFWUnhhMTF6RnVnd3RZVlRfMFVySnZ6RE1JY3R6c2xZYmhoM1BOazJsU3JHWTctMFlLQ1d6OUtEdUk5YnIyRUtEdW44MERqSUlURDhOWUNjNWFVaFNwME9TYVF1WXJadDBVeWduWUFreS1qZWpnNTRWRm9OMkE4SWhERWdhdURKS0padlk?oc=5",
-      "image": null,
-      "published_at": "2025-09-23T01:12:39.000Z",
-      "summary": "UAE-based Dragon Oil signs Iraqi oilfield services deals  MSN"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -455,11 +495,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Official: US privately cautioned against annexation, but Israel thinks conversation not over",
+      "title": "Armored Corps officer killed in Gaza City, the first fatality in IDF&#8217;s new offensive",
       "url": "https://www.timesofisrael.com/liveblog-september-23-2025/",
       "image": null,
       "published_at": "2025-09-23T00:19:00.000Z",
-      "summary": "Luxembourg, Malta and Andorra declare recognition of Palestinian state following France and others * Egypt says it will host Gaza reconstruction conference once ceasefire reached\nThe post Official: US privately cautioned against annexation, but Israel thinks conversation not over appeared first on T"
+      "summary": "Official says US privately cautioned against annexation, but Israel thinks conversation not over * Egypt says it will host Gaza reconstruction conference once ceasefire reached\nThe post Armored Corps officer killed in Gaza City, the first fatality in IDF&#8217;s new offensive appeared first on The T"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -562,36 +602,6 @@
       "summary": "Abdullah bin Zayed leads UAE delegation at 80th session of UN General Assembly in New York  ANI News"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "U.S. Air Force Boss Touts Progress On VC-25B, Qatar 747 - Aviation Week Network",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEhoNlpxNklJcTdycXp4UjEtcG95SEpKd3A5d3EwYldPQlV2WUItVm1zZ0Z4cHNsRElzZTZJZDJ5cWdzdlJrMFhMMGJGaXRZWnZ4TEx2Q1N0NjZKaWNZMDl3MXJzd0NNSDc1cUMtN3lCVXVTbWl3WXlpNzE1ck10LVprRVFIS0JPU0dSa3Zlaml4Mi1PUWFwYy0yQWt6TUdGeEc0Ng?oc=5",
-      "image": null,
-      "published_at": "2025-09-23T00:01:33.000Z",
-      "summary": "U.S. Air Force Boss Touts Progress On VC-25B, Qatar 747  Aviation Week Network"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Монголия и Китай согласны углублять сотрудничество в борьбе с транснациональной преступностью",
-      "url": "https://centralasia.media/news:2334175?from=rss",
-      "image": null,
-      "published_at": "2025-09-23T00:00:23.000Z",
-      "summary": "Министр юстиции и внутренних дел Монголии Мөнхбаатар Лхагва 19 сентября 2025 года встретился с Государственным советником и министром общественной безопасности Китайской Народной Республики Ван Сяохуном, чтобы обсудить укрепление двустороннего сотрудничества в правоохранительной сфере."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Более 2500 инженеров и специалистов задействованы в проекте железной дороги Багахангай—Хунну-Сити",
-      "url": "https://centralasia.media/news:2334170?from=rss",
-      "image": null,
-      "published_at": "2025-09-22T23:58:36.000Z",
-      "summary": "В строительстве железной дороги Багахангай–Хунну-Сити принимают участие около 2500 специалистов из примерно 110 отечественных предприятий."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -659,7 +669,7 @@
       "url": "https://www.aljazeera.com/news/2025/9/22/copenhagen-airport-shut-after-sighting-of-unidentified-drones?traffic_source=rss",
       "image": null,
       "published_at": "2025-09-22T22:30:16.000Z",
-      "summary": "The drone sightings near Danish and Norwegian airports come amid heightened concerns over Russian violating EU airspace."
+      "summary": "The drone sightings near Danish and Norwegian airports come amid heightened concerns over Russia violating EU airspace."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1980,16 +1990,6 @@
       "image": null,
       "published_at": "2025-09-21T19:36:35.000Z",
       "summary": "At the initial stages of evacuations a couple of weeks ago, only around 70,000 civilians fled. By early last week, the numbers had risen to around 250,000."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "‘Your children could be home tomorrow’: Mediator says Hamas ready for talks",
-      "url": "https://www.jpost.com/israel-news/article-868291",
-      "image": null,
-      "published_at": "2025-09-21T19:21:23.000Z",
-      "summary": "“I received indications from Hamas that they are prepared to resume negotiations immediately,\" Bahbah said."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
