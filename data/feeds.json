@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-09-26T21:07:22.312Z",
+  "generated_at": "2025-09-26T21:31:20.899Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "UCI chief says Israeli athletes are welcome amid boycott calls",
+      "url": "https://www.jpost.com/israel-news/sports/article-868708",
+      "image": null,
+      "published_at": "2025-09-27T00:05:44.000Z",
+      "summary": "A member of the International Olympic Committee affirmed that Israeli athletes will be allowed to participate in cycling competitions."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -42,6 +52,76 @@
       "summary": "With 2026 approaching, the “cold peace” risks fraying further, a scenario neither the US nor Israel can afford to ignore."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Watch: How Trump and Comey's relationship soured",
+      "url": "https://www.bbc.com/news/videos/cz69y2n6xexo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e069/live/5c77ccb0-9b1c-11f0-928c-71dbb8619e94.jpg",
+      "published_at": "2025-09-26T21:25:40.000Z",
+      "summary": "The indictment comes days after Trump called for his adversaries to be more aggressively investigated.\n"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Eric Adams stands with Israel after meeting with Netanyahu",
+      "url": "https://www.israelnationalnews.com/news/415467",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1130026.jpg",
+      "published_at": "2025-09-26T21:22:09.000Z",
+      "summary": "After meeting PM Netanyahu post-UN speech, NYC Mayor Adams reaffirms strong support for Israel, citing its right to defend itself and calling out global silence on antisemitism and hostages."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "יוזמה רוסית-סינית נכשלה - והסנקציות הכבדות על איראן יחזרו | זו הרשימה",
+      "url": "https://www.ynet.co.il/news/article/rkceopv2gg",
+      "image": null,
+      "published_at": "2025-09-26T21:20:52.000Z",
+      "summary": "רק 4 מדינות תמכו בניסיון לדחות בחצי שנה את השבת הסנקציות על טהרן, ברוסיה הזהירו: \"זה עלול להוביל להסלמה במזרח התיכון\". צרפת, שיזמה את הפעלת מנגנון ה-snapback ביחד עם גרמניה ובריטניה: \"זה לא סוף הדיפלומטיה\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"כל החטופים תמורת 100 עד 200 אסירי עולם\": פרטי יוזמת 21 הנקודות של טראמפ",
+      "url": "https://www.ynet.co.il/news/article/rjsew843ee",
+      "image": null,
+      "published_at": "2025-09-26T21:15:52.000Z",
+      "summary": "המלחמה תיפסק מיידית, אלפי אסירים ישוחררו, פעולת הקרן ההומניטרית לעזה תיפסק - וגם \"מדינת פלסטין תשתלט בעתיד על עזה ותתבצע קריאה לחידוש המו\"מ הישיר בין ישראל לפלסטין\": לפי דיווח סעודי אלו רק חלק מהסעיפים בתוכנית האמריקנית, שנתניהו לא התייחס לה בנאומו. גורם ישראלי: הכול שברירי\""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Elon Musk and Prince Andrew named in new Epstein files",
+      "url": "https://www.bbc.com/news/articles/cwyl8j1we0lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d43/live/cb0dcc30-9b0b-11f0-b741-177e3e2c2fc7.jpg",
+      "published_at": "2025-09-26T21:15:39.000Z",
+      "summary": "The documents by the estate of convicted paedophile financier Jeffrey Epstein were released by Congressional Democrats."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Lebanon County auction benefiting disaster relief continues this weekend - ABC27",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOXI3ajV1d0gtZFQ5eUU2Q0hidnIxWVJfdnQ1a1BEMVE1OXlXOWIzalk2S251TnR5MHhESS1fUG9laXBUa1U0cExrcVRJQUx4eDc4bkJkVmVWaVAtd3ZTNWY5cE5iSW9BcGxIR2Qxd08wUGVJN2RydW1ubUJFUl94aDJ5WGtrNmtlOTB6SnFDaU1MTnFRM2tEZGlZbGJmUVFYdGFxVm5NR2syWFU1T0FkWktySWzSAboBQVVfeXFMT1dMcnNpT1puUFFQazJCM0U1dFZlMjF1OWJBRHpMR2RhaVJMb25PLXF2Wk13eFA4ME1vUjVHNEhRUERjTlg3MWZTUS1EQnlqZ0g1SVg0R0RfMUNiS2FPLWVocEdKeG1NS2pkNWVTNHU5MWRmN2Uyam80QWRRbzFsOWlvMUlaT2xmbGM3OXhnSVNYSnBUUUl0ZXlpbVNJY0xFcDl4ektMaUNmMFg0NDJESGxId1psRUJrSUx3?oc=5",
+      "image": null,
+      "published_at": "2025-09-26T21:13:51.000Z",
+      "summary": "Lebanon County auction benefiting disaster relief continues this weekend  ABC27"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Sinclair to reinstate Kimmel on its ABC stations",
+      "url": "https://www.bbc.com/news/articles/cy7pm1jz0dlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b157/live/0a72c3f0-9b14-11f0-a0ea-414bd016a286.jpg",
+      "published_at": "2025-09-26T21:13:04.000Z",
+      "summary": "Viewers in Washington, DC, St Louis and Seattle will be able to watch the late night comedian's show again."
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -62,16 +142,6 @@
       "summary": "Hamas leaders who survived still learned the hard way that there is no longer a safe place – not in Damascus, not in Beirut, and not in Doha. From now on, they will live in constant fear."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Photos show Hezbollah supporters honoring slain leaders Nasrallah and Safieddine despite PM's ban - CityNews Halifax",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTXJkWi0wbHRiZGVLWUFVLXV4RVV0eV9hZ012V0p6d0l5OVhMRTVGbklFUEtwdUNTYTN1QWdNdzdmSnZkNjVHUHdjZndKQ0ZZS2tqTmtCUDY1QnE0RVdpVkFxYVBpSXVSdDdaN0ZBMk5OdXFlMFdfdDJjM1VHRFBLdTR3REt1OTk4TllYMHVwVmNUWmladERQTko3NXVydkMzUmt1bjVJaE1TR1RvZlYxWGNUNzZsTEpIa0FTaEsxWnFWTm5SM2VvamoyR3Mxc2NSWEE?oc=5",
-      "image": null,
-      "published_at": "2025-09-26T21:00:33.000Z",
-      "summary": "Photos show Hezbollah supporters honoring slain leaders Nasrallah and Safieddine despite PM's ban  CityNews Halifax"
-    },
-    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -80,6 +150,16 @@
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3806,w_4576/682199",
       "published_at": "2025-09-26T20:56:41.000Z",
       "summary": "How a Maine state senator helped bring a Torah scroll from rural Maine to Kibbutz Sde Eliyahu."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "China, Iran, Pakistan and Russia urge Taliban to fight terrorism - Amu TV",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1aUmJRYmJuZnJhVUhPTW5kY3BybmUxTlBGT0o0SXl3eHR6S1lPZGVqdjU0elR0aW9aNlE?oc=5",
+      "image": null,
+      "published_at": "2025-09-26T20:55:55.000Z",
+      "summary": "China, Iran, Pakistan and Russia urge Taliban to fight terrorism  Amu TV"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -235,11 +315,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Photos show Hezbollah supporters honoring slain leaders Nasrallah and Safieddine despite PM's ban - The Derrick",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOYktoWDFDTjZBT1N2Vnl2dXdDN3lKZVp6Qkc0dnpEVUhtajRvLVBSY01vZTY2MnRqVVBTQVFtWjJZc1VMdGFlcGxNQ2VERFYwNTZMX0g0YVJGNXYtakVtVDNwVjZta2Njcndvdkd6UlN2MzNMMUIwU1hjNmlNSGN0R09feS1tTmlsWUFCU0E3LUVrUTZEN1FmMm5hU2lUWVE3V3g5R0lrX1dwMkZBZkF2N09mR2FINHFhRE5ZZWlyVFI4UjVKRUYyOVphS1hQak05eTc1MC00R1IxSlU2N0hjdldnU2xaV2tGOWctMGhIWjNmenpmTVB5Nkt3a3BLdFRLb3NLQjNzS285SmxRdlhJ?oc=5",
+      "title": "Photos show Hezbollah supporters honoring slain leaders Nasrallah and Safieddine despite PM's ban - Goshen News",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZjJmZmlZbmZTTTktU0FFNjNBeHQ0TDNpWlItYVdKS1pYVHRzRElIRWdyckhCTDJVN1hESXlvZzlhTHIwb3ZQdkFubG54TFFXMVhSTHBCVEd0RlFYT1RfUEtJbU1HOWF1WVg4aTN3ekd5RG9lbGU4MVhLTGhqVXpOV3FSQVh3cWk4Ty1pcWRHTTJ1MEM3c3c5N3lrOHFzRnBadzFPSmZxV2lNRmdVTV93NDdXNWlRUTAwaExKQ3hnT05zX09XM0VvSkRzUHk5R3J3aWNfdEZYcUY2TXg0M085NnZTV01pYUFYNFlhQ3lMUF9ZS2JCSTg1YXpuZXpUS0I0aFhvUUwwSDl6WVBocGpzLV9POEwxRVhWb25fWg?oc=5",
       "image": null,
       "published_at": "2025-09-26T20:28:47.000Z",
-      "summary": "Photos show Hezbollah supporters honoring slain leaders Nasrallah and Safieddine despite PM's ban  The Derrick"
+      "summary": "Photos show Hezbollah supporters honoring slain leaders Nasrallah and Safieddine despite PM's ban  Goshen News"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -255,11 +335,21 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Photos show Hezbollah supporters honoring slain leaders Nasrallah and Safieddine despite PM's ban - Goshen News",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZjJmZmlZbmZTTTktU0FFNjNBeHQ0TDNpWlItYVdKS1pYVHRzRElIRWdyckhCTDJVN1hESXlvZzlhTHIwb3ZQdkFubG54TFFXMVhSTHBCVEd0RlFYT1RfUEtJbU1HOWF1WVg4aTN3ekd5RG9lbGU4MVhLTGhqVXpOV3FSQVh3cWk4Ty1pcWRHTTJ1MEM3c3c5N3lrOHFzRnBadzFPSmZxV2lNRmdVTV93NDdXNWlRUTAwaExKQ3hnT05zX09XM0VvSkRzUHk5R3J3aWNfdEZYcUY2TXg0M085NnZTV01pYUFYNFlhQ3lMUF9ZS2JCSTg1YXpuZXpUS0I0aFhvUUwwSDl6WVBocGpzLV9POEwxRVhWb25fWg?oc=5",
+      "title": "Photos show Hezbollah supporters honoring slain leaders Nasrallah and Safieddine despite PM's ban - Oskaloosa Herald",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQd2I1NkdxSVViNFNsMElobjNqMElnbnB5V0dlbFNCbUE5cFFsLVJYQ0tiX1RmREtITUtmOTk0TlNWTGZFV1h6RHFmUllKWEx6cFBTajVCZllaOUM5MVZtbDZlWUVRdkFRRlcxZTdVczNkWjA1NXQ5ZldvQzBIQVRMQm1OdlZUd2hCdGgtbEp6amZXS1htYlNzLVZYdUt3U1JYbUhrdE1nazdHMTNNZlZnNm5odUJxcFVWc2R1UHVCZHBnYy02REI4Wk5JVFpDaGFiNkVfdjZCNTVESjR1OUpTQTFwamRfc3E1bThNejN0Umw1dVlnNVhJOWVvejJzbEY5WUdLVS1HS2NfNXZhalMxbmFhYXh4d2kxbF9n?oc=5",
       "image": null,
       "published_at": "2025-09-26T20:28:47.000Z",
-      "summary": "Photos show Hezbollah supporters honoring slain leaders Nasrallah and Safieddine despite PM's ban  Goshen News"
+      "summary": "Photos show Hezbollah supporters honoring slain leaders Nasrallah and Safieddine despite PM's ban  Oskaloosa Herald"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Photos show Hezbollah supporters honoring slain leaders Nasrallah and Safieddine despite PM's ban - The Derrick",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOYktoWDFDTjZBT1N2Vnl2dXdDN3lKZVp6Qkc0dnpEVUhtajRvLVBSY01vZTY2MnRqVVBTQVFtWjJZc1VMdGFlcGxNQ2VERFYwNTZMX0g0YVJGNXYtakVtVDNwVjZta2Njcndvdkd6UlN2MzNMMUIwU1hjNmlNSGN0R09feS1tTmlsWUFCU0E3LUVrUTZEN1FmMm5hU2lUWVE3V3g5R0lrX1dwMkZBZkF2N09mR2FINHFhRE5ZZWlyVFI4UjVKRUYyOVphS1hQak05eTc1MC00R1IxSlU2N0hjdldnU2xaV2tGOWctMGhIWjNmenpmTVB5Nkt3a3BLdFRLb3NLQjNzS285SmxRdlhJ?oc=5",
+      "image": null,
+      "published_at": "2025-09-26T20:28:47.000Z",
+      "summary": "Photos show Hezbollah supporters honoring slain leaders Nasrallah and Safieddine despite PM's ban  The Derrick"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -362,16 +452,6 @@
       "summary": "פראס אבו בן ה-30 מכפר קרע נורה למוות כשהגיע לפנצ'רייה שבה עבד. ״היה טוב לב ועזר לכולם״, שיתפה אשתו בכאב, ״איבדנו את הפרח של המשפחה״. ראש העיר: \"עלינו להתאגד כחברה ולנקוט צעדים, אפילו לא לצאת לעבודה. הממשלה מתעלמת\""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "יוזמה רוסית-סינית נכשלה - והסנקציות הכבדות על איראן יחזרו ממחר | זו הרשימה",
-      "url": "https://www.ynet.co.il/news/article/rkceopv2gg",
-      "image": null,
-      "published_at": "2025-09-26T20:03:25.000Z",
-      "summary": "רק 4 מדינות תמכו בניסיון לדחות בחצי שנה את השבת הסנקציות על טהרן, ברוסיה הזהירו: \"זה עלול להוביל להסלמה במזרח התיכון\". צרפת, שיזמה את הפעלת מנגנון ה-snapback ביחד עם גרמניה ובריטניה: \"זה לא סוף הדיפלומטיה\""
-    },
-    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -380,16 +460,6 @@
       "image": "https://static01.nyt.com/images/2025/09/26/multimedia/26UNGA-Netanyahu-Leadall-mgpc/26UNGA-Netanyahu-Leadall-mgpc-mediumSquareAt3X.jpg",
       "published_at": "2025-09-26T20:01:58.000Z",
       "summary": "A Palestinian state would be “national suicide” for Israel, Prime Minister Benjamin Netanyahu said, but many of the diplomats and leaders at the assembly boycotted his remarks."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Elon Musk and Prince Andrew named in new Epstein files",
-      "url": "https://www.bbc.com/news/articles/cwyl8j1we0lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d43/live/cb0dcc30-9b0b-11f0-b741-177e3e2c2fc7.jpg",
-      "published_at": "2025-09-26T20:01:53.000Z",
-      "summary": "The documents by the estate of convicted paedophile financier Jeffrey Epstein were released by Congressional Democrats."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -472,16 +542,6 @@
       "summary": "הדחה מהאירוויזיון? זה קרוב משחשבנו. הרחקה מהכדורגל האירופי? ההכרעה בשבוע הבא, ויש רוב. הסרת השם והדגל מקבוצת האופניים הישראלית? הסיכוי גדל. טראמפ הודיע שלא יאפשר את סיפוח יו\"ש, אבל רכבת הבידוד יצאה מהתחנה. נתניהו לאירופים: \"מתי תלמדו?\". גורמים דיפלומטיים: \"חשב שהוא נשיא ארה\"ב\""
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Where Mideast Envoy Pitched Peace, His Son Pitched Investors - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxVHJCTUVweDVyd0E0WXRsWEpxZk84a2JLOUhrbmxWRHNNeGZNNlYzMFQ2N01xN1hlb2VpaUQ4NGJPSVVOUTF5Y1A5N0NYd2ZHNnV5QW1hMkFSSXhWVF9DSFZnSVZrSlhpYjZwd0dvdmR2Mm9JSEk2YXlrRQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-26T19:31:03.000Z",
-      "summary": "Where Mideast Envoy Pitched Peace, His Son Pitched Investors  The New York Times"
-    },
-    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -490,6 +550,16 @@
       "image": null,
       "published_at": "2025-09-26T19:31:03.000Z",
       "summary": "Steve Witkoff’s son recently sought money from Gulf states including Qatar, which has previously invested in Witkoff family projects to win favor with President Trump."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Where Mideast Envoy Pitched Peace, His Son Pitched Investors - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxVHJCTUVweDVyd0E0WXRsWEpxZk84a2JLOUhrbmxWRHNNeGZNNlYzMFQ2N01xN1hlb2VpaUQ4NGJPSVVOUTF5Y1A5N0NYd2ZHNnV5QW1hMkFSSXhWVF9DSFZnSVZrSlhpYjZwd0dvdmR2Mm9JSEk2YXlrRQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-26T19:31:03.000Z",
+      "summary": "Where Mideast Envoy Pitched Peace, His Son Pitched Investors  The New York Times"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
@@ -582,26 +652,6 @@
       "summary": "Shane Tamura killed four while targeting NFL offices in July"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "From Alaska to Sderot's frontlines of resilience",
-      "url": "https://www.jpost.com/health-and-wellness/article-868363",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2252,w_4000/682186",
-      "published_at": "2025-09-26T19:04:14.000Z",
-      "summary": "In Sderot, the threats are not predators but rockets, sirens, and the memory of sadistic terrorist invasions that shattered this town nearly two years ago."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Lebanese government vows to rein in Hezbollah after defiant Raouche Rock display - Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iZjA5aHpjdURUQXBOQ25Da3dFWVZ4TzA2eFozRkJjX3ZNVzhLWTNieVVfR3dYR2ZTaTNzdUgwUkdreTJCU1lKdkgtWWtsTGNMNjAxbk44TXVVTlZN?oc=5",
-      "image": null,
-      "published_at": "2025-09-26T19:03:16.000Z",
-      "summary": "Lebanese government vows to rein in Hezbollah after defiant Raouche Rock display  Arab News PK"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -630,16 +680,6 @@
       "image": null,
       "published_at": "2025-09-26T18:38:41.000Z",
       "summary": "While opposition leaders slam the prime minister for lacking a clear plan on Gaza and hostages, coalition allies praise his defense of Israel and rejection of a Palestinian state\nThe post Opposition slams &#8216;whining&#8217; Netanyahu’s UN speech as all &#8216;tired gimmicks,&#8217; no substance a"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"כל החטופים תמורת 100 עד 200 אסירי עולם\": פרטי יוזמת 21 הנקודות של טראמפ",
-      "url": "https://www.ynet.co.il/news/article/rjsew843ee",
-      "image": null,
-      "published_at": "2025-09-26T18:27:36.000Z",
-      "summary": "המלחמה תיפסק מיידית, אלפי אסירים ישוחררו, פעולת הקרן ההומניטרית לעזה תיפסק - וגם \"מדינת פלסטין תשתלט בעתיד על עזה ותתבצע קריאה לחידוש המו\"מ הישיר בין ישראל לפלסטין\": לפי דיווח סעודי אלו רק חלק מהסעיפים בתוכנית האמריקנית, שנתניהו לא התייחס לה בנאומו. גורם ישראלי: הכול שברירי\""
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -740,6 +780,26 @@
       "image": null,
       "published_at": "2025-09-26T17:45:29.000Z",
       "summary": "Database of 158 firms accused of enabling settlement activity now spans 11 countries, from construction suppliers to global travel platforms\nThe post UN blacklists another 68 firms over alleged role in Israeli settlement rights abuses appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "What to know about James Comey's indictment and what happens next",
+      "url": "https://www.bbc.com/news/articles/cj07ndrnr34o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f844/live/316dacc0-9afd-11f0-b741-177e3e2c2fc7.jpg",
+      "published_at": "2025-09-26T17:23:04.000Z",
+      "summary": "The news puts the ex-FBI boss back in the spotlight nearly a decade after the drama of the 2016 election."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Walk-out and loudspeakers near Gaza: See how Netanyahu's UN speech unfolded",
+      "url": "https://www.bbc.com/news/videos/cz9jvqnk004o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c75/live/bf2bb6e0-9afa-11f0-b741-177e3e2c2fc7.jpg",
+      "published_at": "2025-09-26T17:21:07.000Z",
+      "summary": "Dozens of officials and diplomats staged a walk-out as he took to the podium, leaving large parts of the hall empty.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1092,16 +1152,6 @@
       "summary": "משפחות התאספו מחוץ למטה האו״ם ומחו נגד נתניהו. ״נרדוף אותך בכל מקום\", קראה אילנה גריצווסקי. אביו של מתן אנגרסט: \"לא נעזוב עד שתעשה את הדבר הנכון\". משפחות החללים מחו על ההחלטה של ראש הממשלה להקריא רק את שמות החטופים החיים: \"ניסיון מגוחך לשכתב את ההיסטוריה\""
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "How the UNGA earned applause and ensured the Israeli-Palestinian conflict will continue",
-      "url": "https://www.jpost.com/israel-news/article-868590",
-      "image": null,
-      "published_at": "2025-09-26T13:58:08.000Z",
-      "summary": "NATIONAL AFFAIRS: France, Turkey, Jordan, and Qatar stripped this conflict of context, ignored Hamas’s role, and turned the UN into a stage for symbolism divorced from reality."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1452,16 +1502,6 @@
       "summary": "רגע לפני חידוש הסנקציות הבינלאומיות על הרפובליקה האיסלאמית, מוסקבה וטהרן מהדקות עוד יותר את הברית ביניהן: איראן הודיעה על עסקת ענק שבמסגרתה יבנה התאגיד הגרעיני הרוסי \"רוסאטום\" 4 כורים גרעיניים חדשים לצורכי הפקת חשמל, בדומה לכור בבושהר שרוסיה בנתה והחל לפעול כבר ב-2010"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Former FBI director James Comey indicted on two charges",
-      "url": "https://www.bbc.com/news/articles/cy50ggv35zpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48d1/live/58829c20-9ab8-11f0-92db-77261a15b9d2.jpg",
-      "published_at": "2025-09-26T09:28:37.000Z",
-      "summary": "James Comey says he is innocent and the charges are politically motivated, as they follow Trump pressure on prosecutors to act. "
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1540,16 +1580,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-82ea-d27b-affd-defa0cfd0000/2c/34/f976015c475c98ff4161ae8cfdf8/63181711.JPG?height=81",
       "published_at": "2025-09-26T07:34:18.000Z",
       "summary": "Dozens of settlers, some of them armed, raided the village of Deir Jarir, stealing sheep and beating their owners, including an 81-year-old shepherd. The police never investigated the incident, but ruled that the report was a 'serious and deliberate distortion of reality'"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Taiwan convicts ex-presidential aide of spying for China",
-      "url": "https://www.bbc.com/news/articles/cp8w0j16pyno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/430b/live/31269ed0-9a93-11f0-b531-6d0bfd30d322.jpg",
-      "published_at": "2025-09-26T06:42:39.000Z",
-      "summary": "A court said the espionage was carried out \"over a long period\"  and involved \"important intelligence\"."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2969,36 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856767",
       "image": null,
       "published_at": "2025-06-05T23:07:10.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Trump administration imposes sanctions on ICC judges, US Treasury says",
-      "url": "https://www.jpost.com/breaking-news/article-856765",
-      "image": null,
-      "published_at": "2025-06-05T22:56:38.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Trump suggests terminating Musk's US government contracts, subsidies",
-      "url": "https://www.jpost.com/breaking-news/article-856764",
-      "image": null,
-      "published_at": "2025-06-05T22:33:04.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Netanyahu admits to arming crime families and militias in Gaza to fight Hamas",
-      "url": "https://www.jpost.com/breaking-news/article-856742",
-      "image": null,
-      "published_at": "2025-06-05T19:42:12.000Z",
       "summary": ""
     }
   ]
