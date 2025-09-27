@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-09-27T06:40:48.508Z",
+  "generated_at": "2025-09-27T07:02:44.520Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israeli delegation visited Egypt after Washington told Cairo to soften stance - Arab report",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-868724",
+      "image": null,
+      "published_at": "2025-09-27T09:49:22.000Z",
+      "summary": "The sources claimed the delegation met with Egyptian officials hours after Cairo calmed down the political and media rhetoric against Jerusalem at the request of the United States."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -52,6 +62,86 @@
       "summary": "Shabbat Shuva is not merely a pause between two holy days. It is a bridge – between past and future, sin and forgiveness, exile and redemption."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "TV station owners reinstate Jimmy Kimmel show after ban",
+      "url": "https://www.bbc.com/news/articles/cy7pm1jz0dlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b157/live/0a72c3f0-9b14-11f0-a0ea-414bd016a286.jpg",
+      "published_at": "2025-09-27T07:00:38.000Z",
+      "summary": "Viewers in Washington, DC, St Louis and Seattle will be able to watch the late night comedian's show again."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah marks one year since Israel killed then-chief Nasrallah",
+      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/09/hezbollah-marks-one-year-israel-killed-then-chief-nasrallah_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
+      "image": null,
+      "published_at": "2025-09-27T07:00:37.000Z",
+      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npBEIRUT (Reuters) -Lebanese armed group Hezbollah on Saturday will commemorate one year since its then-chief Hassan Nasrallah was killed by Israel, th..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZWd5cHRp",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Trump administration’s proposed Gaza peace plan calls for all hostages to be released within 48 hours, source says",
+      "url": "https://www.egyptindependent.com/trump-administrations-proposed-gaza-peace-plan-calls-for-all-hostages-to-be-released-within-48-hours-source-says/",
+      "image": null,
+      "published_at": "2025-09-27T06:54:59.000Z",
+      "summary": "The Trump administration’s proposed 21-point Gaza peace plan calls for all of the hostages to be released within 48 hours of agreement in exchange for a phased withdrawal of Israeli troops from Gaza, according to a source familiar with the proposal that was shared with Arab leaders earlier this w..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "After Netanyahu, UAE FM meeting, top Emirati official says West Bank annexation 'file closed' - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOFlwLV9CVDg2ckxmeVhIOHl5VGV3bkxsaGE4U2xVWmhEX1VRYU9iX1lJOWM4TzNaU2NZWDczOTlrRFdTOU1ITS0xR21abjdwd1haTkczbG5XTEZRSzJmS1lvcWgtWFBMRWtPS2V3U2luOUt2XzhfS0FhUlBRRnN1THJ2aVRNQnlXNUEtaW9JTm13ck9Bd0lYQnJGbjQ0ODRZZjlZRmhpUVJRX0ctMm56M3VYTG1raVVJR3g2bFhwS0JlbnBmaS1QcjU3VFNPWnRG?oc=5",
+      "image": null,
+      "published_at": "2025-09-27T06:50:36.000Z",
+      "summary": "After Netanyahu, UAE FM meeting, top Emirati official says West Bank annexation 'file closed'  The Times of Israel"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah marks one year since Israel killed then-chief Nasrallah - Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42eS1WM3JzcUQ4SC1jN0lXRDVxSjVMUVJzdVl1RWJQblFGT0lnOGNUdUNSaXFFcnpldkUwVmNveWNGX1pIWjd2N3lSYzJfOWpTd1NvVWpaaXYzZ09kb1JqU2JVV21rbzBJekNoM3Z6TDdtSTdyeTdOc1EyelJrZw?oc=5",
+      "image": null,
+      "published_at": "2025-09-27T06:50:00.000Z",
+      "summary": "Hezbollah marks one year since Israel killed then-chief Nasrallah  Yahoo News Canada"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "BRICS FMs condemn Israel's Qatar attack, urge diplomatic resolution to MENA crises, push for stronger Global South unity at UNGA - The Sunday Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNaGFQZ3dwNUMyUUI2V29BVnBJd0NXS3k5a0RBaFN1ZzdSa2hCSVpmRUl4aXJaUHc5UllUT0t4WWotZGR5aVlSXzVhOHZYQnhYVDFHRTNkUEFUMGxKMVhEY0pQaUtMaGJWMG9NeU1ybm1ZZVZRMEM5QzBWRmhUejhfV2lJRnpiWWkwc2MyMXNTbGJ3ZlVMUlh5My1mc2hva005MlZSSHo0QUVVa2dUX2dtRzY1WW1Ua05LeHhaZkVMc0tmeDFPT19hWmwtQ1JXb0hmSzl2WGRlanJsaU9VMFl1dzNnaU1ITElsSFNIVElLWFprZE02Z1Q0Y3VLaDFYanBIYjNqN1JmbHZsbTJNRkhVYXdB?oc=5",
+      "image": null,
+      "published_at": "2025-09-27T06:44:02.000Z",
+      "summary": "BRICS FMs condemn Israel's Qatar attack, urge diplomatic resolution to MENA crises, push for stronger Global South unity at UNGA  The Sunday Guardian"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "With 4.2 million affected by Punjab floods, prime minister doubles compensation for affectees",
+      "url": "https://www.dawn.com/news/1944942/with-42-million-affected-by-punjab-floods-prime-minister-doubles-compensation-for-affectees",
+      "image": "https://i.dawn.com/large/2025/09/2707490362b65b8.webp",
+      "published_at": "2025-09-27T06:40:24.000Z",
+      "summary": "https://www.dawn.com/news/1944875"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "A journey into radical Islam: What makes a young man wake up one day and join a terror group?",
+      "url": "https://www.haaretz.com/middle-east-news/2025-09-27/ty-article-magazine/.highlight/a-journey-into-radical-islam-what-makes-a-young-man-join-a-terror-group/00000199-8907-d27b-affd-df9752600000",
+      "image": "https://img.haarets.co.il/bs/00000199-8913-d772-a59f-8f7721450004/83/6e/70cbec52479c9f79a0b956430f9f/017802.jpg?height=81",
+      "published_at": "2025-09-27T06:40:21.000Z",
+      "summary": "Interviews with scholars, refugees and prisoners in Germany reveal the crisis engulfing liberalism – and the questions Europe is afraid to ask"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -75,21 +165,21 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "PM doubles compensation for families of flood victims as 4.2m people affected in Punjab",
-      "url": "https://www.dawn.com/news/1944942/pm-doubles-compensation-for-families-of-flood-victims-as-42m-people-affected-in-punjab",
-      "image": "https://i.dawn.com/large/2025/09/2707490362b65b8.webp",
-      "published_at": "2025-09-27T06:34:06.000Z",
-      "summary": "https://www.dawn.com/news/1944875"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
       "title": "Gunship helicopters pound terrorist hideouts in Lower Dir’s Maidan",
       "url": "https://www.dawn.com/news/1944821/gunship-helicopters-pound-terrorist-hideouts-in-lower-dirs-maidan",
       "image": "https://i.dawn.com/large/2025/09/27112952462fa9c.webp",
       "published_at": "2025-09-27T06:32:05.000Z",
       "summary": "LOWER DIR/LAKKI MARWAT: Security forces on Friday pounded terrorist hideouts with the help of gunship helicopters in different parts of Maidan area in Lower Dir district.\nAlso, two terrorists were killed in a fierce clash with police in Bannu district.\nResidents of Maidan told Dawn that three gun..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "HIGH SCHOOL FOOTBALL: Lebanon Air Show earns rave reviews again behind Reece and Baker in win over Richlands - The Bristol Herald Courier",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN3RGZk5zUmlwTzFwOE1WNzBna09QbG9nVG9fb1BTWFNjMktPQ0lRWHZWLTczQnE1YjFZVVMxRjR4aVByM3FFVjl0NVVsTXRmbFhnUlBmWUNLNFkxa005WXJvY25tX1pPQmFoaVBDRzlXeGtXV3IwVVdPeFBRVHZPajBBSHpzSmtrbUE?oc=5",
+      "image": null,
+      "published_at": "2025-09-27T06:30:00.000Z",
+      "summary": "HIGH SCHOOL FOOTBALL: Lebanon Air Show earns rave reviews again behind Reece and Baker in win over Richlands  The Bristol Herald Courier"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -210,16 +300,6 @@
       "image": null,
       "published_at": "2025-09-27T06:00:00.000Z",
       "summary": "השאלה אינה אם יהיו בחירות - יהיו בחירות. גם ברוסיה יש בחירות. השאלה היא אם הן תהיינה חופשיות והוגנות, ואם לא יהיו ניסיונות להטות אותן ולדכא הצבעה אצל אוכלוסיות מסוימות"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE regulator bars HDFC Bank's Dubai branch from onboarding new clients - AP7AM",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTUpMR1lFdlJneDFGczNScGg4Z3c0dGx3bVlCY0xoeW54eFFIY0FHRi1xWHpjUzIxRVBia0pLdW1xSE5oV3djWElZS21JZlFnWkw2aU9SOEhOaDBteDNKNDhoZEltMUFlY0NZcXp0S0VaMnUxZjhJNmo0MzJQaHVMXzc3VWhmUVJNWFloUUZxRmdUT1F3S1lQYk5XanVlVUF2bXdtYtIBqgFBVV95cUxQV1oyWkpsWFVTOGFnU1JzYVBPOF9oRkdOei1VTW1iY2t3TFRjMERKZTEzNHU4ZUxlaUFyeFU4RzAyanFwaTU2al9pU0NlWmtMcGR4NElnR2M3OEc3Ymx1Z2tCQ25sNW15Nk1vQmV6dEN6bno0OGZPLTRmZ1JQX1VPTFJIX0xkejlzYjZYQWVSTTY4czBKekJDbWxYQU85RzlhSEhtZnFtOXRNUQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-27T05:58:50.000Z",
-      "summary": "UAE regulator bars HDFC Bank's Dubai branch from onboarding new clients  AP7AM"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -482,46 +562,6 @@
       "summary": "LAHORE: A medium to low-level flood in the Sutlej River continues to wreak havoc across districts of Multan, Bahawalpur, and Lodhran, forcing thousands of their residents to remain displaced, many of them living in relief camps established along embankments for the past 16 days.\nThe floodwater ha..."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Зеленский: венгерские дроны-разведчики нарушили воздушное пространство Украины. МИД Венгрии ответил",
-      "url": "https://centralasia.media/news:2337384?from=rss",
-      "image": null,
-      "published_at": "2025-09-27T05:15:02.000Z",
-      "summary": "На территорию Украины со стороны границы с Венгрией залетели разведывательные беспилотники. Вероятно, они были венгерскими, заявил президент Украины Владимир Зеленский."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Punjab Police extradites BKI terrorist Parminder Singh ‘Pindi’ from UAE — Who is he? - Mint",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY1hQZmxBMmRRa0d0MHJKb244dXJ6akgxOW9fVjdwc2taV2ZKZkV0LW9DNGpfdVR2V1A2QTRmUERRTzJHa05YemhSUklmMWtIT09jSm5lLThobFlQS2dDeGhTT0R0ZUZ4QUpscE5ZMWliWUtGd19vNmM4NjZaLXZHVGdMQlhnaW5scERiMmw3MVJFc2JLSGExaDZUU0Rnbkg0YmR6R1FVblpWQUhZUDg2amM5VHNlR2dad3VhQm1wZVJpVnhKTEtwUHdrZldsQkJh0gHWAUFVX3lxTE1GanBDVmJRYnIzV0hWUTBtU1ZpLUFBYThfZDVjc2hRNUY1T2hRYng2WE5zcTVkSWJHMUhwZkJFaUs1QnJDeFA0Sk5LeDNvdjJlVTFFdmM4aUVWU1l2dTV3ZHp0YjdnMThUQXBnYXZyLVhzbUxLSkh2dHBEZDNOeTI1enlHczVFQkRyOGduZ25KS255dFVRc1llUzFGTnFIbDZPYW1iQzVPajhDS1hTZWI2ZzZfS2RubGR1bWc2d3d3WVlyWGdiVVZiRG55WFRZZEVZQUhQMnc?oc=5",
-      "image": null,
-      "published_at": "2025-09-27T05:14:58.000Z",
-      "summary": "Punjab Police extradites BKI terrorist Parminder Singh ‘Pindi’ from UAE — Who is he?  Mint"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "USA & Canada to host 2027 FIVB Women’s World Championship, Qatar lands 2029 Men’s edition - OneSports.PH",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHZPMjZKd0dJU0RPYmpMdkdvX0R5MVEwbGdBZXZ6Q2RDVDltNGl0YVp5QXFuNjgyRFNnSktlSDV3VEpxWS1xdlU1dC1ZaGZLWUFfdjFFMFAxclJER3VEQTUyY0ltRE1fUktIU1RMM0Y1UGl3bHEzX3N3b0xYYUhQUE5oQ3VIdVRvbDlnczA0eUs2VmVTRmd1ZUthaWowbnk4bEhUNWJsQlRGWk1NNWNCMmMyZEFtVGh2Y1BLMGp3Z2NNdUE?oc=5",
-      "image": null,
-      "published_at": "2025-09-27T05:14:21.000Z",
-      "summary": "USA & Canada to host 2027 FIVB Women’s World Championship, Qatar lands 2029 Men’s edition  OneSports.PH"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Holocaust survivor Rita Zohar brings lived history to Scarlett Johansson’s directorial debut film",
-      "url": "https://www.jpost.com/j-spot/article-868717",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3272,w_4908/682687",
-      "published_at": "2025-09-27T05:10:07.000Z",
-      "summary": "“Eleanor the Great,” Johansson’s directorial debut, stars 95-year-old Jewish actress June Squibb as she seeks connection in New York City following the death of her best friend Bessie."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -530,26 +570,6 @@
       "image": null,
       "published_at": "2025-09-27T05:09:58.000Z",
       "summary": "רה\"מ הגיע לקבלת שבת בקונסוליה הישראלית בניו יורק, והתבדח על כך שיש מי שטוען שרעייתו עומדת מאחורי קבלת ההחלטות. \"היא מחליטה הכול\", אמר בצחוק, וציין כי המבקרים יגידו: \"הנה הוא אמר זאת. נתניהו בפליטת פה\". בהמשך אמר שהמלחמה \"לקראת הסוף\". וגם: על מה לדברי שרה \"אין שום הסברה\"?"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE research breakthrough paves way for first astronaut with diabetes - The Filipino Times",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPODE2RWlIQTJjRHRVemlmbnpFREw4dHY4SkxOVFJCNlZ1X2xkdWI4UkZkM240UjczM3htMVN2NkdYdWF4Y1FLbnh6aUhhSkNvUmVhc0dZcFhpMlJHX0oxV09TNTlkSEhBakM2V0g1OTRqenpqTGt4X1I4cnpTVmx3VElVZ0xDV2J4cXJjc0FQQ0dfLS11SEQ0bE1NTWJhUzRVeEVYeEVLMFhZMzJab2tJODZYLXZDSkh6NjVz?oc=5",
-      "image": null,
-      "published_at": "2025-09-27T05:05:49.000Z",
-      "summary": "UAE research breakthrough paves way for first astronaut with diabetes  The Filipino Times"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Two men confess to boy’s rape, murder in Karachi",
-      "url": "https://www.dawn.com/news/1944882/two-men-confess-to-boys-rape-murder-in-karachi",
-      "image": "https://i.dawn.com/large/2025/09/27100524debb273.webp",
-      "published_at": "2025-09-27T05:05:02.000Z",
-      "summary": "KARACHI: Two men confessed before magistrates on Friday to raping a seven-year-old boy and murdering him by strangling him with a shoelace and striking him in the head with a brick.\nThe investigating officer (IO) produced both suspects before the judicial magistrate (East) and moved an applicatio..."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -570,6 +590,16 @@
       "image": null,
       "published_at": "2025-09-27T04:32:38.000Z",
       "summary": "Pressure is growing on football&#039;s governing bodies to take action against Israel&#039;s national team over the war on Gaza."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US revokes Colombian president's visa during UN visit",
+      "url": "https://www.bbc.com/news/articles/cz9jv8kne7no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5875/live/f9f37d30-9b6d-11f0-928c-71dbb8619e94.jpg",
+      "published_at": "2025-09-27T04:15:25.000Z",
+      "summary": "Gustavo Petro could be heard asking US soldiers to \"disobey Trump's orders\" while addressing a crowd on New York streets."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -850,16 +880,6 @@
       "image": null,
       "published_at": "2025-09-26T22:19:07.000Z",
       "summary": "Israel’s Benjamin Netanyahu brought props and angry accusations to the UN General Assembly."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Sinclair and Nexstar to reinstate Kimmel on ABC stations",
-      "url": "https://www.bbc.com/news/articles/cy7pm1jz0dlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b157/live/0a72c3f0-9b14-11f0-a0ea-414bd016a286.jpg",
-      "published_at": "2025-09-26T21:54:51.000Z",
-      "summary": "Viewers in Washington, DC, St Louis and Seattle will be able to watch the late night comedian's show again."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1665,16 +1685,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Mass arrests for sextortion and romance scams in sting operation across Africa",
-      "url": "https://www.bbc.com/news/articles/c0r04vjvkljo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19a/live/53de8920-9ab0-11f0-9b52-61c8d160a22f.jpg",
-      "published_at": "2025-09-26T10:02:52.000Z",
-      "summary": "Some 260 suspects were arrested in the operation across 14 African countries, says Interpol. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Is the US-China TikTok deal done? Here's what you need to know",
       "url": "https://www.bbc.com/news/videos/cg5ege645reo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a0c/live/dcbf1430-9aba-11f0-92db-77261a15b9d2.jpg",
@@ -2002,16 +2012,6 @@
       "summary": "It's doubtful an Israeli minister has ever gone on a trip quite like this"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "'I think we are close to a deal': Trump, Netanyahu to discuss plan to end Gaza war",
-      "url": "https://www.jpost.com/israel-news/article-868616",
-      "image": null,
-      "published_at": "2025-09-25T21:15:43.000Z",
-      "summary": "The president’s plan contains 21 points addressing an end to the war in Gaza, and calls for an Israeli withdrawal from the Gaza Strip and the release of all hostages."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2280,16 +2280,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-80e6-d04a-adfd-bde6506c0000/d2/31/825588df4342ac5e207d042b29d4/932456.jpg?height=81",
       "published_at": "2025-09-25T13:24:09.000Z",
       "summary": "While visiting Israel under Iranian orders, U.S.-Israeli citizen Yaakov Perl, 49, allegedly spied on Israeli officials including National Security Minister Itamar Ben-Gvir and the former IDF chief of staff, authorities said. An Iranian official contacted Perl after he published a post on Hezbollah"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Former French president Sarkozy given five-year sentence after Libya case",
-      "url": "https://www.bbc.com/news/articles/cp98kepmj9lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c67/live/101714b0-9a73-11f0-97f5-bd38218a3641.jpg",
-      "published_at": "2025-09-25T13:09:54.000Z",
-      "summary": "Nicolas Sarkozy, president from 2007-12, was found guilty of criminal conspiracy but cleared of other charges."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2772,16 +2762,6 @@
       "summary": "Historian Dr. Omer Einav says the pact between Israel's founders and the state was broken by Netanyahu's government since Oct. 7, with its ongoing refusal to bring the hostages held by Hamas home"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "New study in Turkey changes paradigm of how early humans reached Europe",
-      "url": "https://www.haaretz.com/archaeology/2025-09-23/ty-article/new-study-changes-paradigm-of-how-early-humans-reached-europe/00000199-7166-df8f-afbd-f56f5a630000",
-      "image": "https://img.haarets.co.il/bs/00000199-716c-d04a-adfd-7d6c72d70001/5e/77/93eb577b4265b5a6618b632e7f07/unnamed.png?height=81",
-      "published_at": "2025-09-23T08:25:36.000Z",
-      "summary": "When the ice was high and sea levels were low, hominins could have walked from Turkey to Greece – over land now deep under the Aegean Sea"
-    },
-    {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
       "topic": "OSINT",
@@ -2999,6 +2979,26 @@
       "url": "https://www.jpost.com/breaking-news/article-856834",
       "image": null,
       "published_at": "2025-06-07T01:30:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "Musk says US needs new political party",
+      "url": "https://www.jpost.com/breaking-news/article-856833",
+      "image": null,
+      "published_at": "2025-06-07T01:27:25.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "Trump signs orders to bolster US drone defenses, boost supersonic flight",
+      "url": "https://www.jpost.com/breaking-news/article-856831",
+      "image": null,
+      "published_at": "2025-06-07T01:04:16.000Z",
       "summary": ""
     }
   ]
