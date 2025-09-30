@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-09-30T23:07:59.868Z",
+  "generated_at": "2025-09-30T23:31:26.068Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Will Hamas accept the US-Israel plan to end the Gaza war? Not right away, at least",
+      "url": "https://www.jpost.com/israel-news/article-869158",
+      "image": null,
+      "published_at": "2025-10-01T02:20:58.000Z",
+      "summary": "Hostage families and Arab nations are holding their breath to see whether Hamas will sign on."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -82,6 +92,56 @@
       "summary": "Dermer will leave his post but will \"remain around,\" Netanyahu reportedly told his advisers."
     },
     {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "NYC pilot program offers Jewish day school subsidies &#8212; and hope for overextended parents",
+      "url": "https://www.timesofisrael.com/nyc-pilot-program-offers-jewish-day-school-subsidies-and-hope-for-overextended-parents/",
+      "image": null,
+      "published_at": "2025-09-30T23:26:08.000Z",
+      "summary": "With a 3-year, $15 million fund, New York's UJA-Federation seeks to address the longstanding issue of prohibitively expensive Jewish schooling amid surging post-Oct. 7 demand\nThe post NYC pilot program offers Jewish day school subsidies &#8212; and hope for overextended parents appeared first on The"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Houthis claim missile attack on Dutch ship in Gulf of Aden",
+      "url": "https://www.israelnationalnews.com/news/415656",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1144980.jpg",
+      "published_at": "2025-09-30T23:23:28.000Z",
+      "summary": "Iranian-backed Houthis in Yemen claim missile strike on Dutch cargo ship Minervagracht in Gulf of Aden, which injured two crew members."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בת שבע יהלומי חיבקה את הטנקיסטים שהצילו את חייה ב-7/10: \"בלעדיהם לא הייתי כאן\"",
+      "url": "https://www.ynet.co.il/news/article/yokra14534194",
+      "image": null,
+      "published_at": "2025-09-30T23:23:06.000Z",
+      "summary": "ארבעת הגיבורים בטנק לא ידעו שישנם אזרחים חטופים כשייצאו לעצור את המחבלים, וכשהבחינו בבת שבע יהלומי רצה לעברם - כמעט דרסו אותה. בעלה אוהד נרצח בשבי, ובנה איתן חזר אחרי 52 ימים, אבל בזכות החיילים ניצלו בת שבע ובנותיה. השבוע, בפעם הראשונה מאז 7 באוקטובר, הם נפגשו לסגור מעגל"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Logistics traffic expected to grow as free trade with UAE rolls out - fullyloaded.com.au",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ3hfdjd2Smd1dGtXVVBERmpWVGVYcU9IMlE4amUtLTZrcW10SlBya0VtZWZPUjNXMXFWRjF5VlRzQzdPSkpkUGYxeEpkTmJoTUgzWXdfOFUxMHp4UzhCM0hxZDJnLXVCa3NSbmxSY1BPWUZWVWF4S0J5bEp5SmotM3RnWlJORDJmVkRpcE5fVHZlMUtOVnRVYkZfR044cHVS?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T23:17:50.000Z",
+      "summary": "Logistics traffic expected to grow as free trade with UAE rolls out  fullyloaded.com.au"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Police Logs: Sept. 17-28, 2025 - Lebanon Local",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56THMxQ0dZdWZmUWpnd0ZJeXk3d0pRSkl1ZWtFcWh0YkFuNWN5YzFKSEZ4Rmc0eXFGcmtGcU53T2k3TFdZRUI5eFJKNUlNLWhKVHlZc3g4V2NGenBSZ2lzY0FXS0x4bFA4V0t1VG13?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T23:05:20.000Z",
+      "summary": "Police Logs: Sept. 17-28, 2025  Lebanon Local"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -158,8 +218,28 @@
       "title": "Trump gives Hamas peace deal deadline - as key allies including Qatar urge it to accept - Sky News",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUHdBMzR3Y182WWQ2SWlGTTZRcEp0QndGVGdBVDF5c2hhNU1yYVdqUUZmZEdraTF5bmVRUE4xck5DOC1wNHNwTHNOTGJyRGRQX3NlVjlWWHFfU0ZnVE4tcmkwekNraUZOT3lNY2dPVE92V0tQOV9LZV9zc0QyTXM3WFhsOVpFWGhLRzYtdC1TRVdKNDlzLW5taHNHQ1ZBVFVmNHVsRHJDUFFwMnR0UUNsblVWZDcwNFY4Y09LX0tR?oc=5",
       "image": null,
-      "published_at": "2025-09-30T22:31:35.000Z",
+      "published_at": "2025-09-30T22:30:11.000Z",
       "summary": "Trump gives Hamas peace deal deadline - as key allies including Qatar urge it to accept  Sky News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Netanyahu apologises to Qatar, promises no new strike - New Age BD",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnZoTjFscnA0bVBEUmhoWHQ2SGhaMTN4akpxRWI2Uk1KWTVIUk82eURMWUZwQkh1SHVsaGtwSmxaV0M1T09YQnNlcTNhdy1Fek5FTkI1OU5nMmIwOUlEMjRoS3NVMHg1Ti1pX2RLaEhCbUNLVWlnVTVqZEloUGVtSUlIeG45UWdHamJzMVlGYkFZZkRYOTZlNkI1bGVHMF80NEtR?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T22:29:41.000Z",
+      "summary": "Netanyahu apologises to Qatar, promises no new strike  New Age BD"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UN warns Taliban internet blackout is choking Afghanistan, risking lives - Amu TV",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9hNzNGRGFDdDlpQ0cxSDVMZlkyMFNDcHNPNHZiUFVVV2lDak5WRW1TMmRCSGJWbmlQQ1E?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T22:21:59.000Z",
+      "summary": "UN warns Taliban internet blackout is choking Afghanistan, risking lives  Amu TV"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -240,16 +320,6 @@
       "image": "https://www.israelnationalnews.com/files/pictures/0/1196517.jpg",
       "published_at": "2025-09-30T22:09:31.000Z",
       "summary": "Minister Ben Gvir blasts Trump’s plan at a Cabinet meeting, calling it a threat to Israel’s security and a betrayal of Gaza."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Lebanon County house fire claims fifth victim - WGAL",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNUlfTUxpS1JLcUc4M0NIU2pFUWZRb0xKN2NLcktMU0tPMGEyNERpaVpJeDI5em1QVFl5UUpYNnh2NXZMbUVBV3pyRWVUcFdLSno0b1JIT29SRGdkcHEzcFJ0M2hVZUs2d1l1aVNFSE5oaDJod0NoSE9ldVZ1NTJTY2RGbHdUb1hjcXc?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T22:08:00.000Z",
-      "summary": "Lebanon County house fire claims fifth victim  WGAL"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -370,16 +440,6 @@
       "image": null,
       "published_at": "2025-09-30T21:35:00.000Z",
       "summary": "Lebanon man charged with possessing child porn, raping two children  fox43.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israeli troops kill 31 Palestinians in Gaza as Qatar says discussion needed on Trump peace plan - Toronto Star",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPX1pSZ1pXZ0NCek9aa1lSY1NSRFR5YXl4ZFRFZlZLNDlPRFJfSVlNV2dYTElVRUx2SURRSTJERk1nZjV6Q0FiYjdaOHRxMFdZeFRWRjI3S1A5MnFuUzV2ekdFbEtQWHkzVXBQRDlsVUhUM1RfT19Yanh3dXRkZ3dWb0lkZVo4TDRTb2pnQVM2ek1vRGtWcGs3QXdpcGkxUXVQSXJmck43U09QWHpvLVRieW56R3Q5ejY3V0hUYjM4UGNYdGpJTjNKa2NKTl9UU3Zad1dpRDE1Uy0xbzRydFVZSmh1TGU5RUtqcmFIeUFJY25saXMxTFNkaUhnNHRvSmZpMV9tNThwYWRpQXV6R3VyaFZjTlB6QQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T21:33:45.000Z",
-      "summary": "Israeli troops kill 31 Palestinians in Gaza as Qatar says discussion needed on Trump peace plan  Toronto Star"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -640,36 +700,6 @@
       "image": "https://www.israelnationalnews.com/files/pictures/0/1199569.jpg",
       "published_at": "2025-09-30T20:57:00.000Z",
       "summary": "Tens of thousands of worshippers take part in the central Selichot event at the Western Wall on the eve of Yom Kippur."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Lebanon City officials report fifth victim who died after Church St. house fire - Lebanon Daily News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU3BHLTJrWkd4dEt4elhxOXpEbjlWRHNDWEhwYzhFYTBIRVVyQkJ5REpuSmZtc0o2c1dsN3ZHeHFITXlub01MZnRjcDlqOXJ3aXl2dURkRTBIQXFLLWkzVWFsWlU4ZGQ5eWI5LVdtM0NFUXdJS1hnWmszbnZ2N0Q4b3FtcXNmZkhxeWFKODY4RUxYOHFsdXM0RGUwaEt1QWEwVEMxWk5XTUxnWWFlN01pYXlUMGUyS3BjR3llVEJDczBvV3JqMUdPaVpTQkJVZw?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T20:56:24.000Z",
-      "summary": "Lebanon City officials report fifth victim who died after Church St. house fire  Lebanon Daily News"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "AgraME 2025 to Showcase Agricultural Innovation Under UAE MOCCAE Patronage - iGrow News",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pNENIdFlWOERhcG0zQkdQdlhuNFIyX3FBVG01QUgtbmpTR0VWcGstVUxCR2txTmwzT21kRS1YQVY4UlFrZVVpSDcxeGk2MDZjRlRj?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T20:55:20.000Z",
-      "summary": "AgraME 2025 to Showcase Agricultural Innovation Under UAE MOCCAE Patronage  iGrow News"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Volleyball Recap: Lebanon Find Success - MaxPreps.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmdUYXRYSlR2c1VvVjdUVDRrbk5OOTkySm8zOEdCbElnZ0RtckdXcVVJal8xRWlZeGUySEZrYnhkdHB6VUdnLTFrdjV5Q2thNGRmUHFDMm5JUWFDTmZ6RGR1dVZVVkNFOHZmUnVDWThwMW9uNWRIckVPdW5OcmZLQ2xSTU1HdHdUcnpRM1Y2N2g4eXgtaWlrdWJB?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T20:54:05.000Z",
-      "summary": "Volleyball Recap: Lebanon Find Success  MaxPreps.com"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1502,16 +1532,6 @@
       "summary": "בקרב גורמים בימין עלו ביממה האחרונה חששות כבדים מתוכנית טראמפ לעזה, ששונה בתכלית מרצונם, ושרים בכירים כבר אותתו על כוונה לפרוש מהממשלה אם ההסכם יתקדם. מלבד שחרור החטופים, יתר סעיפי ההסכם טומנים בחובם לא מעט סימני שאלה, במיוחד בנוגע לחופש הפעולה של ישראל מול הטרור ברצועה"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הגסת' בכינוס הקצינים המסתורי: \"תם עידן ה-woke בצבא. לא מתאים לכם? תתפטרו\"",
-      "url": "https://www.ynet.co.il/news/article/hyqmxdk3le",
-      "image": null,
-      "published_at": "2025-09-30T14:36:31.000Z",
-      "summary": "בארה\"ב החל האירוע החריג שאליו זימן שר ההגנה מאות גנרלים ואדמירלים מרחבי העולם בלי הסבר ובהתראה קצרה. בצל ספקולציות על היערכות ביטחונית מיוחדת וטענות נגד הגסת' לסיכון הכוחות בשטח ניצל השר את נאומו כדי להסביר מדוע הדיח מפקדים (\"היו חלק מתרבות קלוקלת\") ולהכריז על סוף לתקינות הפוליטית: \"לא ייתכן שיש כאן"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -1550,16 +1570,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-9aec-d0f3-a599-deef0fcb0004/64/81/1967b6dc4a52902693125d82e4c4/bjork.jfif?height=81",
       "published_at": "2025-09-30T14:14:41.000Z",
       "summary": "Hundreds of artists and labels have joined a campaign to block their music in Israel, but rights disputes, corporate control and the realities of streaming mean the boycott is partial, uneven and more symbolic than absolute"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Nearing Gaza, &#8216;peace&#8217; flotilla rocks Italy, throwing government into political storm",
-      "url": "https://www.timesofisrael.com/nearing-gaza-peace-flotilla-rocks-italy-throwing-government-into-political-storm/",
-      "image": null,
-      "published_at": "2025-09-30T14:11:54.000Z",
-      "summary": "Rome reels from the fallout of the Middle East conflict, with Prime Minister Giorgia Meloni attempting to steer a course between domestic pressure and international concerns\nThe post Nearing Gaza, &#8216;peace&#8217; flotilla rocks Italy, throwing government into political storm appeared first on Th"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1980,16 +1990,6 @@
       "image": null,
       "published_at": "2025-09-30T03:38:57.000Z",
       "summary": "“Iran took a heavy blow from the IDF,\" the official added. \"It knows very well the scope of the damage it suffered. It understands the meaning of the damage and Israel’s capabilities.”"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF, Shin Bet kill Hamas deputy commander who participated in hostage release parades",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-869027",
-      "image": null,
-      "published_at": "2025-09-30T03:36:04.000Z",
-      "summary": "He also carried out numerous attacks on IDF soldiers operating in Gaza, including sniper and anti-tank fire. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
