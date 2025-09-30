@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-09-30T20:36:57.885Z",
+  "generated_at": "2025-09-30T21:07:42.552Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Starting the Jewish New Year with freedom: Woman granted divorce after 23-year fight",
+      "url": "https://www.jpost.com/israel-news/article-869153",
+      "image": null,
+      "published_at": "2025-09-30T23:42:57.000Z",
+      "summary": "The ex-husband attempted to extort T., demanding large sums of money in exchange for a get."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,16 @@
       "image": null,
       "published_at": "2025-09-30T23:31:14.000Z",
       "summary": "Dermer will leave his post but will \"remain around,\" Netanyahu reportedly told his advisers."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Pope Leo says he hopes Hamas will accept Trump's peace plan",
+      "url": "https://www.jpost.com/middle-east/article-869151",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3668,w_5500/683279",
+      "published_at": "2025-09-30T22:50:59.000Z",
+      "summary": "Pope Leo praised Trump’s Gaza plan, urging Hamas to endorse it, while warning against violence as a Gaza aid flotilla nears Israel."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -57,7 +77,7 @@
       "topic": "News",
       "title": "Trump’s Gaza peace plan constitutes a victory for Hamas in the war - opinion",
       "url": "https://www.jpost.com/opinion/article-869147",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/652377",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1671,w_2507/652377",
       "published_at": "2025-09-30T22:06:00.000Z",
       "summary": "Trump’s Gaza plan may leave Hamas in power, limit Israel’s security control, and risk renewed conflict."
     },
@@ -102,6 +122,86 @@
       "summary": "Lebanon’s army has started addressing Hezbollah violations a month after Beirut pledged to disarm the group, with Israel and the US closely monitoring progress."
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "No amount of Yom Kippur atonement can redeem Benjamin Netanyahu",
+      "url": "https://www.haaretz.com/opinion/2025-10-01/ty-article-opinion/.premium/no-amount-of-yom-kippur-atonement-can-redeem-benjamin-netanyahu/00000199-9b63-dc12-a5df-9b6b52ea0000",
+      "image": "https://img.haarets.co.il/bs/00000199-9b75-d0f3-a599-dff756c80000/72/f0/a3ae76694a1cae522383d218fa02/274855-2.jpg?height=81",
+      "published_at": "2025-09-30T21:01:32.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "המילואים האינסופיים של לוחמי מלחמת יום כיפור שמתנדבים בצה\"ל גם היום",
+      "url": "https://www.ynet.co.il/news/article/yokra14526071",
+      "image": null,
+      "published_at": "2025-09-30T21:00:00.000Z",
+      "summary": "אם הייתם מבקשים מתא\"ל משה פלד, רס\"ן חיים שלוש, סא\"ל שלמה נחמה ואל\"מ נעם בן צבי, שחצו מזמן את גיל 70, לתאר את החיים שלהם - הם היו ודאי מסכמים אותם כשירות מילואים אחד ארוך. מקרבות בחזית הדרום במלחמת יום הכיפורים ועד לגיוס בימים אלה למלחמת חרבות ברזל. עכשיו הם מספרים על ההפתעה הקשה לפני 52 שנה, על התחו"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"ישראלים תמיד יזנקו להגן על המדינה שלהם\": לוחמי חטיבת הראל של אז והיום במפגש",
+      "url": "https://www.ynet.co.il/news/article/yokra14503910",
+      "image": null,
+      "published_at": "2025-09-30T21:00:00.000Z",
+      "summary": "ב–1948 פרצה החטיבה המיתולוגית את הדרך לירושלים, ב–1973 לחמה בסיני וב–2023 הוזעקה להגן על יישובי עוטף עזה • לקראת יום השנה למלחמת יום כיפור ולמלחמת חרבות ברזל, הפגשנו את הלוחמים שעשו היסטוריה והעמידו את הטנקים בקילומטר ה–101 במצרים, עם לוחמי ההווה שרושמים את ההיסטוריה בימים אלו ממש, לשיחה על המוטיבצי"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"לפעמים אתה שומע את האמירה הכי אנטישמית בעולם ואתה חייב להישאר הכי קר\": דוברי צה\"ל בשפות הזרות",
+      "url": "https://www.ynet.co.il/news/article/r1zc600fhex",
+      "image": null,
+      "published_at": "2025-09-30T21:00:00.000Z",
+      "summary": "בזמן שחיילינו לוחמים בשטח, הם סופגים את האש בחזית ההסברה הבינלאומית. תכירו את דוברי צה\"ל מול התקשורת הזרה: רס\"ן (במיל') רוני קפלן, רס\"ן (במיל') רפי רוזנשיין, רס\"ן (במיל') אנה אוקולוב ואל\"מ (במיל') אוליבייה רפוביץ'. בשבילנו הם אלמונים, אבל עבור מיליוני דוברי רוסית, צרפתית, פורטוגזית וספרדית הם דמויות"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Watch live: Central Selichot service at the Western Wall",
+      "url": "https://www.israelnationalnews.com/news/415652",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1199569.jpg",
+      "published_at": "2025-09-30T20:57:34.000Z",
+      "summary": "Tens of thousands of worshippers take part in the central Selichot event at the Western Wall on the eve of Yom Kippur."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Volleyball Recap: Lebanon Find Success - MaxPreps.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmdUYXRYSlR2c1VvVjdUVDRrbk5OOTkySm8zOEdCbElnZ0RtckdXcVVJal8xRWlZeGUySEZrYnhkdHB6VUdnLTFrdjV5Q2thNGRmUHFDMm5JUWFDTmZ6RGR1dVZVVkNFOHZmUnVDWThwMW9uNWRIckVPdW5OcmZLQ2xSTU1HdHdUcnpRM1Y2N2g4eXgtaWlrdWJB?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T20:54:05.000Z",
+      "summary": "Volleyball Recap: Lebanon Find Success  MaxPreps.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Qatar hands Trump initiative to Hamas - Shafaq News - شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vTmp3QS1GOWpvV21TRUg4VzN0ZkxjTXAwRkh0QWliS1FsMTdhVm01cFlyQjVaZkI3bEppNHBNRE9CdG5rUlN2aXl6bHFJaG8tYVN6Mm1ZX29pNzNzRkUzNWM5b3NLSnlvV1huSGhHamlOd3I4cDdhSU8xTdIBgAFBVV95cUxNdFdvSHhsM1QwZDZtb1RBc3VQOEQyUEFhdVNYNHZVZDJhNWFnZ3AtdG84R1BFQnBwNHVCVVJsbkhEQXhpTm50QzBrTzRaWWJabTVubzJSdThrMWR4YXlaV3lHWS1acGJFbzJkOXZnMWgxc1JhU0IyanJtenZkSlUtSg?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T20:49:14.000Z",
+      "summary": "Qatar hands Trump initiative to Hamas - Shafaq News  شفق نيوز"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Orthodox Jewish groups back Cuomo for NYC mayor after Adams drops out of race",
+      "url": "https://www.timesofisrael.com/orthodox-jewish-groups-back-cuomo-for-nyc-mayor-after-adams-drops-out-of-race/",
+      "image": null,
+      "published_at": "2025-09-30T20:49:05.000Z",
+      "summary": "Community organizations in Brooklyn, Queens and Staten Island say they're 'deeply concerned' about Mamdani's candidacy \nThe post Orthodox Jewish groups back Cuomo for NYC mayor after Adams drops out of race appeared first on The Times of Israel.\n"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -112,14 +212,74 @@
       "summary": "The comments followed remarks by Qatar’s Prime Minister, Sheikh Mohammed bin Abdulrahman Al-Thani, who strongly suggested that negotiations would be necessary."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "PANNIER: Quarrelling neighbours – the Taliban and Tajikistan - IntelliNews",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGlnN00zZXNKbzFmUjZYN0xzd09OWFE2X0FtZzNHNjZHSnp1VllUeVlXREJUdzRwQi1vb3JhLWlSYmEzbkFCZEZjb0gtWXVpeEJRMXZheDN4eVpwNHNCX3p5MUx6ODEzTjVCV1U1QnF1czRkaVN5SGo2YzhaSGxBdEZMY3ZUOVZWUUdrX2p5aHltazBBaGVlVnlSSnpYUnpJRFpCYzgxMTAtamVqMTNTcA?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T20:48:06.000Z",
+      "summary": "PANNIER: Quarrelling neighbours – the Taliban and Tajikistan  IntelliNews"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Lebanon County restaurant, petting zoo asking for help in identifying animal abuse suspects - fox43.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYjBtcm03aWN1SXRvTUpwRl9tOFM2LUlPV2YtSHo0b1RmWVl3V0daTk9EVHpkVl9XNkZhNDV3b1dVWG1VUVcwOTcyVzJOZ0RSRzJsQXE5bTFzazVKemVYRUpSUFg1NEVfQmRzWHcybmRXbms0dnd2bXF2ZXFTODduYVg5N1hMQ3ViUGMxbkJkQkx6MWlSWVp5RDJVQWoyMHJEZ0dfUmVJdEpfc2l4aWtwR0Mwbld6WXRTQ2twMDFWTkhrSm5wOVBvanZQd21nR2tNd3dTQXg1czMzaFZodS16aFp4YzJWdjd5NHlsN3pVVHlTYlJfVFdyVk5TZTA?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T20:41:00.000Z",
+      "summary": "Lebanon County restaurant, petting zoo asking for help in identifying animal abuse suspects  fox43.com"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
       "title": "Gandapur accuses Aleema Khan of creating divide in PTI, alleges intelligence agency is facilitating her",
       "url": "https://www.dawn.com/news/1945670/gandapur-accuses-aleema-khan-of-creating-divide-in-pti-alleges-intelligence-agency-is-facilitating-her",
-      "image": "https://i.dawn.com/large/2025/09/3023395442d662f.webp",
-      "published_at": "2025-09-30T20:30:56.000Z",
+      "image": "https://i.dawn.com/large/2025/10/0101385365890bd.webp",
+      "published_at": "2025-09-30T20:40:03.000Z",
       "summary": "Khyber Pakhtunkhwa Chief Minister Ali Amin Gandapur on Tuesday accused PTI founder Imran Khan’s sister Aleema Khan of creating a divide within the party and alleged that she was being facilitated by the Military Intelligence (MI) and “establishment”.\nIn a video statement, Gandapur said: “Imran Kh..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Photos: Behind the scenes of the Netanyahu-Trump meeting in Washington",
+      "url": "https://www.israelnationalnews.com/news/415651",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1200107.jpg",
+      "published_at": "2025-09-30T20:38:04.000Z",
+      "summary": "Newly released photos from the White House show Netanyahu and Trump discussing the plan to end the war, alongside a dramatic phone call with Qatar’s Prime Minister. Later, Netanyahu is seen reviewing the details of the US proposal with his team."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Lebanon County restaurant, petting zoo asking for help in identifying animal abuse suspects - fox43.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUN1Sk8xbWMyLXlCeWZuS1RhR21DUjVKZkY5NWk0eGpLTlBZYzF1SFR0N3ZicmQ5em50M1Q0QmRWdVcyaEdvWW4tMzJzUW16X1FqeW9xUGU0VGJqWW1YVmUwZXNfUk5OVUlWWWplbFRLRTV5aG5ESnJtVmlLaEVkc2M1WldjQlZKS2VFUlhOVHNqak16eHZsLVB3bS1hYjJTLVd1Yk53?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T20:33:00.000Z",
+      "summary": "Lebanon County restaurant, petting zoo asking for help in identifying animal abuse suspects  fox43.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "PSG to play Intercontinental Cup final in Qatar - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenhPSVAwS0ljVXV6S3hHT2pCSTV0RTllMlZmOXo0aE1saGlEdDB3bjFrRVVSS05zY1FXNF9wUFFOa2ZYYmdXekJSMzFudHBPNk1oRml3SXl6NDJGUWRER2FyaGRFdUdRNVFJZWZYaEE0OERjUUJncmVXQmJXOHZyejR5My1EMEJNU2FV?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T20:30:00.000Z",
+      "summary": "PSG to play Intercontinental Cup final in Qatar  Yahoo Sports"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Football Game Preview: Stevens Cardinals vs. Lebanon Raiders - MaxPreps.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGxpVmd6M1B2YnNFYUM4dTNZSWVaWndVWXJQVXFkZTZYTlNsX2Y2djhUVXFXdzFxSnYyb1R0eG1KandnV05mM1ludWFtQy1KeFlhQlc5bFNyQmxSNGdrNU5zQktOajVnU0dqUl85OEtjblN6TTdVRUE1aDhUMk95OGN6b1BGMHJzcVZtLW1BdW5VQktpQkJlY1pKR2Q0Zmk4THRqbzhjWC1fbDdzRUlqN2RrMktPZw?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T20:28:23.000Z",
+      "summary": "Football Game Preview: Stevens Cardinals vs. Lebanon Raiders  MaxPreps.com"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -140,6 +300,16 @@
       "image": null,
       "published_at": "2025-09-30T20:20:52.000Z",
       "summary": "Full Story: Historic Joe Knight building in downtown Lebanon gets some renovations  Laclede County Record"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Hegseth bashes wokeness in unprecedented meeting with top military brass",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/9/30/hegseth-bashes-wokeness-in-unprecedented-meeting-with-top-military-brass?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-09-30T20:20:36.000Z",
+      "summary": "Secretary of Defense Pete Hegseth gathered 800 top US military leaders at Marine Corps Base Quantico in Virginia. "
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -165,11 +335,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Israel uncovers massive Hezbollah explosives cache near Lebanon border village - Ynetnews",
+      "title": "IDF uncovers massive Hezbollah explosives cache near Lebanon border village - Ynetnews",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83TmZzMkxUS0dNcWgyVTNES2xHOHhYSGVsQXJvRktXV2dVeldaUU9LeHQwd0JoRk10cGQxRkpIRHo2dzlPdEpHWnJ4TnA1ZThwT21ncmNB?oc=5",
       "image": null,
       "published_at": "2025-09-30T20:17:46.000Z",
-      "summary": "Israel uncovers massive Hezbollah explosives cache near Lebanon border village  Ynetnews"
+      "summary": "IDF uncovers massive Hezbollah explosives cache near Lebanon border village  Ynetnews"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -282,6 +452,16 @@
       "summary": "RVCC serves as drop-off for Granite United Way coat drive  Valley News"
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Lebanon educator and school wins $50K Harbor Freight Tools award - OzarksFirst.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95MjNfMVY4WldxY1ZaT0dXWTNvem9mNVljcHlodzRuQ3lsT1loUjJhNFpRYVJxU1JUZUJCbEdjNUJhd0pkc21sVmoyZFNpOXR5dDZGSzByQ1FOSGtIcThXMmRTM09DYXJJVTBITtIBckFVX3lxTE1scWdsSUk5LXA1OGFMSXBRcW1ZYjUxODNBWTZIVlZFajFWUWVQYzN4WURjTnhrSlAtM3VHTkIzUHFCR2VrcVhKcUVFRWJwRk94SURHTzN2YUdFMFk5Um1rd0ZPcFd4d2VtQzlQZ0NxSmlzQQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T20:03:01.000Z",
+      "summary": "Lebanon educator and school wins $50K Harbor Freight Tools award  OzarksFirst.com"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -295,11 +475,41 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Israeli troops kill 31 Palestinians in Gaza as Qatar says discussion needed on Trump peace plan - KTVN",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQa0ZodDdLLWVaX2daZUR6dnEyZWlqZjBJcnNUdEQ4STVIMER5VVVSWjdZQk9IUW5xNXJReWI1VTZBQmdaR1Q5Sl9JRl9MUV9xYjZDTHlNZGRwVHVpcGtkcXVGVWM0b1E0VENYYktja29oRW1xMFZkMzR5a1BUaURReWtRU2llNFA5MHRrX1lSRmdVWTFmWklDZVluUVFzOExCczRMM0dGWEE2VHNsNzhodG42ek5pOUd3Y3ZQWjJWSW5pa0tIT2U4MmtoRXVNVGhKQldxMm1RQi15U0ZtRk80em5oQ2Z0TG5vcEpJeXc0amJacVJQZnNZaDVVM1dUV3NEaXlUM28xdw?oc=5",
+      "title": "Israeli troops kill 31 Palestinians in Gaza as Qatar says discussion needed on Trump peace plan - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT1BpVENvdjhGUTQ3R2xRc2pyZGdGS2NBLVpVUnRjN2JSNnZreEZVRVdUN2tRQ3VtOFZHWTFJZ3NWb0VUMGw3MWx0VlR2cnlzcmJ6eW9tTUFhVmRHYkZOTWRsRnpwOGxXQnlRSE5uQ1c5aUlPWHNKRHhHeFZocDNnaDdYWGxYNDBGYmk5aW5tVjRpQnZSeEJyakhWdzlJQ0pieFdvNGs2Uzd1Mkt4NmhXODIwZHkzVThxYzhQQjRHM1kyVXpDX1djMA?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T20:02:19.000Z",
+      "summary": "Israeli troops kill 31 Palestinians in Gaza as Qatar says discussion needed on Trump peace plan  AJC.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israeli troops kill 31 Palestinians in Gaza as Qatar says discussion needed on Trump peace plan - The Killeen Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQN0VKY0c3czJBT1hsNnZPakJYSVl6aFVsX1d4dnA3eEJxVFR1NzRMZ3ozWEtRUlNPS3JRTTNuRlp5U2NlbGxIN2tNVlFKcjlYNDl6b1VpMzRmdTgtWDM3UXJYWEVQdl9OSEt0SzJSOWZobHpBWFJOUW90a2c5dHRvUDFmdThjVTlJNU1TYXlUTlBNYnpDd1hPaEE1Z1ZqRVVLT1pCUzU5U0FhR0gydnI1ekNmNGgxaFhrYWs1TlNJaFJGXzdtTW5xTXZKckFIMHdRNGJCaHN3S1NQSHk1ak9YRUJwaXJIbjN3Y094RFp2T3g0Z0YwVVZaT1hUN0pyTmM1?oc=5",
       "image": null,
       "published_at": "2025-09-30T20:01:53.000Z",
-      "summary": "Israeli troops kill 31 Palestinians in Gaza as Qatar says discussion needed on Trump peace plan  KTVN"
+      "summary": "Israeli troops kill 31 Palestinians in Gaza as Qatar says discussion needed on Trump peace plan  The Killeen Daily Herald"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israeli troops kill 31 Palestinians in Gaza as Qatar says discussion needed on Trump peace plan - Northeast Mississippi Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVUdiU0ZfN25BNDNxN0trZDFSNEI0RzJ1RWpzS2k5OHc2djllRlBlTDNWMFJlVGQ2MmxEM3poLVZ5Sl9BZW0wUFFFYWktcHY4bnI1NGhfT3FwZVgxcTJHVE1QWTVFWDI5R0IyeEZ2cUZjWEhtMzhTZER5cndRSVZONkZTclJta2xmUU9Tam1jSnViRGxDVDVvTURWT25lbjVTTE1BdkI2YjlGYjBjMFNxc0ZhckhzaHBWdHU2TDRzUjFTSTk0OXpuNF9seHdzQzNydV9McGFUekdsaW5UcGhOS2ZVY1ZmZzN5bWE0SklYbEJWNTdKMF9NUTRVdHpKVi0tT1lMRHotUU9vOXRfUmhtNA?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T20:01:53.000Z",
+      "summary": "Israeli troops kill 31 Palestinians in Gaza as Qatar says discussion needed on Trump peace plan  Northeast Mississippi Daily Journal"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel’s Strike on Qatar Is a Disaster for US Gulf Influence - The National Interest",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUR5RV9QMXR4MUtQd2QtOTA1QVU5MVBDbWtIYk5CRUFoTE5zMjhTTXBTcUNxQW9tdmNXbHJHUXBidHpqVWN5eXoxUXJLZ0RxcDkxVFVqdk5uUWo3R2Z2XzFYa1hjaU5nUVFjTUNxR21ZOS04WUF3N2tfSzlQUHR1UElXVDFMd3hZMFphN0lNVjZweTVEVWdveVhNS2JwU2hFbHQyangxR19qLTU5NlFOeQ?oc=5",
+      "image": null,
+      "published_at": "2025-09-30T20:00:53.000Z",
+      "summary": "Israel’s Strike on Qatar Is a Disaster for US Gulf Influence  The National Interest"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
@@ -402,16 +612,6 @@
       "summary": "Iran-backed rebels sanction 13 American companies, including Exxon Mobil and Chevron, despite agreement earlier this year to not go after US-linked ships\nThe post Yemen&#8217;s Houthis say they will target major US oil exporters in nearby seas appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban Shuts off Internet in Afghanistan, Essential Services Grind to a Halt - Morocco World News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVU4cnk0b2dFbGZrZTFXd1ItT3hhWGtIOVJGR0lfYlA3ak1IbDlrMnV3OHhPM2k0aGwtdVc0LUJCSXFOZjhkU1FKaElQeWppMUpfOUVUdDROMDFPTzZNbmFKbWZOa0kzU29BZTVZajhEU0E0Y2VlenhsV1k2UF9UZU52ZnVhMXFEVUFXZUliSnR5aTlSU3BFNld4OGotSXA2ckc0eXhROUhIS3RQMmt5M011TWt6bkVrcUEtbm1JMmpDSU0?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T19:49:11.000Z",
-      "summary": "Taliban Shuts off Internet in Afghanistan, Essential Services Grind to a Halt  Morocco World News"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -422,96 +622,6 @@
       "summary": "בישיבה שבה אושר מינוי זיני, הודיע נתניהו כי השר דרמר יעזוב את הממשלה - אך ימשיך לטפל בדברים. באותה ישיבה הוא הנחה את לוין להגיש חוק יסוד להחלפת \"הפקידות הבכירה\" בכל ממשלה. \"לא סביר שרוב מוחלט של הפקידים הבכירים מגיעים מאותה תפיסת עולם. זו מערכת אנטי-דמוקרטית\", הסביר"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Explosives cache discovered near Lebanon border from pre-Second Lebanon War period",
-      "url": "https://www.israelnationalnews.com/news/415648",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1171950.jpg",
-      "published_at": "2025-09-30T19:45:52.000Z",
-      "summary": "During civil works in the area of Ghajar, a pit filled with explosives was discovered. The IDF notes that the infrastructure was buried before the Second Lebanon War."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Analysis: Hezbollah in 'existential' crisis, faces Middle East changes - upi.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHlBLUNVRWdPbXhWUmxsSHFGVHZUQUxQMWVkYXVHZ19jdVc3MnNsd1lRN1lmUnprTGk1T2pvQmRUTG04MVVOU0ZfTXRjaWwyVmdwQkFRX1FRMVp6SWhFNUV6dDRrTEN0dTV2Tm9XSkl3SWRuQlctbTU4NlVmSWJ5Zzd4WmZ3OVktaHhiZkp4SktsMUF2V0x2YWU4WmVZWHljOWllWlNWWGdxeUxaNUHSAbMBQVVfeXFMTThsbFBmc3FwWW5GOGtiQXJUWjhtLWFySVFzcHlpeC1VMEZHaWVTbFBIc1pEWEx2TzUwUENndXlwaUdrc2pqRW55S1o0Mzh6cU9KRnJCd254QW5oQXNqbGpMbnlUVzRPeVVLSndaLVJPSm9ZeG1TeFVFZl9nRU5Zd2hVaTg2dlRfaFJkUE1fdkVEZWdXNjU5RXR3a0FTeEpNTnpMcUFETTVzeDJ0MHJYc1VpSHc?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T19:44:09.000Z",
-      "summary": "Analysis: Hezbollah in 'existential' crisis, faces Middle East changes  upi.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Trump’s Gaza plan needs clarifications, further negotiations: Qatar | Daily Sabah - Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWldwZDhITW9INnJBOXViM3JnX294Qm9fYkE1Y1RWeGFURlh1YUJmWnMtU1U3TUp5eXVfZUdSN3RTTGQ2TDV6SGI2dmNTUlV6RHgzZHZjQXR2aDZzS3FXQzRRSmN5X05mTDRNbXdWNnBmdEwyV3RCVWdGYUxZTThyUHg4THVrN1k4N0EwVTMxT1RORFI3Y0k4Vk14THdQaHlMT1VNTmFxWUZ6UdIBrwFBVV95cUxNeFlsMmtqZ2M2alFtU3Baam9mQXFGOENfUlljOU1DeHY1MV9LMDZQTWJOeWlMMjloa2dYQ2x3dUlRb2UyZzRCX1dQQTVfLU83MnR6YjNaRFRjWllYUG9PeXFCQ0d6ZjlVZS1fczl2eXpCbGhUR3pGZEdHbXRzdHpRWFJRRWE4NkdHQXF2N2FoMW5YRE15dUdONllkOTRSMVMyaEU0enR1akFVMThmMXlF?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T19:43:49.000Z",
-      "summary": "Trump’s Gaza plan needs clarifications, further negotiations: Qatar | Daily Sabah  Daily Sabah"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israeli firm Commcrete raises $29m. in funding to revolutionize satellite communications",
-      "url": "https://www.jpost.com/business-and-innovation/article-869133",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_531,w_948/680397",
-      "published_at": "2025-09-30T19:43:11.000Z",
-      "summary": "Commcrete is developing systems that overcome the challenges of traditional battlefield satellite communications."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban Imposes Nationwide Internet Blackout in Afghanistan to Curb Vice - WebProNews",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnA4UTdKVkpKLXpLRW9PT2w2NkxwT250YWZ6SlNFUFJTSEVXN1g3X0xJdWlVTU5ac29IZlN6MjV4UGJLZk5Qb1JlcmN1VDFiYnljWHNsLWJUU1NsMHhDV3hlempqS1Q0aXFCYUF0V19UTkhTY2E5NkphNlhXSjNZN0VBckFiLS1aV25xMi1WUGhLNVFRYUc0YlpjOFE5WFo3N1E?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T19:38:06.000Z",
-      "summary": "Taliban Imposes Nationwide Internet Blackout in Afghanistan to Curb Vice  WebProNews"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban Imposes Internet Blackout Amid Morality Crackdown - The Onion",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTGJ1RDdnei1ZTG80cUNHWEg0dHJ5VlJKT3BEZlVsb2hidXZjWmJzdkwySGFsUDh1MTRhOWNSR1otQ2NTRmJJZzlMREJsaHhJVDJyYW1iZ1dkS0FOTl9sa2dPaWh1TlNLMGtzc3JZMkEtWFNJQVN2Ul9BRkdXSWRWVzZDZ1lPdw?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T19:37:37.000Z",
-      "summary": "Taliban Imposes Internet Blackout Amid Morality Crackdown  The Onion"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Mayor urges support for fire victims - fox43.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSXlCdEQ1YkNoMk9lSHFCQjhCRUlVMWlhS0hQTjdSaFI1cE1sQ2t2Nm1WNTB2R09WWEhKX2VqUlJQdzczbVNROU0tMG42SEZwODNEcWNmQ3R3dVR4VE9QU2Z3cm1Cd3pOWm9uLUFEZVp0M0RjaUNXelVkekZHcmFSaExpRzgzUFRXald0ME1sWnpzRzIwTW1LRG9BblpMRUJmbTZVeDFuUDRWdmk0SjJONWZvR3VmaGRHblZ4c3hXUXh4aHpnOTZlT3NFNlRadkxvbGpDLXpfTFUtX044Wm83SjFqOUM5bzUyV1o1M3JjSQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T19:37:00.000Z",
-      "summary": "Mayor urges support for fire victims  fox43.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel’s Strike on Qatar Is a Disaster for US Gulf Influence - The National Interest",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUR5RV9QMXR4MUtQd2QtOTA1QVU5MVBDbWtIYk5CRUFoTE5zMjhTTXBTcUNxQW9tdmNXbHJHUXBidHpqVWN5eXoxUXJLZ0RxcDkxVFVqdk5uUWo3R2Z2XzFYa1hjaU5nUVFjTUNxR21ZOS04WUF3N2tfSzlQUHR1UElXVDFMd3hZMFphN0lNVjZweTVEVWdveVhNS2JwU2hFbHQyangxR19qLTU5NlFOeQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T19:28:49.000Z",
-      "summary": "Israel’s Strike on Qatar Is a Disaster for US Gulf Influence  The National Interest"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar, Egypt and Turkey urge Hamas to accept Trump's Gaza peace plan - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeHlpLWZjbFpUazZha2YxampoeWJfUktad1haSV9tMC1LdTZjNVdqUkR1OElXbmxkeG9uODl3MGlMUFBuTDlwQnJPbzRpMG02MGdKakVDcjUzY1RoVFFSVTlYcC1VSTl5dFYwUDNCTlVkOXZnTUJhZjRuNWxjdGJULU1MODFjRWNKaGc?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T19:28:11.000Z",
-      "summary": "Qatar, Egypt and Turkey urge Hamas to accept Trump's Gaza peace plan  Axios"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -520,16 +630,6 @@
       "image": null,
       "published_at": "2025-09-30T19:24:09.000Z",
       "summary": "Details are key in any peace agreement. Donald Trump’s 20-point plan for Gaza is notably lacking in them."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "COG report highlights conditions that impacted ‘one party’s’ ability to fairly contest 2024 polls",
-      "url": "https://www.dawn.com/news/1945673/cog-report-highlights-conditions-that-impacted-one-partys-ability-to-fairly-contest-2024-polls",
-      "image": "https://i.dawn.com/large/2025/10/01000841c48d785.webp",
-      "published_at": "2025-09-30T19:22:28.000Z",
-      "summary": "Foreign observation mission Commonwealth Observer Group (COG) officially released on Tuesday its report on the 2024 general elections in Pakistan, highlighting “conditions which appeared to limit fundamental political rights and impacted one party’s ability to fairly contest the election”.\n“Addit..."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -562,16 +662,6 @@
       "summary": "The Romanian airline will operate three weekly flights to Bucharest out of Ben Gurion Airport in Tel Aviv."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Man arrested after 4-county vehicle chase - fox43.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVlRfdzJ2ZjRsRXNOUzNlMHJDUUhLQ2dFSWUxd05WaWx5aEItSTREOGdCTzBQTzF0VG4zUk83SjMxRXRCZTMyNXluT09GZ0NIeEl1S1Rwdm1hNTNMVzRzQThPQ2xWM2RmV3FSTm9RU0Y2SkQ2ZmtHUTZzVkx6MjJuN3ZEbHFOYkVhelhjT1kzU2UtaUZNRkViVjU2QWpUeXNFYloyS3h4eGZGdm9GaGdmZGJhd0I1UmV5ODBBV0JGR3pwcjhCZ1l1M0p0amhCeXJVMkZpNENNZ21GZjR5ZVJ4a2xBdFcxQQ?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T19:14:00.000Z",
-      "summary": "Man arrested after 4-county vehicle chase  fox43.com"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -580,16 +670,6 @@
       "image": null,
       "published_at": "2025-09-30T19:13:21.000Z",
       "summary": "עשור אחרי \"אירועי המפגע הבודד\" שהחלו בספטמבר 2015, במערכת הביטחון זיהו כי גם רצף הפיגועים הנוכחי מאופיין במפגעים בודדים. המצב בשטח טוב מבעבר, שכן בצה\"ל, שב\"כ והמשטרה יודעים בדיוק כיצד לפעול - ומסכלים פיגועים לפני שיוצאים לפועל. בשלב זה אין מדובר בגל טרור, אך החשש להגיע לשם ממשי"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar ‘optimistic’ about Trump’s Gaza peace plan - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0xXMEdiOG9wejVpemZreXJuT19pNEdzNGdfYkc2RmZZZmp4amZSNUJOWWwxUmdKLUtzV2NlejE1QWhhb2dTWWYwcnozNU8yOFZJclVsN2JkZGQybFFWdk4yU2pweHZ0YVNsMXdONmtpMU50TzhGQ3VSZnZZUEZHZXZmMjNOQVA1clpZYU03U2ptMDQ3TGlicmY1aWvSAaIBQVVfeXFMTVNEZF9ZdkVpelByUWxjWkRiWUwtb2hENkJycE56Nl9sWWdfck9jTGR4QnFzLTdfTFhFaE1rS1N0S1dPSnZfbXVuYTE4SVFpVlZhc2xQUHJoZVNCTFJGNGdjTnc4b19yZnpnVUJMUXNIbzg0TWt0ZjU4b1BPR1RZZVNtQ2I5M1F0WW9oZlMxNXU5RnFtNWdRUDlqNGRZWnQ0dHd3?oc=5",
-      "image": null,
-      "published_at": "2025-09-30T19:12:22.000Z",
-      "summary": "Qatar ‘optimistic’ about Trump’s Gaza peace plan  Al Jazeera"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -935,7 +1015,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Deaths reported after powerful earthquake hits off Philippines coast",
+      "title": "At least five dead after powerful earthquake hits off Philippines coast",
       "url": "https://www.aljazeera.com/news/2025/9/30/magnitude-6-9-earthquake-hits-off-central-philippines-coast?traffic_source=rss",
       "image": null,
       "published_at": "2025-09-30T16:51:34.000Z",
@@ -1452,16 +1532,6 @@
       "summary": "Trump is asking the Israeli PM to risk his government but dangling the prospect of a historic legacy, writes Lucy Williamson."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "US plans to deport some 400 Iranians in agreement with Tehran",
-      "url": "https://www.timesofisrael.com/us-plans-to-deport-some-400-iranians-in-agreement-with-tehran/",
-      "image": null,
-      "published_at": "2025-09-30T13:35:33.000Z",
-      "summary": "Islamic Republic says first group of 120 of its nationals to arrive in next two days, after plane reportedly carrying deportees departed Louisiana for Qatar Tuesday\nThe post US plans to deport some 400 Iranians in agreement with Tehran appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1542,16 +1612,6 @@
       "summary": "שייח מוחמד מאדי מעכו, דודו של עיסא בן ה-18, נעצר ב\"שומר החומות\" בחשד לתמיכה בטרור, כשכתב על \"קריסת הישות הציונית\". אחיינו, שכבר בגיל 12 הזדהה עם חמאס, הואשם בתכנון פיגוע מטען נגד חיילים. לשם כך הוא הוריד 47 מדריכים עם \"הוראות הכנה\" ותקשר עם פעילי דאעש. בחקירה הודה - וחזר בו: \"המצאתי\""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Why does misinformation spread faster than truth?",
-      "url": "https://www.aljazeera.com/video/the-stream/2025/9/30/why-does-misinformation-spread-faster-than-truth?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-09-30T13:00:00.000Z",
-      "summary": "We examine how online misinformation spreads and the efforts to stop it."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1582,16 +1642,6 @@
       "summary": "הרמטכ\"ל הגיע לעיר עזה, פחות מ-12 שעות אחרי הצהרות נתניהו וטראמפ בבית הלבן. מאחורי הביקור החריג: היערכות משמעותית בצה\"ל לימים רגישים - אם העסקה אכן תמומש. נשיא ארה\"ב מצפה לתשובה מחמאס \"תוך 4-3 ימים\": \"אם ידחה את ההצעה, ישראל תעשה את מה שהיא צריכה לעשות\""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "דרמה בפריז: שגריר דרום אפריקה \"קפץ מהקומה ה-22 במלון יוקרה\"",
-      "url": "https://www.ynet.co.il/news/article/hy46vstngl",
-      "image": null,
-      "published_at": "2025-09-30T12:44:49.000Z",
-      "summary": "השגריר נקושינאת'י עמנואל מת'ת'ווה נעלם אתמול אחרי שהשאיר לאשתו \"הודעה מטרידה\" - ובחיפושים אחריו אותרה גופתו מתחת למלון הייאט בפריז"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1600,16 +1650,6 @@
       "image": null,
       "published_at": "2025-09-30T12:38:35.000Z",
       "summary": "The Trump agreement includes dozens of steps, but faces major obstacles: disputes over prisoner and hostage releases, international oversight, the future of Hamas, and Gaza’s fate."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בדרך לבנו, אל\"מ במיל' חזי נחמה נטרל את המחבל: \"הוא רץ לעברי - אז יריתי\" | תיעוד הדריסה - והירי",
-      "url": "https://www.ynet.co.il/news/article/b1hfsryhle",
-      "image": null,
-      "published_at": "2025-09-30T12:28:10.000Z",
-      "summary": "הקצין הבכיר היה בדרך לראות את בנו כשהבחין במחבל שביצע את פיגוע הדריסה מדרום לירושלים. \"הוא היה באמוק. צעקתי לו לעצור והוא לא עצר\", סיפר. \"יריתי לעבר מרכז הגוף - והוא נפל\". הנער השלישי שניצל, והעדכון מהמשטרה: המחבל חי"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1670,16 +1710,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-9a78-d88c-afdf-dbfc82390006/a1/12/a19d62934044971469409b01cad6/000746.jpg?height=81",
       "published_at": "2025-09-30T11:59:02.000Z",
       "summary": "Reebok International denies that it told its Israeli importer, MSG, to strip the logo from the kits it supplies to the team. The Israel Football Association says the company reversed its decision following a call with chairman Shino Zuaretz"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "נוסח ההתנצלות המלא שפרסם נתניהו, והסיפוק בקטאר: \"זה המעט שניתן לעשות\"",
-      "url": "https://www.ynet.co.il/news/article/bkdbuefhlg",
-      "image": null,
-      "published_at": "2025-09-30T11:58:48.000Z",
-      "summary": "לאחר המהלך הנדיר של נתניהו, שר החוץ הקטארי אמר שדוחא \"מרוצה מהערבויות הביטחוניות שקיבלה מארה\"ב\", ואיים: \"קטאר שומרת את זכויותיה המשפטיות בנוגע לתקיפה הישראלית\". זו ההתנצלות המלאה - כפי שפרסמה לשכת רה\"מ"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1815,7 +1845,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Afghan women lose their 'last hope' as Taliban shuts down internet",
+      "title": "Afghan women lose their 'last hope' as Taliban shut down internet",
       "url": "https://www.bbc.com/news/articles/c98dmq03n92o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/062c/live/847c5980-9dc7-11f0-92db-77261a15b9d2.jpg",
       "published_at": "2025-09-30T08:24:05.000Z",
@@ -1970,16 +2000,6 @@
       "image": null,
       "published_at": "2025-09-30T01:08:46.000Z",
       "summary": "Herzog also emphasized that Hamas must also agree to the plan in order to \"allow a future of hope for the peoples of the region.\""
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Qatar, Egypt share Trump's Gaza plan with Hamas, official says",
-      "url": "https://www.jpost.com/israel-news/article-869020",
-      "image": null,
-      "published_at": "2025-09-29T23:58:06.000Z",
-      "summary": "Hamas negotiators told mediators they will review the plan \"in good faith\" and provide response, the official said."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2602,16 +2622,6 @@
       "summary": "With sponsors wavering, riders leaving and protests spreading, Israel-Premier Tech is becoming a problem for the sport as a whole – both because of the protests and the possibility that its presence could force changes to race routes"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Fourth time's a charm? How Trump could push Netanyahu into ending the Gaza war",
-      "url": "https://www.haaretz.com/opinion/2025-09-28/ty-article-opinion/.premium/fourth-times-a-charm-how-trump-could-push-netanyahu-into-ending-the-gaza-war/00000199-8fbb-d772-a59f-8fff604a0000",
-      "image": "https://img.haarets.co.il/bs/00000199-8fc6-d772-a59f-8fe6f77c0000/c2/4b/046b7a0d47e3a2dd93bf2d4f1678/254084.jpg?height=81",
-      "published_at": "2025-09-28T13:37:13.000Z",
-      "summary": "Logic would suggest that U.S. President Donald Trump's agenda on Monday will include pushing Prime Minister Benjamin Netanyahu to accept a deal that ends the war in Gaza. But is this overly optimistic?"
-    },
-    {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
       "topic": "OSINT",
@@ -2989,16 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856764",
       "image": null,
       "published_at": "2025-06-05T22:33:04.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Netanyahu admits to arming crime families and militias in Gaza to fight Hamas",
-      "url": "https://www.jpost.com/breaking-news/article-856742",
-      "image": null,
-      "published_at": "2025-06-05T19:42:12.000Z",
       "summary": ""
     }
   ]
