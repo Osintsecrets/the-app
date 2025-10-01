@@ -1,6 +1,36 @@
 {
-  "generated_at": "2025-10-01T18:44:47.651Z",
+  "generated_at": "2025-10-01T19:01:37.849Z",
   "items": [
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Germany arrests suspected Hamas members believed to be targeting Jewish institutions",
+      "url": "https://www.haaretz.com/world-news/europe/2025-10-01/ty-article/germany-arrests-suspected-hamas-members-believed-to-be-targeting-jewish-institutions/00000199-a104-dde8-a9f9-b9bce8750000",
+      "image": "https://img.haarets.co.il/bs/00000199-8913-d772-a59f-8f7721450004/83/6e/70cbec52479c9f79a0b956430f9f/017802.jpg?height=81",
+      "published_at": "2025-10-01T18:50:05.000Z",
+      "summary": "Prosecutors suspect the three men, two Germans and a Lebanese national, of being foreign operatives and of involvement in procuring firearms and ammunition"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israeli Navy issues final warning to Gaza flotilla",
+      "url": "https://www.israelnationalnews.com/news/415698",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1197896.jpg",
+      "published_at": "2025-10-01T18:46:00.000Z",
+      "summary": "The Israeli Navy warns the Hamas-Sumud flotilla to reroute to Ashdod, citing a lawful blockade and offering peaceful aid transfer. Israel says the flotilla seeks provocation, not humanitarian relief."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel Escalates Gaza Offensive as Hamas Mulls Trump Plan",
+      "url": "https://www.nytimes.com/2025/10/01/world/middleeast/israel-gaza-trump-hamas.html",
+      "image": "https://static01.nyt.com/images/2025/10/01/multimedia/01int-israel-gaza-1-jpvk/01int-israel-gaza-1-jpvk-mediumSquareAt3X.jpg",
+      "published_at": "2025-10-01T18:45:41.000Z",
+      "summary": "Hundreds of thousands of Palestinians have fled Israel’s assault on Gaza City, but many are believed to remain, having nowhere to go or no means to leave."
+    },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
@@ -10,6 +40,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6756/live/6498a8e0-9ede-11f0-928c-71dbb8619e94.jpg",
       "published_at": "2025-10-01T18:37:32.000Z",
       "summary": "The three men are accused of planning attacks on Jewish and Israeli institutions in Germany, federal prosecutors says."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Qatar Emir discusses with Trump the plan to end Gaza war, Emiri Diwan says",
+      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/qatar-emir-discusses-trump-plan-end-gaza-war-emiri-diwan-says_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
+      "image": null,
+      "published_at": "2025-10-01T18:35:37.000Z",
+      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\np(Reuters) -Qatar's Emir Sheikh Tamim bin Hamad al-Thani discussed with U.S. President Donald Trump on Wednesday his plan to end the war in Gaza in a ..."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -65,11 +105,31 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Four ways this shutdown could end ",
+      "title": "Four ways this US government shutdown could end",
       "url": "https://www.bbc.com/news/articles/cdr6pnky7vyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfeb/live/d19d6f50-9ef4-11f0-b1c8-5d59c9f3a032.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a61/live/cdc9a3a0-9ef7-11f0-b741-177e3e2c2fc7.jpg",
       "published_at": "2025-10-01T18:25:22.000Z",
       "summary": "At some point, public pressure and political pain will see one side yield to bring this latest US government shutdown to an end. "
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel killed over 100 civilians in Lebanon since ceasefire: UN - PressTV",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM25ZZy1PMjZqdUN0YUdPNjE1R0w1dkhydVRKODBob2lneThyMG95Mm5sTTdOZno5SFpFMnVuSU0taExwUmxjWGxmUWl6U21wb0E5S25UUlNQa2EtcUtSdnpXVFduTEFpYTNMZDlxUTdQbF92OUVnUTB0dTNKTTVheHE0dGY4clAxUW5YdFg1WnVyQWpBcDlCWlRJZ0k5UGRNNDN3?oc=5",
+      "image": null,
+      "published_at": "2025-10-01T18:24:00.000Z",
+      "summary": "Israel killed over 100 civilians in Lebanon since ceasefire: UN  PressTV"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US takes a stake in another firm, this time a large lithium mine",
+      "url": "https://www.aljazeera.com/economy/2025/10/1/us-takes-a-stake-in-another-firm-this-time-a-large-lithium-mine?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-01T18:23:59.000Z",
+      "summary": "Vancouver-based Lithium Americas is developing one of world&#039;s largest lithium mines in northern Nevada."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -80,6 +140,16 @@
       "image": null,
       "published_at": "2025-10-01T18:23:41.000Z",
       "summary": "UAE President, UK Prime Minister hold phone call to discuss bilateral ties, regional developments  ZAWYA"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Germany arrests three men suspected of targeting Jewish institutions",
+      "url": "https://www.aljazeera.com/news/2025/10/1/germany-arrests-three-men-suspected-of-targeting-jewish-institutions?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-01T18:19:42.000Z",
+      "summary": "The men are suspected of of being &#039;foreign operatives&#039; for Hamas and will appear in court Thursday, prosecutors say."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -110,6 +180,46 @@
       "image": null,
       "published_at": "2025-10-01T18:10:27.000Z",
       "summary": "UAE deepens Asia ties as Malaysia, Australia trade deals kick in  AL-Monitor"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Afghanistan Taliban Internet - The Herald Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmVHS0pZWUhtZW5QTi1JWWNnMmhzanVtMWZGNU5xZjNkM2hEYXB1T2RhT2k5TzhUZDdMQnc0MnB2TUtFSFV0MDN3ZjdySWJVWC1jMGhpZm93RFY0SEE5aUxnaGxFTVp1YVVXV0hfWjcxWEk5LXFrbWRONElPaU5zb2J6UjRNSUNiUGFIR0ZPZE9KQ3FBNEpBMlowYzBESExXLU9JdS1naDI?oc=5",
+      "image": null,
+      "published_at": "2025-10-01T18:07:18.000Z",
+      "summary": "Afghanistan Taliban Internet  The Herald Journal"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Afghanistan Taliban Internet - The Herald Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUIzaW9TbUVqZHVjSk4zN3lJX1ZfSkJyVHNIRU5DMEFkNFJrYTlTNkx2ZjdGYm9XYVkwNzNxWG45TTNFNUk4S1M5dWNlbGFIOENtTlZlT0VzRWVQQm9tYjNQT3FJN2I4SGZPTHZMZEtjbWdtLXc5QUdEZ2JPZ1R3VXRMM0l0M0lweXR5aGpENXU5dFNmSHhIb294aE81NFo2SC02amIwdFg?oc=5",
+      "image": null,
+      "published_at": "2025-10-01T18:07:12.000Z",
+      "summary": "Afghanistan Taliban Internet  The Herald Journal"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Afghanistan Taliban Internet - Goshen News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdzFNMHA5TzlhakVZb0NZT0VWRG5OZENPQjVRRjVPeUllSE93OHpmV3B6QkFJZzRBbm9wY19UZVFBWE5HWXZmWUZhS2J1elJYaWFGMXJiQ0J1ODNhUlFkVzZMTVNWZnBodzBiTHRrbV96aS1YaG9obDlIUE1lUk43alNBX0k4eGVQb3liTGxQSnlfaHpBcTFEQ2hEMGk4c2lCN0N4VHBLc3V0SGdZcFZGZzR3WmVXTkotV2w5WUtYOA?oc=5",
+      "image": null,
+      "published_at": "2025-10-01T18:07:09.000Z",
+      "summary": "Afghanistan Taliban Internet  Goshen News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Afghanistan Taliban Internet - The Herald Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaWRpZ1lWRDB0QVNTcjlkbEFkd252ZExRWlRUOEI5dFhaejY1enllQ0FCUDdXNmRhbUI1bkJRcmVSSk12TkJycHgxOHFINGtmUDJOcXBLRXJuSkdkY0kwdTBsWUl5dXdzQTIzNmJnRHBOelEyZkhldktDTG5Wdmh2MzVoZHpzdThQVG9Md0w2Uk9HdzBLVy1NSzdqWHpBcUZqdW9UaEE1Z3o?oc=5",
+      "image": null,
+      "published_at": "2025-10-01T18:07:09.000Z",
+      "summary": "Afghanistan Taliban Internet  The Herald Journal"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -240,6 +350,16 @@
       "image": null,
       "published_at": "2025-10-01T17:37:43.000Z",
       "summary": "Donald Trump signs executive order to defend Qatar after Israeli strike  Gulf News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE President, Iraqi Prime Minister discuss bilateral ties, regional developments - برق الإمارات",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmFZMzU4ci1kZGkzQzRYQlJkOXktWHFwQUd6UngydE92MzJOZmdlNmZaZGR6WmRIUkVvNmVVWVZYNnpNeEVCalo2SnB2WHBicHNFaWs4R1JpemthUnFaV2t1VTRhQUIwRHRHSHF2T3Zvdl91SW5WV0Y2Z29sR1dfVHZjTXpTVWJtaktOdXE2N2pLNFl5eEMwMjd1NWhyQmFNZXVfQTRwY1VEaGlKaHVVZDBKZ2N0ano1?oc=5",
+      "image": null,
+      "published_at": "2025-10-01T17:37:32.000Z",
+      "summary": "UAE President, Iraqi Prime Minister discuss bilateral ties, regional developments  برق الإمارات"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -450,116 +570,6 @@
       "image": null,
       "published_at": "2025-10-01T17:12:18.000Z",
       "summary": "German prosecutors say police recovered an AK-47, several pistols and ammo that was to be used for assassinating Israeli and Jewish targets\nThe post Germany nabs 3 suspected Hamas operatives for planning to attack Jewish institutions appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "This Yom Kippur, Chabad Shanghai emissaries reflect on absence of inherent antisemitism in China",
-      "url": "https://www.jpost.com/diaspora/article-869245",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/683390",
-      "published_at": "2025-10-01T17:08:55.000Z",
-      "summary": "Shanghai’s Jewish community doesn’t announce itself with a grand facade. It lives in a modest building, adapted over time into a full community hub with a small synagogue."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Trump signs order vowing U.S. defense of Qatar after Israel's Doha strike - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWh6akl1UGVoMlpxOV9Mc3BGVS14SHppVFEzdm94WERybjdUNm01ZEdEbllPTVlmd2tTekVHSHkzUFNDMllsbVlHZmRZb2x6d1ZBaWZkT19saGl5Mm5vM0FqbkJWSG5MSl85OWxhems1RDFtSWJ0WWlXeXk4WVNCZUc0RjlGNDVaSERJQU41UlRYVXVoWU9Z?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T17:02:34.000Z",
-      "summary": "Trump signs order vowing U.S. defense of Qatar after Israel's Doha strike  Latest news from Azerbaijan"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Why Did America Just Send a Dozen Aerial Tankers to Qatar? - The National Interest",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2ttNmk0TFhYRTRRTDVnQnhRUnMzRDUxY0dtNDBhdGkxbWF1aDlfZ19SZGQ5YmVVUm8wTldFV0NiZ19KekkxU29zT0hyVGEwLUtHVUVlTlV1eXFPZ3NzeWprWXh2SFpLbTBKb2hWWTZsanZCTm1fbmZIaGJtYk1pdkpad3hXMGFvNndJUVNEVmJEczVyWGprczUwMDZSMGhncUdJZFFzb1N6QQ?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T17:01:28.000Z",
-      "summary": "Why Did America Just Send a Dozen Aerial Tankers to Qatar?  The National Interest"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Given This Reality - The Baffler",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80X2FXRERNZzFOalZPV1M1WDZKY25iaEhGcHJKTmtuLVZiaVR6MURVTV9OekJpVC1XREhSc0h1SnRzcUVyZTBocWNWRFVRSUhSUTBHdS15ZkhXb2podHBfcEhZbDNJQQ?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T17:01:18.000Z",
-      "summary": "Given This Reality  The Baffler"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "‘It felt like we had gone back centuries’: Afghans express relief after internet restored - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR0VKOWVUNmpPRjg4YW5UdkIzb0tfYjlqM0F0aHFtajlrbWVxRnZsR0R1amlMbVQyeG1vcWc1eGF5UURpRVJkYzlubkFua00tNjVadl8xc2tIcUdPODJNMFpIU09nRFhudGNvdWdaM3hrcDVieEVlQlhCeFVaYVlzYVlidWZJWVh3U3hPV3JYeHVMM2VtR0dNSjlKdi1qc3M?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T17:01:00.000Z",
-      "summary": "‘It felt like we had gone back centuries’: Afghans express relief after internet restored  The Guardian"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "World News in Brief: ‘Trust crisis’ impacts vaccine rollouts, Cyberspace must ‘serve the common good’, Türk calls for lasting truce in Lebanon - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtWVhKMTBWX1dnQnpjcjlyWThGOVNBeTJvVTRvb3hlTllwUldEQkV2UV9mYzJ0ZWRqOWxweXlaSXdpbFpId0tjWUZBR2pKT25wZ3JiRTY0VQ?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T17:00:11.000Z",
-      "summary": "World News in Brief: ‘Trust crisis’ impacts vaccine rollouts, Cyberspace must ‘serve the common good’, Türk calls for lasting truce in Lebanon  UN News"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Hamas asks for clarification on Trump's 20-point Gaza plan clauses",
-      "url": "https://www.jpost.com/middle-east/article-869244",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2433,w_3649/674935",
-      "published_at": "2025-10-01T16:56:23.000Z",
-      "summary": "The source said in the report that Hamas has the right to make some amendments to the proposal \"if Israeli Prime Minister Benjamin Netanyahu is allowed to do so.\""
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UN: Israel killed +100 civilians in Lebanon since November ceasefire - Shafaq News - شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR3UxVm9jUEhXQ1JJSFhJSldoU296LWpxdnNIU1RvMDRzMEJIX3BLNTNQWlRQX056cjhlZGg2SlVYSTNJUGxiZFFLXy1CR0FsNG1Ua2RrVHd3R0lYdjZZR2dCWktNSi1zdVlfaTJ6UlpfTXY5RHZkZF9RRnZlMERpSEhGYWdLY3VYcGQtNE5IN0xOb3RTWldFRVY4S3Rka3pFd2fSAacBQVVfeXFMUFhIall2UE5RZm9EUUxpT3R5YVhSekxNUUNfU25fUFcxd21fbTlMN1hoYnYzUG9PeVJZVUhYOVJoOExqY21vS1FaVjZtMHJKM041U3lqUFBORlFTZXlLX3BqdTlCbnJndUZRR2ozOXFxc2tmb2RsMWF4QmNhWmtjWkJhZDNURklzSXltTVpDRmFldHZjbHJlLVJpbWNOTmt1NG92a1EwdXM?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T16:56:18.000Z",
-      "summary": "UN: Israel killed +100 civilians in Lebanon since November ceasefire - Shafaq News  شفق نيوز"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Trump order pledges that US will defend Qatar in event of attack - Global Banking | Finance | Review",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUNRNFR0eUdIZWFWdTVEZUp5N200cG1ZeTktTVZaRGZOM3lBY2JKaUlodHJCWWNlVHpyY0NhN0ZnamFoTW1iZkRBOFZLY0NxbjlPemppeHVQQjdJZk14UnphZklPWmw1UUpUZXFETDBUU3JTWEN0Y2pRNlpZZ2pwLUZyclVUYnZuSm5BOXh4aHJMT1JYQVVz?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T16:56:15.000Z",
-      "summary": "Trump order pledges that US will defend Qatar in event of attack  Global Banking | Finance | Review"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Lebanon County candy shop sold; under new ownership - ABC27",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOekFpRU1EMlhCYzVpZUpQbWRVb2Y4eTZPdnlxeHZwaHhMekkyUlREU1czelpjTVJuZzUzQU8yS1poOURaRXhnc1R4YXp0TWdkMFhKUXdiS0F4SmF0dGpqODczZVFHRVNVQjZFWVFsRFhpemIzeGRJTTIxQnpEaVJkQi0xTEnSAYoBQVVfeXFMTlQ3VVZCUE9kcGdkRnRPUFBjSUdaa3pvd011cnNlT1plaThPdE9tWlFheDF5RjctYXRjS1BfRDdoMGRsblg1b3YySFVYWFVtdnBDMEhNS09OQkVnMDU2OWZNbVl0eHVYcXBpMy1iMlBVa2Y4aFJhUGVBM0FPempCcERtX0dGSUZaU1F3?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T16:56:11.000Z",
-      "summary": "Lebanon County candy shop sold; under new ownership  ABC27"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Historic Lebanon candy store to change ownership. - fox43.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQckpRSlVrNDgtRGNkbE1hM2o1aXVhUkRtdkVzNFFsNTVscTdINzFhaVNDQ0Z2M1B4N3FlblJnc1lvV2RVRkl2SVc2a0o0NlJrcmZNOFNZVXE1aTVRdkNmNUJ3WnhSSHhmaDY2NDBvd18tTW43SnFEWnBzaFhOYlZWRzRyYy1pUTVOdnQtZjFlZXMzSWpQSHhFRk8yY203YWEyV296aGU2OFpuc3hkU2NEQ2E2RmttTUFLT3FTZW1wNGtjTGJDNXl2VmlmYmFMTHdCaVZac25OdDF2S29qcWhqUEh0RUxxNndKbkE?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T16:56:00.000Z",
-      "summary": "Historic Lebanon candy store to change ownership.  fox43.com"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1162,16 +1172,6 @@
       "summary": "White House columnist at The Hill, explains how political polarisation in the US has meant more frequent govt shutdowns."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Greece labour law protests bring public transport to a halt",
-      "url": "https://www.aljazeera.com/news/2025/10/1/greece-labour-law-protests-bring-public-transport-to-a-halt?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-10-01T11:00:16.000Z",
-      "summary": "Unions are protesting against government plans to allow extended working hours, including shifts of up to 13 hours."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1210,16 +1210,6 @@
       "image": null,
       "published_at": "2025-10-01T10:54:17.000Z",
       "summary": "Proposal, welcomed by Arab and Muslim world, asks little from Israel in short term, but reference to Palestinian state likely to infuriate far-right partners Smotrich and Ben Gvir\nThe post Netanyahu bets Trump&#8217;s Gaza plan will put pressure on Hamas, but risks coalition appeared first on The Ti"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Starvation is a war crime. So why is it so rarely prosecuted?",
-      "url": "https://www.aljazeera.com/opinions/2025/10/1/starvation-is-a-war-crime-so-why-is-it-so-rarely-prosecuted?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-10-01T10:53:55.000Z",
-      "summary": "From Bengal to Gaza, hunger is often used as a weapon of war but almost never punished."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2812,16 +2802,6 @@
       "summary": "IDF soldiers anonymously share the events of October 7 from their perspective in two new books. Plus, a Judy Chicago exhibition opens in Tel Aviv, prompting a letter from Israeli creatives calling on the artist to boycott Israel – even though Chicago was not involved in the loaning of her works"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "U.S.-Israel cease-fire gaps narrow after Netanyahu meets Jared Kushner, source says",
-      "url": "https://www.haaretz.com/israel-news/2025-09-29/ty-article/.premium/source-u-s-israel-gaps-narrowing-on-cease-fire-after-netanyahu-met-with-jared-kushner/00000199-93fb-dc12-a5df-9bfb60c00000",
-      "image": "https://img.haarets.co.il/bs/00000199-93fb-dc12-a5df-9bfb62060000/a4/68/c6cb616a4f6f9da11defa84f6462/230856.jpg?height=81",
-      "published_at": "2025-09-29T06:27:31.000Z",
-      "summary": "Netanyahu is expected to meet with Trump at the White House and hold a joint press conference. The Hostages' and Missing Families Forum sent a letter to the U.S. president, urging him to stand by the principles of his plan when convening with the Israeli prime minister"
-    },
-    {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
       "topic": "OSINT",
@@ -2999,6 +2979,26 @@
       "url": "https://www.jpost.com/breaking-news/article-856849",
       "image": null,
       "published_at": "2025-06-07T13:29:05.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "IDF arrests PIJ Jenin Battalion commander during West Bank operation",
+      "url": "https://www.jpost.com/breaking-news/article-856848",
+      "image": null,
+      "published_at": "2025-06-07T13:15:37.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "Twenty live hostages, two undetermined, 33 dead, says Israeli source",
+      "url": "https://www.jpost.com/breaking-news/article-856847",
+      "image": null,
+      "published_at": "2025-06-07T11:18:14.000Z",
       "summary": ""
     }
   ]
