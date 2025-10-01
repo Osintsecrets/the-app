@@ -1,6 +1,76 @@
 {
-  "generated_at": "2025-10-01T20:10:20.068Z",
+  "generated_at": "2025-10-01T20:37:04.563Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Danish PM calls for strong answer from EU leaders to Russia's hybrid attacks",
+      "url": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b62/live/ba18b790-9e36-11f0-928c-71dbb8619e94.jpg",
+      "published_at": "2025-10-01T20:26:37.000Z",
+      "summary": "Copenhagen is on alert as EU leaders discuss boosting their defences in response to disruption from drones and Russian war planes."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Report: Israeli Navy intercepts Gaza flotilla, arrests activists",
+      "url": "https://www.israelnationalnews.com/news/415698",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1197896.jpg",
+      "published_at": "2025-10-01T20:26:00.000Z",
+      "summary": "Israeli Navy begins intercepting the Global Sumud flotilla near Gaza after issuing a final warning. Footage shows IDF vessels nearby; arrests reportedly underway."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "FIFA VP: UEFA must rule on Israel’s soccer status",
+      "url": "https://www.israelnationalnews.com/news/415700",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1151568.jpg",
+      "published_at": "2025-10-01T20:23:03.000Z",
+      "summary": "FIFA VP says UEFA must decide Israel’s football fate amid Gaza war. UEFA delays vote after Trump unveils peace plan."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Richmond American to Debut New Model Home in Lebanon - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOGhidk83Wm1XcTZMQXlVNVdSVFhSNlpIT3ZhSWJjeTJXdVhoUmFwTUpfV3lCeXZvaTBLaDdsZlFJUklsZjFVR1lVZ2hJTnlyUlFyUGtqendrQUFuMWJyN3JLcEozQ2FoVXhkS0dIVi1HZDBwUEJMZ0JVZjM5bUZQWXNGeEtETWVzOS00LUJacnFRd3BqWXhsbmFVM28yT2RKM3FMZ1puajV2Um8?oc=5",
+      "image": null,
+      "published_at": "2025-10-01T20:19:15.000Z",
+      "summary": "Richmond American to Debut New Model Home in Lebanon  StreetInsider"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Morocco arrests hundreds of protesters as rallies turn violent",
+      "url": "https://www.aljazeera.com/news/2025/10/1/morocco-arrests-hundreds-of-protesters-as-rallies-turn-violent?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-01T20:14:05.000Z",
+      "summary": "Members of Moroccan security forces and civilians reported hurt as youth antigovernment protests turn violent. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Watch: Jane Goodall tells BBC how she became interested in animals",
+      "url": "https://www.bbc.com/news/videos/c9306139eg5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4da4/live/a2bd3290-9f00-11f0-b741-177e3e2c2fc7.jpg",
+      "published_at": "2025-10-01T20:07:15.000Z",
+      "summary": "The animal rights activist has died aged 91, after a pioneering career studying chimps."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Jane Goodall, conservationist and chimpanzee expert, dies aged 91",
+      "url": "https://www.aljazeera.com/news/2025/10/1/jane-goodall-conservationist-and-chimpanzee-expert-dies-aged-91?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-01T20:05:21.000Z",
+      "summary": "The Jane Goodall Institute says famed primatologist died in California during US speaking tour."
+    },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
       "source": "Start.me — 10 Mideast (page feed)",
@@ -10,6 +80,16 @@
       "image": null,
       "published_at": "2025-10-01T20:00:44.000Z",
       "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npROME (Reuters) -Italian unions called a general strike for Friday in solidarity with the international aid flotilla for Gaza, while protests sprang u..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "U.N. rights chief: Israel killed 103 Lebanese civilians after cease-fire - upi.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVIyWW56aTNTSG5oQURlWW1BeGdYenRvdmZEb3EzR2VBX1FfNG1UaEJUVzltX2tzSDFONHZNNUJsQXdZNVJCMnVfblJOLXRFbTVRZW1MUl9pVzlxV2ZhWGVoeW1QcGtNaVNSaW1GRUlHRF9FeTVpQWt1QTZVMk11WnhmNUxlSGRmaEp4cFFSOUxmRkgybEFwX2RYU1VZT2YwX0o3OG1KUGpFbEHSAbABQVVfeXFMUHZqbDE3bDVqb3lxdEFGMW5uZ0dMOUVzQXR2Y1hwOTZ3UlhjYjFhdm9FRGw2NnU1dERKOHNSTjlRZU45eUdDVmlFbXhXQnl4ajZUTS1pTjI2Ri1ob0pISE5EUGNOSWR5ZUJvTFpLZDQyakhyajdxX2Z3cWZKYWlCbzdkeWxfMDY0UDZzWE81NG15bFVEVWJ0UVVRd3ltd1BLbVJ2cXFTQUVuTlUwNmptTjc?oc=5",
+      "image": null,
+      "published_at": "2025-10-01T19:57:13.000Z",
+      "summary": "U.N. rights chief: Israel killed 103 Lebanese civilians after cease-fire  upi.com"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
@@ -22,6 +102,16 @@
       "summary": "The vessels are part of a flotilla carrying activists, including Greta Thunberg, who are trying to deliver humanitarian goods and protest Israel’s war."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Israeli navy tells Gaza flotilla to change course as activists say boats intercepted",
+      "url": "https://www.bbc.com/news/articles/c0lk292jww4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d68/live/e0a5e430-9f00-11f0-bf4d-3be239c29483.jpg",
+      "published_at": "2025-10-01T19:50:39.000Z",
+      "summary": "The Global Sumud Flotilla says military personnel had boarded some vessels."
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -30,16 +120,6 @@
       "image": null,
       "published_at": "2025-10-01T19:48:55.000Z",
       "summary": "Trump order pledges that US will defend Qatar in event of attack  The Straits Times"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Report: Israeli Navy intercepts Gaza flotilla, arrests activists",
-      "url": "https://www.israelnationalnews.com/news/415698",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1197896.jpg",
-      "published_at": "2025-10-01T19:48:00.000Z",
-      "summary": "Israeli Navy begins intercepting the Global Sumud flotilla near Gaza after issuing a final warning. Footage shows IDF vessels nearby; arrests reportedly underway."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -195,21 +275,21 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Russia does not recognize return of UN sanctions on Iran",
-      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/russia-does-not-recognize-return-un-sanctions-iran_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
-      "image": null,
-      "published_at": "2025-10-01T19:00:43.000Z",
-      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npUNITED NATIONS (Reuters) -Russia does not recognize the return of United Nations sanctions on Iran, Russia's U.N. Ambassador Vassily Nebenzia told re..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
       "title": "Italy foreign minister: Israel assured me its armed forces won’t use violence against the flotilla",
       "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/italy-foreign-minister-israel-assured-me-its-armed-forces-wont-use-violence_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
       "image": null,
       "published_at": "2025-10-01T19:00:43.000Z",
       "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npMILAN (Reuters) -Italy's foreign minister said on Wednesday that his Israeli counterpart had assured him the Israeli armed forces would not use viole..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Russia does not recognize return of UN sanctions on Iran",
+      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/russia-does-not-recognize-return-un-sanctions-iran_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
+      "image": null,
+      "published_at": "2025-10-01T19:00:43.000Z",
+      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npUNITED NATIONS (Reuters) -Russia does not recognize the return of United Nations sanctions on Iran, Russia's U.N. Ambassador Vassily Nebenzia told re..."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -332,16 +412,6 @@
       "summary": "The Global Sumud Flotilla says its fleet has sailed into the &quot;high-risk zone.&quot;"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar Emir Discusses With Trump the Plan to End Gaza War, Emiri Diwan Says - U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORUdyQ3JVVUxqdXZncDVWQlhxRXNyOGZKdlF0U1d1Ui0zSVk0U2JxSDZjY1BsZDdyZWtCckR2MnI4aHZ0Ujl1ZXpLLXpZaWVXakUzUEZTMXd1UHB4UmFNVWJfTy1KQU5MODlsdDJrcnptSGlvZmpPN2g4eGFZZEJBTmd1a0lsMnlES19DQllZczFoV211eDRoZ0VLa3ZYc0JQc1BybWI0Y0NqUS1ZSWlDWVBUV2Iwc0F3TXRPaVpIRThhWVVmUVE?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T18:34:38.000Z",
-      "summary": "Qatar Emir Discusses With Trump the Plan to End Gaza War, Emiri Diwan Says  U.S. News & World Report"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -350,6 +420,16 @@
       "image": null,
       "published_at": "2025-10-01T18:33:21.000Z",
       "summary": "Palestinian analyst says US ceasefire proposal sets 'many minefields' and that 'this plan is not good for the PA'; Ramallah hoping for bailout from Arab allies amid economic crisis\nThe post Trump peace plan charts tough course for Palestinian Authority&#8217;s return to Gaza appeared first on The Ti"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "G7+ envoys urge Taliban to show willingness to engage with international community - Amu TV",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1uajJQQ1lsMzhnWnpKMmtGU2I3cjUwTm1aX1BxTjFPNlE4OVhDVDdhVi1HczhZOXFrNVE?oc=5",
+      "image": null,
+      "published_at": "2025-10-01T18:31:07.000Z",
+      "summary": "G7+ envoys urge Taliban to show willingness to engage with international community  Amu TV"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -370,6 +450,16 @@
       "image": null,
       "published_at": "2025-10-01T18:30:23.000Z",
       "summary": "Qatar Emir discusses with Trump the plan to end Gaza war, Emiri Diwan says  Reuters"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Qatar Emir discusses with Trump the plan to end Gaza war, Emiri Diwan says - AL-Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWdtLWZVakZ0ZGl0Qk5meEhiUml2dzFRbmI3U1djNmR5MDc2WktvcjBJUW9lbDB0R2Y2VFBzUncycHA4SjlNbTNHcDZ1VW4yZE5Hc0w5UlNZdkExNXJQcEZMUVhnYjFvbFlyR0Q5U1ZnU1V3SWliR3NQWG1iSmY1OWI5b0gzN1VZSFdsS0FqSW1LOFdGV1d2MmpGRktEekFUMlYweUoyenVFUQ?oc=5",
+      "image": null,
+      "published_at": "2025-10-01T18:30:23.000Z",
+      "summary": "Qatar Emir discusses with Trump the plan to end Gaza war, Emiri Diwan says  AL-Monitor"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -465,61 +555,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "UAE deepens Asia ties as Malaysia, Australia trade deals kick in - AL-Monitor",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzJubHJrOFJ6Z3R4UWJRMDNKZy1mSzBvS181dDdTY2pfRzF5UjdPSGNlVkstQ2VBekVXNnNTdWF3cDFMTnZQQ1pmTU9udnBTSkxIcWF0cWtOeThEMnlOckhadEdwSFl1RW53SGVFSUI3RjhUZkpTYkh5Qk9PZjV5dXNreFRrQlpMaEV0Q2g0REJscnE4ZFM1NUc0YlM4Y0RFb1VzaQ?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T18:10:27.000Z",
-      "summary": "UAE deepens Asia ties as Malaysia, Australia trade deals kick in  AL-Monitor"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Afghanistan Taliban Internet - The Herald Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmVHS0pZWUhtZW5QTi1JWWNnMmhzanVtMWZGNU5xZjNkM2hEYXB1T2RhT2k5TzhUZDdMQnc0MnB2TUtFSFV0MDN3ZjdySWJVWC1jMGhpZm93RFY0SEE5aUxnaGxFTVp1YVVXV0hfWjcxWEk5LXFrbWRONElPaU5zb2J6UjRNSUNiUGFIR0ZPZE9KQ3FBNEpBMlowYzBESExXLU9JdS1naDI?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T18:07:18.000Z",
-      "summary": "Afghanistan Taliban Internet  The Herald Journal"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Afghanistan Taliban Internet - The Herald Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUIzaW9TbUVqZHVjSk4zN3lJX1ZfSkJyVHNIRU5DMEFkNFJrYTlTNkx2ZjdGYm9XYVkwNzNxWG45TTNFNUk4S1M5dWNlbGFIOENtTlZlT0VzRWVQQm9tYjNQT3FJN2I4SGZPTHZMZEtjbWdtLXc5QUdEZ2JPZ1R3VXRMM0l0M0lweXR5aGpENXU5dFNmSHhIb294aE81NFo2SC02amIwdFg?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T18:07:12.000Z",
-      "summary": "Afghanistan Taliban Internet  The Herald Journal"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Afghanistan Taliban Internet - The Herald Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaWRpZ1lWRDB0QVNTcjlkbEFkd252ZExRWlRUOEI5dFhaejY1enllQ0FCUDdXNmRhbUI1bkJRcmVSSk12TkJycHgxOHFINGtmUDJOcXBLRXJuSkdkY0kwdTBsWUl5dXdzQTIzNmJnRHBOelEyZkhldktDTG5Wdmh2MzVoZHpzdThQVG9Md0w2Uk9HdzBLVy1NSzdqWHpBcUZqdW9UaEE1Z3o?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T18:07:09.000Z",
-      "summary": "Afghanistan Taliban Internet  The Herald Journal"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
       "title": "US pledges to defend Qatar after Israeli strike: White House | Daily Sabah - Daily Sabah",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1pUUWpBZjdHQk9QWGgzSkV0MlM2ZG9kX2NmYTJHckdUUzQ5bkFLekhvU1F0eVZOakF5ZkJ2WjNkeEtnRGV5YnF4U1FMNkxDSzRiNVZuTDlnVGdGbWZ4OUZab0t1LUNnRklfUDV2Zm5jY01BWW1lUjViUm9NOVF2anFORGFGdHlWZEgzV0hXT1k1d0MtM0p6SHpId2F3bm9nNDZZ0gGoAUFVX3lxTFBoSVNkN043LWhGWlAxTEc1cEdQV004ODUzN21CLTY0YkVyTnNGOVY0S2RkX3RGUm1fMFBweTRSSnNjcy0xaFZZVGdzeVNycFpvMTVDQkFHY2dCX25oY1FBWjdNLTF1dTZvT25feWttM1g4LXdUcEtPR1VsUDBYMk9zSmwxVnY3eldyeUtRYnowUXNlMVoxOHpCb05PT2VyWjl0MlhySDZuZQ?oc=5",
       "image": null,
       "published_at": "2025-10-01T18:05:00.000Z",
       "summary": "US pledges to defend Qatar after Israeli strike: White House | Daily Sabah  Daily Sabah"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Trump signs executive order pledging US security guarantees to Qatar - China Daily - Global Edition",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ3FFYXVmTERzVTB4bDB4akdkSFFjTTdpVWVFUUVKTjY5bEFWeS1rYkFBQ3hzdWNSY05HQ0w4anBPQ3BaazdpSkN3UHp4X3ZKNFVIdlZrQ2N6WndPUFZPa183ZDlReHl5UnppS0E3X3dsQ2NBbXA3b01VZTlnMGNSYUl3?oc=5",
-      "image": null,
-      "published_at": "2025-10-01T18:03:12.000Z",
-      "summary": "Trump signs executive order pledging US security guarantees to Qatar  China Daily - Global Edition"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -630,16 +670,6 @@
       "image": null,
       "published_at": "2025-10-01T16:33:34.000Z",
       "summary": "High court to hear arguments in January on whether Cook will lose her job but says she may stay in her post until then."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Activists say Gaza flotilla circled by Israeli warship",
-      "url": "https://www.bbc.com/news/articles/cwyr2lwg1rjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3c0/live/12a28a80-9ea5-11f0-b741-177e3e2c2fc7.jpg",
-      "published_at": "2025-10-01T16:22:25.000Z",
-      "summary": "The Global Sumud Flotilla accused an Israeli vessel of steering \"dangerously close\" to one of its boats."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -992,26 +1022,6 @@
       "summary": "Qatar’s Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani told Al Jazeera the Gaza ceasefire plan "
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Nearly half of killings outside Gaza City since Israeli assault began",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/1/nearly-half-of-killings-outside-gaza-city-since-israeli-assault-began?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-10-01T12:48:26.000Z",
-      "summary": "Israel ordered Palestinians to flee Gaza City, but nearly half of all deaths are in the areas they were told to go."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Danish PM calls for strong answer from EU leaders to Russia's hybrid attacks",
-      "url": "https://www.bbc.com/news/articles/cp8jdene16ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b62/live/ba18b790-9e36-11f0-928c-71dbb8619e94.jpg",
-      "published_at": "2025-10-01T12:45:33.000Z",
-      "summary": "Copenhagen is on alert as EU leaders discuss boosting their defences in response to disruption from drones and Russian war planes."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1020,16 +1030,6 @@
       "image": null,
       "published_at": "2025-10-01T12:44:14.000Z",
       "summary": "Over 15 rockets were located at the scene by Israeli forces after receiving intelligence on their location."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Can Trump save Argentina’s crisis-stricken economy as he hopes?",
-      "url": "https://www.aljazeera.com/news/2025/10/1/can-trump-save-argentinas-crisis-stricken-economy-as-he-hopes?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-10-01T12:34:38.000Z",
-      "summary": "The US is planning to extend a $20 billion loan to Argentina in support to President Javier Milei."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1392,26 +1392,6 @@
       "summary": "During the holiest day in the Jewish calendar, the fast is observed for 25 hours, beginning at sunset and ending at nightfall, with exact times varying by city"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Watch: One street away from collapsed school as relatives wait for news",
-      "url": "https://www.bbc.com/news/videos/cx2718plv27o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39b0/live/ce231ea0-9e91-11f0-b741-177e3e2c2fc7.jpg",
-      "published_at": "2025-10-01T07:00:05.000Z",
-      "summary": "The BBC reports from a nearby centre as rescuers race to find 38 people believed to still be trapped."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Watch: Moment houses topple into the sea in North Carolina",
-      "url": "https://www.bbc.com/news/videos/cy9n2dwlldyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc90/live/d2552600-9e85-11f0-928c-71dbb8619e94.jpg",
-      "published_at": "2025-10-01T06:27:58.000Z",
-      "summary": "Five unoccupied houses fell into the water in Buxton after being battered by dangerous surf."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1665,7 +1645,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Gaza flotilla activists say Israel intercepting vessels",
+      "title": "Israel says several aid flotilla vessels seized, passengers being transferred to Israeli port",
       "url": "https://www.haaretz.com/israel-news/2025-10-01/ty-article-live/gaza-bound-aid-flotilla-says-drone-activity-has-increased-as-it-nears-destination/00000199-9d64-dde8-a9f9-9dfc2d4d0000",
       "image": "https://img.haarets.co.il/bs/00000199-9bf5-df33-a5dd-9ff709340005/36/99/2279c2fa48cd960e82b8a1861b92/235013.jpg?height=81",
       "published_at": "2025-10-01T01:40:08.000Z",
@@ -1942,16 +1922,6 @@
       "summary": ""
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Hegseth rails against 'beardos' and 'woke' in gathering of US generals",
-      "url": "https://www.bbc.com/news/videos/crkj1k8z8j4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2f7/live/44d53b20-9e2c-11f0-b741-177e3e2c2fc7.jpg",
-      "published_at": "2025-09-30T18:51:36.000Z",
-      "summary": "Hundreds of high ranking military leaders were summoned for a rare meeting with the Department of Defense secretary."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2010,16 +1980,6 @@
       "image": null,
       "published_at": "2025-09-30T17:45:12.000Z",
       "summary": "The livestream will feature messages from WhatsApp groups in kibbutzim along the Gaza border communities, emergency standby squads, families from the Negev, and relatives from Israel and abroad."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Unpicking Trump's Gaza peace plan map",
-      "url": "https://www.bbc.com/news/videos/c5ykwny8dp9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69dc/live/0dce0e90-9e22-11f0-928c-71dbb8619e94.jpg",
-      "published_at": "2025-09-30T17:38:23.000Z",
-      "summary": "BBC Verify analyses President Trump’s peace plan for Gaza and what it means on the ground."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2200,16 +2160,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-9ae6-d0f3-a599-dee797290000/23/e3/3196134f4f8e9ed8b41c555826bd/055305.jpg?height=81",
       "published_at": "2025-09-30T14:05:41.000Z",
       "summary": "The 11 are suspected of placing pig heads outside mosques and targeting Jewish sites in and around Paris and were trained 'on the instructions of a foreign intelligence service,' according to Serbia's Interior Ministry"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Watch: What do Gazans and Israelis think of Trump's plan?",
-      "url": "https://www.bbc.com/news/videos/cwydxjqq132o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c0e/live/bac02880-9df1-11f0-92db-77261a15b9d2.jpg",
-      "published_at": "2025-09-30T14:03:02.000Z",
-      "summary": "People in Gaza and Jerusalem share their reactions to the US president's new strategy for ending the war."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2792,6 +2742,106 @@
       "summary": "IDF soldiers anonymously share the events of October 7 from their perspective in two new books. Plus, a Judy Chicago exhibition opens in Tel Aviv, prompting a letter from Israeli creatives calling on the artist to boycott Israel – even though Chicago was not involved in the loaning of her works"
     },
     {
+      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
+      "source": "Bellingcat",
+      "topic": "OSINT",
+      "title": "Australian Cocaine Pilot Killed in Brazil Plane Crash Linked to Kinahan Drug Cartel",
+      "url": "https://www.bellingcat.com/news/2025/09/27/australian-cocaine-pilot-killed-in-brazil-plane-crash-linked-to-kinahan-drug-cartel/",
+      "image": null,
+      "published_at": "2025-09-27T15:57:08.000Z",
+      "summary": "This article is the result of a collaboration with The Sunday Times. To stay up to date on our latest investigations, join Bellingcat’s new WhatsApp channel here. An Australian pilot who recently died when his small plane crashed in South America during a failed drug run has links to an alleged Kina"
+    },
+    {
+      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
+      "source": "Bellingcat",
+      "topic": "OSINT",
+      "title": "Like Clockwork: An Orange Wall Exposes Yet Another Active Club ‘Fight Night’",
+      "url": "https://www.bellingcat.com/news/2025/09/15/active-club-fight-night-2025-san-diego/",
+      "image": null,
+      "published_at": "2025-09-15T16:06:39.000Z",
+      "summary": "To stay up to date on our latest investigations, join Bellingcat&#8217;s new WhatsApp channel here. The organisers of an annual combat sports event allegedly told the venue owner that they were using the space to film an activewear commercial featuring a small “crowd” including women and children.&#"
+    },
+    {
+      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
+      "source": "Bellingcat",
+      "topic": "OSINT",
+      "title": "Incendiary Munitions Strike Gaza-bound Flotilla Two Nights in a Row",
+      "url": "https://www.bellingcat.com/news/2025/09/10/incendiary-munitions-strike-gaza-bound-flotilla-two-nights-in-a-row/",
+      "image": "https://www.bellingcat.com/app/uploads/2025/09/Synced-Drops.mp4",
+      "published_at": "2025-09-10T15:23:07.000Z",
+      "summary": "On September 8 and 9, two vessels of the Gaza-bound Global Sumud Flotilla (GSF) were attacked outside the port of Sidi Bou Said in Tunisia. Bellingcat analysed footage and images from both incidents. The experts consulted believe improvised incendiary munitions were likely used. The trajectory follo"
+    },
+    {
+      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
+      "source": "Bellingcat",
+      "topic": "OSINT",
+      "title": "Trump’s Takeover of DC: Traffic Stops Turn Into Immigration Arrests for Delivery Riders and Workers",
+      "url": "https://www.bellingcat.com/news/2025/09/08/dc-trump-feds-immigration-delivery-riders/",
+      "image": null,
+      "published_at": "2025-09-08T16:10:26.000Z",
+      "summary": "Four masked men in police tactical vests surround a young scooter rider, cuffing his hands behind his back. One person, whose face is fully obscured with a cap, sunglasses and a balaclava, is heard on eyewitness video telling the scooter rider: “You came into this country as a J1, as an exchange stu"
+    },
+    {
+      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
+      "source": "Bellingcat",
+      "topic": "OSINT",
+      "title": "A Guide To Monitoring Conflict Amidst a Sea of Misinformation",
+      "url": "https://www.bellingcat.com/resources/how-tos/2025/09/01/a-guide-to-monitoring-conflict-amidst-a-sea-of-misinformation/",
+      "image": null,
+      "published_at": "2025-09-01T09:44:41.000Z",
+      "summary": "Join Bellingcat’s WhatsApp Channel for the latest news and resources from us. How does one monitor a conflict zone on the brink of civil war, especially in a region which is difficult to access, experiences frequent internet shutdowns and where misinformation is common? In this guide, we outline the"
+    },
+    {
+      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
+      "source": "Bellingcat",
+      "topic": "OSINT",
+      "title": "LLMs Vs. Geolocation: GPT-5 Performs Worse Than Other AI Models",
+      "url": "https://www.bellingcat.com/resources/2025/08/14/llms-vs-geolocation-gpt-5-performs-worse-than-other-ai-models/",
+      "image": null,
+      "published_at": "2025-08-14T10:42:44.000Z",
+      "summary": "In June, Bellingcat ran 500 geolocation tests, comparing LLMs from various companies against each other, as well as Google Lens &#8211; a staple tool for finding the location of photos. At the time, ChatGPT o4-mini-high emerged as the clear winner, with Google Lens outperforming most other models. J"
+    },
+    {
+      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
+      "source": "Bellingcat",
+      "topic": "OSINT",
+      "title": "The Open Source Tool That Has Preserved 150,000 Pieces of Online Evidence",
+      "url": "https://www.bellingcat.com/resources/2025/08/13/the-open-source-tool-that-has-preserved-150000-pieces-of-online-evidence/",
+      "image": null,
+      "published_at": "2025-08-13T08:18:15.000Z",
+      "summary": "Bellingcat’s Auto Archiver is a tool aimed at preserving online digital content before it can be modified, deleted or taken down. Publicly launched in 2022, it has preserved over 150,000 web pages and social media posts to date. The Auto Archiver has been used by Bellingcat’s journalists to preserve"
+    },
+    {
+      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
+      "source": "Bellingcat",
+      "topic": "OSINT",
+      "title": "What Can Open Sources Reveal About Beijing’s Deadly Floods?",
+      "url": "https://www.bellingcat.com/news/2025/08/08/strongwhat-can-open-sources-reveal-about-beijings-deadly-floods-strong/",
+      "image": "https://www.bellingcat.com/app/uploads/2025/08/EDIT-stitched-flood-video-1.mp4",
+      "published_at": "2025-08-08T15:03:37.000Z",
+      "summary": "Earlier this week, the Beijing authorities placed all 16 of its districts on high alert in anticipation of torrential rain. More than 40 people have since been confirmed dead, and 80,000 evacuated citywide due to the floods.&#160; But what can open source data tell us about the damage caused? Satell"
+    },
+    {
+      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
+      "source": "Bellingcat",
+      "topic": "OSINT",
+      "title": "A Chinese Fentanyl Smuggling Network’s Footprints in Japan",
+      "url": "https://www.bellingcat.com/news/2025/08/07/a-chinese-fentanyl-smuggling-networks-footprints-in-japan/",
+      "image": null,
+      "published_at": "2025-08-07T13:42:10.000Z",
+      "summary": "This article is the result of a collaboration with Japanese publishing partner Nikkei. You can find Nikkei’s investigation here. Earlier this year, a man and a woman stood trial in a New York courtroom on charges related to the illicit drugs trade. They had been arrested as part of an undercover sti"
+    },
+    {
+      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
+      "source": "Bellingcat",
+      "topic": "OSINT",
+      "title": "Former Indian MP’s Terror Trial Was Largely Conducted in Her Absence",
+      "url": "https://www.bellingcat.com/news/rest-of-world/2025/08/01/pragya-thakur-malegaon-trial-absence/",
+      "image": null,
+      "published_at": "2025-08-01T01:30:00.000Z",
+      "summary": "This article includes data from Justice Delayed, an ongoing project by the author to create a database of criminal cases from more than 650 district courts in India.&#160; On the night of Sept. 29, 2008, an explosion ripped through a crowded area in the predominantly Muslim city of Malegaon, Maharas"
+    },
+    {
       "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Breaking News",
       "topic": "News",
@@ -2949,56 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856824",
       "image": null,
       "published_at": "2025-06-06T20:27:50.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Shin Bet arrests suspect who damaged Netanyahu's convoy vehicle - report",
-      "url": "https://www.jpost.com/breaking-news/article-856823",
-      "image": null,
-      "published_at": "2025-06-06T20:12:48.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "President Herzog honors Shira Banki at Jerusalem Pride Parade",
-      "url": "https://www.jpost.com/breaking-news/article-856818",
-      "image": null,
-      "published_at": "2025-06-06T16:47:45.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "France backs International Criminal Court after US sanctions judges",
-      "url": "https://www.jpost.com/breaking-news/article-856816",
-      "image": null,
-      "published_at": "2025-06-06T16:29:08.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Shattered window at Supreme Court prompts investigation after gunfire ruled out",
-      "url": "https://www.jpost.com/breaking-news/article-856811",
-      "image": null,
-      "published_at": "2025-06-06T15:18:22.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Jerusalem Supreme Rabbinical Court appoints three judges from Religious Zionist party",
-      "url": "https://www.jpost.com/breaking-news/article-856807",
-      "image": null,
-      "published_at": "2025-06-06T12:45:58.000Z",
       "summary": ""
     }
   ]
