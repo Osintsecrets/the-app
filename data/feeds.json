@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-10-02T22:35:02.732Z",
+  "generated_at": "2025-10-02T23:07:44.164Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Terrorists launch rockets at Rafah aid site, no damage reported",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-869302",
+      "image": null,
+      "published_at": "2025-10-03T02:01:03.000Z",
+      "summary": "The rockets fell in an area adjacent to the Morag Corridor, in close proximity to the distribution point, but the site was undamaged by the attack."
+    },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
@@ -52,6 +62,76 @@
       "summary": "A Senior Fellow at the Foundation for Defense of Democracies and former IDF spokesperson, outlines what rejection of the American president’s proposal would mean for Gaza, Israel, and the region."
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Haaretz Cartoon",
+      "url": "https://www.haaretz.com/opinion/daily-cartoon/2025-10-03/ty-article-opinion/haaretz-cartoon/00000199-a725-dc12-a5df-bf2f63e80000",
+      "image": "https://img.haarets.co.il/bs/00000199-a726-dc12-a5df-bf2f1e670001/9e/94/6ff109df4e2daf6540e2c112039e/eran-cartoon.jpg?height=81",
+      "published_at": "2025-10-02T23:00:14.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Вьетнам и Монголия стремятся активизировать многоплановое сотрудничество",
+      "url": "https://centralasia.media/news:2340567?from=rss",
+      "image": null,
+      "published_at": "2025-10-02T22:55:12.000Z",
+      "summary": "Парламент Монголии стремится к совершенствованию правовой системы, повышению прозрачности и созданию благоприятной инвестиционной среды для инвесторов, в том числе из Вьетнама, в сельском хозяйстве, электроэнергетике, перерабатывающей промышленности, горнодобывающей промышленности и обрабатывающе..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Argentina’s Congress overturns President Javier Milei’s veto on funding",
+      "url": "https://www.aljazeera.com/news/2025/10/2/argentinas-congress-overturns-president-javier-mileis-veto-on-funding?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-02T22:46:39.000Z",
+      "summary": "The congressional setback arrives as Milei's political party faces slumping popularity headed into a midterm election."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "New Lebanon city manager reflects on first month at work - WCAX",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV2J1WFUya0Ffa1R0Yzk1cWxVSTU1NjV2MThKaWNqS3IyUE5kSWpkemM0UFhxT1F3T2FZYVQwc3U3dXJRdFlVR2tyNjNGMFpHRFpkYXYzd2g4VmpIRzdPRC1NV1VhX3FRRlhsMWgxXzZTcGZSWk5NXy13QnAyd05VdWJjYm93alRVb2tZ0gGfAUFVX3lxTE5zU01EMERQUnJjcFp6LXp2UDBhbWVWVDNpVThqSkFwS0FSeVJySWU1X0dHLXVOZUphTVg0ZGZPaTRwMTV3cTl0bEt6Xy14TkdGcWlSenh2TXdHQk1aeUpGcDFtcFpqZnZkUjhPQ19GQS1jTzZaSmpyY0g2RUI2OExKLURTS09PQU1FWUQ4eW44WXQxdGpOWVV2S1ZtSDNqUQ?oc=5",
+      "image": null,
+      "published_at": "2025-10-02T22:46:00.000Z",
+      "summary": "New Lebanon city manager reflects on first month at work  WCAX"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "New Lebanon city manager reflects on first month at work - WCAX",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTG9XZ3ptNTd6Z2xMcGNNYzN4NTE1MTV3cFZPU3ZMTWg1YW1FeTd4emlSZW5Cb25VWTJ3U3ZfR1VCeWdpaXcwYlJETGtzUkhsVDNXWWpkZzJTdXotQ2Y5dmFCcVdEZmI5d1U0bElKRUFrbXltdmtOSGlMcUdaRkpQNmZ6MGxqRm5YVXE5aTRRX0Q4VlU?oc=5",
+      "image": null,
+      "published_at": "2025-10-02T22:45:00.000Z",
+      "summary": "New Lebanon city manager reflects on first month at work  WCAX"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Лесные пожары вспыхнули на севере Монголии",
+      "url": "https://centralasia.media/news:2340565?from=rss",
+      "image": null,
+      "published_at": "2025-10-02T22:42:21.000Z",
+      "summary": "Сотни пожарных борются с лесными пожарами в двух северных аймаках Монголии, сообщило в четверг Главное управление по чрезвычайным ситуациям (ГУЧС) страны."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Mt. Lebanon's Jackie Tang, Michelle Yang repeat as Class 3A tennis doubles champions - Pittsburgh Post-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0N0RElGdjZQckR2eHFxVEJSaUwyd3NtY2d3Y1NURjdvTVE2ZW55em5EN2psS3JfMlpKY0J3TU1iSFNyTzlMRTVlRjY1NVNPM3lHV0E1eEpaSUdhb0NkQW1iZEE1THFDMWoxZ1NOakNybTdLTFR2ODFTdkxGWVYwT2Vua2ZpXy1YRDlLNkN5ZC1HdlFnYzFWdGtIUE9mQ2FWeFMtanhweVh4Uk9IVVIzWGNtQ0Y?oc=5",
+      "image": null,
+      "published_at": "2025-10-02T22:37:12.000Z",
+      "summary": "Mt. Lebanon's Jackie Tang, Michelle Yang repeat as Class 3A tennis doubles champions  Pittsburgh Post-Gazette"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -60,6 +140,36 @@
       "image": null,
       "published_at": "2025-10-02T22:36:48.000Z",
       "summary": "The decision came following Israel's interception of the Global Sumud Flotilla, which carried two Colombian activists. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "France detains Russian ‘shadow’ tanker to disrupt war in Ukraine",
+      "url": "https://www.aljazeera.com/news/2025/10/2/france-detains-russian-shadow-tanker-to-disrupt-war-in-ukraine?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-02T22:36:02.000Z",
+      "summary": "Moscow considers France&#039;s detention of the ship, and arrest of the captain, an act of piracy."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Lebanon Correctional Institute inmate sentenced to 46 years to life in prison - WDTN.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVi1OMy1TVGhfbTh0Y3dSclRWTXhkN0piWEZjQnlnTEZYMjUzeUt2eDNjRnhMWmdlcXB2cFhPVVRTVzVkYl9fUkxXRl9NaWNJd1BCVEdkSC00U2ZWQ2xCQmhoU3NYNDhUVkR0UGR2cWZGdGJYOUd6am94RWNyUjlVYTJEaDVBZzBydDhmbllNUkNvU2NuZmJUMWJuaVJDMFNsemZnaWc5WGszTlhtR3U1bWp30gG3AUFVX3lxTE1UaDYtY1RFdkxMTUNqdjNacU9KblZ6V0I0WGRWbko2TlBmMkJmdnFfcFpNN09SVnJ6V1JGODRaSHl5WmtpdUZKWGVxZ2c2N2ZIbUd6YUxhblZ5ZERCdVFlSDFRek5UTHNBb0lRUU9JcHlCcFYzbWtfUGZoWnVhN0J0aTMyTUhYOF80XzdxS01FS1Z2dVB4aEMyUXJBbmNBTUhRejZRN1FFMjdqcjRrX3kwV3o3Zk5VVQ?oc=5",
+      "image": null,
+      "published_at": "2025-10-02T22:32:15.000Z",
+      "summary": "Lebanon Correctional Institute inmate sentenced to 46 years to life in prison  WDTN.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Afghanistan's Consulate Staff In Germany Resigns Over Accreditation Of Taliban-Appointed Officials - News18",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbEFPU0JUcEpyWGFteTQ0QVNfTjdYaXBOV1U5TEtBRmRMY3dmTm40SnlWTzV0eGdRSldVMUdIUEVuU0pwYnVBa0k5dmtzaGVtZWhWZjgxXy1jUEM4QUpLQWJCOFhVVUEzd2RMOEdwbU9ubkRha3lUMGxHcTVhZV9UTWt6Mm9aRlB5anROZ2FyOVdZOGRyZVEySGZ1MGZoZlQzRXRlTVJFQUxNZEF0Nnh3VzNfWUwwUWE1aFY0eGQ4N0N4bWFHdmM3NUlGdmtvTDczVGNOeng1YnFCbEp50gHiAUFVX3lxTE52LTdvLTJzNFhxVUdtZ085bl9NNi1YWFhuZDYzaldVT3gyOElBWWs0NldVY0NpbXFJVnNtZ2g5MXpyTWtXMXg4cEo1MVQ2ODF4X05yZU1WQ0hlWWlYSWRONnVnSVBuSm5TeU5VSGJKRVg5aGpEQUk3MTVQaHJPR3ZQTjZGRXZuZ1NmYU1XM0hlVkgyT0x2ZFdLYzNtZkpndjd4ZWNaVXlqMng4S1BPdlJOd3JScjlXQVhjNTZtV2hzd2drNDdoSllibDRUUzAxUGZGcFNlMWJmZXBQMjBnbXFTWEE?oc=5",
+      "image": null,
+      "published_at": "2025-10-02T22:31:00.000Z",
+      "summary": "Afghanistan's Consulate Staff In Germany Resigns Over Accreditation Of Taliban-Appointed Officials  News18"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -182,14 +292,24 @@
       "summary": "ניצב מאיר אליהו הקים \"כוח תקיפה\", דורש מכל שוטר במחוז הצפוני לחתור למגע ומבהיר: כל אירוע עלול להיגמר בפגיעה. \"משחררים עבריינים בעילות מקוממות, וכשכבר מענישים זו בדיחה\", הוא אומר, דורש לא להישאר לבד ופונה לצעדים תקדימיים: \"משתמש בכל דרך, נכנס לתוך המאורה\". וגם: תיק היימנוט קסאו"
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Officials celebrate grand opening of ‘Lebanon and Beyond’ at ABQ BioPark - KRQE",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLWNvQUNaWkxMR01fMXFIeTRNTW82VjBZck9hbUxiSGcwbjJWNVRSbFJVWFV1OWd0SnNXSHFvQWNUaWNZRnlvZm44X1VUMTYwUDZycVBieVNua1Jfcm5BQWQ4bFFfZU5YbzBMM0RaZlNLblNtRjEyTEtLN1FBRVhpVkRPVXhSeE81eC1YejlLS2dBV2NLUjVmYThoRk9UeHRreEZDZUh5b09YMzdrVFdMZm50LUlDd9IBuwFBVV95cUxQcFZ4bXplZlZ1dS16VGtZNDhLN1B5TEtVUUVfNFRBd3dBazhkeVhWTGNGZWF4X21IX0ZSRjZzZFU1X1pfVFcwUmNfTTg3dU1ocUdQRGtPSm1iVzZiOFd1MHFhYXI0OHZ5VFpyZjBSeUhYdEZCbEVzQVVtZlphMXRCQ1F3ZzlGNTQ2ZVJOVC1vX0FEcXlqZFBEcnplbUV6UWU4MS1mVEs5d0ZyOGhiUXFBZHREVVBiSy14YW80?oc=5",
+      "image": null,
+      "published_at": "2025-10-02T21:58:42.000Z",
+      "summary": "Officials celebrate grand opening of ‘Lebanon and Beyond’ at ABQ BioPark  KRQE"
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "US urges colleges to limit foreign enrollment, ensure viewpoint diversity in memo",
+      "title": "Trump Administration urges US colleges to limit foreign enrollment, ensure viewpoint diversity",
       "url": "https://www.timesofisrael.com/us-urges-colleges-to-limit-foreign-enrollment-ensure-viewpoint-diversity-in-memo/",
       "image": null,
       "published_at": "2025-10-02T21:53:37.000Z",
-      "summary": "Memo promises 'meaningful' grants to colleges that agree to terms, including ban on race and sex-based admission policies, nixing institutions that 'belittle' conservative ideas\nThe post US urges colleges to limit foreign enrollment, ensure viewpoint diversity in memo appeared first on The Times of "
+      "summary": "Memo promises 'meaningful' grants to colleges that agree to terms, including ban on race and sex-based admission policies, nixing institutions that 'belittle' conservative ideas\nThe post Trump Administration urges US colleges to limit foreign enrollment, ensure viewpoint diversity appeared first on "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -475,16 +595,6 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "החטיפה, החילוץ הדרמטי, אבינתן ואמא: נועה ארגמני שוברת שתיקה",
-      "url": "https://www.ynet.co.il/news/article/yokra14529924",
-      "image": null,
-      "published_at": "2025-10-02T21:00:00.000Z",
-      "summary": "הניסיונות הנואשים להימלט ורגעי החטיפה שקרעו אותה מבן זוגה. מה אמרו לה אנשי הימ\"מ כשפרצו לחדר הקטן בעזה. המפגש עם אמא שחיכתה לשובה, ונכנעה לסרטן 3 שבועות אחרי שהתאחדו. בראיון נדיר ל\"7 ימים\", נועה חושפת את רגעי האימה, הנחישות והגבורה שליוו אותה בשנתיים האחרונות, ומספרת על הפרטיות שנלקחה ממנה - ועל המא"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "\"מלאך השקר\", חלק ב': כך טייח המוסד את הטענות כי המרגל אשרף מרואן הונה את ישראל",
       "url": "https://www.ynet.co.il/news/article/yokra14529976",
       "image": null,
@@ -495,11 +605,21 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הצבא גילה את החוזקות והכישרון של רום",
+      "title": "החטיפה, החילוץ הדרמטי, אבינתן ואמא: נועה ארגמני שוברת שתיקה",
+      "url": "https://www.ynet.co.il/news/article/yokra14529924",
+      "image": null,
+      "published_at": "2025-10-02T21:00:00.000Z",
+      "summary": "הניסיונות הנואשים להימלט ורגעי החטיפה שקרעו אותה מבן זוגה. מה אמרו לה אנשי הימ\"מ כשפרצו לחדר הקטן בעזה. המפגש עם אמא שחיכתה לשובה, ונכנעה לסרטן 3 שבועות אחרי שהתאחדו. בראיון נדיר ל\"7 ימים\", נועה חושפת את רגעי האימה, הנחישות והגבורה שליוו אותה בשנתיים האחרונות, ומספרת על הפרטיות שנלקחה ממנה - ועל המא"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "נולד בכ\"ט בנובמבר ונפל ב-7 באוקטובר: סיפורו של סרן רום שלומי | זוכרים אותם",
       "url": "https://www.ynet.co.il/news/article/yokra14534319",
       "image": null,
       "published_at": "2025-10-02T21:00:00.000Z",
-      "summary": "כנער שסבל משלל קשיים בלימודים, רבים חשבו שסרן רום שלומי ז\"ל בכלל לא יתגייס — אבל הוא לא ויתר • \"כששמעתי סיפורים על מה שהוא עשה בצבא\", מספר אחיו, \"אמרתי אין סיכוי שזה אמיתי\" • ב-7 באוקטובר נפל הקצין המצטיין משלדג בקרב גבורה על מחנה רעים"
+      "summary": "ב-7 באוקטובר סרן רום שלומי התעורר מאזעקות במושב גנות, עלה על מדים וטס ליחידה. את הקרב על מחנה רעים הוא ניהל מול עשרות מחבלים תוך כדי שהוא עורך חסימת עורקים לעצמו - עד שנורה בראשו ונהרג. לרגל ציון שנתיים למחדל 7 באוקטובר, קרוביו נזכרים בילד שחשבו שלא יתגייס - והפך לקצין אמיץ ומוערך"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -542,46 +662,6 @@
       "summary": "Donald Trump talks Gaza deal with Qatar emir, Hamas yet to respond  The Jerusalem Post"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Manchester synagogue attack: Video shows suspect shot by police",
-      "url": "https://www.israelnationalnews.com/news/415719",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1200146.jpg",
-      "published_at": "2025-10-02T20:53:19.000Z",
-      "summary": "Video of the scene appears to show the suspect on the ground. Watch."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "U.S. grants $230M to Lebanon amid Hezbollah disarmament push - AnewZ",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDlBVWQ3N3liWk5oS0tMU0M2MElNV2NuQ2o5d2pJOF9LSFlJcGxQV2FYTmtaVW52aUI3Wmh6WDdFcmY0cHZDVm12dTl0WkhmVDFiRXlSOWxNQ1RsMXNJZ0htbUZYMnpaaDlQM0x0QlRWUl9BbU52SS12MzYtQTMwS1NqQTE1V3ptRlBzRHBqcWdhU0RHNUVWTTZBa3doZ3JXUE5ORw?oc=5",
-      "image": null,
-      "published_at": "2025-10-02T20:50:23.000Z",
-      "summary": "U.S. grants $230M to Lebanon amid Hezbollah disarmament push  AnewZ"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Report: Netanyahu met at White House with Qatari power broker tied to Gaza 'cash suitcases' scheme - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9meHViampGbEs3QU5KQXBhajY2aXBDQU9sUDdNQTVIb0Q3VXd5M1RZU05WSVlfYnFUU0ZlZnBVSjdOMWhRdmJLWWExYW5ZSXdfcm92OUxn?oc=5",
-      "image": null,
-      "published_at": "2025-10-02T20:50:14.000Z",
-      "summary": "Report: Netanyahu met at White House with Qatari power broker tied to Gaza 'cash suitcases' scheme  Ynetnews"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar First? - Foreign Policy",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZMXZnWDJ1NHo4X1VNOFZIZlgyaXhUelVLQkRhNmFGLXBHTERtbFlrVjNRYWFJWjNmVVd1bUF5dGV4ZTlJVTR3SHQ3ZmlEbi1ySUc2MmRkT19wRFlHbVFGbGJHNTc0QTVtbVVkbHZHbDFadjVDSnY4V1g2NUVydGM?oc=5",
-      "image": null,
-      "published_at": "2025-10-02T20:46:27.000Z",
-      "summary": "Qatar First?  Foreign Policy"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -602,16 +682,6 @@
       "summary": "Several members of Prime Minister Netanyahu's cabinet draw link between British recognition of a Palestinian state to Yom Kippur attack on a Manchester synagogue"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Three Hezbollah members killed in Israeli strikes - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhT0ZUa3RJMUl3cnNaaE5JUXR3QUFIdUQ3VkxVa3ctMkxOSlltMVdtaDBFeENpS05tVVE0SVBKdVRIMVhCbnJzX1RSeXEzdHlTRGhaT2hLZG5uOWxubjRfYUU4Tk9mNjhmOVh4QjFB?oc=5",
-      "image": null,
-      "published_at": "2025-10-02T20:36:12.000Z",
-      "summary": "Three Hezbollah members killed in Israeli strikes  The Jerusalem Post"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -622,16 +692,6 @@
       "summary": "Russian-speaking cybercrime group thought behind attack on Assaf Harofeh Medical Center, with ransom message addressed to 'Bibi and Sara'; hackers said to demand $700,000 in 72 hours\nThe post Leak of patient records feared as Israeli hospital hit by cyberattack demanding ransom appeared first on The"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Official Trailer for Polygamy Supernatural Horror 'The Vile' from UAE - FirstShowing",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbl9BUW1pUmhXWjNQb1B2SXl3N2lmYWZxaEpRalp1WXVwTUxFNjd6d29JZmt2NkFZWXptZjRTQjFVSVJjNGthVFpHaEliTzJjMy1PRE11cGZsVXhhcjZpUndzT0FwVjEydmNIZWxNZ0ltM08xSDMxcDk0LW4tbGY4c0RuaEJaQ2ZtMjJyYi1MNDRTSllRNFk0MVNRYUNQb3dwWWNaaw?oc=5",
-      "image": null,
-      "published_at": "2025-10-02T20:32:57.000Z",
-      "summary": "Official Trailer for Polygamy Supernatural Horror 'The Vile' from UAE  FirstShowing"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -640,16 +700,6 @@
       "image": null,
       "published_at": "2025-10-02T20:32:25.000Z",
       "summary": "Families and friends of Gaza-bound flotilla activists detained by Israel joined a demonstration in the Netherlands."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban foreign minister to visit India next week - Tribune India",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSjMwSHJPbk15c3dnX1AzSW4wU0VpemE0eEFDcHVIdlBQV25Sbl9mZ0cwVS1raFlLVk8xc2JBcmNoclFPMkhOX1FlOW1rN2dLazl3RWlyaUp6TEY1SWMwdHBmRDlWY3BxU3QtektKbEU4V3d4bkJBWXRNYmFFT21pVDQ3YlIzdklic2xZZ1RJa2JGcVVW0gGYAUFVX3lxTE9QVU5fSks3SmtOc1lseFFlYlZZX05nc3BIc2E1RExQTklSaVZ4SWNRVVZVYjJtMDlFLUtZX1JjT09UMm8zb3k1c29SUlhnWHVoanFRTC1iS1dUNVlrakp3T09YbklfT0RWZEZjT3hpR2hJcl8zZVlodnpfakpaSkhyZVJiTTR1Nmx4cl85RnBOd1hueHlOeEtz?oc=5",
-      "image": null,
-      "published_at": "2025-10-02T20:30:49.000Z",
-      "summary": "Taliban foreign minister to visit India next week  Tribune India"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1300,16 +1350,6 @@
       "image": null,
       "published_at": "2025-10-02T14:01:41.000Z",
       "summary": "Tens of thousands turn out, but numbers are fewer so far than the last protest that drew half a million to the streets. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "What we know about Israel’s interception of the Gaza flotilla",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/2/what-we-know-about-israels-interception-of-the-gaza-flotilla?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-10-02T13:27:03.000Z",
-      "summary": "Videos show Israeli forces intercepting several aid boats in international waters and detaining activists onboard. "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2012,16 +2052,6 @@
       "summary": "The comments followed remarks by Qatar’s Prime Minister, Sheikh Mohammed bin Abdulrahman Al-Thani, who strongly suggested that negotiations would be necessary."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "'Terrorists must be killed': Reservist who shot terrorist recalls moments of the attack",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-869135",
-      "image": null,
-      "published_at": "2025-09-30T20:11:49.000Z",
-      "summary": "“I passed by the junction and heard the sound of a collision behind me,” Nechama said. “I looked in the mirror and saw a vehicle colliding with the bus stop.\""
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2612,16 +2642,6 @@
       "summary": "While the recognition by several Western nations was widely welcomed, many say the gesture is meaningless without an end to war and famine in Gaza. 'Someone who can't find a shelter, with death surrounding him, doesn't have the luxury to care about a state,' said one Gaza City resident"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Lior Suchard: 'I showed Kris Jenner Oct. 7 videos. 3 days later she posts: 'I Stand with Israel''",
-      "url": "https://www.haaretz.com/life/2025-09-29/ty-article-magazine/.premium/i-showed-kris-jenner-oct-7-videos-3-days-later-she-posts-stand-with-israel/00000199-964f-ddb4-abdd-ffffcc1a0000",
-      "image": "https://img.haarets.co.il/bs/00000199-9651-d4f2-a3b9-d77515a30001/fc/e6/c67582ae4a32b1d802d01b06c1fc/63042710.JPG?height=81",
-      "published_at": "2025-09-29T17:10:42.000Z",
-      "summary": "'When you see Jennifer Lopez, you might say, 'Wow, it's Jennifer Lopez.' She says that I'm her celebrity': Mentalist superstar Lior Suchard explains why, despite his enormous success in America, he doesn't want to leave Israel"
-    },
-    {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
       "topic": "OSINT",
@@ -2979,26 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856767",
       "image": null,
       "published_at": "2025-06-05T23:07:10.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Trump administration imposes sanctions on ICC judges, US Treasury says",
-      "url": "https://www.jpost.com/breaking-news/article-856765",
-      "image": null,
-      "published_at": "2025-06-05T22:56:38.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Trump suggests terminating Musk's US government contracts, subsidies",
-      "url": "https://www.jpost.com/breaking-news/article-856764",
-      "image": null,
-      "published_at": "2025-06-05T22:33:04.000Z",
       "summary": ""
     }
   ]
