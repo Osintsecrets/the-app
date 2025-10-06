@@ -1,15 +1,35 @@
 {
-  "generated_at": "2025-10-06T02:17:05.652Z",
+  "generated_at": "2025-10-06T03:13:01.668Z",
   "items": [
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Two years on, Israeli society must not allow itself to forget the reckoning of Oct. 7 - editorial",
+      "url": "https://www.jpost.com/opinion/article-869558",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1200,w_2160/683838",
+      "published_at": "2025-10-06T06:00:26.000Z",
+      "summary": "The October 7 massacre forced Israeli society to confront an existential threat it had tried to avoid."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Defense Ministry: 1,152 soldiers fallen since October 7, over 40% were under age 21",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-869566",
+      "image": null,
+      "published_at": "2025-10-06T06:00:05.000Z",
+      "summary": "Since Oct. 7, 1,152 Israeli soldiers have fallen, with over 40% under 21 years old, the Defense Ministry said, adding that more than 6,500 family members have joined Israel’s circle of bereavement."
+    },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
       "title": "Greta Thunberg to be deported to Greece following Global Sumud Flotilla arrest",
       "url": "https://www.jpost.com/international/article-869572",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/683840",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1006,w_566/683840",
       "published_at": "2025-10-06T04:58:01.000Z",
-      "summary": "Global Sumud Flotilla says activist Greta Thunberg will be deported to Greece on Monday after joining the pro-Palestinian maritime mission."
+      "summary": "Global Sumud Flotilla says activist Greta Thunberg will be deported to Greece on Monday after the Israeli navy intercepted and detained her."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -32,6 +52,86 @@
       "summary": "Former Fox News Jerusalem correspondent Leland Vittert recalls the moment that changed his view of Israel and why he no longer believes a two-state solution is realistic."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Two years of war: 1,152 have fallen since October 7, 2023",
+      "url": "https://www.israelnationalnews.com/news/415875",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1136147.jpg",
+      "published_at": "2025-10-06T03:00:07.000Z",
+      "summary": "New data from the Ministry of Defense reveals that 1,152 members of Israel's security forces have fallen since the outbreak of the Swords of Iron War, including 487 under the age of 21."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "שנתיים למלחמת 7/10: \"הכאב רק מתחזק, הזמן לא עושה את שלו\" | נתוני הנופלים",
+      "url": "https://www.ynet.co.il/news/article/bja9qrxagx",
+      "image": null,
+      "published_at": "2025-10-06T03:00:00.000Z",
+      "summary": "מאז אותה שבת נפלו 1,152 חללים, ויותר מ-6,500 בני משפחה נוספו למעגל השכול. סמל אדיר טהר נהרג בקרב על מוצב ארז, אביו עדיין מחכה לתשובות: \"לא למדנו דבר\". סמ\"ר נדב ביטון נורה אחרי שהציל את חברו בנובה, מאז אביו מארח חיילים בודדים. עבור משפחתה של שיר ירון שנרצחה במסיבה \"כל יום זה סיוט\""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Josh Shapiro had the potential to become U.S. president – but then the Gaza war happened",
+      "url": "https://www.haaretz.com/israel-news/2025-10-06/ty-article/.premium/josh-shapiro-had-the-potential-to-become-u-s-president-but-then-the-gaza-war-happened/00000199-b4b7-dcde-a5bf-b7bf958c0000",
+      "image": "https://img.haarets.co.il/bs/00000199-b4e0-d9d3-ab9b-f6f9fe350000/00/cc/047a5f674422aec9b1e964e154c8/102157.jpg?height=81",
+      "published_at": "2025-10-06T02:58:14.000Z",
+      "summary": "The dramatic shift among the vast majority of U.S. Jews is closely related to footage of hungry children in Gaza in recent months. The effort by Israel to find an excuse has failed to convince Americans of anything other than that the Israeli government is no longer to be believed"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump authorises deployment of 300 National Guard troops to Chicago",
+      "url": "https://www.bbc.com/news/articles/c2dnk0ee6pyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0dd/live/4ac49720-a187-11f0-b1c5-b56e9bf8a857.jpg",
+      "published_at": "2025-10-06T02:55:02.000Z",
+      "summary": "The controversial move follows protests over ramped-up immigration enforcement and the shooting of a woman during unrest on Saturday."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Trump says first phase of hostage release talks to be completed this week",
+      "url": "https://www.haaretz.com/israel-news/2025-10-06/ty-article-live/trump-says-first-phase-of-hostage-release-talks-to-be-completed-this-week/00000199-b766-d9d3-ab9b-f7ffe2e50000",
+      "image": "https://img.haarets.co.il/bs/00000199-b3ea-d9d3-ab9b-f3fb7ee80000/6a/08/86924cb34836856d9a1b6586b043/346544-1.jpg?height=81",
+      "published_at": "2025-10-06T02:54:42.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Президент Узбекистана примет участие в саммите ОТГ",
+      "url": "https://centralasia.media/news:2341733?from=rss",
+      "image": null,
+      "published_at": "2025-10-06T02:54:04.000Z",
+      "summary": "Президент Узбекистана Шавкат Мирзиёев примет участие в саммите Организации тюркских государств (ОТГ), который состоятся в городе Габала (Азербайджан). Об этом сообщили в пресс-службе президента."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Монголия с 2021 года посадила 114,6 млн деревьев для борьбы с опустыниванием",
+      "url": "https://centralasia.media/news:2341697?from=rss",
+      "image": null,
+      "published_at": "2025-10-06T02:53:21.000Z",
+      "summary": "С момента запуска общенациональной кампании по посадке деревьев в 2021 году по всей стране было высажено в общей сложности 114,6 млн деревьев. Об этом говорится в данных департамента лесного хозяйства правительства Монголии."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Protests erupt after judge, cleric targeted in separate attacks in GB",
+      "url": "https://www.dawn.com/news/1946932/protests-erupt-after-judge-cleric-targeted-in-separate-attacks-in-gb",
+      "image": "https://i.dawn.com/large/2025/10/06074954e3d5f61.webp",
+      "published_at": "2025-10-06T02:50:47.000Z",
+      "summary": "https://www.dawn.com/news/1946903/gb-judge-cleric-targeted-in-separate-attacks"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -40,6 +140,56 @@
       "image": null,
       "published_at": "2025-10-06T02:49:35.000Z",
       "summary": "Maj.-Gen. Tomer Bar requested to retire after four years as Israel Air Force chief, despite IDF efforts to keep him on amid ongoing operations against Hamas, Hezbollah, and Iran, N12 reported."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "GB judge, cleric targeted in separate attacks",
+      "url": "https://www.dawn.com/news/1946903/gb-judge-cleric-targeted-in-separate-attacks",
+      "image": "https://i.dawn.com/large/2025/10/060746155d3f0e3.webp",
+      "published_at": "2025-10-06T02:47:58.000Z",
+      "summary": "GILGIT: A judge of the Gilgit-Baltistan Chief Court survived a brazen gun attack in Gilgit on Sunday morning, police said.\nThe incident came the same day as a separate attack on a religious leader left at least five people injured.\nAccording to police, Judge Malik Inayatur Rehman and his security..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Iran: IAEA cooperation deal invalid after snapback sanctions triggered",
+      "url": "https://www.israelnationalnews.com/news/415874",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1194848.jpg",
+      "published_at": "2025-10-06T02:43:18.000Z",
+      "summary": "Iran says its Cairo nuclear deal with the IAEA is no longer valid after E3-triggered snapback sanctions. FM Araghchi warns the move hampers diplomacy."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "PTI calls for transparency after Pakistan dispatches first consignment of mineral samples to US",
+      "url": "https://www.dawn.com/news/1946924/pti-calls-for-transparency-after-pakistan-dispatches-first-consignment-of-mineral-samples-to-us",
+      "image": "https://i.dawn.com/large/2025/10/06073618ff4d2dc.webp",
+      "published_at": "2025-10-06T02:39:42.000Z",
+      "summary": "https://www.dawn.com/news/1946904/pti-calls-for-transparency-after-first-us-mineral-shipment"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Sources: Taliban fire 90 female literacy teachers in eastern Afghanistan - Amu TV",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9vY0g5WTFyQWJtSjFIUzFKU3h4YzJpXzRBaF9NZG1GalN5YktOMU1WeG43SkFVNjRkd0E?oc=5",
+      "image": null,
+      "published_at": "2025-10-06T02:31:12.000Z",
+      "summary": "Sources: Taliban fire 90 female literacy teachers in eastern Afghanistan  Amu TV"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "ICC to give war crimes verdict on Sudan militia chief",
+      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/icc-give-war-crimes-verdict-sudan-militia-chief_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
+      "image": null,
+      "published_at": "2025-10-06T02:30:19.000Z",
+      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npThe International Criminal Court (ICC) on Monday hands down its verdict on a feared Sudanese militia chief accused of war crimes and crimes against h..."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
@@ -52,14 +202,14 @@
       "summary": "British Conservative Party leader Kemi Badenoch warns UK streets have become “theaters of intimidation” after deadly synagogue attack in Manchester."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
       "topic": "News",
-      "title": "How UAE’s Operation Chivalrous Knight brings relief amid war, earthquakes globally - Khaleej Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QeU84cDh4cm81bVJZdF82UzR1QnZuWmQ0MHNJdDFWX0lETTd1VUhpTk1GTmdqTWIxT2dhLWZQNDY5ZXlSNW13LWp5d1ZGcFkxd0VheUlhNEU3RGRFYWpaUGNSaUtrN25WMkZXUjFkbWM1UdIBekFVX3lxTE1GQnNqaDZQS1VOMEFDSDJJR2gzajZOY0VNQXVIYkZhbUFkTnRFbm5WQUJJN1NZdndQaktJYTMteHRibGQxQ2FaUTRoU3VMUUhuem5sbnVJckkyb0lkUjF0NkdIaW5UV2l6ZFd4X1o5cklSbFZaWEw3amF3?oc=5",
+      "title": "Doctors Without Borders &#8216;outraged&#8217; after 15th staffer killed in Gaza",
+      "url": "https://www.timesofisrael.com/doctors-without-borders-outraged-after-15th-staffer-killed-in-gaza/",
       "image": null,
-      "published_at": "2025-10-06T02:00:00.000Z",
-      "summary": "How UAE’s Operation Chivalrous Knight brings relief amid war, earthquakes globally  Khaleej Times"
+      "published_at": "2025-10-06T02:07:00.000Z",
+      "summary": "Military looking into incident, says target of strike was Hamas operative; four said killed while seeking aid in southern Gaza, at least 8 killed in Gaza City strike\nThe post Doctors Without Borders &#8216;outraged&#8217; after 15th staffer killed in Gaza appeared first on The Times of Israel.\n"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -70,6 +220,16 @@
       "image": null,
       "published_at": "2025-10-06T02:00:00.000Z",
       "summary": "UAE residents advised to book flights early as December airfares set to soar  Khaleej Times"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "How UAE’s Operation Chivalrous Knight brings relief amid war, earthquakes globally - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QeU84cDh4cm81bVJZdF82UzR1QnZuWmQ0MHNJdDFWX0lETTd1VUhpTk1GTmdqTWIxT2dhLWZQNDY5ZXlSNW13LWp5d1ZGcFkxd0VheUlhNEU3RGRFYWpaUGNSaUtrN25WMkZXUjFkbWM1UdIBekFVX3lxTE1GQnNqaDZQS1VOMEFDSDJJR2gzajZOY0VNQXVIYkZhbUFkTnRFbm5WQUJJN1NZdndQaktJYTMteHRibGQxQ2FaUTRoU3VMUUhuem5sbnVJckkyb0lkUjF0NkdIaW5UV2l6ZFd4X1o5cklSbFZaWEw3amF3?oc=5",
+      "image": null,
+      "published_at": "2025-10-06T02:00:00.000Z",
+      "summary": "How UAE’s Operation Chivalrous Knight brings relief amid war, earthquakes globally  Khaleej Times"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
@@ -117,7 +277,7 @@
       "topic": "News",
       "title": "'Time is of the essence, or massive bloodshed will follow,' Trump warns Gaza ceasefire delegations",
       "url": "https://www.jpost.com/middle-east/article-869565",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_448,w_632/683227",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/683227",
       "published_at": "2025-10-06T01:11:55.000Z",
       "summary": "US President Donald Trump warned that “time is of the essence” in Gaza ceasefire talks, urging negotiators to act quickly to avoid “massive bloodshed” and saying progress has been “very positive.”"
     },
@@ -212,16 +372,6 @@
       "summary": "Qatar Orders Ships to Halt Navigation in its Waters Due to GPS \"Fault\"  The Maritime Executive"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Монголия посадила 114.6 млн деревьев с 2021 года для борьбы с опустыниванием",
-      "url": "https://centralasia.media/news:2341697?from=rss",
-      "image": null,
-      "published_at": "2025-10-06T00:23:07.000Z",
-      "summary": "По данным департамента лесного хозяйства правительства Монголии, опубликованным в пятницу, с момента запуска общенациональной кампании по посадке деревьев в 2021 году по всей стране было высажено в общей сложности 114.6 млн деревьев."
-    },
-    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -307,7 +457,7 @@
       "topic": "News",
       "title": "Trump urges mediators to 'move fast' as key Gaza peace talks set to begin",
       "url": "https://www.bbc.com/news/articles/cj3y6g43248o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd6/live/d4e37ab0-a1f6-11f0-947b-6b8b23372a50.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf8/live/ebb15440-a261-11f0-92db-77261a15b9d2.jpg",
       "published_at": "2025-10-05T23:53:33.000Z",
       "summary": "Strikes have continued in Gaza as negotiators prepare to head to Egypt for talks starting on Monday."
     },
@@ -472,36 +622,6 @@
       "summary": "Israel and Hamas set to hold indirect talks on Monday to discuss a US-led initiative largely accepted by both sides. \n"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump authorises deployment of 300 National Guard troops to Chicago",
-      "url": "https://www.bbc.com/news/articles/c2dnk0ee6pyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0dd/live/4ac49720-a187-11f0-b1c5-b56e9bf8a857.jpg",
-      "published_at": "2025-10-05T22:50:20.000Z",
-      "summary": "The controversial move follows protests over ramped-up immigration enforcement and the shooting of a woman during unrest on Saturday."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Turkish Airlines weighs request to resume Israel flights - report",
-      "url": "https://www.jpost.com/middle-east/article-869553",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3486,w_5227/683808",
-      "published_at": "2025-10-05T22:45:16.000Z",
-      "summary": "The decision would mark the end of a nearly two-year period without Turkish Airlines flights at Ben Gurion Airport."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Land Rover cyberattack shows how a single breach can halt modern manufacturing",
-      "url": "https://www.jpost.com/business-and-innovation/article-869551",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/683807",
-      "published_at": "2025-10-05T22:40:46.000Z",
-      "summary": "Israeli expert says the hit on Jaguar Land Rover was “no ordinary cyberattack,” with lessons for supply chains and factory floors worldwide"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -520,16 +640,6 @@
       "image": null,
       "published_at": "2025-10-05T22:35:47.000Z",
       "summary": "Source says terror group to fight for release of life-termers 'even at the cost of dooming the deal,' wants deeper initial IDF withdrawal and is working to ensure PA role in 'day-after' Gaza\nThe post Hamas said to demand release of terror chiefs, Oct. 7 terrorists in deal for hostages appeared first"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Trump says Gaza talks advancing rapidly, first phase should be completed this week",
-      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/trump-says-gaza-talks-advancing-rapidly-first-phase-should-be-completed-week_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
-      "image": null,
-      "published_at": "2025-10-05T22:35:38.000Z",
-      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npWASHINGTON (Reuters) -U.S. President Donald Trump said on Sunday talks with Hamas to end Israel's war in Gaza and release hostages held by the Palest..."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -552,26 +662,6 @@
       "summary": ""
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban block World Teachers’ Day celebrations as EU praises Afghan educators - Amu TV",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBkYm42RHJ2SWp1VHVzUTdhWENYdG1tczN1Q3dFZUw4cWR6Smdxalh3a0puYjB3aFlQbXc?oc=5",
-      "image": null,
-      "published_at": "2025-10-05T22:11:40.000Z",
-      "summary": "Taliban block World Teachers’ Day celebrations as EU praises Afghan educators  Amu TV"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Trump: Talks are very positive, first phase should be completed this week",
-      "url": "https://www.israelnationalnews.com/news/415868",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1196965.jpg",
-      "published_at": "2025-10-05T22:06:00.000Z",
-      "summary": "Trump says talks with Hamas to end Gaza war and release hostages are progressing fast and expresses optimism first phase will be completed this week, but warns: “Time is of the essence or massive bloodshed will follow.”"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -590,16 +680,6 @@
       "image": null,
       "published_at": "2025-10-05T22:00:30.000Z",
       "summary": "“Bibi told Trump this is nothing to celebrate, and that it doesn't mean anything,\" Axios quoted an informed US official with knowledge of the call."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar’s bloody fingerprints: The double game of a terror sponsor - opinion",
-      "url": "https://www.jpost.com/middle-east/article-869550",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4480,w_6720/683805",
-      "published_at": "2025-10-05T21:55:10.000Z",
-      "summary": "The audacity of Qatar’s demand that Israel apologize for its attack, without offering its own apology for its role in the conflict, exposes the hypocrisy of the international community."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -690,6 +770,16 @@
       "image": null,
       "published_at": "2025-10-05T21:00:00.000Z",
       "summary": "על הרגעים האחרונים בממ\"ד, על הגעגועים העזים לשירי, אריאל וכפיר, המשפחה האוהבת שהייתה תמונת הניצחון שלו, על הפחד מהזיכרונות שיבגדו וייעלמו, על הפגישות עם החבר הכי טוב דוד קוניו במנהרות, על הקהילה והבית, העולם שאבד. ירדן ביבס כותב"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"סוכת התקווה\" שתפורק רק כשגיא יחזור מהשבי: \"אני מדבר אליו כל ערב\"",
+      "url": "https://www.ynet.co.il/news/article/yokra14537307",
+      "image": null,
+      "published_at": "2025-10-05T21:00:00.000Z",
+      "summary": "הסוכה שבנה גיא גלבוע דלאל עם אביו לפני שנתיים עדיין עומדת בחצר באלפי מנשה. הזמן שחלף ניכר בקישוטים הדהויים ובענפי הסכך היבשים, אבל אילן דלאל לא מפרק אותה עד שבנו ישוב. בצל האופטימיות הזהירה לעסקה, אילן מייחל שהחטופים סוף-סוף יחזרו: \"כל עוד 'סוכת התקווה' עומדת - יש לנו במה להיאחז\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1172,16 +1262,6 @@
       "summary": "10 new shelters placed on beaches, in sports fields and parks, after drone attack last month wounded 20 people; no injuries caused in latest attack\nThe post Eilat puts public bomb shelters on the beach as Houthi drone shot down over resort city appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Hundreds of thousands march in rallies across Europe against Israel",
-      "url": "https://www.timesofisrael.com/hundreds-of-thousands-march-in-rallies-across-europe-against-israel/",
-      "image": null,
-      "published_at": "2025-10-05T17:00:04.000Z",
-      "summary": "Protests held in Turkey, the Netherlands, Bulgaria and Spain, also Morocco, in support of Palestinians and of flotilla intercepted as it headed to Gaza Strip\nThe post Hundreds of thousands march in rallies across Europe against Israel appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1452,16 +1532,6 @@
       "summary": "Syria is holding its first indirect parliamentary election since the ouster of longtime ruler Bashar al-Assad."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "לבנון: כוכב הפופ שהפך לנאשם בטרור נעצר במחנה פליטים פלסטיני אחרי 12 שנות מצוד",
-      "url": "https://www.ynet.co.il/news/article/b1pbxxlaxg",
-      "image": null,
-      "published_at": "2025-10-05T14:10:08.000Z",
-      "summary": "פאדל שאכר הפך לכוכב בעולם הערבי בתחילת המילניום, ושנים לאחר מכן הדהים את מעריציו כשהתקרב לאיש דת סוני קיצוני. הוא הואשם במעורבות בעימותים קטלניים בין טרוריסטים לחיילים לבנונים, נשפט בהיעדרו ל-22 שנות מאסר ובמשך 12 שנים הסתתר במחנה פליטים פלסטיני. בעודו במחתרת פרסם שיר שהפך ללהיט"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1530,16 +1600,6 @@
       "image": null,
       "published_at": "2025-10-05T13:34:25.000Z",
       "summary": "Georgia&#039;s prime minister says protesters who stormed the presidential palace aimed to overthrow the government. "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "טראמפ ל-CNN: \"השמדה מוחלטת!\" - אם חמאס יתעקש להישאר בשלטון",
-      "url": "https://www.ynet.co.il/news/article/bjxw6jxpeg",
-      "image": null,
-      "published_at": "2025-10-05T13:11:28.000Z",
-      "summary": "נשיא ארה\"ב משגר מסר מאיים נוסף לחמאס, ואמר כי הוא מצפה לגלות במהירות בשיחות בקהיר אם ארגון הטרור רציני בנוגע להשגת שלום. הוא טען שנתניהו תמך בהפסקת ההפצצות בעזה (\"כן על ביבי\"), מזכיר המדינה רוביו העריך: 90% מפרטי עסקת החטופים סגורים, המו\"מ לא יכול להימשך שבועות - או אפילו כמה ימים"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1670,16 +1730,6 @@
       "image": null,
       "published_at": "2025-10-05T11:09:39.000Z",
       "summary": "The source also noted that the purpose of the Cairo negotiations is “to begin arranging conditions on the ground in preparation for the release of hostages and Palestinian prisoners.”"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Over 1,700 cases of measles diagnosed in Israel",
-      "url": "https://www.jpost.com/israel-news/article-869423",
-      "image": null,
-      "published_at": "2025-10-05T10:18:38.000Z",
-      "summary": "The areas currently defined as outbreak zones are Jerusalem, Beit Shemesh, Bnei Brak, Harish, Modi’in Illit, Nof Hagalil, Kiryat Gat, Ashdod, and Safed."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1825,21 +1875,21 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "'We don't know when the next bombardment will come': Gazans struggle to believe a cease-fire is on the way",
-      "url": "https://www.haaretz.com/israel-news/2025-10-05/ty-article/.premium/dont-know-whens-next-bombardment-gazans-struggle-to-believe-cease-fire-on-the-way/00000199-b0c4-d5c1-ad9d-f1cdb3a80000",
-      "image": "https://img.haarets.co.il/bs/00000199-b13a-da1c-addb-bbba65ee0000/8a/52/3b62f3e540fe82d41877c0c8eaeb/331433.jpg?height=81",
-      "published_at": "2025-10-05T03:00:00.000Z",
-      "summary": "'This time I won't believe anyone until I see with my own eyes that the army is no longer in Gaza,' said a resident. Gaza's health ministry said 129 Palestinians were killed by IDF fire in the past two days"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
       "title": "Despite suffering ridicule, Macron's two-state initiative heavily affected Trump's Gaza plan",
       "url": "https://www.haaretz.com/israel-news/2025-10-05/ty-article/.premium/despite-the-ridicule-macrons-two-state-initiative-heavily-affected-trumps-gaza-plan/00000199-b096-d9d3-ab9b-f2df55430000",
       "image": "https://img.haarets.co.il/bs/00000199-b121-da1c-addb-bbb9b1c00000/da/48/ca0f59f341808785b55f1d5de4d3/188067.jpg?height=81",
       "published_at": "2025-10-05T03:00:00.000Z",
       "summary": "The French-Saudi two-state plan, launched in late September, initially seemed to carry zero practical significance. But despite Netanyahu's insults, it affected Trump's cease-fire plan in key points – including dashing any hopes for a Gaza Riviera"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "'We don't know when the next bombardment will come': Gazans struggle to believe a cease-fire is on the way",
+      "url": "https://www.haaretz.com/israel-news/2025-10-05/ty-article/.premium/dont-know-whens-next-bombardment-gazans-struggle-to-believe-cease-fire-on-the-way/00000199-b0c4-d5c1-ad9d-f1cdb3a80000",
+      "image": "https://img.haarets.co.il/bs/00000199-b13a-da1c-addb-bbba65ee0000/8a/52/3b62f3e540fe82d41877c0c8eaeb/331433.jpg?height=81",
+      "published_at": "2025-10-05T03:00:00.000Z",
+      "summary": "'This time I won't believe anyone until I see with my own eyes that the army is no longer in Gaza,' said a resident. Gaza's health ministry said 129 Palestinians were killed by IDF fire in the past two days"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2702,26 +2752,6 @@
       "summary": "FIFA has faced repeated calls to act over the war in Gaza, with Palestinian officials pressing for Israel to be suspended from international football. UEFA is expected to decide this week on a possible suspension, while the U.S. has intervened to prevent any ban on Israel ahead of the 2026 World Cup"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Colombia expels Israeli diplomats, suspends free trade pact after Gaza flotilla detentions",
-      "url": "https://www.haaretz.com/news/world/2025-10-02/ty-article/.premium/colombia-expels-israeli-diplomats-suspends-free-trade-pact-after-gaza-flotilla-detentions/00000199-a55f-df33-a5dd-a57f35320000",
-      "image": "https://img.haarets.co.il/bs/00000199-a57b-df33-a5dd-a57f4f800001/93/53/0dd432ca48d193ac39548c58abf3/238280.jpg?height=81",
-      "published_at": "2025-10-02T16:14:13.000Z",
-      "summary": "The decision follows the detention of two Colombian activists on the Global Sumud Flotilla, but also signals a broader shift in Bogota's foreign policy. President Petro has increasingly aligned Colombia with pro-Palestinian positions, drawing criticism from Israel and concern within his own cabinet"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Gaza officials say 77 Palestinians killed by IDF in past day, including two waiting for aid",
-      "url": "https://www.haaretz.com/middle-east-news/2025-10-02/ty-article/.premium/gaza-officials-say-77-palestinians-killed-by-idf-in-past-day-including-two-aid-seekers/00000199-a545-dc12-a5df-bd4f13990000",
-      "image": "https://img.haarets.co.il/bs/00000199-a54c-df33-a5dd-a57f01580001/2e/96/73569e3b407187467e4672d499be/298778.jpg?height=81",
-      "published_at": "2025-10-02T14:43:14.000Z",
-      "summary": "Israeli bombardment reportedly focused on Gaza City and surrounding neighborhoods, with strikes also reported in Zawaida and Al-Muwasi, where a food distribution facility was damaged. Local sources said armored vehicles entered the Nuseirat camp and troops fired on civilians in Daraj and Rafah"
-    },
-    {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
       "topic": "OSINT",
@@ -2969,36 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856827",
       "image": null,
       "published_at": "2025-06-06T23:18:04.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Magnitude 6.6 earthquake strikes off coast of northern Chile, GFZ says",
-      "url": "https://www.jpost.com/breaking-news/article-856824",
-      "image": null,
-      "published_at": "2025-06-06T20:27:50.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Shin Bet arrests suspect who damaged Netanyahu's convoy vehicle - report",
-      "url": "https://www.jpost.com/breaking-news/article-856823",
-      "image": null,
-      "published_at": "2025-06-06T20:12:48.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "President Herzog honors Shira Banki at Jerusalem Pride Parade",
-      "url": "https://www.jpost.com/breaking-news/article-856818",
-      "image": null,
-      "published_at": "2025-06-06T16:47:45.000Z",
       "summary": ""
     }
   ]
