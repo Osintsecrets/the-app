@@ -1,6 +1,36 @@
 {
-  "generated_at": "2025-10-08T06:13:42.675Z",
+  "generated_at": "2025-10-08T06:46:13.196Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israel–Premier Tech to drop Israeli identity amid safety concerns",
+      "url": "https://www.jpost.com/israel-news/sports/article-869743",
+      "image": null,
+      "published_at": "2025-10-08T09:44:21.000Z",
+      "summary": "Facing protests and security risks, Israel–Premier Tech will rebrand for 2026, removing “Israel” from its name to ensure the team’s survival in Europe."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "'The pulpit must speak louder than the propaganda': FOZ mobilizes pastors to back Israel",
+      "url": "https://www.jpost.com/israel-news/article-869742",
+      "image": null,
+      "published_at": "2025-10-08T09:31:37.000Z",
+      "summary": "Over 250 million Christians join a global call led by Dr. Mike Evans and FOZ to honor October 7 victims and stand against rising antisemitism."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Trump envoys Witkoff and Kushner arrive in Sharm el-Sheikh to join negotiations",
+      "url": "https://www.jpost.com/israel-news/article-869734",
+      "image": null,
+      "published_at": "2025-10-08T09:13:32.000Z",
+      "summary": "US envoys Jared Kushner and Steve Witkoff arrived in Sharm el-Sheikh as Israel, Hamas, and mediators discuss a potential ceasefire and hostage deal."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -42,14 +72,114 @@
       "summary": "The Gaza Freedom Flotilla claimed that the Israeli military was jamming signals and had boarded at least two boats. The IDF has not yet commented on the incident."
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Gaza aid flotilla says IDF intercepted its boats; Israel vows activists' swift deportation",
+      "url": "https://www.haaretz.com/israel-news/2025-10-08/ty-article/gaza-aid-flotilla-says-idf-intercepted-its-boats-israel-vows-activists-swift-deportation/00000199-c25b-d7d2-add9-f3fb48550000",
+      "image": "https://img.haarets.co.il/bs/00000199-c25b-dd18-a9db-e7dfbaa00001/3b/05/4edba0ae405cb92a326d732a5c43/mashat.jpg?height=81",
+      "published_at": "2025-10-08T06:38:49.000Z",
+      "summary": "Several Gaza-bound vessels carrying humanitarian aid were seized by Israeli forces, with 150 international activists detained. 'This seizure blatantly violates international law, our volunteers cannot be criminalized for delivering aid,' an organizer of the 'Freedom Flotilla' said"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Two years after October 7, Israel rediscovers the scale, and limits, of its power",
+      "url": "https://www.timesofisrael.com/two-years-after-october-7-israel-rediscovers-the-scale-and-limits-of-its-power/",
+      "image": null,
+      "published_at": "2025-10-08T06:38:36.000Z",
+      "summary": "Jerusalem has chalked up impressive military achievements since the horrific Hamas invasion, but it needs sober strategy to take advantage of potential opportunities in this fast-changing region\nThe post Two years after October 7, Israel rediscovers the scale, and limits, of its power appeared first"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "National talent will remain UAE’s top priority: Mansour - Gulf Today",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFNNQThaVklKMUJINDFPLXBaTGJEUFJ1amtqcEJMRmZ1alo4QVVuS3FrRWtrVVIwOU1jR0w1NzFwcnpFWENNX1c5cVIwTjhKVWpxeUo4NXIzWmNxRTdqX0NiUk9rcEFaQ09xM3E3bzZYNHFiVjVMRjZMSGVscGJZbnUxbmpHZGVFcmh3RkdNblhZeHZ2anR4WTRn?oc=5",
+      "image": null,
+      "published_at": "2025-10-08T06:26:52.000Z",
+      "summary": "National talent will remain UAE’s top priority: Mansour  Gulf Today"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Qatar Airways vegetarian passenger told to ‘eat around’ meat, dies choking on plane | Trending - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObHE5MGFEcUdpanpZZzYtMmlyRUxnZThWUEdCeUdwWTIzTUxFS3hpbGtoRU5nYnRUekZJWVRuNWxqQTQwTTZSbHhMMTZmalNaM3paNDc5LVQ5b3NyUUlyd29LM201YWxXcHJSREpCdFF5b2dJMmE1ZG1vd2Q5WEFfU2trdlBSZWY3TEZBckF4elpYNzBJYnc0SGVPV1N2SXc1S2VUc052M21BTGhSOTBtX0FPdVJxZnE4UHdCdFhrWnRRMExOdVAtbjQtQVR2aG41R3lwYlZhXzNLMjFoeHfSAd4BQVVfeXFMTmxxOTBhRHFHaWp6WWc2LTJpckVMZ2U4VlBHQnlHcFkyM01MRUt4aWxraEVOZ2J0VHpGSVlUbjVsakE0ME02Umx4TDE2ZmpTWjN6WjQ3OS1UOW9zclFJcndvSzNtNWFsV3ByUkRKQnRReW9nSTJhNWRtb3dkOVhBX1Nra3ZQUmVmN0xGQXJBeHpaWDcwSWJ3NEhlT1dTdkl3NUtlVHNOdjNtQUxoUjkwbV9BT3VScWZxOFB3QnRYa1p0UTBMTnVQLW40LUFUdmhuNUd5cGJWYV8zSzIxaHh3?oc=5",
+      "image": null,
+      "published_at": "2025-10-08T06:26:31.000Z",
+      "summary": "Qatar Airways vegetarian passenger told to ‘eat around’ meat, dies choking on plane | Trending  Hindustan Times"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
       "title": "Mural depicting Shir, Ariel, and Kfir Bibas raised in front of Qatar consulate in Milan",
       "url": "https://www.jpost.com/international/article-869714",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/684048",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_537,w_822/684048",
       "published_at": "2025-10-08T06:26:00.000Z",
       "summary": "The mural commemorating the October 7 massacre victims was done by artist aleXsandro Palombo, who created a similar piece in 2024 honoring the Nova festival victims."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Taliban, internet and Afghan women: A 48-hour blackout that silenced more than voices - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWEhuN29rcHpHYWd3a2tEVjBzeE9fRm0za25CRUwzTXd1T09zMHk4TVJrYS0wa3ZXOVBCTU9qajdxa2J2dW0wT29xbk50aFQ2MEJGN0ltSjZOWC1OaUhuMjJnUTBuTWdTcjB4NGhmdDVZTmczdmhfQUcweGV1UUpGMHRJQ2NwamFzV1huYS1XQ2tGQnBKM3daMmlwZ0NNZ0tSakh4eld3Wl9Nb0Z4dTJMVDVKV2g4U3FuV0tOVDdGY3R0OE5aZDhIaNIBzgFBVV95cUxObnJ5RGl3anNjYnFwT0Z3THU4MjZKNkJqYUtlbDhraGh0M0RxREY2bjMxdXNlNU9YRkdVTTd2b0ZDajlWYVd6T0picndUVENIbXFrUlQ4WFBHZ2RvQk0tbmtWQ1I4eUhqSEpQWW1jR2piSWtoQ21UdXowczVfa1U4QzlpQWhkM3J0M3JQR0huam9LMHdxMG9IWGtTT3V4MHdVN25McGNjOXYzTXdhbTZJQkNOblJKSUlCeEtZQV9Ba2c1YVllcXR3SDllenpYZw?oc=5",
+      "image": null,
+      "published_at": "2025-10-08T06:24:53.000Z",
+      "summary": "Taliban, internet and Afghan women: A 48-hour blackout that silenced more than voices  Firstpost"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "“He told me, ‘I forgive him,’”: Father of suspect recounts meeting with victim's father",
+      "url": "https://www.israelnationalnews.com/news/415951",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1200411.jpg",
+      "published_at": "2025-10-08T06:23:13.000Z",
+      "summary": "The father of the Border Police officer who accidentally shot his friend, IDF soldier Yosef Chaim Rabuch, said the act wasn’t intentional. Both fathers wept together and spoke of forgiveness."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Qatar Airways to Launch Doha–Red Sea Route on October 21 - TRAICY Global",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFdk5kaFdhc0VwNHRiVjA1ekxTOGpxRmpseVk0OWdzejVwcXEwZC1OQ0VjejU0cTRQdlkwclRDRU1lbW5BVVpDd05DQkctQ2dJZm1aOQ?oc=5",
+      "image": null,
+      "published_at": "2025-10-08T06:21:47.000Z",
+      "summary": "Qatar Airways to Launch Doha–Red Sea Route on October 21  TRAICY Global"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Revealed: First images from UAE’s cutting-edge MBZ-SAT, Etihad-SAT satellites - Gulf Business",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UM3FqcTA4WU1uTjFVRzFXOTg2Q1VOaVhOMVMyN3F0cWw3LVRlWEFYQTc2bU9haXFvZVBrVXhzQzAwZG5sSlJ1VzhUaHdBTW5uNnRNQ3hPZ1NrckJUS0U5WUp1VnFxajN4R1l1WGdR?oc=5",
+      "image": null,
+      "published_at": "2025-10-08T06:17:38.000Z",
+      "summary": "Revealed: First images from UAE’s cutting-edge MBZ-SAT, Etihad-SAT satellites  Gulf Business"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "SC Constitutional Bench to resume hearing pleas against 26th Amendment today",
+      "url": "https://www.dawn.com/news/1947421/sc-constitutional-bench-to-resume-hearing-pleas-against-26th-amendment-today",
+      "image": "https://i.dawn.com/large/2025/10/08104514e2dade9.webp",
+      "published_at": "2025-10-08T06:13:58.000Z",
+      "summary": "An eight-judge Constitutional Bench (CB) of the Supreme Court (SC) will today resume proceedings on a set of pleas challenging the 26th Amendment.\nThe Amendment, which was approved by both houses of parliament in October last year, altered judicial authority and tenure, and has been a lightning r..."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Landslide hits bus in northern India, killing 15, as rescue continues",
+      "url": "https://www.aljazeera.com/news/2025/10/8/landslide-hits-bus-in-northern-india-killing-15-as-rescue-continues?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-08T06:10:21.000Z",
+      "summary": "The bus was travelling on a hilly stretch in Himachal Pradesh when a landslide struck after days of torrential rains."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -65,6 +195,16 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
+      "title": "India Backs Regional Stand With Taliban, Pakistan, China, And Russia Against US Plan To Reclaim Bagram Air Base - Swarajyamag",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd2o1MU9RSmdQOS1yZGp6c185WmtVckFEY1pzS1lfMGNDbHJWZ2d2c0ZFbDRKcGhCQnBla010UDl6MEREUzkzT3l6d1B1OWgxMVpRR2hUZGhPNDRRQjZqX1hKNHVPNDJfNXBjMTZkWExBZWd6NmRLTldmNXVfWkhscGtoeXBlWEZIVXc3QWdxVXVhdzJieWQzcFN1SGlNRUVzWlRTOGk1NVBGaXFCMm9pdkRoSnB0dUhDQUxEQzM3dW5XY1NoWF96Y1VQdnpGaHFyZFdxadIB5AFBVV95cUxOVWFGY2xpNzJWLWIzaU8yVHlkbWhEVVNJUS1yemg1YmFSQ2RDMmF1eGVlLVk3Mkc4SG5xZkxTYXF6anhENXVXVGhYb1Jwc3NEclRuVmZJeUxPNUNoczFSblh1bTI0bW51TTFEZEwyZzEyMWhBbG9WVzd6T3BpS08xRHV0WTVqODhxZ2tvam91aEhtV1ZlbzhCTE1jOFZEaEpkUHZkLVpLZG1qYUZfdEJJNFIyNS1WOVpXTVQ0T08wVEk4RlpFR3pvWDFydzdQSzNFTWlRYTBBaUMxNV9yaVBIMjJpd0k?oc=5",
+      "image": null,
+      "published_at": "2025-10-08T06:05:54.000Z",
+      "summary": "India Backs Regional Stand With Taliban, Pakistan, China, And Russia Against US Plan To Reclaim Bagram Air Base  Swarajyamag"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
       "title": "AI and big data: Driving the UAE’s smart transport revolution - Computer Weekly",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUhIZVp4LVZLSUlxdXpvNzZpRVhkdHJZSlVKYlo2QlZHX04xQTFQTFJPNi12aGJPZ3picVVoNTlIMmVzcVhJdThSSmxmeERRWVJGVWRQMTZpeGFtVHp2eFhheTU4SmltMGpuc29JS3JKM0ZOV2REVWlEVDlLOEo2c3o1MEtyaEFBbkEyOUkzSThRQjlFNUhuRDVDY2MwQjFJV0ZHRzEzRVI?oc=5",
       "image": null,
@@ -75,11 +215,21 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "SC Constitutional Bench to resume hearing pleas against 26th Amendment today",
-      "url": "https://www.dawn.com/news/1947421/sc-constitutional-bench-to-resume-hearing-pleas-against-26th-amendment-today",
-      "image": "https://i.dawn.com/large/2025/10/08104514e2dade9.webp",
-      "published_at": "2025-10-08T06:01:46.000Z",
-      "summary": "An eight-judge Constitutional Bench (CB) of the Supreme Court (SC) will resume proceedings on a set of pleas challenging the 26th Amendment today.\nThe Amendment, which was approved by both houses of parliament in October last year, altered judicial authority and tenure, and has been a lightning r..."
+      "title": "PPP escalates, PML-N tempers attacks on coalition ally",
+      "url": "https://www.dawn.com/news/1947364/ppp-escalates-pml-n-tempers-attacks-on-coalition-ally",
+      "image": "https://i.dawn.com/large/2025/10/0809104149af2f0.webp",
+      "published_at": "2025-10-08T06:03:07.000Z",
+      "summary": "• PPP lawmakers say they refuse to allow their party to be get dragged into ‘Sharif family dispute’\n• CM Maryam avoids direct broadsides against ally; targets PTI instead\n• Bigwigs wade in for behind-the-scenes efforts to secure rapprochement\nISLAMABAD / LAH­ORE: After several days of an acrimoni..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Lahore High Court summons top law officers over delay in Punjab LG polls",
+      "url": "https://www.dawn.com/news/1947351/lahore-high-court-summons-top-law-officers-over-delay-in-punjab-lg-polls",
+      "image": "https://i.dawn.com/large/2025/10/0809154734a7c9e.webp",
+      "published_at": "2025-10-08T06:02:24.000Z",
+      "summary": "LAHORE: The Lahore High Court on Tuesday summoned the advocate general of Punjab and the chief secretary in a petition filed by Jamaat-i-Islami (JI) challenging the province’s failure to hold local government (LG) elections.\nJustice Farooq Haider heard the petition moved by JI Lahore emir Ziauddi..."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -110,6 +260,26 @@
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_364,w_582/388757",
       "published_at": "2025-10-08T06:00:01.000Z",
       "summary": "Thousands of Christian pilgrims have arrived for the Feast of Tabernacles, showing no hesitation in supporting Israel during these trying times."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Cookeville downs Lebanon volleyball for third straight District 7-AAA title - Main Street Media of Tennessee",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN191UUk3czJ6SkVhcGVfemNsY3lYME1sR0pxS2lpZ3pKbUlyVDNWY3N4ay1jLTVaWDQwekxJSU5xM2d6S2N5ZW9KQjZpdzBUc3A3RmZ1Zm5LU1FQS0EzV0ZheEdYcnN6WklleDRpaW1QM3NtRzliVnVJZ3I3SEo3R0ZUbEtrbHlpRVdGU1k2Y2dCM1RrTzVWeUlJUUx1ZmQyaVladFlMNUxBa21iWDB6Vmxjb2I2OWNMY3hLdkZNUkNXdDExb3NtbHF6eTcyaGpB?oc=5",
+      "image": null,
+      "published_at": "2025-10-08T05:58:04.000Z",
+      "summary": "Cookeville downs Lebanon volleyball for third straight District 7-AAA title  Main Street Media of Tennessee"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE President Honors Professor Humaid Al Shamsi for Harvard Appointment - Emirates24|7",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWHlicmEzMDFGZF9uS0p0cVNVUmIwd0ROX0YzWnA1THJyU3AzdDYzWTY5djQyU3VMaFhHb0VHWFc4dFZxdjlMeWpxdmx3cy1WSHEzdnVPd0N4RmlESWlXeUlwU3A5UzlsVkd5MTR5TUtYZWFXMWZYQ3Rkcnh1bVJjSFpZODd0dXgxMGt3MkdmcEw3VllZMWttaVhaS0hYMVoxbjBqR3pZUGlyTGNWbXY5VmVKVXBJQXExSnpFam1PN3PSAdsBQVVfeXFMTnoyM3J5U2Q3eFZQNlFxZzctTExFU21vZy1XNmZlTEtOUU1tNXZzeFR2M2I4VDVUUDlRcHc3UlN4SzFRRnVUXzh6NEJxbzUxdWFjOVpheW9nSnhGSEtQSWhMSUtMV3EwTExBMGlSVXh0Y09CWmpSSDVsSEFuaC0tTVlrZkpsaFpuQVkwNmpnYllNaE9DeEE4bkZfZ1BCY3hTSWhHTlFxaHNDM080ejlCZlVuWjY0cENrbW1sSWxQNU1GSVlCY29WYzZMR0lXOWM3aVdvR3BXOG1RY0pF?oc=5",
+      "image": null,
+      "published_at": "2025-10-08T05:58:00.000Z",
+      "summary": "UAE President Honors Professor Humaid Al Shamsi for Harvard Appointment  Emirates24|7"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -167,7 +337,7 @@
       "topic": "News",
       "title": "Woman cuts down hostage ribbon memorial in London, says 'condoning genocide is disgusting' - report",
       "url": "https://www.jpost.com/diaspora/antisemitism/article-869713",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/684046",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/684046",
       "published_at": "2025-10-08T05:45:50.000Z",
       "summary": "The woman, who didn’t share her name, was recorded cutting down yellow ribbons in a hostage memorial in Muswell Hill, north London, ahead of the anniversary of Hamas's Oct. 7 massacre."
     },
@@ -192,12 +362,22 @@
       "summary": "A group of vessels attempting to deliver aid to the war-ravaged Gaza Strip was intercepted by Israeli forces in international waters on Wednesday, the coalition behind the convoy said, the second such interception in the past week."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9pc3JhZWwtYWxt",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah’s “Return to Odaissieh” Campaign",
+      "url": "https://israel-alma.org/hezbollahs-return-to-odaissieh-campaign/",
+      "image": null,
+      "published_at": "2025-10-08T05:40:45.000Z",
+      "summary": "Residents of the village of Adaisseh, near the border in the contact line area with Israel, along with various volunteers, launched the “Returning to Adaisseh” campaign. Volunteers conducted a series of visits to the homes of Adaisseh residents currently in the village, providing them with assist..."
+    },
+    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
       "title": "US special envoy and Trump's son-in-law to join Gaza peace talks in Egypt",
       "url": "https://www.bbc.com/news/articles/cdjzvlxp8mjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b140/live/923c8e10-a401-11f0-b741-177e3e2c2fc7.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/735b/live/78205e50-a40e-11f0-92db-77261a15b9d2.jpg",
       "published_at": "2025-10-08T05:40:02.000Z",
       "summary": "The arrival of Steve Witkoff and Jared Kushner comes as a second day of talks ended without tangible results, a Palestinian official tells the BBC."
     },
@@ -289,7 +469,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzhUWGs3b2dmYjB0MUYxcE4ycGs2S1NzdWNBSUg1dkdIWTJ6VXJHRHE1T1oxVXpGb1F1VW9jZk9LTm1JUGI2NEZnMW1sWm9wNmp6TURxazNKb2YzZXViZ09VRlBWRmQ3R01kai12dXdsQ2dBRDFvcko3ZFR3U2JyTUdVS0dOdTZyQmgzeFZPLWJmQ0FhS3dibFZIVTItNmN3NWEwWDhkWUpSMy04LVo2bFRaVnM4VkozNkk4ZVF6Y0pxb2M?oc=5",
       "image": null,
       "published_at": "2025-10-08T05:21:06.000Z",
-      "summary": "Qatar seeks ‘strong, written international guarantees’ Israel won’t resume Gaza war  The Times of IsraelQatar official says Donald Trump Gaza deal not finalized  The Jerusalem PostMiddle East: US, Turkey, Qatar envoys arrive for Gaza talks  DW"
+      "summary": "Qatar seeks ‘strong, written international guarantees’ Israel won’t resume Gaza war  The Times of Israel"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -300,6 +480,16 @@
       "image": null,
       "published_at": "2025-10-08T05:21:02.000Z",
       "summary": "\"אשת הברזל\" והקנצלרית לשעבר של גרמניה תגיע לישראל ב-9 בנובמבר. היא תיפגש עם הרצוג, סער ונתניהו - שנגדו מתחה ביקורת לפני ארבעה חודשים"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Middle East: US, Turkey, Qatar envoys arrive for Gaza talks - DW",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSHRUZzNxLVpxUThjaDNzUUo2ckh1VzRILXZQbzNaZElVWjFMZGNvTDR4N0JsNDJ4Q2xlRGJIUldNalY5WU9PdTkzcDRHSGxPdC1rNjNYcEJFZXlEcGhFLThGQ2NPY1hyVzRWWEYycVFUelZXdnI0bVg5VU14V0hhTEVnNExVZVp5MVJYcDc1eTBIZ2VETEtz?oc=5",
+      "image": null,
+      "published_at": "2025-10-08T05:18:04.000Z",
+      "summary": "Middle East: US, Turkey, Qatar envoys arrive for Gaza talks  DW"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -336,7 +526,7 @@
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
       "title": "Opinion | Is Qatar Finally Ready to Split With Hamas? - The Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQVmFOcjB3dXUzZEJhVGNSTFpxRzV5M3pWOHpQcDNwaEwybk9ZVi1jTVN0TFRsb2hxNWRwZXBTZWZaN3hkeHlFYmsxcVo4R0JTZFhjZDhJc2JGYzgtSENadFNGNzNHMG0tM21LLVJVOElhb0FiM3ppNVhMRTdoZDBvanpMQ3g4NVl1aTZ1dzVHby1CNjd2RDNxbzFRa21tMmEzc0g4enJvelhvNE9DXzdMa1ltb3lrX1pkRWYwaHpTbXRrcHlqMUoyenkyOXd3WFJ6Q1FOdEdGSFlsbGY3Qm1za0RnOG5HYmpaVWJrWTRkV0FJT1B6MHVZeVRsQk9zNTVVY3dCMmlWMmRiU3FkQU1uMVdfVnpBX2FyZmVzWGprWnRvaVF4UmlnRl9UTUdIaTBBSWs4czMxOEhUSXBrSTdudGxmQVhvSGt4aDNwQllONDl2ZzFVUFNtb1EtVXFLbXh1bkM4dDdpUkJNOEpRWVhXOXcxRnZJS19HTnUzQlBlREtCUjFEWlF3dVFJSjZOSGRET3JTUXFFaDJ0QVlGRDBKYTllQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPQjZRV1NheG80Vm5VaU9JV0lOeXB5SkV0UHhDSEFGVGlBWXQycjBIakNORFF6bUdocElBQzJYWC1oNk5pQ1FHY0NQNmJlLU5NZ2YyNTBmUXZVUXBHSlp2UkRpa1JEYS1KVnN1Qzk1OHpROFRWS2gzVlZ5RGJRVHNITUJISUd6NDY3UG1EQnBjam9xZUJHa1hZdWhxNzdIV1MtSnJRM1pmUUJWUW9lZDF2QkNDMEZmaG5MZ2tsRGxJckNZeVhhMjFkaFNKMzhNelJNSUk0bXR2TVZIXzYyX3JJMlkzaWJqNks4cGpzX0l6NVNoc0pDSjB6SGJ6UThULWZhdklfRWo0TVc4MU9TbG5ucFFEaWszYkJ3Q1VpdEJFMW1nXzF1WFdWQ0RxelRiQWNPc0dCODRKUkdLUzNfZWNON3R3Vk9mWEc2a3FLR2EyZWdZUEUzeFUyZlFJdGZHTW0wMmI0cHZHWGtmZXZqNXhrb210YmtGNVZNZjdxbnloYWNuY3JIcWV2Q01pdnZ5Wks3UjFKWENDeG5SbVZjNEhrS0c4TQ?oc=5",
       "image": null,
       "published_at": "2025-10-08T05:14:08.000Z",
       "summary": "Opinion | Is Qatar Finally Ready to Split With Hamas?  The Wall Street Journal"
@@ -422,26 +612,6 @@
       "summary": "• There are 5,000 traffic policemen to control around seven million vehicles on city roads, says DIG Traffic\n• DIG Shah says out of 22,000 heavy vehicles in metropolis, 12,000 have trackers installed\n• Traffic and city infrastructure can’t be separated, remarks Arif Hasan\n• Says Karachi needs spa..."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar Airways celebrates a season of global prestigious events in Qatar - TravelMole",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1za3gxa2owV1QtT05GaU5pYktBOTYxMDl5OEwxZHhLX0RPWHhIZ0hFYld2LVNtdkdXQUl3ek5rbG9lX2g3T0RFSlRuYnVXY2dMbDB1VmFLb3JYNjhRT3lTX1h2V2NaZlhQMXdvaDFHeHdHaHVp?oc=5",
-      "image": null,
-      "published_at": "2025-10-08T05:05:55.000Z",
-      "summary": "Qatar Airways celebrates a season of global prestigious events in Qatar  TravelMole"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Health ministry budget cut by 33pc, Senate body told",
-      "url": "https://www.dawn.com/news/1947298/health-ministry-budget-cut-by-33pc-senate-body-told",
-      "image": "https://i.dawn.com/large/2025/10/08100045bd843c5.gif",
-      "published_at": "2025-10-08T05:03:36.000Z",
-      "summary": "ISLAMABAD: Federal Health Minister Mustafa Kamal on Tuesday informed a parliamentary committee that the health budget for the ongoing financial year had been reduced by 33pc compared to the last year’s allocations.\n“Last year ministry’s budget was Rs21 billion, which has now been reduced to Rs14b..."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -452,96 +622,6 @@
       "summary": "Those rescued included guides, yak herders and trekkers, who were trapped in a heavy snowstorm that began on Friday."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Stage III, IV cancer patients to get free palliative care at Nawaz Sharif institute",
-      "url": "https://www.dawn.com/news/1947395/stage-iii-iv-cancer-patients-to-get-free-palliative-care-at-nawaz-sharif-institute",
-      "image": "https://i.dawn.com/large/2025/10/0810010965fed65.webp",
-      "published_at": "2025-10-08T05:01:43.000Z",
-      "summary": "LAHORE: The Punjab government has announced provision of free palliative care to stage-III and stage-IV cancer patients at the newly-established Nawaz Sharif Institute of Cancer Treatment and Research, a decision that has raised hopes of the critically-ill patients who are often left untreated or..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UCI Rankings Team Update | UAE beats last year's points record; Uno - X less than 1000 points away from Intermarché-Wanty - CyclingUpToDate.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbWNITGNQSUg0ZFdDM2VZNWY0OFI4LWpZV0tzVlpwMjQ4SUhMcTRpdmtXWDB0MmdoZFJXcjA3T0pFUTloUHRKTnh6UUVGdHlxeXRLbTRVaG5NUDVGM3ZUcTFEOURkZlpaTUgyZmFNaHFDR3V6V3dVdzkxRVFGSTJXNjhUSm9kazJ5d1JtMEFjQjNlRWZkQjVIS2tIcVg3X1NqOGw2bDZDNVF3ODlMRTlmaVdLd2tPWGZmSTlKNU5HQy1JTFd2OEV2QnNkS0xQOUxPdGhFQjZhdk5mdTdpY21nWm85VjNPZw?oc=5",
-      "image": null,
-      "published_at": "2025-10-08T05:01:02.000Z",
-      "summary": "UCI Rankings Team Update | UAE beats last year's points record; Uno - X less than 1000 points away from Intermarché-Wanty  CyclingUpToDate.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Revolut co-founder Nik Storonsky shifts his residency from UK to UAE - The Irish Times",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdnVHM0h0em9IWk9jNmlYMlFDWVF1bEFuYkZrbXI3LTdfaFEwYXhIMzJRS2FnNU1KMzZMYTE4UWluOEViRDZFeEU1aEVWNXUza21ldHZZYWVzNXdwWEJnOTVITjF4MXNVUXBRYk5vZEJ0TmFRcmlEY0VIV0xEOVZkQmY4REd6dHkxT1cwWmI3NDZvallhcm9NNW1HeFFyMzB5SVg4djJzSGdnS1NaVHdmV0JNbFNMbVk?oc=5",
-      "image": null,
-      "published_at": "2025-10-08T05:00:41.000Z",
-      "summary": "Revolut co-founder Nik Storonsky shifts his residency from UK to UAE  The Irish Times"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "В Казахстане педофилов будут кастрировать за полгода до выхода на свободу",
-      "url": "https://centralasia.media/news:2343297?from=rss",
-      "image": null,
-      "published_at": "2025-10-08T05:00:01.000Z",
-      "summary": "Минздрав Казахстана внес  изменения в приказ «Об утверждении правил применения принудительной меры медицинского характера»."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Russia warns Taliban against military presence in Afghanistan - timesdaily.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaXFrS0F0SlEyeWpoeWl2U3FzVGhGOVJNamx6UWJtX3VjYW1SejZBS2NfNk1wMmlwcXhDd1ppYUwyU1JkLWFxVGpLZ0k0aTBNZ2lNQjd0UWRSYjZiWUR6eU1PdjRNWjhkemFfMVoxYzdXZDYtM3c1a1gxNnk4SmhFNVVRYU1SR0hSNDdxUEZyNUk0Vk5UdmNTWVB4ZEw5cENjaDVvUUZjWjE5OHpQX1N5Ni1VLWZxYnp5UjJWX3FkRmVkQWpkUUM3SEhiMWktQ0pWWmhxNGxRTkFWd1dQMUJFTjZCaElDbTQ?oc=5",
-      "image": null,
-      "published_at": "2025-10-08T05:00:00.000Z",
-      "summary": "Russia warns Taliban against military presence in Afghanistan  timesdaily.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Pope Leo XIV to visit Turkey and Lebanon on first foreign trip - timesdaily.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPazFTTnVQSENZOVZtUFJNa1hUcVhEckdLOVN3MFVRWnZVcEMyM2U0a21FcXppbVVJcTJjT3hpS3lGTTVDWDc2eWxyOW9iTk1LZExEeW5zZ2xQWGpUQWwxY1RsV3l0YVV2NUhSYURjNjNpNEhPeUowU0Jub1JOVWd2VEc1NTc1NThPU1B4bkgtcUhNMWhoX0tMX0E5MUh4REl2VVcwVnJrYmVHYkNkUFJKOWd6eE9GOUc4OEg1TjJkWnoySDl0OFZMSk1ZVVJFUVZ6V0JEMzV6R2RoU1k3VTZvZGF0cVNobDdT?oc=5",
-      "image": null,
-      "published_at": "2025-10-08T05:00:00.000Z",
-      "summary": "Pope Leo XIV to visit Turkey and Lebanon on first foreign trip  timesdaily.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Inadequate storage capacity wastes millions of gallons of water",
-      "url": "https://www.dawn.com/news/1947302/inadequate-storage-capacity-wastes-millions-of-gallons-of-water",
-      "image": "https://i.dawn.com/large/2025/10/08095754a890b86.gif",
-      "published_at": "2025-10-08T04:58:24.000Z",
-      "summary": "ISLAMABAD: Every year, millions of gallons of water are released from Simly and Rawal dams through spillways to discharge excess water, as no mechanism exists to store the surplus for water-scarcity-hit Islamabad.\nThe latest spell of heavy rain on Monday filled both reservoirs to capacity, result..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "64 bitten by snakes during flood in Narowal",
-      "url": "https://www.dawn.com/news/1947390/64-bitten-by-snakes-during-flood-in-narowal",
-      "image": "https://i.dawn.com/large/2025/10/080957505ce71ab.webp",
-      "published_at": "2025-10-08T04:58:09.000Z",
-      "summary": "NAROWAL: During the monsoon and floods in Narowal district, rescue teams have caught 342 snakes, including pythons and cobras, while 64 people were injured due to snakebites.\nDistrict Emergency Officer Engineer Aurangzeb told Dawn that during the monsoon and floods, the control room received phon..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Lebanon Christian leader says Hezbollah must disarm - ucanews.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbW5seFpUX2czWEJZMmlxcmRyY005ZnNpOGQ1SzdlTFVDWXlGRzItVVBtTzlnNXVfSXo1ZjJwcnBqbDN5WEg1Y0ZKdkFtTWJBbnZnVmpzczdPYlF0NGdWTnIzRzVWUl9VVzdURHVBMVJDM09UclRQUmJqLVpTQ2NKdVJ2WlVvMW5rRUtLMUNMTGvSAY8BQVVfeXFMTkhhRzEydHFzMWEzenItNlBsZXFhWEc0ZU9DQVduWWhhN3JvNkdTWTUyOGpRSjVxX2w2ZmF6NFZHV1UxaWd1dFYzXzZnWU1LdkY5WURLeEtvVmEzZUxmak1Wby1DenktUVlieU5Md3IzRDJpNVFzc0JwVFlXLWZ0STQyVlRqS1hCQ0NGU3VzckE?oc=5",
-      "image": null,
-      "published_at": "2025-10-08T04:58:00.000Z",
-      "summary": "Lebanon Christian leader says Hezbollah must disarm  ucanews.com"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -550,26 +630,6 @@
       "image": null,
       "published_at": "2025-10-08T04:54:31.000Z",
       "summary": "The memo is seen as a pressure tactic on Democrats as the US government shutdown heads into its eighth day.  "
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Medium-level flood alert for Sutlej: PDMA",
-      "url": "https://www.dawn.com/news/1947391/medium-level-flood-alert-for-sutlej-pdma",
-      "image": "https://i.dawn.com/large/2025/10/08095247d1d47af.webp",
-      "published_at": "2025-10-08T04:53:36.000Z",
-      "summary": "LAHORE: The Provincial Disaster Management Authority (PDMA) on Tuesday issued an alert about a medium-level flood in the river Sutlej at Ganda Singhwala within the next 24 hours.\n\nThe PDMA alert says that currently, a low-level flood condition is being observed at Ganda Singhwala, that will reach..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Karachi business community concerned over ‘alarming surge in extortion cases’",
-      "url": "https://www.dawn.com/news/1947312/karachi-business-community-concerned-over-alarming-surge-in-extortion-cases",
-      "image": "https://i.dawn.com/large/2025/10/08095139878d6ae.webp",
-      "published_at": "2025-10-08T04:51:46.000Z",
-      "summary": "KARACHI: City’s business community has expressed serious concerns over an alarming surge in cases of extortion and demanded the provincial government and law enforcement agencies to ensure fool-proof security to traders and industrialists.\nThe Korangi Association of Trade and Industry (Kati) and ..."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -587,7 +647,7 @@
       "topic": "News",
       "title": "Scientist's off-grid hike interrupted by news of Nobel Prize win",
       "url": "https://www.bbc.com/news/articles/ceq23jx03n7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e5e/live/c85c0570-a3d9-11f0-928c-71dbb8619e94.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/430d/live/02451840-a410-11f0-8a9f-37bca6b63405.jpg",
       "published_at": "2025-10-08T04:31:34.000Z",
       "summary": "Dr Fred Ramsdell was \"living his best life\" offline when the Nobel committee tried to contact him."
     },
@@ -599,7 +659,7 @@
       "url": "https://www.aljazeera.com/news/2025/10/8/israeli-military-intercepts-gaza-freedom-flotilla-vessels-report?traffic_source=rss",
       "image": null,
       "published_at": "2025-10-08T04:25:37.000Z",
-      "summary": "The Israeli military has intercepted and boarded several boats sailing towards Gaza. "
+      "summary": "The Israeli military has intercepted and boarded several boats sailing towards Gaza."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -735,7 +795,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Dolly Parton's sister asks fans to pray for country singer",
+      "title": "Dolly Parton's sister asks fans to pray for singer over 'health challenges'",
       "url": "https://www.bbc.com/news/articles/cjd1m3y00dxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810e/live/e81213b0-a3f1-11f0-928c-71dbb8619e94.jpg",
       "published_at": "2025-10-08T03:07:22.000Z",
@@ -745,9 +805,9 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Gaza-bound Freedom Flotilla says one boat still en route, eight vessels intercepted by Israeli military",
+      "title": "Hamas reportedly demands Israel return slain leader Sinwar's body in Gaza cease-fire talks",
       "url": "https://www.haaretz.com/israel-news/2025-10-08/ty-article-live/president-trump-meets-freed-hostage-edan-alexander-as-witkoff-heads-to-cease-fire-talks/00000199-c1aa-db47-a1fd-f7fb9fd30000",
-      "image": "https://img.haarets.co.il/bs/00000199-c1f5-db47-a1fd-f7fdbfe50001/3b/05/4edba0ae405cb92a326d732a5c43/mashat.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/00000199-c016-d7d2-add9-f1ff92b20000/58/bb/a5dafd484ce19ea84debfd9bb479/371126.jpg?height=81",
       "published_at": "2025-10-08T03:02:58.000Z",
       "summary": ""
     },
@@ -955,7 +1015,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Will Trump be there to stop Netanyahu from resuming the war in Gaza after the hostages are freed?",
+      "title": "Can Trump stop Netanyahu from resuming the Gaza war after the hostages are freed?",
       "url": "https://www.haaretz.com/opinion/2025-10-08/ty-article-opinion/.premium/will-trump-be-there-to-stop-netanyahu-from-resuming-the-war-after-the-hostages-are-freed/00000199-bf90-db47-a1fd-fff9b6c60000",
       "image": "https://img.haarets.co.il/bs/00000199-c0be-d5c1-ad9d-d1ff4a6a0000/18/df/edf178d9454bb969f9c634224b72/274178-2.jpg?height=81",
       "published_at": "2025-10-07T22:16:38.000Z",
@@ -1402,16 +1462,6 @@
       "summary": "While most leaders' statements focus on condemning Hamas and antisemitism, Spain uses anniversary of the atrocities to slam Israel and accuse it of 'genocide' in ongoing Gaza war\nThe post Global leaders mark ‘nightmare’ of Oct. 7 as antisemitism surges in their countries appeared first on The Times "
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "UK prosecutors appeal ruling to drop charges against rapper for displaying Hezbollah flag",
-      "url": "https://www.timesofisrael.com/uk-prosecutors-appeal-ruling-to-drop-charges-against-rapper-for-displaying-hezbollah-flag/",
-      "image": null,
-      "published_at": "2025-10-07T17:50:15.000Z",
-      "summary": "Appeal comes after court cited technical grounds to nullify indictment of Kneecap's Liam O'Hanna, who is accused of supporting terror\nThe post UK prosecutors appeal ruling to drop charges against rapper for displaying Hezbollah flag appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1480,16 +1530,6 @@
       "image": null,
       "published_at": "2025-10-07T17:11:37.000Z",
       "summary": "פרסום ראשון: זמיר הודיע למזכיר הצבאי של השר כ\"ץ, תא\"ל גיא מרקיזנו, כי בשלב זה לא יקודם לתפקיד אלוף ונספח צה\"ל בוושינגטון. ברקע: המתיחות בין הרמטכ\"ל לכ\"ץ, שמעכב מינויים בכירים ובהם מפקדי חיל האוויר והים. ביקורת גוברת בצה\"ל על \"הסטנדרט\" שקבע השר: \"במקום לייצר יציבות למערכת, הוא יוצר כאוס\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "UK prosecutors to appeal decision to dismiss Kneecap rapper ‘terror’ charge",
-      "url": "https://www.aljazeera.com/news/2025/10/7/uk-prosecutors-will-challenge-decision-to-dismiss-kneecap-terrorism-case?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-10-07T17:09:19.000Z",
-      "summary": "Liam O&#039;Hanna said after case thrown out last month that charges aimed at silencing dissent over Gaza war."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1575,7 +1615,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Time may be running out for Master of clocks Macron: What next for France?",
+      "title": "Time may be running out for master of clocks Macron: What next for France?",
       "url": "https://www.bbc.com/news/articles/c0kn04453z8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbf/live/d73f4a40-a391-11f0-928c-71dbb8619e94.jpg",
       "published_at": "2025-10-07T15:56:00.000Z",
@@ -2002,16 +2042,6 @@
       "summary": "A Hamas official said the group will take a 'tough stance' on releasing senior Fatah official Marwan Barghouti and is willing to distance itself from Gaza's governing body; an Israeli source said a key sticking point remains which Palestinian security prisoners are released and Israel's demand for v"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Turkey makes contact with Hamas groups holding hostages, source tells 'Post'",
-      "url": "https://www.jpost.com/israel-news/article-869623",
-      "image": null,
-      "published_at": "2025-10-06T14:45:07.000Z",
-      "summary": "There has been no communication with these groups until now, the source said."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2042,16 +2072,6 @@
       "summary": "From the Hamas massacre of October 7 and murdered hostages to the devastation of Gaza and starving civilians, from exploding Hezbollah pagers to missiles fired between Israel and Iran, from mass protests to international recognition of a Palestinian state: Here is Haaretz's chronology of two years o"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "WATCH: IDF reveals long-range rockets pointed toward Israel within Gaza City",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-869615",
-      "image": null,
-      "published_at": "2025-10-06T12:42:59.000Z",
-      "summary": "In addition, Israeli forces located a cache of weapons containing explosives, radios, cartridges, and numerous weapons."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2070,16 +2090,6 @@
       "image": "https://gif.haarets.co.il/bs/00000199-b95d-d9d3-ab9b-fbdd9f2b0005/ba/a4/f529438c40898aac3c1c254ad638/gif.gif?height=81",
       "published_at": "2025-10-06T12:33:33.000Z",
       "summary": "Four parents of Israeli hostages still held in Gaza write about two impossible years – and about keeping up the fight to bring their loved ones home"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Cleveland and Kissufim mark October 7 as almost all kibbutz members prepare to return by summer",
-      "url": "https://www.jpost.com/israel-news/article-869612",
-      "image": null,
-      "published_at": "2025-10-06T12:06:52.000Z",
-      "summary": "The ceremony with the Jewish Federation of Cleveland saw 1,200 people gather to remember those who lost their lives in the Hamas-led 2023 attack. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2575,21 +2585,21 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "'We don't know when the next bombardment will come': Gazans struggle to believe a cease-fire is on the way",
-      "url": "https://www.haaretz.com/israel-news/2025-10-05/ty-article/.premium/dont-know-whens-next-bombardment-gazans-struggle-to-believe-cease-fire-on-the-way/00000199-b0c4-d5c1-ad9d-f1cdb3a80000",
-      "image": "https://img.haarets.co.il/bs/00000199-b13a-da1c-addb-bbba65ee0000/8a/52/3b62f3e540fe82d41877c0c8eaeb/331433.jpg?height=81",
-      "published_at": "2025-10-05T03:00:00.000Z",
-      "summary": "'This time I won't believe anyone until I see with my own eyes that the army is no longer in Gaza,' said a resident. Gaza's health ministry said 129 Palestinians were killed by IDF fire in the past two days"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
       "title": "Despite suffering ridicule, Macron's two-state initiative heavily affected Trump's Gaza plan",
       "url": "https://www.haaretz.com/israel-news/2025-10-05/ty-article/.premium/despite-the-ridicule-macrons-two-state-initiative-heavily-affected-trumps-gaza-plan/00000199-b096-d9d3-ab9b-f2df55430000",
       "image": "https://img.haarets.co.il/bs/00000199-b121-da1c-addb-bbb9b1c00000/da/48/ca0f59f341808785b55f1d5de4d3/188067.jpg?height=81",
       "published_at": "2025-10-05T03:00:00.000Z",
       "summary": "The French-Saudi two-state plan, launched in late September, initially seemed to carry zero practical significance. But despite Netanyahu's insults, it affected Trump's cease-fire plan in key points – including dashing any hopes for a Gaza Riviera"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "'We don't know when the next bombardment will come': Gazans struggle to believe a cease-fire is on the way",
+      "url": "https://www.haaretz.com/israel-news/2025-10-05/ty-article/.premium/dont-know-whens-next-bombardment-gazans-struggle-to-believe-cease-fire-on-the-way/00000199-b0c4-d5c1-ad9d-f1cdb3a80000",
+      "image": "https://img.haarets.co.il/bs/00000199-b13a-da1c-addb-bbba65ee0000/8a/52/3b62f3e540fe82d41877c0c8eaeb/331433.jpg?height=81",
+      "published_at": "2025-10-05T03:00:00.000Z",
+      "summary": "'This time I won't believe anyone until I see with my own eyes that the army is no longer in Gaza,' said a resident. Gaza's health ministry said 129 Palestinians were killed by IDF fire in the past two days"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2700,16 +2710,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-b057-dcde-a5bf-b37f71cf0000/72/8b/f8c162aa43e98ecff36f7f6e0a5c/222578.jpg?height=81",
       "published_at": "2025-10-04T18:43:34.000Z",
       "summary": "Ben-Gvir threatened to pull his far-right party from Netanyahu's coalition if 'Hamas remains in existence' after the hostages are released. He and Finance Minister Bezalel Smotrich are meeting with Netanyahu to discuss the plan on Saturday night as protests take place across the country"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Tens of thousands of Israelis rally nationwide for hostage deal amid progress in Gaza truce talks",
-      "url": "https://www.haaretz.com/israel-news/2025-10-04/ty-article/.premium/tens-of-thousands-of-israelis-rally-for-hostage-deal-amid-progress-in-gaza-truce-talks/00000199-afde-d5a6-afff-efdfc7e10000",
-      "image": "https://img.haarets.co.il/bs/00000199-b09b-da1c-addb-bbbbe3420000/b6/17/1ee4609d47429334f117f88d4015/336556.jpg?height=81",
-      "published_at": "2025-10-04T17:08:38.000Z",
-      "summary": "'Hamas agreed to the outline of the deal: Our nightmare is on its way to ending': Although the prime minister said that Israel was preparing to implement Trump's Gaza cease-fire proposal, demonstrators fear that far-right ministers will force the government to renege"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
