@@ -1,11 +1,21 @@
 {
-  "generated_at": "2025-10-10T03:11:36.690Z",
+  "generated_at": "2025-10-10T03:45:05.186Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Suspected terrorist infiltration in West Bank settlement Kohav HaShahar",
+      "title": "IDF reservist killed by sniper fire in Gaza City before ceasefire",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-870008",
+      "image": null,
+      "published_at": "2025-10-10T06:10:44.000Z",
+      "summary": "Sgt. First Class (res.) Michael Mordechai Nachmani, 26, from Dimona, was killed during fighting in the northern Gaza Strip."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "West Bank settlement Kohav HaShahar in lockdown over suspected terrorist infiltration",
       "url": "https://www.jpost.com/israel-news/defense-news/article-870007",
       "image": null,
       "published_at": "2025-10-10T06:00:19.000Z",
@@ -57,9 +67,29 @@
       "topic": "News",
       "title": "Hostages’ return is a blessing, calling this victory is premature - opinion",
       "url": "https://www.jpost.com/opinion/article-870002",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/684437",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3668,w_5500/684437",
       "published_at": "2025-10-10T04:29:21.000Z",
       "summary": "The return of hostages sparks national celebration, yet the fate of the fallen, doubts over Phase Two of the Gaza framework, and reconstruction risks could overshadow the triumph."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "The Taliban are investigating an explosion in Kabul - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFI0RlV5MFV4M3VOWFlpX2E2QVVIX05ZQ2pYRkVMMUxuZ2hKOExTMXBENE1LaVB6TUY5VXVOQldRejNlaF8tLVNKaDg3UHJUc05DTFo0TE5SQWhjLW1ocTJuRHVjUGNkTVNOd2ZFS015UEctOFNOYjdXT21UTlVBaS12ZG5RN2tOVk91N1NFU0FIQjF5Z3lwR05JSTJKUVVWcFVONDV3UUhTbXZULXA2LVlrLXV4Tk5TNGJIVHY1Y21xd2JiY3c?oc=5",
+      "image": null,
+      "published_at": "2025-10-10T03:32:37.000Z",
+      "summary": "The Taliban are investigating an explosion in Kabul  The Washington Post"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Казахстан обратился в Евразийскую экономическую комиссию из-за заторов на границе с РФ",
+      "url": "https://centralasia.media/news:2344465?from=rss",
+      "image": null,
+      "published_at": "2025-10-10T03:31:07.000Z",
+      "summary": "Казахстан обратился в Евразийскую экономическую комиссию (ЕЭК) из-за заторов на границе с Россией и жалоб водителей на новые нормы миграционного законодательства РФ. Об этом 9 октября сообщила пресс-служба правительства республики."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -72,6 +102,26 @@
       "summary": "Trump’s Nobel Peace Prize bid faces long odds, with the committee likely focusing on other peace efforts."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Govt declares water emergency in Gwadar",
+      "url": "https://www.dawn.com/news/1947787/govt-declares-water-emergency-in-gwadar",
+      "image": "https://i.dawn.com/large/2025/10/10082852dee8e34.webp",
+      "published_at": "2025-10-10T03:29:04.000Z",
+      "summary": "QUETTA/GWADAR: The Balochistan government has declared a water emergency in Gwadar and suspended all taxes related to water supply to resolve the issue of serious water shortage the coastal district.\nA decision to this effect was taken after a massive protest demonstration was staged by residents..."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "IDF combat soldier Michael Mordechai Nachmani, 26, killed in northern Gaza",
+      "url": "https://www.haaretz.com/israel-news/2025-10-10/ty-article-live/idf-combat-soldier-michael-mordechai-nachmani-26-killed-in-northern-gaza/00000199-cbf6-dd44-ab99-ebf7d72b0000",
+      "image": "https://img.haarets.co.il/bs/00000199-cc10-dd44-ab99-ef178d8e0001/99/3b/26cf75354c258af890050e6130b2/michael.jpeg?height=81",
+      "published_at": "2025-10-10T03:26:19.000Z",
+      "summary": ""
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -80,6 +130,76 @@
       "image": null,
       "published_at": "2025-10-10T03:26:05.000Z",
       "summary": "Jihad A-Karim Azziz Rom was sentenced to life for Yuri Gushchin murder plus an additional 20 years for his role in the killing of the two reservists. "
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Opposition ruckus derails Senate sitting",
+      "url": "https://www.dawn.com/news/1947791/opposition-ruckus-derails-senate-sitting",
+      "image": "https://i.dawn.com/large/2025/10/10082404bf7ee95.webp",
+      "published_at": "2025-10-10T03:25:07.000Z",
+      "summary": "ISLAMABAD: The continued boycott by the Pakistan Peoples Party (PPP) and a noisy protest by the opposition Pakistan Tehreek-i-Insaf (PTI) members over the alleged biased attitude of Deputy Chair­man Syedaal Khan Nasar on Thursday disrupted the Senate proceedings as the sitting was adjourned witho..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "PSP: Pennsylvania man wanted for attempted homicide arrested in Lebanon County - WGAL",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFlHSmpCazhnOGZaMDZBU0lxckV3amNQNmFmVWR6TjRQUnV2djktdkE3ZmJFRmlrSzFjNWRjRHl1ejFKZUJXR003WG9FeXY3bFhoR256YU10Z0hIRWhTLVctaU5UQXFVaEpHd0ZsNEZHbnlHMjg1d0pxcUc0S01kT2NmTDZxSFJkMTBFMXc3MGxwUm9walFORmh5OFU3X2JEZU01dDhRc2FsSW4xTWEwOQ?oc=5",
+      "image": null,
+      "published_at": "2025-10-10T03:25:00.000Z",
+      "summary": "PSP: Pennsylvania man wanted for attempted homicide arrested in Lebanon County  WGAL"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Gandapur’s resignation ‘lost in red tape’; KP Governor House claims it has not received letter",
+      "url": "https://www.dawn.com/news/1947827/gandapurs-resignation-lost-in-red-tape-kp-governor-house-claims-it-has-not-received-letter",
+      "image": "https://i.dawn.com/large/2025/10/100816254b00529.webp",
+      "published_at": "2025-10-10T03:19:26.000Z",
+      "summary": "https://www.dawn.com/news/1947790/gandapurs-resignation-lost-in-red-tape"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "EAM Jaishankar to meet Taliban FM Amir Muttaqi today: Will India recognise Islamic Emirate of Afghanistan? - Mint",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSlNCcjdIMGliYWcydkhTTzAxc1pVZDQzNndFWGRiUVZEU1dNVzBZOVJLX3B2Z2hwZ3dodUd0aUFxbVhnQXpwN3JPWDVVRTNPYWtqSWVpdUhqeTF0bGk0THhGODJxQ2Jwa0t2YVB6Nm40dk5US3puOS01Q2JlLVowdlc1TzB2bkY5cG1aS2JYNDBkOXFtQjk5b2QxY3JkTll4WV9HakpOYW4wZFBVRjVxYjUtVnI2QWpoMk5UMnZyV2Y4OG0yRy0zVkVOVXN4VG1NZy1FT18tZnQxZ1BuOEVFdzRhYUlxRTV6QkFYWVpHT1VaZ9IB9wFBVV95cUxPWElTajkzMnBuVVU5eU9ZVDFVQTIxUTVvOW1rSm5XcWJVYTVsdmhBTWxEUmtfSUxWYmxFSjhZVlN4SXdMend6OXI1TE9pNWwzWENBc0J1Y1VCZE82c0dSci1VZEdvS0FkNWFJQ0l0UERadnVHV3l1cDJYU3F0ZGxfQ0xWOFh6c1FCc0UtbHFFMUU5cm1Oemh6dkNfNFhRR2g5c3hRbUEwVVRKWjI3YkU4R3NSZnB0dFJWblNwMHVpVE9oUDZZQW1pdnRIdVRULWFKTEhyeGl1ZXBDOUdWR3NQNEdIS0tJTlhYb0ZBbmdodnMwYUJJNDFR?oc=5",
+      "image": null,
+      "published_at": "2025-10-10T03:18:23.000Z",
+      "summary": "EAM Jaishankar to meet Taliban FM Amir Muttaqi today: Will India recognise Islamic Emirate of Afghanistan?  Mint"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Palestinian Arab sources: Palestinian Authority expects central role in Gaza",
+      "url": "https://www.israelnationalnews.com/news/416064",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1200598.jpg",
+      "published_at": "2025-10-10T03:17:29.000Z",
+      "summary": "Senior Palestinian Arab officials estimate that the Palestinian Authority will play a significant role in the Gaza Strip after the war ends."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Belgian police arrest three for plotting drone attack on prime minister",
+      "url": "https://www.aljazeera.com/news/2025/10/10/belgian-police-arrest-three-for-plotting-drone-attack-on-prime-minister?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-10T03:14:52.000Z",
+      "summary": "Evidence was found in a building a few hundred metres from Prime Minister Bart De Wever&#039;s Antwerp residence. "
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Shehbaz-Bilawal call sparks hopes of reconciliation between PML-N, PPP",
+      "url": "https://www.dawn.com/news/1947826/shehbaz-bilawal-call-sparks-hopes-of-reconciliation-between-pml-n-ppp",
+      "image": "https://i.dawn.com/large/2025/10/10081252a318926.webp",
+      "published_at": "2025-10-10T03:13:40.000Z",
+      "summary": "https://www.dawn.com/news/1947780/shehbaz-bilawal-call-sparks-hopes-of-reconciliation"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -92,6 +212,26 @@
       "summary": "With key road tests at Norway and Italy, Ben Shimon’s squad aims to keep World Cup dream alive."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Cleared for publication: SFC (Res.) Michael Mordechai Nachmani fell in Gaza",
+      "url": "https://www.israelnationalnews.com/news/416063",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1200602.jpg",
+      "published_at": "2025-10-10T03:09:00.000Z",
+      "summary": "Sergeant First Class (Res.) Michael Mordechai Nachmani, aged 26, from Dimona, a soldier in the Combat Engineering 614th Battalion, fell during combat in the northern Gaza Strip. 914 soldiers have fallen since the start of the war."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Team of 200 American troops to ‘oversee’ Israel-Hamas ceasefire — US officials",
+      "url": "https://www.timesofisrael.com/team-of-200-american-troops-to-oversee-israel-hamas-ceasefire-us-officials/",
+      "image": null,
+      "published_at": "2025-10-10T03:08:59.000Z",
+      "summary": "CENTCOM chief to be in charge of the soldiers, who source familiar with the matter tells ToI will likely be stationed in Egypt, though White House indicates they'll be in Israel\nThe post Team of 200 American troops to ‘oversee’ Israel-Hamas ceasefire — US officials appeared first on The Times of Isr"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -102,14 +242,24 @@
       "summary": "WASHINGTON: Chief of the Naval Staff Admiral Naveed Ashraf concluded his visit to the US on Friday, which aimed to foster better ties between the defence establishme­nts of the two countries.\nEarlier in the week, the naval chief addressed a gathering of US scholars and think tank experts, offerin..."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Architect Rabih El Hage Archives Lebanon’s Abandoned Homes in Matn - CairoScene",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZVZhZkRaQzhPaWY3dFdFWm5aeXc0NTFpM2d1Z3lQVGp6VWZnWVl0VExzbUtPdTVmQWxrTzJFRlVRVUJmUkdNbkxfTDJDY2J3c0kyVFI2eTRyR1BWdW0wQXFoT3JuRm4yQTJwZTFzMFdPcms2aWxVVkhraWFPaEUwWWlWdXVBblRpdkxpLWlNQlBnTVMzOU5nY2dn?oc=5",
+      "image": null,
+      "published_at": "2025-10-10T03:04:46.000Z",
+      "summary": "Architect Rabih El Hage Archives Lebanon’s Abandoned Homes in Matn  CairoScene"
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הותר לפרסום: רס\"ל במיל' מיכאל נחמני, לוחם הנדסה קרבית, נפל בקרב בצפון עזה",
+      "title": "הותר לפרסום: לוחם מילואים נפל בקרב בצפון הרצועה",
       "url": "https://www.ynet.co.il/news/article/r1hea1upxg",
       "image": null,
       "published_at": "2025-10-10T03:03:11.000Z",
-      "summary": ""
+      "summary": "במקביל לתחילת נסיגת צה\"ל מהעיר עזה, נהרג רס\"ל במיל' מיכאל מרדכי נחמני מירי צלף של חמאס"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
@@ -120,6 +270,16 @@
       "image": "https://i.dawn.com/large/2025/10/1008001061831d1.webp",
       "published_at": "2025-10-10T03:01:11.000Z",
       "summary": "ISLAMABAD: Jailed PTI founder Imran Khan on Thursday denied all allegations in the Toshakhana case related to the sale of a Bulgari jewellery set, terming it a fabricated and politically motivated attempt to disqualify him from politics.\nRecording his statement under Section 342 of the Criminal P..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE Consortium Eyes Manchester United Acquisition - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZWVZTVlwamRpVlpSWGZTVHE4UlRPYVpLUDZfM1RTZXVUV3NqR2VKZ2tiMTlMZzBLNVRrWERtUURDOW12eEZRSDVXZU03aGJkUEVUMzJyME5Ua2RVMWNVY1A5dmN3OVZJWVhVRUtBeHpzVnZiNHZ4R3ByT2dsa09IcVA2VEFFZw?oc=5",
+      "image": null,
+      "published_at": "2025-10-10T02:59:05.000Z",
+      "summary": "UAE Consortium Eyes Manchester United Acquisition  조선일보"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -160,6 +320,26 @@
       "image": "https://i.dawn.com/large/2025/10/10075229dc2553f.webp",
       "published_at": "2025-10-10T02:53:06.000Z",
       "summary": "https://www.dawn.com/news/1947777"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Afghanistan's Taliban foreign minister meeting with Indian counterpart for first time since takeover - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOHZZVDZqZjFiaVVnQm1tMllRQXp3QjFOWkYyLUFVZkpNRUJwQi1RNGdzd1RvTG5yS0lGWlZDTG93cDJmU3VqVFZtbUF4bU82LXM4U2pudl9JcjNoVU1aQUZiNkprWjQ2VHRZYnVpOWtaV2F3MzZhWHMyRGFoZGhRNUk5RTdza3g3dGpLaG5EZlMxOHhVam1LcjViNnNQUnQzN1FmYU1XanZuZVRZNnB1OXJJbmIwOEt3UlFxWllTaUFFWkpK0gHKAUFVX3lxTE5rbjhuVkVDZi10MXVXUU4ybVRreEhBekpuMGlteFg1MUJlM3FKVFdReldTN2RubjBucWdJSGozMldOZUVmWkN3VlFkbnlRdEJ1eGlfZWVpa1dKanAxck5ZQzZ6dkZsdnVnRDhVXy1Lbmp0aFUwVUFQSDBvLS0ta05nemZUSWtMNjluNU1yMnJTOGRSNm4zMkFFZ3FYR1JONHlycjByZTdtMnpGOXFteGh1NnBxdW4wREZlS2NjcEU3aGJRTVo1dl9fdnc?oc=5",
+      "image": null,
+      "published_at": "2025-10-10T02:52:45.000Z",
+      "summary": "Afghanistan's Taliban foreign minister meeting with Indian counterpart for first time since takeover  ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Complete list of Nobel Peace Prize winners (1901–2024)",
+      "url": "https://www.aljazeera.com/news/2025/10/10/complete-list-of-nobel-peace-prize-winners-1901?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-10T02:52:17.000Z",
+      "summary": "The Nobel Peace Prize has been awarded 105 times to 142 laureates in its 124 year history."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
@@ -225,7 +405,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Strong magnitude 7.6 earthquake strikes off southern Philippines",
+      "title": "Tsunami threat as magnitude 7.6 earthquake strikes off southern Philippines",
       "url": "https://www.aljazeera.com/news/2025/10/10/strong-magnitude-7-6-earthquake-strikes-off-southern-philippines?traffic_source=rss",
       "image": null,
       "published_at": "2025-10-10T02:30:43.000Z",
@@ -372,16 +552,6 @@
       "summary": "Donald Trump insists he wins the prize, which will be announced on Friday. These five people decide who gets it."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE Prepares to Host Forty-Forth Sharjah International Book Fair, Celebrating Global Literature and Culture: What You Need to Know - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUWltZmFsVmdpQ2F6bkdPVVhDT2hRUEExeTNoVDN6VTVjM3NTYXJBNUFwTElkYzVZVEs4bWtjYjk1ZE5WcEk1N3RBRnJXeDRPaGh6LU5GZzZOVVZKWGJJOHphZ1gzclBtWV9jejhFOVpILWg3a28zbUlRQ2R6eGtHYjVXMUpNRGN1dmRTMnluYjJIdXZhM01icEc4bEZHNXRyWVo1Q1lpM2czX2VEbV9wV2lZcW1ua0dfbEFqaDV5XzdwS1E5YXhwcXFiLTl5NWpJWml4V081bXdmQnhtajliQkZsS0J5NHN3YXhZemtZRDBybTk4Ym4wWUVaQzJENXgzYWFUQWJJMUI?oc=5",
-      "image": null,
-      "published_at": "2025-10-10T02:11:19.000Z",
-      "summary": "UAE Prepares to Host Forty-Forth Sharjah International Book Fair, Celebrating Global Literature and Culture: What You Need to Know  Travel And Tour World"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -390,36 +560,6 @@
       "image": null,
       "published_at": "2025-10-10T02:11:09.000Z",
       "summary": "הגשם נפסק, אך הבוקר עדיין ייתכן טפטוף קל לאורך החוף. בהרים ובפנים הארץ תורגש התחממות, ומחר תחול עלייה קלה נוספת בטמפרטורות"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "OPEC output climbs in September on stronger Saudi and UAE flows - Energies Media",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTm1LR3FwUDkzekI5VncybmkxSVgwVUc4UV91NTFzZXJ1bTQ1ZTRzLVlZUGtkb0psb2QwTUZjTDMzNWJWM0VMZGNFcTVYVVF0TmhOOHNwN1c5RDdyRlZLLS1jSXNLMHpNNjZud1dZSW04OXZtaTN5Y2xoUm9NM1VobA?oc=5",
-      "image": null,
-      "published_at": "2025-10-10T02:09:39.000Z",
-      "summary": "OPEC output climbs in September on stronger Saudi and UAE flows  Energies Media"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Germany expected to lift arms ban on Israel after ceasefire deal",
-      "url": "https://www.israelnationalnews.com/news/416061",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1189157.jpg",
-      "published_at": "2025-10-10T02:09:22.000Z",
-      "summary": "Channel 12 News reports that Germany is expected to lift its arms embargo on Israel following the Gaza ceasefire, after FM Gideon Sa’ar urged Berlin to resume exports."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar Airways Expands Routes with Aer Lingus and LEVEL, Connecting Key Cities Across Europe, Middle East, and America, Updates You Need to Know - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPakNlNksxcXBOV1NuZmU4bV9KLWVZYWo4X1k4eFExTWREazhSU0pkZWxrUmJEX2Y3YjlBZkQyR1ZnR1dtZzNhNkdmWGFZZnhRS2o5eXNFUUhZbmswUmVFLXg5a2N5bTJ4bk9nd2hldWV1emlxVjBtN0I2WUxMQlpDdEFBNnNxZURQSkRvMHd6MkVyemR4TWRnMnBsNzgwbG5LcUkwUzhMY0NVN0VhMFgwYTBPeTVKNC16R1BJTkt1bjlmRGZqc1d0NnpraFJBT0R2bW9QNXF4RU9Xdng0NUlEMU83RjZxR25EUFFUMXJ2Q004bXB6Q1pSaUVBSlZKU0NjMW5ybElqMEE2T2Y1ZEt2bi0wWmFoZ2c?oc=5",
-      "image": null,
-      "published_at": "2025-10-10T02:03:14.000Z",
-      "summary": "Qatar Airways Expands Routes with Aer Lingus and LEVEL, Connecting Key Cities Across Europe, Middle East, and America, Updates You Need to Know  Travel And Tour World"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -432,46 +572,6 @@
       "summary": ""
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Airfare Surge Across Southeast Asia, Oceania, and the Middle East: India, Vietnam, Thailand, and the UAE Among Hardest Hit, Details You Need to be Aware Of - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQd19SWlVwTHR3aHh2a3dVNzFMeHQzSjFDaDFzdjR5ZVE0cEp0V0VORlZnVUs3RWVqZTIwcE1mazkyS1M5akNSUG9ueHpYNVM5ejdJaFJNc243VzBZczRMNFB0R25RYVdxQ2daLXc3eFJidGx3S2dIUk9HVk9lWFZyNXBkT0NhQmphazVsLXNvdUxhallIX0pzZmRJblpGbllURjVDMlFpdzRrb1REbk1pSkd1Y0FxWllnNWd6ZGJBaGd2U0RhbTlCLWNTbmFicTQzZklMaWxiZkNkejNUM0JwUW5QUlZGNVd3U1hzbkxnbG1XOHM4TFFSVHpJZTdOUmxGdmpkbzQxQWVQVFY5OGRnNm54ZWlRTUU5QUI3NzVKdm5iN3M?oc=5",
-      "image": null,
-      "published_at": "2025-10-10T01:54:57.000Z",
-      "summary": "Airfare Surge Across Southeast Asia, Oceania, and the Middle East: India, Vietnam, Thailand, and the UAE Among Hardest Hit, Details You Need to be Aware Of  Travel And Tour World"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Afghanistan's Taliban foreign minister meeting with Indian counterpart for first time since takeover - Temple Daily Telegram",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVmMxMm5tWk00bG1ER2YtenFhbzQ5LXFnSUFQTmpGN1p1MG96NThUcWNUaDh4TG00RzFUUW5KTF8ySGc1Q0xERUtOZ29WbTNRZmw5eWVjVmVGSFd1RmFFbmxEZUJPRmRZdGo3UlQ4MktNVVdJckp5RHd6Sk1WMmhyLTd0MjhzcXFQZW4wMDZUVGNLTGNEcUE?oc=5",
-      "image": null,
-      "published_at": "2025-10-10T01:54:39.000Z",
-      "summary": "Afghanistan's Taliban foreign minister meeting with Indian counterpart for first time since takeover  Temple Daily Telegram"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "New York AG Letitia James faces fraud charges in Virginia",
-      "url": "https://www.israelnationalnews.com/news/416060",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1125099.jpg",
-      "published_at": "2025-10-10T01:54:10.000Z",
-      "summary": "James has been under federal investigation since May over a 2023 mortgage she obtained to assist her niece in purchasing a home in Norfolk, Virginia."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "The Taliban are investigating an explosion in Kabul - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFI0RlV5MFV4M3VOWFlpX2E2QVVIX05ZQ2pYRkVMMUxuZ2hKOExTMXBENE1LaVB6TUY5VXVOQldRejNlaF8tLVNKaDg3UHJUc05DTFo0TE5SQWhjLW1ocTJuRHVjUGNkTVNOd2ZFS015UEctOFNOYjdXT21UTlVBaS12ZG5RN2tOVk91N1NFU0FIQjF5Z3lwR05JSTJKUVVWcFVONDV3UUhTbXZULXA2LVlrLXV4Tk5TNGJIVHY1Y21xd2JiY3c?oc=5",
-      "image": null,
-      "published_at": "2025-10-10T01:45:38.000Z",
-      "summary": "The Taliban are investigating an explosion in Kabul  The Washington Post"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -482,26 +582,6 @@
       "summary": "Temple Israel rabbi denounces the antisemitic vandalism, which includes warning 'Watch out Zionists,' saying 'it's not about political differences. It’s about hate'\nThe post Minneapolis synagogue targeted with pro-Hamas graffiti on Oct. 7 anniversary appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Cathay Pacific Tops the 2025 Skytrax Awards for Best Economy Class, Leading Qatar Airways and Singapore Airlines Worldwide—Here’s What Tourists Need to Know - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPOF9YbXkxNW42d0dMdndUdXh5ZzVCa3ppUEhEQUdyVzJWeGZPRDIwZmI2aWh0WFJVeUZmRW9QUzZlS2piQ01GUkc2Z195Yjk5YVVXTEpzZGpXa0k3YzAySDJrT1hjN0wtR2l3UW5RUHFpSG1ET0JxX3I4UkN6bGNNa0Rpb1NtU2xGTnZueE1JQlF2MFhuc09vQVdDSkdTMTlzcXRoWnctVW5xd3BsS0hJODdUSnN4WU5DQjBFZXpuYXlabkoyT2VsdDFVQUxJR1Q4TldYYjluMHNtZmdBWEpZMW9HVmx6bHNCQnZPLWdzUWU2b2lRdTdFOWNQSi1wZS1YMzBFOEl4b2tVd1REcmtuTFEtaXdqQndEVlJjQ01XZ0cxaXZ5Z1Z4TlV3NA?oc=5",
-      "image": null,
-      "published_at": "2025-10-10T01:36:54.000Z",
-      "summary": "Cathay Pacific Tops the 2025 Skytrax Awards for Best Economy Class, Leading Qatar Airways and Singapore Airlines Worldwide—Here’s What Tourists Need to Know  Travel And Tour World"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Blast rocks Kabul, Taliban launches probe, says no information on casualties yet - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNmpueEZjWEJUV3NGRzBVTDZmYlllWXhIMHFUZGJ5MGdkSVlnWEFLdHBKSllDa2ktWU5QdVFXM1ZLUy0zNENRNnNhcUx4VlJnSTFaOGRpaFhWWEhwa0ViNW1aMGdQNmhzRFIyREpZaWYzMGVPV0doVXNEWXI3Ni1QSVdabmZ3Q1RaSkFTZ0JXQ0pWbjhOZ3JGWnFnekw3eXJPNUZTQTVWNEFVV2tLazExTVgxYlNsdlVfMHAyZEdYNXFOQlJ1bTdzTTFLZGdhS05Q0gHWAUFVX3lxTE1EcEVWNlFUV1dkSEJpM0lrRWw1U25nTTFoZTR1OWJvS0R2WGJuR0JxRzRkVElhb3lDMXp3VThhWW5IVjJHdVBMRVlQLUhxWHJiNjl1b1RpWHM4TG1OMzZKX011eWJvNEVVQUtCT3ZOTUNyb19Bd0RvaDgwZGdJdjAzR3pIVlIyZjdYbGlNR0huYTZuc0F2QVNtX0tSMTJfbVpOX01UNTBLOWM3RGt4Ym9hWXY4bU4xZ1phX2tDNFpyb05ITC1IU2NWa1lkRWxKTEVyZ0t3Umc?oc=5",
-      "image": null,
-      "published_at": "2025-10-10T01:36:41.000Z",
-      "summary": "Blast rocks Kabul, Taliban launches probe, says no information on casualties yet  India Today"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -510,56 +590,6 @@
       "image": null,
       "published_at": "2025-10-10T01:34:51.000Z",
       "summary": "The US official confirmed CENTCOM had begun assembling the stabilization force, which would consist of Egyptian, Turkish, Emirati and other forces."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Muttaqi in India: Why New Delhi is increasing engagement with Afghanistan’s Taliban - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdjhUNlVUS3B1STN5UkdrX0lHZ0MycWRKRkhiaGNhQjUtWWlyUnVtSGY2WlVGRDFkLWxQa2J6SjJuVThoSW1PX0JpN3JDMzd5NmRQdFdDQ3RkZVF4MTBxTkF5TVFMYzE3TTRSSmNhdG54V3ZCNWFMMU4xWHFLZVVXUXcyZjZveEtxVnloazlpVFMzNm8x0gGbAUFVX3lxTFBVdFBhaENkOElrQUtjSmVmS2tvTjlkaUJHTDNaQXhyNVNDek5QbW1YRTMwVVAwdl9QVmxUdWNpUWl0c1EtZHJONFhUcVl3aTQzY0k4SFlZenFfZXhZMERjRHlYS28wbWw4M0dvSVFGc3dBYjRWb3ZxV0VhdWdMUmtiRm9Cc0xvZGI2RDUyZkNVSTRpamNwVTdRNHlr?oc=5",
-      "image": null,
-      "published_at": "2025-10-10T01:31:00.000Z",
-      "summary": "Muttaqi in India: Why New Delhi is increasing engagement with Afghanistan’s Taliban  The Indian Express"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Jaishankar-Muttaqi meet today: Will India recognise Taliban as Afghanistan govt? - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM2JEcjZpd3drZEo3cFB5aG4xb1RSZjlsWVAxaTI1bVE0Y1ZNSVk5Y3hHXzduVDZlMi13MXNhSWMxY1FhRlhCWUNuYU9Rd1h6V2UzRGdTRjEzM25naEs5QzBEUzhibEpnYmstTUJqZ3lzS0FYelZKRWFaOTlZWnRzNTU4UTBaclFRWTZUbEV5bnZzYlJ2OFg4eVJJdS1kQy1rTDhYX2NKZ0EzNWV5Mk00VmtFS3Jnb0p1Q0YzNG55eDk0Z9IBxwFBVV95cUxPMzhjTUdfM3NSSVU4WnJrRkJ3RHhCOEttbHhLeE1aeFkzbWNoX3c1MlRYZ3NNOFZ0eWFrNUp1SFROQktnQmxMNm8wT2xwNUtRbnRVRXBBUVhpNE5VMzk0a3NUQlRXX0o4NzNuN3JxRlZrODFzRzBtREtYc2tSekpFZGx0WERfYmRKc3ViaHZhcGxPdlFGd1lzVUtBUWd4WkJTOWZTYmVOTlpGYTRYb3M5RDFmcmR1V1lZRHZycHZiUXdwSE1MQ1Vv?oc=5",
-      "image": null,
-      "published_at": "2025-10-10T01:18:14.000Z",
-      "summary": "Jaishankar-Muttaqi meet today: Will India recognise Taliban as Afghanistan govt?  Firstpost"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Congressman Landsman's Statement On Ceasefire Deal - Warren County Post",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uQUNBN2tLc1JGZy1DZVFmZjR3MTJOVHZBdWZMck5PdkpXRmR1aHVfaEE3NnVJQnY1ajFWbmcycHFJNnBYdVl4cGhic1l2SFZBLXRTWll0dlNVVVNzOHIzNkRtMHZPN1k?oc=5",
-      "image": null,
-      "published_at": "2025-10-10T01:16:32.000Z",
-      "summary": "Congressman Landsman's Statement On Ceasefire Deal  Warren County Post"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2025/10/09/world/israel-hamas-gaza-ceasefire/heres-the-latest",
-      "image": null,
-      "published_at": "2025-10-10T01:14:12.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Watch: Jerusalem’s tribute to President Trump",
-      "url": "https://www.israelnationalnews.com/news/416059",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1200578.jpg",
-      "published_at": "2025-10-10T01:13:15.000Z",
-      "summary": "The walls of Jerusalem’s Old City and the Chords Bridge illuminated with the flags of the United States and Israel, in appreciation of President Trump’s efforts to secure the release of hostages."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -665,11 +695,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Team of 200 American troops to ‘oversee’ Israel-Hamas ceasefire — US officials",
+      "title": "IDF says reserve soldier killed in Hamas sniper attack before Gaza ceasefire took force",
       "url": "https://www.timesofisrael.com/liveblog-october-10-2025/",
       "image": null,
       "published_at": "2025-10-09T22:40:00.000Z",
-      "summary": "Signed deal for ‘comprehensive end of Gaza war’ calls for 'establishment of information-sharing mechanism… on any deceased hostages' who aren't released alongside all the living captives\nThe post Team of 200 American troops to ‘oversee’ Israel-Hamas ceasefire — US officials appeared first on The Tim"
+      "summary": "Sgt. First Class (res.) Michael Mordechai Nachmani, 26, shot dead Thursday after Israel and Hamas negotiators signed deal in Egypt, though fighting had yet to formally cease\nThe post IDF says reserve soldier killed in Hamas sniper attack before Gaza ceasefire took force appeared first on The Times o"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1382,16 +1412,6 @@
       "summary": "French appeals court increases Husamettin Dogan&#039;s sentence to 10 years for sexually abusing Pelicot."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Cabinet set to approve hostage-ceasefire deal after Israel, Hamas sign on in Egypt",
-      "url": "https://www.timesofisrael.com/cabinet-set-to-approve-hostage-ceasefire-deal-after-israel-hamas-sign-on-in-egypt/",
-      "image": null,
-      "published_at": "2025-10-09T16:59:11.000Z",
-      "summary": "Trump expects hostages to return Monday or Tuesday, as negotiators finalize list of 250 Palestinian life-sentence prisoners, 1,700 Gazan detainees that Israel will free in return\nThe post Cabinet set to approve hostage-ceasefire deal after Israel, Hamas sign on in Egypt appeared first on The Times o"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1492,16 +1512,6 @@
       "summary": "Show no empathy, take no responsibility. Ignore the calls of 'mass murderer' abroad and 'traitor' at home. Undermine the opposition. Flatter the bigger bully in the White House. After all, morals and principles are for weaklings"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Relief and disbelief greet Gaza ceasefire announcement in Israel",
-      "url": "https://www.aljazeera.com/news/2025/10/9/relief-and-disbelief-greet-ceasefire-announcement-in-israel?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-10-09T16:27:19.000Z",
-      "summary": "After two years of war on Gaza, Israelis struggle to believe that the conflict may have finally ended. "
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1510,16 +1520,6 @@
       "image": null,
       "published_at": "2025-10-09T16:23:09.000Z",
       "summary": "Sa'ar to German counterpart: 'Lift arms embargo now that war had ended' • Israel received numerous messages from Europe 'expressing desire to open a new chapter,' FM says"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israel announces timeline for implementing first phase of peace plan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/9/israel-announces-timeline-for-implementing-first-phase-of-peace-plan?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-10-09T16:15:30.000Z",
-      "summary": "A government spokesperson has laid out how Israel will implement the first phase of the peace plan for Gaza."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1770,16 +1770,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-c8d5-dac4-abfb-ddff3e3e0000/3e/86/5369e7d546498d92a30654f764d2/385396.jpg?height=81",
       "published_at": "2025-10-09T12:39:25.000Z",
       "summary": "Hospitals have developed advanced protocols: accommodations for returnees and their families, treatment for prolonged starvation, psychologica treatment that ensures a continuity of mental healthcare treatment, and above all, a need to give returnees 'a sense of returning home'"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "“Israel is Only at the Beginning of an Emotional Tsunami”",
-      "url": "https://www.jpost.com/israel-news/culture/article-869899",
-      "image": null,
-      "published_at": "2025-10-09T12:35:54.000Z",
-      "summary": "Against a growing mental health crisis, life’s door reports surge in demand for hope workshops"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2802,16 +2792,6 @@
       "summary": "The toll is significantly lower than in previous days, following the IDF's announcement of a shift to defensive operations amid cease-fire talks; The IDF also said that an Israeli soldier was lightly wounded by mortar fire"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israel deports Greta Thunberg and 170 Gaza flotilla activists amid new abuse allegations",
-      "url": "https://www.haaretz.com/israel-news/2025-10-06/ty-article/.premium/israel-deports-greta-thunberg-and-170-gaza-flotilla-activists-amid-new-abuse-allegations/00000199-b935-db47-a1fd-ff7d84450000",
-      "image": "https://img.haarets.co.il/bs/00000199-b9bf-db56-a5db-bdbffe820000/fb/75/d454f1f348b9a184d7dee00a910f/360431.jpg?height=81",
-      "published_at": "2025-10-06T13:49:58.000Z",
-      "summary": "Spanish lawyer Rafael Borrego, who was detained along with other activists from the Gaza-bound Sumud flotilla, said Israeli Prison Service staff 'beat us, dragged us along the ground, blindfolded us, tied our hands and feet, put us in cages and insulted us'"
-    },
-    {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
       "topic": "OSINT",
@@ -2999,6 +2979,26 @@
       "url": "https://www.jpost.com/breaking-news/article-856847",
       "image": null,
       "published_at": "2025-06-07T11:18:14.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "North Korea internet hit by a major outage, analyst says",
+      "url": "https://www.jpost.com/breaking-news/article-856837",
+      "image": null,
+      "published_at": "2025-06-07T03:25:25.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "US citizen Joseph Tater leaves Russia after detention and psychiatric treatment, TASS says",
+      "url": "https://www.jpost.com/breaking-news/article-856834",
+      "image": null,
+      "published_at": "2025-06-07T01:30:00.000Z",
       "summary": ""
     }
   ]
