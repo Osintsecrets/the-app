@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-10-12T09:31:22.457Z",
+  "generated_at": "2025-10-12T10:07:50.351Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Red carpet and road closures: Israel gears up for Trump’s arrival",
+      "url": "https://www.jpost.com/israel-news/article-870195",
+      "image": null,
+      "published_at": "2025-10-12T13:01:20.000Z",
+      "summary": "Israel readies for US President Donald Trump’s Monday visit, as the first stage of the Gaza hostage release deal is set to begin."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Hamas ready to hand over 20 living hostages - WSJ",
+      "url": "https://www.jpost.com/israel-news/article-870194",
+      "image": null,
+      "published_at": "2025-10-12T12:56:40.000Z",
+      "summary": "Hamas has said that it is ready to hand over the 20 living hostages today, the Wall Street Journal reported on Sunday. "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -25,11 +45,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Madagascar president warns of attempted coup after soldiers join protests",
-      "url": "https://www.jpost.com/international/article-870178",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3497,w_5500/684692",
-      "published_at": "2025-10-12T11:22:55.000Z",
-      "summary": "Madagascar's president condemned an “attempted illegal seizure of power” after elite troops joined deadly youth-led protests demanding his resignation."
+      "title": "Kyiv Jewish man doused with pepper spray outside synagogue",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-870187",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1578,w_2362/523236",
+      "published_at": "2025-10-12T12:14:06.000Z",
+      "summary": "A Jewish man was attacked with pepper spray outside a Kyiv synagogue, in what Chabad called a “deliberate, cruel and prepared antisemitic act.”"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -42,14 +62,34 @@
       "summary": "Hamas has reportedly begun to gather the living hostages in preparation for their handover to representatives of the International Committee of the Red Cross (ICRC)."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "דיווח: חמאס הודיע שהוא מוכן לשחרר את 20 החטופים כבר היום; בישראל בודקים",
+      "url": "https://www.ynet.co.il/news/article/sk11x2xkpeg",
+      "image": null,
+      "published_at": "2025-10-12T10:01:29.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "‘The birth of a new Syria’: US Congress repeals Caesar Act sanctions",
-      "url": "https://www.jpost.com/middle-east/article-870154",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/663182",
-      "published_at": "2025-10-12T10:02:45.000Z",
-      "summary": "The Syrian government welcomed the decision and considered it “a launch toward a new stage of recovery.”"
+      "title": "Ceasefire holds in Gaza ahead of hostage release and Trump's visit to Israel",
+      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/ceasefire-holds-gaza-ahead-hostage-release-and-trumps-visit-israel_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
+      "image": null,
+      "published_at": "2025-10-12T10:00:38.000Z",
+      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npBy Nidal al-Mughrabi, Steven Scheer and Alexander Cornwell/ppCAIRO/JERUSALEM (Reuters) -A ceasefire between Israel and Hamas held in Gaza for a third..."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"לא הזעיק עזרה\": השוטר שירה ביוסף חיים רבוח יואשם",
+      "url": "https://www.ynet.co.il/news/article/b1yh31kaxx",
+      "image": null,
+      "published_at": "2025-10-12T09:57:29.000Z",
+      "summary": "פרסום ראשון: שוטר מג\"ב שירה למוות בחברו בקריית ארבע יואשם בסעיף המתה, ומעצרו הוארך שוב. נציג מח\"ש אמר בדיון: \"הוא אדם שמתנהל בקלות דעת, שיחק בנשק בעבר\". לדבריו, אחרי הירי \"הוא לא הזעיק מד\"א, אלא הלך לחדרו וביצע שיחות רבות\". לשוטרים אמר החשוד: \"אני מטומטם, רוח שטות אחזה בי\""
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -60,6 +100,46 @@
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1440,w_2560/666809",
       "published_at": "2025-10-12T09:57:02.000Z",
       "summary": "An Arab diplomat stated there is currently a proposal for the next phase of the Trump Gaza plan involving the establishment of a Palestinian government in Gaza that is not affiliated with Hamas."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "President, PM assert ‘no compromise’ as Pakistan destroys several Afghan posts in response to attack",
+      "url": "https://www.dawn.com/news/1948219/president-pm-assert-no-compromise-as-pakistan-destroys-several-afghan-posts-in-response-to-attack",
+      "image": "https://i.dawn.com/large/2025/10/12104149c4480d9.webp",
+      "published_at": "2025-10-12T09:51:03.000Z",
+      "summary": "President Asif Ali Zardari and Prime Minister Shehbaz Sharif on Sunday asserted there would be “no compromise” on Pakistan’s sovereignty after security forces destroyed Afghanistan’s “several” border posts overnight as they responded to attacks by the Afghan Taliban.\n\nWhat has happened so far:\n\nS..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Gazan doctor: 'We are completely defeated'",
+      "url": "https://www.israelnationalnews.com/news/416141",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1200759.jpg",
+      "published_at": "2025-10-12T09:50:21.000Z",
+      "summary": "Gaza physician Dr. Az al-Din Shahab posts moving testimony, stressing that he and his family 'lost everything' and blasting Hamas for their false narrative and sacrifice of Gazan civilians. 'We were not soldiers in a war.'"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Madagascar presidency says attempt to seize power under way",
+      "url": "https://www.bbc.com/news/articles/cd070pn4g07o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b14/live/7cafc7e0-a737-11f0-bde2-95e27e69c0f5.jpg",
+      "published_at": "2025-10-12T09:49:57.000Z",
+      "summary": "An army unit claimed it had taken over leadership of the military command and was now in control of all the armed forces."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Mehbooba Mufti BJP Critique: Slams Embrace of Taliban Rule - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWG9EWEdUd0pLRl9Hdm5zbF9weUs5RFRyR3k2WGlvbFBnQUxsZFJQR2pDNTRoaE8wRkVzOEhZb1JpMDRDU3pVaEFpU254Q3dJU3BnT3o2ZzZKQXU0eUU4Ql95OWlPdDlhaDAzSXF6dHI2cmU0Z2NKb2lNc1dKZFRXbURDeVNuMU94UWEwX1lfdzJQRGxIZ0NualhTc3VmWkxpd2kxR3Z0SWxNUlYzalFkQlpaNUlORzJvLWN2TWFUMWo1V3VLZ1ZTRjdGNjZseXI0bWc?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T09:47:46.000Z",
+      "summary": "Mehbooba Mufti BJP Critique: Slams Embrace of Taliban Rule  Deccan Herald"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -82,14 +162,144 @@
       "summary": "Qantas confirmed hackers published stolen customer data from a July cyber breach that exposed information from over a million airline passengers."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "President, PM assert ‘no compromise’ as Pakistan destroys several Afghan posts in response to attack",
-      "url": "https://www.dawn.com/news/1948219/president-pm-assert-no-compromise-as-pakistan-destroys-several-afghan-posts-in-response-to-attack",
-      "image": "https://i.dawn.com/large/2025/10/12104149c4480d9.webp",
-      "published_at": "2025-10-12T09:24:01.000Z",
-      "summary": "President Asif Ali Zardari and Prime Minister Shehbaz Sharif on Sunday asserted there would be “no compromise” on Pakistan’s sovereignty after security forces destroyed Afghanistan’s “several” border posts overnight as they responded to attacks by the Afghan Taliban.\n“So far, Pakistan has capture..."
+      "title": "Taliban: 58 Pakistani soldiers killed in border clash - breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDkyeFdyUHkyTER6Vm00QnhhX1lhWkJZWlBpSUJ4dGg4bUtoeGduZU5mdUtQdi0tTHNEcHk1dS1uX2xkWUtjbDVJdTh3Y25RS3A5cGRoaUY4ZzYybkJTZ1kzNktmWTQ2eDNQUmR5SnBmNjBVTmJDQlpMdU1uSU5jaWR3RkU2Vkk2R2Z3TlNkbDh2UVQyamlDSWFQZXpuejg?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T09:40:00.000Z",
+      "summary": "Taliban: 58 Pakistani soldiers killed in border clash  breakingthenews.net"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "שובו של הכסף הקטארי לעזה, והאזהרה בצה\"ל: \"הם האחים המוסלמים - אסור שזה יקרה\"",
+      "url": "https://www.ynet.co.il/news/article/yokra14542639",
+      "image": null,
+      "published_at": "2025-10-12T09:38:14.000Z",
+      "summary": "ארה\"ב ממהרת לקבוע עובדות בשטח עם הקמת מרכז תיאום לניהול מנגנון השליטה על עזה, אך בצה\"ל מזהירים שהגורם הדומיננטי במימון השיקום יהיה קטאר: \"הם וטורקיה האחים המוסלמים - בניגוד לאמירויות ומצרים\". בצבא נערכים לקיפאון או מריחת המו\"מ על שלב ב', עם המלצה לפחות לתקוף מהאוויר התעצמות מחדש של חמאס"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Army Gave ‘Swift, Effective Response’ to Taliban Attacks, Says Pakistan PM - افغانستان اینترنشنال",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wUXhVZDBiUTVUbzZGZUpjODA0VzVUcTVVTjhTQkZ1NTljOTZTT2ZacFYtdERwTnhCVUYzcExsbk1pQ0piTnBaZ295bUxBa28?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T09:37:38.000Z",
+      "summary": "Army Gave ‘Swift, Effective Response’ to Taliban Attacks, Says Pakistan PM  افغانستان اینترنشنال"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Taliban Attacks Pakistan | 15 Pak Soldiers Killed As Taliban Hits Back Hard After Kabul Airstrikes - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaW5aTmszRzJPdEMxWWs0RUc2ZkxSU0E3RDV3dU0xU3FVemctUUlveVJUSlBSZnIwTndmUWdMbmE4ZGx2akFiaEdkaXhabTZEZV9PUjJxRWpTS19uVVZkTDFUeFJZd1ZodHJ0ekNEV2Nid0Z4QlFLUVA3ekduX19hSjBjMmZkekpuR05NVlRfTkJZbjRmWUI3NlV3S1B0VXA2TURZR0o2MDU0RWRFd3pJc3RGd1hSMWdCdUw3Z19HRnoxSWJDV0RRM2NvMmE?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T09:37:19.000Z",
+      "summary": "Taliban Attacks Pakistan | 15 Pak Soldiers Killed As Taliban Hits Back Hard After Kabul Airstrikes  NDTV"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "‘Some Pakistan sections' trying to deteriorate the situation: Taliban FM Amir Khan Muttaqi on Pak-Afghan border clashes - Mint",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbzNJd1NiWExEU0kyWkNYWDF3dXFGMVVLWVZCM0FaN0EwMGN5b3BrYmtvYk4zVWQxNHI1allzWEo0YWFmSEJOYUJveVlMWFp0LUQ0N2lTSWVleTI1VE1rMzB0SlJYYkZHUVFKM05zSDZ3aHRieTZud2RuaTNTdXF5ZXBBRE1TV2dSbjN1V0tiQmxlRTI1NWY0ZEVmM1BIYmJyRTJXUTN6czVrV1FpVDZwV0tIZVIxUGNtSkFndUZXTVZvbEFuRzBCMWYtSkkxUy15Rk9udzhwM1dIODJUN3dXQ2lQNjF2WHZwRFJuT3FQeFloOEQtUTUyT3BJd0NaSzN6M3fSAYcCQVVfeXFMT1BJTjg2VXZJd3FCUkRNWHNQTDVKdElySHNEX3BmelZfOHRYaHJNWmpCVms2WnIzbHEyelJyd3JfcGFJTXF1aFBGYU1lZzExamN0anZfb2FvOHlsOVZCYkp6d3JmdWU5MTk4dDg5ZG43NUdvcmkxbFBCdEdXX3Q3S3g2ZG5kRVZfdF8tdENlZlMyX0otRFRUVnlOajBmRFdnZFZQOVJGVUhZb1pNZl9pby13T3ZCbWNOd1RVNHg4OURZcWsxaTJnT2RPNU5OZFVDNGVRajRORXBOWVg5ZkEyT1RmMnZ5QUJmVzVLLS15Z2Q4SW9BZ2JOU2RrRmw2RWJjWFMxb0JBWTg?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T09:33:37.000Z",
+      "summary": "‘Some Pakistan sections' trying to deteriorate the situation: Taliban FM Amir Khan Muttaqi on Pak-Afghan border clashes  Mint"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Iran condemn Israeli regime's attacks on Lebanon - IRNA English",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUN4Qkh2U0pHWHhLOGN2S0FJYU5ISXdTREtTVnZUMlVGdFBNdngxU09fVkxoLUR1ZUYwSGJMa21JT1ltbVhnWUVqMDE2MGd2UzcxZmtwaVY3QnVDX2ZqQmd6WlgtamxDa1dKa1lHV2ZWdEdsX0NVYUtEN01qb3Jrd29IdF9sUmxH0gFHQVVfeXFMTTZqaC1EejJfX3RheENVNndocEFKYWJXdGdYZVlKZExHei1GdTdja01pRTVRZ2dhWE9fWkg4VnVENFVxZlZoVGs?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T09:32:10.000Z",
+      "summary": "Iran condemn Israeli regime's attacks on Lebanon  IRNA English"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אבא של רועי שלו זועק לסיוע לשורדי הנובה: \"לא תיארתי שזה יגיע אחרי האזכרה למפל\"",
+      "url": "https://www.ynet.co.il/news/article/sjzmq1f6xl",
+      "image": null,
+      "published_at": "2025-10-12T09:32:00.000Z",
+      "summary": "רונן שלו, שבנו רועי שרד את הטבח בנובה אך שם קץ לחייו, דורש להתייחס למצב כ\"מקרה חירום לאומי\": \"המשפחות מרוסקות, שורדים נאחזים בחיים בקושי רב\". הוא סיפר על בנו: \"רועי היה ילד של החיים, מלא אהבה\". והמאבק ממשיך: הכרה באמו של רועי, שהתאבדה בעקבות הטבח, כנפגעת פעולות איבה"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Afghan Taliban says 58 Pakistani troops killed in 'retaliatory' border attacks",
+      "url": "https://www.bbc.com/news/articles/cgmzmn4971zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/561e/live/c3298eb0-a6fe-11f0-a7b7-218fd497c477.jpg",
+      "published_at": "2025-10-12T09:31:53.000Z",
+      "summary": "The attacks came days after Pakistan was accused of bombing a market inside Afghanistan."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Bereaved father and husband, Yoel Tzur: 'I trust the government and security forces'",
+      "url": "https://www.israelnationalnews.com/news/416144",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1200756.jpg",
+      "published_at": "2025-10-12T09:31:00.000Z",
+      "summary": "After hearing that one of the murderers of his son and wife is due to be released, Yoel Tzur talks about his feelings, fears, and hopes for the day after the release of the hostages."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Taliban Misogyny Under India’s Democracy: Media and Political Outrage Erupt in New Delhi - Hasht-e Subh Daily",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkZLbzJqU2VHcXRjZ3ByYUJQVkJDdlMxaldJcXF2X0V5b2w4SnJ5TGQ4cE9PWVprMUdONGsyOEF2V2l6X3VTeU4xV2k3OUhuR01fV1VUZmF2UEZxVTZWSmVJSG5YOGQ1eWtBZWhad1lINDdnaVRLTmhZVWdvZTB3T0xFUFNhVS04aTJNaHQzVTBUX2ZpM1BZclFkYklyeGtwdlBsS0FWOFNpLU4yUUE?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T09:29:06.000Z",
+      "summary": "Taliban Misogyny Under India’s Democracy: Media and Political Outrage Erupt in New Delhi  Hasht-e Subh Daily"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Egypt condoles with Qatar after officials die in Sharm El-Sheikh traffic accident - Egypt Today",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnV1TW4tUGFCdzUtam9uc3p6OTFIb2k1SlVaYzYtWU5aTXlrSGdVQS1OM2tlWnBkcjRKZnMzNGpkazFmZWcwa05xWThmcDhwbEs3NnZvZENMel9vMnIzaGxmOElNdXVoR21fbVlkeDJaN2Q5OVFES3VMTEd5QjFYcERsZUkyc0pyeFRGWnJpWVlHdTFzWHVtUk1FMlo4UGJfTWNV?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T09:29:00.000Z",
+      "summary": "Egypt condoles with Qatar after officials die in Sharm El-Sheikh traffic accident  Egypt Today"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Pakistan launches airstrike on Taliban military facilities - Mehr News Agency",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPai1pSmQ5N2tneFR0bFl3ZVhlaVZhOERUbFAwLV9sWFFCcnhoUHRTamZ3MHNNZFdiNm9sMGEyUHUwZGJROVItMVM1SWVFZzlDeHZ4VWlKUjV4Rm43SnVuYllycnhhcXNkbjZRdkZtZDdrdmJJT2lPTzNCWGZhOXA3WUVOckh1b053S2ZBZElnMU91VTZVMHJScUF30gFLQVVfeXFMTTlHTjdxMkhrX2tCX2wtWmt6RzZzT1FxRkpDcU53bkdJb0pFM1gtNFZfZG9VaU00b0dTcURJTXk4NG5KNzdjRzNSZTBr?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T09:25:00.000Z",
+      "summary": "Pakistan launches airstrike on Taliban military facilities  Mehr News Agency"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "As regional dynamics shift, Hezbollah signals readiness for detente with Saudi Arabia - Middle East Eye",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVZ1NVY1TDlOSzBJUWhzS2phMWJkOU9qdWt6MEpvZWR4djV5UnNTdWY1b0ZPZmF1aDFJNjktaC15ZGM3UHZISl9Sd3I4RlNoR19nckxaY3E5d2dKaGdEanhGaHdvN1ROS0JQemNvMVB0Sm9NOVo2UUt4b1dkSW9vRk1aMXM5Z0x4WTVzVjFuZndQRG5oUmdJSHNLdkhxT0ZfMVpQbU1rdEt1UQ?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T09:24:42.000Z",
+      "summary": "As regional dynamics shift, Hezbollah signals readiness for detente with Saudi Arabia  Middle East Eye"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Pakistani jets hit Taliban targets after border clashes - Defence Blog",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWElNTF9fR29QZm5waGpJWU8yQ0J3VUJId3BBeXJXR0NpLXp5VWpNZElGZ09OZmJ0eUpMWUtkNm1IelNrUHp1djhUcUZBLUNyQjJ6Z3ZVQnd2RjlnT2hzUUpnaXpITjJKaTRuNU9BZU1EeEVuUGtMamp5a1JzaXQtbzBycndTQ29D0gGOAUFVX3lxTFB6d3FXRFRtS0t3UkYzLVZYU29iczBOV2hRZF9QVG81dzNta0xDLVRkWnp6NFNUbHExb1hMV1hJMnNzanRNM19fU1J0TDJjT19tQ0VsLXE2MUZ2LTBYWmxvNkVNaVdEaDNYMmNLNjJtMTgzNVJhaHhoM1Joa0ZqM0Q3ZTBBYWVtSWFYNVZveEE?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T09:24:20.000Z",
+      "summary": "Pakistani jets hit Taliban targets after border clashes  Defence Blog"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -172,16 +382,6 @@
       "summary": "Authorities reopened the M2 and M3 motorways for traffic on Sunday, though Tehreek-i-Labbaik Pakistan (TLP) protesters continued their sit-ins in Muridke and Sadhoke for the third consecutive day, continuing attempts to reach Islamabad to stage a protest in ‘solidarity with Palestinians’.\nThe M2 ..."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "3 Qatari Officials Die in Car Crash in Egypt Before Gaza Summit - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONzdkanhJUnltZzdWcVZCVlFxMGxhbVNvOTJsdUYxSGQ2aTNWRVNqdThXUmFuZzZBanNuWEpReG0wRHhnRF9ZRk1HQUYybWRhYktjQ242ak1Icm9rcWhRdktVNi1qUHhsWWFQc3NMaWVXRXNhYUM0MlQzOWt3RERKLTQzeVZPY3Q5THpZQmlKRTRxRDBv?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T09:10:22.000Z",
-      "summary": "3 Qatari Officials Die in Car Crash in Egypt Before Gaza Summit  The New York Times"
-    },
-    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -190,6 +390,16 @@
       "image": "https://static01.nyt.com/images/2025/10/12/multimedia/12int-qatar-crash-1-tplw/12int-qatar-crash-1-tplw-mediumSquareAt3X.jpg",
       "published_at": "2025-10-12T09:10:22.000Z",
       "summary": "The crash was in Sharm el Sheikh, where indirect talks between Israel and Hamas led to a breakthrough deal. The city will also host a summit on Monday."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "3 Qatari Officials Die in Car Crash in Egypt Before Gaza Summit - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONzdkanhJUnltZzdWcVZCVlFxMGxhbVNvOTJsdUYxSGQ2aTNWRVNqdThXUmFuZzZBanNuWEpReG0wRHhnRF9ZRk1HQUYybWRhYktjQ242ak1Icm9rcWhRdktVNi1qUHhsWWFQc3NMaWVXRXNhYUM0MlQzOWt3RERKLTQzeVZPY3Q5THpZQmlKRTRxRDBv?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T09:10:22.000Z",
+      "summary": "3 Qatari Officials Die in Car Crash in Egypt Before Gaza Summit  The New York Times"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -295,16 +505,6 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Pakistan seals Afghan border crossings amid clashes - DW",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQczFnbERnSDRENW02VWZEd2phYWxKVElwNUJEZkJnSk5KdGRJaUYyUUFYeG82SVJFMk1qM2pQY295dkRfWGFLVi1JcDJBTENpc1RSU3VoMTR4cjkxVVp2ck1PN0MzZnZQRGtob0RDYUdaN1NXVW9COVFmV2N2aVdBODN4R2Q3V1dMX3NJNNIBjAFBVV95cUxOamtpcTBfb2E2ZnZNYks4VTVPbjNual9oakRmbWJVYjhBc3RJM0lpdkNhVU8teUtnT2c3aGRqT3M4eGF4eDg4ZW04R0R4Rk1Ubl9lMUFNd2lURmxIaW9zWjZsd0lCSjZaV3Q2NE1jSzhUMXB6dVFzX2o0cFNzdjhuR3h0cEUyenJndmJFWg?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T08:58:45.000Z",
-      "summary": "Pakistan seals Afghan border crossings amid clashes  DW"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
       "title": "Qatar’s money in Gaza raises alarm: IDF fears aid will rebuild Hamas, not homes - Ynetnews",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1URzh2LUlvazU5N29YLU9GSnE4YXJNQmJRbVg5UFN5ellDd0tsS09TZ1hTNnRSR3ZUMF9ZYXBCNlBYamI4NnJxQ1FtcDM2MmpjT01RaXlR?oc=5",
       "image": null,
@@ -336,7 +536,7 @@
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
       "title": "Smotrich: Israel delayed sending troops south on Oct. 7 for fear of Hezbollah attack - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY1E0ZlhpekxmZGJ2R0VrNXpFV2ctZmpEbnUxeW12Sm0tRjRfSTBheWFjZ0RtOExGU083bjdWSm9HeExkQWw5Q1p1ZF9uWVZLRVc5clBvLWoxRFhYeHpwV0RiekExTFdodUppMmFMVmNCa2xOdkgzcGlLNXhYR2I1VndhWHlzMkMxWW9zeXdEZnMxZGlCS09nelF2SU5MczJkWjRkZ1NQOENFb2ttVDcxNjRyUdIBuAFBVV95cUxPWkZ4SWtqd3d5Y2dpMWFab1lCRXVlWkJ3SEh5TGdick5TSTIxMVFjM2dEMHpvWFE1aGFXcFdFNXo4dndtbGpyRXJ0SnZHS1FabjNNTjJJb2JTYi1NaHlTUW1vVU9ScklUR1ZIeUdOSEdaS0tlWXloSUxKWGhkR3kwMXZteFY3TnVadUdOYmZ4cUFyTHlscWlZSFM0Vl9Tdm4tN3ZROVlkd1dFSEdleXp6OVFSTnU2SS1O?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY1E0ZlhpekxmZGJ2R0VrNXpFV2ctZmpEbnUxeW12Sm0tRjRfSTBheWFjZ0RtOExGU083bjdWSm9HeExkQWw5Q1p1ZF9uWVZLRVc5clBvLWoxRFhYeHpwV0RiekExTFdodUppMmFMVmNCa2xOdkgzcGlLNXhYR2I1VndhWHlzMkMxWW9zeXdEZnMxZGlCS09nelF2SU5MczJkWjRkZ1NQOENFb2ttVDcxNjRyUQ?oc=5",
       "image": null,
       "published_at": "2025-10-12T08:48:31.000Z",
       "summary": "Smotrich: Israel delayed sending troops south on Oct. 7 for fear of Hezbollah attack  The Times of Israel"
@@ -350,6 +550,16 @@
       "image": "https://www.israelnationalnews.com/files/pictures/0/1177408.jpg",
       "published_at": "2025-10-12T08:47:42.000Z",
       "summary": "Shir Siegel, daughter of freed hostages Keith and Aviva Siegel, slams Saturday night boos directed at Prime Minister Benjamin Netanyahu during US Envoy Steve Witkoff's speech at Hostages Square."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "'Revenge op': Taliban claims 58 Pakistani soldiers killed in border clash; issues stern warning - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVEhpcmRYbko1MG5VRUtBUHJJWTBacUc5ZU9oQ21EODM0ZTZsQkFfNnI0R0MwSXZlYTZ0NHhsZHhKVjN1ZVU1Z01XYlVNdzhQblJYcWszVnFMaWI3REY2ektGUmdSWVYxTG00TUV3R1ZSYXJhUkVBcE9OZlpldEFWU20wNk13MEdzaV94bE1iSlZQbVVzdVlLeG4tSDhJOGRibVlUNF9tVG1xUmtkWW1rMDJHY09VQTBuejFMMDBDSk5uYXdxeXNoWnQwNEY2TmlWVFR6RWtVYU82U1ZxTlFoSGcxR3VBUFo5bzFoZk1GR3RtWGpobVBkak5wVXVZNHfSAYQCQVVfeXFMTnUzNm96R1dCVlVzSXcya2pXN0p1SHRya2cwM0hURXpabWFSS21mLW5BLU5MQzNnWHV2bHZ3b0NDbzhKSkRjSlZfdkR0RjRnTWJIcXpEdW5PejBHcFhYcnQ4TUw4ZE5mWXFEd2FqOGtJbG9XXzUwQnlqRmRnRFlnQllUbU5fZmI3VldNNkVGdjAzcG8xWjNHSzdoRzNmb1BuMEN1dzRqYlNiQjF3U05BOHlOOFJteDRJQXZpNUE5WGI2Z2Q4cWstTHhpWFhGY1B5NU9LbnE1eUQ4a2hINDY5TnBRU2M0b29XakMtZUhJclF5NjB1V0x3MXVlQ0x1OENnZUx2QVc?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T08:46:00.000Z",
+      "summary": "'Revenge op': Taliban claims 58 Pakistani soldiers killed in border clash; issues stern warning  The Times of India"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -395,21 +605,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Mehbooba slams BJP Govt for 'embracing' Taliban-ruled Afghanistan - The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX2hJNXIyVHZQMEVsbldHWXBrbFkwSjlqX3BkVnc1cDk3Y19JaV9DUlJ0R2VSTTdiZ0Y2WDRnOS0xbVFFd2U0cEJJTU5SY1VmeUlxTWNLTzBudUZCQ1JXMkNCcDA4UFlzMm5BVk1pNWNJaEJmdFBmWjhGWnJGMkRZUk9yVFhYVUdZMDVpclVTQzRSeFFZSFpoY0tmRTI0MXY2ZWR5UTY2WVZVM3huaFRkeUMzejFIRzRaTG5YN2ZIb9IBxgFBVV95cUxPTmw3NEZnaF9LUENVSi04dldNMkMtd1hPU3E2VzNkSnJhQ2RoY01peVNmUlVseElNckw0a0JlNHVfWTVKbGZZcl9MTEJMenNHZmh4aVhPUDZ1cUhoSUExeTVqc1VRcEZLX0hBQkU3VE5TZlB6bENyYkh4OTdjeVVUNjh4d2ZJVF8yMzNHdzdYeUJ0ZVAyVGp1SHZmeExfRno4X25Ga0NzZm9FMDJTUmF4ZVN5X2FYSkdfNUYyblhMa2J0aDZnVlE?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T08:41:00.000Z",
-      "summary": "Mehbooba slams BJP Govt for 'embracing' Taliban-ruled Afghanistan  The Hindu"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Pakistan closes border with Afghanistan as Taliban claims 58 Pakistani soldiers killed in major attack - The Independent",
+      "title": "Pakistan closes border with Afghanistan as Taliban claims 58 soldiers killed in major attack - The Independent",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVJiMFNSTVMtTnFRUnpHTDJHUHNjTHlsZ3B2NTJnYWdiWVZOcjNvZ2M1ZVZZSFFzY2hBcUwzd0tvaUlIVm14UEx2N3FmOGdSN0JwOTZRdHduS0NmTUlWUjliMUJVNGM3enRXakZTMjZPT3M2Wks3QkdTSXFtUDZwOGY5LXBReUtQT1JLV1JsWTNlTU5pLU9wQ0xqU2xkWjR4U1JSaQ?oc=5",
       "image": null,
       "published_at": "2025-10-12T08:40:00.000Z",
-      "summary": "Pakistan closes border with Afghanistan as Taliban claims 58 Pakistani soldiers killed in major attack  The Independent"
+      "summary": "Pakistan closes border with Afghanistan as Taliban claims 58 soldiers killed in major attack  The Independent"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -432,16 +632,6 @@
       "summary": "Pogacar agreed to UAE Emirates-XRG's wild Lombardy plan involving Isaac Del Toro: \"Then it could have been possible\"  IDLprocycling.com"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Pakistani Military Faction Conspiring Against Kabul, Says Taliban Spokesperson - افغانستان اینترنشنال",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tUjlWeTNkVlkyRkVmMXpoMmtPRWNES2ZxZmNqZEs1TnNTX3R5SHhpVWU5QUxndzN1ZkR2SmZXSEhtZ0lUUlJVbldLbHhpNmM?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T08:34:15.000Z",
-      "summary": "Pakistani Military Faction Conspiring Against Kabul, Says Taliban Spokesperson  افغانستان اینترنشنال"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -450,66 +640,6 @@
       "image": null,
       "published_at": "2025-10-12T08:30:13.000Z",
       "summary": "Treatment follows surgery last month to remove skin cancer lesions from former US president's forehead\nThe post Biden undergoing radiation, hormone therapy to fight prostate cancer appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Mamdani confronted by protesters demanding Hezbollah denunciation at Manhattan rally - www.israelhayom.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOakhNcnJzVDJtc0ZQZXpBU3N3by1jNm8yd1NyOFFNenY0ZjlvZUdzRzNHVEZyN3J6UHJjYlhBT2dfZlJkLUtmY1FxZmFfSEhrS29NRk1NR1N3QUEydEhEZGtwYWRHLTF3bXlxZkF3b0xiTXhnU2ZLOWUwZVpzeHVHM3ItRVF2U0QzWnMtS3ZxTWJ4Z0tuVlFCWFlwdzJ3TTVkd1RuLVNpakU1enFTS1lMVG9PVkExdDl0MzhyTXJtLXQ1Zw?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T08:28:34.000Z",
-      "summary": "Mamdani confronted by protesters demanding Hezbollah denunciation at Manhattan rally  www.israelhayom.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Dubai, Abu Dhabi, and Sharjah Emerge as Top Festive Getaways for Indian Solo Tourists, Fueling the Rise of Independent Travel with Modern Luxury, Cultural Heritage, and Unmatched Safety in the UAE - Travel And Tour World",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTEdsUUFfTURLMnlMdWYyWk1pelhRNDJPU09CaHVMVFNTcHMtcnJqSWJjZGg0TlhyZkNPR2ZGNGdGUmN2a0tRcWd3UnV1RDJ3R3hjZG9SZ3ZqMk8tSmJrSFhXa21RUnVXdEYzbEZSTlE4MzJPU2plajVGQTNJaUg4alJ0TVVjT1phR19yT0RVUXZiNkVpUG9lOE9ranBGT2tuNXo5X3dZRUFDQkVOSUhFTExPdmlDOWxNcFQzaWVqcEtBY0lZZUxvV25UV0lxNF9CdWpRZnRKYnJqZHNVeV96WV9KRVFZNWduLUlrbGF4OTdBellocFNJU2Z6ZGxJa3RmS0tIQnlIZVVfQkJFUjdRcnl6WnJwN0Jaelhfa1BTUVJWWlM0LXdfak1sMFdzRkhQOUl2Qlp5alJib191RG9FUThGSEVaUjVhTEhaRFhhZnR5eUZpZGRDTWhFLUU?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T08:27:32.000Z",
-      "summary": "Dubai, Abu Dhabi, and Sharjah Emerge as Top Festive Getaways for Indian Solo Tourists, Fueling the Rise of Independent Travel with Modern Luxury, Cultural Heritage, and Unmatched Safety in the UAE  Travel And Tour World"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Financial Times: США с лета помогают Украине наносить удары по российским энергообъектам",
-      "url": "https://centralasia.media/news:2345447?from=rss",
-      "image": null,
-      "published_at": "2025-10-12T08:26:57.000Z",
-      "summary": "Разведка США предоставляет Киеву данные, которые позволили нанести удары по важным российским энергетическим объектам, включая нефтеперерабатывающие заводы далеко за линией фронта. Об этом сообщает Financial Times со ссылкой на украинских и американских чиновников."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Boos erupt in Tel Aviv as Netanyahu credited for hostages’ release",
-      "url": "https://www.israelnationalnews.com/news/416142",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1172578.jpg",
-      "published_at": "2025-10-12T08:26:00.000Z",
-      "summary": "At a moving Tel Aviv event, attendees booed Steve Witkoff for crediting PM Netanyahu for the hostages’ release. Observers called the reaction “leftist and shameful,” and not reflective of the families or the nation."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "58 Pak soldiers killed in strikes, says Taliban; Islamabad claims counteroffensive - The Federal",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR2hBXzNIN0ZuWk0wYmdoclF1SktnV1J2dlhMci03WjNKb1R0TmFmTC05NHdzN3NEYnVpbklBWnJ2bFJ1cHBNWW82S1ktWi05dVFIeW5wYWV0M0xsYXVfYU83d21VSFpJM0NpVjVjMjRQb091Ym50cXQzUzdPelNWdlpHVERDU1VXc3JOUGRJWWlrNmZzOTRsUGZSSlh0ZHhRUVE?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T08:24:08.000Z",
-      "summary": "58 Pak soldiers killed in strikes, says Taliban; Islamabad claims counteroffensive  The Federal"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9pcmFuZnJlZWRv",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Rally in Oslo Calls for an End to Iran’s Executions and Freedom for Political Prisoners",
-      "url": "https://iranfreedom.org/en/iranian-assemblies/2025/10/rally-in-oslo-calls-for-an-end-to-irans-executions-and-freedom-for-political-prisoners/79443/",
-      "image": null,
-      "published_at": "2025-10-12T08:24:01.000Z",
-      "summary": "A rally in Oslo condemns the executions in Iran and demands the immediate release of political prisoners and the abolition of the death penalty.\nThe post Rally in Oslo Calls for an End to Iran’s Executions and Freedom for Political Prisoners appeared first on Iran Freedom."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -532,16 +662,6 @@
       "summary": "Video shows the aftermath of drone and artillery strikes on a shelter in el-Fasher in Sudan, killing at least 60 people."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Top 10 AI Development Companies in Dubai, UAE and Middle East - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2JwNngwd2Y5d1cxOGlWenI0OFdtRHNJaXFBekh0alNGYVhmZ3NRNk1aNE1ZNEZmQzhUbVJIeXZCLXEzMnd5dUhJWS10SVg2SWdXaWpRc2t6RHNibmw4cEljOHFpWW5yeGcycXlyZmhzbFJLZ0M3OWE4Y2FmZzRscm10X2Y0dHpsNWFNRFRkc2s1eElCdWVzeGRoQ04?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T08:21:49.000Z",
-      "summary": "Top 10 AI Development Companies in Dubai, UAE and Middle East  openPR.com"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -552,36 +672,6 @@
       "summary": "מאז החתימה על ההסכם להשבת כל החטופים וסיום המלחמה, דנה אור נקרעת בין עצב, שמחה ודאגה. בנה ליאם נחטף ושוחרר, גם האחיינים עלמה ונעם, גיסתה יונת ז״ל נרצחה ב-7 באוקטובר - וכולם עדיין מחכים לחזרתו למנוחת עולמים של אחיה דרור, שנרצח ונחטף. \"אני אופטימית וגם חוששת\", היא אומרת בריאיון ל-ynet, \"עד שהדברים לא "
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Jewish activist with goat arrested near Temple Mount",
-      "url": "https://www.israelnationalnews.com/news/416136",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1200745.jpg",
-      "published_at": "2025-10-12T08:17:38.000Z",
-      "summary": "Jewish activist arrested near gates of Jerusalem's Old City while making his way to the Temple Mount with a goat for sacrifice."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE expresses solidarity with Philippines after deadly quakes - The Filipino Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmp5TEpWN3JrdGhFeVp4WDZNaEk1NEg2SDlIVFRKdGpDd0dlQk9lY3FiN1NUMVU5TWFneU5OMmdJU20zdDVXYTEzT3Q3MVpxMTI2amNjcngzRWhaYkk3cmxKcklCSWI1cVJ6Vl9iMlZGMzF2SVJiLVNxU1o5bE5LS3pjcGZKR041RVg0UmlhOU40REZfVENEUXlFbEI2TTdUYUpmR2pYLUxlWlRscDB2Uw?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T08:17:06.000Z",
-      "summary": "UAE expresses solidarity with Philippines after deadly quakes  The Filipino Times"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Taliban claim 58 Pakistani soldiers killed in retaliatory strike - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTGVLVlhMVnVOZzRrM1prWHJndjV0dExzM2NqS01VX1BaUzhtcUZKdW5oUWt0TWhmN3lsVlZKSVl5WWQ2LXJ6cGFpWjRoS2t4OEtNNWtwYVJfOVZiVzFHN2dSY3dRNDd1MElfSTVqRHRBOF8zZjJNQXJ1dlBOSmJlYUhNR1B4WGwtdkwxVVpVRVAtQW5rV3hUYmd5WDVCdUI3N1NCUkpLSEpWRXM?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T08:17:06.000Z",
-      "summary": "Taliban claim 58 Pakistani soldiers killed in retaliatory strike  Deccan Herald"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -590,36 +680,6 @@
       "image": null,
       "published_at": "2025-10-12T08:16:16.000Z",
       "summary": "במצרים תתקיים מחר פסגה בהשתתפות טראמפ ו-20 מנהיגים נוספים, שבה ידונו בעתיד עזה. ומי לא הוזמנו? מי שאמורים לממש את ההסכם. הסיבות האפשריות - והמסר הרע "
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE Expresses Solidarity with Qatar and Conveys Condolences over the Martyrdom of Three Amiri Diwan Members in Traffic Accident in Sharm el-Sheikh - mofa.gov.ae",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xRE9XcE5mNHE4VVRPN1MtR05iX0R5RXF6bGVMNFN1WDE0bWpmaS1RMkdlcTJ0eWZFSkhhQklGOGgzbnZTS0xwZmJLTGNlcUdqcHhEMUU1SkcyQVkzemxiU3BBZF90UnpBUVE4OE9rbTBDUlJXZWFSd0RuX0NvakU?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T08:15:36.000Z",
-      "summary": "UAE Expresses Solidarity with Qatar and Conveys Condolences over the Martyrdom of Three Amiri Diwan Members in Traffic Accident in Sharm el-Sheikh  mofa.gov.ae"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "'Our mission is not over, we continue to ensure Israel's eternity'",
-      "url": "https://www.israelnationalnews.com/news/416140",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1200746.jpg",
-      "published_at": "2025-10-12T08:15:33.000Z",
-      "summary": "'We will continue to ensure the eternity of Israel,' says 7th Armored Brigade commander, on completion of redeployment as part of the cessation of fighting,"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Pakistan-Afghan border crossings closed after heavy clashes - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVGJGN0drOHJsdk9tVjdsS3RJX2cweFd2clRTUzd6V2JiQXRqQWFDT1BPWE5uTDhEMzlERlA0LVdwX1QtNEZtbmFhU01pSDJfYUs0cnI4d2tvZ1pwRUpOTTJyXzl6c3NoXzlCYmNpOVJITjREenhfamlJeHpBLUxQanpfNEhpVUJ5dlpVZzQ1dU5iNUF5akE?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T08:15:00.000Z",
-      "summary": "Pakistan-Afghan border crossings closed after heavy clashes  The Japan Times"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -665,7 +725,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Live: Afghanistan’s Taliban, Pakistan claim inflicting losses in fighting",
+      "title": "LIVE: Afghanistan’s Taliban, Pakistan claim inflicting losses in fighting",
       "url": "https://www.aljazeera.com/news/liveblog/2025/10/12/live-afghanistans-taliban-pakistan-claim-inflicting-losses-in-fighting?traffic_source=rss",
       "image": null,
       "published_at": "2025-10-12T07:59:50.000Z",
@@ -739,7 +799,7 @@
       "url": "https://www.aljazeera.com/sports/liveblog/2025/10/12/live-india-vs-australia-womens-cricket-world-cup-2025-commentary-stream-score?traffic_source=rss",
       "image": null,
       "published_at": "2025-10-12T06:54:35.000Z",
-      "summary": "Follow our live build-up, team news, score, photos and text commentary stream for the match in Visakhapatnam."
+      "summary": "Follow our live score, as well as photo and text commentary stream for the group-stage match in Visakhapatnam, India."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -925,16 +985,6 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "שובו של הכסף הקטארי לעזה, והאזהרה בצה\"ל: \"הם האחים המוסלמים - אסור שזה יקרה\"",
-      "url": "https://www.ynet.co.il/news/article/yokra14542639",
-      "image": null,
-      "published_at": "2025-10-12T04:53:37.000Z",
-      "summary": "ארה\"ב ממהרת לקבוע עובדות בשטח עם הקמת מרכז תיאום לניהול מנגנון השליטה על עזה, אך בצה\"ל מזהירים שהגורם הדומיננטי במימון השיקום יהיה קטאר: \"הם וטורקיה האחים המוסלמים - בניגוד לאמירויות ומצרים\". בצבא נערכים לקיפאון או מריחת המו\"מ על שלב ב', עם המלצה לפחות לתקוף מהאוויר התעצמות מחדש של חמאס"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "על מה באמת חתמה ישראל? הוויתורים שמוסתרים מהציבור - וההישגים שלא קרו",
       "url": "https://www.ynet.co.il/news/article/yokra14543144",
       "image": null,
@@ -1065,7 +1115,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Trump imposed a cease-fire on Israel, an American tradition since 1948",
+      "title": "Trump ordered Netanyahu to end the Gaza war. Now military aid to Israel is his target",
       "url": "https://www.haaretz.com/israel-news/2025-10-12/ty-article/.premium/trump-imposed-a-cease-fire-on-israel-an-american-tradition-since-1948/00000199-d4d7-d8a7-afdd-f7ff58a40000",
       "image": "https://img.haarets.co.il/bs/00000199-d5d5-dde4-a7bd-ddfff50c0001/72/4d/5ffa83ee49c1ba30da2e021bce5f/63379219.JPG?height=81",
       "published_at": "2025-10-12T03:01:02.000Z",
@@ -1162,16 +1212,6 @@
       "summary": "The conditions to disarm Hamas do not exist in Gaza: There is no comprehensive agreement, no stable political structure, and Hamas has no real incentive to surrender its weapons. The Trump model has no basis in reality"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Afghan Taliban confirm 'retaliatory' border attacks on Pakistan",
-      "url": "https://www.bbc.com/news/articles/cgmzmn4971zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/561e/live/c3298eb0-a6fe-11f0-a7b7-218fd497c477.jpg",
-      "published_at": "2025-10-12T01:23:02.000Z",
-      "summary": "The escalation comes days after Pakistan was accused of bombing a market inside Afghanistan."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -1199,7 +1239,7 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-870116",
       "image": null,
       "published_at": "2025-10-12T00:23:44.000Z",
-      "summary": "Israel’s Ministry of Religious Services officials said the transfer of bodies from Gaza could be incomplete, leaving some families without closure."
+      "summary": "Israel’s Religious Services Ministry officials said the transfer of bodies from Gaza could be incomplete, leaving some families without closure."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1305,11 +1345,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Israel moves to stifle Hamas support in West Bank as it readies to free terrorists for hostages",
+      "title": "Hamas source says group ceding control of Strip, won&#8217;t take part in postwar process",
       "url": "https://www.timesofisrael.com/liveblog-october-12-2025/",
       "image": null,
       "published_at": "2025-10-11T22:26:50.000Z",
-      "summary": "Gaza captives set to go free by tomorrow * Katz says IDF in Gaza to work on destroying tunnels across Strip * Israel to skip Gaza peace conference in Egypt, but UN's Guterres, European leaders say they will join gathering tomorrow\nThe post Israel moves to stifle Hamas support in West Bank as it read"
+      "summary": "Gaza captives set to go free by tomorrow * Israel cracks down on signs of Hamas support in West Bank as prisoner release nears * Jordanian king, European leaders say they will join Egypt peace summit  tomorrow\nThe post Hamas source says group ceding control of Strip, won&#8217;t take part in postwar"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1472,26 +1512,6 @@
       "summary": "Ukraine&#039;s president praises Trump&#039;s efforts to secure Gaza ceasefire, says other wars &#039;can be stopped as well&#039;."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "מתינוקת בת 14 שעות עד קשישה בת 95: 2,000 הנרצחים והנופלים במלחמה",
-      "url": "https://www.ynet.co.il/news/article/rjhwdlopxg",
-      "image": null,
-      "published_at": "2025-10-11T21:04:01.000Z",
-      "summary": "393 נשים, 11 ילדים בני פחות מעשר, 6 אל\"מים: לוחם המילואים שמואל גד רחמים היה לחלל ה-2,000 ב\"חרבות ברזל\", בתקרית שאירעה בדיוק שנתיים אחרי 7/10. המספרים הכואבים והבלתי-נתפסים, שגם הם לא מספיקים כדי לתאר את התקופה הקשה שעברה המדינה, שעברנו כולנו"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "כשארדואן בוחש בעזה",
-      "url": "https://www.ynet.co.il/news/article/yokra14542451",
-      "image": null,
-      "published_at": "2025-10-11T21:00:00.000Z",
-      "summary": "לטורקיה יש קשרים מצוינים עם חמאס וכמעט אפס קשרים עם ישראל. היא נכנסה לעזה בגדול, ובינתיים היא מנצחת"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1510,16 +1530,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-d4fd-da09-a1bb-d6ff12060001/d3/15/24b62c5c4cc6bf47bc2e75dde5fb/388638.jpg?height=81",
       "published_at": "2025-10-11T20:52:08.000Z",
       "summary": "The hostages are scheduled to return by Monday at 12:00 P.M. under the agreement, but Israeli officials estimate the release could be moved up. While political sources believe locating the bodies of all the deceased hostages in Gaza could take weeks or months, this is not expected to prevent the con"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "התקווה שתמיר יחזור חי - והפתק המרגש שנמצא במדים אחרי חטיפתו",
-      "url": "https://www.ynet.co.il/news/article/bjekfqdaxe",
-      "image": null,
-      "published_at": "2025-10-11T20:40:40.000Z",
-      "summary": "תמיר נמרודי נחטף ממת״ק עזה ב-7/10, ובישראל הגדירו אותו כמי שיש \"חשש כבד לחייו\" - אך משפחתו וחבריו לא מפסיקים לקוות שישוב. \"אין יום שאני לא חושבת עליך וחולמת שתחזור\", אמרה חברתו לשירות בעצרת בי-ם. היא סיפרה על פתק שכתב ומצאה במדים שלו לאחר שנחטף: \"להצליח לעזור להרבה אנשים, לא לפגוע\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1802,16 +1812,6 @@
       "summary": "Private texts show Kirk defending ties to Tucker Carlson and Candace Owens amid growing backlash from Jewish donors, exposing his mounting frustration with Israel and its supporters. Some on the far-right have since floated conspiracies about Israel's involvement in his death"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel Bonds reports $5.7 billion milestone two years after Oct. 7",
-      "url": "https://www.jpost.com/israel-news/article-870071",
-      "image": null,
-      "published_at": "2025-10-11T09:09:26.000Z",
-      "summary": "The milestone \"signals the enduring strength of Israel’s supporters around the world,” said Dani Naveh, president and CEO of the company. "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1882,16 +1882,6 @@
       "summary": "Haim Oron, formerly of the Zionist left Meretz party, believes that the continued captivity of the hostages, two years after October 7, reflects the fracture within Israeli society. Despite all that, he has not lost faith in the two-state solution and peace between Israelis and Palestinians"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Herzog cancels Sukkot open house",
-      "url": "https://www.jpost.com/israel-news/article-870056",
-      "image": null,
-      "published_at": "2025-10-11T05:32:11.000Z",
-      "summary": "The event, scheduled for October 12, was cancelled ahead of US President Donald Trump's upcoming visit to Israel."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1915,7 +1905,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Report: Hundreds of humanitarian aid trucks gather on Egyptian side of Gaza border",
+      "title": "Report: Hamas tells Israel it's ready to begin releasing living hostages on Sunday",
       "url": "https://www.haaretz.com/israel-news/2025-10-11/ty-article-live/trump-heads-to-israel-for-first-visit-since-2017-to-meet-gaza-hostage-families/00000199-d63c-da09-a1bb-d6be62c70005",
       "image": "https://img.haarets.co.il/bs/00000199-d64f-d7e9-adfd-df6fe4ea0000/74/1e/c51fc8b9462abd3dc603d5c0983b/408909.jpg?height=81",
       "published_at": "2025-10-11T02:00:00.000Z",
@@ -2395,7 +2385,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "To keep burned homes, or not? In the Gaza border kibbutzim Hamas overran, trauma still reigns",
+      "title": "Memorialize burned homes or rebuild? In the Gaza border kibbutzim Hamas overran, trauma still reigns",
       "url": "https://www.haaretz.com/israel-news/2025-10-09/ty-article-magazine/.premium/in-the-gaza-border-kibbutzim-hamas-overran-trauma-still-reigns-two-years-on/00000199-c8b2-db56-a5db-cdb3c54d0000",
       "image": "https://img.haarets.co.il/bs/00000199-c927-d5c1-ad9d-d96fc9560001/03/35/bd25e1154f75a91f228e729315c3/111658.jpg?height=81",
       "published_at": "2025-10-09T13:36:01.000Z",
@@ -2999,6 +2989,16 @@
       "url": "https://www.jpost.com/breaking-news/article-856818",
       "image": null,
       "published_at": "2025-06-06T16:47:45.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "France backs International Criminal Court after US sanctions judges",
+      "url": "https://www.jpost.com/breaking-news/article-856816",
+      "image": null,
+      "published_at": "2025-06-06T16:29:08.000Z",
       "summary": ""
     }
   ]
