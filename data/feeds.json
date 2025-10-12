@@ -1,11 +1,31 @@
 {
-  "generated_at": "2025-10-12T19:01:24.858Z",
+  "generated_at": "2025-10-12T19:31:25.702Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "The irony at Hostage Square | Analysis",
+      "title": "IDF expects hostages at 9 a.m. from Gaza City, Khan Yunis, central Gaza",
+      "url": "https://www.jpost.com/israel-news/article-870271",
+      "image": null,
+      "published_at": "2025-10-12T22:22:23.000Z",
+      "summary": "The three expected locations are Gaza City, central Gaza, and Khan Yunis in southern Gaza."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Hamas official: Israel altered prisoner lists, warns Netanyahu will renew war",
+      "url": "https://www.jpost.com/israel-news/article-870269",
+      "image": null,
+      "published_at": "2025-10-12T22:21:28.000Z",
+      "summary": "Senior Hamas official Ghazi Hamad accused Israel of changing prisoner lists under the deal, warning that Netanyahu may resume the Gaza war"
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Sentiments on Trump and Netanyahu clash at the square - analysis",
       "url": "https://www.jpost.com/israel-news/article-870268",
       "image": null,
       "published_at": "2025-10-12T21:57:44.000Z",
@@ -142,6 +162,106 @@
       "summary": "IDF chief: “The military pressure we have exerted over the past two years, together with the complementary political move, constitutes a victory over Hamas.”"
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "יחידה מיוחדת עם משוריינים וחיפוי באש: צה\"ל נערך למלכודות במסירת החטופים",
+      "url": "https://www.ynet.co.il/news/article/syopkuyple",
+      "image": null,
+      "published_at": "2025-10-12T19:24:36.000Z",
+      "summary": "הכוחות השלימו את ההכנות לשלב הסופי של השבת החטופים: המשפחות הונחו להגיע למחנה רעים ב-7:30, והמסירה צפויה בשתי פעימות משלוש נקודות בעזה. השיירה תאסוף את החטופים מנציגי הצלב האדום ותעבירם לרעים, שם יעברו זיהוי ובדיקות רפואיות לפני שיוטסו לבתי החולים. בצה\"ל נערכים: חמאס עשוי לקיים שיחות טלפון ליליות בי"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "The fragile sukkah - lessons of hope and protection",
+      "url": "https://www.israelnationalnews.com/news/416183",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1199912.jpg",
+      "published_at": "2025-10-12T19:19:00.000Z",
+      "summary": "Your life, even if it is incomplete, even if it is fragile, is still a gift. Notice the openings, the small moments of relief, the return of the hostages.They are part of Hashem’s care, a taste of the greater shalom to come."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Why Now? The Lost Chances to Reach a Hostage Deal, and a Cease-Fire, Months Ago",
+      "url": "https://www.nytimes.com/2025/10/12/us/politics/lost-chances-hostage-deal-gaza-israel.html",
+      "image": "https://static01.nyt.com/images/2025/10/12/multimedia/12-PREXY-HOSTAGES-wkch/12-PREXY-HOSTAGES-wkch-mediumSquareAt3X.jpg",
+      "published_at": "2025-10-12T19:17:26.000Z",
+      "summary": "On Gaza, President Trump put few, if any, guardrails on Israel’s offensive, bucking international demands for a cease-fire. Then he changed course."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Planned attack on Orlando Chabad House foiled",
+      "url": "https://www.israelnationalnews.com/news/416182",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1200809.jpg",
+      "published_at": "2025-10-12T19:13:32.000Z",
+      "summary": "Two Brazilian nationals staying illegally in Orlando were arrested after allegedly planning to set fire to and bomb the Chabad House there."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israelis and Palestinians Await Hostage-Prisoner Swap With Relief and Elation",
+      "url": "https://www.nytimes.com/2025/10/12/world/middleeast/israel-gaza-hostages-prisoners-ceasefire.html",
+      "image": "https://static01.nyt.com/images/2025/10/12/multimedia/12int-israel-gaza-pfck/12int-israel-gaza-pfck-mediumSquareAt3X.jpg",
+      "published_at": "2025-10-12T19:12:16.000Z",
+      "summary": "Under the first phase of the new cease-fire deal, all of the living hostages in Gaza are expected to be released in the next 24 hours in exchange for about 2,000 Palestinians imprisoned by Israel."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Afghanistan and Pakistan claim to kill dozens of soldiers in border clash - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2VOelhxbmsxTVdZay01RXVsLTFwZFRvdjZPQ19GTlZBV0tDelFDQ04ySnJpVTFLTTZ0dllTZ2xZMjBSU2ZlYTJlNnFrOFpXRE9xWHhyMkVyaEIwYWYyMzRtc1VJX3JEWHVrUXAwMWhqaDVyczRqbzdDS3BWSDdmWFRwSTBKc0FXdUYxMkdZSWV2cGRr?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T19:08:46.000Z",
+      "summary": "Afghanistan and Pakistan claim to kill dozens of soldiers in border clash  The Washington Post"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9pcmFuZnJlZWRv",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Sydney Rally and Photo Exhibition Condemn Iran’s Executions on World Day Against Death Penalty",
+      "url": "https://iranfreedom.org/en/iranian-assemblies/2025/10/sydney-rally-and-photo-exhibition-condemn-irans-executions-on-world-day-against-death-penalty/79501/",
+      "image": null,
+      "published_at": "2025-10-12T19:07:58.000Z",
+      "summary": "MEK Supporters in Sydney hold a rally and photo exhibition highlighting Iran’s political prisoners and martyrs,\nThe post Sydney Rally and Photo Exhibition Condemn Iran’s Executions on World Day Against Death Penalty appeared first on Iran Freedom."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "How Qatar and Turkey gave up on Hamas - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOEdjdnJNYkNMRm54ZmgtYndKTHFaMzJndzJTbGJVRGgxMC1WZ0JYLWg1WXVGa0IxQnBhMXZ3ZTFucmNtNkp4aXpGNi1JbElIRDlIa08wdE10TVZ0RHhxYVROd2lSMF9USGpxT2FwTlptblFrSFQ0cDFzakQ2c1FiVjhKc1VNMDVtZWR1c2swazliZnhFQ25mMk1YRDBhUXdUQnFkTFNtMldMbTgybkE?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T19:04:00.000Z",
+      "summary": "How Qatar and Turkey gave up on Hamas  The Telegraph"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Qatar, Saudi Arabia, Iran welcome restraint in Pak-Afghan conflict | World News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNckJjaDdnQ1NWRHBuYlIzVkRSaTlWUTJtTV81d2s2U1JrNHpoNE1MUmp0RGprWFpQQVBsekN6LUhoSkJEcE9qdzU1R3VsRGdsVEJVTUdjRDhkT2J4TS1MeExwUHRSWnpTbUpSN1JKZ05oUnJ1VkdIUFEwVjMyWHV5TTN4OFNLRmFsNHBJd2w3UW56bEJOdHFpRjVhYTU2ektsQmdJcXZMOFF0TE5heG56eUdJbWZrZ1d4eVQwdkwwVDJON0NpU1HSAcsBQVVfeXFMTU1OaGw1SF84N3ZJT3U0aUVvdzN3ODBqNjYzOWZ5aGhnNGs4WjZzUjdvaUFhSk1tRUh3ZVJLeFM1cHRuT21WQ2ZaTWhpQmRSdkRxSEdpeDU0cl9mR1E5bFdDSW1WYk1PRWJjd3R1Rm9kNmhPdnk0RG5RS3Jic19RNEUzVHdhT0dVeTFmNkxyREllTy1FMzhMYlJFdllFbzVYa3paN0NkUlV1UG5vd1U2M1MwTjdEVmt2aXlaUEFwNjA0NWdQU1RJSjgyUnM?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T19:00:43.000Z",
+      "summary": "Qatar, Saudi Arabia, Iran welcome restraint in Pak-Afghan conflict | World News  Hindustan Times"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Senior defense official: Hamas was not defeated, but was weakened'",
+      "url": "https://www.israelnationalnews.com/news/416181",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1200670.jpg",
+      "published_at": "2025-10-12T18:56:59.000Z",
+      "summary": "According to the official, the agreement makes it possible to secure the return of the hostages while exploring a gradual dismantling of Hamas."
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -275,6 +395,26 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
+      "title": "Hezbollah MP in Lebanon slams US, Israel - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WTWtfbVRYakc1RmxlUlY4bHZ6WG03eDVhcHd6Vlp3dzQwUUxQY3NvT2hORjdwRHJONkI5TmNka3lsODZLMGRqRXJpUTQyQmxXTzZhQlAzVzVkb3ox?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T18:32:13.000Z",
+      "summary": "Hezbollah MP in Lebanon slams US, Israel  The Jerusalem Post"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Dozens killed in Pakistan-Afghanistan clashes, border closed - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnphMWRFdjlZU2JmSTBJOExITFZyaXBiV0h4MS1taXpGekRzSnE0S0piMTZoNy1JZEVLOWQ1b0lyODlNMEEzUGMzM1g4Q1k2RkFYZXBMTENfUE1oTW80V1YzSXRoTF9XLUR4eFVjNEtMT1l4amZLaGlMLTRjaVRhdjhxaXdmV1BqVks4MlMtYXdVQVRfbTFibUZ4dFVxTEdzZFkwa080cmhDNzNMd2Z6QXl0eVZRVU5KRmVQY0Z1X0tOdw?oc=5",
+      "image": null,
+      "published_at": "2025-10-12T18:31:55.000Z",
+      "summary": "Dozens killed in Pakistan-Afghanistan clashes, border closed  Reuters"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
       "title": "UAE national cycling team wins 17 medals in Arab Cycling Championship in Iraq - Tribune India",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU1Vlb3YwelRxd0lkYTJ0TC1WV2I4YjhBdnFaTG40Y1IwazVRcnBRTnFBV1l1LXkzRUcxQzVicWxWWXJrOHhwU3RpeGpWblN2aVNsUHR5YUxlZkVTWkd3YmJfdTJPRFhOX3lMMDZ4Ny1tSDl4R0xCa1VuRVI4MENaZElsZGladnZfWGhMTy1xVThNcFpmcUtBa2RVYzItMjYzUm5QV3N2cTFxbG1xVWl5QU5iWkQ2eWpqS0HSAb4BQVVfeXFMTS1hejZxWS11MXE2N2RzMFVXQWJMM255QlVFUldiZDlMeXJOb1FoODdjUk1CNGI0aTFMLVBSWnFBZzV0RnZCMXZQUmkxNXkxdWV1UDM0SHRuRFNtVUpsYzYxZjBKVTN3cHVBV2NoUk1wMGNOYmxwTENKc29mVlA0cUFHNUJuRkNVeFFPdHN4a3BwSi1qV09hMzBHTEQ5NmRpcXhMNC12TE9OdDNqbVhLc1hDRV84czRnVXdsZTJaZw?oc=5",
       "image": null,
@@ -310,16 +450,6 @@
       "image": null,
       "published_at": "2025-10-12T18:25:51.000Z",
       "summary": "Saudi warning: 'Qatar will bring Hamas back'  www.israelhayom.com"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "יחידה מיוחדת עם משוריינים וחיפוי באש: צה\"ל נערך למלכודות במסירת החטופים",
-      "url": "https://www.ynet.co.il/news/article/syopkuyple",
-      "image": null,
-      "published_at": "2025-10-12T18:23:32.000Z",
-      "summary": "הכוחות השלימו את ההכנות לשלב הסופי של מבצע השבת החטופים: השיירה תיכנס מעבר לקו הצהוב, תאסוף את החטופים מנציגי הצלב האדום ותעביר אותם למחנה רעים. בשטח ייערכו בדיקות זיהוי ובדיקות לגילוי מטענים או אמצעי מעקב, כולל בגוף. לאחר הערכה רפואית ראשונית, הם יוטסו לבתי החולים"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -437,7 +567,7 @@
       "topic": "News",
       "title": "President Trump, please, don’t forget Israel - comment",
       "url": "https://www.jpost.com/international/article-870239",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3616,w_5424/684767",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/684767",
       "published_at": "2025-10-12T17:57:54.000Z",
       "summary": "We need a steadfast commitment that Israel’s right to self-defense and to eradicate the threat of Hamas will be honored, even as diplomacy advances."
     },
@@ -492,16 +622,6 @@
       "summary": ""
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israelis and Palestinians Await Hostage-Prisoner Swap With Relief and Elation",
-      "url": "https://www.nytimes.com/2025/10/12/world/middleeast/israel-gaza-hostages-prisoners-ceasefire.html",
-      "image": "https://static01.nyt.com/images/2025/10/12/multimedia/12int-israel-gaza-pfck/12int-israel-gaza-pfck-mediumSquareAt3X.jpg",
-      "published_at": "2025-10-12T17:45:22.000Z",
-      "summary": "Under the first phase of the new cease-fire deal, all of living hostages in Gaza are expected to be released in the next 24 hours in exchange for about 2,000 Palestinians imprisoned by Israel."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -552,16 +672,6 @@
       "summary": "Prime Minister Benjamin Netanyahu gave a statement to the press ahead of the return of the hostages to Israel, warning that there were still many challenges ahead."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Afghanistan and Pakistan claim to kill dozens of soldiers in border clash - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2VOelhxbmsxTVdZay01RXVsLTFwZFRvdjZPQ19GTlZBV0tDelFDQ04ySnJpVTFLTTZ0dllTZ2xZMjBSU2ZlYTJlNnFrOFpXRE9xWHhyMkVyaEIwYWYyMzRtc1VJX3JEWHVrUXAwMWhqaDVyczRqbzdDS3BWSDdmWFRwSTBKc0FXdUYxMkdZSWV2cGRr?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T17:38:46.000Z",
-      "summary": "Afghanistan and Pakistan claim to kill dozens of soldiers in border clash  The Washington Post"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -570,16 +680,6 @@
       "image": null,
       "published_at": "2025-10-12T17:36:51.000Z",
       "summary": "Teams are preparing to identify the fallen hostages, determine the causes of death, and support families, using scientific methods and human compassion "
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Hundreds of thousands of anti-Israel protesters rally in London despite hostage release, ceasefire",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-870231",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3190,w_5000/476508",
-      "published_at": "2025-10-12T17:35:02.000Z",
-      "summary": "Hundreds of thousands rallied in London calling for a Palestinian state, despite the current ceasefire in Gaza."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -612,16 +712,6 @@
       "summary": "JD Vance says reports of Qatari air force base in Idaho are 'largely fake'  thenationalnews.com"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "\"A not very human decision\": UAE won in Italy, but Scaroni voiced his frustration - IDLprocycling.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVIza3p6TDZnRHRpZG9kQ2g3YlVQN2V1RVdzai1YMHdkY2JLX0hRUk5sT2l3UUF4RG9nNnZPMG1ETVQ4MUEzck5LMko5RkxhRXJGMWNrVHRtT2ZkSWxIUWxwSUFJY0ZiZk5PTy1jXzdIRUk5dXhuWHBFckdyeGRCMm5Sd1dtSThiOURXMVlMT1FaMzlDNURRVUwwYzZjWUZhbTZRMmUtb2podFJ3QTdUeXBIamxSUQ?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T17:31:15.000Z",
-      "summary": "\"A not very human decision\": UAE won in Italy, but Scaroni voiced his frustration  IDLprocycling.com"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -632,36 +722,6 @@
       "summary": "Top Israeli musicians participated in the initiative to honor the talented pianist, set to be released from Hamas captivity soon."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Saudi royal source: Normalization with Israel possible with different gov't - N12",
-      "url": "https://www.jpost.com/middle-east/article-870235",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1256,w_1970/663144",
-      "published_at": "2025-10-12T17:28:47.000Z",
-      "summary": "The Saudi royal source said that he believes that normalization with Israel will happen once Israel elects a new government."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Largest scouts gathering in region held in Lebanon - PressTV",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjJlYU5tWGdPdWN6MXBudmtUTEc2VHh3UUo4SmRoSEh1eFVCWHlOcFQxelVSRndLcU9tblVRTlE5THo0di1ta01IUXpzakhRdEpONzN6d3pqQnB2aHV1ZWhSQk1UcXEwS19ZdTZ3MU5tZWZ6SUE4bDJreXFZSnF4WC1oNVRad1Y4dkRxYkZfdmZxeXpOQUVVNmhGVDhZNmcwOWRwUWp3aHl0emRIdkIyRTJMcnV5ajBj?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T17:26:00.000Z",
-      "summary": "Largest scouts gathering in region held in Lebanon  PressTV"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Confirmed: Hamas influencer found shot in Gaza",
-      "url": "https://www.israelnationalnews.com/news/416177",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1200805.jpg",
-      "published_at": "2025-10-12T17:21:00.000Z",
-      "summary": "Saleh al-Jafarawi, known for pro-Hamas videos and accused of corruption, was found shot in the head in Gaza, reportedly by anti-Hamas clan."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -670,36 +730,6 @@
       "image": null,
       "published_at": "2025-10-12T17:20:02.000Z",
       "summary": "The Kremlin has warned of the risk of escalation if Kyiv is provided with the US-built long-range missiles. "
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Newspaper delivery triggered terror alert in Kochav Hashachar",
-      "url": "https://www.israelnationalnews.com/news/416176",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1062654.jpg",
-      "published_at": "2025-10-12T17:20:00.000Z",
-      "summary": "A local newspaper distributor in Kochav Hashachar was identified as a terrorist last Friday. Residents remained in their homes for about three hours until the mistake was clarified."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Yates triumphant at Valdengo-Oropa as Vermeersch becomes Gravel World Champion - UAE Team Emirates",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamVHT2lIcUROOFVYY2tLelQ1ZGMxcF9iMUpYQTNYNVZVNFJJb3hkRGVCemh6aHlvLUZLZVNDc3BMU1VsQjE2Y2xSNk1rVkVsdnlhQTUwTUc2SXpaVzh4cDZqejhhU1Q5aklhdDU3d0hOOWpIMGZidUlCNVUtWGQ5bzd6SG54dlBGMHREdEhlREJxdkFiVkhDTmNSSHZJVEFjcnBvcndmU2o?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T17:19:03.000Z",
-      "summary": "Yates triumphant at Valdengo-Oropa as Vermeersch becomes Gravel World Champion  UAE Team Emirates"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Baghdad mourns Qatari diplomats killed in Egypt crash - Shafaq News - شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTFGMVVreWVudXJZWDlhYVpXMEk3YkJJUTlqbWVmRlJNOUNZblprQzE5Y3NTZWUyRTJQVDJ0T2dpZEpZYUZrd1FOY2dIRkFQRzBjRC1ZcjBZU19IRXNKdVFwUkE0bS1JNko5Nk1kcnZGZzRHbW9sd1VDbHVneGtLVDlndlZuUG_SAYwBQVVfeXFMUFAzQnZVc1BjbGtsX3ZWaHVaYzFLYVZuMTdJU1R0dlRwNnczOW9hdlhWeUZub2otM21teWtMLWNIdVdzYVh5VGVpc2p6d1NERG9DcURvZ3B3ekRiOXV3YkVBWGdLeU5wMllIVTJ3cTFrTlFPbHhtTmZrSDlpUU91Uzhwc0Q4SWdSdGhiX1U?oc=5",
-      "image": null,
-      "published_at": "2025-10-12T17:18:53.000Z",
-      "summary": "Baghdad mourns Qatari diplomats killed in Egypt crash - Shafaq News  شفق نيوز"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1552,16 +1582,6 @@
       "summary": "Representing Donald Trump at Tel Aviv's Hostage Square on Saturday evening, special envoy Steve Witkoff, Jared Kushner and Ivanka Trump were received with a warm embrace, while the mere mention of Netanyahu led to resounding boos. Perhaps it needs to be asked why the hostage families feel that the U"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel, Hamas not to participate in Gaza deal signing ceremony - report",
-      "url": "https://www.jpost.com/israel-news/article-870134",
-      "image": null,
-      "published_at": "2025-10-12T08:42:43.000Z",
-      "summary": "“Hamas will not be involved in the signing process. Only mediators and American and Israeli officials will be present,” said Hussam Badran, a senior member of Hamas's political bureau."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1580,16 +1600,6 @@
       "image": null,
       "published_at": "2025-10-12T08:13:15.000Z",
       "summary": "Biya, the world’s oldest serving head of state, is likely to extend his 43 years in power in Central African nation."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Three Qatari Foreign Ministry employees die in Sinai car crash",
-      "url": "https://www.jpost.com/israel-news/article-870132",
-      "image": null,
-      "published_at": "2025-10-12T08:00:15.000Z",
-      "summary": "An Egyptian source revealed that though these were ministry employees, they were not participating in the ongoing negotiations between Israel and Hamas, Maariv noted."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -2075,7 +2085,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Hostages to be released by Hamas starting early Monday, Israeli government spokesperson says",
+      "title": "Hostages to be released by Hamas starting early Monday, Israeli officials tell families",
       "url": "https://www.haaretz.com/israel-news/2025-10-11/ty-article-live/trump-heads-to-israel-for-first-visit-since-2017-to-meet-gaza-hostage-families/00000199-d63c-da09-a1bb-d6be62c70005",
       "image": "https://img.haarets.co.il/bs/00000199-d84b-d253-a3bd-fecbe8bc0000/30/cb/2d4103cf46ec93d6a8af95b8ae24/419050.jpg?height=81",
       "published_at": "2025-10-11T02:00:00.000Z",
@@ -2989,16 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856824",
       "image": null,
       "published_at": "2025-06-06T20:27:50.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Shin Bet arrests suspect who damaged Netanyahu's convoy vehicle - report",
-      "url": "https://www.jpost.com/breaking-news/article-856823",
-      "image": null,
-      "published_at": "2025-06-06T20:12:48.000Z",
       "summary": ""
     }
   ]
