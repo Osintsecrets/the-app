@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T08:13:37.422Z",
+  "generated_at": "2025-10-13T08:46:07.594Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -10,6 +10,26 @@
       "image": null,
       "published_at": "2025-10-13T11:08:41.000Z",
       "summary": "Dalal and Tal Shoham, who were released from captivity in February 2025, spoke ahead of the hostage release."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hamas phone calls to hostage families are public ceremonies - analysis",
+      "url": "https://www.jpost.com/arab-israeli-conflict/article-870323",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1152,w_2048/684911",
+      "published_at": "2025-10-13T11:00:16.000Z",
+      "summary": "Hamas cannot keep their word. Not even for the simplest requests"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "‘We are watching you’: IDF posters blanket West Bank before Palestinian prisoner release",
+      "url": "https://www.jpost.com/middle-east/article-870314",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1280,w_720/684926",
+      "published_at": "2025-10-13T10:16:01.000Z",
+      "summary": "One poster, photographed in the area of Ofer Prison, read in Arabic: “We are watching you everywhere.\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -35,7 +55,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "WATCH: US President Donald Trump addresses Knesset as hostages are released from Hamas captivity",
+      "title": "WATCH: 'The war is over,' Trump declares ahead of historic Knesset speech",
       "url": "https://www.jpost.com/israel-news/article-870305",
       "image": null,
       "published_at": "2025-10-13T09:34:15.000Z",
@@ -45,7 +65,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Seven freed hostages reunite with families after two years, 13 en route to Israel",
+      "title": "Seven freed hostages reunite with families after two years, 13 in ICRC custody en route to Israel",
       "url": "https://www.jpost.com/israel-news/article-870295",
       "image": null,
       "published_at": "2025-10-13T09:11:50.000Z",
@@ -62,14 +82,304 @@
       "summary": "Israeli and international reports on Monday morning described an operation beginning in southern Gaza under the broader exchange framework."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Police say protesters dispersed in Muridke; SHO martyred, 3 TLP members killed in clash",
+      "url": "https://www.dawn.com/news/1948598/police-say-protesters-dispersed-in-muridke-sho-martyred-3-tlp-members-killed-in-clash",
+      "image": "https://i.dawn.com/large/2025/10/131227566d3b249.webp",
+      "published_at": "2025-10-13T08:41:46.000Z",
+      "summary": "Tehreek-i-Labbaik Pakistan (TLP) protesters, who had camped at Muridke after authorities blocked their route to Islamabad by digging up trenches, were dispersed on Monday after clashing with law enforcement personnel, according to police.\nAuthorities moved to close roads and motorways again in an..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Watch: Hostage's mother speaks with her son for the first time",
+      "url": "https://www.israelnationalnews.com/news/416219",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1200866.jpg",
+      "published_at": "2025-10-13T08:38:00.000Z",
+      "summary": "Einav Zanguaker, mother of hostage Matan, speaks with her son just prior to his release from Hamas captivity. 'The war is over, you're coming home.'"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Mor family's message to the nation after Eitan's release",
+      "url": "https://www.israelnationalnews.com/news/416218",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1200887.jpg",
+      "published_at": "2025-10-13T08:36:01.000Z",
+      "summary": "The family of hostage survivor Eitan Mor joyfully announce his return from Hamas captivity after two years, thanking the IDF, security forces, Israeli leadership, US support, and the people of Israel for their role in bringing Eitan home."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "France's Macron says he will continue to serve, ignores calls for resignation",
+      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/frances-macron-says-he-will-continue-serve-ignores-calls-resignation_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
+      "image": null,
+      "published_at": "2025-10-13T08:35:41.000Z",
+      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npPARIS (Reuters) -French President Emmanuel Macron said on Monday he would continue to serve to ensure stability in the country, ignoring repeated cal..."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"חיים שלי, מחכה לך\": השיחה הראשונה של מתן ועינב צנגאוקר - עוד לפני השחרור",
+      "url": "https://www.ynet.co.il/news/article/bk1ddv56xx",
+      "image": null,
+      "published_at": "2025-10-13T08:32:24.000Z",
+      "summary": "מתן נחטף מביתו בניר עוז עם זוגתו אילנה גריצ'ווסקי, ששוחררה בעסקה הראשונה. עוד לפני ששוחרר הוא שוחח מהרצועה עם אימו, שבמשך שנתיים הייתה מהסמלים הבולטים במאבק לשחרור החטופים"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Here’s the latest.",
+      "url": "https://www.nytimes.com/live/2025/10/12/world/israel-gaza-hostages-trump/heres-the-latest",
+      "image": null,
+      "published_at": "2025-10-13T08:31:34.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "What We Know About the Deal Between Israel and Hamas",
+      "url": "https://www.nytimes.com/2025/10/09/world/middleeast/israel-hamas-deal-what-to-know.html",
+      "image": "https://static01.nyt.com/images/2025/10/13/multimedia/13vid-mideast-exchange-mlbh/13vid-mideast-exchange-mlbh-mediumSquareAt3X.jpg",
+      "published_at": "2025-10-13T08:30:52.000Z",
+      "summary": "Hostages in Gaza will be swapped for Palestinian prisoners in Israel. The first hostages were released early on Monday morning."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Syrian Kurdish leader says reached first deal on merging forces with regular army",
+      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/syrian-kurdish-leader-says-reached-first-deal-merging-forces-regular-army_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
+      "image": null,
+      "published_at": "2025-10-13T08:30:20.000Z",
+      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npSyrian Kurdish leader Mazloum Abdi has announced to AFP that he had reached a preliminary agreement with Damascus on the integration of his troops in..."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Madagascar presidency says attempt to seize power under way",
+      "url": "https://www.bbc.com/news/articles/cd070pn4g07o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b46b/live/e1628320-a774-11f0-928c-71dbb8619e94.jpg",
+      "published_at": "2025-10-13T08:28:35.000Z",
+      "summary": "An army unit claimed it had taken over leadership of the military command and was now in control of all the armed forces."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "עומד על הרגליים: גיא גלבוע דלאל שנחטף מהנובה כבר לא בשבי. אביו: \"הסיוט נגמר\"",
+      "url": "https://www.ynet.co.il/news/article/h1etrxcagg",
+      "image": null,
+      "published_at": "2025-10-13T08:24:46.000Z",
+      "summary": "אחרי 738 ימים בשבי, גיא גלבוע דלאל חוזר לחיק משפחתו בישראל. אביו אילן סיפר הבוקר ל-ynet: \"נחבק אותו ונגיד לו שאנחנו לא עוזבים בחיים\". בתמונות הראשונות לאחר חזרתו הוא נראה עומד על שתי רגליים"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvSXpo",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Two Years since Oct 7th: A Conversation with Amir Tibon - Sponsored Content",
+      "url": "https://toi.li/Izha3x",
+      "image": null,
+      "published_at": "2025-10-13T08:24:30.000Z",
+      "summary": "Noam and Amir Tibon, author of The Gates of Gaza and a survivor of the attack on Kibbutz Nahal Oz, discuss what heroism, memory, and rebuilding means for Israel and the Jewish world.\nThe post Two Years since Oct 7th: A Conversation with Amir Tibon appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "PTI’s Sohail Afridi elected KP chief minister in session marred by opposition walkout",
+      "url": "https://www.dawn.com/news/1948540/ptis-sohail-afridi-elected-kp-chief-minister-in-session-marred-by-opposition-walkout",
+      "image": "https://i.dawn.com/large/2025/10/131247364f0bc27.webp",
+      "published_at": "2025-10-13T08:23:26.000Z",
+      "summary": "PTI MPA Sohail Afridi on Monday was elected the new chief executive of Khyber Pakhtunkhwa during an assembly session marred by the opposition’s walkout as well as despite uncertainty regarding the resignation of outgoing Chief Minister Ali Amin Gandapur.\nKP Assembly Speaker Babar Saleem Swati, wh..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Qatar Airways Sets New Digital Standard with IPv6 Activation, Paving the Way for Future-Ready Travel Technology - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdEZaUW1IUXNOZ21CdHJiN0p0YWU1QTF2cjVTMko3cmhFY1V0NDR4cjRWRVVLUWFsbzlCMzQyU0RtTXMzVl9oX3Q5S2YtMnBxUTJFMllaQVJEd2FBRnN1WG1wZmZ1d0g4RTJ2Wi1pT3FBb25pUnNvN3VDOGdIRzdVUHlEcjhPWWJ4ZzhPNmxKUUVtWGU4YmcxdUV5OXRvdkh4LVdYc21udF9YVHIzS2xNOWR5eHVPRHQxX2hJdGRFRFhQR2Zmb2R6NFVrYlBvbmVRbEllRDdkOGRCWFFES3JIVkg5bi04VkdsV3VhTkY1UG4?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T08:22:49.000Z",
+      "summary": "Qatar Airways Sets New Digital Standard with IPv6 Activation, Paving the Way for Future-Ready Travel Technology  Travel And Tour World"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Qatar’s $400 million Boeing 747 gift is currently being secretly transformed in Texas into America’s next flying fortress - supercarblondie.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MODNzU1FlWGNfSUYyQWRfMUFwNGV3LXZMYU10cW00Tno3X1BSb2c0dVNzdzltNmZDTGl3MVozZi1tMFY5bXJkMnRYT2xnblJLY1BlT3JNREZVQjk4SENvR1AzSzZYSFZNVHlCQkJ6OGctUQ?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T08:22:00.000Z",
+      "summary": "Qatar’s $400 million Boeing 747 gift is currently being secretly transformed in Texas into America’s next flying fortress  supercarblondie.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Emirati billionaire urges marriage law before 30, says those who delay without cause must be held acccoun - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQRy12LWdhZlJ4SUhxdmRyd3BibGpkWEhHcl9OSERLVUFlangyYWszQy1vcDFXQnZQdUd2NmtibkVUVUdWNWZuSmpRR0h3Qm5ZaVlWYXRUZVpweEh5c2ZWQ2JMSVNKT3hnNDNxQjNtVkhYUFB2SWFuejhMd1R0dUhkWUc5cVYxY2dwVjRCSG5WY1F5bkRtczJUSFJBYThrRWp5YkR5dF80U2dBTXBPTHlMY1psY2UzX2VqbDV1Vi1lcjhjcnZzeWVDdjRRMEZnM0VvOFRla3A4azdYeUVUTVNOamNTVHFZOHJGNW5ncjRUVjdMYzBHTlpaMVpENWhSYnIxaEcwVGNxNmQxZnNJNng0OFBHZFMweWRU0gGeAkFVX3lxTE1iaExUUUJpMVotajJlbGVzZmNLY2RDY3l5Vk1xU1F6a05Tby1MOU03YTlNYzhjVE9qenFYekQ5a1cxNkcyVHRTRTBVVHhQdkdYMm8xeEpwaXBndmNzTVZyZUlXRFhxYnJVeXdDOW5QVllTazVqZ25Lc2JXODNoYVhTQm1RY2VDM1pOaGl4bU9xNjVOOEZsVW9Ea2hIamNTQ3FaUThDYmdmeGh6S2dkSzV6dVNnR2xnNW1hZllxTXRRLWNSZXdISzFMVEdQQ2hVdi0zaGNHS2lhSnJKbGdlZkZBblIyeURfb2k1RGZQTGhoa3dfRG9RSEdGLVlCM01xbGViNXhSVzJLY3FSM0tkU2VYY3dydk1JTTFxVGdFVVE?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T08:22:00.000Z",
+      "summary": "Emirati billionaire urges marriage law before 30, says those who delay without cause must be held acccoun  The Times of India"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "В России резко выросла заболеваемость ветрянкой из-за дефицита вакцин",
+      "url": "https://centralasia.media/news:2345893?from=rss",
+      "image": null,
+      "published_at": "2025-10-13T08:21:40.000Z",
+      "summary": "С начала 2025 года практически во всех регионах России фиксируется резкий всплеск заболеваемости ветряной оспой, сообщили «Известиям» в Роспотребнадзоре."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvRXFr",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Sukkot: Finding Joy in Uncertain Times - Sponsored Content",
+      "url": "https://toi.li/Eqkaki",
+      "image": null,
+      "published_at": "2025-10-13T08:21:15.000Z",
+      "summary": "From stepping into temporary huts to Rabbi Nachman’s teaching to “always be in a state of joy,” we explore how Judaism reframes happiness as presence, purpose, and connection.\nThe post Sukkot: Finding Joy in Uncertain Times appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE allocates $10million to enhance natural disaster response in Asia, Pacific - ARN News Centre",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS1hNUEVtNFo3UG9OOTNLU1ZqMGhtN0t4ZDEwT3NjdUpyRkdhU0ZYOFRPYlRiOFpGUG5jM0RIRnV2QlJNUjJZa2pYbWlwUC1rUmtfRmNZYkFiLWl0RzBXTWdNdndlOVJfZnI0bVc0WXBrZU1MR0FFZzVja1g4dXRUcFd1djNfRVFpclRmbU9ucTNjWFhvMDhIX2MxVkVTSEtHTUxqOHBZSll0LVJxNEx1RXlvZFBHSG8ybnh3UUZKMVVMZDBtWWc?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T08:18:00.000Z",
+      "summary": "UAE allocates $10million to enhance natural disaster response in Asia, Pacific  ARN News Centre"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Israelis erupt in joy as last living hostages released after 738 days in Gaza",
+      "url": "https://www.timesofisrael.com/israelis-erupt-in-joy-as-last-living-hostages-return-after-738-days-in-gaza/",
+      "image": null,
+      "published_at": "2025-10-13T08:17:22.000Z",
+      "summary": "As 20 captives begin return to Israel, tens of thousands gather at Hostages Square in Tel Aviv and around the country to watch live feeds of their release\nThe post Israelis erupt in joy as last living hostages released after 738 days in Gaza appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Who are the hostages being released?",
+      "url": "https://www.bbc.com/news/articles/cpvl9k4mw8no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b600/live/0a160040-a5d0-11f0-92db-77261a15b9d2.jpg",
+      "published_at": "2025-10-13T08:15:55.000Z",
+      "summary": "A ceasefire deal should see Hamas hand over all 48 remaining Israeli and foreign hostages, 20 of whom are believed to be alive."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE prepares to send latest aid ship in support of Gaza - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSG5VY0VILWNfaThkZnBybXU0UUhqcEtodXZ0VzRNZU5tVEhnZE1RR1hqOFE2alVuOVBISS15MGVMUU51UFZHd1p0akIzS21jS0F3a3N1ZGlLSHlQLVY3UDMzT2hQRFZQeVNoeUhnRUk1SFI2dlJTb0N2RHpYSDdnblFPZVNwUW9hU2pFYlRTajFvbGRQeHJ1V2xoV3l4ejFVRHBJZEJrSzMyYUZq?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T08:15:53.000Z",
+      "summary": "UAE prepares to send latest aid ship in support of Gaza  thenationalnews.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "HSBC enhances Premier offering as new survey reveals one in four UAE adults uncertain about their financial future - ZAWYA",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUjJCT0F2OXR2OTV5azE2ZS1kYzg5YW1INHY0MDA3TGJtVzlwbE5Gd21STU9RcklkWHR1ckFXNGQweG9LaHVvSnlpT1A1cmk1djdwQ2Vzc1g5aDF2aDZIUWhCUENoT1doNUJOcDZvd25lTVphX3ZTa2lhcHdjTUMtVUNEd0VNd2FleWVSZl9JNXlqTWktYmNSYWEwLXgybFcxUG5DUUlOVXQ0ejM1Y2lMQ05EMkpsbDcxdmxZSjRBZUd3WkFIamJqZWNwT1dyZGFSdHdpOU04X0dweWRxdHRWTVV3MFRPUnRmZE5aTThweDE2TEpBTVNMaGpXY3VVU2Z6NmlMeUN0SWs2cXV1ZEoyVw?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T08:15:00.000Z",
+      "summary": "HSBC enhances Premier offering as new survey reveals one in four UAE adults uncertain about their financial future  ZAWYA"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "‘Real Progress’ Is Made in Delivering Aid to Gaza, U.N. Says",
+      "url": "https://www.nytimes.com/2025/10/13/world/middleeast/aid-gaza-un.html",
+      "image": "https://static01.nyt.com/images/2025/11/12/multimedia/12gaza-aid-gaza-btlm/12gaza-aid-gaza-btlm-mediumSquareAt3X.jpg",
+      "published_at": "2025-10-13T08:13:49.000Z",
+      "summary": "The cease-fire agreement reached last week contained stipulations for an increase of aid into the territory, where it had been sharply curtailed."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Osome Expands to UAE, Opening Dubai Office to Empower Entrepreneurs with AI-Driven Business Solutions - TechAfrica News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ0t4bUVNbHg1dEJ1Z1R4cS02ZzA1WWpCSVZ3SGtzQ1g5WTRtZWFEN3hVUmdMcGlxWWNxVjFTV2RDWkVQNmlqRm9xQXFhZFZMRU9uMFU1b2EzSXZsMU1sYnotVDQ0UHQ3UEhfYVRtU0tCb1dyaFJIUm45UmdsX0lDaTU4Q3ltOUJoVlNpNW1YY1QzbzdJWFdUZE54Z0Jxc0dzdXczR2EtQndITWduc1VPcDNhVWxzOWdWNTN2cGNlR3hUYVhLTVpHTEhoeU81VlVUWkVFdTVn?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T08:13:27.000Z",
+      "summary": "Osome Expands to UAE, Opening Dubai Office to Empower Entrepreneurs with AI-Driven Business Solutions  TechAfrica News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Vote now for Lebanon County's best football performances from Week 8 - Lebanon Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ3hLeWxvQ0hHLVZRQ05FaWRKNU81dHJDNkRSbmVuV3dicE1sOGVtWWdFa2lEMnhsNGNjaTItQVBocXFUbDA2d0swbGRvZ3hMZlhKNWtSUUVWTFlPTm5vRFk3SjBpTkNpQTlhZzBOUFBUdUxscmNXZnRPbWhzV1RaaHhjMFY2UXpCd08yMzdzc1p2T1E2eks0MExmRFJuVHZXeERiOUJmVXlNdkg3ZnptellxSDl2OWlqVjRaYlJRTHZIbTNvVFJPc0hrRWtBa2l1VUloYWpmSUNFdw?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T08:11:33.000Z",
+      "summary": "Vote now for Lebanon County's best football performances from Week 8  Lebanon Daily News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Make your voice heard! Vote now for Lebanon County's athletes of the week, Oct. 6-11 - Lebanon Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcG03TkZQdHdJdDhtNjEzT1E4Ujl3QmF3V05fZm8zYWFaallESjA4TUhIbWtacEppbV84cHNvdjlNdmxSNWxDSkpTbzZlNFBSVnZhT2liaDhkVVhlb2UwbzBVdkU5MVZHSHRtQ1o1cGw3WkhiYVdtaVlCVzM0TEkyOEhmNXlHeTZxa2o3c1hPamRVWWZJMjZMczl2bGlqcHFTQi1SUU1LZUttR0VyVUVUbmFNR0NVUlNP?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T08:11:33.000Z",
+      "summary": "Make your voice heard! Vote now for Lebanon County's athletes of the week, Oct. 6-11  Lebanon Daily News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Justice Mandokhail wonders whether judges can hear 26th Amendment case if they’re its ‘beneficiaries’",
+      "url": "https://www.dawn.com/news/1948578/justice-mandokhail-wonders-whether-judges-can-hear-26th-amendment-case-if-theyre-its-beneficiaries",
+      "image": "https://i.dawn.com/large/2025/10/13131110fb2f856.webp",
+      "published_at": "2025-10-13T08:11:30.000Z",
+      "summary": "Justice Jamal Khan Mandokhail on Monday wondered whether judges comprising the Supreme Court’s (SC) Constitutional Bench (CB) hearing petitions against the 26th Amendment could do so if they were its “beneficiaries”.\nThe Amendment was passed by the parliament during an overnight session in Octobe..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Amazon UAE introduces packaging recycling initiative across Dubai - Packaging Gateway",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUUZEdEVxQTBEVFZjQ1VYVVZWZ1Fycy1IYXQzbGNFbmdreW5ZaVBTZXNKVW9jVXpuZlM0ZlRWYWJadXBfMWgwNWxhcVI0RmRkZXMzMGl2MnZjRGNOWkhobFNnVHJPUHkyeHQwVWpHeGpOOTkwZFZ4UHJnM3VldjZQVjYtWnQ4Umt4?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T08:07:45.000Z",
+      "summary": "Amazon UAE introduces packaging recycling initiative across Dubai  Packaging Gateway"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
       "title": "Watch live: Trump arrives at Knesset",
       "url": "https://www.israelnationalnews.com/news/416217",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1200895.jpg",
-      "published_at": "2025-10-13T08:06:49.000Z",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1200896.jpg",
+      "published_at": "2025-10-13T08:06:00.000Z",
       "summary": "US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu arrive at Knesset just after hostages' release from Hamas captivity."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Kazakhstan presents digital saiga horn tracking system in UAE - qazinform.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTF9IWENUUzhCbkhJbG1OdEI2UWliZ0dmUjRmR0N4NjdwMkJGYi1uRXljdnpGbzBsc3VjR25BY2hfWndvNTZRTWltMlcwSXAzc19rMXdxN2RSUkhNcl9RYnk1cXg1WUJ1UHM3UTFXQ01JcTZmVU1EWUx0Q0pMeW90TWFzLUxBUlZJRzFYQ3FlcDZRNS1lb0FDNmJiONIBmwFBVV95cUxNckRVSWcwYVlMZmVMZmN1U2NZZW42c3dVekE3UlVlNlF2eGFhN1pGTUNtXzI4MGZPdDFCLTk0TFI1MERXLUc2SVVzZDVFdU81MUNySXViMklrQ1lVdkdmTTR6ODRnV2k4aWlGbF8zZ3hFYVhGYzNxeHY0VXdfM0lqZmoxQ2dQMEx2ZEl0eHFldUw4b3dNTnFsTzNVQQ?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T08:05:38.000Z",
+      "summary": "Kazakhstan presents digital saiga horn tracking system in UAE  qazinform.com"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -82,16 +392,6 @@
       "summary": "U.S. President Donald Trump has arrived in Israel to oversee the first stage of his Gaza peace plan. Trump will address "
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "PTI’s Sohail Afridi elected KP chief minister in session marred by opposition walkout",
-      "url": "https://www.dawn.com/news/1948540/ptis-sohail-afridi-elected-kp-chief-minister-in-session-marred-by-opposition-walkout",
-      "image": "https://i.dawn.com/large/2025/10/131247364f0bc27.webp",
-      "published_at": "2025-10-13T08:01:14.000Z",
-      "summary": "PTI MPA Sohail Afridi on Monday was elected the new chief executive of Khyber Pakhtunkhwa during an assembly session marred by the opposition’s walkout as well as despite uncertainty regarding the resignation of outgoing Chief Minister Ali Amin Gandapur.\nKP Assembly Speaker Babar Saleem Swati, wh..."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -100,16 +400,6 @@
       "image": null,
       "published_at": "2025-10-13T08:01:00.000Z",
       "summary": "הצעיר שעבד כמאבטח במסיבה ברעים נמנה עם המשוחררים בעסקה מול חמאס. דודו של איתן: \"זה בזכות מאות הלוחמים שנפלו ואלפים שנפצעו\". המשפחה פרסמה מסר: \"רוצים להודות לרה\"מ נתניהו ולרעייתו היקרה שרה, על הובלת המדינה בתקופה הקשה ביותר שלה בתבונה, באומץ ובנחישות מול אויבינו\""
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Watch: Hostage Elkana Bohbot speaks with mother Ruhama",
-      "url": "https://www.israelnationalnews.com/news/416216",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1200872.jpg",
-      "published_at": "2025-10-13T08:00:49.000Z",
-      "summary": "After over 730 days in Hamas captivity, hostage Elkana Bohbot speaks with mother Ruhama on the phone, telling her, 'It's all okay, calm down.'"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -132,24 +422,24 @@
       "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npBEIJING (Reuters) -China on Monday urged the Philippines to not challenge its efforts to safeguard its territorial sovereignty and maritime rights an..."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Police say protesters dispersed in Muridke; SHO martyred, 3 TLP members killed in clash",
-      "url": "https://www.dawn.com/news/1948598/police-say-protesters-dispersed-in-muridke-sho-martyred-3-tlp-members-killed-in-clash",
-      "image": "https://i.dawn.com/large/2025/10/131227566d3b249.webp",
-      "published_at": "2025-10-13T08:00:34.000Z",
-      "summary": "Tehreek-i-Labbaik Pakistan (TLP) protesters, who had camped at Muridke after authorities blocked their route to Islamabad by digging up trenches, were dispersed on Monday after clashing with law enforcement personnel, according to police.\nThe TLP, which began its protest march in Lahore on Friday..."
+      "title": "Watch: Hostage Elkana Bohbot speaks with mother Ruhama",
+      "url": "https://www.israelnationalnews.com/news/416216",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1200872.jpg",
+      "published_at": "2025-10-13T08:00:00.000Z",
+      "summary": "After over 730 days in Hamas captivity, hostage Elkana Bohbot speaks with mother Ruhama on the phone, telling her, 'It's all okay, calm down.'"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "SC Constitutional Bench continues proceedings in 26th Amendment case",
-      "url": "https://www.dawn.com/news/1948578/sc-constitutional-bench-continues-proceedings-in-26th-amendment-case",
-      "image": "https://i.dawn.com/large/2025/10/131047093f90788.webp",
-      "published_at": "2025-10-13T07:58:24.000Z",
-      "summary": "An eight-judge Constitutional Bench (CB) of the Supreme Court (SC) on Monday resumed hearing a set of pleas challenging the 26th Amendment and mulled on the petitioners’ request to form a full court.\nThe Amendment was passed by the parliament during an overnight session in October last year, with..."
+      "title": "UAE President Approves Major Law on Central Bank and Financial Regulation - Emirates24|7",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWUNyVzZndjJleTNiYi1rTU5xUzU2a05zLUI3akhSdG0zY0M4VXhwWXhTNTV0THZ6LVBrRXdqTlVCU3lHSUg3UElldHJnSHc1bEw4Rzl4VVh6Q1c1bkhkaElmZkNnQklLQUtqZUJvLU54eUhQNlRNaWdrMGJ2djNjeDlBbklGdjA1OEhBY2FlaXRBUUd1Uk9vWlJfbDNmREROV0lXb3dZWGYwUDNKWjEwWURVNE9rLXVGcWxROVM2Tjl3dUJXLTJkdmlSYUZqWG1HQ2ZEb0ZFNU5ZbWlIRk9J0gH6AUFVX3lxTFBMTXdVcTdNVnRoMVVibVlwQzZGb3g5bTlyUkt4UXVFUGNIcXExT0tkbDFXWGxSejNxWXU5aE12R19OMWNFeTJHTFQ3OXd4OFJVSUVxYWx1dGV2bTBDMV9YSjUwSlVIaWY3UDZIcVFGamxWajZyUlI2X0lyNnFETU9xRkYtNDlKbUVid25Ud1dhSWlPLWRzd2dVTkIzVkhuU1V5V0ZLVTFrUFZDTG16NVl3eWVIWm1tYnRfQ0J6bjQ2QnhVbk9TQzdhMlduc1IzTENTT2tId0dsVTFtWGZhTGE2czgxSU9iZ0gtYWR1cHJxX2N3cDctN0k5UWc?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T07:57:00.000Z",
+      "summary": "UAE President Approves Major Law on Central Bank and Financial Regulation  Emirates24|7"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -165,6 +455,26 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
+      "title": "What the UAE need to do against Qatar to punch their ticket for 2026 World Cup - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVW1mWUJQQWpUVVFaX3ZqRjNZdTZkaElKY3kzWDhmblRLV0ZNUjRUN1NlVFdCSFBJVmpNUVVLWFVTZGxWc2NRRDZEVlFPUEVBZnlyVkhOWjZXMDVYYTRBQmhMUk02QVNsZFJaTlFXaXRsb1RVdVhheTZXemJKb2kzcmpHZkNwbWpQZUYtSmRVUGN6UlNoVjEzMFBGcWhrZDhBanE4WjVoZVJmS0lQZnk4UW1HeUF0RktjbVpRTmdnaDlRMFpLNy1KUWtWWDF6VDFFTkww?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T07:50:53.000Z",
+      "summary": "What the UAE need to do against Qatar to punch their ticket for 2026 World Cup  thenationalnews.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE Pledges $10 Million to Aid Asia-Pacific Disaster Relief - Emirates24|7",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWWVab3QtTENaeTIwa2FYVG8wMDVkVFpUSUQtZmhmbWlPN2k4R2ptM2ROVDk0c2htbHllVzhUSWxxdVBtS0JDYVRTRkZ4M18xcGJveE1PQlFhM2VLTEtSMG5xLTRPLTk2cDd2bDE0eXctNHFhUk53MzQ5eFd5LTRoXzJLZnVkQXl2WXJlNXNxcEF1dVJsbmlzWkV2UlRXT0RBXzlFNk9Nd1d4SHJDZFZr0gHKAUFVX3lxTFA5bWlnYmludHlvZVYzWTdjaWJ6QThJcE9NdFk5RkdKa21RRUEzREJDTlhaQnN2NXlkRzdjc3RiZWlkNkM0QWVSZ2FPa2I1aXJJWVFYT29hUkk2SGxoQU1wbTgyQzZ5SzFkc185S2pneHBwQ1VlWFlqWERlVXc0Uk1yUGZaOUJUZmxicGRVTlFBN19Ia3FzeTNvX05HVjVISUlkSTJSUGFxZmVyQ3F1RWZSQ3ZLNUExc1RqNUcwMUZVRW0zejVMaEozWGc?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T07:50:00.000Z",
+      "summary": "UAE Pledges $10 Million to Aid Asia-Pacific Disaster Relief  Emirates24|7"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
       "title": "Ericsson and e& UAE Sign Multi-Year Deal to Modernize 5G Core Network - TechAfrica News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblE0RTZwTVhaU2w5TVBVa3dVc21vX0tiaWdVVHZNZWdWdVZ2am1jbDBIT2p2NGwzLWxNbFFId1VxUHhBMTI5RVNRUzR1a2RQSE9IbWhiYks2a1prOW1DX0RONVBaTEJ4UHNaYTBlVDBGVjZzMk5mR3NLM093V2JTT3QzNHhBazQ0YTlEYThJbFYxWmcwYXFOZmo0blRCLWx0a2htUWRMWTZIek0?oc=5",
       "image": null,
@@ -175,41 +485,21 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Osome expands to UAE to empower founders with AI-enabled business management platform - ZAWYA",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVHVGalowX0NjR0VIbnpkWXJDOE0xY3U0Z2QxS0JMeG5qREdqLVpZYWF5MU1OZktKQ2NBZmF6dTRRZnJZdkY1MVhncUxMRHpKMjZNZ0tpY3Z1T0ZTU1BEREFTWVl5Z3VFMVNoUlNEaVROc3JVTWRCU19FQVctTTF5Q2MxNVdTdjVISDRrcjVITmtDWVhaY0lmWjVUWERSeDVNcTQ5YktpdnUyMk94V0ZJYmRJSGtqM21wNEFDZzJpRWRiblJTREtDY3F6ZkxhajVpdG8xZS1pb3RELXpsMTdReDh3?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T07:46:37.000Z",
-      "summary": "Osome expands to UAE to empower founders with AI-enabled business management platform  ZAWYA"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
       "title": "UN peacekeeper injured by Israeli drone’s grenade in southern Lebanon - PressTV",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRWxBX2VBeFRlaEVldEZlX2ZXNHYzVzItSU5TTGhHZkh5VHRxWmxLYm9NRldJazFIWkxsYW8yb0V0MF9JNG5Qbk9tdjV5azhLUzhyUDRiOTVrZTlrQjFrbGUwc0I0bEZxOUVmNF9oYThJYjBBWTBsZ2MzcXc2NUVPdzJkXzNyVFNrV0t4WVhsenQ5Rkx6VHlxM0hBazRoYl8wNEpEcFFWT0VzNDdEbURFMHVDRFlGb09qcUNtUw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmVIaTl5UE1scHZMc3RlSHBTSk1RMkVUZzZ6S1B6a0Jwalc5dHljd3VkRElva1pvLS0tWFJrb2FhaE5mRk5ac2dtVmpOYUFySTBUZWlZVDZCVzVqSEpDenhLMjBIOEZnVks2VzFLbjIzUEdWSTlBZFFpdUpwb3ZnUTMtR013S3RxaXJNVk5wQlhSdG0xZDlQYVRzWjBzLW5wV3p6THh4aTBnVkZTMWdBeklkczAwMHc?oc=5",
       "image": null,
-      "published_at": "2025-10-13T07:46:00.000Z",
+      "published_at": "2025-10-13T07:47:04.000Z",
       "summary": "UN peacekeeper injured by Israeli drone’s grenade in southern Lebanon  PressTV"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Women in the front row | Setting precedent for future India-Taliban engagements - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeENLZHNnRHlfZEE1eEt0TmhIWE9wRDJ6ZVNqc1IxazBFcnZxc2xJaXFwdk9MMm1tclg4ekwwczJVa2lrSWhpT0c2SmxMSEZuZkh4b19tT1RVLXpwcldGQl9Ec1piVjBnUWtsc0JrTWdoNWt0WHpGUXVzOFlYcU1WakFvRURkYnZGS0I3ZzVXTWt3ajl3Q0g1VEFKVHFhdW1neF9PRVhWYnFnRDdFM2FQcGhCdExNV0pJVzM1aFUxYw?oc=5",
+      "title": "Osome expands to UAE to empower founders with AI-enabled business management platform - ZAWYA",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVHVGalowX0NjR0VIbnpkWXJDOE0xY3U0Z2QxS0JMeG5qREdqLVpZYWF5MU1OZktKQ2NBZmF6dTRRZnJZdkY1MVhncUxMRHpKMjZNZ0tpY3Z1T0ZTU1BEREFTWVl5Z3VFMVNoUlNEaVROc3JVTWRCU19FQVctTTF5Q2MxNVdTdjVISDRrcjVITmtDWVhaY0lmWjVUWERSeDVNcTQ5YktpdnUyMk94V0ZJYmRJSGtqM21wNEFDZzJpRWRiblJTREtDY3F6ZkxhajVpdG8xZS1pb3RELXpsMTdReDh3?oc=5",
       "image": null,
-      "published_at": "2025-10-13T07:43:29.000Z",
-      "summary": "Women in the front row | Setting precedent for future India-Taliban engagements  Deccan Herald"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2025/10/12/world/israel-gaza-hostages-trump/heres-the-latest",
-      "image": null,
-      "published_at": "2025-10-13T07:42:54.000Z",
-      "summary": ""
+      "published_at": "2025-10-13T07:46:37.000Z",
+      "summary": "Osome expands to UAE to empower founders with AI-enabled business management platform  ZAWYA"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -312,96 +602,6 @@
       "summary": "Dealing with Taliban: India walks a fine, pragmatic line  Firstpost"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Muttaqi in Delhi: Is India inching towards recognition of Afghanistan’s Taliban government? - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNanNLUkZiS3lXS3Y0dTdUVU1XdlBSTkk4WHExLUFsX3dzVGdSdWt6RjlXbHZRQWE2ZHROUWJscndCcDBZYjhIUHhrRjd6SjBJODJYQU1YaVluRU9JcVIzT3RUemFiRWlOTjltYTh5RlM5UzB2aDBPaEVUeUVHVXdGaFoyY1QtajEydWdGeHF4YkFVRXBTaUJGWmQ4VHpxNDQwTkc1bmtHSGctdGxDMGkw0gG2AUFVX3lxTFBndS1JR3h5bzB2S1g1YnpWUkljamZ5Njc1cEpaeVdiVHRvQTlPUjJGNnNmd2JUbUJLMzNaaGptTGVHdVJ0VGdFNThCbS1Ob3ZZNEs1bS1pODJtTU9wMXZaYjZhdlZST0RPWFRDOGd4RGhmOTZXRmNBejVoT0l1eGdhSGxqbDBGUkFhajFGNmNRM2hNMlVkbE5qVFB0Y2tJdmgwbF8wSUpiZE1fRmthMFZSS3czaTdn?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T07:27:27.000Z",
-      "summary": "Muttaqi in Delhi: Is India inching towards recognition of Afghanistan’s Taliban government?  The Indian Express"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Pakistani politician says border clashes with Taliban are result of ‘embracing terrorism’ - Amu TV",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE55MFNBMGZLVXE4LW9XMnFjV2VuejN6aGlZaGo3RTk1cmotVnJCVThCallvV1hhUmFXeHc?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T07:27:18.000Z",
-      "summary": "Pakistani politician says border clashes with Taliban are result of ‘embracing terrorism’  Amu TV"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZWd5cHRp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Hamas asserts control in Gaza and targets alleged collaborators as ceasefire takes hold",
-      "url": "https://www.egyptindependent.com/hamas-asserts-control-in-gaza-and-targets-alleged-collaborators-as-ceasefire-takes-hold/",
-      "image": null,
-      "published_at": "2025-10-13T07:26:45.000Z",
-      "summary": "Hamas is reasserting control of parts of Gaza not occupied by Israeli forces as the ceasefire takes hold – amid continuing uncertainty about security in the territory if the group is disarmed. Hamas’ internal security forces were pictured on the streets of Gaza City on Saturday, and there have be..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "В Казахстане сменили первого заместителя министра иностранных дел",
-      "url": "https://centralasia.media/news:2345793?from=rss",
-      "image": null,
-      "published_at": "2025-10-13T07:26:39.000Z",
-      "summary": "Распоряжением главы государства Акан Рахметуллин освобожден от должности первого заместителя министра иностранных дел Казахстана."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Назначены послы Казахстана в Словении, Боснии и Тунисе",
-      "url": "https://centralasia.media/news:2345790?from=rss",
-      "image": null,
-      "published_at": "2025-10-13T07:24:13.000Z",
-      "summary": "Указом президента Касым-Жомарт Токаева Данияр Сарекенов освобожден от должности посла Казахстана в Словении, а на эту должность назначен Алтай Абибуллаев."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZWd5cHRp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Help from Arab countries “crucial” to ensure Hamas will not return to power, Israeli ambassador to UN says",
-      "url": "https://www.egyptindependent.com/help-from-arab-countries-crucial-to-ensure-hamas-will-not-return-to-power-israeli-ambassador-to-un-says/",
-      "image": null,
-      "published_at": "2025-10-13T07:23:54.000Z",
-      "summary": "Contributions from Arab countries in the next phase of the ceasefire deal are important to guard against the resurgence of Hamas in Gaza, Israeli ambassador to the United Nations Danny Danon said. “I think the very fact that you have Arab leaders, moderate Arab countries, that are willing to part..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "After 738 days: All living hostages return home to Israel",
-      "url": "https://www.israelnationalnews.com/news/416200",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1200877.jpg",
-      "published_at": "2025-10-13T07:22:00.000Z",
-      "summary": "After 738 days, Hamas is no longer holding any living hostages; the 13 last living hostages have been handed over to the Red Cross, and the other seven are already in Israel."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Filipino-led sports academy gathers over 500 athletes across the UAE for ‘Unity Volleyball League Season 2’ - The Filipino Times",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTXJHRzliM0lCVERhaEprVnZnb0xJc1ozTHU4c3NSQlFMXzRvcUpwa0ZCWV9SQ19LempXcU5CVFlta2RJQXNjSnRZYzRxTVNmWXVwZ01Fek1EQ1FhWFh6eVF2WjFrLV9vQzNDRUN4bngzVzQ4QmNjQ3BucWx0RlFlQ05UVGhnb0E5NjNSMmZ0QlVGTjQ4eDBJeUYwWlNFN1VhWktnR1Y3Y0VaNFlSdzhoV29vN1Q4MEF6VmVXdlcyY0czVmJfcXFsY20yN2ZMU2JjdG1zczRBR3p1Qmo3ZUl2a2lQQnp2NVlONE1aYWxTUDZDQQ?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T07:21:59.000Z",
-      "summary": "Filipino-led sports academy gathers over 500 athletes across the UAE for ‘Unity Volleyball League Season 2’  The Filipino Times"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Netanyahu joins Trump in Beast en route to Knesset",
-      "url": "https://www.israelnationalnews.com/news/416212",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1200871.jpg",
-      "published_at": "2025-10-13T07:21:00.000Z",
-      "summary": "President Trump arrives in Israel ahead of the release of Israeli hostages held by Hamas. Ben Gurion Airport control tower: 'Welcome to the State of Israel, Mr. President. Your visit carries deep meaning for people in this time.'"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -410,66 +610,6 @@
       "image": null,
       "published_at": "2025-10-13T07:20:41.000Z",
       "summary": "Murdered by terrorists in Kibbutz Be'eri on October 7 and his body kidnapped to Gaza\nThe post Sudthisak Rinthalak, 43: Thai farmer was the &#8216;pillar of the family&#8217; appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Why Pakistan Is Fighting Taliban: Islamabad's Proxy Strategy Fuels Deadly Cross-Border Crisis - Times Now",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV0FOcWhvS3JHRkFodGxRLU5GdE5oblpDMnVuZEl3NmU3eGFNN1VPTkUxLTB4WVNTdVJZaFhkSlRMQXNnWEppaFVCQXlOUk11WE14RE04cVI0QklISWc0NmhKT09tMGk5c3FtY0NNYmpkS1lKUUhlSUl3RXhrSjlzdzUtYXlySjVvcG5yVXpHZWFibTI2WF9hMC1nSGhMakQ3NUQzNkg4dTZzNmlxUFJFaXJJdnhISzJraHNkam83QWNLVF9qYnFpOUdn0gHPAUFVX3lxTFBNVDJwb0gxUTBRV0x6UF9IMm11LUFZQkdDTXZBQjY2STRrUWJHc3ptNHU5eVhFUTQ3Y1pTZzRleG9GYXZpRXdDYk5EVGVMZ3BadzNPMmlySGRQUGprMzlGVnJaVG8tN3JNZ2ZBVHhvTXlUSmtLOERvNzVndnkxMWRoQWRpbUFDQ2dKMmtiTkE4LVBONGV5bkYwNV9NQnppVGQtMzJlZlRaQ0VHckNBcWU4VExfWHA0TlRCYlRjcGJKUDZKQlNhVkpuLUJHUWZBRQ?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T07:20:05.000Z",
-      "summary": "Why Pakistan Is Fighting Taliban: Islamabad's Proxy Strategy Fuels Deadly Cross-Border Crisis  Times Now"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israelis Wait in Hostages Square for the Captives’ Release",
-      "url": "https://www.nytimes.com/2025/10/13/world/middleeast/hostages-square-israel-tel-aviv.html",
-      "image": "https://static01.nyt.com/images/2025/11/12/multimedia/12gaza-hostages-square-sub-wqbt/12gaza-hostages-square-sub-wqbt-mediumSquareAt3X.jpg",
-      "published_at": "2025-10-13T07:19:14.000Z",
-      "summary": "The plaza in Tel Aviv has been a focal point for rallies for the release of the hostages and a gathering place for their families and supporters."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "IDF chief: 'Our mission won't end until the last hostage returns'",
-      "url": "https://www.israelnationalnews.com/news/416210",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1200803.jpg",
-      "published_at": "2025-10-13T07:19:00.000Z",
-      "summary": "IDF Chief of Staff Lt. Gen. Eyal Zamir is commanding Operation 'Returning Home, says it is a 'very significant day' marking progress toward key war objectives. 'Our mission will not end until the last hostage is returned.'"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Trump says Gaza war is over, praises Qatar’s role in peace deal - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSEdtc01OZmNacndvdUpRZm95T2p3bEZqSTl2cWUxZE5wdDdneWNaYmVkSTM0UnV3WUJ4cVRaTmFjZ1FVYnBqeVdUTW84dkI5eWMzWUxWY0hFWGRsNWI2b2huSjkySk92WE9La2VMX2FVU1ZYRkFFNHAyVzlRY0M2V1lxcG1oazBCd0tPZVN2bFc5WmtmaFY1N3RZOGZKM1FRU3NLamZEYWVKUE1xWnh4THZPb9IBuAFBVV95cUxNS3Z4UzZEVjZGTVhNTWdmbjRRQWFUSmZoOGt3ZzlJWkRjdkJwZUxGUGZSRUhkc2xJS05oRXphNG1Eb0dQbUFxbl9hQzV2bUZmOVpKMXNsZUxkYS1razVFRnA0UHozaXBCaVdla2o3TC1GcE1tam9LSng2VUdJazF6U0NLYk40OXJGN3htOVZ4RTB3NEIzYXVjX2FncmxWeE82UGVvclM3TlFlSS1GYW5qQmdsNFdNYTVU?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T07:17:13.000Z",
-      "summary": "Trump says Gaza war is over, praises Qatar’s role in peace deal  Al Jazeera"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Junaid Siddique, Muhammad Rohid headline UAE surge at historic ILT20 Season 4 auction - cricexec",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbnloTWRRT2tRcVJkQUdCbGZZbUo1SVhzSHJHcUNoaTdjRkFlazJ4cFZzcnBqTEVNckRMa285Ykk2QkdrNUN2RGFXbkZOQ2VWUE41bmFVOERTWE9KRVBzVDhjVVRnSjFkY2c4VDM5cXRDWU44cmtTVmpQU2YzVEpPekNKclZ2VXBJQ1Q1V3h3NUJfbjNYMUZiWEVha25ScmdoaDdfMXhmdFg2dUp3NE83dWxtTzlaSUhvaDJWeA?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T07:16:30.000Z",
-      "summary": "Junaid Siddique, Muhammad Rohid headline UAE surge at historic ILT20 Season 4 auction  cricexec"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "XS.com adds UAE SCA Category 5 license - FX News Group",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQmpubDBJaW94OHNWTUdLdUJZZVpFMmZkdHFjM09za25wUUxkRnI1bzk4Si1uSXZTSkZWbThQdHRoRDhPVS1VbmUyQ3dycGxqdHNmOW0zb3pENW9kX0ZxZUNWd3hZUzRCRjFZQWlUY29WY2hpMHRrZEVGODE1MUV1VnBicVBRakRlUXVnSjFFb3Y?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T07:15:21.000Z",
-      "summary": "XS.com adds UAE SCA Category 5 license  FX News Group"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -502,56 +642,6 @@
       "summary": "אווירת חג בכיכר החטופים: אלפים רבים הגיעו לחגוג משעות הבוקר המוקדמות בכיכר שהפכה לסמל, אחרי 738 ימים של גיהינום. \"כל הזמן קיוויתי שהיום הזה יגיע\", סיפרה דלית שמנהלת דוכן במקום. \"המשפחות והמדינה יתחילו מחדש, החיים מתחילים\", שיתף דוד של ירדן ביבס"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Chimpanzee caught in police action 25 years ago dies at Karachi Zoo",
-      "url": "https://www.dawn.com/news/1948458/chimpanzee-caught-in-police-action-25-years-ago-dies-at-karachi-zoo",
-      "image": "https://i.dawn.com/large/2025/10/13094748296f5ad.webp",
-      "published_at": "2025-10-13T07:10:31.000Z",
-      "summary": "KARACHI: A female chimpanzee named Bibi, who had been living in solitary confinement at the zoo for a long time, died on Saturday.\nSources said the chimp had been under treatment for months.\nSpeaking to Dawn, Karachi Metropolitan Corporation (KMC) official Daniyal Sial confirmed her death, saying..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9pcmFuZnJlZWRv",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Rally in Munich Urges End to Iran’s Executions and Freedom for Political Prisoners",
-      "url": "https://iranfreedom.org/en/iranian-assemblies/2025/10/rally-in-munich-urges-end-to-irans-executions-and-freedom-for-political-prisoners/79533/",
-      "image": null,
-      "published_at": "2025-10-13T07:09:45.000Z",
-      "summary": "A rally in Munich condemns Iran’s executions, calling for the release of political prisoners and urgent international action.\nThe post Rally in Munich Urges End to Iran’s Executions and Freedom for Political Prisoners appeared first on Iran Freedom."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "'RSS Has Mindset Similar To Taliban', Says Karnataka Chief Minister's Son - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTdGVlljZlFEemhxbm01ckNmVFZzbzI5cllvNHppd1RfUlp2LWJYeGRhenF3bnFjQUpCVlRKOXp1eTQ2X1hKaVVlMDhfX000SUtxaU55ZU9lNXJBRm5GeWI4ODZVRXRSSk9UTXdtZFBiT3ZycTVZSUU5N1pXeThkWk81SkgyM1BBUy1DUzd1eWYwTWVXTG41X3FKcGVicjIyVUVJZEttZXhuOWN6MEHSAbYBQVVfeXFMTTM2OUhtTkxKRjh3aDVUbFE2eXQ5RlM0bmMwR0JOZlRvT1pFQnBUcTJqSGM3RFhtQ3Z0QUE2Yl94bGdxZGVpLWFKZWZIcmhubGNVVEhxRDdQMTBuc2RDdk1RenJ3ak9HMENRLU5CeVZNVWI5NWpoaDFPeXBlNFVneElWRDRBLWozVnV4SlhhcVl6Y0F4MVZzSGhEUW1PZEx1N1BkZHRwdFlXUE9lRGVrMmVPM0FhSkE?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T07:07:56.000Z",
-      "summary": "'RSS Has Mindset Similar To Taliban', Says Karnataka Chief Minister's Son  NDTV"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZWd5cHRp",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Red Cross buses begin transporting Palestinian prisoners from Ofer Prison",
-      "url": "https://www.egyptindependent.com/red-cross-buses-begin-transporting-palestinian-prisoners-from-ofer-prison/",
-      "image": null,
-      "published_at": "2025-10-13T07:06:42.000Z",
-      "summary": "Red Cross buses have begun arriving at Ofer Prison, in preparation to transport Palestinian prisoners scheduled to be released as part of the ceasefire’s exchange deal. AlQahera News reported, citing Israeli media, that the first batch of detainees will depart from the Netzarim area at 8:00 am, w..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Tears, joy in Israel as Hamas hands over first hostages",
-      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/tears-joy-israel-hamas-hands-over-first-hostages_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
-      "image": null,
-      "published_at": "2025-10-13T07:00:21.000Z",
-      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npHundreds of people gathered on Tel Aviv's Hostages Square erupted in joy, tears and song as news broke that Hamas had handed over the first hostages ..."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -560,16 +650,6 @@
       "image": null,
       "published_at": "2025-10-13T06:57:58.000Z",
       "summary": "As ceasefire takes effect, controversial US-, Israeli-backed operation seems to shutter operations; US has said no plans to continue funding\nThe post Officials say GHF aid sites being shut down, in accordance with Gaza deal appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "SNG: Qatar's QIA increases Investment in Renewable Power Generator ISAGEN - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeDVxd243OGFNOVNMelBzQkNnMVJvbWhuLXctelhqV29tREc3eGxwWTJvWnJEVW9lNUM0N0ZPeWNHSGVvVTZRVGhxenlJY0d3OWtrVDgzeHhvUkRSZ1VMTWE2Ti1vZm1EeFFYQkNrUkNRSWdqRFdRZFlLQzdMTGFqWXhGQUN0aE91c0JhWWwtMEk1b3pZb09kUnJTRzdfYk1vZVRSUklJZ3N5dUJRLXVteVVyTVRMWVpYcmctRVdkbFNxNDBuZF9YRDZiZzc0UzZfWXM5OTR4M21Na1pYc1B5Zk5n?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T06:57:41.000Z",
-      "summary": "SNG: Qatar's QIA increases Investment in Renewable Power Generator ISAGEN  TradingView"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -595,11 +675,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "טראמפ נחת בישראל והגיע לכנסת: \"כולם רוצים להיות חלק מהשלום\"",
+      "title": "טראמפ מדגיש בכנסת, לצדו של נתניהו: \"המלחמה הסתיימה\" | ישיר",
       "url": "https://www.ynet.co.il/news/article/hjjfvz5pxg",
       "image": null,
       "published_at": "2025-10-13T06:30:56.000Z",
-      "summary": "במקביל לשחרור החטופים הדרמטי משבי חמאס, הנשיא האמריקני הגיע לביקור קצר שבמהלכו יישא נאום במליאת הכנסת"
+      "summary": "במקביל לשחרור החטופים הדרמטי משבי חמאס, הנשיא האמריקני הגיע לביקור קצר שבמהלכו יישא נאום במליאת הכנסת. לצד רה\"מ ויו\"ר הכנסת כתב בספר האורחים: \"זהו שחר של יום חדש, יום גדול ויפהפה\". זמן קצר לאחר הנחיתה ביקש לבקר את החטופים המשוחררים והוא עשוי לבקר בשיבא "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -795,11 +875,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Trump addresses Israeli Knesset as Hamas releases all living hostages held in Gaza",
+      "title": "'War is over': Trump addresses Israeli Knesset as Hamas releases all living hostages held in Gaza",
       "url": "https://www.haaretz.com/israel-news/2025-10-13/ty-article/.premium/trump-to-land-in-israel-as-hostages-freed-netanyahu-to-greet-him-before-knesset-address/00000199-dbcc-da09-a1bb-dbee5f2a0000",
       "image": "https://img.haarets.co.il/bs/00000199-dc83-d8a7-afdd-ffbf64510001/20/d4/1dfc71da4082b0a0f621cf74ed6d/whatsapp-image-2025-10-13-at-10-39-45-am.jpeg?height=81",
       "published_at": "2025-10-13T04:25:35.000Z",
-      "summary": "Israeli Prime Minister Netanyahu and President Herzog welcomed Trump at Ben Gurion Airport before he delivers a speech and meets hostage families at the Knesset. In the early afternoon, he will depart for a summit in Sharm el Sheikh on the Israel-Hamas agreement"
+      "summary": "Israeli Prime Minister Netanyahu accompanied the U.S. President to the Knesset, where he will give a speech. Trump wrote in the Knesset guest book, 'this is my great honor – a great and beautiful day, a new beginning.' In the early afternoon, Trump will depart for a summit in Sharm el Sheikh on the "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -895,7 +975,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "13 hostages are handed over by Hamas to Red Cross in Gaza after return of seven to Israel",
+      "title": "13 living hostages are en route to IDF in Gaza after seven return to Israel; Trump arrives in Israel",
       "url": "https://www.haaretz.com/israel-news/2025-10-13/ty-article-live/hostages-expected-to-be-released-starting-early-monday-trump-gaza-war-is-over/00000199-db79-d7e9-adfd-db7f32340000",
       "image": "https://img.haarets.co.il/bs/00000199-dc98-da09-a1bb-deba45fa0001/42/24/dea140e540e2b3573ee0d45a6da7/gali-zivi-alon-rom-engrest-ohana-home.jpg?height=81",
       "published_at": "2025-10-13T03:03:20.000Z",
@@ -1105,11 +1185,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Final 13 living hostages said handed over to Red Cross; first 7 reuniting with families; Trump on his way to Jerusalem with Netanyahu",
+      "title": "After two years, Hamas holds no more living hostages as final 13 handed to Red Cross; Trump arrives at Knesset",
       "url": "https://www.timesofisrael.com/liveblog-october-13-2025/",
       "image": null,
       "published_at": "2025-10-12T23:07:41.000Z",
-      "summary": "All 20 hostages said to have been on their feet at handovers * Photos published of first of the released hostages * Trump's plane overflies Hostages Square * US president says Gaza deal may be 'biggest thing I've ever done'\nThe post Final 13 living hostages said handed over to Red Cross; first 7 reu"
+      "summary": "All 20 hostages said to have been on their feet at handovers * Photos published of first of the released hostages * Trump's plane overflies Hostages Square * US president says Gaza deal may be 'biggest thing I've ever done'\nThe post After two years, Hamas holds no more living hostages as final 13 ha"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1342,16 +1422,6 @@
       "summary": "Keren Peles and Yuval Raphael sang a new version of \"New Day Will Rise\" in Hostages Square on Saturday night, with lyrics that reflect the joy of the imminent release of the remaining hostages."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ירי המוני באי בארה\"ב: 4 הרוגים ו-20 פצועים במתקפה לילית בדרום קרוליינה",
-      "url": "https://www.ynet.co.il/news/article/syngqffaxg",
-      "image": null,
-      "published_at": "2025-10-12T19:51:04.000Z",
-      "summary": "נסיבות האירוע בבר בסנט הלנה, ביתה של קהילת צאצאי עבדים אפרו-אמריקנית, עדיין אינן ידועות. ניצולים נמלטו לבניינים הסמוכים, מצבם של 4 פצועים קשה"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1430,16 +1500,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-d9ad-da09-a1bb-dbaffc5d0001/df/13/8b5502e94848be52bfa6e1c49379/297511.jpg?height=81",
       "published_at": "2025-10-12T18:47:35.000Z",
       "summary": "Heads of state are expected to discuss establishing a U.S.-Qatari-Egyptian-Turkish task force to secure the cease-fire in Gaza at the summit in Sharm el-Sheikh, as well as the committee of Palestinian technocrats set to be established in the Gaza Strip under the agreement"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הרשות הפלסטינית הוזמנה \"לחגוג\" את ההסכם במצרים - וישראל לא",
-      "url": "https://www.ynet.co.il/news/article/rkt3avyaxg",
-      "image": null,
-      "published_at": "2025-10-12T18:46:31.000Z",
-      "summary": "לסיים את המלחמה - בלי ישראל: במצרים יארחו את \"פסגת השלום\" בהשתתפות טראמפ ומנהיגים מערביים נוספים, אבל התעלמו מנתניהו. גם אבו מאזן הוזמן לדון בעתידה של עזה, צרפת תאשרר את תמיכתה בהקמת מדינה פלסטינית"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1542,16 +1602,6 @@
       "summary": ""
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "18 cops injured in clashes with anti-Israel rioters in Swiss capital",
-      "url": "https://www.timesofisrael.com/18-cops-injured-in-clashes-with-anti-israel-rioters-in-swiss-capital/",
-      "image": null,
-      "published_at": "2025-10-12T17:45:19.000Z",
-      "summary": "Some 5,000 people, many masked and dressed in black, gather for unauthorized demonstration in Bern, cause millions of dollars' worth of damage\nThe post 18 cops injured in clashes with anti-Israel rioters in Swiss capital appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1570,16 +1620,6 @@
       "image": null,
       "published_at": "2025-10-12T17:20:02.000Z",
       "summary": "Moscow has warned of the risk of escalation if Kyiv is provided with the US-built long-range missiles. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Madagascar presidency says attempt to seize power under way",
-      "url": "https://www.bbc.com/news/articles/cd070pn4g07o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b46b/live/e1628320-a774-11f0-928c-71dbb8619e94.jpg",
-      "published_at": "2025-10-12T17:12:54.000Z",
-      "summary": "An army unit claimed it had taken over leadership of the military command and was now in control of all the armed forces."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1632,16 +1672,6 @@
       "summary": "Israeli settlers set up caravans a few hundred meters from the West Bank Palestinian village of Umm al-Khair in August and began building infrastructure. The initial stages of prepping the ground for the outpost were supervised by Yinon Levy, a settler who shot and killed a Palestinian activist and "
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Palestinian cop who joined lynching of 2 Israeli reservists to go free in Gaza deal",
-      "url": "https://www.timesofisrael.com/palestinian-cop-who-lynched-2-israeli-reservists-to-go-free-as-part-of-gaza-deal/",
-      "image": null,
-      "published_at": "2025-10-12T15:56:53.000Z",
-      "summary": "Victim's brother calls release of Raed Sheikh 'inconceivable' so close to 25th anniversary of Ramallah police station lynching, in which cop joined murderous mob\nThe post Palestinian cop who joined lynching of 2 Israeli reservists to go free in Gaza deal appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1680,16 +1710,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-d8f1-d8a7-afdd-fffd5edc0001/88/21/d7e48a8d49ff882ce64c002beed5/096711.jpg?height=81",
       "published_at": "2025-10-12T15:34:19.000Z",
       "summary": "Netanyahu also cited another planned diplomatic meeting, which he described as 'urgent and highly important,' with details to be shared separately with the prosecution and judges. He further asked to shorten his testimony on the first day of the Knesset's winter session, but was denied the request"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Spy Eli Cohen&#8217;s remains to be transferred to Israel soon from Syria &#8211; report",
-      "url": "https://www.timesofisrael.com/spy-eli-cohens-remains-to-be-transferred-to-israel-soon-from-syria-report/",
-      "image": null,
-      "published_at": "2025-10-12T15:31:38.000Z",
-      "summary": "Cohen's widow Nadia, responding to Saudi outlet's report, says Mossad unaware of plans to return his body, which was buried in Damascus after his execution in 1965\nThe post Spy Eli Cohen&#8217;s remains to be transferred to Israel soon from Syria &#8211; report appeared first on The Times of Israel."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2979,26 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856833",
       "image": null,
       "published_at": "2025-06-07T01:27:25.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Trump signs orders to bolster US drone defenses, boost supersonic flight",
-      "url": "https://www.jpost.com/breaking-news/article-856831",
-      "image": null,
-      "published_at": "2025-06-07T01:04:16.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Mistakenly deported man Abrego Garcia returns to US to face charges",
-      "url": "https://www.jpost.com/breaking-news/article-856827",
-      "image": null,
-      "published_at": "2025-06-06T23:18:04.000Z",
       "summary": ""
     }
   ]
