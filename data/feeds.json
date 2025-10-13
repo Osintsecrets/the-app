@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-10-13T18:12:28.939Z",
+  "generated_at": "2025-10-13T18:44:13.854Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Bipin Joshi, Nepali hero claimed dead, among deceased hostages returned in Hamas list",
+      "url": "https://www.jpost.com/israel-news/article-870374",
+      "image": null,
+      "published_at": "2025-10-13T21:31:37.000Z",
+      "summary": "Bipin Joshi, a Nepali national kidnapped just weeks after arriving in Israel for a work program, is among the four deceased hostages returned by Hamas on Monday. "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,7 +25,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "IDF escorts bodies of four slain hostages returned to Israel after two years in captivity",
+      "title": "IDF returns bodies of four slain hostages to Israel after two years in Hamas captivity",
       "url": "https://www.jpost.com/israel-news/article-870370",
       "image": null,
       "published_at": "2025-10-13T19:54:08.000Z",
@@ -62,6 +72,16 @@
       "summary": "While rebuilding Gaza and discussing the Palestinian future are important steps, the second phase of the ceasefire in Gaza remains unclear. "
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UK's MI5 warns politicians they are targets of Russia and Chinese spying",
+      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/uks-mi5-warns-politicians-they-are-targets-russia-and-chinese-spying_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
+      "image": null,
+      "published_at": "2025-10-13T18:35:42.000Z",
+      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npBy Andrew MacAskill/ppLONDON (Reuters) -Britain's domestic spy agency MI5 issued a rare public warning to members of parliament on Monday that they a..."
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -70,6 +90,76 @@
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/685098",
       "published_at": "2025-10-13T18:35:14.000Z",
       "summary": "\"Now the rebuilding begins,\" Trump said, adding that reconstructing Gaza would require Hamas to be demilitarized."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Situation remains tense on Pak-Afghan border; hostilities can resume ‘at any time’: Khawaja Asif",
+      "url": "https://www.dawn.com/news/1948697/situation-remains-tense-on-pak-afghan-border-hostilities-can-resume-at-any-time-khawaja-asif",
+      "image": "https://i.dawn.com/large/2025/10/132252376a7409f.webp",
+      "published_at": "2025-10-13T18:28:27.000Z",
+      "summary": "Defence Minister Khawaja Asif said on Monday that as of today, there are “no ties” between Islamabad and Kabul in the fallout of Afghanistan’s unprovoked attack on the Pak-Afghan border over the weekend.\n“It’s a stalemate right now. You can say there are no active hostilities, but the environment..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Here’s the latest.",
+      "url": "https://www.nytimes.com/live/2025/10/12/world/israel-gaza-hostages-trump/heres-the-latest",
+      "image": null,
+      "published_at": "2025-10-13T18:21:08.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "After living hostages returned, Hamas returns bodies of four slain hostages",
+      "url": "https://www.israelnationalnews.com/news/416239",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1200812.jpg",
+      "published_at": "2025-10-13T18:19:00.000Z",
+      "summary": "Four deceased hostages’ coffins transferred to Israel after being received by the IDF and Shin Bet from the Red Cross. Military tribute held in Gaza before transfer to Israel for identification. Israel urges Hamas to release all the remaining hostage bodies."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "חמאס הפר את ההסכם: אלה 24 החטופים החללים שנותרו מאחור",
+      "url": "https://www.ynet.co.il/news/article/rkphet9tgg",
+      "image": null,
+      "published_at": "2025-10-13T18:19:00.000Z",
+      "summary": "\"תבטיחו שלא תשכחו אותנו\", קרא רובי חן, אביו של איתי, בעצרת הענק - והקהל הבטיח להמשיך להילחם. יומיים לאחר מכן קיבלה ההבטחה הזו משנה תוקף: לטענת חמאס, נמסרו היום רק 4 חטופים חללים, ו-24 נותרו מאחור, בהם גם תמיר נמרודי - שמוגדר כמי ש\"יש חשש כבד לחייו\". השמות, הפנים, הסיפורים והמאבק"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hamas executes suspected collaborators in Gaza after hostage release",
+      "url": "https://www.israelnationalnews.com/news/416245",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1184035.jpg",
+      "published_at": "2025-10-13T18:16:15.000Z",
+      "summary": "Just hours after releasing hostages, Hamas executes Gazans accused of collaborating with Israel. The public killings filmed by onlookers, are part of a crackdown on internal dissent."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Leaders of Egypt, US, Turkey, Qatar sign Gaza peace declaration - الهيئة العامة للاستعلامات",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTlprckxfay01b3hLTjl1dVRIYktsQl9DT2RpUnd5MlNMV0ZzbmE1LWxSWlVmcmpna3EwUWZERVMtcUFhSW1HSWZaUG5wQjEwZE0xSkNZOW0yeWlwcHF1ek1rWmtpeDY4VHRDSHdDd3FrZjBKRlZvalZ4OHhfYVdzSHoxMXNxNzh1Um9QbE9GdktZN044Q25vX092bDNvRGlxcXZ3?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T18:16:06.000Z",
+      "summary": "Leaders of Egypt, US, Turkey, Qatar sign Gaza peace declaration  الهيئة العامة للاستعلامات"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia calls for restraint amid Pakistan-Afghanistan border clashes",
+      "url": "https://www.aljazeera.com/news/2025/10/13/russia-calls-for-restraint-amid-pakistan-afghanistan-border-clashes?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-13T18:09:41.000Z",
+      "summary": "Moscow, which has sought to increase its influence in Afghanistan, says it welcomes stabilisation along the border. "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -85,11 +175,21 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Nepal Vs Qatar LIVE Score, T20 World Cup Asia Pacific Qualifier Super Six: Lamichhane Takes His Third Wicket - Outlook India",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVG92SV82LW5mRUhDalNxd0Y4eTJJZGhNa0cwZzVFdGpHdkl0a2hXTnNRdTc2MUVFbHFmT2JCaEh5U0VkV0pDX3F2ektHdVVpaUFtTUY1Y3VLd0EzTlVaSElSZS1JY19wOHJONDY0UTJaNTRzV1lFTkdGYkh2NnMyQzRSNUh1QjZGZ1otRklTQmlWUEpROU1XODBGaEJ5bXctTkl1X1VaVncyeHJjVHdTeFF1OGVRaVlYTmJsUEpOeXM5Z9IBzwFBVV95cUxQbWNjSDcyZlV5VkhqSmx4dnJXRzBjbzFEQXNxSkJEZW5iVzRpOUNIZWE1cDhfMlo5blZPbEFXQ09kbTBwZFBYM3FuZDdXX19HSjlLVDZQOURvSFBPam5kOENxNGNUalVHT2o4QVhMQi02aUdic3BkVEl2YlFlRzhfYzBKN2UxeDJxdTBQdjVETFpaMGdITVYwQWU4ZTBOMVRNb3NjdldiR3JydzhnY0NteHVSS2g0WnNicTBVNjM3cFlJbE1HeFlsMjdoUE5rYVk?oc=5",
+      "title": "Outrage Over Taliban Presser, But Radio Silence Over Mamata's Remark Blaming The Victim - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1ZPU2hYRGpQdVNSWDFPTkFTS1BTUnBMQ1NaSWx4TEdhc0VlUlc5eWZrREJMUlJxN0VQa2pieHc3UkVZeDhra2xOZDUzMXhHWW02OUJhX19VNTNHbHl3cnJKSjYzRG1YaktPUEVfOEFnUC1aZ0JEOG8tOVFqQmZUSlk2V3hMZ25PRDNGMzhoQkpNUGUyWVhwZ2Nnd1JwRmpOMmo3YlRxQldieGQ0WkMtMF9CbXNtS1NtMDJSX0ZiUQ?oc=5",
       "image": null,
-      "published_at": "2025-10-13T18:05:02.000Z",
-      "summary": "Nepal Vs Qatar LIVE Score, T20 World Cup Asia Pacific Qualifier Super Six: Lamichhane Takes His Third Wicket  Outlook India"
+      "published_at": "2025-10-13T18:07:08.000Z",
+      "summary": "Outrage Over Taliban Presser, But Radio Silence Over Mamata's Remark Blaming The Victim  NDTV"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "‘An environment of terror’: deadly resurgence of Pakistan Taliban gathers pace - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzRXM2pGbnk4UVRjY1A5UHlKUlR4UzNnSVoyZ2J1S2J5SWtiS1pQZ1liTmtpRjdSUkJwYWFpWk5LNHhqVXdGS005Rk1uTFNiQmt0ejliVmxZVkVESzgwd3JPb0lVaEFIUDlXYkpXa1JSeHVPT0o0M3VkOGdsVkNja1JSRzFjU0tHTXJ3U3hLNkV6WEN2UFRDdmhIUGwzamp6ckt2UDZZc252MENYMW5zS3RZMEFxbThIMEJDR2dR?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T18:07:00.000Z",
+      "summary": "‘An environment of terror’: deadly resurgence of Pakistan Taliban gathers pace  The Guardian"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -100,6 +200,16 @@
       "image": null,
       "published_at": "2025-10-13T18:04:55.000Z",
       "summary": "בפגישה עם בני משפחתו סיפר מעט עמרי על מה שעבר עליו ב-738 הימים שבהם הוחזק בשבי חמאס ברצועת עזה. \"הוא ידע כמה ימים בדיוק הוא בשבי, והוחזק גם במנהרה וגם מעל הקרקע\", שיתף אחיו נדב. \"הוא שיחק קלפים עם השובים שלו ולפעמים בישל להם\". אביו של אביתר דוד: קלט שמנסים להאביס אותו, ואכל לאט"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "H.H. Sheikh Mansour leads UAE delegation to Sharm El Sheikh Peace Summit - Dubai Eye 103.8",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0g1X1JWMWlYbVpwbW1iWUZSb05fVlAwRkZrc241VUpId0FwQjNzSGN3d0s2TkVreDE1d2NqcTZ1MFNzQ0NnUkNOR1JlRTU1RGdxb3NnWnkwRmUzUUQtQ3RQeVJVX1htLXBDWWNLYXEyVXJnb01GUzFhVS1HeTR6amI2anNpeUZDSUdJUnh2dFpaRlhZLUZCZHFDUUh3U203SUplM1kzRC1TU2VhSF9icmtB?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T17:59:52.000Z",
+      "summary": "H.H. Sheikh Mansour leads UAE delegation to Sharm El Sheikh Peace Summit  Dubai Eye 103.8"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
@@ -162,14 +272,14 @@
       "summary": "When diplomacy meets discrimination: India's balancing act with Taliban  Deccan Herald"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2025/10/12/world/israel-gaza-hostages-trump/heres-the-latest",
+      "title": "Türkiye, Egypt, Qatar and US sign document on Gaza ceasefire deal - TRT Français",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Db2V6TkFHc1BpRmpYWEU4MHVoMDMzc0h3T19Xd1hZVHBQMElfeFBMaTdOTDNjN3VzV1IyanJzVm1UcGY4SkR3bnpNSUdUTFRpNW14SE9Lbmg1VWJ2Zms3WHVZYTU?oc=5",
       "image": null,
-      "published_at": "2025-10-13T17:50:29.000Z",
-      "summary": ""
+      "published_at": "2025-10-13T17:48:06.000Z",
+      "summary": "Türkiye, Egypt, Qatar and US sign document on Gaza ceasefire deal  TRT Français"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -180,6 +290,26 @@
       "image": null,
       "published_at": "2025-10-13T17:43:27.000Z",
       "summary": "How to Watch: Qatar vs United Arab Emirates in the AFC Asian Qualifiers on beIN SPORTS  beIN SPORTS"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Zelenskyy to meet Trump in DC as Ukraine seeks defence, energy support",
+      "url": "https://www.aljazeera.com/news/2025/10/13/zelenskyy-to-meet-trump-in-dc-as-ukraine-seeks-defence-energy-support?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-13T17:42:57.000Z",
+      "summary": "Ukraine sends delegation to Washington to talk defence and energy before Zelenskyy&#039;s White House visit."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump-Xi meeting still on despite trade tensions, says US’s Bessent",
+      "url": "https://www.aljazeera.com/news/2025/10/13/trump-xi-meeting-still-on-despite-trade-tensions-says-uss-bessent?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-13T17:42:38.000Z",
+      "summary": "Secretary of the US Treasury says Trump may call off his 100 percent tariff threat on China as negotiations continue."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
@@ -255,6 +385,16 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
+      "title": "Leaders of Egypt, Qatar, Turkey and US sign Gaza deal - Mehr News Agency",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRzdtMERKc1FvYmUtUlZQazdTUkx6VVZQREZleTNNNE9US0hFNnMwR0xUREFvdElEd1UxOFowbS1qaGxmUGNTcWZGMVpFRXctemtxbGtSS2lBM3B1TUJPRnpFOG8yU2RSRTVUalRfcjMzS2NIS21XZXQ4TFc2ZmYxNlU2bnNVSXJIcHNTQm4wbU7SAUtBVV95cUxQSGtNbGVWa0ZDdEFaRUJCc2s1ZG50RjFCQUNYWHU0R084MTh1YWVpa3BGa3ptMWM5amJyZk1NVnZiYldRVlVyVzlHSU0?oc=5",
+      "image": null,
+      "published_at": "2025-10-13T17:22:00.000Z",
+      "summary": "Leaders of Egypt, Qatar, Turkey and US sign Gaza deal  Mehr News Agency"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
       "title": "Robert Reich: Really? Qatar Gets Its Own Air Force Facility Inside the United States? Why? - OB Rag",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObzd5OFRhYXktbGdnUFFFRm9ERVpscFJZSm9qeF9nTEtaRWtMTnMyTmVBX2tPbUY1dWI3eUFoNmlvYXZETElKbzc2Umsxb21WS0VsNmJQOFB5RWlya3A2SjBpUC10Q09INk9NWEc5N21QaUZnZ19pQkhna2VBTFA1WnZEOGlqZlc4akpKV3JxaTJqcENIcjdRSW85YTkwcEp6dk51NkFwS3BlakNfc1FYYVFidw?oc=5",
       "image": null,
@@ -290,16 +430,6 @@
       "image": null,
       "published_at": "2025-10-13T17:17:32.000Z",
       "summary": "מאז שבנו נחטף ניסה טל קופרשטיין, שמתמודד עם מוגבלות ומרותק לכיסא גלגלים, להשתקם עבורו. הוא למד לדבר מחדש - ואפילו לעמוד. \"אני מדבר קצת, מתקדם, אבל עכשיו צריך לשקם חיים שלמים\", אמר ל-ynet. כעת הם מבקשים את עזרת הציבור כדי לצאת למסע משותף: \"זה הצעד הנכון, צריך לשקם חיים שלמים\""
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "After living hostages returned, Hamas returns bodies of four slain hostages",
-      "url": "https://www.israelnationalnews.com/news/416239",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1200812.jpg",
-      "published_at": "2025-10-13T17:16:00.000Z",
-      "summary": "Four deceased hostages’ coffins received by the IDF and Shin Bet. A military tribute will be held in Gaza before transfer to Israel for identification. Israel urges Hamas to fulfill the agreement and release all the remaining hostage bodies still held in captivity."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -392,16 +522,6 @@
       "summary": "Taliban Minister calls for easing visa regime, enhanced trade  The Hindu"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Egypt, Qatar, Turkey sign Gaza ceasefire document with Trump - Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsTlB2MnpYLWVDODJCSlo0d2NLNlNabV9SQS1DSGpqeDAyOWI2WEJDWE1ncm5CQUpfTVVNNm1NODA5S1oyUG52cEoxNS1DNlJvUGt6S0pyMmE5c1Bs?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T16:54:56.000Z",
-      "summary": "Egypt, Qatar, Turkey sign Gaza ceasefire document with Trump  Arab News PK"
-    },
-    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -445,11 +565,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Israel receives 4 hostages&#8217; bodies from Red Cross; demands Hamas hand over other 24",
+      "title": "Israel receives 4 hostages&#8217; bodies from Red Cross; demands Hamas hand over the other 24",
       "url": "https://www.timesofisrael.com/israel-accuses-hamas-of-violating-deal-after-group-says-its-only-releasing-4-bodies/",
       "image": null,
       "published_at": "2025-10-13T16:49:17.000Z",
-      "summary": "Hamas silent on fate of 24 other slain hostages; Katz: Any deliberate violation of deal to be 'met accordingly'; IDF spokesperson says efforts on to secure more bodies\nThe post Israel receives 4 hostages&#8217; bodies from Red Cross; demands Hamas hand over other 24 appeared first on The Times of Is"
+      "summary": "Hamas silent on fate of 24 other slain hostages; Katz: Any deliberate violation of deal to be 'met accordingly'; IDF spokesperson says efforts underway to secure more bodies\nThe post Israel receives 4 hostages&#8217; bodies from Red Cross; demands Hamas hand over the other 24 appeared first on The T"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -502,26 +622,6 @@
       "summary": "Crypto News Today: Crypto.com Secures UAE SVF License to Enable Crypto Payments for Government Fees  livebitcoinnews.com"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "'We have peace in the Middle East': Trump signs Gaza declaration - The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREQwamprWVBON2NBVDNzS3hSVjJKdVR5TkJHN0lLcWxBX1FsOTcwSkZma1l5VzRCMnlqSlIwOUVnOFVfZ0lMRXExRS1TbTdzTlJ1SjFDX1dvREswWE5FNi1TZVdlcjRJRlh0elRKdkVmWFdlcVQ5WWNHell4ZlJkeE91LWFWY3FtWmFJUzBWcV85OUk2MmsxX0x30gGnAUFVX3lxTFBqXzJKcVh5RTdYVDBlLU9LczhOMWZaRml5TXlTTE8zaXZYRElmWVcxVGFIbFU0aElZQzlNR0dWRkdwY1MyeGVqd0pRZlZtQmdNQ3RUSWo4WW5VUjlDSUQwcmw2eDJBTzdvU291S3JiRGFqUGVRQzhNVFU5VTVabTYxTk4yeUlfZzNQaG15WDdURHdFWlB6U040TDhMTTdvb0tYcmNnaEln?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T16:45:20.000Z",
-      "summary": "'We have peace in the Middle East': Trump signs Gaza declaration  The New Indian Express"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Mediators Egypt, Qatar and Turkey sign with Trump document on Gaza ceasefire deal By Reuters - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRW1PT1dNSEZUVWlTNHFWazNLX0ZqYXluRVJ2bWpQMkJXR2pEdXY3aVl6NVhRRUlkQnExMFdkdUs4TU41SUlrRW1QM2ZmTnQwX2QwejhuY3h5X0c4Z25KM3I2cVlFMGM5cDRKM3lsMHQwRFFUUkZXQlN2dnlHMTkxQU9jVmZLc3FDQjd3czI1c2xGRDJnQXZCMnpsaE9DZDRlUlBFNncwb2FoOF9hbDR2ZUZ6SmxsaFptejlWTHViQTR6dmRTdzhxWFpB?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T16:43:07.000Z",
-      "summary": "Mediators Egypt, Qatar and Turkey sign with Trump document on Gaza ceasefire deal By Reuters  Investing.com"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -572,56 +672,6 @@
       "summary": "Israel is releasing nearly 2,000 Palestinians, political prisoners and detainees. Here&#039;s a look at who they are."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Mediators Egypt, Qatar and Turkey sign with Trump document on Gaza ceasefire deal",
-      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/mediators-egypt-qatar-and-turkey-sign-trump-document-gaza-ceasefire-deal_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
-      "image": null,
-      "published_at": "2025-10-13T16:35:41.000Z",
-      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npCAIRO (Reuters) -Mediators Egypt, Qatar and Turkey signed on Monday with U.S. President Donald Trump a document on the Gaza ceasefire deal. /ppThe do..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Eurovision Song Contest organizer calls off November vote on Israel participation",
-      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/eurovision-song-contest-organizer-calls-november-vote-israel-participation_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
-      "image": null,
-      "published_at": "2025-10-13T16:35:41.000Z",
-      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npBy Olivia Le Poidevin and Francois Murphy/ppGENEVA/VIENNA (Reuters) -Eurovision Song Contest organisers will no longer meet online in November to vot..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Türkiye, Egypt, Qatar and US sign declaration securing Gaza cease-fire | Daily Sabah - Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXZOUDNTYlF4OUNpUTd6bFZqa3RoUDg4cDhKMGVjUmRnQ1lCaUV5R05GNm5JZzZuVFNyZ0J5bUVwb1dBbF8xYnRIc2g4cEliUXBBYS1rSmFOTUFTM2FGdXNXeFFLbGpfdlViSUVFS2dIbnhxMWRqdi04alNqbzVrWWRoQ3RzN1lfNGI4TDNHWTlHU0hwTldQY3k1Y0ZyXzVUalNSN21NcnctNkp4NzM00gG0AUFVX3lxTE8tWFVKb3RvRkNNRkx0a1A3UUNubFhCUEFFN2JQbHJlMHFOa0ZDVHFrVW9jSEo0TURaRVFqSlFqYXBfSGhES3Q2aWo2emxxNlpxOEk0M1dzRUZCbWxpNVEzZWtuZjBDbzh4X2tFaUZ3bWVtYlBSc0s4aXZHYlpSNGVRWW5hT21ZMGxxZU9HR21iU3RmSUdBdzFvWE9NRTBDenpTUU92d2t1NVpZS0ZYLUhpaFlQRA?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T16:33:00.000Z",
-      "summary": "Türkiye, Egypt, Qatar and US sign declaration securing Gaza cease-fire | Daily Sabah  Daily Sabah"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Declining Education Quality: The Struggles of Afghanistan’s School System Under Taliban Rule - 8am.media",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMDY1aVlPZDBCMTZ0a1hicEdVcUdMckYwdkFuMEVwSU1mNnlmT1l0aVVYVFZTaUk0cFBYZExLYUx6WUV6b0ZVYTZBNDY2X0d5d3FIdWhFbmc0MTJXejhSaGJnaEZmaEdSX3hBUE96N3dMakcwaFZzWG5hY0FuMWF0VkR6VkZSSDlfakJMdndyNjl0Zm5vVm5PNUlwV2cyTHVGYmkyM3NkV045cVZPY2Y4N1QyWQ?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T16:32:00.000Z",
-      "summary": "Declining Education Quality: The Struggles of Afghanistan’s School System Under Taliban Rule  8am.media"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Mediators Egypt, Qatar and Turkey sign with Trump document on Gaza ceasefire deal - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQXphNWtiWnZDTnZ3V3RITWE4bFBZX2dVWm9PQUNoYldyTk1MMGo1czI4N3VqWlZHT3FsdnFWZ3l6TnRjbm5scUNKNWdYNzFXSGZ1dm5NcC1SdjJUWElqVDBGTllmTDZ6YmxnZWM2c3RHRUY2YjJndnY1cE9LZzR3WmZtTjN1bGl1YVh0RW41cWxOY1lIakFjVmthU3VuR2pGOEd2TXZHeGs0c3dpLXFFRHl6SzdUUTR2bXhldXA0ZUJsYklLRWc?oc=5",
-      "image": null,
-      "published_at": "2025-10-13T16:31:52.000Z",
-      "summary": "Mediators Egypt, Qatar and Turkey sign with Trump document on Gaza ceasefire deal  Reuters"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -659,7 +709,7 @@
       "url": "https://www.timesofisrael.com/israel-frees-nearly-2000-palestinian-prisoners-including-hundreds-of-terror-convicts/",
       "image": null,
       "published_at": "2025-10-13T16:14:18.000Z",
-      "summary": "Prisoners released after Hamas frees 20 living hostages; among those freed are dozens of high-profile terrorists sentenced to life in jail; 154 of the worst offenders deported to Egypt \nThe post Israel frees nearly 2,000 Palestinian prisoners, including hundreds of terror convicts appeared first on "
+      "summary": "Prisoners released after Hamas frees the last 20 living hostages; among those released are dozens of high-profile terrorists sentenced to life in jail; 154 of the worst offenders deported to Egypt \nThe post Israel frees nearly 2,000 Palestinian prisoners, including hundreds of terror convicts appear"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1142,16 +1192,6 @@
       "summary": "אחרי שקרא בעבר כמה פעמים לביטול משפטו של ראש הממשלה, סטה הנשיא האמריקני מנאומו הכתוב במליאת הכנסת והביע שוב את עמדתו בנוגע למעשים הפליליים שמיוחסים לנתניהו: \"סיגרים ושמפניה, למי בכלל אכפת מזה?\". אחר כך פנה במפתיע להרצוג והעלה את סוגיית החנינה. כך הגיבו נתניהו וחברי הכנסת"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "צנום ורזה, אבל על הרגליים: אביתר שוב חופשי - ותועד לראשונה מאז סרטון השבי המזעזע",
-      "url": "https://www.ynet.co.il/news/article/hktnl0056xg",
-      "image": null,
-      "published_at": "2025-10-13T12:50:21.000Z",
-      "summary": "אביתר דוד יצא עם חבריו לבלות במסיבת הנובה, וכבר ב-7 באוקטובר תועד ברצועה יחד עם חברו הטוב גיא גלבוע-דלאל, ששוחרר גם הוא היום יחד עם עוד 18 חטופים חיים. \"אחרי שנתיים של ייסורים - הוא כאן\", מסרה משפחתו"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1432,26 +1472,6 @@
       "summary": "One of the prisoners slated for release is Dr. Hossam Abu Safiya, director of the Kamal Adwan Hospital in northern Gaza, who was detained by the IDF in December 2024, and whose arrest led to harsh international criticism of Israel"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump hails ‘great and beautiful day’ in Knesset book signing",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/13/trump-hails-great-and-beautiful-day-in-knesset-book-signing?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-10-13T10:30:29.000Z",
-      "summary": "US President Donald Trump wrote of a ‘new beginning’ as he signed a visitor book at Israel’s parliament."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Hamas and Israel exchange captives, detainees before Gaza summit",
-      "url": "https://www.aljazeera.com/news/2025/10/13/hamas-and-israel-begin-prisoner-exchange-before-gaza-summit?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-10-13T10:29:05.000Z",
-      "summary": "Celebrations in Israel, Gaza and occupied West Bank as world leaders gather in Egypt for international conference."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1460,16 +1480,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d00a/live/8aa4f8f0-a7fc-11f0-928c-71dbb8619e94.jpg",
       "published_at": "2025-10-13T10:27:56.000Z",
       "summary": "Female reporters were invited after being excluded from Taliban minister Amir Khan Muttaqi's first event in Delhi."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Freed Palestinian prisoners greeted by cheering crowd",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/13/freed-palestinian-prisoners-greeted-by-cheering-crowd?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-10-13T10:26:28.000Z",
-      "summary": "Palestinian prisoners released from Israel have been greeted by huge crowds in the occupied West Bank."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1720,16 +1730,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-dae1-da09-a1bb-daebdf490000/fe/74/d34318394fe092eb5bc24773372a/274156-2.jpg?height=81",
       "published_at": "2025-10-13T03:00:27.000Z",
       "summary": "Netanyahu's crusade to rewrite history will be on display in the Knesset on Monday during a festive session with Trump. The prime minister will claim he heroically withstood pressures from home and abroad, but U.S. pressure left him no choice but to concede"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "'IDF is covering up the investigations,' IDF Brig.-Gen in charge of Nova probe accuses Halevi",
-      "url": "https://www.jpost.com/israel-news/article-870284",
-      "image": null,
-      "published_at": "2025-10-13T02:44:03.000Z",
-      "summary": "Brig.-Gen. Oren Solomon called the IDF's investigation on October 7 a \"national scandal,\" and an \"attempt at a cover-up.\" "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
