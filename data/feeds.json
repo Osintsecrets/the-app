@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-10-20T15:09:29.800Z",
+  "generated_at": "2025-10-20T15:37:44.137Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Tel Aviv University scientists discovers key to protect nerves",
+      "url": "https://www.jpost.com/israel-news/article-871077",
+      "image": null,
+      "published_at": "2025-10-20T18:27:52.000Z",
+      "summary": "Researchers identified a protein that limits myelin formation, a breakthrough that could lead to new treatments for multiple sclerosis, Alzheimer’s, and other neurological disorders."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -25,17 +35,17 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Clashes erupt in Knesset opening session on Supreme Court president title ahead of Netanyahu speech",
+      "title": "Knesset erupts over speaker's jab at Supreme Court chief, Netanyahu expects more peace deals",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-871066",
       "image": null,
       "published_at": "2025-10-20T17:32:53.000Z",
-      "summary": "“I am calling out to heaven, everyone, enough,” Herzog told the plenum. “I will not accept basic disrespect.”"
+      "summary": "Knesset speaker introduced Supreme Court president as a judge, drawing outrage • Netanyahu: Expect to forge additional peace agreements in the region"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Next PM of Gaza? Tony Blair can be part of Gaza peace process, spokesman says - interview",
+      "title": "Next PM of Gaza? Tony Blair can be part of Gaza peace process, ex-spokesman says - interview",
       "url": "https://www.jpost.com/international/article-871071",
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2720,w_4089/686023",
       "published_at": "2025-10-20T17:28:57.000Z",
@@ -55,7 +65,7 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Bahraini ambassador Eitan Na’eh on rebuilding trust and diplomacy across the Gulf",
+      "title": "'It will take patience,' Israel's envoy to Bahrain Eitan Na’eh says on restoring Gulf's trust",
       "url": "https://www.jpost.com/middle-east/article-871068",
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_624,w_782/686017",
       "published_at": "2025-10-20T16:50:37.000Z",
@@ -122,10 +132,110 @@
       "summary": "Three killed in Gaza as Israeli fire tests fragile ceasefire. US envoys Kushner and Witkoff arrive in Israel to push forward the Trump-brokered truce and launch its second phase."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Japan allows over-the-counter 'morning after' pill for the first time",
+      "url": "https://www.bbc.com/news/articles/c4gwxkdkyn0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e853/live/f3d90410-adbf-11f0-8594-135ad08fdf35.jpg",
+      "published_at": "2025-10-20T15:33:38.000Z",
+      "summary": "Women will be able to get the pill without prescription, but a pharmacist will still need to be present."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "'A slippery slope': Average number of Israeli emigrants doubled since Netanyahu returned to power",
+      "url": "https://www.haaretz.com/israel-news/2025-10-20/ty-article/.premium/average-number-of-israeli-emigrants-doubled-since-netanyahu-returned-to-power/0000019a-01c5-d1c4-a99f-73f7394e0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-01d2-dfc6-a3bf-f1f60efe0000/ad/ef/95bdb9064f9d85618cd971a4f160/541540.jpg?height=81",
+      "published_at": "2025-10-20T15:29:57.000Z",
+      "summary": "The Knesset report found that 82,000 Israelis left the country in 2023, with the same level estimated for 2024 ■ Opposition MK Gilad Kariv: 'Unfathomable' that Netanyahu gov't not addressing issue"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אמסלם לעג לבן ארי בכנסת: \"די לקרקר, מצחצחת נעליים ללפיד\"",
+      "url": "https://www.ynet.co.il/news/article/h10pxa70gg",
+      "image": null,
+      "published_at": "2025-10-20T15:29:42.000Z",
+      "summary": "עימות במליאה ביום פתיחת המושב: השר מהליכוד הטיח בחברת הכנסת מיש עתיד כי היא \"האדם הכי נמוך ושפל בכנסת\", היא השיבה לו: \"לא תדבר אליי ככה, שאוויש\". אמסלם גם הודה: יש לי מחלוקת עם רה\"מ - עמית לא נשיא עליון"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Defining and Stabilizing Lebanon’s Borders - ISPI",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT2dDbkdfSGplQzNLTWltT2gtZDRkOHlkQnNrMjZmWElSaG1fajFYcUxpazhDMWZKWEJJdy1NT3BBNTdUUjN1TjdfVUJDYzBkOXZKMXl1ZUVOOGZzNWNtOUU5c0I4and0NFZfVlozR2dGUl83X3p1bVF4QlFpWjNibnlfMm5nYkRTcFF2ZTJiM2dMcTg?oc=5",
+      "image": null,
+      "published_at": "2025-10-20T15:29:19.000Z",
+      "summary": "Defining and Stabilizing Lebanon’s Borders  ISPI"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "An International Hands-on Approach to Lebanon - ISPI",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0xRY2pac1lyV0ZUQWNjekYzVFNoc2V5VHhBaGpOeFhWUExiUDZlMDVhcnlUeHY1RjdfQkFRMzlTRVMweGhEUE9YZ2JOb3BRWnJKMGlLUDJpQVdkT3lERXVTbmE5WWhNVEh3TXc3NzY3cEtfRzJPLVJDM0ZXWTFsRzFDYUxHbWtrUUdIcFpPLWtYTHpWbHAyRw?oc=5",
+      "image": null,
+      "published_at": "2025-10-20T15:29:02.000Z",
+      "summary": "An International Hands-on Approach to Lebanon  ISPI"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Peace in the Levant?: Syria and Lebanon at a Crossroads - SyriacPress",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSy1BRUlEajJ0UFpwczlLXy1OeVZUMGxKWlpfa2lxOHVMQ004TUsyVEM5SXZkZjhocVNkaGdTUS1uMkxpbm9mLWNocHNvY1ptYWJMblVhanZDVzduak1QZVRLSGpTdUhqMkVrMGw0dk1mZVI1UzhMbkp0djl2QlFPc1J0a1o1Mm5vYS1JczFEOHVnZVZFSEtFZ3Fn?oc=5",
+      "image": null,
+      "published_at": "2025-10-20T15:28:07.000Z",
+      "summary": "Peace in the Levant?: Syria and Lebanon at a Crossroads  SyriacPress"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "President Trump honors the memory of Rabbi Moshe Hauer",
+      "url": "https://www.israelnationalnews.com/news/416536",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1122124.jpg",
+      "published_at": "2025-10-20T15:26:17.000Z",
+      "summary": "The US President sent a letter to the grieving family and to the OU, in which he noted that the late rabbi 'dedicated his life to helping others and stood as a fierce advocate for the Jewish people.'"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "South Korea police seek warrants for 58 repatriated scam centre suspects",
+      "url": "https://www.aljazeera.com/news/2025/10/20/south-korea-police-seek-warrants-for-repatriated-scam-centre-suspects?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-20T15:16:43.000Z",
+      "summary": "The South Korean nationals were returned from Cambodia after being held for alleged links to &quot;pig butchering&quot; scams."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Khamenei tells Trump to &#8216;keep dreaming&#8217; US strikes destroyed Iran&#8217;s nuclear sites",
+      "url": "https://www.timesofisrael.com/khamenei-tells-trump-to-keep-dreaming-us-strikes-destroyed-irans-nuclear-sites/",
+      "image": null,
+      "published_at": "2025-10-20T15:13:31.000Z",
+      "summary": "Supreme leader also rebuffs US president's appeal for negotiations, calling his 'interventions' in Islamic Republic's nuclear program 'inappropriate, wrong and coercive'\nThe post Khamenei tells Trump to &#8216;keep dreaming&#8217; US strikes destroyed Iran&#8217;s nuclear sites appeared first on The"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Trump’s peace plan: US Envoy highlights Syria, Lebanon, and Saudi Arabia",
+      "url": "https://www.israelnationalnews.com/news/416535",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1197437.jpg",
+      "published_at": "2025-10-20T15:10:37.000Z",
+      "summary": "US Ambassador Thomas Barrack outlined Trump’s next peace steps, urging Syria’s reintegration, Hezbollah’s disarmament, and noting Saudi Arabia is nearing Abraham Accords accession."
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "The Turks on the border: Erdogan gains foothold in Gaza under Phase II ceasefire plan",
+      "title": "Turks on the border: Erdogan gains foothold in Gaza under ceasefire plan's Phase II",
       "url": "https://www.jpost.com/middle-east/article-871045",
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3543,w_5315/685133",
       "published_at": "2025-10-20T15:09:32.000Z",
@@ -135,11 +245,31 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Israel and Turkey navigate uneasy cooperation as Ankara joins Gaza peace plan",
+      "title": "Israel, Turkey navigate uneasy cooperation as Ankara joins Gaza peace plan - analysis",
       "url": "https://www.jpost.com/middle-east/article-871037",
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/642477",
       "published_at": "2025-10-20T15:08:34.000Z",
       "summary": "Experts argue that Washington’s leverage pushed Jerusalem to accept a Turkish role that it\nwould otherwise have resisted"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "China sets goal to become a “modern socialist power”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/10/20/china-sets-goal-to-become-a-modern-socialist?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-20T15:04:27.000Z",
+      "summary": "So, the next two five-year plans are very, very important to see China&#039;s achievement of global competitiveness.”\n"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "CM Afridi blames Centre’s ‘flawed policy’ for terrorism resurgence in KP",
+      "url": "https://www.dawn.com/news/1950159/cm-afridi-blames-centres-flawed-policy-for-terrorism-resurgence-in-kp",
+      "image": "https://i.dawn.com/large/2025/10/201627245739e20.webp",
+      "published_at": "2025-10-20T15:03:58.000Z",
+      "summary": "Khyber Pakhtunkhwa Chief Minister Sohail Afridi on Monday claimed that the resurgence of terrorism being witnessed in the province was due to the “flawed policy” of the federal government.\nThe PTI, which has been in power in KP since 2013, opposes military operations, which are also resisted by t..."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
@@ -242,6 +372,16 @@
       "summary": "There's no room for Jews in Mamdani’s New York City. Opinion."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Iraq says some US military advisers will stay due to Daesh threat in Syria - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWxVcjk5dlRNOS1HUlNzQXVwSkJmNk5zMmNWd2V3Vy1wVk1CR015T3RJaXYtLS1CUzg3R0xkaVZOTU01MFhabnRja29vVDkyWmxUSHE5MldaZkJZOW5ZNnRCZnh5WEVDYWdsb284QW9kWXM4a3Z1MW1aRHAwZFVOV0hRZ19JS2NfZTJoSjJwekFNa2MySmJnX3o1LUUtZGJkeXZ1aDFOY01JaXlWZ1BmT19obk1ZcENvT0E?oc=5",
+      "image": null,
+      "published_at": "2025-10-20T14:35:21.000Z",
+      "summary": "Iraq says some US military advisers will stay due to Daesh threat in Syria  Gulf News"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -265,31 +405,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Israeli politicians clash in Knesset opening session - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1na1p5NXpXTWJaYzJqaEFIOGtFb25hRVNBT29yN1BrS3ZDd3Bmck95dVZFUHF3TjkxMjdxXzQ5dVIxQ1JRbmlFZVN2REZuRV9vZ01mRVA3RHpqalFiMFJtYVZlQ29hbnpWcm13YTdXQjl4Z0w2Si05d1J0bw?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T14:32:53.000Z",
-      "summary": "Israeli politicians clash in Knesset opening session  The Jerusalem Post"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
       "title": "Priority policies for an economic recovery in Lebanon - Middle East Institute",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQXzd6UUE3aXRlelBidy1scXdjSUkzMWVsNmI5MWZRUWhTVnM1MHV2bC1sOGRZaEU3R1hCLXdGV2xCM3p6UTB3S3hJb0VpaU5KTUFJSWxfX0t6SmhTY2tOVHgxWTR4QkU5aTZGelA5YUg5OEdndjM1R2pYTU9ZS2c2N1ln?oc=5",
       "image": null,
       "published_at": "2025-10-20T14:24:47.000Z",
       "summary": "Priority policies for an economic recovery in Lebanon  Middle East Institute"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "CM Afridi blames Centre’s ‘flawed policy’ for terrorism resurgence in KP",
-      "url": "https://www.dawn.com/news/1950159/cm-afridi-blames-centres-flawed-policy-for-terrorism-resurgence-in-kp",
-      "image": "https://i.dawn.com/large/2025/10/201627245739e20.webp",
-      "published_at": "2025-10-20T14:24:29.000Z",
-      "summary": "Khyber Pakhtunkhwa Chief Minister Sohail Afridi on Monday claimed that the resurgence of terrorism being witnessed in the province was due to the “flawed policy” of the federal government.\nThe PTI, which has been in power in KP since 2013, opposes military operations, which are also resisted by t..."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
@@ -452,14 +572,14 @@
       "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npCAIRO (Reuters) -Hamas' armed wing said on Monday it would hand over at 1700 GMT  the remains of a hostage recovered a day earlier in Gaza./pp/pp (Re..."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "EU confirms 'contact' with Taliban in Afghanistan over migrant returns - RFI",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcGEtcDYwMTVDNWxtNjM2ZGZOTlVHZ0c2TTI3bnM1QXNTa2ZlUkNqZTg1MkJHOGZfU0xPaHBMY1BaSXFxdXI3U3dvbU5HaWJCckxkWFAyWFR5eThTbUJLWTIteUpOaUt5eHRIV2VJRTBuRXhFeTVRc1l3cmhjcHJjaFpmQmFYdUJ4Tm41VGlITkNDZzlCclJXaXpPTmpoUlJ3djBXZ09qalRWNWZLeWFaWXZlaw?oc=5",
+      "title": "Iraq to keep some US military advisers despite troop pivot to Kurdistan region",
+      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/iraq-keep-some-us-military-advisers-despite-troop-pivot-kurdistan-region_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
       "image": null,
-      "published_at": "2025-10-20T13:59:13.000Z",
-      "summary": "EU confirms 'contact' with Taliban in Afghanistan over migrant returns  RFI"
+      "published_at": "2025-10-20T14:00:39.000Z",
+      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\nIraq's Prime Minister Mohammed Shia al-Sudani said some 300 US military advisers would remain at a key base in the country's Anbar province to keep ey..."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -472,46 +592,6 @@
       "summary": "Hamas's armed wing said on Sunday that it had located the remains of one of the deceased hostages held in Gaza captivity."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Morocco Announce U17 Squad for World Cup in Qatar - Morocco World News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNnV6YklkWTlVZG9WR2VOWkhFY3JZRTBwVG9yVk1GeUt4NjhpVXplMzNyUXZWZlRNZ3k2dGxwRHRuMkQ3TTVSMThfeV85emVwaWJyVGNDbmNDSFhxSmVyTEVrOUM3dFpzdUV2b0NyVFR1T01UcjE5T0pIWVB6R3Ywb3M4RG9pbEZuNExXOGZ5cEtxaDNlY29XLS16SHNPaVU?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T13:56:38.000Z",
-      "summary": "Morocco Announce U17 Squad for World Cup in Qatar  Morocco World News"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "China praises Türkiye and Qatar for brokering Pakistan-Afghanistan truce - Yeni Safak English",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmRsOFpGYUptcDJXSm0xZ0pHQzgyTjhReXM4MmwzOU9IenFuTUZrOWs4aW01RmdfUWF6NTdMY005blAzTjM0N2RfNzZUNWllQzNhamJnejVrNVRaVDRSc3NOT05henpJT1loV3lodHh3X21WdHlwSGstQ25OS1o3QU9hVWc0U0FESHB3QnFtMnZJajFUTHk3RkhRWkZ6cXIyMDhHWENJLTkxWW96cEdjWA?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T13:56:16.000Z",
-      "summary": "China praises Türkiye and Qatar for brokering Pakistan-Afghanistan truce  Yeni Safak English"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Ceasefire Tensions: Unraveling in Lebanon and Gaza - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDlxWHZpWUU3a1Y3YWRROFI1dEUwX19mNW9qU19BalR6M3FfT2xITkg2RU5IS3JBeHowZ1FyUTAtSlU0RFdWTXh4Y09xQVBPanpadXZyX1B2OUtySGRXQWNVcUlpaW1tY2Z5aTFyZ2tsa25kSXV4aGVKdTRON1NuZGNJd3h4c0w3ZHdZRm5QSE94ME41TmdxQUR3ekZqbGN6dVZrSWZR0gGrAUFVX3lxTE85ek82VjlEVF9aZXlQUjI4VmtGVzA4T2V6TVhIUG9DMnRXVk1JQUNrZlBFT3hMTWljRGZFUjF3c05vek5Yb3JFZkdYQm8zeW0wV1lmS2NfT1Z1OHBCM2VBVVJUNEJiNjhYaG9CT19TSjh6TksweUZxUFY2UDlvcEV5MHI2WUEzSDB1ZEhQVUhSVEszekgtQXlpcnpzb290aTFFYllQejNfckFCbw?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T13:54:28.000Z",
-      "summary": "Ceasefire Tensions: Unraveling in Lebanon and Gaza  Devdiscourse"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel still fires on Lebanon almost a year after a ceasefire. Some predict the same for Gaza - Greenwich Time",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcGVEVzQzekNqcG9EZ0FFSmlpMEEtaDM0MHA3dHFUWnBRXzByT2o2dW5LLXo2c3pXV1FmWl9FUGdXMFg5b085OXBKeVJDZ1lCQ3dFaUFjR2xwRFhnN2pabVBsU2RTS3UwNUdPbnNSYndBcUhuQzdyaW9Wc3U0bm1pcl9yR2RfazVLZEFtWUdZeXUxdnBqZjhzaDN3YW5nYUItNktJN2ZhLUFMXzljZXBPNA?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T13:54:08.000Z",
-      "summary": "Israel still fires on Lebanon almost a year after a ceasefire. Some predict the same for Gaza  Greenwich Time"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -520,16 +600,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c010/live/0de05d30-adbc-11f0-aa13-0b0479f6f42a.jpg",
       "published_at": "2025-10-20T13:54:07.000Z",
       "summary": "The protesters are seeking the release of Nnamdi Kanu who has been in detention since 2021 on terrorism charges."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Palestinian Fatah movement elects new leaders in Lebanon - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53NG96bkFhT0NmdzZ5YXlMYXZIcy1GamRxRVA4eXBkeHV1dVp6bmpOZXVqelpSMFpid3kyU0oxOWwxRWYySE04R1J0VjdWY3RDcHU1eFlFWkFzNDJB?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T13:53:51.000Z",
-      "summary": "Palestinian Fatah movement elects new leaders in Lebanon  The Jerusalem Post"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -552,16 +622,6 @@
       "summary": "Knesset report shows that Israel's war with Hamas and judicial overhaul of 2023 caused a 'tsunami' of Israelis leaving the country with no plans to return\nThe post Hidden cost of war: 125,000 Israelis emigrated between 2022 and 2024 appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "US Vice President Vance to arrive in Israel on Tuesday, Israeli Airports Authority says",
-      "url": "https://www.jpost.com/american-politics/article-871029",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3668,w_5500/684757",
-      "published_at": "2025-10-20T13:50:56.000Z",
-      "summary": "Israel Airports Authority said traffic disruptions around the airport were expected between 10:30 a.m. and 1:30 p.m. local time and that some flights would be moved to another terminal."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -582,16 +642,6 @@
       "summary": "Those caught ignoring enlistment orders can only be jailed for a short time; critics claim many exploit mental health exemptions, reducing enforcement to a 'revolving door'\nThe post Why draft-dodger detentions are doing little to keep ultra-Orthodox from evading the IDF appeared first on The Times o"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Grenade Blast at Mosque Injures Nine Worshippers in Parwan Province - KabulNow",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSFZ6REZpb21hZTk2RU1XbjZtdU5QVHFSakJ0dzhiLWt3VFpGSGtXRGVkWnZLcC1Nd2xBd1cyTGpLZUtGX3JRWUFUNGc4V3Z0NktHTEdxejQ3b1BOTUtLSksxUEc0VklUdmJvdEF3X2N1YVdHVDlwelBBRGh4dkF3MFNXRUdYMTQ3aWpDWDBTd085ZGRfakkyRVBjb21Hdw?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T13:48:31.000Z",
-      "summary": "Grenade Blast at Mosque Injures Nine Worshippers in Parwan Province  KabulNow"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -600,26 +650,6 @@
       "image": null,
       "published_at": "2025-10-20T13:47:17.000Z",
       "summary": "בתאונת דרכים בין טרקטור למשאית בכביש 98, סמוך ליישוב אבני איתן, נהרג צעיר כבן 25 וארבעה בני אדם נוספים נפצעו, בהם אחד באורח קשה. הפצועים פונו במסוק לבתי החולים רמב\"ם ופוריה"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "This Weekend’s Violence in Gaza Shows How Fragile the Cease-Fire Really Is",
-      "url": "https://www.nytimes.com/2025/10/20/world/middleeast/gaza-israel-hamas-cease-fire.html",
-      "image": "https://static01.nyt.com/images/2025/10/20/multimedia/20int-israel-assess-tjpq/20int-israel-assess-tjpq-mediumSquareAt3X.jpg",
-      "published_at": "2025-10-20T13:46:49.000Z",
-      "summary": "A round of violence on Sunday was short-lived, but analysts expect more tensions between Israel and Palestinian militants that will put the truce under strain."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE President Congratulates King Mohammed VI for U20 World Cup Historic Win - Morocco World News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeFNBSG16UnQ3U3k5SklnN1dMSnh4cWRjbmRJbnZMSlJKcTBJOU11Z3RwTlNkRm45VUEyR0ppd0tkamIwdWdsWFZ2OTBIWTdKVkdXZjRGaDc2WjNub05HSzVyWld4NUFwUURFOWtPRlhraXZfR29abzE0SkNENzYyRDR1cTZiTGF4S2FXT0x0WTVDMUc5ci1BZkpfdHZLMUxHU2lhMjBGT282cmhtQWNrY3RaX3Ezb3FKNFNjeTZsZjMydw?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T13:43:35.000Z",
-      "summary": "UAE President Congratulates King Mohammed VI for U20 World Cup Historic Win  Morocco World News"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1105,7 +1135,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Amazon’s AWS recovering after outage hits Snapchat, major apps, sites",
+      "title": "LIVE: Amazon’s AWS struggles to recover as outage disrupts apps, services",
       "url": "https://www.aljazeera.com/news/liveblog/2025/10/20/live-snapchat-other-apps-sites-down-as-outage-hits-amazon-web-services?traffic_source=rss",
       "image": null,
       "published_at": "2025-10-20T09:31:43.000Z",
@@ -1352,16 +1382,6 @@
       "summary": "Martin died in an Oakland hospital on Saturday morning, his family said in a statement."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump calls on Russia and Ukraine to freeze war at current battle lines",
-      "url": "https://www.aljazeera.com/news/2025/10/20/trump-calls-on-russia-and-ukraine-to-freeze-war-at-current-battle-lines?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-10-20T06:47:19.000Z",
-      "summary": "US president says Russia and Ukraine &#039;should stop right now at the battle lines, go home&#039; and &#039;be done&#039;."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1412,16 +1432,6 @@
       "summary": "לחמאס יש עוד מנהרות בשני צידי הקו הצהוב, שבהן מסתתרים חמושים. כשכוחות צה\"ל מגיעים להשמיד אותן, הם מסתערים. הצבא נערך להפרות קשות בהרבה - והתגובות עשויות לנוע בין תקיפות עוצמתיות ועד למבצעים חטיבתיים קצרים בעומק הרצועה. כל פעולה כזו תדרוש אישור מטראמפ, שמנצח על הכול מלמעלה"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "India lose to England by four runs in ICC Women’s World Cup cricket",
-      "url": "https://www.aljazeera.com/sports/2025/10/20/india-lose-to-england-by-four-runs-in-womens-world-cup-cricket?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-10-20T05:38:06.000Z",
-      "summary": "England rallied to secure their semifinal spot at the World Cup while India&#039;s defeat jeopardises their chances."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1430,16 +1440,6 @@
       "image": null,
       "published_at": "2025-10-20T05:03:17.000Z",
       "summary": "ב\"וול סטריט ג'ורנל\" נטען כי השר רון דרמר היה מהגורמים העיקריים לכך שישראל קיבלה את תוכנית טראמפ: \"יודע לדבר בשפתו\". השינויים שהצליח להכניס ברגע האחרון ו\"הכעיסו גורמים ערביים\", הביקורים בבירה, הנאום שעורר זעם בקונגרס - וה\"הימור\" על הימין והאוונגליסטים"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "החשד: הבת רצתה את המשך הקצבאות - וקברה בחצר הבית את אמה שורדת השואה",
-      "url": "https://www.ynet.co.il/news/article/bjvueazrgl",
-      "image": null,
-      "published_at": "2025-10-20T05:00:47.000Z",
-      "summary": "פרשה מזעזעת בצפון: מאינה טולסטיקוב, בת 93, נעלמה כלא הייתה. המשטרה חיפשה אחריה שבועות - שבמהלכם עלו שקרים ועדויות סותרות. החשוד המרכזי התאבד בתאו, אך לבסוף נחשפה ההונאה: לפי החשד, בתה ובן זוגה קברו אותה בחצר בכרמיאל כדי לקבל כספים מהמדינה - תוך הסתרת מותה במשך יותר משנה"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1870,16 +1870,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-fc7b-dfc6-a3bf-fd7fe3990001/6b/37/d7e1739145839c2d76705e3bfa4d/markermusafnadlan-realestateworth-15-09-2025-realestateworth-opening.jpg?height=81",
       "published_at": "2025-10-19T13:00:37.000Z",
       "summary": "Price gaps of over 10% between similar apartments suggest it's time to rethink price-per-square-meter"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Who was Sonthaya Oakkharasr, the Thai national kidnapped from kibbutz Be'eri? - explainer",
-      "url": "https://www.jpost.com/israel-news/article-870928",
-      "image": null,
-      "published_at": "2025-10-19T13:00:07.000Z",
-      "summary": "Sonthaya Oakkharasr, a Thai national murdered by Hamas at Kibbutz Be’eri, had planned to return to Thailand after years of farm work in Israel."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2652,16 +2642,6 @@
       "summary": "Israel's two-year protests calling for a cease-fire and to bring the hostages home was a crucial precondition for Trump to pressure Israel's government and Hamas to close the deal. Now, that mass movement must offer an alternative to Netanyahu's doctrine of eternal war"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "'We're still fighting for basic necessities': Palestinians return to the rubble of Gaza City",
-      "url": "https://www.haaretz.com/middle-east-news/2025-10-16/ty-article-magazine/.premium/were-still-fighting-for-basic-necessities-displaced-palestinians-return-to-gaza-city/00000199-ed2c-da09-a1bb-ffae4df60000",
-      "image": "https://img.haarets.co.il/bs/00000199-ee0b-d54a-abfb-ffdb42400001/3c/8d/6753658d4d7bb56e94096cf42c38/399249.jpg?height=81",
-      "published_at": "2025-10-16T17:50:08.000Z",
-      "summary": "Immediately after the Israel-Hamas cease-fire was declared, Palestinians began returning to their homes in northern Gaza – or what remains of them. Despite the truce, residents report dire living conditions: 'We're still struggling to secure food, water and medical care'"
-    },
-    {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
       "topic": "OSINT",
@@ -2999,6 +2979,26 @@
       "url": "https://www.jpost.com/breaking-news/article-856782",
       "image": null,
       "published_at": "2025-06-06T08:35:51.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "SpaceX will not decommission Dragon, Musk says",
+      "url": "https://www.jpost.com/breaking-news/article-856781",
+      "image": null,
+      "published_at": "2025-06-06T04:46:02.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "Agudat Israel will submit a bill to dissolve the Knesset",
+      "url": "https://www.jpost.com/breaking-news/article-856767",
+      "image": null,
+      "published_at": "2025-06-05T23:07:10.000Z",
       "summary": ""
     }
   ]
