@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-20T10:18:36.359Z",
+  "generated_at": "2025-10-20T10:46:07.113Z",
   "items": [
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -27,7 +27,7 @@
       "topic": "News",
       "title": "Trump envoys Witkoff, Kushner describe Doha strike fallout, hostage deal",
       "url": "https://www.jpost.com/middle-east/article-871014",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1643,w_2495/684927",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/684927",
       "published_at": "2025-10-20T12:18:05.000Z",
       "summary": "Following former US president Donald Trump’s peace deal, Jared Kushner and Steve Witkoff discussed the negotiations, the Israeli strike in Doha, and the emotional return of the hostages."
     },
@@ -35,9 +35,19 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
+      "title": "Palestinian Authority unveils $67b Gaza reconstruction plan",
+      "url": "https://www.jpost.com/middle-east/article-871006",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2178,w_3872/685944",
+      "published_at": "2025-10-20T11:14:36.000Z",
+      "summary": "The Palestinian Authority outlined a $67b, three-phase plan to rebuild Gaza over five years, as experts warn that Qatar and Turkey may cement Hamas control during reconstruction."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
       "title": "Several websites including Amazon's cloud unit down for thousands of users, Downdetector says",
       "url": "https://www.jpost.com/business-and-innovation/article-871003",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_621,w_932/660984",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/660984",
       "published_at": "2025-10-20T11:09:56.000Z",
       "summary": "Amazon.com, PrimeVideo and Alexa were all facing issues, according to Downdetector."
     },
@@ -62,14 +72,134 @@
       "summary": "A mural of Shiri Bibas and her children was defaced during a Milan synagogue ceremony honoring victims of the October 7 Hamas attack."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "26th Amendment case: Justice Mazhar says regular benches cannot hear constitutional matters",
+      "url": "https://www.dawn.com/news/1950130/26th-amendment-case-justice-mazhar-says-regular-benches-cannot-hear-constitutional-matters",
+      "image": "https://i.dawn.com/large/2025/10/20140517757ab06.webp",
+      "published_at": "2025-10-20T10:37:08.000Z",
+      "summary": "Justice Muhammad Ali Mazhar on Monday observed that no Supreme Court benches besides the Constitutional Bench (CB) could hear constitutional matters as he and seven other judges heard petitions against the 26th Amendment.\nThe Amendment was passed by Parliament during an overnight session in Octob..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9jZW50cmFsYXNp",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Зеленский допустил скорое завершение военных действий и внес в Раду проект закона о продлении военного положения",
+      "url": "https://centralasia.media/news:2349832?from=rss",
+      "image": null,
+      "published_at": "2025-10-20T10:33:26.000Z",
+      "summary": "Возможно, война приблизилась к своему окончанию, но это не значит, что она точно завершится. Такое заявление сделал президент Украины Владимир Зеленский на встрече с журналистами 19 октября, передает «Страна.ua»."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Watch: IDF marks 'yellow line' border in Gaza",
+      "url": "https://www.israelnationalnews.com/news/416521",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1201437.jpg",
+      "published_at": "2025-10-20T10:32:32.000Z",
+      "summary": "IDF begins placing yellow cement blocks along new 'yellow line' border in Gaza, marking where Hamas control ends and Israeli control begins."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Gaza ceasefire burnishes Qatari image as global mediator - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc1drMmw0SS16WlNnQTBYbjkxaVR1U1hhTmIwM2haQ0VlOEVVaTdGc1lRZnBZMkQwQWNKRklnWGlUNkRWSlRLYmpfZWR5N1A4cVZNYjZhUkM5blFRVFY4N0s4YWU0eUVGSks0WldjbjdnQlNtNkFITTBhQTlvTVIxejBES1FuZw?oc=5",
+      "image": null,
+      "published_at": "2025-10-20T10:31:47.000Z",
+      "summary": "Gaza ceasefire burnishes Qatari image as global mediator  The Washington Post"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "US envoys in Israel to shore up Gaza plan",
+      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/us-envoys-israel-shore-gaza-plan_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
+      "image": null,
+      "published_at": "2025-10-20T10:30:23.000Z",
+      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npThe top US envoys to the Middle East conflict arrived in Israel on Monday to inspect progress on the Gaza plan after weekend violence threatened to w..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "US Envoy: Israel May Act Unilaterally If Lebanon Does Not Disarm Hezbollah - وكالة صدى نيوز",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlaWtlXzliOHduaXlMdlUwYjRYSmpkMnFneFRVRU55NUdoNVFaM2hWN1o4cDhmNWtvdkg1OTExS0RvWWphSTdoa1RPNm5KemlwRG5KRlV3?oc=5",
+      "image": null,
+      "published_at": "2025-10-20T10:28:47.000Z",
+      "summary": "US Envoy: Israel May Act Unilaterally If Lebanon Does Not Disarm Hezbollah  وكالة صدى نيوز"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Zelensky ready to join Trump-Putin talks if invited",
+      "url": "https://www.bbc.com/news/articles/c93dl93v581o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2247/live/cbe92800-ad96-11f0-ba75-093eca1ac29b.jpg",
+      "published_at": "2025-10-20T10:27:00.000Z",
+      "summary": "The US and Russian presidents announced on Thursday that they planned to meet in Budapest."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'It's like a scene from a film' - Paris tourists surprised at Louvre jewel theft",
+      "url": "https://www.bbc.com/news/videos/cev1ez7y92ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf60/live/c99ee5b0-ad9d-11f0-aa13-0b0479f6f42a.jpg",
+      "published_at": "2025-10-20T10:25:11.000Z",
+      "summary": "The Louvre Museum in Paris remains closed to the public after robbers stole imperial jewels in broad daylight on Sunday."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Why is there little incentive for private sector to finance clean air solutions?",
+      "url": "https://www.dawn.com/news/1950157/why-is-there-little-incentive-for-private-sector-to-finance-clean-air-solutions",
+      "image": "https://i.dawn.com/large/2025/10/201522310eef26c.webp",
+      "published_at": "2025-10-20T10:24:34.000Z",
+      "summary": "https://www.dawn.com/news/1948885/financing-clean-air"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "dnata, Trade Tech partner on UAE MPCI compliance filings - Port Technology",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObkpQc1VUN0xDZWlpZjZHTDdmSzlCbmRLYWJ3emhIblFmaDVaVkcyRm9HazBVNXlCT3FEVGoybjhOemFyOERUZWdmdUJfaklJN2JfTGVqbllWMWUzZkpLc1N1bE5CZmd2bWp1RjJlZWRuQWZUdUdRcHY3U1hDdUtGdEJMemtkVDFKSEtDQXV3V2o2T3pmaGRB?oc=5",
+      "image": null,
+      "published_at": "2025-10-20T10:20:15.000Z",
+      "summary": "dnata, Trade Tech partner on UAE MPCI compliance filings  Port Technology"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Recent Lebanon County obituaries for week of October 20 - LebTown",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcTlsanowRkpySXRXbjUxdnZ0Z1F3d3Bod2dJRHZoajBtYUJwS2VoRGZTTXhMcHhJaFVCQ1pUZ1ZqbnhVUm5SUWtNN2hRTDh4V2Z5YmZaU0o4T1pIZFR0eHJRN2ZRdlBxbVBxN2M3b3R4V2NUTzZHNkdZWF9RUkcxdjZrajlhYk14SFMzaHdRU08?oc=5",
+      "image": null,
+      "published_at": "2025-10-20T10:15:00.000Z",
+      "summary": "Recent Lebanon County obituaries for week of October 20  LebTown"
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הפסקת האש השברירית: הקו הצהוב סומן, חמאס לא מסר \"חלל שאיתר\" - והשיח עם המתווכות",
+      "title": "הפסקת האש השברירית: החלל ש\"חמאס איתר\" ועדיין לא מסר - וסימון הקו הצהוב",
       "url": "https://www.ynet.co.il/news/article/sjrlcvqagl",
       "image": null,
       "published_at": "2025-10-20T10:11:03.000Z",
-      "summary": "אחרי התקרית ברפיח והלחץ על נתניהו לעצור את תקיפות צה\"ל, הפסקת האש שוב הופרה כשאש נפתחה לעבר מחבלים שהתקרבו לכוחות. אל-חיה נפגש עם המתווכות, וויטקוף וקושנר שוב בישראל, כ\"ץ הנחה לסמן את הקו הצהוב ושיגר איום - והעברת הסיוע חודשה. בינתיים, חמאס עדיין לא מסר את החלל החטוף שטען ש\"איתר\" אתמול"
+      "summary": "אחרי התקרית ברפיח והלחץ על נתניהו לעצור את תקיפות צה\"ל, הפסקת האש שוב הופרה כשאש נפתחה לעבר מחבלים שהתקרבו לכוחות. אל-חיה נפגש עם המתווכות, וויטקוף וקושנר שוב בישראל, כ\"ץ הנחה לסמן את הקו הצהוב ושיגר איום - והעברת הסיוע חודשה. בינתיים, כמעט יממה עברה מאז שחמאס הודיע שאיתר חלל חטוף - ובישראל נערכים ל"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Richard Bennett Welcomes Ceasefire Agreement Between Taliban and Pakistan - Hasht-e Subh Daily",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR3FpdHdCNkFwUE50dEZPN0FYY2dZc2plLTBvNGlyTU40Q1NyVld2ZWplN0VRcW9GQXdIU2VVcXlOWXdYNlFWODVWb3QwT28zbDlINDJZTDFsVnAwR0ZjMDZ1OG9iRmZPOXNaem56Mi1qZ1pDUjRkZXgyWk45LXFoMmw0dkRFUDBxYVJoemtnWnJjSGNKY2hJU0twM04?oc=5",
+      "image": null,
+      "published_at": "2025-10-20T10:10:49.000Z",
+      "summary": "Richard Bennett Welcomes Ceasefire Agreement Between Taliban and Pakistan  Hasht-e Subh Daily"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -78,7 +208,7 @@
       "title": "US envoy warns Lebanon that Israel will likely attack if it doesn’t disarm Hezbollah - The Times of Israel",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzhGcWxqUmlnYmFYdVg2MGpoMWwyNWFLODlNQVd4dEROQXU0R1BSTlppNHlfRVNEbG9rVm0zM0NGaVhfbXA4bUx1aXo5REVaZDJVelJZUGlNZHNmcjgtT3lfWWVkXzFjUV90TDJHZmZpQjM5NDhMVGJkR0FTWVlPXzdmNW1SWUdveWt6d0dYR3YycWNXRGdZcTJQakYyY1lhaUc1RUJ0T0IzWWZGMWxOUC1KMGR5SnJwVWZjNFVxRGNwT01BT0tXMQ?oc=5",
       "image": null,
-      "published_at": "2025-10-20T10:09:14.000Z",
+      "published_at": "2025-10-20T10:08:49.000Z",
       "summary": "US envoy warns Lebanon that Israel will likely attack if it doesn’t disarm Hezbollah  The Times of Israel"
     },
     {
@@ -120,6 +250,36 @@
       "image": null,
       "published_at": "2025-10-20T10:06:25.000Z",
       "summary": "Saudi and UAE companies to bid for Egyptian wind farm  Arabian Gulf Business Insight | AGBI"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Syria and Lebanon are 'next pieces' in push for Middle East peace, US envoy says - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcVVCQ2JMdFJhS3FVQ01nbjM1X09KQ1I5cFlVdllMWVpjODhTUGpIdW9LRUVLYmNVU0o5MlNDVXFKRDF0cm9FV1pmQ1k5U1ZPRGY4TlYzTm9sZmtIYmYzZTZ4UkNlUGVTV3R2UHIwbjZrUmZLVUdpeWJNX252T0RzVi1MT1g1VE9BOURpT1BlQ0tvQnRuVEVWY1FVcGdGTTJqS2NxQUtuNU1ORGQtQ2hPLTlPUzVNbF9pbWhHNGtYejFNLThobE13NWtWcw?oc=5",
+      "image": null,
+      "published_at": "2025-10-20T10:05:42.000Z",
+      "summary": "Syria and Lebanon are 'next pieces' in push for Middle East peace, US envoy says  thenationalnews.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Fatah elects new leadership in Lebanon - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53NG96bkFhT0NmdzZ5YXlMYXZIcy1GamRxRVA4eXBkeHV1dVp6bmpOZXVqelpSMFpid3kyU0oxOWwxRWYySE04R1J0VjdWY3RDcHU1eFlFWkFzNDJB?oc=5",
+      "image": null,
+      "published_at": "2025-10-20T10:05:28.000Z",
+      "summary": "Fatah elects new leadership in Lebanon  The Jerusalem Post"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hundreds protest at Lebanon ‘No Kings’ - LebTown",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnS004YkZxclJNSDU0UHQxMm1fREo1Zk5KSk9IQncwLUZudGRhaUhNNlNrTGpDWmltWHRSYVFBOGlxazZEV0wtWjBCbDd6ZDJjR1Y4MHQzVTlnTDFYdWFZNV9Lc1QyTW5zSUxFeW04bFBhTnZXakk4?oc=5",
+      "image": null,
+      "published_at": "2025-10-20T10:05:00.000Z",
+      "summary": "Hundreds protest at Lebanon ‘No Kings’  LebTown"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -212,16 +372,6 @@
       "summary": "At 7:37 a.m., as I was walking out to go to shul with my son, our landline phone rang. It was a woman at the Jewish Agency."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "26th Amendment case: Justice Mazhar says regular benches cannot hear constitutional matters",
-      "url": "https://www.dawn.com/news/1950130/26th-amendment-case-justice-mazhar-says-regular-benches-cannot-hear-constitutional-matters",
-      "image": "https://i.dawn.com/large/2025/10/20140517757ab06.webp",
-      "published_at": "2025-10-20T09:49:27.000Z",
-      "summary": "Justice Muhammad Ali Mazhar on Monday observed that no Supreme Court benches besides the Constitutional Bench (CB) could hear constitutional matters as he and seven other judges heard petitions against the 26th Amendment.\nThe Amendment was passed by Parliament during an overnight session in Octob..."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -270,16 +420,6 @@
       "image": null,
       "published_at": "2025-10-20T09:45:00.000Z",
       "summary": "Lebanon Transit, Commute PA are “All Aboard Transit” together in November  LebTown"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Gaza ceasefire burnishes Qatari image as global mediator - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc1drMmw0SS16WlNnQTBYbjkxaVR1U1hhTmIwM2haQ0VlOEVVaTdGc1lRZnBZMkQwQWNKRklnWGlUNkRWSlRLYmpfZWR5N1A4cVZNYjZhUkM5blFRVFY4N0s4YWU0eUVGSks0WldjbjdnQlNtNkFITTBhQTlvTVIxejBES1FuZw?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T09:43:33.000Z",
-      "summary": "Gaza ceasefire burnishes Qatari image as global mediator  The Washington Post"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -355,7 +495,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Amazon cloud problems spur outage of global websites and apps",
+      "title": "Amazon Web Services issue spurs outage of global websites and apps",
       "url": "https://www.aljazeera.com/news/2025/10/20/amazon-cloud-problems-spur-outage-of-global-websites-and-apps?traffic_source=rss",
       "image": null,
       "published_at": "2025-10-20T09:34:59.000Z",
@@ -395,7 +535,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Snapchat, other apps, sites down as outage hits Amazon Web Services",
+      "title": "LIVE: Amazon Web Services outage hits Snapchat, Fortnite, other apps, sites",
       "url": "https://www.aljazeera.com/news/liveblog/2025/10/20/live-snapchat-other-apps-sites-down-as-outage-hits-amazon-web-services?traffic_source=rss",
       "image": null,
       "published_at": "2025-10-20T09:31:43.000Z",
@@ -462,16 +602,6 @@
       "summary": "שלושה חודשים אחרי שנעצרו בחשד לריגול עבור איראן, נסגר רשמית התיק נגד דוריה אחיאל ויבודה ישראילוב. עורך דינם: \"זה היה ברור לי מההתחלה\""
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Canadian Prime Minister: 'Israeli PM will be arrested if he enters Canada'",
-      "url": "https://www.israelnationalnews.com/news/416518",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1197773.jpg",
-      "published_at": "2025-10-20T09:20:03.000Z",
-      "summary": "Speaking to Bloomberg, Canadian PM Mark Carney said that if PM Netanyahu enters Canada, he will be arrested, according to his predecessor's commitment to the arrest warrants issued against Netanyahu by the ICC in The Hague."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -480,26 +610,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30f6/live/7358d180-ad8d-11f0-93d0-d5294e42252c.jpg",
       "published_at": "2025-10-20T09:16:05.000Z",
       "summary": "A Chinese jet allegedly dropped a flare close to an Australian plane over the South China Sea."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Clashes in Gaza Reveal Cease-Fire’s Fragility, With Rougher Road Ahead",
-      "url": "https://www.nytimes.com/2025/10/20/world/middleeast/gaza-israel-hamas-cease-fire.html",
-      "image": "https://static01.nyt.com/images/2025/10/20/multimedia/20int-israel-assess-tjpq/20int-israel-assess-tjpq-mediumSquareAt3X.jpg",
-      "published_at": "2025-10-20T09:15:33.000Z",
-      "summary": "A round of violence on Sunday was short-lived, but analysts expect more tensions between Israel and Palestinian militants that will put the truce under strain."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Senior Iranian official says Tehran warned Hezbollah about explosive pagers operation - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJRFBvRVY1enM0Z0pJVk11TENXVGZsajZldHdYZG5yTW9jcXl0NHhGOGtVTkJ2cnYwR1N5azJOOVhscEhtbzRSQjlBRFl0VGpvOVU4OHBR?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T09:15:13.000Z",
-      "summary": "Senior Iranian official says Tehran warned Hezbollah about explosive pagers operation  Ynetnews"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -522,26 +632,6 @@
       "summary": "אחרי חתימת העסקה והחזרת החטופים החיים רוצה נתניהו לנצל את הפופולריות שצבר כדי לצאת לבחירות, אך דבר אחד מפריע לו. במקביל, הקואליציה במשבר בשל חוק ההשתמטות והמצב בעזה - וכולם מרגישים את סוף הקדנציה מתקרב"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE-India bank deal sets high bar for success​ - Breakingviews",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMnZFcU1lMzZUU1hyNXZqNUMzejBCYjdvSDg0aWR3Q0J5dWJWTFh6dmpOQjdmSVpIcU9ra2RaOWtRUmpteE1QYUx0dnNHSXJDOXdwLXBkLXhDM1ZJZ2dNTTVjMnltTU5Kd1hzZUZFV3ltdnhLdHlUdTU4eUFfS1ZqMnAySFJwMEdCVWQzeFdlZVJhbDBhQ2dJZDNDall2WFRBMXJtXzRPVVg?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T09:13:08.000Z",
-      "summary": "UAE-India bank deal sets high bar for success​  Breakingviews"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE-India bank deal sets high bar for success​ - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOUVtVFNwX0dZUU14SFdYb0xONG1ld3hYUEs1MkcxQ1lCV0JKWWxRNXNuRlppWVNKU2ZjbVdfQWVqZTAzM1VneTBwSzlFWHgzRG5aWlBkRnVIQzJrZ1RzTGF3M3k2Q0JKbFpfVjFYa2FrVXMwX0JUc1kzYmZoZXpKSno3Yk51ZGNXY2JNSU1uSHZ0T3pfNl9SR05pVGlIdEd2ZEIzZGJjd3NKWU53VE5qLTdhX0tYUQ?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T09:13:08.000Z",
-      "summary": "UAE-India bank deal sets high bar for success​  TradingView"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -550,16 +640,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bea3/live/d65cdc80-ad34-11f0-b2a1-6f537f66f9aa.jpg",
       "published_at": "2025-10-20T09:13:03.000Z",
       "summary": "A Buckingham Palace source admits there could be \"more days of pain ahead\" as the memoir, which puts Prince Andrew under further scrutiny, is released."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "US envoy warns Lebanon: Disarm Hezbollah or risk war - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93NC1SREUxZzBqRExYMV9jM05ocXdacFBxOWxKUHZKNUhuQmw2YWhQTFRMaGd3M25uaEtXVDUwN1RIbkdnLXZXWXpSTVZVV21YYi15QWRXelRRZXVfMFVqRkh1OEpzeUhKa2FKZ3ZPVC11anVXSzRFbEpFbFI?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T09:11:37.000Z",
-      "summary": "US envoy warns Lebanon: Disarm Hezbollah or risk war  Latest news from Azerbaijan"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -582,26 +662,6 @@
       "summary": "The Emirates cargo flight hit a vehicle on the ground after it landed at the international airport."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Hezbollah official: Resistance fully prepared for any potential confrontation - Pars Today",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjVhdXVDVjUtQ29aZzd6YzJ4Q2tJQTJWSEVydW9IRWZtZW5GSUxsd2NiNzJSNnpjY3JoNTgtX2g5YTAweFJfNmVqYzhvZWRuWWYwWWE3VU5POVVobU9QcFpUTU5rV2JYMUxUMGZfbDN1b2pIZFhYTDQxMXl2TVBsRmlFUDhvVlNpb3NxZ0tEVlFhQUZ2dFZRQzJkTW14M2lieUVWUkR1Y3lqYTZKWEQ5U3cxS2pOeC10V1o4QnduTUFkdw?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T09:06:00.000Z",
-      "summary": "Hezbollah official: Resistance fully prepared for any potential confrontation  Pars Today"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Modi’s Taliban Gamble: How Trump’s Strategy Backfired And Shook India’s Politics - The Friday Times",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWTBrbjZQR2N6WXU4bzdXX1RTZVJGdk96WUVMbUxNMkUxSDE1LXR4V3NSMUhTcjBiajFaNC1ON2hySnVoLWVpaU5wanZ4ZmluMXZOSEtKaFdaRVFvR1ZXcHkyWE5PZ2RQa1NGUXZJeXpWcW5LQ2FmUTdIUVBRaW90U2FPSVhBZFdlN2wteXc1QTA4LVFDbWVNdE5qYjl3RmlFWlR3VmxtblRjeGJRWGhKZlVSZHrSAcQBQVVfeXFMTWx6bnpLeXhDT0pTT1MzSFFQVW1ZR2U5UDRFMWdsOUdZYlRPWmxfTk1hLXhCTkMzdjlSUGZlejRVWTFRVi04YTdtYmJucWI2RWFGT0ZXOFM2YnNUQVJJcmxyTmRXWGoySWwtckt3Z3VDZGJmeWFKb2FRT2NkNFI5QnBaMUxPLVlhT3JOZThIalpabWo3cUFkXzlpQ1lkWmZYa2RiWVRLZ21qWm5PelNkTkVURTdTY19EcEFtSlNWSUpRZURpbQ?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T09:04:23.000Z",
-      "summary": "Modi’s Taliban Gamble: How Trump’s Strategy Backfired And Shook India’s Politics  The Friday Times"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -610,36 +670,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-0092-dfc6-a3bf-f1b642690001/be/2a/bdf3b894431b9375b8b53e9e643f/477346.jpg?height=81",
       "published_at": "2025-10-20T09:03:05.000Z",
       "summary": "'Each time Hamas announces the release of deceased hostages, your heart just starts racing,' said Rotem, son of Amiram Cooper, who was taken hostage alive and killed in Gaza, and whose body is still held there"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "More superstar support for Tadej Pogacar? UAE reportedly eye French classics ace in major 2026 transfer move - CyclingUpToDate.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVkYxRF9ZVzA4WTlVT1ZmZDBmWWxmUlhvcmJseW1IdEZ0U08tWlhlcGI4VTREUlJWRkNYel9zNk9Mc05rbkk4MGtSRHpFYXdhcWtrQjdPWGliUXNLWnhMUHRBanBqeWwtREUyaFlLMGhZZFdrWWtMVVNWZUlJMVpveVQtNnZQeXg3TmhKUmFGTmdnSUNOYVhlZUY5bUpjY3NQOUMxc2s0cTRqY1YtRUo2dWRvZVVjN0pzdUFPOHZWSE0zUXZjUWpwa2xWV3dzOUY0Z3F1Nk96d3IzdlE?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T09:02:08.000Z",
-      "summary": "More superstar support for Tadej Pogacar? UAE reportedly eye French classics ace in major 2026 transfer move  CyclingUpToDate.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cubnl0aW1l",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "How Jared Kushner Re-emerged at the Center of the Israel-Hamas Peace Deal",
-      "url": "https://www.nytimes.com/video/world/middleeast/100000010458218/how-jared-kushner-re-emerged-at-the-center-of-the-israel-hamas-peace-deal.html",
-      "image": null,
-      "published_at": "2025-10-20T09:01:51.000Z",
-      "summary": "Jared Kushner, the president’s son-in-law, had a single goal: Get to a yes first, and hash out the details later. Tyler Pager, a White House correspondent for The New York Times, describes Mr. Kushner’s role in cease-fire negotiations between Israel and Hamas."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Analysts mock India’s Taliban outreach after Operation Sindoor debacle - Kashmir Media Service",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZENfNk5FaXlwaWpyeXVlMDM0dGJSeERKdWthZ1N0THRaNExxZVdIeE5xNVFEa290Q2psYnpJZ0F6R2g5Z3NPRlRUUWFlRDhtVy1DMm5NRW1SY2RMUlZvbG5iaW94ZEZzdU85anp1d0d3bmx3UTdZYWZ4bkZ3Q2YzMjV6dm9ramowUjlsRXNYa3I1Q1pDeFNUR1l5bFloTi1mbGpkYWlGZHVIS2czd3c?oc=5",
-      "image": null,
-      "published_at": "2025-10-20T08:59:58.000Z",
-      "summary": "Analysts mock India’s Taliban outreach after Operation Sindoor debacle  Kashmir Media Service"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -659,7 +689,7 @@
       "url": "https://www.bbc.com/news/articles/clyz58n65g3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba3/live/bca3e750-ad81-11f0-ab18-a9a7b1100616.jpg",
       "published_at": "2025-10-20T08:39:52.000Z",
-      "summary": "A manhunt is underway to find the four thieves before the jewels - which once belonged to French royals - are broken up."
+      "summary": "A manhunt is under way to find the four thieves before the jewels - which once belonged to French royals - are broken up."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -769,7 +799,7 @@
       "url": "https://www.aljazeera.com/news/2025/10/20/coalition-deal-set-to-make-takaichi-japans-first-female-pm?traffic_source=rss",
       "image": null,
       "published_at": "2025-10-20T07:31:11.000Z",
-      "summary": "Right-wing Japan Innovation Party pledges support for governing LDP, opening way for Takaichi to win vote."
+      "summary": "Right-wing Japan Innovation Party signs coalition deal with governing LDP, opening way for Takaichi to win vote."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -2342,16 +2372,6 @@
       "summary": "'Leaving Gaza was like the withdrawal from Lebanon. They told us to be out within half an hour': Bulldozer operators were ordered to pack up instantly, truck drivers who transported aid are in limbo – while some kibbutzniks are refusing to sell produce to the Strip"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "New blood test may speed up diagnosis of 50 cancer types, study says",
-      "url": "https://www.bbc.com/news/articles/c205g21n1zzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f714/live/07276060-aba5-11f0-bba9-81f28efa2a1e.jpg",
-      "published_at": "2025-10-18T07:13:48.000Z",
-      "summary": "The Galleri test looks for fragments of DNA that have broken off a tumour and are circulating in the blood."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2980,26 +3000,6 @@
       "image": null,
       "published_at": "2025-08-14T10:42:44.000Z",
       "summary": "In June, Bellingcat ran 500 geolocation tests, comparing LLMs from various companies against each other, as well as Google Lens &#8211; a staple tool for finding the location of photos. At the time, ChatGPT o4-mini-high emerged as the clear winner, with Google Lens outperforming most other models. J"
-    },
-    {
-      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
-      "source": "Bellingcat",
-      "topic": "OSINT",
-      "title": "The Open Source Tool That Has Preserved 150,000 Pieces of Online Evidence",
-      "url": "https://www.bellingcat.com/resources/2025/08/13/the-open-source-tool-that-has-preserved-150000-pieces-of-online-evidence/",
-      "image": null,
-      "published_at": "2025-08-13T08:18:15.000Z",
-      "summary": "Bellingcat’s Auto Archiver is a tool aimed at preserving online digital content before it can be modified, deleted or taken down. Publicly launched in 2022, it has preserved over 150,000 web pages and social media posts to date. The Auto Archiver has been used by Bellingcat’s journalists to preserve"
-    },
-    {
-      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
-      "source": "Bellingcat",
-      "topic": "OSINT",
-      "title": "What Can Open Sources Reveal About Beijing’s Deadly Floods?",
-      "url": "https://www.bellingcat.com/news/2025/08/08/strongwhat-can-open-sources-reveal-about-beijings-deadly-floods-strong/",
-      "image": "https://www.bellingcat.com/app/uploads/2025/08/EDIT-stitched-flood-video-1.mp4",
-      "published_at": "2025-08-08T15:03:37.000Z",
-      "summary": "Earlier this week, the Beijing authorities placed all 16 of its districts on high alert in anticipation of torrential rain. More than 40 people have since been confirmed dead, and 80,000 evacuated citywide due to the floods.&#160; But what can open source data tell us about the damage caused? Satell"
     }
   ]
 }
