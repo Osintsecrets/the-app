@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-22T22:31:50.086Z",
+  "generated_at": "2025-10-22T23:01:30.021Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -9,7 +9,7 @@
       "url": "https://www.jpost.com/israel-news/article-871345",
       "image": null,
       "published_at": "2025-10-23T01:25:07.000Z",
-      "summary": "The highlights of the first episode of the new season of Eretz Nehederet were US President Donald Trump as a Roman emperor and Greta Thunberg disappointedly discovering there was actually a ceasefire"
+      "summary": "The highlights of the season premiere of Eretz Nehederet were US President Donald Trump as a Roman emperor and Greta Thunberg disappointedly discovering there was actually a ceasefire."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -45,6 +45,16 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
+      "title": "Israeli company Cellebrite announces new AI innovations",
+      "url": "https://www.jpost.com/business-and-innovation/article-871312",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_633,w_948/674604",
+      "published_at": "2025-10-23T01:19:08.000Z",
+      "summary": "The company, which worked on almost 1.5 million investigations with 7,000 customers during the last year, announced its Autumn 2025 Release."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
       "title": "US imposes sanctions on Russian oil companies Rosneft and Lukoil",
       "url": "https://www.jpost.com/international/article-871344",
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1330,w_1998/679253",
@@ -60,6 +70,26 @@
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1904,w_3208/681346",
       "published_at": "2025-10-22T23:25:40.000Z",
       "summary": "The deal, facilitated by the UK, is estimated to be worth several billion dollars."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Lebanon eagerly awaits Pope Leo's visit - The Catholic Weekly",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmxDUXNUdlR4TEdsSk4zMEtiR3F6WGdYdklmdmppTlZfSGM0bGxnT0xobGZiaEFJbHVkVkJqdzNRTlR4dmhIeW1rem1zMEE2UGszeFBqNmFRSVRfNUlia0FsLWFqNVVzMExBdnlEdkpDUnJFZkdGLVVDQTM3MHA1SllGMVVpcVFDLXB2VTFUZEVaYXlyN1cxUnFrMVJnbmE3VmVUVXlIYTJlSGxWZUE?oc=5",
+      "image": null,
+      "published_at": "2025-10-22T22:29:56.000Z",
+      "summary": "Lebanon eagerly awaits Pope Leo's visit  The Catholic Weekly"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "עמרי חוזר לשגרה: \"זה ללמוד הכול מחדש, לשמוע שוב את המילה 'אבא' בבית\"",
+      "url": "https://www.ynet.co.il/news/article/yokra14554789",
+      "image": null,
+      "published_at": "2025-10-22T22:26:55.000Z",
+      "summary": "אחרי יותר משנתיים בשבי, חזר עמרי מירן לאשתו לישי ולבנותיו רוני ועלמא. \"יש עוד דרך ארוכה לשיקום, אבל אנחנו חזקים - ויודעים שיהיה טוב\", שיתפה אשתו. החזרה לשגרה, החשיפה למאבק להשבתו, והפגישה עם וויטקוף וקושנר"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -120,6 +150,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c816/live/780ee220-af93-11f0-ba75-093eca1ac29b.jpg",
       "published_at": "2025-10-22T22:11:46.000Z",
       "summary": "US President Donald Trump previously said that his ballroom addition would not \"interfere with the current building\"."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Myanmar's army is taking back territory with relentless air strikes - and China's help",
+      "url": "https://www.bbc.com/news/articles/c051m0jn392o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eb2/live/f27501c0-af34-11f0-b1c6-736a05ed5483.jpg",
+      "published_at": "2025-10-22T22:09:32.000Z",
+      "summary": "China has thrown its weight behind the junta - and its widely condemned plan to hold an election in December. "
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -275,11 +315,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Turkey and Qatar cash in as Israel left to hold the line - www.israelhayom.com",
+      "title": "Turkey and Qatar cash in while Israel left to hold the line - www.israelhayom.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWE9Tal9ibHVERkJfN3o5b0V3RkhPbGhhX1lQUE45WlB6YUEtSnZOaW1HZ2hWdVExRkZrcGdVLVR0OTRNckpycmNDRkdaR3FPRnRtUU1zcFVkX3NwSzh5MHh1WlRZMXM2TUx4cGlqZzViRlJ0QUNIbWUweUtlbW02RVZKWUp2N1lPLWNxVi1FWDVoMVJCNjh6b0g1QmE?oc=5",
       "image": null,
       "published_at": "2025-10-22T21:24:53.000Z",
-      "summary": "Turkey and Qatar cash in as Israel left to hold the line  www.israelhayom.com"
+      "summary": "Turkey and Qatar cash in while Israel left to hold the line  www.israelhayom.com"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -462,16 +502,6 @@
       "summary": "Nimrod Cohen, one of 20 hostages released from Hamas captivity last week, lost 33 pounds and feared for his life amid Israeli airstrikes. His father, Yehuda, has been targeted on social media for fighting the Netanyahu government in an effort to stop the war"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "החזרה של עמרי מהשבי: \"זה ללמוד הכול מחדש, לשמוע שוב את המילה 'אבא' בבית\"",
-      "url": "https://www.ynet.co.il/news/article/yokra14554789",
-      "image": null,
-      "published_at": "2025-10-22T21:00:00.000Z",
-      "summary": "אחרי יותר משנתיים בשבי, חזר עמרי מירן לאשתו לישי ולבנותיו רוני ועלמא. \"יש עוד דרך ארוכה לשיקום, אבל אנחנו חזקים - ויודעים שיהיה טוב\", שיתפה אשתו. החזרה לשגרה, החשיפה למאבק להשבתו, והפגישה עם וויטקוף וקושנר"
-    },
-    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -640,26 +670,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-0d85-dfc6-a3bf-fda511e20001/1f/87/0be15ba34cf3b6b44e11eb372fe6/bibi-paramore.jpg?height=81",
       "published_at": "2025-10-22T20:27:48.000Z",
       "summary": "Artists are isolating their Israeli allies more than the perpetrators of the crimes they're denouncing. More than helping Palestinians, they're giving credence to Netanyahu's claim that critics hate Israelis for who they are, rather than what their government does"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Turkey to strengthen military ties with Qatar - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OSjg1RlczZFZ0VFRFSFJEQ3RjbmZuYURfRzlZZE10ZnozSmhiR3VoZW5wQ09xcWhRaFp0RkdIQVRZa093TDZ4VDVoR1ZMOUliZTRScWE4SGdtY1Rv?oc=5",
-      "image": null,
-      "published_at": "2025-10-22T20:25:40.000Z",
-      "summary": "Turkey to strengthen military ties with Qatar  The Jerusalem Post"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE extends grace period for Advertiser Permit: What every influencer, content creator needs to know abou - Times of India",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSkNsYXJpdmRCd1EwV1FxWXFNUGozVWNXak5RZ290MHpFLUJGQlZIZjdUOS1VdlVnVmdldWtkVTNMc3lhQVFYY1Q5S2QyMGFxNVItOG0tNzRnLVlHNHlkWGcxSlBQWmVYYTVOZHkxSEhiOHg1Q0p4c0xwTkpHUHdyOWEzRzRZM2JpSTRLdlhCWlVnOWNrbmFCWjlVTE1iQmdBazVIV0pGQkVwNldhTUlSRFV4UENrak9XdEl4WWJBQThYdjUyU0tDMW5CTEVVSXFieTA2eFZHcElJekRsRzUwbUZHOU0yYWg5eUxoQktfN2RWOTlaMFY1Wmg5ZTFCM3g4VkZfc0g2MnkwbEw1Y3NLSGFadzhIYTlmQUhUeWlHTlgwdlJtZWdr0gGsAkFVX3lxTE1MRXhzamRQTjdFTW1DZ0gyS2lDNlYwRndlUmFXektkdmVkRVhMZ2RqMDFHNy1PM0xJdU9ZNHNMVm9ua0VTdk5lT2N0andGOHVRSWQtbmZzNkVLdFV3ck41OUJyaHBDa0pFYnB5TVdZdGZtZTJBNHhPbkJKTHFOcEk0ZlVPdHRCbnY2Nkw4cElTZHlSaUdsaTE4UTRSeGZRWTJCbFA0T1h6c3pwWjEzaEtRTldIWlRfcm9RT2VCS2ViNldHQnEyUDFrbGNsa3JTUGNmRFBuSGdrYko3WlQ5RlQ3dHI4cDNZNldpeHpXYjJZc2VYOHJaMVByN3d2ZHl6SExvMFZ6QlZSMDVOdDRwRnRmYTNBbElyLUh6MmhSaWtyQXdwZzNQRmpwRm1aQQ?oc=5",
-      "image": null,
-      "published_at": "2025-10-22T20:23:00.000Z",
-      "summary": "UAE extends grace period for Advertiser Permit: What every influencer, content creator needs to know abou  Times of India"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -889,7 +899,7 @@
       "url": "https://www.timesofisrael.com/likud-to-kick-edelstein-off-knesset-defense-panel-after-he-votes-for-annexation-bill/",
       "image": null,
       "published_at": "2025-10-22T18:48:56.000Z",
-      "summary": "Former Foreign Affairs and Defense Committee chair says 'dismissal is a moral badge of honor for me'; opposition MK: Netanyahu wants yes-men who will do what he says\nThe post Likud to kick Edelstein off Knesset defense panel after he votes for annexation bill appeared first on The Times of Israel.\n"
+      "summary": "Former Foreign Affairs and Defense Committee chair says 'dismissal is a moral badge of honor for me'; opposition MK: Netanyahu wants yes-men\nThe post Likud to kick Edelstein off Knesset defense panel after he votes for annexation bill appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -919,7 +929,7 @@
       "url": "https://www.timesofisrael.com/icj-says-israel-obligated-to-work-with-unrwa-jerusalem-categorically-rejects-notion/",
       "image": null,
       "published_at": "2025-10-22T18:43:28.000Z",
-      "summary": "In non-binding opinion, top UN court dismisses Israeli submission on Hamas 'infiltration' of Palestinian relief agency, claiming the evidence that it is not neutral is insufficient\nThe post ICJ says Israel obligated to work with UNRWA; Jerusalem &#8216;categorically rejects&#8217; notion appeared fi"
+      "summary": "In non-binding opinion, top UN court dismisses Israeli submission on Hamas 'infiltration' of Palestinian relief agency, claiming insufficient evidence that it is not neutral\nThe post ICJ says Israel obligated to work with UNRWA; Jerusalem &#8216;categorically rejects&#8217; notion appeared first on "
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1059,7 +1069,7 @@
       "url": "https://www.timesofisrael.com/ai-becomes-reality-in-music-video-of-returning-gaza-hostages/",
       "image": null,
       "published_at": "2025-10-22T17:20:21.000Z",
-      "summary": "Pop singer Yoni Bloch originally posted clip in January showing imagined release of captives, before redoing video with their actual return\nThe post AI becomes reality in music video of returning Gaza hostages appeared first on The Times of Israel.\n"
+      "summary": "Pop singer Yoni Bloch originally posted clip in January showing imagined release of captives; has now redone it with their actual return\nThe post AI becomes reality in music video of returning Gaza hostages appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1405,11 +1415,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Donald Trump pledges land strikes on alleged drug cartel targets",
+      "title": "Updates: Donald Trump meets with NATO’s Mark Rutte at White House",
       "url": "https://www.aljazeera.com/news/liveblog/2025/10/22/live-trump-to-host-nato-chief-as-putin-meeting-collapses?traffic_source=rss",
       "image": null,
       "published_at": "2025-10-22T14:15:33.000Z",
-      "summary": "NATO Secretary-General Mark Rutte visits the US as Trump proposes freezing the battle lines in the Russia-Ukraine war."
+      "summary": "These are the updates for Wednesday, October 22, 2025, as Trump addresses a new US military strike in the Pacific Ocean."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -2100,16 +2110,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-ed8e-d7e9-adfd-ffefd2790007/14/28/98a0d30640cd82c755def5078a58/mobilhand-m-signal.png?height=81",
       "published_at": "2025-10-21T11:29:01.000Z",
       "summary": "An international investigation reveals an Indonesian company selling advanced surveillance tools used to track journalists, critics, Jared Leto and even a prosecutor of Netanyahu – and how Israelis with ties to Africa got caught in the web"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "French ex-president Sarkozy begins jail sentence for campaign finance conspiracy",
-      "url": "https://www.bbc.com/news/articles/cvgkm2j0xelo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4336/live/5e31dbc0-ae83-11f0-aa13-0b0479f6f42a.jpg",
-      "published_at": "2025-10-21T11:27:02.000Z",
-      "summary": "Nicolas Sarkozy, president from 2007-2012, has appealed against his jail term at La Santé prison."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
