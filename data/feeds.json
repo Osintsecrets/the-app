@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-28T21:08:08.926Z",
+  "generated_at": "2025-10-28T21:34:10.947Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -10,6 +10,16 @@
       "image": null,
       "published_at": "2025-10-28T22:54:26.000Z",
       "summary": "According to KAN, Israeli officials were notified of Hamas's actions in the video as they happened."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "A ‘not-quite-ceasefire’: UNIFIL–IDF incident raises concerns of escalation - analysis",
+      "url": "https://www.jpost.com/middle-east/article-871981",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3090,w_5019/687385",
+      "published_at": "2025-10-28T22:52:22.000Z",
+      "summary": "A Lebanese source said that ‘UNIFIL’s planned drawdown leaves the south at risk of a deterrence vacuum the LAF is not equipped to fill.’"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -47,7 +57,7 @@
       "topic": "News",
       "title": "Hamas official squarely blames Israel for delayed return of hostages in Al Jazeera interview",
       "url": "https://www.jpost.com/middle-east/article-871965",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/687358",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2784,w_4032/687358",
       "published_at": "2025-10-28T21:54:04.000Z",
       "summary": "\"We have exerted every possible effort to recover the bodies,\" Hindi claimed, and Israel \"bears full responsibility for any delay in retrieving the remaining ones.\""
     },
@@ -82,14 +92,84 @@
       "summary": "Adam Louis-Klein’s Movement Against Antizionism (MAAZ) calls for a paradigm shift, identifying antizionism as a hate movement that endangers Jewish communities through dangerous narratives and libels."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "חמאס בהודעה רשמית: אותרו החללים החטופים עמירם קופר וסהר ברוך",
+      "url": "https://www.ynet.co.il/news/article/byseehrcge",
+      "image": null,
+      "published_at": "2025-10-28T21:26:17.000Z",
+      "summary": "אחרי שהאשים את ישראל בהפרת ההסכם והודיע שלא ישיב חטופים חללים, ארגון הטרור הודיע כי איתר את קופר וברוך, שנרצחו בשבי"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
       "title": "NYPD boots 'laced by IDF,' Mamdani says in resurfaced 2023 video",
       "url": "https://www.jpost.com/american-politics/article-871970",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3743,w_5500/687368",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/687368",
       "published_at": "2025-10-28T21:24:33.000Z",
       "summary": "In a September 2023 video, the NYC mayoral candidate argued that Israeli struggle is tied to American capitalist interests."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaW5kZXBl",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Nine killed as Israeli planes strike Gaza in test of US-brokered ceasefire",
+      "url": "https://www.independent.ie/world-news/middle-east/nine-killed-as-israeli-planes-strike-gaza-in-test-of-us-brokered-ceasefire/a1271678980.html",
+      "image": "https://focus.independent.ie/thumbor/Wpv-mEAhXjL0q6QzcPc5AA1CC64=/720x0/smart/prod-mh-ireland/d6d69e24-00a2-418b-9d3d-35e8b422eaab/196feab0-1a24-487f-a977-e48c715dc8b2/d6d69e24-00a2-418b-9d3d-35e8b422eaab.jpg",
+      "published_at": "2025-10-28T21:21:44.000Z",
+      "summary": "Israeli planes launched strikes in Gaza on Tuesday after Israel accused the militant group Hamas of violating a ceasefire in the Palestinian territory, the latest test of a fragile deal brokered earlier this month by U.S. President Donald Trump."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Air Arabia Abu Dhabi Launches Direct Flights to Damascus, Enhancing UAE-Syria Connectivity: What You Need to Know - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcTI1a3I5VEZ4UVhyaG55TFo0eGRxV0hQVmZ3RjdQNGJNZEtHeE9taTlPaXRVNXVwMk8wejh0VGVaeHRlTmNGQ3dhWUJxUVBKZEhGSE83NzZ3VXJIcktDT1Y3Q2JjRWRxRXdQbTNrYVBPSnVxYUh6QjEyc0lNM3ZpTU9MQzktSnJqU0g1Uk40ZEhudEFJdUNrbGFzd2ViWmFTbFh5QkxQaUVwWGZhMDIwV1pveFpSS2lBS0JBVzQ2UUxNYXBDSXhnb2RBUko5VHlmdnZBSUl3c2RYM0JjcEdhN3ZsZXUwVmh4dDdaM2VPekJGQQ?oc=5",
+      "image": null,
+      "published_at": "2025-10-28T21:16:31.000Z",
+      "summary": "Air Arabia Abu Dhabi Launches Direct Flights to Damascus, Enhancing UAE-Syria Connectivity: What You Need to Know  Travel And Tour World"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Autistic Israeli teen being held as security detainee for two weeks after visit to West Bank",
+      "url": "https://www.haaretz.com/israel-news/2025-10-28/ty-article/.premium/autistic-israeli-teen-being-held-as-security-detainee-after-visit-to-west-bank/0000019a-2c79-db3e-affa-bf7dfb170000",
+      "image": "https://img.haarets.co.il/bs/0000019a-2c9b-db3e-affa-bf9f6a110001/29/4d/14feb240432a8f3eb3ddca5c465b/63578920.JPG?height=81",
+      "published_at": "2025-10-28T21:13:53.000Z",
+      "summary": "The 14-year-old boy, a resident of central Israel, was arrested two weeks ago on suspicion of security offenses. His mother and an attorney who visited him at the detention facility said he has been subjected to harsh conditions and violence by both guards and inmates"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UN links UAE to weapons transfers fueling wars in Sudan and Somalia - Hiiraan Online:: Somali news",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkhNZjJRR19rN042eEVLbF85ajFnbmxKYjg3Y09nbi0ySHJIZUFfSHdnTFFrLVg0U0tVWmpFRHpIQnZTRmpjd2Q4dGFCVHFQeHA4ZWF2cmtlRWFCdXVHSWRQWi1TTXN4OEFSNzFhU3lOVmp3TWxzUFJWUGdsV29OUUNBWVpsZHBrN3loR3p0OTE5RWNvalNWeVVwaV9nSS1PS1JTQUQ1bVdNdUdTVW0ybmtKeW5aRzhU?oc=5",
+      "image": null,
+      "published_at": "2025-10-28T21:13:28.000Z",
+      "summary": "UN links UAE to weapons transfers fueling wars in Sudan and Somalia  Hiiraan Online:: Somali news"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "64 הרוגים בקרבות בפאבלות של ריו, במבצע חסר תקדים לפני פסגת האקלים",
+      "url": "https://www.ynet.co.il/news/article/byzpiocagx",
+      "image": null,
+      "published_at": "2025-10-28T21:10:06.000Z",
+      "summary": "חילופי אש בין שוטרים לעבריינים בשתי שכונות עוני בריו דה ז'ניירו, שנוהגת לבצע פשיטות ומעצרים נרחבים לפני אירוח אירועים בינלאומיים. ריו הגדירה את המבצע המשטרתי כגדול בתולדותיה, עם מספר ההרוגים הרב ביותר. המבצע שיבש את הלימודים בעשרות בתי ספר ומרפאות ושינה את מסלולי האוטובוסים"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Haaretz Cartoon",
+      "url": "https://www.haaretz.com/opinion/daily-cartoon/2025-10-28/ty-article-opinion/haaretz-cartoon/0000019a-2ca5-d4aa-a9fa-2ee5ce040000",
+      "image": "https://img.haarets.co.il/bs/0000019a-2ca6-d36c-a3bf-bcf740c70001/d8/ec/65e9f10645efb245d844d8c1bc7e/image-2025-10-28-140828175.png?height=81",
+      "published_at": "2025-10-28T21:09:48.000Z",
+      "summary": ""
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -112,6 +192,16 @@
       "summary": "The Knesset is set to vote on a controversial bill that would split the attorney-general's role, sparking debates over its impact on Israel's legal system."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Pakistan Is Paying a High Price for Its Taliban Strategy - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHJGb3VsNGtkOTVTMExZWDI5RmNVY01oOHZJbDlYZGMtV3F1OTFaYlY0Z3djMTU2RmNubnVjci1vdE42MExJdXNTUlBjS01EMXI2TVhxQldtakZUYzFMQ3RMMmpMLTJxWGZmaHpaZHVmdFNNenRQOUx2ckdzWklvcy03UERvaDY1eHg4dUt3TzhWaGNBQ2YxZG1WMnhnX2p2eU1sMFd5ejhYZkNBNzYw?oc=5",
+      "image": null,
+      "published_at": "2025-10-28T21:00:11.000Z",
+      "summary": "Pakistan Is Paying a High Price for Its Taliban Strategy  Bloomberg"
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -119,7 +209,7 @@
       "url": "https://www.aljazeera.com/news/2025/10/28/catastrophic-category-5-hurricane-melissa-makes-landfall-in-jamaica?traffic_source=rss",
       "image": null,
       "published_at": "2025-10-28T20:58:37.000Z",
-      "summary": "World Meteorological Organisation dubs slow-moving Melissa the ‘storm of the century’ as Cuba braces for impact."
+      "summary": "World Meteorological Organization dubs slow-moving Melissa the ‘storm of the century’ as Cuba braces for impact."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -158,7 +248,7 @@
       "title": "Tensions rise along Israel-Lebanon border despite ceasefire - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LZGpGUlJaNV9TSmdNZW1XeG1RSVhabDJaeTFlTXZnS1BUT1pYenliVXVxeFI4LWMxdEhtQWNYaFRNaDlIV2Y5ZS0zc2JOQWdQbWFsVTNoYjI0bm43?oc=5",
       "image": null,
-      "published_at": "2025-10-28T20:52:22.000Z",
+      "published_at": "2025-10-28T20:54:20.000Z",
       "summary": "Tensions rise along Israel-Lebanon border despite ceasefire  The Jerusalem Post"
     },
     {
@@ -305,7 +395,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Video evidence of atrocities emerges as Sudan’s RSF seize el-Fasher",
+      "title": "Video evidence of atrocities emerges as Sudan’s RSF seizes el-Fasher",
       "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/video-evidence-of-atrocities-emerges-as-sudans-rsf-seize-el-fasher?traffic_source=rss",
       "image": null,
       "published_at": "2025-10-28T20:16:52.000Z",
@@ -522,16 +612,6 @@
       "summary": "Hezbollah Rebuilds Military Capabilities in Southern Lebanon With Iranian Support Amid US Pressure, Israeli Strikes  Algemeiner.com"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "IDF soldier suicide attempts spike to 279 since 2024, Knesset report reveals",
-      "url": "https://www.jpost.com/health-and-wellness/article-871963",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1914,w_3219/687352",
-      "published_at": "2025-10-28T19:37:25.000Z",
-      "summary": "A new Knesset report shows a significant rise in suicide attempts among IDF soldiers, with 279 attempts recorded between January 2024 and July 2025."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -540,16 +620,6 @@
       "image": null,
       "published_at": "2025-10-28T19:34:05.000Z",
       "summary": "Strikes come after terror operatives fire at soldiers in Rafah, fake 'unearthing' hostage remains; Hamas denies involvement, nixes planned release of deceased captive Tuesday night\nThe post IDF strikes said to kill 7 in Gaza, as Israel vows Hamas will &#8216;pay&#8217; for violations appeared first "
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Ben Gvir: 'Hamas is abusing hostages because of me? Give me a break!'",
-      "url": "https://www.israelnationalnews.com/news/416964",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1197292.jpg",
-      "published_at": "2025-10-28T19:32:58.000Z",
-      "summary": "Minister of National Security, Itamar Ben-Gvir admits that he does not regret the changes made to prison conditions, 'Ayman Odeh is not my brother - he’s a terror supporter.'"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -562,16 +632,6 @@
       "summary": "We look at the deals between some African nations and the Trump administration to accept deportees from the US."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Public session in West Lebanon to discuss New Hampshire’s climate action plan - Valley News",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kOTQ1TEJTYVh3VmZaSWE5eXUzVFIwd0ZkNXhJal8yYVN1eURwbXlGdUhuMm9lbnI2TlZEMWF2emlYNGVWVklXWnZYU2NFV1JNMXZZWFlBV05saHhCMXREd0VR?oc=5",
-      "image": null,
-      "published_at": "2025-10-28T19:29:12.000Z",
-      "summary": "Public session in West Lebanon to discuss New Hampshire’s climate action plan  Valley News"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -582,36 +642,6 @@
       "summary": "The war in Gaza may have ended, but Netanyahu remains set on dragging out the trial for as long as possible, until he can find an escape route. 'The trend is clear,' someone in a strategic position told Haaretz. 'We're on the verge of a different system of government'"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Linda F. (Leahy) Leedy Obituary - Lebanon Daily News",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TRkRIX29NdTZKc2JVSTVRTjBKVVhrMkpKUUtwU0kwVXdCTGFxWmczb3NuVEViM2RZa3BORkV4Nzh6NUNiSWd0Rm82emh5VGM1b094Q0JUYlk?oc=5",
-      "image": null,
-      "published_at": "2025-10-28T19:28:12.000Z",
-      "summary": "Linda F. (Leahy) Leedy Obituary  Lebanon Daily News"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "One year later: the hero who saved everyone can't save himself",
-      "url": "https://www.israelnationalnews.com/news/416520",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1202070.jpg",
-      "published_at": "2025-10-28T19:24:20.000Z",
-      "summary": "Time is running out. For 30 years, Natan Kenig brought joy as event producer and chef. Now the \"invisible wounded\" veteran can't attend friends' weddings. Creditors won't wait forever. October 7 destroyed his business, left crushing debts."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Decision on sending troops for Gaza peace force ‘in process, has to be finalised’: Asif",
-      "url": "https://www.dawn.com/news/1951805/decision-on-sending-troops-for-gaza-peace-force-in-process-has-to-be-finalised-asif",
-      "image": "https://i.dawn.com/large/2025/10/28224627c1e75c0.webp",
-      "published_at": "2025-10-28T19:23:49.000Z",
-      "summary": "Defence Minister Khawaja Asif on Tuesday said that a decision on sending Pakistani troops for the Gaza peace force was still being finalised and “it is in process”.\nA cornerstone of the US-brokered Gaza Peace Agreement is the establishment of the International Stabilisation Force (ISF), composed ..."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -620,16 +650,6 @@
       "image": null,
       "published_at": "2025-10-28T19:22:31.000Z",
       "summary": "Sudan&#039;s army says it&#039;s pulled out of el-Fasher in North Darfur state. "
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Afghan negotiators backpedalled on agreement after contacting Kabul: Khawaja Asif",
-      "url": "https://www.dawn.com/news/1951757/afghan-negotiators-backpedalled-on-agreement-after-contacting-kabul-khawaja-asif",
-      "image": "https://i.dawn.com/large/2025/10/28124317d2d0756.webp",
-      "published_at": "2025-10-28T19:21:58.000Z",
-      "summary": "Defence Minister Khawaja Asif on Tuesday said that an agreement was about to be reached with Afghanistan, but Afghan negotiators backpedaled after contacting Kabul during the negotiations.\nA second round of talks between the two sides had begun on Saturday in Istanbul.\nThe Qatar talks had come af..."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1332,16 +1352,6 @@
       "summary": "לפני שנים זה נראה כמו חלום, אבל לפי גורמים בלבנון - עם סיוע מודיעיני מישראל - הצבא המקומי מתקרב להשלמת פירוק ארגון הטרור מנשק בדרום לבנון. בעומק המדינה, שם רוב הנשק האסטרטגי של חיזבאללה, המשימה מורכבת הרבה יותר - והחיילים לא רוצים להסתכן: \"צריך פשרה פוליטית\". הסיוע מארה\"ב עשוי להגיע רק בעוד חודשים -"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "פיצול תפקיד היועמ\"שית מגיע לכנסת: מה זה אומר, ואיך נתניהו עשוי להרוויח?",
-      "url": "https://www.ynet.co.il/news/article/b1quozralx",
-      "image": null,
-      "published_at": "2025-10-28T13:26:58.000Z",
-      "summary": "בכנסת תעלה מחר לקריאה טרומית ההצעה לפצל את תפקיד היועמ\"שית, בעקבות ההערכה שבג\"ץ לא יאשר את הדחת בהרב-מיארה. אז מה אומרת הצעת החוק, למה היא עולה דווקא עכשיו, מה גרם לשר לוין לשנות את דעתו, מה הסמכויות שאותן רוצים לפצל, מה ירוויח מכך רה\"מ והאם בג\"ץ עשוי להתערב? ynet עושה סדר"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -1360,16 +1370,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/088a/live/debd6fa0-b3fd-11f0-8c1c-ab1fe11583d1.jpg",
       "published_at": "2025-10-28T13:07:57.000Z",
       "summary": "General Albert Pike's statue, toppled during George Floyd protests in 2020, is restored under orders from President Donald Trump."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "גאורגיה גולשת לדיקטטורה? השלטון דורש לפרק את מפלגות האופוזיציה",
-      "url": "https://www.ynet.co.il/news/article/bji3uvcrxg",
-      "image": null,
-      "published_at": "2025-10-28T12:55:10.000Z",
-      "summary": "גאורגיה הייתה במשך שנים אחת המדינות הדמוקרטיות והפרו-מערביות ביותר מבין מדינות ברית המועצות לשעבר, אבל לאחרונה - עם מפלגת שלטון שהתקרבה לפוטין ומעבירה חוקים בהשראתו - גולשת למשטר סמכותני. אחרי הקפאת ההצטרפות לאיחוד האירופי ושנה של מחאות הודיע היום יו\"ר הפרלמנט על עתירה לבית המשפט בדרישה להוציא מהחוק"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2582,26 +2582,6 @@
       "summary": ""
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "NYT: U.S. monitoring IDF activity in Gaza during cease-fire using drones, officials say",
-      "url": "https://www.haaretz.com/gaza/2025-10-25/ty-article/.premium/nyt-u-s-monitoring-idf-activity-in-gaza-during-cease-fire-using-drones-officials-say/0000019a-1840-d582-a39e-5af4d6b30000",
-      "image": "https://img.haarets.co.il/bs/0000019a-1862-d77b-a3ff-3fe3f54d0000/a1/94/e5cdbd244872a44a61f1a9608507/554208.jpg?height=81",
-      "published_at": "2025-10-24T23:03:36.000Z",
-      "summary": "Two Israeli military officials and an American defense official told The New York Times that Israel had agreed to the monitoring, which former U.S. Ambassador Daniel Shapiro said is a 'very intrusive version of U.S. monitoring on a front where Israel perceives an active threat'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Hundreds of Israelis protest for Gaza hostage activists charged with arson near Netanyahu residence",
-      "url": "https://www.haaretz.com/israel-news/2025-10-25/ty-article/.premium/hundreds-of-israelis-protest-for-hostage-activists-charged-with-arson-near-netanyahu-home/0000019a-17fe-d2fc-a79a-9ffe78d60000",
-      "image": "https://img.haarets.co.il/bs/0000019a-182f-de9d-adbe-fcef657a0001/2e/87/2ac9ee834befb83e4340e6b153c2/554473.jpg?height=81",
-      "published_at": "2025-10-24T22:01:56.000Z",
-      "summary": "According to their lawyer, the four activists are held in solitary confinement. 'Thanks to you, we succeeded in bringing the living [hostages] alive,' said a protester who is a relative of a slain hostage. 'I'm here because you were there for me'"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -2999,6 +2979,16 @@
       "url": "https://www.jpost.com/breaking-news/article-856742",
       "image": null,
       "published_at": "2025-06-05T19:42:12.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "Seven Church of England priests face disciplinary process over abuse scandal",
+      "url": "https://www.jpost.com/breaking-news/article-856737",
+      "image": null,
+      "published_at": "2025-06-05T19:16:04.000Z",
       "summary": ""
     }
   ]
