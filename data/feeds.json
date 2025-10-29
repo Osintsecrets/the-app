@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-10-29T11:08:15.342Z",
+  "generated_at": "2025-10-29T11:32:45.531Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF intercepts drone smuggling three rifles over Egypt border as Gaza ceasefire resumes",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-872041",
+      "image": null,
+      "published_at": "2025-10-29T13:27:35.000Z",
+      "summary": "The IDF's statement did not clarify whether the smuggled weapons were intended for terrorists in Gaza or criminal gangs in southern Israel."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Likud ousts MK Edelstein from Foreign Affairs and Defense Committee over 'discipline' violations",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-872046",
+      "image": null,
+      "published_at": "2025-10-29T13:16:13.000Z",
+      "summary": "Katz also said that Edelstein would be barred from submitting private legislation and from speaking on behalf of the Likud faction in the plenum for two months."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -42,6 +62,16 @@
       "summary": "Joseph Cohen sits down with JPost's Michael Starr to discuss his experiences with antisemitism and more."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ben & Jerry's co-founder says Unilever blocked Palestine-themed ice cream",
+      "url": "https://www.bbc.com/news/articles/c1lqeqv9j9no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc4c/live/b3d3d5f0-b460-11f0-85b2-cb0a7dd6ae85.jpg",
+      "published_at": "2025-10-29T11:32:07.000Z",
+      "summary": "Ben Cohen says he will independently create the new watermelon flavour in support of \"permanent peace in Palestine\". "
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -52,21 +82,211 @@
       "summary": "Jerusalem residents and visitors share skepticism over whether the new US ceasefire initiative can bring lasting calm after nearly two years of conflict between Israel and Hamas in Gaza."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US will reduce its troops on Nato's eastern flank, Romania says",
+      "url": "https://www.bbc.com/news/articles/c8670d9xq32o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5136/live/a1df0300-b4b6-11f0-aa13-0b0479f6f42a.jpg",
+      "published_at": "2025-10-29T11:27:01.000Z",
+      "summary": "Bucharest said between 900 and 1,000 American troops would remain stationed in Romania - down from 1,700."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Join the 'last neighborhood': Jerusalem's final chance for community living",
+      "url": "https://www.israelnationalnews.com/news/416627",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1201622.jpg",
+      "published_at": "2025-10-29T11:21:53.000Z",
+      "summary": "As Jerusalem Turns to High-Rises, One Area Offers the Last Opportunity for Traditional Family-Oriented Housing-And an Exclusive Investment Group Is Forming Now"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Pakistan's Defense Minister warns Afghanistan of stern response to any new militant attacks - The Edwardsville Intelligencer",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWRwbFBVcjQtWk51ZG9ZLUhMeW1PWjJhX244LWpkZEVEM0hWdVhRbGh5YTZBVi14S2FlOXJSbUx5WUVpSzNJOG1LX0E1SUdjcEVVSkh6VmplZDNLdms3dUFpaGNHVXVxTDgweHh5QUo1a2lDREpFYlh4SUlPYnZ3cWlHQ210dEJ4Ti1EYlFBR3JHTk1zcHhlNG5IYkV4N0hXWHhNNXNmaURVa19SaWE5ODBsVQ?oc=5",
+      "title": "'Will push them back into caves': Pak Defence Minister Khawaja Asif threatens to 'obliterate' Afghan Taliban - India TV News",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOY2dsWXJBa2ZfZFhrOUREeFNtQk1ZZ2J0RklQcjNrSGJNbExYYUNuYmNUNU5pcUQwcG1RaHhlWV9zREdxZ3BsWTZ6TXpMZmF1MkdreXZFY1RHeFlOUkRVdmNCODl0T0huSFdJYUQ4Y0ZUU0ZEZGp0YzExalBUS2piU2wwdDMxQmFUeEtkX1JYODRIM0lRbWlJWkVMTXRUNkZTTjBSWEJ1MVBzQUNvS1d2TVFrUVZyNVk1RlhxZGpUZFJuSUJaNjl0eDdpaUV5dlJCRWZvX2xCN1hzaTNoVWFCM3haNTIzTUNMb1VKSWpFREN0NUxvRlpmRXM0VnBha0w5bTl5WkZxZ3hhUdIBjwJBVV95cUxPWVhSa1B2UlZUdFdRZVc4cnVIc0lyR1dGMlpRT3M1Vk5JRFZ3ZkZHLVVzRi1ZbjJFS1c2ZUxHXzFfaGpqM244R201VWpKcFlzVXBNTi1DQkJpQnhBMWZUc0syVnEwcVJiLUdyQ29hUV9IMUVtQmFVM1RORW5sNTJsbndpSG13OERUQWVaQ0txTVBHWjBQTW1RVzY0U201Y2FMYzdVbUhDLVB0cEhkalZFS01hUVdpUi05RW9qMUlsWVRkemdkSy1PRnd3UWVhLW95YWE5aEFpRTBDTFJIRUFjdnJobjVOd2dVeUdPdUk1ejRVVFNIRkdBaTdLXzJVemgzX0JiVF8wVFpkMG5CeDhz?oc=5",
       "image": null,
-      "published_at": "2025-10-29T10:57:54.000Z",
-      "summary": "Pakistan's Defense Minister warns Afghanistan of stern response to any new militant attacks  The Edwardsville Intelligencer"
+      "published_at": "2025-10-29T11:19:10.000Z",
+      "summary": "'Will push them back into caves': Pak Defence Minister Khawaja Asif threatens to 'obliterate' Afghan Taliban  India TV News"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "S Korea announces lowering of some tariffs as part of new US trade deal",
+      "url": "https://www.bbc.com/news/articles/cly4jz9zr50o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b66/live/6a9521c0-b4a4-11f0-885f-31ec668fe78e.jpg",
+      "published_at": "2025-10-29T11:18:55.000Z",
+      "summary": "Seoul will also invest $350bn in the US as part of the deal, which Donald Trump says is \"pretty much finalised\". "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Investigation after woman left behind by cruise ship dies on island",
+      "url": "https://www.bbc.com/news/articles/c62eww646wjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5029/live/7b55a3b0-b4ac-11f0-af34-1517978c0fa1.jpg",
+      "published_at": "2025-10-29T11:18:38.000Z",
+      "summary": "Crew of Coral Adventurer only realised the 80-year-old Australian was missing hours after they left Lizard Island on the Great Barrier Reef."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "I oppose Mamdani's stance on Israel. This is why I am voting for him",
+      "url": "https://www.haaretz.com/opinion/2025-10-29/ty-article-opinion/.premium/i-oppose-mamdanis-stance-on-israel-this-is-why-i-am-voting-for-him/0000019a-2b89-d4aa-a9fa-2bcdb05f0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-2f8c-d36c-a3bf-bfdd3da30001/30/30/5c0694544639952f598b963229c0/439767.jpg?height=81",
+      "published_at": "2025-10-29T11:17:00.000Z",
+      "summary": "Zohran Mamdani's pro-Palestinian advocacy has triggered histrionic accusations that he's a 'jihadist,' but it's also unnerved many liberal Jews. What he thinks about foreign policy is far less crucial for U.S. Jews than his stance against the forces threatening America's entire system of democracy, "
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE: AVEVA to showcase industrial intelligence platform at ADIPEC - ZAWYA",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUE1ZmZ3VlpVVDZxb0k2aFphVy00b2RLdzhFS3JCcWN1T0NPUUZDbFlwVkJoeHU0cGdMdUJPU28xR25pblJXZ0RtOVBwdEJBZWl2MnR4QzZmWWZ4UFFCQ2VBSTlxcGpSZjYwc1hXU2hSQmdrMkJDYnBkNy1LclZ6ckkwWHZ1LU5aZ2lVWXNEOUtHd3g0cG1YQzBvdzZhbTdVdHZnOEJSQzZEdUpMSEU0?oc=5",
+      "image": null,
+      "published_at": "2025-10-29T11:16:58.000Z",
+      "summary": "UAE: AVEVA to showcase industrial intelligence platform at ADIPEC  ZAWYA"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Italy–UAE: new deals accelerate the strategic partnership - Decode39",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHZNdlBCc250TlJWM3lwYk9lbFBMWm0xMjFuVXM2VzloXzQ1QXNSV3pIbTREbGVxS1pUMndMNHVZM3ZNNThEdGphTlBBd2ZLMDdRTzBBYkZDOFRxVDFtYVBuSHBkY2JoUDJPZ21KZ3hXWGRncTV6b01WUnh3TTJIYm80cXFiT2ZVelREaQ?oc=5",
+      "image": null,
+      "published_at": "2025-10-29T11:15:47.000Z",
+      "summary": "Italy–UAE: new deals accelerate the strategic partnership  Decode39"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "PA Lt. Gov. Austin Davis meets with reps of Lebanon County Regional Police - LebTown",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSjFtYXpYVHdYeGlUZW9MeXhnLUpUWWpVOU1kS1NMaXNuemtJdWRVV1I1TEJlRUU0aWJwbU9LSm1yWjJNWm9LVzVoeHRXeGNfTVF3bGNXNGdUeF9hdTU0LWpMVWxidDVRYnl4UUdwWTExNm5pdUQ2SW5ibUUxMlFHNGhCU2V4YnRMelpPS0ZrbEp2R0Q1eWFvWi1zMnhsZEFvNDEzZElVSQ?oc=5",
+      "image": null,
+      "published_at": "2025-10-29T11:15:00.000Z",
+      "summary": "PA Lt. Gov. Austin Davis meets with reps of Lebanon County Regional Police  LebTown"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "PTI delegation meets Fazl, JUI-F agrees to support Achakzai’s nomination for NA opposition leader",
+      "url": "https://www.dawn.com/news/1951971/pti-delegation-meets-fazl-jui-f-agrees-to-support-achakzais-nomination-for-na-opposition-leader",
+      "image": "https://i.dawn.com/large/2025/10/291516397853efc.webp",
+      "published_at": "2025-10-29T11:14:03.000Z",
+      "summary": "The Jamiat Ulema-i-Islam-Fazl (JUI-F) has agreed to lend its support to the PTI in nominating Pakhtunkhwa Milli Awami Party’s (PkMAP) Mehmood Khan Achakzai for the opposition leader’s slot in the National Assembly (NA).\nThe development comes over a week after the PTI formally requested the appoin..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "ILT20 Season 4: Mascot revealed as UAE student’s design comes to life - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYnNreHRlOXBWLTByRm1fOTFqcGZ6MU1YVlp2RzJDLU1kaHREYzVsNGl4ZTNBVk1QQmJYSzQwRU12Y0otQW9IdGtBbzlUV1Z0c0hKLVBWemdtSGd4bWtqSGNwd2dUaE0yd1Mta3VPUUt6MllJdWg3T0UzTEJtZHZIXzZFT3JvN0FkZWh1VFZpR0l5NjdNb3p6SjRvODIzLXU5Nk1TV1JPRFZBVjZkM1owa2M1NS1HX05fWEIwZ3pqUWhoM1cxWGFoWlo1WXJGVUNOdzlhQkR6S0tCWlFDbi14OW1qZ9IB6AFBVV95cUxQWGY1NldFM0I5ZWNlb0JXR1VIUGd5OFZFMDQ1VjY0TUoxYkZCM0c1Tms5ckhmVWxDWUh5cF9CZ3dkTkYtRVgxd0FuQWZIOVBOTkEzZnBtYnVQRE1qWHhYYzVnSXoxUE9IUzFWMks1ZEVPYm8yRV9VeHV2X2c5Nmc5bC1pcmtGUkxpZVMxTEsyekZMOHFPcnA4NDhwTnpqSkw1M0dwRkVmdDlPQ3JxQjZBc2ZWdHJ4MGpfeEU2ejIwRjZTbW1EYWp5RWRnSEN6NXU3Njh4dWRCYXJnYVktSnV0WllObXV4enhZ?oc=5",
+      "image": null,
+      "published_at": "2025-10-29T11:10:00.000Z",
+      "summary": "ILT20 Season 4: Mascot revealed as UAE student’s design comes to life  The Times of India"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Pakistan calls for cessation of Gaza ceasefire violations after Israeli strikes kill over 100",
+      "url": "https://www.dawn.com/news/1951967/pakistan-calls-for-cessation-of-gaza-ceasefire-violations-after-israeli-strikes-kill-over-100",
+      "image": "https://i.dawn.com/large/2025/10/291539146ff19a2.webp",
+      "published_at": "2025-10-29T11:09:29.000Z",
+      "summary": "Pakistan on Wednesday called for the immediate cessation of Gaza ceasefire violations by Israel after the latter’s strike on the Palestinian enclave killed more than 100 people.\nGaza’s health ministry said at least 104 people were killed after Israel carried out air strikes on the Palestinian ter..."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli hostages were forced to eat worm-riddled food in Gaza: 'We told ourselves it was protein'",
+      "url": "https://www.haaretz.com/israel-news/2025-10-29/ty-article/freed-israeli-hostage-describes-how-they-were-forced-to-eat-worm-riddled-food-in-gaza/0000019a-2f48-d4aa-a9fa-2fcca4ac0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-2f5e-d4aa-a9fa-2fde85d10001/47/0a/9a989cbf4e62b021f34cd9bb2e95/434705-2.jpg?height=81",
+      "published_at": "2025-10-29T11:07:06.000Z",
+      "summary": "Yosef Chaim Ohana's two-year captivity in Gaza included fleeing from Israeli airstrikes, starvation and 11 months in a tunnel, he recounted in a television interview. 'Our captors didn't beat us when there was a cease-fire,' he said. 'Reports on Palestinian prisoners' conditions had a direct impact'"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "India Unites With UAE, Thailand, Vietnam, and Indonesia for Top Honeymoon Destinations: Why These Honeymoon Destinations Are the Most Popular Choices for Newlyweds in 2025 - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxORDFnWWlrV0dDQUVnQjRJeHFDOHlVLTZTWjZXZXhRN3ZGNGRnYmEyUGI1TkFxNU5yb0hOcDJ1cTkzbjh4UENBRDVUcGUweC14dEFIQ2txRUZ1UjBxNkxYSjhPRURid2pLbTl1b2FaMUs5S2IzbDZwNWxqUXhpQ2Fua2g0QW1HOWk1WTgteTRUWmtPYTZ1Xzl6T01yNkNWbkFoUFNhcXhyUmU2R1BUMEJreFhFd1kwcXp0VUgzdXp4ZjZQODlkWHZPNDlBaG8xNWdCYkFRRkxieF9YbVIxM2xPQ0NrcFNmdkVhaXB0WmszLXlQZllsMjhCYjdQYU1LSHZxa2ZKd0sxcl9DU2hpNW55Z2wtQ2FSUEtVWHMwUm83T1NrR0JKYzVCUmZzLTF1NTA3bThsTHdxOUhOU01Z?oc=5",
+      "image": null,
+      "published_at": "2025-10-29T11:05:01.000Z",
+      "summary": "India Unites With UAE, Thailand, Vietnam, and Indonesia for Top Honeymoon Destinations: Why These Honeymoon Destinations Are the Most Popular Choices for Newlyweds in 2025  Travel And Tour World"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Nine people killed as record rains and floods lash Vietnam",
+      "url": "https://www.aljazeera.com/news/2025/10/29/record-rains-and-floods-in-vietnam-leave-at-least-nine-dead?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-10-29T11:04:37.000Z",
+      "summary": "More rain predicted after the flooding of more than 100,000 houses, most in tourist areas of Hue and Hoi An."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE gaming regulator names new chief of licensing - Gaming Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY0VoMjU4TG81emRRRUlBQWtraGUxd2xZNjJEZ3hjd3ZaSHNOeUZrazBaMDMwdUF4dE5DYWNLdVFNZi0xanN1ekhWWFFEVkVjZ2ZKSi03bTAxb3JsV3ZlNVBKOGl1RGQ0N291UEwzZlRaMHVYNVdRSi1lMHN1S181VXZoZkRUZkdQOWlPMEM1VnotREo2M0lheHdOR0xSU0lp?oc=5",
+      "image": null,
+      "published_at": "2025-10-29T11:04:03.000Z",
+      "summary": "UAE gaming regulator names new chief of licensing  Gaming Intelligence"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE Logistics Market Surpasses USD 30 Billion Milestone - Latest Insights by Ken Research - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTlN1T2RuWW5FT2pjQXVlX0JoR2Nsd0NZZjBIV0sxZ3BOMEdSX2wtOHg4WlpEY01vc0lybkNmSEJuZzBGMkFaYzRDSmhobWZQN3ljZFg4dmZYcjZtWmlmX3ZaSFBsX2R3M1hsWDNWRWJ5al9VWGR2dUEzNmJlWUpBdHJNbzl6WnhNSDNoU3Fhejg1M1BMMXpXTV9KQWh5aUU?oc=5",
+      "image": null,
+      "published_at": "2025-10-29T11:03:33.000Z",
+      "summary": "UAE Logistics Market Surpasses USD 30 Billion Milestone - Latest Insights by Ken Research  openPR.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Qatar Airways Holidays Unveils Exclusive and Customised Travel Packages for the Thrilling FIFA Arab Cup Qatar 2025, Offering Fans an Unmatched Experience - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPelJlLWtERG9sVEp4RHNOczJiOVB4ZF9aSWx2OVZpLUhKdGNDU0Q0cXJHdUhCRHIxUDc0aHlFY0p6U0tBV3Zrb2VKeHJNeU9SdWtqdm4xYWh4Rm1kcHRVRUJ5ampZaFgzX093ZDZBZURaQm1vNWNkYWxZRkpja29MODVkcGJVWE5ZYnpqcXNxM0VNUGdpeng0N2ZZTEo5REctNnNiRkVHVkJsY2QzYUc4MEFQMjllTGt4UkxNUFNZbUZkQmFYUmFsWWY1UTBWcFltUW5mcWlCMlYtbFdGZzlJLXh4OWZ5SlN6U2FoUllZcmJRbkdMbWtRX3ctanRydE14VUlBSEJqSjd0cDRESVg0N1h4Rm1IWFJwOGpsdVVMTThSazJJNnowSg?oc=5",
+      "image": null,
+      "published_at": "2025-10-29T11:03:28.000Z",
+      "summary": "Qatar Airways Holidays Unveils Exclusive and Customised Travel Packages for the Thrilling FIFA Arab Cup Qatar 2025, Offering Fans an Unmatched Experience  Travel And Tour World"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Tarar: Taliban Have Violated the Doha Agreement and Support Terrorist Groups - Hasht-e Subh Daily",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTXN3anFaOUY1NHNmek01cDd6LTBxYXFpTFk2Y2FETVNWNFNST0ZSUEVXU2F5S1lkRG85VmlvTENVZ29hcHhsT3FZTnlacmpuSEZNVEwxX1FzWm5udUNxOTVlWVF3akgzM3ZyVlRwOFlodHIxZ1FURjhLcUs0bzlOSmlUSERqWXo2elFKSkd6ZjdCTlp3NURycW82TUZfVTA?oc=5",
+      "image": null,
+      "published_at": "2025-10-29T11:01:29.000Z",
+      "summary": "Tarar: Taliban Have Violated the Doha Agreement and Support Terrorist Groups  Hasht-e Subh Daily"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Qatar Oman Investment 9-month profit 3.8 mln riyals - MarketScreener",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSE1RVnJWZWFxZFFpWTJDNjZodVV1WEFEQ0pDbUNtYXNBQ2FCWlhDSjNxVmd6OHFuQ2diT2VRSTJVZDFjRmhIU1VLcm5LSjhlNU1xbllyOVAtZDF3NTB6b0R3WWVKZU1VaDdXeElCY2VrT0xWOWJWcTlIUjVUSWhvY1d2RW9YMm44N2tQakFoZ2QzTC1uSUt3eFIwazhSRlhlQ2NpRk1USQ?oc=5",
+      "image": null,
+      "published_at": "2025-10-29T10:58:25.000Z",
+      "summary": "Qatar Oman Investment 9-month profit 3.8 mln riyals  MarketScreener"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
       "title": "Pak Defence Minister dares Taliban to test Islamabad's resolve at 'own peril and doom' - Punjab News Express",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR2dKWkxJaEJ6c0NCcWJYVl9lNkZCbl83NWZQM3UwUVpESHFXQjl1eGg2R1BjZElfNFA3QkFtTG9GbUVDZE8xU3h5S2c3cjVlVWVlMjRLVkRlYnJqTXR1ZlpPUFcyRkdoR2VkQUNEYmVCNnloY1ZXeWtHTm5QMC1GQVpiaVlQbGNPZ2tUWjJZSU8wTzlFSmZveDZLODhWVjVMemtjdkdOaUlwMXB5SWxLNGhLTDZCbU1DVkdHNG9scFhFWG1sbVpKdzd5a05ESUdy?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdDE1bUEwUlZCNFhPYUF1U0dhN0hkQzByOElJVEV0QmhBMWp3MjdFOThzOVg5RVVuMlhjOWNKMzhCWUdfYXYyaVRadDk3THN0WEtKTzZLNHVyb1RUTExVN3dJTnhHbFotTThSVVFhXzV2ejNieF8za1BsOFBJVHNKWFRKNVJFdWFELXJ6Z0JCVHNicUJvdDIyYlBHVFMxeXlxc21LWnpOZzhrenVhRGdMMUowaV9RWkhnRHpPM09nRklqdy12cnk0UThTZE16SXc?oc=5",
       "image": null,
       "published_at": "2025-10-29T10:57:18.000Z",
       "summary": "Pak Defence Minister dares Taliban to test Islamabad's resolve at 'own peril and doom'  Punjab News Express"
@@ -112,14 +332,24 @@
       "summary": "The kibbutz, hit hard by the Hamas invasion, will invest NIS 20 million, joining Kibbutz Hatzerim and the firm Giza Singer Even in a NIS 115 million purchase of Arava Power shares\nThe post Kibbutz Be&#8217;eri makes first major investment since October 7 &#8211; in renewable energy appeared first on"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "PTI delegation meets Fazl, JUI-F agrees to support Achakzai’s nomination for NA opposition leader",
-      "url": "https://www.dawn.com/news/1951971/pti-delegation-meets-fazl-jui-f-agrees-to-support-achakzais-nomination-for-na-opposition-leader",
-      "image": "https://i.dawn.com/large/2025/10/291516397853efc.webp",
-      "published_at": "2025-10-29T10:47:49.000Z",
-      "summary": "The Jamiat Ulema-i-Islam-Fazl (JUI-F) has agreed to lend support to the PTI in nominating Pakhtunkhwa Milli Awami Party’s (PkMAP) Mehmood Khan Achakzai for the opposition leader’s slot in the National Assembly (NA).\nThe development comes over a week after the PTI formally requested the appointmen..."
+      "title": "Pakistan warns Taliban with destruction as peace talks fall through | Daily Sabah - Daily Sabah",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbG5zb0d4RlB1RWtOSGJyVDFLb0RMRUF0SE9hWUVLem01Ry1DSVBjWUJkYldvNF9UTW92WXZwWjQ5NThwd2tpTGpwdE1XZ3g0NkFHRzhwT09ob3JSRk1nWksxYnZUaDlWbGxXVGQ2WGhqc3NIN09RYkNiTVpqcC02bFN3RmJ1OGwtVzlzLVdLS0RiWnM3X1RPY3h0TFpBU1JfSnN2ZFFPdGVUTEVqYWwyaWhxVdIBuAFBVV95cUxNcmNxMTNIZEZIUnc0TDlYczRCYjBGbU9KNV9FeG1tQ1Zwb2lXQVl5dktZS3lOZVRFYUpjV1g5a1lDUWg5UUxhWlBzT2JZb01rREU2QTZNOUNNdHBJelZhQ3ZtZUZ2aldpMzkzNFVjaVBWcnFDWTNBUnVnaXF2VHdaaGQzM2tGblBRUFlaUXdnS2J1aUZpUU94WF9aelJ6NEhYaWJkR29SajNwbzZKVzJWMXNMRjdSelM3?oc=5",
+      "image": null,
+      "published_at": "2025-10-29T10:51:00.000Z",
+      "summary": "Pakistan warns Taliban with destruction as peace talks fall through | Daily Sabah  Daily Sabah"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Pakistan's Defense Minister warns Afghanistan of stern response to any new militant attacks - morningsun.net",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeDVpOExwX1ZkTlRWN3JDR3I3TzVtUE0zdzZHRi14RC1UWUtBVU1wREdLcXoteG9nQ2QtdkkwSFQ4cGMzai1FdGdWc3lWVzhrZ0VjQUZ6QzZfSUlIdTNiaW5CYjBuRjJGYk1LOTRGVm5UR2VqamY3c0dhRk1QWnVtZ3BlUDN3dWlhRHZzakFzSW0zUVR2THhaWTRuVlpDQlpuOGpoY3VuUnd2MXdtanRTcWlwRVdPX1FwWVhYNkpTUmNITnNxOXBXQUE0VQ?oc=5",
+      "image": null,
+      "published_at": "2025-10-29T10:48:33.000Z",
+      "summary": "Pakistan's Defense Minister warns Afghanistan of stern response to any new militant attacks  morningsun.net"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -137,7 +367,7 @@
       "topic": "News",
       "title": "Lahore continues to top global charts for poor air quality",
       "url": "https://www.dawn.com/news/1951968/lahore-continues-to-top-global-charts-for-poor-air-quality",
-      "image": "https://i.dawn.com/large/2025/10/2914465421d6277.webp",
+      "image": "https://i.dawn.com/large/2025/10/291628282e817a2.webp",
       "published_at": "2025-10-29T10:45:51.000Z",
       "summary": "Lahore continues to rank as the most polluted city in the world in terms of its air quality, the global monitor IQAir said on Wednesday.\nA day ago, the city’s Air Quality Index (AQI) reached a severe peak of 422 but dropped to 341 today — still categorised as “hazardous” — keeping it at the top o..."
     },
@@ -147,7 +377,7 @@
       "topic": "News",
       "title": "Israeli Strikes in Gaza Kill at Least 100, Local Health Officials Say",
       "url": "https://www.nytimes.com/2025/10/29/world/middleeast/deadliest-day-gaza-strikes-overnight-ceasefire.html",
-      "image": "https://static01.nyt.com/images/2025/10/29/multimedia/29int-israel-gaza-czpm/29int-israel-gaza-czpm-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2025/10/29/multimedia/29int-israel-gaza-czpm/29int-israel-gaza-czpm-mediumSquareAt3X-v4.jpg",
       "published_at": "2025-10-29T10:45:40.000Z",
       "summary": "Israel said the cease-fire had resumed after what appeared to be the deadliest day since the truce deal was agreed this month."
     },
@@ -192,16 +422,6 @@
       "summary": "New medical simulation lab in Lebanon, Mo., hopes to attract more doctors  KY3"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Elderly woman found dead after being left on Great Barrier Reef island",
-      "url": "https://www.bbc.com/news/articles/c62eww646wjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5029/live/7b55a3b0-b4ac-11f0-af34-1517978c0fa1.jpg",
-      "published_at": "2025-10-29T10:41:17.000Z",
-      "summary": "The Coral Adventurer's crew realised the 80-year-old Australian was missing several hours after they had departed Lizard Island on the Great Barrier Reef."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -242,14 +462,24 @@
       "summary": "UAE’s new hub for AI, FinTech, Web3, and disruptive ventures  ZAWYA"
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Jamaicans wake to devastation as hurricane causes floods, power cuts and splits city in two",
+      "url": "https://www.bbc.com/news/articles/c5yl09v025lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffc/live/1c03cf10-b4b4-11f0-b245-913f6e55314b.jpg",
+      "published_at": "2025-10-29T10:34:51.000Z",
+      "summary": "With communication networks in Jamaica crippled, the true scale of the disaster remains unknown."
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Index Exchange and botim money redefine payroll in the UAE with a seamless digital WPS solution - ZAWYA",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOXzdxUlcwZk5hMy1NaUVyZ0I4VXlRSldUSnJ2YlRpeW1mQVljZzZWVTRFbDAtZmItczBxczg1ajl3cEstNWUzNm1lb0dlZ2FsZGlHUHVGVGJaWk82WHRSeVRXcFR2VXdXQUxPTHdvaldqNXhvaHBCTWNySnNUdG5sWFE4OVVlTmtPNDFhcExzNUlNa2M1eHREVTFUQ1dpQ3lTaFJELTJYNmFmUG85VWFWYWQwM0hkNDdlRkV4MXZSREt6VkZZR191RW1oNVN1MGM4ZUM3dlE5S2NkY0FxOUhaSXdzZDFkT0dkUWZPODhXbw?oc=5",
+      "title": "Initiative Appoints Amine Adem as General Manager for UAE - Branding in Asia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcnNYbFlGN2hHT3BMUk9ua0hUZkl2TngyTUtaRC13T0ljMHFfeUNvSC0zTy1Ed3Q4bzBLdnBnSTlYWnJqNkJXdVBUWU9SNEx0MU1qbW9RcGZ6eHBPdl9WazZXSHRXV2YxNGdYYmZFY3dHSnVMdUNlcjVueTd2UkJ0NDhoZENjX3phMjBYbFM1VnY0SmM?oc=5",
       "image": null,
-      "published_at": "2025-10-29T10:34:12.000Z",
-      "summary": "Index Exchange and botim money redefine payroll in the UAE with a seamless digital WPS solution  ZAWYA"
+      "published_at": "2025-10-29T10:34:44.000Z",
+      "summary": "Initiative Appoints Amine Adem as General Manager for UAE  Branding in Asia"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -482,26 +712,6 @@
       "summary": "UAE Jewelry Retail Market - Ken Research Stated the Sector Valued at ~USD 10 billion with Strong Growth Potential  openPR.com"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Ahmed Nour appointed as Head of McCann Content Studios – UAE - Campaign Middle East",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU0tUeWpWZHQ0T1A5Tk5BTlU1TjVXOWp1VXNZVzNmNlJwYm1UZVZRY1VTODlGejl5dU1ZdlpGZGZrRmd2ak93OEVsblpReXQ1dWNoZG9MY1FlRlA2b1dQa1ZVSnc4aGJhaG5JY0hJbjNOa25qdHFYaGNGMGtXRWFvaV94Tk5zN1pOZFE?oc=5",
-      "image": null,
-      "published_at": "2025-10-29T10:04:39.000Z",
-      "summary": "Ahmed Nour appointed as Head of McCann Content Studios – UAE  Campaign Middle East"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar to strengthen human capital development with HR professional programme - HR Katha",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRy01cVJIOFNjSDBldFdPSzlnRXlrQVB4UlRJQVZYQ29PMktEQnliUmpQbU5PTU9YckxtVUVmMzludWpxenRNN0JTM0tmU2V2VFEtZkVVZnhhU3Q3MGdUMjE4Zm9oZ0tEaEJhMUljVGg2ZWtSSTI0dGdCRS15VlFxbVpBemQ1Y2ZnU25BRXF6VFZmazNReHJ4anFsRVlScEgyaFZjcnlVU3pyZTBNRGpVdS14UGF4Vnc?oc=5",
-      "image": null,
-      "published_at": "2025-10-29T10:04:24.000Z",
-      "summary": "Qatar to strengthen human capital development with HR professional programme  HR Katha"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -522,46 +732,6 @@
       "summary": "ZDF has now suspended cooperation with the Palestine Media Production (PMP) after working with the organization for decades."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Sheikh Mohammed unveils strategic initiatives to boost volunteering in UAE - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG5yZ0pyWU9ZLTlBM1RyOGpJb0lNY1JkeHBrd3lCWTJHa3o3V2czM2thcEQ5YWhYekF6UmlreEtnOTZwb0lrTUo3QndkSVRYVzBHUTZORmNSSENSS0pxd0duRUZNOHMtVzJBS1lmNjlIdkppV1lldjBraW4yZnprLTFrTkRZNjFVSVJHV0xSMmk4RzJtaHRGbk5TaWFGX1M2QkdaRm5tQmlDTmpxWG0yM2xzenJiWWRacklFdEZqNA?oc=5",
-      "image": null,
-      "published_at": "2025-10-29T10:02:28.000Z",
-      "summary": "Sheikh Mohammed unveils strategic initiatives to boost volunteering in UAE  Gulf News"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE develops bio-adhesive for coral reef restoration - TV BRICS",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2k4bE11dlJudHhFZUstbzlsSF8xd1RBRFhfWlJXUTR5RGRmWENiX1QyU2VYel9ubERBTmhTM29jbVFFT09oMVp6X09SVy1iYUNPbTRtVzllQ3AyRzBORkFYd2dRVE80QzRZYmxEYWJYSEQ0aTZ1S3k5dmNrdGMtYXpSRHgwYVZn?oc=5",
-      "image": null,
-      "published_at": "2025-10-29T10:01:42.000Z",
-      "summary": "UAE develops bio-adhesive for coral reef restoration  TV BRICS"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdsaW5lc2lu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Captagon Production Proliferation in the Middle East: Transformations, Challenges, and Policy Responses",
-      "url": "https://newlinesinstitute.org/state-resilience-fragility/illicit-economies/captagon-production-proliferation-in-the-middle-east-transformations-challenges-and-policy-responses/?utm_source=rss&utm_medium=rss&utm_campaign=captagon-production-proliferation-in-the-middle-east-transformations-challenges-and-policy-responses",
-      "image": null,
-      "published_at": "2025-10-29T10:00:00.000Z",
-      "summary": "For over a decade, the Syrian regime under President Bashar al-Assad, alongside actors in Lebanon, served as the primary hub for captagon production and trafficking, exploiting it as a vital source of revenue and a tool of political leverage. However, captagon production over the past four years ..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "McCann Content Studios Appoints Ahmed Nour as Head of MCS – UAE - Branding in Asia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2QzRDFRSGh3cXdJZkVFY1VfT1VuZVJyUWRxTEMtcWg3X0Z3dzJCYzh1WWxsWXV5LXlGWG8wQ0JBNlRBaW5WWXRqbmU0RTVLN0I0SWg1NmFYR2xVazliZGRnREZRcWh3VjBXYm4ta0tmSDhURG1VeWRId0NRendEWFhzRUxrVmpOUVF2SHJNVnZIeDBiYWRORQ?oc=5",
-      "image": null,
-      "published_at": "2025-10-29T09:58:27.000Z",
-      "summary": "McCann Content Studios Appoints Ahmed Nour as Head of MCS – UAE  Branding in Asia"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -572,16 +742,6 @@
       "summary": "Video released by India’s Southern Railways shows the moment a woman nearly fell in between a moving train and a station platform."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar’s manufacturing sector adds $7.25bn to GDP in H1 - Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwdzZjN3Y3RVVQOWdvV0R5ODFMTnlvdjloZnFvcEIxSTJYcjRPdndGZDVsZEVqM1Y5V0dxc1BmbmNGc1lRUF91Sjl3UFc1M1pIRGY1Q3JhRVdoYzlCc0s0bXFkMA?oc=5",
-      "image": null,
-      "published_at": "2025-10-29T09:51:42.000Z",
-      "summary": "Qatar’s manufacturing sector adds $7.25bn to GDP in H1  Arab News PK"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -590,66 +750,6 @@
       "image": null,
       "published_at": "2025-10-29T09:51:20.000Z",
       "summary": "The US president says Israel has a right to &#039;hit back&#039; after reports that a soldier was killed in southern Gaza. "
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE leaders congratulate Rodrigo Paz Pereira on winning presidential election - Tribune India",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnoxTjJvU0drTHZYcTdjc2NPVDlZSE9sRU1JQlM0UXk2Zmw2dXhfTDNOeUNfRTBuT1ZWRWdmdEhldmxSRFpsQ281ZkotY1FfQ2FhNVFtSENUVWdFZ2pkVlowMlQ5VjRfMFRMZW05Z3ZHUUVNYTFfdWZOZzFYRHc2aEhBcFZ6Y1pfS0NkXzk4R0VRazJUT0F5RjJ2aHF4NENoX29SQzlxS1pGeDlzSVh4RGFLRTQ0VVZ3RXfSAb4BQVVfeXFMTndnTTE1Qi1kc1N6VjBmUHFaNnI0QmUwbFl4RHBEWVJ0bWh5RXZvbkdHdmdtX1Jqb21vWWE3cEtxMWt1LWh5Zkc4dU9pVjVFQ1AxYkRQY1hiMllCWmpCS1Z0SnFUbE5INTB4bnlJaEgtUmN3Mno1WGwzaTRKdm5yQWgyNjZHRlVVTnZSMXJId3lfZHJXYnNLbUlvMlQ5Njk4TDlJamhxRVlpTlRCMkRGV193T2xqSmJvcUtNcGFaUQ?oc=5",
-      "image": null,
-      "published_at": "2025-10-29T09:50:18.000Z",
-      "summary": "UAE leaders congratulate Rodrigo Paz Pereira on winning presidential election  Tribune India"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "IDF announces elimination of Hezbollah terrorist responsible for logistical support",
-      "url": "https://www.israelnationalnews.com/news/416995",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1196254.jpg",
-      "published_at": "2025-10-29T09:49:38.000Z",
-      "summary": "Hussein Ali Tohmeh, Hezbollah terrorist responsible for logistical support in the Qana sector of southern Lebanon, was eliminated earlier this month, IDF confirms."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "We can defeat Taliban, set example for world, if necessary, says Asif - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObmxCcXJ4NTNoRjdnU1N5TmFPbEd0SmhmakVXQlN3eE4yYjE1aG83Mkk4Z0xVcEQwbUNrZExhdEIzenl4ZFNrbjhZMmUxVzllWUpLa0EwdDFTcTIyY2lKTk81VkNHSVZOZG5xWkJsWk9PS2Mwc1pJTTdoQV82bzZpRDRKeDlIMjJ5LWJGbVc4LUF1WlBtalVtVG9Ka0FUbTVRTDROSkJn0gGuAUFVX3lxTE5LOUtiakEwWmlnRWRia3E1amtyX3p0V3VSTW5uYjV4LUtqUEU1YWRDS0p0NEMzN01Rd3dVdGdpQmxGQlJrbEFjcWFxY1JoUDJNMERlTkV3eTZHTXZ4d2NXckNDZmFQMHg1U1AwUG0tbllka0p0eWRRMV9KTW05Sy1UY3dIY182bUdUNFhBMGc5QmYxSDRaYm1vNlI2bURmNE9rZkYycy1DcE53bWhQZw?oc=5",
-      "image": null,
-      "published_at": "2025-10-29T09:44:57.000Z",
-      "summary": "We can defeat Taliban, set example for world, if necessary, says Asif  The Express Tribune"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israeli startup ‘Multi for all’ heads to global finals in London",
-      "url": "https://www.israelnationalnews.com/news/416994",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1202135.jpg",
-      "published_at": "2025-10-29T09:44:05.000Z",
-      "summary": "'Multi for all' wins first place at EdTech Prime Time 2025 event in Tel Aviv, will represent Israel at the Global EdTech Startup Awards in London."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Ben & Jerry's Palestine flavor blocked by parent company",
-      "url": "https://www.israelnationalnews.com/news/416992",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1053461.jpg",
-      "published_at": "2025-10-29T09:41:09.000Z",
-      "summary": "Ben Cohen, the company's Jewish co-founder, said the parent company, Unilever, blocked the idea to launch a flavor that would express solidarity with Palestine."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Exclusive: Taliban official says TTP clause sparked dispute in Istanbul talks - Amu TV",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9GbmVHTFZOQmc5dGdFU00za1BSQ2tKYmhCYl9EUXJqZXJuQi1UX2UyZDdNUlVLTXpDdUE?oc=5",
-      "image": null,
-      "published_at": "2025-10-29T09:39:57.000Z",
-      "summary": "Exclusive: Taliban official says TTP clause sparked dispute in Istanbul talks  Amu TV"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -670,16 +770,6 @@
       "image": null,
       "published_at": "2025-10-29T09:35:59.000Z",
       "summary": "Songs promote hatred and conspiracy theories as part of 'increasingly radical movement,' experts say; some clips remain online despite breaching hate speech policies\nThe post German neo-Nazi rappers push hate speech and antisemitism on TikTok, Instagram, Spotify appeared first on The Times of Israel"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Turkey's Eurofighter Typhoon jet deal includes weapons package, source says",
-      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/turkeys-eurofighter-typhoon-jet-deal-includes-weapons-package-source-says_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
-      "image": null,
-      "published_at": "2025-10-29T09:35:37.000Z",
-      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npISTANBUL (Reuters) -Turkey's deal to buy 20 Eurofighter Typhoon fighter jets from Britain for 8 billion pounds ($10.7 billion) also includes a compre..."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvYjIw",
@@ -785,7 +875,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "בניגוד לפסיקת בג\"ץ: המפכ\"ל הורה לעצור אוהדי כדורגל שכינו שוטרים \"אפסים\"",
+      "title": "בניגוד לפסיקת העליון: המפכ\"ל הורה לעצור אוהדים שכינו שוטרים \"אפסים\"",
       "url": "https://www.ynet.co.il/news/article/sjklxsk1bl",
       "image": null,
       "published_at": "2025-10-29T07:50:02.000Z",
@@ -855,7 +945,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Polls open in Tanzania’s election as key opponents barred",
+      "title": "Tanzania votes in tense election as key opponents barred from race",
       "url": "https://www.aljazeera.com/news/2025/10/29/polls-open-in-tanzanias-election-as-key-opponents-barred?traffic_source=rss",
       "image": null,
       "published_at": "2025-10-29T07:17:04.000Z",
@@ -869,7 +959,7 @@
       "url": "https://www.ynet.co.il/news/article/bjmpz4jjbx",
       "image": null,
       "published_at": "2025-10-29T07:07:12.000Z",
-      "summary": "ישיר: בג\"ץ דן בעתירות שלפיהן המדינה נמנעת מגיוס חרדים - חרף פסיקותיו. נציגת הפרקליטות ננזפה שהגיעה עם נתונים חסרים: \"תחושה שפועלים רק נגד חילונים\". היא ציינה כי \"הוצאו 54 אלף צווי גיוס\", והשופטים תהו בתגובה: \"למה לא 80 אלף?\". חרדים התפרצו לאולם, צעקו: \"גאים להשתמט\" - והוצאו מהאולם"
+      "summary": "בג\"ץ דן בעתירות שלפיהן המדינה נמנעת מגיוס חרדים - חרף פסיקותיו. נציגת הפרקליטות ננזפה שהגיעה עם נתונים חסרים: \"תחושה שפועלים רק נגד חילונים\". היא ציינה כי \"הוצאו 54 אלף צווי גיוס\", והשופטים תהו בתגובה: \"למה לא 80 אלף?\". חרדים התפרצו לאולם, צעקו: \"גאים להשתמט\" - והוצאו מהאולם"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1062,16 +1152,6 @@
       "summary": "The show that Hamas put on, which was designed to hoodwink foreign observers, became a tool in Israel's hasbara war – and highlighted the weak points in U.S. President Donald Trump's cease-fire plan. Israel sees the Gaza escalation as 'controlled and temporary'"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Ben & Jerry's co-founder says Unilever blocked Palestine-themed ice cream",
-      "url": "https://www.bbc.com/news/articles/c1lqeqv9j9no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc4c/live/b3d3d5f0-b460-11f0-85b2-cb0a7dd6ae85.jpg",
-      "published_at": "2025-10-29T03:49:38.000Z",
-      "summary": "Ben Cohen says he will independently create the new watermelon flavour in support of \"permanent peace in Palestine\". "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1190,16 +1270,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/de80b320-b45d-11f0-ba3f-69e3ba5c8c32.jpg",
       "published_at": "2025-10-29T01:26:45.000Z",
       "summary": "Groups of young men are coercing and exploiting vulnerable girls \"for fun\", Australian police say. "
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "&#8216;Boot on your neck&#8217;: Mamdani in 2023 blamed Israel for police violence in New York",
-      "url": "https://www.timesofisrael.com/boot-on-your-neck-mamdani-in-2023-blamed-israel-for-police-violence-in-ny/",
-      "image": null,
-      "published_at": "2025-10-29T00:44:29.000Z",
-      "summary": "Newly surfaced video shows NYC mayoral candidate telling far-left conference that NYPD boots are 'laced by the IDF'\nThe post &#8216;Boot on your neck&#8217;: Mamdani in 2023 blamed Israel for police violence in New York appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1562,16 +1632,6 @@
       "summary": "South Africa win opening T20 against Pakistan by 55 runs as hosts&#039; dire form continues despite Babar Azam&#039;s comeback."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "New Israeli strikes on Gaza threaten fragile ceasefire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/10/28/new-israeli-strikes-on-gaza-threaten-fragile-ceasefire?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-10-28T20:27:06.000Z",
-      "summary": "Footage shows emergency crews rescuing civilians from rubble after Israel carried out new strikes across Gaza City."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1762,16 +1822,6 @@
       "summary": "Advisory committee to Katz: Shut Army Radio down or suspend current affairs programming • Galgalatz, Army Radio's music station, is expected to remain open"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Pregnant British teenager's family pay £137,000 to reduce sentence in Georgia jail",
-      "url": "https://www.bbc.com/news/articles/cwypqwn4epyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea8b/live/83e2b750-b41d-11f0-b2a1-6f537f66f9aa.jpg",
-      "published_at": "2025-10-28T14:21:07.000Z",
-      "summary": "The pregnant 19-year-old faces drugs charges in Georgia and is back in court on Monday."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1830,36 +1880,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-2a8c-ddf1-a1db-fefd65f50000/40/6d/3579be454f4fb02b0ee976493e8e/img-20251028-wa0058.jpg?height=81",
       "published_at": "2025-10-28T11:39:48.000Z",
       "summary": "The court accepted the prime minister's request to shorten the testimony to 1:30 P.M. instead of 4 P.M., as Netanyahu plans to meet with defense officials at 2 P.M. to discuss Hamas' cease-fire violations after it returned remains of a body already recovered in 2023"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Hostage forum demands meeting with Netanyahu after Hamas 'violations'",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-871904",
-      "image": null,
-      "published_at": "2025-10-28T11:13:19.000Z",
-      "summary": "It is planned for Netanyahu to convene a meeting on Tuesday to discuss Israel's response to Hamas's violation of the ceasefire-hostage deal."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Most countries fail to submit new climate pledges ahead of summit",
-      "url": "https://www.bbc.com/news/articles/czdrv8m5v4lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e5a/live/0b4506b0-b33f-11f0-8c7d-e3b2a8158887.jpg",
-      "published_at": "2025-10-28T11:08:57.000Z",
-      "summary": "The UN's review of national climate plans shows the world is well off track to limit warming"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Rabbi Doron Perez favored for Keren Hayesod head amid WZC coalition talks",
-      "url": "https://www.jpost.com/israel-news/article-871901",
-      "image": null,
-      "published_at": "2025-10-28T11:01:28.000Z",
-      "summary": "World Mizrachi movement executive chairman Rabbi Doron Perez is favored for the head of Keren Hayesod amid World Zionist Congress coalition negotiation, complicated by World Likud internal dispute. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1922,26 +1942,6 @@
       "summary": "According to a joint statement by the IDF and Shin Bet, two of the militants were shot dead by snipers from the police's Special Anti-Terror Unit, while in a cave in the area of the village of Kafr Qud, near Jenin. The attack was followed by an Israel Air Force strike"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Man pleads guilty to killing Japan's former PM Shinzo Abe",
-      "url": "https://www.bbc.com/news/articles/cy5qp45y20yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35d9/live/9a113e80-b3d6-11f0-8e10-878c36ef9ecc.jpg",
-      "published_at": "2025-10-28T08:18:13.000Z",
-      "summary": "Tetsuya Yamagami, 45, shot Abe multiple times as he appeared at a political event in 2022."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Dodgers outlast Blue Jays in World Series epic",
-      "url": "https://www.bbc.com/sport/baseball/articles/cx2dn3qxk0ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5eb/live/a247f350-b3cc-11f0-bcfd-f33aa44e9a1a.jpg",
-      "published_at": "2025-10-28T07:05:22.000Z",
-      "summary": "Freddie Freeman hits a walk-off home run in the bottom of the 18th inning as the Los Angeles Dodgers took a 2-1 lead in the best-of-seven World Series, beating the Toronto Blue Jays 6-5 in an epic game."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1960,16 +1960,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-27e5-d4aa-a9fa-27e5de510001/09/5a/34fcf6664ee194c5f7b41da72d88/592157.jpg?height=81",
       "published_at": "2025-10-28T03:19:36.000Z",
       "summary": ""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Dutch volleyball player and convicted child rapist denied visa to compete in Australia",
-      "url": "https://www.bbc.com/news/articles/cly9z3r1dmzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b37/live/bc2f28d0-b39d-11f0-aa13-0b0479f6f42a.jpg",
-      "published_at": "2025-10-28T02:07:10.000Z",
-      "summary": "Steven van de Velde was convicted in 2016 of raping a 12-year-old British girl"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2722,26 +2712,6 @@
       "summary": "The U.S. is pushing to populate areas in Gaza currently under IDF control in the coming weeks or months, contrary to the army's position. The alternative is for control of these areas to be handed over to an international stabilization force, which has not yet been formed"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "IDF says it struck Islamic Jihad militant who planned to attack Israeli soldiers in central Gaza",
-      "url": "https://www.haaretz.com/gaza/2025-10-25/ty-article/.premium/idf-says-it-struck-islamic-jihad-militant-who-planned-to-attack-israeli-soldiers-in-gaza/0000019a-1ca6-de9d-adbe-fce7ccd10000",
-      "image": "https://img.haarets.co.il/bs/00000194-b677-dee1-a5dc-f6f7b47a0001/d7/1f/bd7a8cfa42be99ee1ac4d66f0c04/381129.webp?height=81",
-      "published_at": "2025-10-25T19:16:51.000Z",
-      "summary": "Amid the cease-fire between Hamas and Israel in the Gaza Strip, the IDF said forces deployed in the Nnusierat area conducted a targeted strike against an unnamed terrorist from the Islamic Jihad in Gaza, 'to remove any immediate threat'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Herzog's Knesset speech showed that maybe there is a president in Israel after all",
-      "url": "https://www.haaretz.com/opinion/2025-10-25/ty-article-opinion/.premium/herzogs-knesset-speech-showed-that-maybe-there-is-a-president-in-israel-after-all/0000019a-1c23-d2fc-a79a-9e7739c60000",
-      "image": "https://img.haarets.co.il/bs/0000019a-1c50-d2fc-a79a-9e5622ff0000/fd/52/e7c917bf4e6cbbe0655f81dd7e0a/531886.jpg?height=81",
-      "published_at": "2025-10-25T19:02:17.000Z",
-      "summary": ""
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -2999,6 +2969,36 @@
       "url": "https://www.jpost.com/breaking-news/article-856827",
       "image": null,
       "published_at": "2025-06-06T23:18:04.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "Magnitude 6.6 earthquake strikes off coast of northern Chile, GFZ says",
+      "url": "https://www.jpost.com/breaking-news/article-856824",
+      "image": null,
+      "published_at": "2025-06-06T20:27:50.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "Shin Bet arrests suspect who damaged Netanyahu's convoy vehicle - report",
+      "url": "https://www.jpost.com/breaking-news/article-856823",
+      "image": null,
+      "published_at": "2025-06-06T20:12:48.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Breaking News",
+      "topic": "News",
+      "title": "President Herzog honors Shira Banki at Jerusalem Pride Parade",
+      "url": "https://www.jpost.com/breaking-news/article-856818",
+      "image": null,
+      "published_at": "2025-06-06T16:47:45.000Z",
       "summary": ""
     }
   ]
