@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-10-29T22:38:30.835Z",
+  "generated_at": "2025-10-29T23:08:09.150Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Eretz Nehederet features Alon Ohel playing piano, pokes fun at Mamdani, UTJ",
+      "url": "https://www.jpost.com/israel-news/culture/article-872116",
+      "image": null,
+      "published_at": "2025-10-30T00:52:06.000Z",
+      "summary": "The highlight of Eretz Nehederet's comedy show was the emotional playing of \"Under the Sky\" by freed hostage Alon Ohel. "
+    },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
@@ -15,21 +25,71 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "PM Netanyahu, IDF heads visit CENTCOM's Civil-Military Coordination Center in Kiryat Gat",
+      "title": "Israel will achieve disarming Hamas, demilitarizing Gaza, Netanyahu affirms during CMCC visit",
       "url": "https://www.jpost.com/israel-news/defense-news/article-872113",
       "image": null,
       "published_at": "2025-10-29T23:14:20.000Z",
-      "summary": "Disarming Hamas and demilitarizing Gaza \"will be achieved,\" Netanyahu said during his visit to the CMCC, accompanied by IDF officials, including Lt.-Gen. Eyal Zamir."
+      "summary": "Disarming Hamas and demilitarizing Gaza \"will be achieved,\" Netanyahu said during his visit to CENTCOM's CMCC in Kiryat Gat, accompanied by IDF officials, including Lt.-Gen. Eyal Zamir."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "New Zealand targets shadow fleet in expanded Russia sanctions",
+      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/10/new-zealand-targets-shadow-fleet-expanded-russia-sanctions_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
+      "image": null,
+      "published_at": "2025-10-29T23:00:42.000Z",
+      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npWELLINGTON (Reuters) -New Zealand on Thursday announced expanded sanctions on Russia's oil industry and shadow fleet while meeting with the Nordic 5 ..."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Centrist liberals head for shock victory  in Dutch election, exit poll says",
+      "url": "https://www.bbc.com/news/articles/cpwvy4w875vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d16/live/c2c37c50-b514-11f0-ba75-093eca1ac29b.jpg",
+      "published_at": "2025-10-29T22:56:54.000Z",
+      "summary": "Rob Jetten's D66 party celebrates, two years after his party languished in fifth place in the last vote."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "טבח המוני במחלקת היולדות: 2,000 נרצחו בעיר שהעולם הפקיר | העדויות המזעזעות",
+      "url": "https://www.ynet.co.il/news/article/h161f11xjbe",
+      "image": null,
+      "published_at": "2025-10-29T22:56:20.000Z",
+      "summary": "העיר אל-פאשר, המעוז האחרון של צבא סודן בחבל דרפור, נפלה אחרי מצור אכזרי של 18 חודשים לידי המיליציה הערבית RSF - שכבר לפני שנים ביצעה טבח מחריד בבני השבטים האפריקניים - וכעת מואשמת ברצח המוני נוסף, עם 460 שנהרגו בבית חולים ליולדות והמונים בבתים וברחובות: \"גופות בכל מקום, הם לא מגלים רחמים כלפי אף אחד"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Qatari PM acknowledges Hamas violated ceasefire - Jewish Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT3UwbF9zRVBmMHJIbUI3TWVkVjV3cXpaU0FlZ2FvVmVSeXpiTGlVcENkcmFTbzlTS2t1UHYtNTBCencxT2RSODZuTUEwb3BCeC1Qbk9fcHc3NmxIX3VwaVREd25Kcndhbl9DSU10Vnl6QlJ1Y0NHUVlBWjVJbHJxd3ZyMkN3V3NqVUNqTmRsSHE5YkJZ?oc=5",
+      "image": null,
+      "published_at": "2025-10-29T22:54:41.000Z",
+      "summary": "Qatari PM acknowledges Hamas violated ceasefire  Jewish Insider"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "In the tunnels of Gaza, hostage Eli Sharabi found a way to be a blessing",
+      "title": "In the tunnels of Gaza, hostage Eli Sharabi found a way to be a blessing - opinion",
       "url": "https://www.jpost.com/israel-news/article-872114",
       "image": null,
       "published_at": "2025-10-29T22:52:58.000Z",
       "summary": "In the tunnels of Gaza, stripped of everything, Eli was forced to answer Shmuel’s questions in the starkest terms imaginable: What am I? "
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "After settlers show up, Israel police use tear gas to disperse Palestinians picking olives in West Bank",
+      "url": "https://www.haaretz.com/israel-news/2025-10-30/ty-article/.premium/israel-police-use-tear-gas-to-disperse-palestinians-picking-olives-in-west-bank/0000019a-3211-dace-a1ff-b7514f110000",
+      "image": "https://img.haarets.co.il/bs/0000019a-321b-d36c-a3bf-b65fb6330001/2d/82/f0d7345d44ec8e76a51f43dbc773/600607.jpg?height=81",
+      "published_at": "2025-10-29T22:47:34.000Z",
+      "summary": "Commander said Turmus Aya is a closed military zone, but failed to produce order. Dispersal violated army procedures and a High Court ruling giving Palestinians access to their farmlands"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -80,6 +140,16 @@
       "image": "https://img.haarets.co.il/bs/00000190-ff88-dfce-a990-fff984960001/b9/cc/f3e8202e4b2281ea2686199390ec/45800.jpg?height=81",
       "published_at": "2025-10-29T22:20:42.000Z",
       "summary": "Police are investigating suspicions that the Military Advocate General's Office misled the High Court of Justice in its reports on the investigation into the leak of a video allegedly showing the abuse of Palestinian detainees at the Sde Teiman facility"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Truck crash in Lebanon - Main Street Media of Tennessee",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3lSb1otV1dIMFZxaVkxVEoxRGVnY1lNcDRaWEdfUVlQd25DeVBSR29vWDNSeEhKQm1vWkUzX0pkTmc3VWdLS09RZXYwRnByaWNIYWlmSVdaUnpRUU1HR1FSZFU0ZnhOV3MwMzJUSXB6Z1dsYWR5ZzJaRU1ja05UTlg3VmJJUzdL?oc=5",
+      "image": null,
+      "published_at": "2025-10-29T22:16:02.000Z",
+      "summary": "Truck crash in Lebanon  Main Street Media of Tennessee"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -160,26 +230,6 @@
       "image": null,
       "published_at": "2025-10-29T21:58:34.000Z",
       "summary": "As the mayoral election nears, Mamdani is showing what it takes to maintain a lead with the Jewish population in NYC."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Centrist liberals head for shock victory  in Dutch election, exit poll says",
-      "url": "https://www.bbc.com/news/articles/cpwvy4w875vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d16/live/c2c37c50-b514-11f0-ba75-093eca1ac29b.jpg",
-      "published_at": "2025-10-29T21:58:02.000Z",
-      "summary": "Rob Jetten's D66 party celebrates, two years after his party languished in fifth place in the last vote."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "טבח המוני במחלקת היולדות: 2,000 נרצחו בעיר שהעולם הפקיר | העדויות המזעזעות",
-      "url": "https://www.ynet.co.il/news/article/h161f11xjbe",
-      "image": null,
-      "published_at": "2025-10-29T21:57:19.000Z",
-      "summary": "העיר אל-פאשר, המעוז האחרון של צבא סודן בחבל דרפור, נפלה אחרי מצור אכזרי של 18 חודשים לידי המיליציה הערבית RSF - שכבר לפני שנים ביצעה טבח מחריד בבני השבטים האפריקניים - וכעת מואשמת ברצח המוני נוסף, עם 460 שנהרגו בבית חולים ליולדות והמונים בבתים וברחובות: \"גופות בכל מקום, הם לא מגלים רחמים כלפי אף אחד"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -560,56 +610,6 @@
       "image": null,
       "published_at": "2025-10-29T20:44:00.000Z",
       "summary": "People from these metros are looking to buy homes in Lebanon | State | tiogapublishing.com  Tioga Publishing"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "When a billion-dollar opportunity turns into a disconnect and mockery of the Jewish People",
-      "url": "https://www.israelnationalnews.com/news/417027",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1134651.jpg",
-      "published_at": "2025-10-29T20:43:00.000Z",
-      "summary": "For the first time in modern history, religious and traditional delegates form the clear majority in the WJC. Instead of embracing the situation, the progresssive agenda was totally out of touch. We must work to retore integrity to this institution. Opinion."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE evacuates 57 Palestinian patients from Gaza, dispatches water tanks - Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wZ0lGUHAyZklVWlZuMEx3TjlnZF9PeDdwRHprQjloY25sbERXeFV1RUJRWW5TQllBX1ZhcVJsdWlpUmVaNjdsbEI3c1ZDd0tjSEtKR2I4VmFwaVFN?oc=5",
-      "image": null,
-      "published_at": "2025-10-29T20:42:11.000Z",
-      "summary": "UAE evacuates 57 Palestinian patients from Gaza, dispatches water tanks  Arab News PK"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Investigation launched into Children and Youth Services after 1-year-old was returned to alleged abusers - WGAL",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHVEMzFyVlRYa0dpdXVBWFU0VDNaNGQ5akpLTEtoMTdZSFlDR3REdm12UGNvaG9RM3RHWXhvazZrb0dIdEJ2ZkMzYUxMUk9VOERTTnU5Yjhobi1kNFNyS2dfMXUtMmloanhXdDRCUWRqRjMxT0VRaExBY0p6bGo4N2lBcHpTVFo4QWZYUkdZVm9zTXJxLWNWWmh4MUNCbGNldjFYN0d3Z3FZd3FpTHRTbXFpZlJqRTNkU25ra2dB?oc=5",
-      "image": null,
-      "published_at": "2025-10-29T20:37:00.000Z",
-      "summary": "Investigation launched into Children and Youth Services after 1-year-old was returned to alleged abusers  WGAL"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Greece on alert as Israeli cruise ship approaches",
-      "url": "https://www.israelnationalnews.com/news/417026",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1202191.jpg",
-      "published_at": "2025-10-29T20:34:42.000Z",
-      "summary": "Greek authorities have announced heightened security measures at the ports of Patras and Katakolo ahead of the arrival of the Israeli cruise ship Crown Iris. The decision follows violent anti-Israel protests that took place over the summer targeting Israeli tourists."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "\"They should’ve told me about Van Aert...\" – Isaac Del Toro recalls shock at lack of clarity from UAE team car during fateful Giro d’Italia turnaround on the Finestre - CyclingUpToDate.com",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZUxCb0V1UUs5cEpkQi05Y0l1VnBZdkJfVFVhczhKdWtRaW1CUzR1VTJYVXBKbi1Va3JRMFVqZ3JsTzJZV1NlNWRlejJLUUpQcER6eGo1VVFMRVBTY0xKN0tfckNfTG90ZW5RT3g3OEh6NEVURklBV0cxdEJuMjI2d1JjcHlWQnNFai1wWVR2ZGNfWElQZ0czR25FTWRZTTdJazdLRVRmZU9zelZmd29DYUNrSm1fRHJHRUFpd1VqN0xjUEwtZXBiVHlmYzRhRDBvZUo1bzl6SElzaHZpQ1ZIZWxUcF9fckVMMEtsMnpxRHBhZ3dpREIwSldPU0JtWnVaS3hIcFV1RkQ2cHNBd3YtUVYtb2lTdHMwZkJVMEV3?oc=5",
-      "image": null,
-      "published_at": "2025-10-29T20:33:16.000Z",
-      "summary": "\"They should’ve told me about Van Aert...\" – Isaac Del Toro recalls shock at lack of clarity from UAE team car during fateful Giro d’Italia turnaround on the Finestre  CyclingUpToDate.com"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1682,16 +1682,6 @@
       "summary": "This year’s Aliyah Day is not just a look at a glorious past, but an invitation to shape the future"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "German broadcaster admits killed partner org. employee was Hamas terrorist, suspends cooperation",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-872010",
-      "image": null,
-      "published_at": "2025-10-29T10:02:45.000Z",
-      "summary": "ZDF has now suspended cooperation with the Palestine Media Production (PMP) after working with the organization for decades."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -2480,16 +2470,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-227d-dc62-a59b-ba7d191b0000/97/c7/3d2c17344a768751f55e94673e61/556137-2.jpg?height=81",
       "published_at": "2025-10-26T22:06:55.000Z",
       "summary": "Alon's father, Kobi, said that at one point, Alon weighed just 40 kilograms. Alon reportedly told his mother that when he looked at his body in captivity, he saw 'only skin and bones' and said, 'The worst thing in the world is being hungry'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israel would love to blow up the Gaza cease-fire, but Trump promised Arab states otherwise",
-      "url": "https://www.haaretz.com/israel-news/2025-10-26/ty-article/.premium/israel-would-love-to-blow-up-the-gaza-cease-fire-but-trump-promised-arab-states-otherwise/0000019a-21af-dd96-af9b-39bfee2a0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-21d8-dd5f-afda-39db57600001/24/ac/dcae1f4d41948e55d0edc637ebe7/577117.jpg?height=81",
-      "published_at": "2025-10-26T21:41:16.000Z",
-      "summary": "Clearly, Hamas will be required to lay down its weapons, but what it is willing to concede in the second phase of the cease-fire doesn't even come close to the minimum Netanyahu would be willing to swallow, especially with his far-right coalition breathing down his neck"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
