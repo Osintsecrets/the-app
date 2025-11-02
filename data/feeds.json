@@ -1,15 +1,115 @@
 {
-  "generated_at": "2025-11-02T14:34:37.797Z",
+  "generated_at": "2025-11-02T15:07:31.689Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Dead Sea hotel worker indicted for working with Iranian agents for financial gain",
+      "title": "Maccabi Tel Aviv win as Hapoel Jerusalem come back to draw against Maccabi Haifa",
+      "url": "https://www.jpost.com/israel-news/sports/article-872464",
+      "image": null,
+      "published_at": "2025-11-02T16:59:27.000Z",
+      "summary": "Hapoel Jerusalem came back from two goals down to earn a draw against Maccabi Haifa in the Israeli Premier League this weekend."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF strikes Gaza terrorist who crossed Yellow Line marking military territory",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-872462",
+      "image": null,
+      "published_at": "2025-11-02T16:53:22.000Z",
+      "summary": "The Israel Air Force struck and killed the terrorist after he threatened IDF troops."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Sahar Baruch, Amiram Cooper laid to rest after over two years of war in Gaza",
+      "url": "https://www.jpost.com/israel-news/article-872457",
+      "image": null,
+      "published_at": "2025-11-02T16:43:43.000Z",
+      "summary": "\"You were at the beginning of your life, and the thought of you breaks our hearts into a million pieces,\" Sahar Baruch's aunt Rebecca Manor said."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Gov't proposal to expand rabbinate powers sparks alarm over ‘conditional Jewishness’",
+      "url": "https://www.jpost.com/israel-news/article-872453",
+      "image": null,
+      "published_at": "2025-11-02T16:35:31.000Z",
+      "summary": "A new Bill has been proposed to give the rabbinate new powers to investigate the 'Jewish status' of any Israeli citizen."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Amid rising antisemitism, TalkIsrael empowers influencers to shape Israel's story online - feature",
+      "url": "https://www.jpost.com/diaspora/article-872455",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2796,w_3919/491385",
+      "published_at": "2025-11-02T16:31:51.000Z",
+      "summary": "TalkIsrael’s philosophy is simple: people don’t change their minds because they’re lectured, they change them when they feel something."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Nigeria welcomes US help to fight Islamic insurgents, demands territorial integrity",
+      "url": "https://www.jpost.com/international/article-872454",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2794,w_4200/687989",
+      "published_at": "2025-11-02T16:25:13.000Z",
+      "summary": "Trump has threatened military action over the ill-treatment of Christians in the country, although most victims of terror groups have been Muslim, analysts say."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Dead Sea hotel worker conducted espionage for Iran, indictment charges",
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-872451",
       "image": null,
       "published_at": "2025-11-02T16:17:33.000Z",
       "summary": "The defendant was allegedly contacted via Telegram last year and paid 12,000 shekels to carry out tasks for an Iranian agent."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Amiram Cooper laid to rest in Nir Oz after two years in Hamas captivity",
+      "url": "https://www.israelnationalnews.com/news/417179",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1202413.jpg",
+      "published_at": "2025-11-02T15:01:06.000Z",
+      "summary": "The funeral of Amiram Cooper z\"l was held today at Kibbutz Nir Oz, where masses gathered to accompany him on his final journey."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuYWwtbW9u",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Iraq, Turkey sign deal on Iraqi water infrastructure projects",
+      "url": "https://www.al-monitor.com/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E_/originals/2025/11/iraq-turkey-sign-deal-iraqi-water-infrastructure-projects_%3C%21--%20END%20OUTPUT%20from%20%27core/themes/stable9/templates/views/views-view-field.html.twig%27%20--%3E__",
+      "image": null,
+      "published_at": "2025-11-02T15:00:39.000Z",
+      "summary": "!-- THEME DEBUG --\n!-- THEME HOOK: 'views_view_field' --\n!-- BEGIN OUTPUT from 'core/themes/stable9/templates/views/views-view-field.html.twig' --\npBAGHDAD (Reuters) -Iraq signed a deal with Turkey on Sunday under which water infrastructure projects to be carried out by Turkish firms will be fina..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Policy expert Mosharraf Zaidi appointed PM Shehbaz’s spokesperson for foreign media",
+      "url": "https://www.dawn.com/news/1952746/policy-expert-mosharraf-zaidi-appointed-pm-shehbazs-spokesperson-for-foreign-media",
+      "image": "https://i.dawn.com/large/2025/11/021901187c4e2b7.webp",
+      "published_at": "2025-11-02T14:56:37.000Z",
+      "summary": "Journalist and policy expert Mosharraf Zaidi has been appointed as Prime Minister Shehbaz Sharif’s spokesperson for foreign media, it emerged on Sunday.\nThe notification, shared by Information Minister Attaullah Tarar on X, said that the appointment was made in “supersession of his (PM Shehbaz’s)..."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "נורית קופר סיפרה על התקווה של עמירם במנהרות, סהר ברוך נטמן ליד אחיו שנרצח",
+      "url": "https://www.ynet.co.il/news/article/syqkltekze",
+      "image": null,
+      "published_at": "2025-11-02T14:55:59.000Z",
+      "summary": "עמירם קופר בן ה-85, החטוף האחרון מניר עוז, נטמן בקיבוץ שהקים - ובו גידל את ילדיו. הנשיא הרצוג ביקש סליחה: \"השארת לנו מילים שיש בכוחן לסמן לנו דרך ולהעניק לנו ביטחון ואמונה\". בבארי מאות ליוו למנוחות את סהר ברוך, סבו - שרעייתו נרצחה ב-7/10 - הקריא קדיש: \"עכשיו אתה קרוב אלינו\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -20,6 +120,96 @@
       "image": null,
       "published_at": "2025-11-02T14:52:56.000Z",
       "summary": "IDF observers noticed a foreign drone trying to cross one of Israel's western borders before shooting it down."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Netanyahu vows to disarm Hamas, urges Lebanon to rein in Hezbollah - lokmattimes.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWc4c0FpMkFpbzZHeDdPekQ1YzBIRTFXV3FCUWNwMGhJWEYyV1prZkRseXVtaFc5aTdhbW9Db3dFRFl1X2dqVkgzNGh4SGNaSHhUUmxMcHk0TzRtOGpZU3BGOHVZOGEzcUtoQW1IUDZDZjFnTkFJR3BMMW50d1FXMTdodW94UDNZcTRSaGJYYU9xWDdaVmQxT1pYNEYwcGNVTF9KeTlhZ2pKUm9E0gGyAUFVX3lxTE5RRGNmZ2FVTHhWUklrQ1drX0RFbUZKdlRYdy1MTUZYZ2hKYkxxOTBiY0pESGQ0Y2tQeGt0NjB6aGlxUDN0d0RCZlo5VmkyMTJYX1YyNWFweDgzMVpaSV93MHBTbnJLUzBaN2N3eFFEaGtubUhWYWVjcUJtdnRtVHdIMkExQWxlOXFGeWZPWFFBMDU2dW9lSjN2dG03YVBuRnNCeWZPdmVFYkhDb1RwN2I5b2c?oc=5",
+      "image": null,
+      "published_at": "2025-11-02T14:52:42.000Z",
+      "summary": "Netanyahu vows to disarm Hamas, urges Lebanon to rein in Hezbollah  lokmattimes.com"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "China to ease chip export ban in new trade deal, White House says",
+      "url": "https://www.bbc.com/news/articles/cy5qgy93w9go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d578/live/8a58e430-b7f4-11f0-9026-ddc9ee71c10d.jpg",
+      "published_at": "2025-11-02T14:42:55.000Z",
+      "summary": "Nexperia chips are vital in car production and there were concerns from manufacturers about the damage a shortage could have. "
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "In Kabul, Expired Food Is Sold Openly While the Taliban Look Away - Hasht-e Subh Daily",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEk4Q1hwYktwd1lGWjNlU3NxUnhRQlQ2cnluVlpGZkJJeFVTdFB3Q0NRcWxSc1BjVnJpOFEtVEhfVV95Ql9kMXo1UU13b0FzZ1Z4WWhWdkNNN2VGQjFnWjlQcU5rMmFoVWR6VThUdVVWNmpqdWJNbGZRSUZ3Y2J3WlhKd0N4Snl1S19wd3lpa3Y?oc=5",
+      "image": null,
+      "published_at": "2025-11-02T14:42:42.000Z",
+      "summary": "In Kabul, Expired Food Is Sold Openly While the Taliban Look Away  Hasht-e Subh Daily"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Model Leen Peer named as suspect in murder case after gag order lifted",
+      "url": "https://www.timesofisrael.com/model-leen-peer-named-as-suspect-in-murder-case-after-gag-order-lifted/",
+      "image": null,
+      "published_at": "2025-11-02T14:41:12.000Z",
+      "summary": "Peer, along with 3 others, suspected of having stabbed Shalom Nissim who then fell to his death from balcony of model's apartment after drug-fueled argument\nThe post Model Leen Peer named as suspect in murder case after gag order lifted appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Shein accused of selling childlike sex dolls in France",
+      "url": "https://www.bbc.com/news/articles/c4gjjyvg1nqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5da/live/275e3a90-b7f6-11f0-b692-15782c468ea1.jpg",
+      "published_at": "2025-11-02T14:37:32.000Z",
+      "summary": "The fast fashion giant says it delisted the items \"immediately\" from its website and is investigating."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Innovative transplant at Kaplan Medical Center",
+      "url": "https://www.israelnationalnews.com/news/417178",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1202407.jpg",
+      "published_at": "2025-11-02T14:37:03.000Z",
+      "summary": "An EndoArt artificial corneal graft was implanted for the first time in a patient suffering from severe corneal edema, after he rejected 3 biological grafts from donors."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Watch: Bar Kuperstein returns home",
+      "url": "https://www.israelnationalnews.com/news/417177",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1202405.jpg",
+      "published_at": "2025-11-02T14:33:56.000Z",
+      "summary": "Former hostage Bar Kupershtein returns today to his home in Holon. A large crowd gathered to celebrate his arrival."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "“Evil Needs No Intention—Only a Fool”: A Reply to Tom Barrack’s Middle East Sermon - Nowlebanon",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajROZlFwY0RUTjgxZEZpZ0d3c0hSVWxvZnFuVUR6MHhjaERIZ3I0UkpUVUZzd3ZINUpXUUJjV3FHSUJudHBCOTZCRHR4WnlYWGE2RG5HaW5PdHFoaVhueGtHc2QwaERDTk5Ra1FNSlgtV1I1WWpBWEJRaklYZkVZLWRSeWs1OTEwVjl2U3NhUm1BVHBfeExzdHd1X0k5dTVOZGV2Tg?oc=5",
+      "image": null,
+      "published_at": "2025-11-02T14:33:28.000Z",
+      "summary": "“Evil Needs No Intention—Only a Fool”: A Reply to Tom Barrack’s Middle East Sermon  Nowlebanon"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "LIVE: Barcelona vs Elche – La Liga",
+      "url": "https://www.aljazeera.com/sports/liveblog/2025/11/2/live-barcelona-vs-elche-la-liga?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-02T14:30:00.000Z",
+      "summary": "Follow the build-up, analysis and live text commentary of the game as Barcelona host Elche at the Olympic Stadium."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -55,7 +245,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Sylvan Adams Donates $100 Million to Rebuild Soroka Medical Center After Iranian Missile Strike",
+      "title": "Sylvan Adams pledges $100m to rebuild Beersheba hospital after Iranian strike",
       "url": "https://www.jpost.com/israel-news/culture/article-872440",
       "image": null,
       "published_at": "2025-11-02T14:15:17.000Z",
@@ -135,11 +325,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "חגיגות בחולון: מאות מחכים לבר קופרשטיין שחוזר הביתה | ישיר",
+      "title": "חגיגות בחולון, בר קופרשטיין חזר הביתה: \"חלמתי על זה שנתיים, זה מטורף\" | ישיר\n",
       "url": "https://www.ynet.co.il/news/article/bkybfaejwe",
       "image": null,
       "published_at": "2025-11-02T14:07:28.000Z",
-      "summary": "מאות הגיעו לקבל את שורד השבי ששוחרר לפני כשלושה שבועות וחוזר הביתה. בימים האחרונים הגיע בר פעמיים לכיכר החטופים - להנחת תפילין המונית ולנאום מרגש שבו הודה על התמיכה בו וביתר החטופים"
+      "summary": "המונים הגיעו לקבל את שורד השבי ששוחרר לפני כשלושה שבועות משבי חמאס. \"אוהב אתכם עם ישראל\", הוא אמר. \"עד עכשיו אני לא מאמין\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -160,16 +350,6 @@
       "image": null,
       "published_at": "2025-11-02T14:05:43.000Z",
       "summary": "לישיבה הקודמת הגיעו 12 מתוך 25 שרים, הפעם הגיעו 20 - וראש הממשלה החליט על ענישה שתתחיל בשבוע הבא. קרעי התלונן: \"מה עם הגזר?\", נתניהו: \"אולי נחזיר לכם את התקשורת לישיבה\""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "China to ease chip export ban in new trade deal, White House says",
-      "url": "https://www.bbc.com/news/articles/cy5qgy93w9go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d578/live/8a58e430-b7f4-11f0-9026-ddc9ee71c10d.jpg",
-      "published_at": "2025-11-02T14:04:29.000Z",
-      "summary": "Nexperia chips are vital in car production and there were concerns from manufacturers about the damage a shortage could have. "
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -295,6 +475,16 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
+      "title": "Trump admin pressures Lebanon to disarm Hezbollah as envoy calls nation ‘failed state’ - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1VKbHNPR1RIUWlVUUNjdGVHVnpTN3Jwb0NuSlNza09jRDI1MUdWOHFlNWhSNEUzaUhQSWYxZ0JmSDl0Yld6SDhna21KNEJTQ1ZhM2s0RnQyUmIyck5YT29raXV2ekQ5MDdmUVlZeDN5WjlCY1NPTjRWdUNGY01YSUJwYUdLb0lNVllrbXdWQ2ptMGVyOEpvOHZ1Z3pyYjlxUHllWGdfN2lqVlky0gGyAUFVX3lxTFBhNXdNZmNSaE9NRjRDYVF3T0FCYlgzSFUtTnVCRDJyYkplSS1LbWxhUWk0U0VCLVQ4cTFEU0NQaUFGOGZtTjl2eU1LQ1U5MFlSWjFmOG43bUhSTWRMcUtZQ2tkMnhSbjhCRk56QzFIUjE0aUI3RmlvRHJwVWZrRDM0UU40dTFScTNTM3UtY21aQTFOYUZabWJXbFJSMmdvMjhNUW5FSTRFZTN3S1RxQXlUR0E?oc=5",
+      "image": null,
+      "published_at": "2025-11-02T13:40:44.000Z",
+      "summary": "Trump admin pressures Lebanon to disarm Hezbollah as envoy calls nation ‘failed state’  Fox News"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
       "title": "Israel threatens to intensify strikes against Hezbollah - media - Українські Національні Новини",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2FvWGItRWROaGpiVFFsQjZHbFpvdXpnS1V2NUg2V1NTckxkY21WdFRjZENQdnRUYzdQd2lSY296RTdlRGFrMlJQcVQteGhxXy1VQnItUUZvNF9WSldzWEphZk9HVlJEN3plTjIyWUlDMnB4S2tQUWJPaUtnSEx1NnRNc0tiM01yY2hQWtIBiwFBVV95cUxPY2J6d2FwOXdEMDNoekh3UzkxeXlsR0dPek1GRUV3X190UWxQQnBpemxSZGlXWFdVN1BUb2ZYQVlRbmJQT3JrcmRzbzJINktvMEJFcHJpRU53bWR5eWtuajFJa08tbFhmYVR1ZUw2RmdnRjFBbGhoSkFzb1lDRGt3d2NiQWdOb1lNQ2Nv?oc=5",
       "image": null,
@@ -320,6 +510,16 @@
       "image": null,
       "published_at": "2025-11-02T13:33:00.000Z",
       "summary": "Israel Vows to Intensify Strikes on Hezbollah, Accuses Lebanese President of Stalling  Haaretz"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "DM Warns Lebanon To Fulfill Hezbollah Disarmament As IDF Strikes 4 Operatives - i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTnd1X29tOGptSTlPSGM1QThUWVF1LUNUbDR1VmhqT09ZVWdIeHZtR2ZXdWdoNXhKcnQ3akJUSzZOa1E0Wk9IRlNsYzFLX3VYZERIWElfSUs3UkVRVURMSkVYbUR4VmJjVVluX19VVS1Mal84MnpHX1VJMUhhRnRwc1dUWDVrTUJNazBBTkFxbHlwTWxHaEx1Tl9TSGh6LXlpcW56LWhVV3lGdDYxckM3bDhRZ2ZrOG1uOVRESjRWek5aNVIzS2F1STdQZ2hTbmZsQzR1UmJnZzVBWlBndGMzV211STlOYTBy?oc=5",
+      "image": null,
+      "published_at": "2025-11-02T13:31:54.000Z",
+      "summary": "DM Warns Lebanon To Fulfill Hezbollah Disarmament As IDF Strikes 4 Operatives  i24NEWS"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -422,6 +622,16 @@
       "summary": "Three cops, including a station house officer (SHO), were injured in a blast caused by an improvised explosive device (IED) in the Doaba area of Khyber Pakhtunkhwa’s Hangu district on Sunday, police said.\nAbbas Majeed, the regional police officer in Kohat division, confirmed these details to Dawn..."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "US special envoy describes Lebanon as 'a failed state' - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdDhoZkh4TVF0WWZMZVVGLURDZ3N5VnZGM2xDWXAyVkFjVVhsVjdmYkJHel9YWGpTQWpaRFFiMFBBbGowRDZwLUthUE9ISkw3OFA2Z2o5TmtrR01GYzRqTE1ZWWVMZnh5R1dENkVBTG1GRlo3QWcxczdXQ2pCU0RIOG9tajZCQ01KWVBR?oc=5",
+      "image": null,
+      "published_at": "2025-11-02T13:05:08.000Z",
+      "summary": "US special envoy describes Lebanon as 'a failed state'  Yahoo"
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -462,16 +672,6 @@
       "summary": "Members of Prime Minister Benjamin Netanyahu's circle are seeking the same strict conditions for those who leaked the video of IDF soldiers abusing a Palestinian detainee as were imposed on his associates who leaked confidential IDF documents to Bild. Though both involve security leaks, key differen"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Like Gaza, Israel is threatening to destroy the Lebanon ceasefire - Mondoweiss",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOGYwR2d5RXhJWmdRZmNYZVlZOEtaYmZpRERZSXNRSGhscGQ3NVpPYTRYenpYazh5U1liaDNuWTZxdE9hZTItS0EwYXR3MTR0eEtlZklmQkN6MXkwNXhDQkxGX3dYNzgzSFBfbExfVGg0RDlFQnFYSnRkelJVM0xlcFdfYWhIUnkxcTVTNHpEd21HZ1pKdExCRlFMemw?oc=5",
-      "image": null,
-      "published_at": "2025-11-02T13:00:00.000Z",
-      "summary": "Like Gaza, Israel is threatening to destroy the Lebanon ceasefire  Mondoweiss"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -482,44 +682,14 @@
       "summary": "\"היה צריך להתבצע לפני שנתיים\": שורד השבי נותח בעינו בבילינסון, ובמקביל רסיס הוצא מכתפו. אחרי שנתיים של דאגה, געגועים ומאבק, הוריו עידית וקובי סוף-סוף יכולים לחייך. בנם קיים מפגש מרגש עם אלי שרעבי ומתכנן את העתיד. במסגרת שיקומו הם פתחו קמפיין גיוס המונים: \"מגיע לו אחרי ההתעללות שעבר\""
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel threatens to step up attacks against Hezbollah in Lebanon - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzBUSTZZa1VRVDlhc3Bfc0wtSzdnMllNakRRdWZNX3V0RldDT1ZnMTlHQWRUM2FtenVxeGk2bTJCbEI2U3hENXRxWG5aNDRVb0RHc283YW9lMHNJYmJtMV92RGk5MzFOSzhpWmpYUmNCcGtJb3VjbGw3VXNVSUJiOU9qWExMXy0wd2hRTXVORGhtTFVpT1d2UnE5S1hBZ3FWQld3bERCdlZ5dlBGeU9V?oc=5",
-      "image": null,
-      "published_at": "2025-11-02T12:55:00.000Z",
-      "summary": "Israel threatens to step up attacks against Hezbollah in Lebanon  The GuardianIsrael urges Lebanon to disarm Hezbollah under ceasefire terms  ReutersTrump admin pressures Lebanon to disarm Hezbollah as envoy calls nation ‘failed state’  Fox NewsHezbollah Is Rearming, Putting Cease-Fire at Risk  T..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Hamas claims: Three slain hostages recovered",
-      "url": "https://www.israelnationalnews.com/news/417173",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1184035.jpg",
-      "published_at": "2025-11-02T12:43:00.000Z",
-      "summary": "Hamas told Al-Hadath it recovered the bodies of three Israeli hostages, after joining Red Cross teams and engineering vehicles in a joint search operation."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
       "title": "There was a fox in Bethsaida",
-      "url": "https://www.haaretz.com/archaeology/2025-11-02/ty-article/there-was-a-fox-in-bethsaida/0000019a-4400-dec4-a7db-f7f3f7680000",
+      "url": "https://www.haaretz.com/archaeology/2025-11-02/ty-article-magazine/there-was-a-fox-in-bethsaida/0000019a-4400-dec4-a7db-f7f3f7680000",
       "image": "https://img.haarets.co.il/bs/0000019a-4400-dec4-a7db-f7f3e7150000/be/30/040c7e67417aa0e2c93846c722ff/63635322.JPG?height=81",
       "published_at": "2025-11-02T12:41:50.000Z",
       "summary": "In the dead of night, an unexpected animal walked on the freshly mortared wall of a Byzantine church complex by the shore of the Sea of Galilee 1,700 years ago"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "7 killed, wounded in Israeli raid over South Lebanon - Egyptian Gazette",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUI5Q21zOGxTbzVmVmlJX3hfSnJkV01ETjU2MjhkeWwwT1lYU3JNazlYWEY2RzZic01YTFFBN0c2WGhkTWJpTUlPOWFGTTRGd0FFSEhKa0NMVzlTMko3X0FkcE85dTgxRVBmYUJLQmw5dk1yV3cwSFdtUVJrM2ItN3d4MTZLXzRjaUpDMWd0elk?oc=5",
-      "image": null,
-      "published_at": "2025-11-02T12:37:02.000Z",
-      "summary": "7 killed, wounded in Israeli raid over South Lebanon  Egyptian Gazette"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -532,84 +702,14 @@
       "summary": "Police in Evanston are investigating a violent arrest by a US Border Patrol agent who repeatedly punched a man’s head."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel threatens to ramp up Lebanon strikes over Hezbollah | Daily Sabah - Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTnJYUG45d0d1bmFjcjdjX19iN0Z5cnZtVTE5NGlYb2Zwd25OT0ZEMmZONWZVcEt2RllzbjhPZWZpd2twMUhCM2l4UlYwMGN6ZDd6cVVwZE54cnlxN1M2LUFaZU5WSnZEdXZVSXd2WEwzcDdpemJsd1E2SkVUOXNCUUFVRWlHYVVWcV9ORlNDRzlUeDhTQ29sa245RG8wMGlieGfSAacBQVVfeXFMT3dBODhBb3d0X09BQ21FYU1xX1pYUGF3VTd1UTlXbTNIelA2VlhmTGhndkhwNkZIY3c2cHZMWnhrbHQ0T3hmTDEyYk1FRVVkMzA5RFpSLVg3c05KQ3VZWE5DN19vRm5vZFRsZGVla0ZpTnNBX2dUSmYzc2d3dER0ejBJV3ZqUlhTOTJjNmlmQjlkTDk2N295cTA0SExvUEVEVFlZbGFLVFk?oc=5",
-      "image": null,
-      "published_at": "2025-11-02T12:36:00.000Z",
-      "summary": "Israel threatens to ramp up Lebanon strikes over Hezbollah | Daily Sabah  Daily Sabah"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "US special envoy describes Lebanon as 'a failed state' - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBscDdONFN0LTNtSDhuU1NaOEo3YU5zYmpGSzBZUHc3ZjJOQTJIMnJNU0hIcEp0eXYxTVVFVzJ6UHo0dGRrSXlEbWpQNFUtT29QWk02RzFB?oc=5",
-      "image": null,
-      "published_at": "2025-11-02T12:33:41.000Z",
-      "summary": "US special envoy describes Lebanon as 'a failed state'  Fox News"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Interstate bridge cleaning this week in Lebanon County - WGAL",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2NlVnpsb29XdDlHV29lSDNONVNQampqQVV2cU15c1lrY1AtTkZXQmJvTlhXYjhNRllmeDZBb1lxWGo4TGVTZkpNbjVQeF84cHI0YmNqb0ZVN1AwNVZUemJUVVZlZVNiVzdkRlNBM0JZWWRxSENNUWdfRmt1LTMwSGJSNW51YjFOYU94QUFWTVVKQXlGalVaSDFFQk5pUHBGTXdvVExDdzNoMVAzWE5wQQ?oc=5",
-      "image": null,
-      "published_at": "2025-11-02T12:32:00.000Z",
-      "summary": "Interstate bridge cleaning this week in Lebanon County  WGAL"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "PM: We inform US, don’t seek approval for security moves",
-      "url": "https://www.israelnationalnews.com/news/417171",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1202066.jpg",
-      "published_at": "2025-11-02T12:32:00.000Z",
-      "summary": "Netanyahu rejected claims Israel is a US protectorate, called the Sde Teiman leak Israel’s public relations attack, and vowed to disarm Hamas and deter Hezbollah and the Houthis."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "עזבה תפקיד בכיר בפרקליטות והגשימה חלום לנהל בי\"ס: דפנה יבין נפטרה בגיל 54",
+      "title": "נפטרה בגיל 54 דפנה יבין, שעזבה תפקיד בכיר בפרקליטות והגשימה חלום לנהל בי\"ס",
       "url": "https://www.ynet.co.il/news/article/rkfuv641wx",
       "image": null,
       "published_at": "2025-11-02T12:29:09.000Z",
       "summary": "לאחר מאבק בסרטן סופני הלכה לעולמה דפנה יבין, בתו של איש התקשורת חיים יבין, שעזבה את העבודה בפרקליטות בת\"א כדי \"לשפר את המציאות\". היא ניהלה את בית הספר היסודי צוקי אביב והייתה אמורה לחגוג יום הולדת בעוד חודשיים. \"החברים שהשאירה הם האנדרטה הכי טובה, זוכרים אותה בלב\", סיפר אחיה יונתן"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Dar to attend meeting of Arab-Islamic foreign ministers in Turkiye tomorrow to discuss Gaza ceasefire: FO",
-      "url": "https://www.dawn.com/news/1952742/dar-to-attend-meeting-of-arab-islamic-foreign-ministers-in-turkiye-tomorrow-to-discuss-gaza-ceasefire-fo",
-      "image": "https://i.dawn.com/large/2025/11/021645491dc4387.webp",
-      "published_at": "2025-11-02T12:27:07.000Z",
-      "summary": "Foreign Minister and Deputy Prime Minister Ishaq Dar will depart for Istanbul tomorrow to attend the Coordination Meeting of Arab-Islamic Foreign Ministers, where the Gaza ceasefire deal will be discussed, the Foreign Office (FO) said on Sunday.\n“At the invitation of the Turkish foreign minister,..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Officials foil attempt at migrant smuggling in Balochistan’s Turbat, detain 29 foreign nationals",
-      "url": "https://www.dawn.com/news/1952740/officials-foil-attempt-at-migrant-smuggling-in-balochistans-turbat-detain-29-foreign-nationals",
-      "image": "https://i.dawn.com/large/2025/11/021725596e3237e.webp",
-      "published_at": "2025-11-02T12:26:35.000Z",
-      "summary": "Police and the Federal Investigation Agency (FIA) on Sunday foiled a migrant smuggling attempt in Balochistan’s Turbat district in a joint operation, while detaining 29 foreign nationals for attempting to cross the border illegally, officials said.\nMigrant smuggling, which has grown more frequent..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Five German climbers killed in Italian Alps avalanche",
-      "url": "https://www.jpost.com/international/article-872433",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1424,w_2144/687957",
-      "published_at": "2025-11-02T12:23:43.000Z",
-      "summary": "Two climbers escaped the event unharmed."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -820,16 +920,6 @@
       "image": null,
       "published_at": "2025-11-02T09:44:03.000Z",
       "summary": "בהרב-מיארה תקפה את שר המשפטים שביקש לאסור עליה לעסוק בחקירת הפרשה, שצפויה להגיע לבג\"ץ - והאשימה: \"התערבותך פוגעת בה. אין בסמכותך להעביר את הסמכויות לעובד מדינה אחר\". לוין: \"היועמ\"שית בניגוד עניינים חריף\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הפרידה האחרונה מעמירם קופר: \"אתה זוכה למנוחה באדמה אותה עבדת\"",
-      "url": "https://www.ynet.co.il/news/article/syqkltekze",
-      "image": null,
-      "published_at": "2025-11-02T09:42:57.000Z",
-      "summary": "עמירם קופר בן ה-85, החטוף האחרון מניר עוז, נטמן בקיבוץ שהקים - ובו גידל את ילדיו. הנשיא הרצוג ביקש סליחה: \"השארת לנו מילים שיש בכוחן לסמן לנו דרך ולהעניק לנו ביטחון ואמונה\". אסנת פרי, שבעלה הוחזק בשבי לצד עמירם, בריאיון לאולפן ynet: \"הם היו ביחד עד מותם. אנחנו לא נהיה אותם אנשים שהיינו\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1252,16 +1342,6 @@
       "summary": "Oded Lifshitz, taken alive to Gaza and killed in captivity, sought to make this place more just and humane. His new collection of essays shows it wasn't out of naivety, but because he refused to lie to himself"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Trump to host Sharaa in 1st-ever visit by a Syrian president to White House &#8212; officials",
-      "url": "https://www.timesofisrael.com/trump-to-host-sharaa-in-1st-ever-visit-by-a-syrian-president-to-white-house-officials/",
-      "image": null,
-      "published_at": "2025-11-02T02:56:58.000Z",
-      "summary": "Syrian source says US is pushing for a security agreement to be reached between Syria and Israel by the time Sharaa is set to visit DC on November 10\nThe post Trump to host Sharaa in 1st-ever visit by a Syrian president to White House &#8212; officials appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1382,16 +1462,6 @@
       "summary": "China has repackaged Xinjiang into a tourist haven, touting \"ethnic\" experiences that activists say it's trying to erase."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Shein accused of selling childlike sex dolls in France",
-      "url": "https://www.bbc.com/news/articles/c4gjjyvg1nqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287b/live/ea5c6b20-b774-11f0-83d4-a74eeda7e8ab.jpg",
-      "published_at": "2025-11-01T23:14:42.000Z",
-      "summary": "The Asian fast fashion giant says it delisted the items \"immediately\" from its website and is investigating."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1400,16 +1470,6 @@
       "image": null,
       "published_at": "2025-11-01T22:44:56.000Z",
       "summary": "Nigerian government denies US president&#039;s claim of not stemming &#039;horrible atrocities&#039; against Christians."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Liverpool beat Villa to end Premier League losing streak, Man Utd draw",
-      "url": "https://www.aljazeera.com/sports/2025/11/1/liverpool-beat-villa-to-end-premier-league-losing-streak-man-utd-draw?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-01T22:31:05.000Z",
-      "summary": "Mohamed Salah and Ryan Gravenberch net as holders Liverpool beat Villa to end their four-game Premier League losing run."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1902,16 +1962,6 @@
       "summary": "Herkin, who was released two weeks ago from Hamas captivity, told an Israeli investigative news program that he got to listen to some Israeli radio broadcasts in captivity, and understood people were fighting for his release. 'It gave us hope'"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Images of female Zefat Academic College students vandalized in Safed",
-      "url": "https://www.jpost.com/israel-news/article-872315",
-      "image": null,
-      "published_at": "2025-10-31T18:11:46.000Z",
-      "summary": "The billboards had only been installed a day before the vandalism, and the advertisements featuring male pupils were left untouched."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1962,16 +2012,6 @@
       "summary": "Although everyone agrees that international engagement in the form of soldiers on the ground is an essential part in moving forward from the Gaza war, almost no one is willing to commit to anything beyond vague statements"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Only Muslim soldiers to be allowed to serve as Gaza peacekeepers - Telegraph",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-872312",
-      "image": null,
-      "published_at": "2025-10-31T16:28:32.000Z",
-      "summary": "Despite plans for former British prime minister Tony Blair to take an administrative role in the Palestinian territory, Ynet reported that no Western countries would be involved in the force."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1980,16 +2020,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-3aa7-d831-a1fe-3eff7e4b0001/d1/e7/9cfd132e45eeb8de8bea36efc50c/269335-2.jpg?height=81",
       "published_at": "2025-10-31T16:01:05.000Z",
       "summary": "New evidence suggests senior legal officers were involved in both the leak of violent footage from Israel's Sde Teiman detention facility and its alleged cover-up, which were reportedly coordinated in advance through a WhatsApp group that included senior officers from the IDF's legal corps"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israeli prosecutors to indict Jaffa teen suspected of spying on behalf of ISIS, Hamas",
-      "url": "https://www.jpost.com/israel-news/article-872306",
-      "image": null,
-      "published_at": "2025-10-31T14:45:30.000Z",
-      "summary": "Police said a 14-year-old from Jaffa filmed sensitive Israeli sites for ISIS and Hamas, and attempted to prepare explosives before his arrest in Ramallah."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2010,16 +2040,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab1b/live/30689760-b65d-11f0-b2a1-6f537f66f9aa.jpg",
       "published_at": "2025-10-31T13:37:10.000Z",
       "summary": "Five people sustained minor injuries but nobody was seriously hurt in the incident in Meteren."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF kills Hezbollah maintenance officer rebuilding infrastructure in southern Lebanon",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-872304",
-      "image": null,
-      "published_at": "2025-10-31T13:32:25.000Z",
-      "summary": "Ibrahim Muhammad Raslan was attempting to rebuild Hezbollah infrastructure in the area, according to the IDF. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2979,26 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856781",
       "image": null,
       "published_at": "2025-06-06T04:46:02.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Agudat Israel will submit a bill to dissolve the Knesset",
-      "url": "https://www.jpost.com/breaking-news/article-856767",
-      "image": null,
-      "published_at": "2025-06-05T23:07:10.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Trump administration imposes sanctions on ICC judges, US Treasury says",
-      "url": "https://www.jpost.com/breaking-news/article-856765",
-      "image": null,
-      "published_at": "2025-06-05T22:56:38.000Z",
       "summary": ""
     }
   ]
