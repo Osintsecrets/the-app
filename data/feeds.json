@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T18:42:50.144Z",
+  "generated_at": "2025-11-03T19:01:20.844Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Netanyahu orders dispatch of aid to hurricane-torn Jamaica",
+      "title": "Netanyahu orders Israel to dispatch aid to hurricane-torn Jamaica",
       "url": "https://www.jpost.com/israel-news/article-872619",
       "image": null,
       "published_at": "2025-11-03T20:37:01.000Z",
@@ -62,6 +62,36 @@
       "summary": "The October poll also found overwhelming disapproval of Hamas's disarmament and increased pessimism regarding the terror group's victory over Israel."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Agony for families as landslide death toll climbs in Uganda and Kenya",
+      "url": "https://www.bbc.com/news/articles/cyv8g28zd7mo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c46e/live/80520560-b8d1-11f0-a042-ff789a19a2e9.jpg",
+      "published_at": "2025-11-03T18:57:57.000Z",
+      "summary": "More than 40 people are known to have died since last week, according to officials."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Guinea's coup leader enters presidential race",
+      "url": "https://www.bbc.com/news/articles/cly10e87d08o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba9c/live/092530b0-b8e1-11f0-8cb9-9b84038595ed.jpg",
+      "published_at": "2025-11-03T18:50:48.000Z",
+      "summary": "Col Mamadi Doumbouya has broken his promise to hand power to a civilian government."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE secures Nvidia GPUs: what Microsoft's AI announcement means - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXozVFBES1F0Z2dmMmRISTVRR2RsUmtiZ0NxUENEZXRxc2FsU2hhYmdNNHhBU2tjTEg4ZllPdkctdHkweXR0clJLVkxfbHg0VE05Y1gwNzhlSmFvOS12Zlp5c192S3cyQ0NXdWI0cUIwZzdPdkU0UGdYYXhTRkJCV2lPNFlmWjhqZjNIeGg4SlZxOFRT?oc=5",
+      "image": null,
+      "published_at": "2025-11-03T18:43:19.000Z",
+      "summary": "UAE secures Nvidia GPUs: what Microsoft's AI announcement means  thenationalnews.com"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -72,6 +102,16 @@
       "summary": "\"I'm not afraid for myself, but I'm worried about my brothers,\" he told the 'Post'. \"It was in the middle of Manhattan, middle of the city, in the middle of the day.\""
     },
     {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Netanyahu trial hearing to be cut by 2 hours due to &#8216;urgent diplomatic meeting&#8217;",
+      "url": "https://www.timesofisrael.com/netanyahu-trial-hearing-to-be-cut-by-2-hours-due-to-urgent-diplomatic-meeting/",
+      "image": null,
+      "published_at": "2025-11-03T18:38:52.000Z",
+      "summary": "Prime minister often asks to truncate the hearings, which occur four times a week, due to his responsibilities or his health \nThe post Netanyahu trial hearing to be cut by 2 hours due to &#8216;urgent diplomatic meeting&#8217; appeared first on The Times of Israel.\n"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -80,6 +120,16 @@
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3886,w_5535/688198",
       "published_at": "2025-11-03T18:33:50.000Z",
       "summary": "A Fatah spokesperson mentioned the importance of Hamas feeling \"involved in the political process\" to prevent further radical manifestations of the terror group."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Huge UAE Oilfield Could Hike Capacity to 1.5 Million Bpd Earlier than Planned - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORS1ZLTVnZEVSZTNFZDZQNHZSUUttbHdQVjM4czBhb3VwVzExZjNobzNBVl9zYTBuZ2dCeGk5Nkw5cGhiWlZCdElXUC14UnNCTEhtRVZrcGRJZkYyZ09QWlJCZHo5ZGFIRFFiSVh4UHpOU2tQZHBqOUt0TkhLSXBYbXEzMk5zRGQ5UzFFWEJRaG5rWnd4YXZrWlZPQ1NVX0owLVJsWnBYOXNFM09rUGFhYTN3azUweWNtcGpMRXp1ZHllUGlENVBxNjNnWnPSAdIBQVVfeXFMT2kwV0I5bThUbTNJLWU0QmtvWWxYTk4zSGhacHltcHZqNUlzeHNUVU4yWG1kdkl6MzF1WlFEbXk5ZlpEMkhoOW5DbUVjaE5uTkhhTncyYnE1cjFMYnFqd0dpSE8wb0xjRWlQdUQ5TkRLWEx6TXpfTmFPZXN3UU5KQWxNVnc4dmVCY1Z3YUVicnZjZXFKc3RPVnNzaEd5eXJWLWtic2lub1pFM24wQXdLdHFjT2N3S0NLM2FhRFdob3lrSVFhNEZpZ243SkVxYjgwV193?oc=5",
+      "image": null,
+      "published_at": "2025-11-03T18:30:00.000Z",
+      "summary": "Huge UAE Oilfield Could Hike Capacity to 1.5 Million Bpd Earlier than Planned  Crude Oil Prices Today | OilPrice.com"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -102,16 +152,6 @@
       "summary": "אחרי גל המעצרים בפרשת השוחד, הוארך מעצרו של ארנון בר-דוד: \"חשש שינסה להשפיע על עדים הכפופים לו\". פרקליטו: \"אין לו מה להסתיר\". גם אשתו נותרה במעצר: \"סוכן הביטוח מתעב אותה\". מעצרם של איש העסקים עזרא גבאי ובנו אסף הוארך: \"מעורב בכל 13 תתי-הפרשיות\". שרים בליכוד יזומנו לעדות"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Agony for families as landslide death toll climbs in Uganda and Kenya",
-      "url": "https://www.bbc.com/news/articles/cyv8g28zd7mo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c46e/live/80520560-b8d1-11f0-a042-ff789a19a2e9.jpg",
-      "published_at": "2025-11-03T18:24:10.000Z",
-      "summary": "More than 40 people are known to have died since last week, according to officials."
-    },
-    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -130,6 +170,16 @@
       "image": null,
       "published_at": "2025-11-03T18:23:00.000Z",
       "summary": "Veterans, active-duty service members receive free fare days from Lebanon Transit  fox43.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "All aboard! The North Pole Express departs from Lebanon - WLWT",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEZlOXI1UXpVeVhvOE81OG1xNzN1ZTdVVHd1MHZHNnhaZmM2OE1YcHM5dEh3em4tTU90S0RmcHpVeWhWbW5YMWJfajVsbjY4SzRVbjJxWklXWWotTjFkalRLYUhMazlKMXRnVWJ6dHVJN3p1S3hMRm1TT0VBdXhYYzltLXpRTmgwLXVRcU1SZnBMb2Q3RFlN?oc=5",
+      "image": null,
+      "published_at": "2025-11-03T18:23:00.000Z",
+      "summary": "All aboard! The North Pole Express departs from Lebanon  WLWT"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -212,6 +262,16 @@
       "summary": "Director General of Inter-Services Public Relations (ISPR) Lieutenant General Ahmed Sharif Chaudhry on Monday warned that India will attempt a false flag operation in the maritime domain, during a closed-door briefing given to senior journalists from select media outlets.\nIn a press release today..."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "India planning false flag operation in maritime domain, warns DG ISPR - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vdkJnZTB6cE5oWUp4SXVFd2x0OWlzU3dNRzRLSnQxb1NELTVVcHFWT1JGemNLbVBmbDQ1cVN0b2sxcmp1d2I1eNIBTkFVX3lxTE1BdnNfbWRnNTZqalpDV0NfLUZoZkE2bVVlcDAwMjBFZlpfSUFsdTBORlBweERZY2E1TDdjX0ZkRHNFajZKVTJhVmtNZ1Fvdw?oc=5",
+      "image": null,
+      "published_at": "2025-11-03T18:12:02.000Z",
+      "summary": "India planning false flag operation in maritime domain, warns DG ISPR  Dawn"
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -275,11 +335,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הפצ\"רית ערערה על הארכת מעצרה: \"מבקשת דיון בזום, זקוקה למנוחה\"",
+      "title": "\"אין גבול לשיבוש\": הערר נדחה, הפצ\"רית תישאר במעצר",
       "url": "https://www.ynet.co.il/news/article/r1ktjpijbx",
       "image": null,
       "published_at": "2025-11-03T17:56:36.000Z",
-      "summary": "עורכי דינה של תומר-ירושלמי טענו ל\"שגיאה ברורה\" של בית המשפט - והגישו ערר. אתמול הוחלט להוציא צו מעצר נגדה מחשש שתימלט. במשטרה שוקלים לערוך עימות בינה לבין הדוברת שלה, שהדליפה בהוראתה את הסרטונים משדה תימן - וחשפה את הסוד לאחר פוליגרף"
+      "summary": "עורכי דינה של תומר-ירושלמי טענו ל\"שגיאה ברורה\" של בית המשפט, נציגת היחידה החוקרת אמרה כי \"יש כאן אישה שניצלה את מעמדה להשתיק ולסדר את העובדות בצורה נוחה לה\" - והשופטת קבעה: היא תישאר במעצר. אתמול הוחלט להוציא צו מעצר נגד תומר-ירושלמי מחשש שתימלט"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -370,16 +430,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24e7/live/abda1cd0-b8cd-11f0-a189-a5144dbce456.jpg",
       "published_at": "2025-11-03T17:45:20.000Z",
       "summary": "The seven-year agreement will see OpenAI gain access to Nvidia graphics processors to train its artificial intelligence models. "
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Steel City Police arrest two shooters linked to UAE-based Prince Khan gang - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdFgxT0RlTkZmZkRaYjlLMTIybEdMdDdHcXBrTjltTWVGQ2FJUUNyVmRlel9pd205V0hFY29oQWRucEpCamkwdzlzVlNRb3RMcTJFR29lZU4xRTU4cnhzYzdtQXh6VnlId2JYc3Q5ZVpzak5kVXhNTFBEVVc5dkczRjEtZkIxSnhFSDczQ1JhZkxMT2VhYXEweERHSV8tX2ZJNWZyd1BYYXNfcjBxWWdwcnhOdFE2SnNPTzdQRXprdllUTFZFZVB3N1JJODh4MFhGeVplT1NjMURYRkRaRXZXTk1R0gHnAUFVX3lxTE13UnlkbDFRSHp3RXVYZTVRTExPTHlrYlV2Q0cybVpvWG9EMjFQUk5sQmpGaWFPaDJyNHNXTmxucDdBMHFmaWxkNGRVX09WbEdhcWlwdzk5ckFkd3R6OF9tT0doU1dqRGVKaGRIUHdPNm9FVjNhR01Dc0FmZVc0V2U2ZlVOTlhDYkdXRnQtTHM4cDZZU1M2dHhsQnY2SWlMZDVmanFTNzF3YjF5Sm9oMmNuRF9EN0xpQmJtMWd4SDNULXBENlMyNHRoN3FxdjN5d1VRSUtKYnVDdXRLWkhlZ2VfNHU5OFRNYw?oc=5",
-      "image": null,
-      "published_at": "2025-11-03T17:44:00.000Z",
-      "summary": "Steel City Police arrest two shooters linked to UAE-based Prince Khan gang  The Times of India"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -520,36 +570,6 @@
       "image": null,
       "published_at": "2025-11-03T17:22:01.000Z",
       "summary": "Microsoft unveils $15.2 billion AI investments in UAE | World News  Hindustan Times"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE dismisses oil oversupply warnings amid OPEC+ production pause - Cryptopolitan",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tOEw4LTJTNXlDeVNjZFA3cW5PemxGOXRENTFYZXlvN1UwS2N3YkVXal8tOWI5Y2JhTlJmU21pX2RiaXZVa01ONDIxeGpNZTgxTXdwUGJ6eVRnLVpaV0dvNTRUeVljVGJ1QVEzS0FVUEVBeS16OTNR?oc=5",
-      "image": null,
-      "published_at": "2025-11-03T17:22:00.000Z",
-      "summary": "UAE dismisses oil oversupply warnings amid OPEC+ production pause  Cryptopolitan"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Armenian President arrives in Qatar - Armenpress",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5SHhlc2VaYV9BQjhmQmI0MFJHSTZONmhvOVNOU1dxUnFKY0VQeU01UHFOQy1qN1pRbXgtT0Faa3lvQkFYZEJTSi1KcWNodFBZNmfSAVdBVV95cUxPM2FpRFlUdXdfNmplclVsTWpsMXo2UTdmYS1iWmtCRDdJRXRUNm5MdXRzWHZTNzMyY2FsZ2M3N2JkVmFjRThja25DejRfcjM2MTFyYm1iSm8?oc=5",
-      "image": null,
-      "published_at": "2025-11-03T17:21:00.000Z",
-      "summary": "Armenian President arrives in Qatar  Armenpress"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Microsoft set to invest $7.9B in UAE through 2029 - Middle East Monitor",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaU1GbHNVY2d0OHNEdWtIQ1BrNUgxYnBqMHZWR2VJSWpxZDZFQ183LS0zQ2VOZTVEZVJOc1hJWXBOYUxnMGQ1UFJPRGNhTVU2UFM2WnM1cExtdmJhNUNLTDdTZjFaVGFZU1h6X2UxRjhMUjJfZHBnYkhfdVM3X0RMb0RVVk5WbkxWS0dhdEMxM0h1X3VyT01r0gGcAUFVX3lxTFBFUDZrS3c1MGdyMGZHTHlpajNUX0ZRMEkwMmpUbmZBVXdHaFdjVGZXZkpWTFQ2eTJoeGZRekg0Z0dUSmNid28wVTNOU0ZBNzJUck5NRURMRFAzaEpUZDM4Q3JVNXVxUmwwbEtYcW90SlNXVUxBbFZuemx3SDBILTk2SW8zV1BCdFBvQXhYTnV3Q0xOTmQzQkkwRTNzdw?oc=5",
-      "image": null,
-      "published_at": "2025-11-03T17:21:00.000Z",
-      "summary": "Microsoft set to invest $7.9B in UAE through 2029  Middle East Monitor"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1330,16 +1350,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-4519-da4d-afda-c799ade00001/32/6b/79a7fed247b6b17642fe80192a30/indianworker-promotion.jpg?height=81",
       "published_at": "2025-11-03T12:04:59.000Z",
       "summary": "Prasad Vanapalli was killed in a factory in Ashdod due to a faulty machine. He is the 11th worker this year to die in a work-related accident, and his family went through a month of hell to repatriate his body"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Coalition&#8217;s controversial media regulation bill set for first reading in Knesset",
-      "url": "https://www.timesofisrael.com/coalitions-controversial-media-regulation-bill-set-for-first-reading-in-knesset/",
-      "image": null,
-      "published_at": "2025-11-03T12:02:28.000Z",
-      "summary": "After recruiting Haredi parties to vote in favor despite their boycott of coalition bills, Communications Minister Karhi's proposed law to control broadcast media likely to advance\nThe post Coalition&#8217;s controversial media regulation bill set for first reading in Knesset appeared first on The T"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -2989,16 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856851",
       "image": null,
       "published_at": "2025-06-07T14:33:07.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "France's Armed Forces Minister reaffirms no weapons being sold to Israel",
-      "url": "https://www.jpost.com/breaking-news/article-856849",
-      "image": null,
-      "published_at": "2025-06-07T13:29:05.000Z",
       "summary": ""
     }
   ]
