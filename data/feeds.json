@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-11-03T19:01:20.844Z",
+  "generated_at": "2025-11-03T19:31:25.170Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israel deports first Eritrean regime supporter after 14 years in the country",
+      "url": "https://www.jpost.com/israel-news/article-872620",
+      "image": null,
+      "published_at": "2025-11-03T21:04:45.000Z",
+      "summary": "At 9:00 a.m., the Enforcement and Foreigners Administration of the Population and Immigration Authority began the deportation process."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Turkey signals Hamas could hand over power in Gaza, as Turks seek influence in Strip - report",
+      "url": "https://www.jpost.com/middle-east/article-872621",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/688261",
+      "published_at": "2025-11-03T20:50:51.000Z",
+      "summary": "Emirati newspaper Al-Ain pointed out that recent actions taken by the Turkish government might indicate point to Hamas adharence to the ceasefire, while the Turks seek to gain influence in the Strip."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,11 +35,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "With hope for peace, Diaspora Jewry remembers Rabin 30 years after assassination",
-      "url": "https://www.jpost.com/diaspora/article-872613",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1339,w_1969/512434",
-      "published_at": "2025-11-03T19:56:22.000Z",
-      "summary": "From the World Zionist Organization's global memorial to ceremonies across the US and UK, Jewish Diaspora communities commemorate 30 years since the Rabin assassination."
+      "title": "'We lived in a state of relentless fear', antisemitic harassment campaign victim says - interview",
+      "url": "https://www.jpost.com/diaspora/article-872618",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1600,w_1200/688255",
+      "published_at": "2025-11-03T20:36:45.000Z",
+      "summary": "Randy Settebrino recounted his experience of the three-month hate campaign, saying that the harasser contacted him and his family over a thousand times."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -42,14 +62,34 @@
       "summary": "The IDF named the Radwan Force terrorist, who was reportedly killed in an air force strike, as Muhammad Ali Hadid."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Hungary withdraws scholarship from Jordanian student who interrupted Israeli professor",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-872610",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_2000,w_3000/688239",
-      "published_at": "2025-11-03T19:17:59.000Z",
-      "summary": "Hungary's Culture and Innovation Minister Balázs Hankó initiated the withdrawal of the scholarship and stated that \"Hungary is not only an ally, but also a friend of Israel.\""
+      "title": "Microsoft unveils $15.2 billion AI investments in UAE - Tech Xplore",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYm1RMTVnbm9sMWRvZkw4OGlZWUdJOUU5MkpPby16YUxpTVlBTHRxS1dnWTJWS1ktdmNtNUxfd2VwOWZ2TTZRUDBLMlFQc0hkXzRwUDFQaGZjdVJhWUtIUHpDZ290UE40cWNYYzRtV29WNnRkWHZndV9ySU5jRm41NzhGOWVqOE1O?oc=5",
+      "image": null,
+      "published_at": "2025-11-03T19:20:20.000Z",
+      "summary": "Microsoft unveils $15.2 billion AI investments in UAE  Tech Xplore"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Eye on Gazans: How the IDF legal chief drama overshadows the abuse of Palestinian prisoners",
+      "url": "https://www.haaretz.com/israel-news/haaretz-today/2025-11-03/ty-article/.highlight/how-the-idf-legal-chief-drama-overshadows-the-abuse-of-palestinian-prisoners/0000019a-4a32-d1de-a99e-eff289460000",
+      "image": "https://img.haarets.co.il/bs/0000019a-4aa5-dde2-abbf-6fa504b70000/5b/21/725dd4f94904bd5ea18b0cf4d67a/267229-2.jpg?height=81",
+      "published_at": "2025-11-03T19:17:32.000Z",
+      "summary": "With a media leak, a cover-up and a suicide scare, it's easy to cast the former IDF military advocate general as the main character. But let's not lose sight of what this story is really about: What happened at the Sde Teiman base"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Birth of a Jewish and Democratic Nation - Sponsored Content",
+      "url": "https://www.timesofisrael.com/spotlight/birth-of-a-jewish-and-democratic-nation/",
+      "image": null,
+      "published_at": "2025-11-03T19:15:00.000Z",
+      "summary": "Since its founding, the Hebrew University's Faculty of Law has been tasked with building and safeguarding Israel’s legal framework and democracy.\nThe post Birth of a Jewish and Democratic Nation appeared first on The Times of Israel.\n"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -57,9 +97,49 @@
       "topic": "News",
       "title": "More Palestinians support Oct. 7 massacre now than five months earlier, recent poll finds",
       "url": "https://www.jpost.com/middle-east/article-872574",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3476,w_5213/688182",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/688182",
       "published_at": "2025-11-03T19:13:00.000Z",
       "summary": "The October poll also found overwhelming disapproval of Hamas's disarmament and increased pessimism regarding the terror group's victory over Israel."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Court rejects appeal: Ex-Military Advocate General to remain in custody",
+      "url": "https://www.israelnationalnews.com/news/417237",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1202465.jpg",
+      "published_at": "2025-11-03T19:08:00.000Z",
+      "summary": "The court rejected Yifat Tomer-Yerushalmi’s appeal to be released to house arrest, citing obstruction concerns. She and a former IDF prosecutor face multiple serious charges."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Rana Sanaullah dismisses fearmongering over 27th Amendment",
+      "url": "https://www.dawn.com/news/1952947/rana-sanaullah-dismisses-fearmongering-over-27th-amendment",
+      "image": "https://i.dawn.com/large/2025/11/03234829eda338a.webp",
+      "published_at": "2025-11-03T19:07:52.000Z",
+      "summary": "Adviser to the Prime Minister on Political Affairs Rana Sanaullah on Monday dismissed fearmongering over the proposed 27th Constitutional Amendment and said the government would not impose any “calamity” over the nation in its name.\nThe PPP said earlier today that its coalition partner PML-N has ..."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "At Rabin memorial ceremony, Herzog warns Israel &#8216;once again on the edge of an abyss&#8217;",
+      "url": "https://www.timesofisrael.com/at-rabin-memorial-ceremony-herzog-warns-israel-once-again-on-the-edge-of-an-abyss/",
+      "image": null,
+      "published_at": "2025-11-03T19:05:52.000Z",
+      "summary": "President calls for country to stick to Trump's Gaza deal, take opportunities for peace as was 'Rabin's vision'; late PM's grandson calls for nation to push extremism to margins\nThe post At Rabin memorial ceremony, Herzog warns Israel &#8216;once again on the edge of an abyss&#8217; appeared first o"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Kenya and UAE Linked by New High-Speed Undersea Cable to Boost Digital Trade - Dawan Africa",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUdDbGRiRW5SQ2dwcWJTdWhsRmxFdFZJUXNBVmYxSDZDdWRfb01odDcwMUtIX1V2MWhsTVEwVWQ1OVZEMlE2NmducEhYRGRaQkx5dUdETzQtRUstZmdvZmk0RXdBQTB2eGJiaDVleE56U2RYX29pY2hvZm5wQ2cxWUhPM1RSc3NWdFN5cmpmdW5vUHp2VWtDVDJZcnFaVFR6a3l0dnZuRW5hZw?oc=5",
+      "image": null,
+      "published_at": "2025-11-03T19:00:38.000Z",
+      "summary": "Kenya and UAE Linked by New High-Speed Undersea Cable to Boost Digital Trade  Dawan Africa"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -70,6 +150,26 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c46e/live/80520560-b8d1-11f0-a042-ff789a19a2e9.jpg",
       "published_at": "2025-11-03T18:57:57.000Z",
       "summary": "More than 40 people are known to have died since last week, according to officials."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaW5kZXBl",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israeli military’s top lawyer arrested after leaking video of alleged abuse of Palestinian detainee",
+      "url": "https://www.independent.ie/world-news/middle-east/israeli-militarys-top-lawyer-arrested-after-leaking-video-of-alleged-abuse-of-palestinian-detainee/a1725585858.html",
+      "image": "https://focus.independent.ie/thumbor/UpwWOrPS_63nkerrD3LjK715yJk=/720x0/smart/prod-mh-ireland/6e0f2628-8445-49c5-af08-9f6885659b1e/f7b74e84-cb92-4e31-8599-5756c519de23/6e0f2628-8445-49c5-af08-9f6885659b1e.jpg",
+      "published_at": "2025-11-03T18:52:09.000Z",
+      "summary": "Israel’s top military prosecutor has been arrested after admitting leaking a video that showed Israeli soldiers allegedly abusing a Palestinian prisoner at the Sde Teiman detention camp."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Afghan Media: Taliban Have Executed 110 Fmr Afghan Soldiers - MEMRI",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVHRQbFdRcGRFZ1BPODh6ODkxWHluc3lLVGJFQlM1bDBWU25FNGlmR2oyeHF4ZTFJWk5HOHU4ZFJYNTdVZVRMMUk4SlhMV2xVdW9IQXRXQUdwbnRmRjJNN1lub0pMSG9FZVQyZ1FJal9xLUZUQWdxcjZsZEpFeXdrWGNfTHl2aER4SHNoNTRvcFNDaWl4S2s5VjBRU0hqNUY5dTRHZGJBTnk3VTFBcFBSQURlRkhKNWkxbkFVYTFXRQ?oc=5",
+      "image": null,
+      "published_at": "2025-11-03T18:51:05.000Z",
+      "summary": "Afghan Media: Taliban Have Executed 110 Fmr Afghan Soldiers  MEMRI"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -85,11 +185,41 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
+      "title": "Microsoft : Learn about Microsoft’s $15.2 billion USD investment in the UAE - MarketScreener",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWMzXzRBcDZCUlFJMTZlYnNpa2xWTlg1TWNzbWZjaUpUV1JZdGhMMktNMlhMR3BHcGpicUlRR0ZaQldtZ3N1dWI1cEpnekppaW16bG9FdktwMmhXcjN0YUV3d3ZFWHNQdkNvdkZwbE9YN3Q1Qm1xdEdwbURnY3gzMTZXUlNtQ1V2WFBkRG0zUmFkdThkRmQ2Z1lwSWpmNVc2RjVWekVfd1BvcGg2TmZYTTVtLVBoMzB3djYtV0lxTlkwWWdU?oc=5",
+      "image": null,
+      "published_at": "2025-11-03T18:49:16.000Z",
+      "summary": "Microsoft : Learn about Microsoft’s $15.2 billion USD investment in the UAE  MarketScreener"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
       "title": "UAE secures Nvidia GPUs: what Microsoft's AI announcement means - thenationalnews.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXozVFBES1F0Z2dmMmRISTVRR2RsUmtiZ0NxUENEZXRxc2FsU2hhYmdNNHhBU2tjTEg4ZllPdkctdHkweXR0clJLVkxfbHg0VE05Y1gwNzhlSmFvOS12Zlp5c192S3cyQ0NXdWI0cUIwZzdPdkU0UGdYYXhTRkJCV2lPNFlmWjhqZjNIeGg4SlZxOFRT?oc=5",
       "image": null,
       "published_at": "2025-11-03T18:43:19.000Z",
       "summary": "UAE secures Nvidia GPUs: what Microsoft's AI announcement means  thenationalnews.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Microsoft reveals UAE investment of $15.2bn over seven years to support AI - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcXpsa3lfUVlOVTN6X0puNW44aThHZVJkVmphSVZXR1ZZZWh5bktlQy13c3pHYkxZWUxobTVhWGR3bDRwZW45Z3RRY2ZLV3ZXV296cXI3bzAtdnJmeVZpZklsZlF1Rm5adGR6N2RvamlRNFBld1dIcXlDX0NNcV9uX2ZaUW0wUDRGVlZBSE5XN01HQ0NFYW04R3Zhc3VEVnkyTGdWSGxFQlRXd2ljMFNKV0pfbUhGejR2VXduVllxN3ZKbVZqMUhfN0VGbXdaNy1sU0VPWE5zVElfakQyU0VQdmtqUHhOeFdlZWN1YkVR?oc=5",
+      "image": null,
+      "published_at": "2025-11-03T18:43:19.000Z",
+      "summary": "Microsoft reveals UAE investment of $15.2bn over seven years to support AI  thenationalnews.com"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hadar Goldin's sister's demand from the Prime Minister: 'Look me in the eye'",
+      "url": "https://www.israelnationalnews.com/news/417236",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1202522.jpg",
+      "published_at": "2025-11-03T18:40:38.000Z",
+      "summary": "After meeting Gal Hirsch, relatives of the final hostages still in Gaza demanded the war-ending deal be fulfilled, including the return of all deceased held by Hamas in Gaza."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -110,6 +240,26 @@
       "image": null,
       "published_at": "2025-11-03T18:38:52.000Z",
       "summary": "Prime minister often asks to truncate the hearings, which occur four times a week, due to his responsibilities or his health \nThe post Netanyahu trial hearing to be cut by 2 hours due to &#8216;urgent diplomatic meeting&#8217; appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Taliban's 'Greater Afghanistan' Map Sparks Puts Pakistan On Edge - WION",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0IwWHIwQU5tWk5fYTc5SWFXbE9hRERiczFqT3lHS3FiUUJjX25DRlhyNjVrZGdEdWx6NmY3WTdXQV9kMUp2NEJ1QmFjZEprQTNRT25oNHBRWHZNSjdYMFZvOGVBZ0ZsZTZBQkRTWUp5cVF0RXNhdVpWdEM4RWRiOWR3ZVdydU9iNG9QSGhxNmtvLVdENVhDT1h2T1NCLThPaVVZSjN5NGtORmPSAbABQVVfeXFMT3d4MHotZDdRNnpnNXRmTFlMMEtGNS1YV1FBeV8weVFLNmw2eDlmM2ZuWFNENHFEXzdGa2ZuNjh4UlBweU9pekhqRk9CLVZPTkUyd2I0VmM5SkpuX0NlQm5oTEtQUi13OS1FaFBlZ2JmZXh4TVozYVJzcUNJWmduRFRCaEpZZTRQRTQ2R0o2UlJtTlotT0dNLTdxRnZjVWZ0VE5lWlZOSF80djlaNDBOcV8?oc=5",
+      "image": null,
+      "published_at": "2025-11-03T18:38:00.000Z",
+      "summary": "Taliban's 'Greater Afghanistan' Map Sparks Puts Pakistan On Edge  WION"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Madbouli seeks to boost Qatari investments, reaffirms support for Yemen at Doha Summit - Dailynewsegypt",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVFwYVdodUJxaGV5UEF6TXU2Mlo4Nmt5eFZNcmI3WG95MzRRUHVoVlY5SVFJUHE5OXlONk5leGJjTjFlZENndDJlaFAtcmxsc2t3d1FIR0xvTWItTnJldVVFdk9DNEQxMmswdWRfeFhXU0lQMFdrNTNuSHREbVpqX0tPVDlqdG10a0E1NjlOZ0xocVB1U3dkYms4WGttLXFuUjl0cnRFVENhb0ViQ1BGeHFJUUN3MXpocHJmLWxfX0MzalM5SzUw?oc=5",
+      "image": null,
+      "published_at": "2025-11-03T18:37:37.000Z",
+      "summary": "Madbouli seeks to boost Qatari investments, reaffirms support for Yemen at Doha Summit  Dailynewsegypt"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -252,16 +402,6 @@
       "summary": "The announcement comes less than week after Amazon laid off 14,000 people. "
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "India planning false flag operation in maritime domain, warns DG ISPR",
-      "url": "https://www.dawn.com/news/1952928/india-planning-false-flag-operation-in-maritime-domain-warns-dg-ispr",
-      "image": "https://i.dawn.com/large/2025/11/0317274987b6faf.webp",
-      "published_at": "2025-11-03T18:12:02.000Z",
-      "summary": "Director General of Inter-Services Public Relations (ISPR) Lieutenant General Ahmed Sharif Chaudhry on Monday warned that India will attempt a false flag operation in the maritime domain, during a closed-door briefing given to senior journalists from select media outlets.\nIn a press release today..."
-    },
-    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -270,6 +410,16 @@
       "image": null,
       "published_at": "2025-11-03T18:12:02.000Z",
       "summary": "India planning false flag operation in maritime domain, warns DG ISPR  Dawn"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "India planning false flag operation in maritime domain, warns DG ISPR",
+      "url": "https://www.dawn.com/news/1952928/india-planning-false-flag-operation-in-maritime-domain-warns-dg-ispr",
+      "image": "https://i.dawn.com/large/2025/11/0317274987b6faf.webp",
+      "published_at": "2025-11-03T18:12:02.000Z",
+      "summary": "Director General of Inter-Services Public Relations (ISPR) Lieutenant General Ahmed Sharif Chaudhry on Monday warned that India will attempt a false flag operation in the maritime domain, during a closed-door briefing given to senior journalists from select media outlets.\nIn a press release today..."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -335,21 +485,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "\"אין גבול לשיבוש\": הערר נדחה, הפצ\"רית תישאר במעצר",
+      "title": "\"אין גבול לשיבוש\": הערר נדחה, הפצ\"רית תישאר במעצר | אלו החשודים בפרשה",
       "url": "https://www.ynet.co.il/news/article/r1ktjpijbx",
       "image": null,
       "published_at": "2025-11-03T17:56:36.000Z",
-      "summary": "עורכי דינה של תומר-ירושלמי טענו ל\"שגיאה ברורה\" של בית המשפט, נציגת היחידה החוקרת אמרה כי \"יש כאן אישה שניצלה את מעמדה להשתיק ולסדר את העובדות בצורה נוחה לה\" - והשופטת קבעה: היא תישאר במעצר. אתמול הוחלט להוציא צו מעצר נגד תומר-ירושלמי מחשש שתימלט"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Wikipedia's 'Gaza Genocide' article an example of how neutrality needs to be improved, founder says",
-      "url": "https://www.jpost.com/diaspora/article-872598",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3440,w_5152/688219",
-      "published_at": "2025-11-03T17:54:53.000Z",
-      "summary": "Jimmy Wales warned the \"Gaza Genocide\" article needed immediate attention, as it \"failed to meet the neutrality standards of Wikipedia.\""
+      "summary": "פרקליטי תומר-ירושלמי טענו ל\"שגיאה ברורה\" של בית המשפט, ביחידה החוקרת אמרו כי \"יש כאן אישה שניצלה את מעמדה לסדר את העובדות\" - והשופטת קבעה: היא תישאר במעצר. אתמול הוחלט להוציא צו מעצר נגדה מחשש שתימלט. התובע הצבאי לשעבר, המקורבת, החותמת על התצהיר, התובע: אלו יתר החשודים"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
@@ -435,41 +575,11 @@
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "Football Recap: Frankfort Falls Short of Lebanon in the Playoffs - MaxPreps.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNktqZXdfTEN4YXgzQTNJUnlSVHViRTBWOEhoaUFUYUlOSmI5UWhoN2ZCZFBMODRzcjFsQ0NsdVcyaGR3X0RTZTVOcTdhOVU0VDl5WFAtNXR4bmdlSTFCNDVYcm9GYXJOTmhoU3FlX0pXTjI3VXpyWnk1cktKOU1kRzhSa1VWV3pyU2N3bTJqS0tuRDZwemVJR2JOVmRheGFPbGRSbFo0VG5QSzRGaW5WYmd4ekxBUXhDcVQyQw?oc=5",
+      "title": "Steel City Police arrest two shooters linked to UAE-based Prince Khan gang - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdFgxT0RlTkZmZkRaYjlLMTIybEdMdDdHcXBrTjltTWVGQ2FJUUNyVmRlel9pd205V0hFY29oQWRucEpCamkwdzlzVlNRb3RMcTJFR29lZU4xRTU4cnhzYzdtQXh6VnlId2JYc3Q5ZVpzak5kVXhNTFBEVVc5dkczRjEtZkIxSnhFSDczQ1JhZkxMT2VhYXEweERHSV8tX2ZJNWZyd1BYYXNfcjBxWWdwcnhOdFE2SnNPTzdQRXprdllUTFZFZVB3N1JJODh4MFhGeVplT1NjMURYRkRaRXZXTk1R0gHnAUFVX3lxTE13UnlkbDFRSHp3RXVYZTVRTExPTHlrYlV2Q0cybVpvWG9EMjFQUk5sQmpGaWFPaDJyNHNXTmxucDdBMHFmaWxkNGRVX09WbEdhcWlwdzk5ckFkd3R6OF9tT0doU1dqRGVKaGRIUHdPNm9FVjNhR01Dc0FmZVc0V2U2ZlVOTlhDYkdXRnQtTHM4cDZZU1M2dHhsQnY2SWlMZDVmanFTNzF3YjF5Sm9oMmNuRF9EN0xpQmJtMWd4SDNULXBENlMyNHRoN3FxdjN5d1VRSUtKYnVDdXRLWkhlZ2VfNHU5OFRNYw?oc=5",
       "image": null,
-      "published_at": "2025-11-03T17:43:37.000Z",
-      "summary": "Football Recap: Frankfort Falls Short of Lebanon in the Playoffs  MaxPreps.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdsaW5lc2lu",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Domestic Fragmentation and Geopolitical Flux Mark Upcoming Iraqi Elections",
-      "url": "https://newlinesinstitute.org/sustainable-futures/domestic-fragmentation-and-geopolitical-flux-mark-upcoming-iraqi-elections/?utm_source=rss&utm_medium=rss&utm_campaign=domestic-fragmentation-and-geopolitical-flux-mark-upcoming-iraqi-elections",
-      "image": null,
-      "published_at": "2025-11-03T17:39:48.000Z",
-      "summary": "Iraqis will vote Nov. 11 in the country’s sixth parliamentary elections since the fall of Saddam Hussein’s Baath regime in 2003. Nearly 8,000 candidates from around 90 electoral tickets are running for Iraq’s 329 parliamentary seats, with about 21.5 million registered voters (about a quarter of t..."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Microsoft to Invest $8 Billion in Data Centers, Chips in UAE - MarketScreener",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHRNcnRWTkgtZTVrazd2R3hYT1BBYUZlSG9OWTlWdEYxaF8tbEZrYjkwb3JTTjE4RTlRTVpxSnVmdV9tWjExZ0xGSGt3WUtUWV84d1hpdkc2THcwb2p4RndLblVfQkRGUVFtLVBXQTEtRUg5QU9hb0FKUEpHVXJvbDg2R3puSzhLNjhKMGI5QnFVY3NQa3FIRGkzc0hvQnlnUC1QX3BXWE9pUzJEdzVlYg?oc=5",
-      "image": null,
-      "published_at": "2025-11-03T17:39:47.000Z",
-      "summary": "Microsoft to Invest $8 Billion in Data Centers, Chips in UAE  MarketScreener"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "UAE rejects oversupply fears as oil ministers defend demand outlook - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONHNDRVplNFRnNGZrWm9kbW5WejE4bGxDUlFUMzhlVFpJZXNnNjRiVzRFRzRxYjRORXZoT3NlNHVCTUNwYWxKaHNobmczZlpSdjhXbFZhSmZLdlhHMFE3c2k0ZWwwaWh6Yks0RVpxSWRMTDhPcVRuR2RlY1Q4b2tPcTAwb0hJZHZpaTh5V0hMb2RDMFJWZllPNjlvbkVxaHJQSEpJYXJtZlVpTmllNFExZHZoRmtWTFlSTC1Ha0EwN1VjUl8xTmYtOFFQSE96ZWJCeVVybVcwcm0zSTFod0E?oc=5",
-      "image": null,
-      "published_at": "2025-11-03T17:39:28.000Z",
-      "summary": "UAE rejects oversupply fears as oil ministers defend demand outlook  MSN"
+      "published_at": "2025-11-03T17:44:00.000Z",
+      "summary": "Steel City Police arrest two shooters linked to UAE-based Prince Khan gang  The Times of India"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -492,56 +602,6 @@
       "summary": "פרסום ראשון: שוהה בלתי-חוקי גורש אחרי 14 שנים בישראל, לאחר שעלה כי הוא תומך במשטר בארץ מוצאו. הדבר התברר לאחר שנעצר כשברשותו מצ'טה - ובחשד שאיים על משפחתו"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Armenian President lands in Qatar - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aQUprT2YyWHZRbkJ3QW9zcEtRRGVPdE5lOTlCN2Q1ZmRmOFJCaFA5cl9xODAwQndpUHl6VUVkZFRjemJ2QXU5OFA3Q1BQZXNJZ3ZNU3pOU3N6Z3Y4dE9XLTFvNGI?oc=5",
-      "image": null,
-      "published_at": "2025-11-03T17:31:47.000Z",
-      "summary": "Armenian President lands in Qatar  Latest news from Azerbaijan"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "WATCH: Israeli strikes kill two Hezbollah terrorists, including Radwan Force operative, in Lebanon - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92NWlCOFBQUm5Bc0F3Q1dYVm5FRXdWd1Z0T3FINTdQYUN5WnNkNVotRGJVdE95dldkeHBudEVwSUY0UDVkNGQxOUtQdklTZ1ZfRUJTSEVEbTNwM2xlY3ZjSWtneWdJa1VHMnpCZ1JR?oc=5",
-      "image": null,
-      "published_at": "2025-11-03T17:31:19.000Z",
-      "summary": "WATCH: Israeli strikes kill two Hezbollah terrorists, including Radwan Force operative, in Lebanon  The Jerusalem Post"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Qatar Charity welcomes dismissal of US lawsuits - The New Arab",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11UmFYdGQ2UHZ6VURXNzlBSzkyZGlUaC1VNXRtTW5GY1RpajVucU81czVKVTkzd1BYdjNLRUNxR3N2STdock1IdWU4Q1ZsSC1lVlRDVTVNakJidDNNRW50VnliT2VHTlhUVjFwVHBQdzRCU1M0R256ZDJXc0Rhd9IBgwFBVV95cUxQTFZ2N04yc09Nend6TEZBRFQ1eDZtRWtONmlHZ1RHcWdIcEhlSENySHRCSURtTXBpZmhJdWJCNHpMNzdTWmZvOE9ldlZrdi1IQ2F2YWJHZzkzYlFvT3kyWVpWeUtsLUdnYnp0SDkyOVBzb2pmUHF5eWl6VUpTM2RhTzY4QQ?oc=5",
-      "image": null,
-      "published_at": "2025-11-03T17:27:43.000Z",
-      "summary": "Qatar Charity welcomes dismissal of US lawsuits  The New Arab"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Within less than an hour: IDF eliminates two Hezbollah terrorists in southern Lebanon",
-      "url": "https://www.israelnationalnews.com/news/417235",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1202513.jpg",
-      "published_at": "2025-11-03T17:25:38.000Z",
-      "summary": "IDF strikes Radwan Force and Hezbollah terrorists who attempted to reestablish terror infrastructure sites and gather intelligence on IDF troops."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "29,609 e-tickets issued since system inaugurated in Karachi: police",
-      "url": "https://www.dawn.com/news/1952945/29609-e-tickets-issued-since-system-inaugurated-in-karachi-police",
-      "image": "https://i.dawn.com/large/2025/11/032157479c3fb85.webp",
-      "published_at": "2025-11-03T17:24:15.000Z",
-      "summary": "As many as 29,609 tickets have been issued for traffic rule violations since the newly implemented e-ticketing system was inaugurated in Karachi, according to data from the police.\nSindh Chief Minister inaugurated the Traffic Regulation and Citation System (TRACS), commonly known as the e-ticketi..."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -562,16 +622,6 @@
       "summary": "David Draiman has been caught up in a series of public clashes in the past year due to his political views and his signing of an IDF shell. 'We all need a nice long break,' he wrote on social media"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Microsoft unveils $15.2 billion AI investments in UAE | World News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbmhBM3pYejByUmFyRHZVWEhUTzV5b2tQMmctbjVkQmQ2Xy0tMGtDbGx4RFNGdnliS19MQzFianpoajlaUTJOZ1dVYTJjenpPb19vcERoZWt3NTJtSG54SjZOX1BSaW1NSm5iSG5waUd0T2NkS3ZHVjVqeDM3ZVF1ZkJMZkc1Umk3VmtEQ3N2bTBoMU9jck5pV3JMbzZHME9sX0YwX3E1VFZRd3k1WE9PSjE0T0x3UdIBuwFBVV95cUxNUzdCeDY3dnFvVTRubU1LSUdBcUNYYnkyNVEwWHRvOHJwa1Q5bU5mMzUwZGtnWC1Lc0ZVZ3dVSDMydW9XWmstbWg1N1pteVNKaXY1V2YtWWdfRUpRNkdzWUIzR0ppU3lqN2lueWY3WmpseENmd2otMll2NUM5bV8zUEE1a05OaFdUV2s3Q2M5b2F4TjhpRDRPMzFTTGNfeHltZ2lmTGtSaWdFRHJiQ2ZXNzlvWmtjZHotY0Jv?oc=5",
-      "image": null,
-      "published_at": "2025-11-03T17:22:01.000Z",
-      "summary": "Microsoft unveils $15.2 billion AI investments in UAE | World News  Hindustan Times"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -580,6 +630,16 @@
       "image": null,
       "published_at": "2025-11-03T17:20:37.000Z",
       "summary": "President Isaac Herzog opened the official commemoration ceremony for the 30 years since the assassination of Yitzhak Rabin, held at the President's Residence."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Watch: Moment medieval tower partially collapses in Rome",
+      "url": "https://www.bbc.com/news/videos/cwypvm02dm2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5054/live/d7324cd0-b8d8-11f0-b2a1-6f537f66f9aa.jpg",
+      "published_at": "2025-11-03T17:19:00.000Z",
+      "summary": "The partial collapse of the Torre dei Conti - close to the Colosseum - has trapped one man and left another critically injured."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1220,26 +1280,6 @@
       "image": null,
       "published_at": "2025-11-03T12:48:05.000Z",
       "summary": "NYC public advocate arrested at anti-ICE protest "
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Daily Briefing Nov. 3: Day 759 &#8211; Israel marks 30 years since Rabin&#8217;s death",
-      "url": "https://www.timesofisrael.com/daily-briefing-nov-3-day-759-israel-marks-30-years-since-rabins-death/",
-      "image": null,
-      "published_at": "2025-11-03T12:43:26.000Z",
-      "summary": "Political correspondent Tal Schneider on the changes in the 30 years since Rabin's assassination; reporter Sue Surkes discusses pollution in West Bank and Hadera\nThe post Daily Briefing Nov. 3: Day 759 &#8211; Israel marks 30 years since Rabin&#8217;s death appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "With PM&#8217;s support, MKs advance bill on death penalty for terrorists who kill Israelis",
-      "url": "https://www.timesofisrael.com/with-pms-support-mks-advance-bill-on-death-penalty-for-terrorists-who-kill-israelis/",
-      "image": null,
-      "published_at": "2025-11-03T12:42:47.000Z",
-      "summary": "Hostage pointman revokes earlier opposition to proposed law, says Netanyahu now backs it; Ben Gvir wants all such convicts executed, with no say for courts or security officials\nThe post With PM&#8217;s support, MKs advance bill on death penalty for terrorists who kill Israelis appeared first on The"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -2032,16 +2072,6 @@
       "summary": "Cooper is the final hostage from among the Kibbutz Nir Oz members to have been returned to Israel. He was kidnapped alive on October 7 with his wife, Nurit, who was later released"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Who is Yifat Tomer-Yerushalmi, IDF's chief attorney embroiled in Sde Teiman video leak? - explainer",
-      "url": "https://www.jpost.com/israel-news/article-872486",
-      "image": null,
-      "published_at": "2025-11-02T19:08:50.000Z",
-      "summary": "Tomer-Yerhsualmi's long career in the IDF's legal division ended abruptly after she resigned in connection to leaks related to the Sde Teiman affair."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2672,16 +2702,6 @@
       "summary": "Legal sources told Haaretz that if senior officials in the Military Advocate General's office are found to have deliberately leaked the recording, it could impact the trial of the soldiers accused of abuse"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Watch: Train smashes into truck at Dutch level crossing",
-      "url": "https://www.bbc.com/news/videos/ced65d0gl2eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab1b/live/30689760-b65d-11f0-b2a1-6f537f66f9aa.jpg",
-      "published_at": "2025-10-31T13:37:10.000Z",
-      "summary": "Five people sustained minor injuries but nobody was seriously hurt in the incident in Meteren."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2740,16 +2760,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-395c-d856-a9ff-7fff65000001/aa/3f/229771914e25b4402e97bf88ed88/286438.jpg?height=81",
       "published_at": "2025-10-31T07:20:11.000Z",
       "summary": "The officer, a man in his 40s, has long been recognized within the Defense Ministry's rehabilitation department as struggling with both physical and mental health issues, including post-traumatic stress. The traumatic incident that triggered his condition occurred roughly a decade ago"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "'Give your money away,' Billie Eilish tells billionaires",
-      "url": "https://www.bbc.com/news/videos/cdx4qpdvjjko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/855e/live/5921b750-b60c-11f0-aa13-0b0479f6f42a.jpg",
-      "published_at": "2025-10-31T04:28:07.000Z",
-      "summary": "The singer called on the mega wealthy to donate more to charity, during a speech at the WSJ Awards attended by the likes of Mark Zuckerberg and George Lucas."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2830,16 +2840,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-2aa7-d487-a3d9-aebfbb900001/51/35/61ae933f4982854d5e4bbbbeeed4/739558.jpg?height=81",
       "published_at": "2025-10-30T22:20:17.000Z",
       "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Accused of genocide, internationally shunned: What can Israel learn from the case of Serbia?",
-      "url": "https://www.haaretz.com/israel-news/2025-10-31/ty-article-magazine/.highlight/accused-of-genocide-internationally-shunned-what-can-israel-learn-from-the-serbian-case/0000019a-3696-da7a-abdb-bf9657c10000",
-      "image": "https://gif.haarets.co.il/bs/0000019a-36c4-d36c-a3bf-b6d521930005/02/4d/fbaab9504ce8a4ca3c714629afec/serbiagenocide-promotion.gif?height=81",
-      "published_at": "2025-10-30T22:18:39.000Z",
-      "summary": "Twenty-five years ago, in the aftermath of a bloody war, Serbia faced a world that condemned it for war crimes. In conversations with Haaretz, Serbian experts reflect on what it takes for a society to truly move forward – and caution against a battle of narratives in which all sides stand to lose"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
