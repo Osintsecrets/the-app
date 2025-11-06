@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-06T19:07:30.739Z",
+  "generated_at": "2025-11-06T19:31:27.784Z",
   "items": [
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "US military presence in Damascus: Exactly what Syria, and Israel, needs - analysis",
+      "url": "https://www.jpost.com/middle-east/article-873040",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1138,w_1600/688869",
+      "published_at": "2025-11-06T21:02:20.000Z",
+      "summary": "An American force in or near Damascus at a strategic site such as an airport could be just the thing Syria needs at the moment."
+    },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Start.me — 10 Mideast (page feed)",
@@ -52,14 +62,64 @@
       "summary": "\"The most important thing [is] it will 'bring to life' the issue of the Abraham Accords, ahead of more countries joining,\" a source with knowledge of the matter told The Jerusalem Post. "
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israel's defense minister orders open-fire orders to be expanded along Israel-Egypt border, citing weapons smuggling",
+      "url": "https://www.haaretz.com/israel-news/2025-11-06/ty-article/.premium/defense-minister-orders-open-fire-expansion-near-egyptian-border-due-to-weapon-smuggling/0000019a-5a42-d2eb-afda-dec3edec0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-5a52-d5d0-a59f-7a7f379a0000/89/d0/543c790441959cf357f1964680df/574233.jpg?height=81",
+      "published_at": "2025-11-06T19:26:28.000Z",
+      "summary": "The IDF expressed reservations, noting that smugglers on the Israeli side of the border are civilians, and therefore police should deal with them. The defense minister's demand comes amid a growing wave of weapons smuggling from Egypt into Israel using drones"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "דיווח: המבצע המודיעיני שניהלה קטאר - נגד המתלוננת על התובע בהאג",
+      "url": "https://www.ynet.co.il/news/article/bydmvoq1zx",
+      "image": null,
+      "published_at": "2025-11-06T19:25:05.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
-      "title": "US treasury sanctions Hezbollah operatives aiding Iranian funds in reaching terror group",
-      "url": "https://www.jpost.com/international/islamic-terrorism/article-873023",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1997,w_2996/688868",
-      "published_at": "2025-11-06T19:22:20.000Z",
-      "summary": "The funds transferred to Hezbollah were used to resist the Lebanese government's efforts to assert control over the territory and rebuilding terror infrastructure."
+      "title": "Revealed: Qatar-linked intelligence operation targeted ICC prosecutor’s alleged victim - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZzh4c1hoU2JLLXl1S1FBT1dTSFpKMkZQTThZZEVETnFMblVfTW5YTmtGYXRjdmdwQThOaHFsT3MtbzJ4YXg3UkVzT0RiTThaVmZrdHBFbmp4Zlc4Z3VjY1ZPT3liVDhZUHU0bWtQei10Rjc0dW1fTTZNMzZRZ19ZSVcwSHgyX0E3eml2TzVoYTdTUXBRcnU3MFE2UWFYSHpsVEZ0ZDFIOFE2M3Z4TWFiU0gxZHBpYlNWZjVKSGVaaWx0M0NYTHVuZw?oc=5",
+      "image": null,
+      "published_at": "2025-11-06T19:21:00.000Z",
+      "summary": "Revealed: Qatar-linked intelligence operation targeted ICC prosecutor’s alleged victim  The Guardian"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Peace with Israel would open new path for Lebanon - arabnews.jp",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdGtzSWxyVkgySXg5NW1iU2RxbDJ2UWs2TnhBdDYzMUlfRlIyMUlHM2lkU0tiNE8wZENGOEozWHN4OWU0aEFDWTB1NXg2NV95bGJDSmZXYW9PcEc5aDhV?oc=5",
+      "image": null,
+      "published_at": "2025-11-06T19:20:48.000Z",
+      "summary": "Peace with Israel would open new path for Lebanon  arabnews.jp"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "SOAS University ‘concerned’ by reports of Sami Hamdi’s detention in the US",
+      "url": "https://www.aljazeera.com/news/2025/11/6/soas-university-concerned-by-reports-of-sami-hamdis-detention-in-the-us?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-06T19:17:44.000Z",
+      "summary": "SOAS University, of which Hamdi is an alumnus, urge &#039;US authorities to ensure full transparency and due process&#039;."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Hezbollah rejects talks with Israel as attacks spark fear of renewed war - AL-Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWpTM3hneDVIU3pyQ3FOR3RCNVhaUXJybHhLcmt2N1hFY2hiRjdjaXBXNTEyTVV0c2RLVkhxU3Y4ZVZjTzRXdm5UN0tUMlRmX0lEdUl6Q3UwWEo2NFVuYkMzN2FfUHN5VGtuNVJxeE1BaUd1X2dwc3VLaS1uVGZ1cVJDVXlTQmlBT3FyTTRaVW9VekFDalZIemZHUmdmdU43c3dPc1NUSXctQQ?oc=5",
+      "image": null,
+      "published_at": "2025-11-06T19:15:48.000Z",
+      "summary": "Hezbollah rejects talks with Israel as attacks spark fear of renewed war  AL-Monitor"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -72,6 +132,16 @@
       "summary": "Austrian authorities said that they identified a 39-year-old British citizen as a suspect. He was arrested in London on Monday."
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "In Israel, a surge in posthumous sperm extractions raises new ethical and scientific questions",
+      "url": "https://www.haaretz.com/israel-news/2025-11-06/ty-article/.premium/over-a-quarter-of-israels-military-dead-have-had-sperm-retrieved-for-possible-future-use/0000019a-5938-d5d0-a59f-797f48b30000",
+      "image": "https://img.haarets.co.il/bs/0000019a-59bd-d2eb-afda-dfbd6dfb0000/b7/97/ba1c343c4d889f8bed3d9d79e585/233003.jpg?height=81",
+      "published_at": "2025-11-06T19:11:38.000Z",
+      "summary": "Since October 7, sperm has been preserved from 250 fallen soldiers and security personnel – mostly at the request of bereaved parents. A new Israeli study sheds light on the clinical prospects of the procedure, while extraction itself marks only the beginning of a complex legal, ethical, and emotion"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -82,6 +152,56 @@
       "summary": "Operation Cast Lead, also known as the first Gaza War, was a 22 day conflict between Hamas and the IDF."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Former Shin Bet chiefs face criminal inquiry over secret document",
+      "url": "https://www.israelnationalnews.com/news/417415",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1202808.jpg",
+      "published_at": "2025-11-06T19:10:08.000Z",
+      "summary": "A criminal investigation was opened into three ex-Shin Bet directors after they submitted a classified document to the Supreme Court in a petition opposing David Zini’s appointment."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel carries out heavy airstrikes on south Lebanon - The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbko3OXdPcXpma1BEVDdoNjVqWGZ3eVNBbWhPTGc0UUFueUxVSW55RWc4Vnh2bERiUGxxTFZtdG9jVDRNVVlJRHl6VkxwS3VkNl9jNmRoZmtnaDFET1lTMktfSlIzY29nSGN5NjNibUZfdXh0VzlEVGpLRlZhdnNkeEoyWlVHWXNvSmxReHlSQTE3LWRqUlA5ZHVsMTM4R3VVNnRzM2ZtY1VSQ21qcHc?oc=5",
+      "image": null,
+      "published_at": "2025-11-06T19:08:40.000Z",
+      "summary": "Israel carries out heavy airstrikes on south Lebanon  The Irish Times"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Egypt, Qatar sign $29.7B deal for real estate project on Mediterranean coast - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLUdkN3JyS3JiYUMwUTJqa0s3TE1QREtVRzlySzVsRU0wWmt5bnM5ZDhaamkyc3JLV0hUOE11MzZhR2FJendpN1hPZC1BeTNqZnVNaERWQTh0TjRVOGZpT2Vydk9rcFBxLWZVcmV3OThHV1N4NkhPZktOMjIxQTJiQXZLRkQ0bXo3dkdLTVZLRjRoVmdiWTJWWGt2SnNnckozUUQyYmZTU1R2RTdTTEpYSG5hdXpBblUxRnc?oc=5",
+      "image": null,
+      "published_at": "2025-11-06T19:06:38.000Z",
+      "summary": "Egypt, Qatar sign $29.7B deal for real estate project on Mediterranean coast  Anadolu Ajansı"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "How Free Zones Are Shaping the Future of Trade in the UAE - North Penn Now",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONnJLNzZocnZyY05SUXQzcHZBaHJQdU9aak1taFFWZ2Z6NXc4MnBJXzZuQ0djMzVRUXgzbG0xM3o1LVBoelUyRTBITXgzVW9SY2VmcjBUODI0WDNxSTNzMER0NlBRZmNWb2NiWmZnSUZRaF9RLVEzaWxMMUhzMTZVcTNZYnZ2YmE4TW1rVDhPck95MW14T1lnQVFRTlBiMlROcHc?oc=5",
+      "image": null,
+      "published_at": "2025-11-06T19:05:46.000Z",
+      "summary": "How Free Zones Are Shaping the Future of Trade in the UAE  North Penn Now"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "UAE Gaming Authority Appoints Interim CEO Following Kevin Mullally’s Immediate Resignation - iGamingToday.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSl9Bdmg4ZFY4MVFpRGRrWWdLNEN2dkt6QlVSdHhnV09ud1NocWFsaFZsVm9vS28ydWpsVkJVU2tLUFJBSG5YUUYyZ1BrQ1JSOVJUMjdmbFFDOTU3UkZFcGJaT3l5MEl1Q29nWEJFRkxnZnctSV9JMEFUR0VlVldjbk5YYzRLVEZud1REV3FnQi1lSE1JVkRWVTFqZDFnVE5IMTlvbkIydXlqc3JCOTVFYXh6R0xvZ2t2MURR?oc=5",
+      "image": null,
+      "published_at": "2025-11-06T19:04:45.000Z",
+      "summary": "UAE Gaming Authority Appoints Interim CEO Following Kevin Mullally’s Immediate Resignation  iGamingToday.com"
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -90,6 +210,16 @@
       "image": "https://i.dawn.com/large/2025/11/06234111a03c8c9.webp",
       "published_at": "2025-11-06T19:02:51.000Z",
       "summary": "Information Minister Attaullah Tarar on Thursday said there are no major roadblocks and impediments with respect to the 27th Constitutional Amendment.\nEarlier today, Prime Minister Shehbaz Sharif held meetings with the delegations of multiple parties in what appeared to be efforts by the governme..."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Heritage Foundation founder sorry for calling Carlson critics 'venomous coalition' amid resignation",
+      "url": "https://www.jpost.com/international/article-873018",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3945,w_5918/688833",
+      "published_at": "2025-11-06T19:01:25.000Z",
+      "summary": "The Heritage president warned that Democratic victories in elections across the country showed how the Conservative movement had to work to engage in difficult conversations to promote its values."
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
@@ -109,7 +239,7 @@
       "url": "https://www.ynet.co.il/news/article/rju81u9kbg",
       "image": null,
       "published_at": "2025-11-06T18:59:12.000Z",
-      "summary": ""
+      "summary": "מייסד תנועת \"קומו\" ואחיו של אלון שמריז, שנחטף ב-7/10 ונורה בשוגג על-ידי כוחות צה\"ל בשג'אעיה, החליט להצטרף לפוליטיקה. הוא המתין לעסקת החטופים כדי לקבל את ההחלטה, ושוקל להקים מפלגה שתייצג את \"הדור החדש\""
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
@@ -120,6 +250,16 @@
       "image": "https://www.israelnationalnews.com/files/pictures/0/1202732.jpg",
       "published_at": "2025-11-06T18:57:48.000Z",
       "summary": "On the 35th anniversary of Rabbi Meir Kahane's assassination, New York's Jewish community will gather in Brooklyn to honor his memory and discuss the urgent challenges facing Jews in the city today."
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel launches airstrikes on southern Lebanon - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTEpEdzc1UFVyY2FKaFJ5YTFkUk43d3pkNHlkWGJYRDJRS3FhX3FjMXNiaHByc3JTczJHT2tmX3RsQTVnMGRNS1RwdjFzdVJMQjNRSFZ4NjBEbEJKRXFIVS1uZDU3ZVMtbDBhWlAwaUo3ZDBYc0luMDVTSnA1dkhTSE1YMGIxZGJzS01ETVZFdUhuUkHSAWZBVV95cUxQZ1ZvcTUwQXNrWWk3bjhFMmVzT091ZTk0MXFZb25PS1FxMnBEYnlKdFloeHgwektzX2hSVzF6RzZuVnZHQVB1VVA2T1RLaFQ2N3A1R19VZFZLN19zNTkxVE5ScjhJOFE?oc=5",
+      "image": null,
+      "published_at": "2025-11-06T18:56:55.000Z",
+      "summary": "Israel launches airstrikes on southern Lebanon  NBC News"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -162,6 +302,16 @@
       "summary": "“I will restore your judges as at first, and your counselors as at the beginning. Afterward you will be called the city of righteousness, the faithful city. Zion shall be redeemed through justice, and her returnees through righteousness.”"
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "COP30: World leaders take aim at Trump for climate inaction",
+      "url": "https://www.bbc.com/news/articles/cn4j8dgnj1wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f22/live/90240cd0-bb43-11f0-9494-47f20ee206c1.jpg",
+      "published_at": "2025-11-06T18:49:14.000Z",
+      "summary": "World leaders address COP30 climate summit in Belém and take aim at Trump record on climate change."
+    },
+    {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
       "source": "Start.me — 10 Mideast (page feed)",
       "topic": "News",
@@ -170,6 +320,16 @@
       "image": null,
       "published_at": "2025-11-06T18:47:12.000Z",
       "summary": "Israeli Army Orders Evacuations, Launches Broad Air Raids in South Lebanon  Palestine Chronicle"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Lebanon Fire District names John Tacy as new fire chief - KEZI",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYUxIWUVOcm9UdVVYNW10S2tJMjNFQUZkbUVsNVRaSUd0OFl3em9OSnI3ZVlQWGh5NzhZaVRJZ2NXNS1vd2E3UWFqT1BnY042U3hneFFzZklpYUk0ay12N2Vrc3pIcHhMNGtPclJWS1RTQlhiaDRrX2VBR3N3eGhjNnlydUZRWXlRcTB3dk9SMzQxYnJMRjQxR3ZtZm5EeGVFaFlERGZZS0k0cTBhRzdDMWFpbGdtd3FReGgwdHlIU3F0NUl1MHVMZ3VJWl8yLUFZMUdv?oc=5",
+      "image": null,
+      "published_at": "2025-11-06T18:47:00.000Z",
+      "summary": "Lebanon Fire District names John Tacy as new fire chief  KEZI"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
@@ -192,6 +352,16 @@
       "summary": "Paramilitary says it will accept a ceasefire proposed by the Quad mediators - the US, Saudi Arabia, Egypt and the UAE."
     },
     {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel intensifies strikes in southern Lebanon against Hezbollah - The Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDV2bTE4QmRCU01Kd01od2xIb21FQU9VUGFmZlM5VVNRYzBlYjhOd1FyMHJjVVF3REUzOWQwZ2VXT1pfeG9EWHliWlhrNF9icUk1QjYzV3BGQVpKX3k1emFUdjBoMUxCMDNDNnNCQUU0LTZvS0tJZE9vUFpKX1N3THREekVNNG1Gb0VqVXNnVkFYVF9lSTZqODFLTkFVbjFKcEpr?oc=5",
+      "image": null,
+      "published_at": "2025-11-06T18:43:48.000Z",
+      "summary": "Israel intensifies strikes in southern Lebanon against Hezbollah  The Times"
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -200,6 +370,16 @@
       "image": "https://img.haarets.co.il/bs/00000195-9524-d2e6-af97-d776cbd90001/9c/3c/7830d4de491aa8c1cea080d2ab0d/868326.webp?height=81",
       "published_at": "2025-11-06T18:42:21.000Z",
       "summary": "After U.S. special envoy Steve Witkoff announced that a new country would join the accords, a Kazakh source says the deal could be struck, but reiterates that his country already has diplomatic relations with Israel"
+    },
+    {
+      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
+      "source": "Start.me — 10 Mideast (page feed)",
+      "topic": "News",
+      "title": "Israel pounds southern Lebanon with drone, airstrikes - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzNvank1WUhBWC1sYjY3NUZ5UV8yMjdKaFVUd2hSZVNVWndKZGs0TG5NejV5Y1ZlRzBDYzQxM1JqaXRnWHZFWW9ZRmpsM0xSTjRaWTg0akpKUDJOU1JVX0J4X19aamJLdWF4aHpubU04RUdPSUNoR05NeVU4MU93QmRZY1NiUFQtYUhTYmZVSXBVLWkyQ3JmUl8wVUNXUTlGWHR6Um85d0nSAa4BQVVfeXFMTlFTcndES0dIbGNIaElaN3NDZW1UbVY1UElFVTF3WHhNbjZnaTJiLURGZmwxaVZtOWJlbnFod25KUHpCTkJIQ045WWNKbzVRWEVJdzZrQUprVHBJQW00bS1UdThVcm8wUnNqODRLcGdvYnpzZENIdjc3bGRwakJfd3NUajBjSm5KUmxvaXV5OHRpTGFkRGI1bXNwQWljZGNqOFJoeUp5ak94WENsNEFR?oc=5",
+      "image": null,
+      "published_at": "2025-11-06T18:41:12.000Z",
+      "summary": "Israel pounds southern Lebanon with drone, airstrikes  Al Jazeera"
     },
     {
       "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuZGF3bi5j",
@@ -322,16 +502,6 @@
       "summary": "Friends Turned Enemies: The Taliban and Pakistan’s Crumbling Relationship  theguardsman.com"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel Dog Unit Commander to speak at NYC benefit dinner",
-      "url": "https://www.israelnationalnews.com/news/417392",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1202771.jpg",
-      "published_at": "2025-11-06T18:31:38.000Z",
-      "summary": "Yekutiel Ben-Yakov will share firsthand accounts of search-and-rescue missions and counter-terror operations at the first-ever New York dinner for American Friends of the Israel Dog Unit this Sunday, November 9th at 7:00 PM."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -342,54 +512,14 @@
       "summary": "כוחות משטרה ומג\"ב פרצו לדירה ביישוב אזור - שם מצאו כ-70 ק\"ג של סמים מסוגים שונים מוכנים להפצה. חשיש, קנאביס ופטריות חולקו לשקיות, וגם - לאריזות של ממתקים מוכרים לשם הסוואה. בן 30 נעצר"
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Pakistan breaches trust, fires into Afghanistan despite ongoing ceasefire talks, Taliban reacts with... - india.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb0hXVEdjdnA3MUtzU2dnMkctZlFJS09FYm9FSlljV2ZqVHJlV0tPUU1Bb3RTdFp3MlN4amNadjB5ZmxmSVZkbVUxdGlzbEhrbTNMYXZrNFBRRFFiOFBiZ211RUM3UkpPTmxtYURCWGdoalBCNUtub2RSM1k1OG1QbEVaSjduRHpzUWZ0Mm9HTEpxSFpQb2pFeFFhYkJaMzBMWUlDVVpEcXRDNjZMNUl5RmwxVEkzYnd5Y0NaWE9wdDNYMFFQZ3lORi1WSmVsYmU30gHWAUFVX3lxTFB1YTFXZ2F2blZxODRydmtDZm45SDZCOVVNRzFoSWV2TkpKalhvQ3R6QUc3NXJFTlVfZS14akdWN1RGNllqQ1RkN2tzZEN0VWtpbWdjRXkyV3BwRGlRUGpyTkpwT0pCMW5pVGw2a2hmZEdTc0c4OGs0ellaRFZnRFhiR2d3Qjl0ZVF2cG9SblZHNV9hSWRhd0dtREtLS1Y2YlpqUnU1MGZjeEhrQ2FyMHVTdWNHRnpzeFhFalhxdGZsMXcyY2ZPU25iR01ZTFBSb09iR1dodWc?oc=5",
-      "image": null,
-      "published_at": "2025-11-06T18:29:44.000Z",
-      "summary": "Pakistan breaches trust, fires into Afghanistan despite ongoing ceasefire talks, Taliban reacts with...  india.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israeli jets strike southern Lebanon towns, escalating near-daily attacks - The Sun Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOeE9JTUxSOEoyTUxRbFBycGNqTDlCZFZtLXFjOE5yMEJLaTN0b3dzNDhQODVuX2dHWnRTa0hrd3p4Tl9rVFhUOUJrMnlNcXBDNmdEWWE5SmZpcGRYUV9PcjJUeWVlMjR4YVhyLXRfVTN2Yng3TE1fdG9JQW5ub0VEc3ZlbW96MWJUWUJlemZTMFFiNndfcUJVT3JnV2czdUNOaHlKV3NTVzJfVTVXaGZEYkN5U2haRHh6aWF0OTNsVmUxSmowaFlrRGZMd1JHM0tmTU9Qc2c0MVlmNmxTYnVDRE55VDlPd29qVWY4b0xHUUFBeTNCUFpBMVRkcXlBRnZmUVE?oc=5",
-      "image": null,
-      "published_at": "2025-11-06T18:29:02.000Z",
-      "summary": "Israeli jets strike southern Lebanon towns, escalating near-daily attacks  The Sun Chronicle"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israeli military carries out airstrikes in south Lebanon - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWV2VsQzM4dFdnUGJPaHJaamFlYlBzaS00VkFkVVYyckJZU3FVVUVMby1wazVGTUtSV2tNb1RGWkNUZTNQbUxqc1g4RmVrZzlFSDh2SVU5OWxaNWlh?oc=5",
-      "image": null,
-      "published_at": "2025-11-06T18:28:55.000Z",
-      "summary": "Israeli military carries out airstrikes in south Lebanon  The Jerusalem Post"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel Eyes Ambitious Campaign to Destroy Hezbollah, Analyst Says - VINnews",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGt5YlUweU8wMlRQVFM1X3p0d1lXd3FrUUo0WW0tUVlhMExVU0dzWGVONldvd0VYSFhXckQ0ejNmbXlKcUMwa2hZRGgtZlppa3BUbmp3VXVKdm5PdURGM0JHQUVyYU41V2todHM3eWdpNW1tRnNtaTdvM2tlemRBNXhBQ2h6M21yOWg4eHNrVzlpWUFHZHJZVDZKWnI?oc=5",
-      "image": null,
-      "published_at": "2025-11-06T18:28:53.000Z",
-      "summary": "Israel Eyes Ambitious Campaign to Destroy Hezbollah, Analyst Says  VINnews"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הפגישה - בעוד שבועיים: טראמפ הזמין את 20 החטופים ששוחררו לבית הלבן",
+      "title": "יגיעו במטוס מיוחד: טראמפ הזמין את 20 החטופים ששוחררו לבית הלבן",
       "url": "https://www.ynet.co.il/news/article/bjqdddqjbg",
       "image": null,
       "published_at": "2025-11-06T18:28:06.000Z",
-      "summary": "נשיא ארה\"ב הזמין לוושינגטון את 20 שורדי השבי ששוחררו בחודש שעבר מעזה אחרי יותר משנתיים. הפגישה צפויה להתקיים ב-20 בנובמבר, ואחריה צפויים החטופים ששוחררו להיפגש גם עם השליח וויטקוף במיאמי"
+      "summary": "נשיא ארה\"ב הזמין לוושינגטון את 20 שורדי השבי ששוחררו בחודש שעבר מעזה אחרי יותר משנתיים. הפגישה צפויה להתקיים ב-20 בנובמבר, וארה\"ב תשלח מטוס שייקח אותם ישירות לבירה האמריקנית - בלי לעצור בניו יורק. לאחר מכן צפויים השורדים להיפגש גם עם וויטקוף במיאמי"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -402,16 +532,6 @@
       "summary": "Video shows Israeli drones launching airstrikes in southern Lebanon Thursday. At least one person was killed in Toura."
     },
     {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Military expert John Spencer on Gaza stabilization: \"Think Kosovo, not Lebanon\" - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xd2dSR2xRSnRuU0g0aThoQjk4OVBtVk9KNF80eUNrdkJCdndIVkpOOWIwZjhodzBoLThoM2VfSV82ZWhkc1RMNzFFSHMzNklCVlhfWW9B?oc=5",
-      "image": null,
-      "published_at": "2025-11-06T18:25:33.000Z",
-      "summary": "Military expert John Spencer on Gaza stabilization: \"Think Kosovo, not Lebanon\"  Fox News"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -420,46 +540,6 @@
       "image": null,
       "published_at": "2025-11-06T18:25:32.000Z",
       "summary": "נתניהו ודרמר מנהלים מו\"מ עם ממשל טראמפ כדי לקבל מכתב הבנות לצד החלטת מועצת הביטחון על עתיד עזה - שיסדיר את חופש הפעולה של ישראל ברצועה. עדיין לא ברור אם האמריקנים יסכימו לתת את הערבויות שראש הממשלה רוצה, כנתיב עוקף להסכמות עם מדינות ערב. לשכת רה\"מ: \"אין תגובה\""
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Lebanon releases Hannibal Qaddafi after reducing $11m bail - thenationalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVp4MGpXWnR0Q3dsRGUxYTBlMkxPVmtfVzhzaFlUVFVpeUw2TzlpakJwT1hzd0d6TDhjU0hWZ3R2SWhCdkxmRUhTN0RkSGx1SFp6NHY2Wl9BaVEzdTV4LWlPU1pvSnFJTHFkY2E5aG9GVTFBNUhad2pUNXU1T0RHOUxxSmVQRTM1UkN2aVJBMGk3SzRjaDNCaENLeVVyREtDc2lUVzFscGdzVk42dDBFYg?oc=5",
-      "image": null,
-      "published_at": "2025-11-06T18:25:10.000Z",
-      "summary": "Lebanon releases Hannibal Qaddafi after reducing $11m bail  thenationalnews.com"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly93d3cuaXNyYWVs",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Watch: Drug executive collapses in the Oval Office",
-      "url": "https://www.israelnationalnews.com/news/417411",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1202807.jpg",
-      "published_at": "2025-11-06T18:25:00.000Z",
-      "summary": "Novo Nordisk executive Gordon Findlay collapses during a press conference about a new agreement with pharmaceutical companies aimed at reducing prices."
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "ceasefire plan Archives - Jewish Insider",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SMTBneXNYQWVDdDlOWHlHNGYzZG5VeWdfSUdvRkZqZnhMY19HRy00UUtiaDdSX0RianhlLUJQRWxHc1pOMTk5RmVKaEhkODYwTWZSNEJKQTI?oc=5",
-      "image": null,
-      "published_at": "2025-11-06T18:24:31.000Z",
-      "summary": "ceasefire plan Archives  Jewish Insider"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Israel launches strikes on Hezbollah targets in Lebanon - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnZXWEgzVlNyWmwwMEx1dDZRWW81WkdHVk9JVWdlZ2M3cXBsWmUxTEU5eFlMenJiRE1WeVNkcktzZTZPVXdmRzRCTGFFZkd3OGRQWl91clpXMlRqZGFQX25fVnlXT1ExQTBWanozOHlkNV9Vd3JzWlBzRk9YRnNURVRNckxuTjR6dEw1MUpiNFFReGc4aTdXatIBnwFBVV95cUxOYmdsd2ZIWm1ucVhzNmdwemd1RzhCYmQydkN0bC1HSTJSc09XWlBNdkNEX1FuaEtVR3p5blN1VV9FeTdFVFRteXVXTFowVm5uTERpUjFkSDZzOW9rV29YWHRkZDl2UFJtTWhSNExKbW1sVkJkMGx4RXgzRUVwXzZPbkQ0cEJ3cHBlNmx3ZWYwZ2RTUHhEeVJRSGtPN1A1Vzg?oc=5",
-      "image": null,
-      "published_at": "2025-11-06T18:20:37.000Z",
-      "summary": "Israel launches strikes on Hezbollah targets in Lebanon  The Indian Express"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -490,36 +570,6 @@
       "image": null,
       "published_at": "2025-11-06T18:13:31.000Z",
       "summary": "תומר-ירושלמי עומתה פעם נוספת עם אל\"ם מתן סולומש, שטען בעבר כי גילה על ההדלפה רק לאחר שכבר קרתה, בניגוד לטענת המשטרה. עד מחר הפצ\"רית תשוחרר למעצר בית - והמתח סביב החקירה מחריף, כשעדיין לא ברור מי הגורם המפקח: המועמד עליו הכריזה היועמ\"שית או המינוי של לוין"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "Partnership to boost healthcare support for key UAE industries - Gulf Today",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEZ5MWhUQXJpR0NTdEM5bWQ0V0pmOWhOZmc0Yzdkd1pnOVk3QnR4VThIR0FzYlBoVTBBUmduWGdvYmRaanpyX05lWEo4RVR3SFNjSFBVQUxXdGJ3R3h4UzhCTkZWa0cwWDVQV0Nra2J6RFNzZ3R4N1VmZEkydXpDZlhuUjlGalg0ZUFMRUxlNHRaTEZpbFlWeFJfQmRWT25iWk5zaXdB?oc=5",
-      "image": null,
-      "published_at": "2025-11-06T18:12:30.000Z",
-      "summary": "Partnership to boost healthcare support for key UAE industries  Gulf Today"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "CredibleX and Mastercard Collaborate to Empower UAE SMEs with Card Payment Solutions - FF News | Fintech Finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUdfOUxSc0l3cUNXVldXSTZaYVI3M3gwdDlTcWVsaWQzeGxXVGdKOExDNEtXRjhmQUVUelhxVnB5UDBYX1VhX1MzbmRPelZJRXFXM0N6YzlDMGNacHJzM0lkMGFOSUlZSEtaLTU0TF9fN1EySnU1U2VoRlZkcHJ0bk9NMjdYU19NZ2FhTUpROUhRMUZyM2hVNE80TXVhSHlCamdYbUg5Q0IxeW1uQ0x3TDlOS3I5VnNid0VNUXJYMGhzdw?oc=5",
-      "image": null,
-      "published_at": "2025-11-06T18:11:23.000Z",
-      "summary": "CredibleX and Mastercard Collaborate to Empower UAE SMEs with Card Payment Solutions  FF News | Fintech Finance"
-    },
-    {
-      "id": "Start.me — 10 Mideast (page feed)-aHR0cHM6Ly9uZXdzLmdvb2ds",
-      "source": "Start.me — 10 Mideast (page feed)",
-      "topic": "News",
-      "title": "IDF Strikes Hezbollah Weapon Depots in Southern Lebanon, Cites Ceasefire Violation - VINnews",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZU1VTjBGZnNXS2lBelZrUC1TVW53SWVaQlkwRU9WUkZYQ2M1Njdvejk4MnZWbmltN3kwMmxVRkVoNHgyUEI1SW9meVBNU2pRMEY1NWxXRDFiTmc1ZEsxazduUFVwNHJrVWllMzZUZ0JBVUFIQUhkcU1jc1h5dy1PbmpZcTMtWkRyN2tYTDNpY01mTmxCc0o1aGwzY1I1bmdKRExOU3J6bUJWSk8zM3VzZ0xiWQ?oc=5",
-      "image": null,
-      "published_at": "2025-11-06T18:10:47.000Z",
-      "summary": "IDF Strikes Hezbollah Weapon Depots in Southern Lebanon, Cites Ceasefire Violation  VINnews"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -585,7 +635,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Sudan's RSF militia says it agrees to humanitarian ceasefire",
+      "title": "Sudan's RSF paramilitaries agree humanitarian ceasefire",
       "url": "https://www.bbc.com/news/articles/c74070y9e3go?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506b/live/3f524a60-bb2f-11f0-a9c7-018c8fe15fae.jpg",
       "published_at": "2025-11-06T17:23:03.000Z",
@@ -849,7 +899,7 @@
       "url": "https://www.ynet.co.il/news/article/s10qxsqy11e",
       "image": null,
       "published_at": "2025-11-06T15:58:39.000Z",
-      "summary": "במהלך טקס קבלת התואר השני של רעיית השר לביטחון לאומי, הסטודנט קרא לעברו: \"כהניסט, גזען, אחראי לכל כך הרבה מוות\". הוא הורחק מהטקס, ובהמשך תועד אזוק בחניון. המשטרה לא הסבירה מדוע נעצר, בן גביר: \"הוא גרם למהומה\""
+      "summary": "במהלך טקס קבלת התואר השני של רעיית השר לביטחון לאומי, אחד המשתתפים קרא לעברו: \"כהניסט, גזען, אחראי לכל כך הרבה מוות\". הוא הורחק מהטקס, ובהמשך תועד אזוק בחניון. המשטרה לא הסבירה מדוע נעצר, בן גביר: \"הוא גרם למהומה\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1422,16 +1472,6 @@
       "summary": "How long is the drive from Nablus to Hebron? In the West Bank, the answer depends on the day, the hour, and the whim of IDF soldiers"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "India’s Bihar elections start with 74 million voters: What’s at stake?",
-      "url": "https://www.aljazeera.com/news/2025/11/6/indias-bihar-elections-start-with-74-million-voters-whats-at-stake?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-06T12:32:57.000Z",
-      "summary": "The elections are a test of Modi&#039;s popularity. We unpack the voter turnout, key candidates, issues and results date."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1580,16 +1620,6 @@
       "image": null,
       "published_at": "2025-11-06T10:27:02.000Z",
       "summary": "אחרי שרשם את מפלגת \"בנט 2026\", במסגרת ההכנות לבחירות שיתקיימו בשנה הקרובה, רה\"מ לשעבר הקים צוותים קטנים שמגבשים עקרונות בשלל תחומים. הם מכינים מצע וגם חקיקה רלוונטית. צביקה האוזר מגבש את עקרונות \"תפיסת הביטחון\", בעוד השר לשעבר שי פירון מוביל את תחום החינוך"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "נמרוד הגיע להלוויית חברו עוז שנלחם במחבלים עד שנהרג, אימו: \"אמרת - 'בשבי לא אשב'\"",
-      "url": "https://www.ynet.co.il/news/article/hyoenrykwe",
-      "image": null,
-      "published_at": "2025-11-06T10:23:18.000Z",
-      "summary": "מאות רבות ליוו למנוחות את סמ\"ר עוז דניאל, שב-7/10 נאבק במחבלים עד שנפל. לבית העלמין הגיע שורד השבי נמרוד כהן, חברו לטנק מספר 3. האם מירב נפרדה בדמעות: \"ציפיתי לסוף אחר\", האחות הדר ביקשה סליחה: \"איך נתרגל לגעגוע?\". אביו בפנייה נרגשת להרצי הלוי: \"ידעת לקחת אחריות. מאחל לך חיים שמחים\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2682,26 +2712,6 @@
       "summary": "With a media leak, a cover-up and a suicide scare, it's easy to cast the former IDF military advocate general as the main character. But let's not lose sight of what this story is really about: What happened at the Sde Teiman base"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Parents of Israeli American hostage Omer Neutra, after body returned: 'Afraid to know, afraid not to know'",
-      "url": "https://www.haaretz.com/israel-news/2025-11-03/ty-article/.premium/parents-of-hostage-omer-neutra-after-body-returned-afraid-to-know-afraid-not-to-know/0000019a-4ac0-dcc4-ab9b-fec901810000",
-      "image": "https://img.haarets.co.il/bs/0000019a-4aa5-d298-a7db-faaf494f0000/5c/13/6690158a417d8e708d598ca87d6b/675176-1.jpg?height=81",
-      "published_at": "2025-11-03T18:10:48.000Z",
-      "summary": "Orna and Ronen Neutra thanked U.S. President Donald Trump and his Special Envoy Steve Witkoff for 'brokering the unimaginable reality that has brought back 20 living hostages and 20 of the deceased so far'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Metal band Disturbed announces a hiatus after singer David Draiman's public support of Israel",
-      "url": "https://www.haaretz.com/jewish/2025-11-03/ty-article/.premium/disturbed-announces-a-hiatus-after-david-draimans-public-support-of-israel/0000019a-4a7d-dd6e-a7db-5ffda1a40000",
-      "image": "https://img.haarets.co.il/bs/0000019a-4a9e-dda1-a99e-cfbe7c5d0001/cd/47/deb8b1824f00b4f0b818ad1aee5f/407596.jpg?height=81",
-      "published_at": "2025-11-03T17:23:18.000Z",
-      "summary": "Draiman has been caught up in a series of public clashes in the past year due to his political views and his signing of an IDF shell. 'We all need a nice long break,' he wrote on social media"
-    },
-    {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
       "source": "Bellingcat",
       "topic": "OSINT",
@@ -2989,16 +2999,6 @@
       "url": "https://www.jpost.com/breaking-news/article-856811",
       "image": null,
       "published_at": "2025-06-06T15:18:22.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Breaking News",
-      "topic": "News",
-      "title": "Jerusalem Supreme Rabbinical Court appoints three judges from Religious Zionist party",
-      "url": "https://www.jpost.com/breaking-news/article-856807",
-      "image": null,
-      "published_at": "2025-06-06T12:45:58.000Z",
       "summary": ""
     }
   ]
