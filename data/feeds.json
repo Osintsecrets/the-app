@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-11T03:32:13.022Z",
+  "generated_at": "2025-11-11T04:13:54.585Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בעלות של כחצי מיליארד דולר: ארה\"ב מתכננת להקים בסיס צבאי בעוטף | חשיפת \"שומרים\"",
+      "url": "https://www.ynet.co.il/news/article/yokra14576697",
+      "image": null,
+      "published_at": "2025-11-11T04:09:38.000Z",
+      "summary": "לפי גורמים ישראלים, הבסיס האמריקני יוקם על גבול הרצועה ויוכל לאכלס כמה אלפי חיילים - במטרה לשמור על הפסקת האש. בשבועות האחרונים פעלה ארה\"ב לקידום הנושא מול הממשלה וצה\"ל, ואף החלה לבחון מיקומים פוטנציאליים. גורם ביטחוני: זה מעיד עד כמה הם נחושים להיות מעורבים בסכסוך הישראלי-פלסטיני"
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -8,8 +18,48 @@
       "title": "המח\"טים דורשים מהרמטכ\"ל: להחזיר את צווי המעצר המנהליים שביטל כ\"ץ | חשיפה",
       "url": "https://www.ynet.co.il/news/article/yokra14576149",
       "image": null,
-      "published_at": "2025-11-11T03:19:14.000Z",
+      "published_at": "2025-11-11T04:09:28.000Z",
       "summary": "אחרי שסיימו לפעול בעזה, הגדודים הסדירים חוזרים לאיו\"ש - והדחפורים מועברים להרוס מאחזים בלתי-חוקיים. הפשיעה הלאומנית של נערי הגבעות משתוללת, המשטרה מסירה את ידיה במה שנראה כמדיניות מלמעלה - וצה\"ל מתמודד לבד. בדיון סגור ביקשו מח\"טים מזמיר: תפעל להשבת המעצרים המנהליים"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אחרי חודש בלי טיפת גשם: המהפך שצפוי במזג האוויר | התחזית המלאה",
+      "url": "https://www.ynet.co.il/news/article/skjki00yg11l",
+      "image": null,
+      "published_at": "2025-11-11T04:02:48.000Z",
+      "summary": "השליש הראשון של נובמבר היה החם ביותר במישור החוף מתחילת המדידות, אך היום כבר תחול ירידה ניכרת בטמפרטורות ואף ייתכן טפטוף עד גשם מקומי קל - ובסופ\"ש ייתכן מזג אוויר קיצוני. הצפי: גשמים משמעותיים, שיטפונות והצפות"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US Senate passes bill to end longest ever government shutdown",
+      "url": "https://www.aljazeera.com/news/2025/11/11/us-senate-passes-bill-to-end-longest-ever-government-shutdown?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-11T03:29:14.000Z",
+      "summary": "The measure still needs to be approved by the House and signed by US President Donald Trump. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "British journalist Sami Hamdi to be freed from ICE detention, lawyers say",
+      "url": "https://www.aljazeera.com/news/2025/11/11/british-journalist-sami-hamdi-to-be-freed-from-ice-detention-lawyers-say?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-11T03:24:47.000Z",
+      "summary": "Hamdi&#039;s lawyers say he was detained for his pro-Palestinian views, and no reason was given for his visa being revoked."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia-Ukraine war: List of key events, day 1,356",
+      "url": "https://www.aljazeera.com/news/2025/11/11/russia-ukraine-war-list-of-key-events-day-1356?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-11T03:23:43.000Z",
+      "summary": "Here are the key events from day 1,356 of Russia’s war on Ukraine."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -130,16 +180,6 @@
       "image": "https://img.haarets.co.il/bs/00000196-2622-d78d-a1de-3e3b83b80001/83/56/7a4e57054b1596c447f7e28e82f0/803466.jpg?height=81",
       "published_at": "2025-11-11T00:26:37.000Z",
       "summary": "The IDF's internal probe in the October 7 failings cleared officers of bias, even as it cited conduct failures. Army chief Eyal Zamir is clearly facing an impossible task against the government, yet his hesitation to call for a state commission of inquiry is still disappointing"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אחרי חודש בלי טיפת גשם: המהפך שצפוי במזג האוויר",
-      "url": "https://www.ynet.co.il/news/article/skjki00yg11l",
-      "image": null,
-      "published_at": "2025-11-11T00:16:06.000Z",
-      "summary": "השליש הראשון של נובמבר היה החם ביותר במישור החוף מתחילת המדידות - אבל היום כבר תחול ירידה ניכרת בטמפרטורות, ובסופ\"ש אף ייתכן מזג אוויר קיצוני. הצפי: גשמים משמעותיים, שיטפונות והצפות. התחזית המלאה"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -415,7 +455,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Trump hosts Syria’s al-Sharaa as US extends sanctions relief",
+      "title": "Trump hosts Syria’s al-Sharaa at White House as US extends sanctions relief",
       "url": "https://www.aljazeera.com/news/2025/11/10/ahmed-al-sharaa-meets-trump-as-us-extends-syria-sanctions-relief?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-10T21:19:14.000Z",
@@ -1032,16 +1072,6 @@
       "summary": "Following accusations of bias at the BBC, Tim Davie says departure is &#039;my own decision&#039;, while head of news also quits. "
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump pardons Giuliani, others accused of trying to overturn 2020 defeat",
-      "url": "https://www.aljazeera.com/news/2025/11/10/trump-pardons-giuliani-others-accused-of-trying-to-overturn-2020-defeat?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-10T16:05:04.000Z",
-      "summary": "Trump loyalists accused of pressuring VP Pence and organising fake electors to contest the 2020 election results."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1062,16 +1092,6 @@
       "summary": "החייל הודח ממילואים ואחד נוסף ננזף בחומרה לאחר שנקבע כי פעלו בחוסר מקצועיות בעימות שפרץ ביניהם לבין מוסקים פלסטינים ופעילים זרים "
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US Senate shutdown vote: What happened, who voted to end it, what’s next?",
-      "url": "https://www.aljazeera.com/news/2025/11/10/us-senate-shutdown-vote-what-happened-who-voted-to-end-it-whats-next?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-10T15:55:48.000Z",
-      "summary": "Some Democrats join Republicans to vote to end the government shutdown, which enters its 41st day."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1080,16 +1100,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-6e0a-d66b-adba-fe0a91740001/9a/08/8c74149c4a31877447573cb9f010/246856-2.jpg?height=81",
       "published_at": "2025-11-10T15:40:25.000Z",
       "summary": "The IDF declared their villages to be in a 'seam zone' two months ago, and about 300 residents are still waiting for entry and exit permits. Until then, they can't leave their village. 'If I go out to work, they won't let me return. And if I stay home, someone will take my job,' says one resident"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Armed group in Mali causing population “palpable fear”",
-      "url": "https://www.aljazeera.com/video/2025/11/10/armed-group-in-mali-causing-population-palpable?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-10T15:39:52.000Z",
-      "summary": "“We all have a reason to be genuinely concerned.”"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1300,16 +1310,6 @@
       "image": null,
       "published_at": "2025-11-10T12:47:07.000Z",
       "summary": "על פי רויטרס, בישראל דוחקים בצבא לבנון לחפש באופן פולשני יותר אחר נשק של חיזבאללה. בביירות טוענים: הפשיטות \"מדודות ויעילות\". בכירים במדינה מזהירים מפני \"הצתת עימות פנימי\" - ומבטיחים: פירוז הדרום - עד סוף השנה. בארה\"ב לוחצים: \"לסיים עם זה\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "3 שבועות של \"סיוט\": נשיא צרפת לשעבר סרקוזי שוחרר מהכלא",
-      "url": "https://www.ynet.co.il/news/article/bkwetuklwx",
-      "image": null,
-      "published_at": "2025-11-10T12:43:52.000Z",
-      "summary": "בית משפט לערעורים בפריז קבע כי ניקולא סרקוזי, שבחודש שעבר החל לרצות 5 שנות מאסר בגין גיוס לכאורה של כסף לקמפיין שלו ממשטר קדאפי, ישוחרר עד להכרעה בערעור שהגיש. בכלא התפרעו אסירים וצעקו לעברו קריאות גנאי כמו \"ניקולא הקטן\", ושני מאבטחים הוצבו בתא סמוך. בדיון היום העיד על \"חוויה מתישה וקשה מאוד\" בכלא: "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
