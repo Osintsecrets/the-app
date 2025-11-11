@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-11T06:14:52.516Z",
+  "generated_at": "2025-11-11T06:48:39.560Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -12,6 +12,26 @@
       "summary": "Two National League players and a former player are arrested after a 29-year-old US tourist accuses them of rape during her stay in Tel Aviv."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "The Meeting Between the US and Syria is “Very Symbolic”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/11/11/the-meeting-between-the-us-and-syria-is-very?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-11T06:13:06.000Z",
+      "summary": "Former US diplomat Adam Clements says the meeting between the US &amp; Syria is “a big first step” toward regional unity. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Delhi Red Fort blast kills 13: What happened as police invoke ‘terror’ law?",
+      "url": "https://www.aljazeera.com/news/2025/11/11/delhi-red-fort-blast-kills-13-what-happened-as-police-invoke-terror-law?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-11T06:12:14.000Z",
+      "summary": "Indian police are investigating a deadly car explosion in the capital, New Delhi, under a stringent anti-terrorism law."
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -20,6 +40,16 @@
       "image": null,
       "published_at": "2025-11-11T06:06:42.000Z",
       "summary": "Israeli production company behind planned performances says it was canceled due to threats from boycott movement\nThe post John Cleese cancels planned Israel shows as his tone on country sours appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Eagles win against Packers in NFL defensive slugfest",
+      "url": "https://www.aljazeera.com/sports/2025/11/11/eagles-win-against-packers-in-nfl-defensive-slugfest?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-11T06:04:03.000Z",
+      "summary": "Philadelphia Eagles win their third match in a row while the Green Bay Packers fall from the NFC North division lead."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -35,11 +65,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Delhi red fort blast live: Terrorism law invoked in India after 9 killed",
+      "title": "Delhi Red Fort blast live: Terrorism law invoked in India after 13 killed",
       "url": "https://www.aljazeera.com/news/liveblog/2025/11/11/delhi-red-fort-blast-live-terrorism-law-invoked-in-india-after-9-killed?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-11T05:46:12.000Z",
-      "summary": "Police in the Indian capital territory of Delhi invoke an &#039;antiterror&#039; law as they investigate a deadly car explosion."
+      "summary": "Police in the Indian capital territory of Delhi invoke an &#039;anti-terror&#039; law as they investigate a deadly car explosion."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -305,7 +335,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "IDF inquiry offers hope, but army chief's omission of 'state-commissioned' disappoints",
+      "title": "IDF Oct. 7 inquiry offers hope, but army chief's failure to call for a state commission disappoints",
       "url": "https://www.haaretz.com/israel-news/2025-11-11/ty-article/.premium/idf-inquiry-offers-hope-but-army-chiefs-omission-of-state-commissioned-disappoints/0000019a-6fed-d218-a5be-7feff3830000",
       "image": "https://img.haarets.co.il/bs/00000196-2622-d78d-a1de-3e3b83b80001/83/56/7a4e57054b1596c447f7e28e82f0/803466.jpg?height=81",
       "published_at": "2025-11-11T00:26:37.000Z",
@@ -962,16 +992,6 @@
       "summary": "Twenty more were injured in the blast, the cause of which is still unknown, authorities say."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Iraq parliamentary elections: What we know",
-      "url": "https://www.aljazeera.com/news/2025/11/10/iraq-parliamentary-elections-what-we-know?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-10T17:49:52.000Z",
-      "summary": "As Iraqis head to the polls, here is everything you need to know about the parliamentary elections."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -992,16 +1012,6 @@
       "summary": "The fate of President Trump's Gaza cease-fire depends on an international stabilization effort – tasked with disarming Hamas, protecting civilians, winning Palestinian public support and providing a political horizon. Its success or failure will determine if there'll be a different future – or more "
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israeli drone kills two Palestinians trying to reach home in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/10/israeli-drone-kills-two-palestinians-trying-to-reach-home-in-gaza?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-10T17:44:50.000Z",
-      "summary": "Mourners received the bodies of two Palestinians killed in an Israeli strike while they were trying to reach their home."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1010,16 +1020,6 @@
       "image": null,
       "published_at": "2025-11-10T17:43:10.000Z",
       "summary": "זמיר הציג לפורום מטכ\"ל את \"תחקיר התחקירים\" של ועדת תורג'מן, ולראשונה לא הזכיר את המילה \"ממלכתית\" בוועדת החקירה הדרושה. 5 תחקירי ליבה סווגו כ\"אדומים\" - עם בעיות. מסקנות אישיות אין, תורג'מן סבור שחייבות להיות. בקונספציית ההכלה של הדרג המדיני הוועדה נזהרה מלגעת. הכשלים שזוהו, העימות בין האלופים והשבחים"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Who was Soeharto, the late leader named Indonesia’s ‘national hero’?",
-      "url": "https://www.aljazeera.com/news/2025/11/10/who-was-soeharto-the-late-strongman-named-indonesias-national?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-10T17:38:39.000Z",
-      "summary": "Indonesian President Prabowo Subianto has presented former President Soeharto with the national hero title."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
