@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-11T16:11:17.341Z",
+  "generated_at": "2025-11-11T16:45:36.849Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israel, US reach deal to deport 200 terrorists from beyond Yellow Line in Gaza",
+      "url": "https://www.jpost.com/israel-news/article-873518",
+      "image": null,
+      "published_at": "2025-11-11T18:43:00.000Z",
+      "summary": "Notably, no country has agreed to take the Hamas terrorists in after they are deported. "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,7 +25,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Anti-Hamas militia leader Abu Shabab meets with Trump adviser Jared Kushner – report",
+      "title": "Yasser Abu Shabab, leader of anti-Hamas militia, meets Jared Kushner in Israel – report",
       "url": "https://www.jpost.com/israel-news/defense-news/article-873510",
       "image": null,
       "published_at": "2025-11-11T17:40:15.000Z",
@@ -45,11 +55,91 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Leaked Sde Teiman footage broadcasts received IDF censor approval",
+      "title": "IDF censor approved broadcast of Sde Teiman abuse footage, official tells Knesset committee",
       "url": "https://www.jpost.com/israel-news/defense-news/article-873502",
       "image": null,
       "published_at": "2025-11-11T16:47:00.000Z",
       "summary": "The IDF deputy censor commander confirmed that N12 submitted the footage to the censor, which was reviewed and approved for broadcast. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "השחיתות במשרד הבריאות: האיש החזק ביהדות התורה יואשם במרמה והפרת אמונים",
+      "url": "https://www.ynet.co.il/news/article/bylq6axgbe",
+      "image": null,
+      "published_at": "2025-11-11T16:35:45.000Z",
+      "summary": "8 שנים אחרי פתיחת חקירת החשדות ליחסי שוחד בין מנכ\"ל חברת תרופות, לוביסט ועוזר בכיר במשרד הבריאות, הודיעה הפרקליטות על אישום בכפוף לשימוע נגד המעורבים. אחד מהם הוא מוטי בבצ'יק, שהיה עוזרו של סגן השר לשעבר ליצמן"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Turkish prosecutor demands top court shutter Erdoğan's main opposition party",
+      "url": "https://www.haaretz.com/middle-east-news/2025-11-11/ty-article/turkish-prosecutor-demands-top-court-shutter-erdogans-main-opposition-party/0000019a-735a-d6d8-af9b-775feba70000",
+      "image": "https://img.haarets.co.il/bs/0000019a-7380-d1ab-a3fa-7fdebfcb0000/50/da/3a2575de4a75a7e6cc73afcec6a8/758079-2.jpg?height=81",
+      "published_at": "2025-11-11T16:33:01.000Z",
+      "summary": "The prosecutor also pressed the court to sentence Erdoğan's rival, Istanbul's Mayor Ekrem Imamoglu, the jailed leader of the Republican People's Party, to over 2,000 years in prison, for allegedly leading a vast corruption network that cost the state billions of lira"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "High Court urges compromise in Sde Teiman leak investigation &#8216;for sake of public&#8217;",
+      "url": "https://www.timesofisrael.com/high-court-urges-compromise-in-sde-teiman-leak-investigation-for-sake-of-public/",
+      "image": null,
+      "published_at": "2025-11-11T16:25:51.000Z",
+      "summary": "Justices challenge legality of Levin's appointment, but assert state attorney has conflict of interest; court suggests district court judge as option for overseeing probe\nThe post High Court urges compromise in Sde Teiman leak investigation &#8216;for sake of public&#8217; appeared first on The Time"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Israel passes first reading of bill proposing death penalty for people it deems terrorists",
+      "url": "https://www.bbc.com/news/articles/cpv13rxpgk9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8840/live/f0889830-bee4-11f0-8456-eff94716b162.jpg",
+      "published_at": "2025-11-11T16:24:12.000Z",
+      "summary": "The requirement means the penalty would likely be used only against Palestinians convicted of deadly attacks on Israelis."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "US deported Iranian dissidents back to Iran despite pleas lives were in danger &#8211; NYT",
+      "url": "https://www.timesofisrael.com/us-deported-iranian-dissidents-back-to-iran-despite-pleas-lives-were-in-danger-nyt/",
+      "image": null,
+      "published_at": "2025-11-11T16:18:57.000Z",
+      "summary": "First chartered deportation flight to Tehran carried Christian converts, a critic of Islam, and ethnic minorities; one deportee has fled Iran, while three had passports confiscated\nThe post US deported Iranian dissidents back to Iran despite pleas lives were in danger &#8211; NYT appeared first on T"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Exiled Syrian opens up about precariously smuggling out proof of Assad&#8217;s cruelty",
+      "url": "https://www.timesofisrael.com/exiled-syrian-opens-up-about-precariously-smuggling-out-proof-of-assads-cruelty/",
+      "image": null,
+      "published_at": "2025-11-11T16:18:36.000Z",
+      "summary": "Ussama Uthman, his wife and brother-in-law obtained tens of thousands of images showing detainee abuse -- drawing global attention and enabling families to learn loved ones' fates\nThe post Exiled Syrian opens up about precariously smuggling out proof of Assad&#8217;s cruelty appeared first on The Ti"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "תיעוד: מתנחלים קיצוניים פולשים למפעל רעולי פנים - ושורפים משאיות ומכוניות",
+      "url": "https://www.ynet.co.il/news/article/s1ymtrelbl",
+      "image": null,
+      "published_at": "2025-11-11T16:18:00.000Z",
+      "summary": "הפשיעה הלאומנית בשטחים נמשכת: שישה יהודים נעצרו בחשד למעורבות בפרעות בכפר הפלסטיני בית ליד שממזרח לטול כרם. גורם ביטחוני: \"מעצרים בזמן מעשה יעבירו מסר ברור לפורעים\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "זמרת רחוב בת 18 ו\"אגם הברבורים\" הם האויב החדש של פוטין",
+      "url": "https://www.ynet.co.il/news/article/ryjs2aegbg",
+      "image": null,
+      "published_at": "2025-11-11T16:17:57.000Z",
+      "summary": "נמשך מסע הנקמה של הקרמלין נגד אומנים שמעיזים לצאת נגדו: דיאנה לוגינובה, שמופיעה תחת שם הבמה \"נאוקו\" וחברה בלהקת Stoptime, נעצרה אחרי ששרה ברחוב בסנט פטרסבורג שירים של זמרים מתנגדי פוטין, כולל המילים \"כשהצאר ימות נרקוד שוב\" ו\"אם אתה חייל במלחמה, אני בצד השני\". בכל פעם שהיא עומדת להשתחרר מוארך מאסרה ב"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -70,6 +160,36 @@
       "image": null,
       "published_at": "2025-11-11T16:12:28.000Z",
       "summary": "UNICEF blames Israel for blocking essential items, including vaccines for children, from entering Gaza following the ceasefire."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Inside the year-long BBC saga that led to Trump’s $1bn lawsuit threat",
+      "url": "https://www.aljazeera.com/news/2025/11/11/inside-the-year-long-bbc-saga-that-led-to-trumps-1bn-lawsuit-threat?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-11T16:09:31.000Z",
+      "summary": "The broadcaster, one of the UK&#039;s most trusted news networks, is under fire for alleged bias in its coverage."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Eight arrested, over 1,000 suspended in Turkiye football gambling scandal",
+      "url": "https://www.aljazeera.com/sports/2025/11/11/eight-arrested-over-1000-suspended-in-turkiye-football-gambling-scandal?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-11T16:09:16.000Z",
+      "summary": "Turkish Football Federation president calls betting scandal a &#039;moral crisis in Turkish football&#039;."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ציר טורקיה-ארה\"ב: אנקרה נערכת להצבת כוחות בעזה - ומעורבת גם בהסכם עם סוריה",
+      "url": "https://www.ynet.co.il/news/article/skuzm6egbx",
+      "image": null,
+      "published_at": "2025-11-11T16:07:09.000Z",
+      "summary": "שר החוץ של טורקיה נפגש בוושינגטון עם שרים בארה\"ב ובסוריה, ויארח בקרוב את מקבילו ממצרים - שלפי הדיווחים דוחה את המעורבות הטורקית בכוח הבינלאומי שייכנס לעזה. בתקשורת הערבית עולות שאלות על הרכבו של הכוח, בזמן שלפי אחד הדיווחים טורקיה כבר \"סיימה\" את ההיערכות להצבת כוחותיה ברצועה"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -340,16 +460,6 @@
       "image": null,
       "published_at": "2025-11-11T14:43:36.000Z",
       "summary": "Israel has denied blocking essential aid amid campaign to immunize children following two years of war; nearly a million bottles of baby formula also reportedly awaiting entry\nThe post UNICEF says Israel blocking over a million syringes needed to vaccinate Gaza children appeared first on The Times o"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Israel passes first reading of bill proposing death penalty for people it deems terrorists",
-      "url": "https://www.bbc.com/news/articles/cpv13rxpgk9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8840/live/f0889830-bee4-11f0-8456-eff94716b162.jpg",
-      "published_at": "2025-11-11T14:41:00.000Z",
-      "summary": "The requirement means the penalty would likely be used only against Palestinians convicted of deadly attacks on Israelis."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -812,16 +922,6 @@
       "summary": "Syria’s interim president Ahmed al-Sharaa has become the first Syrian leader to visit the White House."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Sweltering November temperatures continue to smash records",
-      "url": "https://www.timesofisrael.com/sweltering-november-temperatures-continue-to-smash-records/",
-      "image": null,
-      "published_at": "2025-11-11T11:24:19.000Z",
-      "summary": "Israel Meteorological Services reports that maximum temperatures in the hills and on the coastal plain were highest since measurements began\nThe post Sweltering November temperatures continue to smash records appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -862,26 +962,6 @@
       "summary": "המיליציה הפרו-איראנית בתימן החליפה את שיגורי הטילים והכטב\"מים לישראל במבצעי טיהור אחר \"מרגלים\", קריאות לחרם - ואימונים מבצעיים. במכתב ששלחו לארגון הטרור אותתו על סיום התקיפות בישראל בהמשך להפסקת האש בעזה, אך במקביל מקיימים התכנסויות חמושות. \"אנו עוקבים מקרוב\", טענו "
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Daily Briefing Nov. 11: Day 767 &#8211; IDF preps for &#8216;days of fighting&#8217; in Lebanon",
-      "url": "https://www.timesofisrael.com/daily-briefing-nov-11-day-767-idf-preps-for-days-of-fighting-in-lebanon/",
-      "image": null,
-      "published_at": "2025-11-11T11:06:06.000Z",
-      "summary": "Military correspondent Emanuel Fabian on IDF ground ops in Lebanon, findings of external panel that looked at IDF probes into Oct. 7; Jewish world reporter Zev Stub on chaos at WZO\nThe post Daily Briefing Nov. 11: Day 767 &#8211; IDF preps for &#8216;days of fighting&#8217; in Lebanon appeared first"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Miss Israel stood next to Miss Palestine on the stage. Cue internet drama",
-      "url": "https://www.timesofisrael.com/miss-israel-stood-next-to-miss-palestine-on-the-stage-cue-internet-drama/",
-      "image": null,
-      "published_at": "2025-11-11T11:04:02.000Z",
-      "summary": "In fresh round of discord involving the two contestants, pro-Palestinian critics claim Melanie Shiraz glared at Nadeen Ayoub, while Shiraz says she did nothing of the kind\nThe post Miss Israel stood next to Miss Palestine on the stage. Cue internet drama appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -920,16 +1000,6 @@
       "image": null,
       "published_at": "2025-11-11T10:40:41.000Z",
       "summary": "Sa'ar's comments come after PA President Mahmoud Abbas dismissed the PA's finance minister, seemingly for illicit prisoner payments."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israel parliament passes first reading of death penalty for ‘terrorism’ law",
-      "url": "https://www.aljazeera.com/news/2025/11/11/israeli-parliament-nods-to-bill-to-introduce-death-penalty-for?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-11T10:34:59.000Z",
-      "summary": "Critics say the bill would apply only to Palestinians who kill Jews, not the other way around."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -980,16 +1050,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-724a-d665-a19b-73ffb3f70000/04/c7/7a0b2dd146ff82f9f49c61e11fdf/753189-2.jpg?height=81",
       "published_at": "2025-11-11T09:58:09.000Z",
       "summary": "With reconstruction plans only set to move forward in Israel-controlled parts of Gaza, officials familiar with the matter said that without a definitive push by the U.S., the Yellow Line may indefinitely divide the Strip"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "JNIM siege: What is happening in Mali?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/jnim-siege-what-is-happening-in-mali?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-11T09:55:43.000Z",
-      "summary": "Al-Qaeda-linked group JNIM has besieged Mali’s capital, Bamako, cutting off key routes and causing fuel shortages."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1122,46 +1182,6 @@
       "summary": "Two National League players and a former player are arrested after a 29-year-old US tourist accuses them of rape during her stay in Tel Aviv."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "עם דגלים, בהשתתפות אלפים: הדר גולדין יובא למנוחות 4,120 ימים לאחר חטיפתו",
-      "url": "https://www.ynet.co.il/news/article/bkselsxebg",
-      "image": null,
-      "published_at": "2025-11-11T06:00:16.000Z",
-      "summary": "אלפים רבים משתתפים במסע הלוויה שיצא ממחנה שורה לבית העלמין הצבאי בכפר סבא, שהוגדר כ\"שטח סטרילי\" בשל הגעת הרמטכ\"ל זמיר, שיספיד את סגן גולדין. רמקולים ומסכים הותקנו, דגלים ושלטים נתלו ברחבי העיר: \"עד החטוף הראשון\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המח\"טים דורשים מהרמטכ\"ל: להחזיר את צווי המעצר המנהליים שביטל כ\"ץ | חשיפה",
-      "url": "https://www.ynet.co.il/news/article/yokra14576149",
-      "image": null,
-      "published_at": "2025-11-11T05:46:02.000Z",
-      "summary": "בצה\"ל מגדירים את מעשי הטרור היהודי שמשתולל באיו\"ש כ\"סדיסטיים\", מתריעים מאובדן שליטה ומעבירים דחפורים מהכוחות שסיימו להילחם בעזה להרס של מאחזים בלתי-חוקיים. בגזרה הזו נתקלים החיילים בהתנגדות של שרים - בזמן שהמשטרה לא יכולה או לא רוצה לעצור ולאכוף, והצבא נותר לבד עם שב\"כ"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הנשים הערביות מתקדמות, ההנהגה הערבית תקועה",
-      "url": "https://www.ynet.co.il/news/article/syfb9sxgzx",
-      "image": null,
-      "published_at": "2025-11-11T05:34:54.000Z",
-      "summary": "נשים ערביות לומדות יותר, עובדות יותר, נושאות את הקהילה - והגברים הערבים עדיין שומרים את הכיסאות "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אי אפשר בלי  מסקנות אישיות",
-      "url": "https://www.ynet.co.il/news/article/yokra14576869",
-      "image": null,
-      "published_at": "2025-11-11T05:29:46.000Z",
-      "summary": "תורג’מן מבקש להבהיר לדור הצעיר של המפקדים שתחקיר אמיתי איננו מסתפק בזיהוי כשלים, אלא מחייב גם לקיחת אחריות"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1239,7 +1259,7 @@
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-873426",
       "image": null,
       "published_at": "2025-11-11T00:04:49.000Z",
-      "summary": "The Knesset has advanced the death penalty for terrorists bill, proposed by Itamar Ben-Gvir, in a 39-16 vote. The bill will now return to committees for further discussion before becoming law,"
+      "summary": "The Knesset has advanced the death penalty for terrorists bill, proposed by Itamar Ben-Gvir, in a 39-16 vote. The bill will now return to committees for further discussion before becoming law. "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1410,16 +1430,6 @@
       "image": null,
       "published_at": "2025-11-10T20:11:48.000Z",
       "summary": "The petition could redefine the limits of parliamentary oversight in issues of security, detention, and ministerial discretion."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "New IDF probe reveals failures in five Oct. 7 investigations, which need to be redone",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-873402",
-      "image": null,
-      "published_at": "2025-11-10T19:47:45.000Z",
-      "summary": "Zamir called for a wider inquiry into all of the government and defense bodies involved in Israel's national security, leading up to and on October 7."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2250,16 +2260,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-6085-df58-ad9e-f09f6e8b0000/06/72/5b2426964bd680c0cf352bcc2ff0/664273.jpg?height=81",
       "published_at": "2025-11-07T23:10:09.000Z",
       "summary": "The U.S. is also reportedly pressing the UN Security Council to adopt a resolution that would enshrine Trump's Gaza cease-fire deal in international law. An Israeli official later told Reuters that the U.S. is taking part in overseeing and coordinating aid transfers to Gaza together with Israel as p"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "In Syria, Netanyahu, Erdogan and al-Sharaa will have to share any gifts Trump wants to give",
-      "url": "https://www.haaretz.com/middle-east-news/syria/2025-11-07/ty-article/.premium/in-syria-netanyahu-erdogan-and-al-sharaa-will-have-to-share-any-gifts-trump-aims-to-give/0000019a-5e7f-df58-ad9e-deff30680000",
-      "image": "https://img.haarets.co.il/bs/0000019a-5e92-d5d0-a59f-7eff79c20007/97/7a/debae7cd4852a13ff36d35b12ce7/63695837.JPG?height=81",
-      "published_at": "2025-11-07T21:31:55.000Z",
-      "summary": "The historic meeting between the U.S. and Syrian presidents set for Monday could curb the Israeli presence across its northern border and finally achieve a security arrangement for Syria, while expanding Turkey's patronage over the country"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
