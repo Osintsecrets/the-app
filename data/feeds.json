@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-11T05:10:21.313Z",
+  "generated_at": "2025-11-11T05:39:26.529Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -10,6 +10,56 @@
       "image": null,
       "published_at": "2025-11-11T06:23:55.000Z",
       "summary": "Two National League players and a former player are arrested after a 29-year-old US tourist accuses them of rape during her stay in Tel Aviv."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הנשים הערביות מתקדמות, ההנהגה הערבית תקועה",
+      "url": "https://www.ynet.co.il/news/article/syfb9sxgzx",
+      "image": null,
+      "published_at": "2025-11-11T05:34:54.000Z",
+      "summary": "נשים ערביות לומדות יותר, עובדות יותר, נושאות את הקהילה - והגברים הערבים עדיין שומרים את הכיסאות "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אי אפשר בלי  מסקנות אישיות",
+      "url": "https://www.ynet.co.il/news/article/yokra14576869",
+      "image": null,
+      "published_at": "2025-11-11T05:29:46.000Z",
+      "summary": "תורג’מן מבקש להבהיר לדור הצעיר של המפקדים שתחקיר אמיתי איננו מסתפק בזיהוי כשלים, אלא מחייב גם לקיחת אחריות"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "כשלון הרל\"ב מוכיח - צריך רל\"ק",
+      "url": "https://www.ynet.co.il/news/article/yokra14575645",
+      "image": null,
+      "published_at": "2025-11-11T05:26:58.000Z",
+      "summary": "פעם אחר פעם, נכשל המחנה הליברלי בשכנוע הציבור ב\"רק-לא-ביבי\". לקראת בחירות 2026, אנו חייבים לעבור לתפישה אחרת, המוקיעה את הקנאים ולא את הימין המתון"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בטהרן שוכחים: ישראל אולי תיפגע, אבל איראן תיפגע פי מאה יותר",
+      "url": "https://www.ynet.co.il/news/article/yokra14576446",
+      "image": null,
+      "published_at": "2025-11-11T05:24:16.000Z",
+      "summary": "הבצורת הקשה שמכה ברפובליקה האיסלאמית מעלה את רף הסיכון לסיבוב לחימה נוסף מול ישראל. המשבר עלול לעורר התקוממות, והתגובה הטבעית של המשטר היא להבעיר את אש המלחמה"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Jannik Sinner dominates Felix Auger-Aliassime at ATP Finals in Turin",
+      "url": "https://www.aljazeera.com/sports/2025/11/11/jannik-sinner-dominates-felix-auger-aliassime-at-atp-finals-in-turin?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-11T05:22:40.000Z",
+      "summary": "Jannik Sinner begins his ATP Finals title defence with victory against Felix Auger-Aliassime on home soil in Italy."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1062,16 +1112,6 @@
       "summary": "As leaked footage of rape at Sde Teiman detention camp prompts investigation of the leak, is the victim being forgotten?"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US claims it hit two boats ‘carrying narcotics’ in Pacific, killing six",
-      "url": "https://www.aljazeera.com/news/2025/11/10/us-claims-it-strikes-two-boats-carrying-narcotics-in-pacific-killing-six?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-10T16:28:51.000Z",
-      "summary": "Pentagon chief Pete Hegseth says attacks take place in international waters amid mounting criticism against US campaign."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1222,16 +1262,6 @@
       "summary": "לפי המשטרה, צעיר מתל אביב יצר קשר ביוזמתו עם גורמים איראניים וצילם עבורם בין היתר את מוזיאון תל אביב וגן בשכונת בבלי. בתמורה הוא קיבל אלפי שקלים במטבעות קריפטו, בביתו נתפסו ממצאים דיגיטליים ו-18 כרטיסי סים. מעצרו הוארך עד היום, אך בית המשפט הורה לשחררו לביתו ללא תנאים"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "דוברת רה\"מ: \"כל החלטה על המחבלים הלכודים תיעשה עם ארה\"ב\". נתניהו: \"מה? מי אמר את זה?\"",
-      "url": "https://www.ynet.co.il/news/article/ryrvrd1ewg",
-      "image": null,
-      "published_at": "2025-11-10T13:57:30.000Z",
-      "summary": "רה\"מ מדגיש שוב ושוב כי ישראל תקבל את ההחלטות המרכזיות בעצמה, הדוברת שלו לתקשורת הזרה הודתה לאחר פגישתו עם קושנר: \"כל החלטה בנוגע למחבלים הלכודים בעזה תיעשה בשיתוף פעולה עם הממשל האמריקני\". בכנסת תועד נתניהו מגיב בהפתעה כשהדברים צוטטו"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1240,16 +1270,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-6dc1-d66b-adba-ffc32e250005/59/53/89b598a5482fb5e31841899ea0e7/631080-2.jpg?height=81",
       "published_at": "2025-11-10T13:38:59.000Z",
       "summary": "Yair Netanyahu, the prime minister's son, reportedly lashed out at the appointment, accusing the new appointee of ties to the embattled attorney general. Defense Minister Katz pushed back, saying the prospective top IDF lawyer had supported Israeli West Bank settlements in his previous role in the d"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"סליחה שלא נפרדנו\": ההספד קורע הלב של אלמנת ליאור, והבשורה - \"יש לך נכדה חדשה\"",
-      "url": "https://www.ynet.co.il/news/article/skz31pke11l",
-      "image": null,
-      "published_at": "2025-11-10T13:34:38.000Z",
-      "summary": "766 ימים אחרי שנחטף לעזה, ליאור רודאיף הובא למנוחות בקיבוץ ניר יצחק, עליו יצא להגן ב-7/10. אלמנתו יפה: \"לא לסוף הזה פיללתי, סליחה שלקח הרבה זמן\". בתו נעם סיפרה על הנכדה החדשה: \"היא ממש כמוך\". בנו בן, ששרד את מסיבת הנובה: \"מי היה מאמין שנצטרך להילחם כדי להחזיר אותך\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1282,16 +1302,6 @@
       "summary": "Kushner arrived in Israel on Sunday for talks with Netanyahu regarding the Gaza war, and envoy Steve Witkoff is expected to arrive and join the talks as well."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "תיעוד מתרגיל הפלישה הענק בשומרון: \"מחבלים\" על טרקטורונים מעופפים ",
-      "url": "https://www.ynet.co.il/news/article/rj6lshjezg",
-      "image": null,
-      "published_at": "2025-11-10T13:00:18.000Z",
-      "summary": "ביהודה ושומרון ובבקעה מתרגלים כוחות צה\"ל תרחישי הסלמה הכוללים שימוש במצנחי רחיפה בדומה לפלישת חמאס לעוטף ב-7/10. התרגיל יימשך 3 ימים, ובמהלכו ייעשה שימוש בדימוי אויב ותורגש תנועה ערה של כוחות הביטחון"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1310,16 +1320,6 @@
       "image": "https://img.haarets.co.il/bs/00000197-5874-debf-a39f-7cf5cc490000/c8/70/5ab24c1b4383be5a61e006b775ab/280897-4.jpg?height=81",
       "published_at": "2025-11-10T12:54:58.000Z",
       "summary": "Last week, the International Atomic Energy Agency chief said last week that Iran must 'seriously improve' cooperation with the United Nations inspectors to avoid heightening tensions with the West"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "לפיד: \"בן גביר פשיסט מסוכן וחרפה לציונות. הוא לא יהיה שר עוד הרבה זמן\"",
-      "url": "https://www.ynet.co.il/news/article/rjp6vujlwx",
-      "image": null,
-      "published_at": "2025-11-10T12:49:49.000Z",
-      "summary": "ראש האופוזיציה תקף בחריפות את השר לביטחון לאומי, ואמר בצל מעצר המורה באוניברסיטה העברית כי \"אינו יכול להפעיל את המשטרה להשתקת אנשים\". בן גביר השיב: \"אם האנרכיסט היה נער גבעות הייתם אומרים 'ביריון'\". על עונש המוות למחבלים: \"לאחמד טיבי לא יהיה את מי לבקר\". ליברמן: \"ברכות לרה\"מ קושנר\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
