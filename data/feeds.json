@@ -1,6 +1,76 @@
 {
-  "generated_at": "2025-11-12T06:14:48.485Z",
+  "generated_at": "2025-11-12T06:48:39.354Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "French Gov't allows Israeli firms to participate in defense exhibition after alleged ban",
+      "url": "https://www.jpost.com/israel-news/article-873553",
+      "image": null,
+      "published_at": "2025-11-12T08:35:21.000Z",
+      "summary": "The French Foreign Ministry informed Foreign Minister Gideon Sa’ar that the decision had been reversed and that all Israeli companies would be able to participate in the exhibition."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "תיעודי הלוויין מעזה: \"שכונות שלמות שוטחו מאז הפסקת האש\"",
+      "url": "https://www.ynet.co.il/news/article/h1pdqjzlzl",
+      "image": null,
+      "published_at": "2025-11-12T06:40:40.000Z",
+      "summary": "ב-BBC דווח כי יותר מ-1,500 מבנים נהרסו בשטח בשליטת ישראל מאז הפסקת האש ברצועת עזה. בצה\"ל אישרו - ודחו את ההאשמות ברשת הבריטית: \"זה ההסכם - אנחנו פועלים מול תשתיות טרור\". תושבת אחת השכונות: \"היה לנו גן עדן והכול נהרס\". כך פועל צה\"ל באזורים בצידו הישראלי של הקו הצהוב"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia loses legal battle to build embassy near Australia’s Parliament",
+      "url": "https://www.aljazeera.com/news/2025/11/12/russia-loses-legal-battle-to-build-embassy-near-australias-parliament?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-12T06:19:58.000Z",
+      "summary": "Australia&#039;s High Court says government acted within its rights when it passed a law revoking 99-year lease for site."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Carlos Alcaraz rallies to defeat Taylor Fritz at ATP Finals in Turin",
+      "url": "https://www.aljazeera.com/sports/2025/11/12/carlos-alcaraz-rallies-to-defeat-taylor-fritz-at-atp-finals-in-turin?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-12T06:16:55.000Z",
+      "summary": "Spaniard&#039;s victory moves him to within one win of beating out Jannik Sinner for yearend number one ranking."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Thousands evacuated in Taiwan as Tropical Storm Fung-wong closes in",
+      "url": "https://www.aljazeera.com/news/2025/11/12/thousands-evacuated-in-taiwan-as-tropical-storm-fung-wong-closes-in?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-12T06:05:16.000Z",
+      "summary": "The slow-moving storm is due to make landfall on Wednesday night after departing the Philippines."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Colombia’s Petro halts intelligence sharing with US over Caribbean strikes",
+      "url": "https://www.aljazeera.com/news/2025/11/12/colombias-petro-halts-intelligence-sharing-with-us-over-caribbean-strikes?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-12T06:04:29.000Z",
+      "summary": "Announcement comes as US aircraft carrier arrives in the Caribbean and Presidents Trump, Petro feud."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "LIVE: India, Pakistan launch probes after blasts in New Delhi, Islamabad",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/11/12/pakistan-india-launch-probes-after-blasts-in-islamabad-new-delhi?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-12T05:52:38.000Z",
+      "summary": "Blasts in the capitals of India and Pakistan on Monday and Tuesday killed 13 and 12 people, respectively."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -395,7 +465,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israel's top court abandoned the AG once again, exposing its own moral collapse",
+      "title": "Israel's top court abandoned the attorney general once again, exposing its own moral collapse",
       "url": "https://www.haaretz.com/israel-news/2025-11-12/ty-article/.premium/israels-top-court-abandoned-the-ag-once-again-exposing-its-own-moral-collapse/0000019a-74bd-de53-ab9a-7cbf2bfb0000",
       "image": "https://img.haarets.co.il/bs/0000019a-7520-d4d2-a99b-773109ea0001/b2/fc/4c7c7ba44ae8aa5a8c777bcf0fde/125274.jpg?height=81",
       "published_at": "2025-11-11T23:16:20.000Z",
@@ -772,16 +842,6 @@
       "summary": "'This is not only a legal victory but an important step in public recognition of women’s status within the religious establishment.'"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Yemen’s Houthis appear to pull back from Red Sea shipping attacks",
-      "url": "https://www.aljazeera.com/news/2025/11/11/yemens-houthis-appear-to-pull-back-from-red-sea-shipping-attacks?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-11T20:17:14.000Z",
-      "summary": "The Houthis&#039; maritime campaign has killed at least nine mariners and seen four ships sunk."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -802,26 +862,6 @@
       "summary": "'We won't let this go,' says Gur Kehati's grandfather, as the army prepares a long-delayed hearing for Col. (res.) Yoav Yarom, who launched a scouting operation in Lebanon that led to the soldier's death. A year on, no indictment, no operational report, no conclusions and no accountability for the l"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Turkish military plane with at least 20 on board crashes in Georgia",
-      "url": "https://www.aljazeera.com/news/2025/11/11/turkish-military-plane-with-at-least-20-on-board-crashes-in-georgia?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-11T19:38:16.000Z",
-      "summary": "Turkiye and Azerbaijan have indicated that there are fatalities after a C-130 cargo aircraft crashed on Tuesday. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Is the wellness industry just for the privileged?",
-      "url": "https://www.aljazeera.com/video/the-stream/2025/11/11/is-the-wellness-industry-just-for-the-privileged?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-11T19:30:00.000Z",
-      "summary": "As the wellness industry grows into a $6 trillion force, we ask, is this the future of healing or a profitable illusion?"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -840,26 +880,6 @@
       "image": null,
       "published_at": "2025-11-11T19:12:50.000Z",
       "summary": "פרסום ראשון: ל-ynet נודע כי רב-ניצב דני לוי פועל לסיים את כהונתו של ניצב אמיר ארזני כבר לפני החודש הנפיץ - מאחר שהוא \"תוקע\" לטענתו את סבב הקידומים. אלא שמאחורי הקלעים, גורמים במשטרה מעריכים כי הסיבה קשורה לכך שארזני נחשב לעומתי לשר: \"בולם תהליכים בהר הבית\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Palestinian journalist Mustafa Ayyash to be extradited to Austria",
-      "url": "https://www.aljazeera.com/news/2025/11/11/palestinian-journalist-mustafa-ayyash-to-be-extradited-to-austria?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-11T19:08:58.000Z",
-      "summary": "Austrian authorities accuse the founder of Gaza Now of financing Hamas, a charge he has denied."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israel returns unrecognisable bodies of Palestinians to Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/11/israel-returns-unrecognisable-bodies-of-palestinians-to-gaza?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-11T18:56:00.000Z",
-      "summary": "Israel is returning hundreds of Palestinians bodies to Gaza, but without names or identifying records."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1152,16 +1172,6 @@
       "summary": "הפשיעה הלאומנית בשטחים נמשכת, ארבעה פלסטינים נפצעו: ארבעה יהודים נעצרו בחשד למעורבות בפרעות בכפר הפלסטיני בית ליד שממזרח לטול כרם. בהמשך, רעולי הפנים תקפו כוחות צה\"ל בכפר אחר והשחיתו רכב צבאי. גורם ביטחוני: \"מעצרים בזמן מעשה יעבירו מסר ברור לפורעים\""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "זמרת רחוב בת 18 ו\"אגם הברבורים\" הם האויב החדש של פוטין",
-      "url": "https://www.ynet.co.il/news/article/ryjs2aegbg",
-      "image": null,
-      "published_at": "2025-11-11T16:17:57.000Z",
-      "summary": "נמשך מסע הנקמה של הקרמלין נגד אומנים שמעיזים לצאת נגדו: דיאנה לוגינובה, שמופיעה תחת שם הבמה \"נאוקו\" וחברה בלהקת Stoptime, נעצרה אחרי ששרה ברחוב בסנט פטרסבורג שירים של זמרים מתנגדי פוטין, כולל המילים \"כשהצאר ימות נרקוד שוב\" ו\"אם אתה חייל במלחמה, אני בצד השני\". בכל פעם שהיא עומדת להשתחרר מוארך מאסרה ב"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1400,16 +1410,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-7274-d4d2-a99b-737556e60000/04/7a/da45615c49b6b27f9c2962c87d1b/756356.jpg?height=81",
       "published_at": "2025-11-11T11:27:40.000Z",
       "summary": "With low projected turnout, the next government is expected to manage growing pressure from Washington to dismantle dozens of armed militias. 'For Iraq's 21 million registered voters, Tuesday's ballot may do little more than endorse a familiar political order,' said one Baghdad-based political analy"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Lt. Hadar Goldin laid to rest after 11 years in Gaza terror captivity",
-      "url": "https://www.jpost.com/israel-news/article-873455",
-      "image": null,
-      "published_at": "2025-11-11T10:55:39.000Z",
-      "summary": "IDF Chief of Staff Lt.-Gen. Eyal Zamir attended the funeral in Kfar Saba Military Cemetery calling Goldin a \"compass and conscience for the entire people of Israel.\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
