@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-13T19:31:23.105Z",
+  "generated_at": "2025-11-13T20:10:35.876Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Head of Lahav 433 revealed as police officer under investigation for breach of trust",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-873819",
+      "image": null,
+      "published_at": "2025-11-13T21:50:35.000Z",
+      "summary": "Earlier, Likud MK Tally Gotliv publicly revealed his identity, in defiance of a court-issued gag order."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,7 +25,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "IDF announces death of soldier due to apparent allergic reaction on base in southern Israel",
+      "title": "IDF soldier dies from apparent allergic reaction on southern Israel training base",
       "url": "https://www.jpost.com/israel-news/article-873813",
       "image": null,
       "published_at": "2025-11-13T20:56:23.000Z",
@@ -30,6 +40,56 @@
       "image": null,
       "published_at": "2025-11-13T20:06:51.000Z",
       "summary": "Since becoming the defense minister in November 2024, Israel Katz has successfully blocked multiple appointments."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בלי מטוס בשמיים: התלמידים נבחנו בפסיכומטרי - והמדינה נעצרה",
+      "url": "https://www.ynet.co.il/news/article/rybdv3qebx",
+      "image": null,
+      "published_at": "2025-11-13T20:03:00.000Z",
+      "summary": "כמדי שנה עברה דרום קוריאה לדון בזמן בחינות הכניסה לאוניברסיטה - שלתוצאותיה מייחסים השלכות גורליות. מקומות העבודה והעסקים נפתחו באיחור כדי לוודא שהתלמידים יגיעו בזמן לבחינה ולא יעמדו בפקקים, ובמהלך הבחינה הופסקה תנועת המטוסים כדי לאפשר ריכוז מקסימלי"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US calls for international action to cut weapons supply to Sudan paramilitaries",
+      "url": "https://www.bbc.com/news/articles/c17p1nwy7q8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c5f/live/11272930-c093-11f0-924c-87dcfe4462ba.jpg",
+      "published_at": "2025-11-13T19:56:54.000Z",
+      "summary": "\"They're committing acts of sexual violence and atrocities,\" says the US secretary of state, \"and it needs to end immediately\"."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Germany paves way to conscription as defence boss sees strongest EU army in five years",
+      "url": "https://www.bbc.com/news/articles/c4gpkerdn9qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa0e/live/42eb8430-c0b5-11f0-8456-eff94716b162.jpg",
+      "published_at": "2025-11-13T19:52:18.000Z",
+      "summary": "Berlin has agreed a new military service plan to boost troop numbers to 260,000 by 2035."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הניצב שנחקר במח\"ש בחשד להפרת אמונים ושימוש בכוח המשרה - מפקד להב 433",
+      "url": "https://www.ynet.co.il/news/article/rj11jqhxewl",
+      "image": null,
+      "published_at": "2025-11-13T19:41:26.000Z",
+      "summary": "ניצב מני בנימין, מפקד להב 433, נחקר במח\"ש בחשד שהשפיע על חקירה ביחידתו - בנושא שבו הוא מצוי לכאורה בניגוד עניינים. הוא עוכב בסדנה של תתי-ניצבים - ובסיום חקירתו נלקח ממנו הטלפון הנייד שלו"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Israel receives body Hamas says belongs to hostage",
+      "url": "https://www.bbc.com/news/articles/czxnerkx5pgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc9f/live/dc260b60-c0c0-11f0-9de8-edd64aee3552.jpg",
+      "published_at": "2025-11-13T19:33:11.000Z",
+      "summary": "Confirmation of the remains would mean that only three deceased hostages' bodies now remain in Gaza."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -232,6 +292,16 @@
       "summary": "Over 8,000 Jews lived in Oswiecim, Poland – adjacent to Auschwitz – on the eve of World War II. A restored grave is a memorial to this proud Jewish Polish community in a country where antisemitism is on the rise"
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Deadly Rio police raid failed to loosen gang's iron grip, residents say",
+      "url": "https://www.bbc.com/news/articles/c62012e6g9lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9ea/live/9416d0c0-c0a7-11f0-8ef8-bf132581f35b.jpg",
+      "published_at": "2025-11-13T17:17:46.000Z",
+      "summary": "More than 120 people were killed in the raid which targeted the Comando Vermelho criminal gang."
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -390,16 +460,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-7d62-d1ab-a3fa-7dfe54820001/12/10/cb6e910e4fa0acb4a751386397ce/war-crimes-homepage.jpg?height=81",
       "published_at": "2025-11-13T16:22:04.000Z",
       "summary": "A year after arrest warrants for Netanyahu and former Defense Minister Gallant, and two years into South Africa's ICJ case, the proceedings against Israel remain firmly in place. Trump's sanctions and allegations against Prosecutor Karim Khan have not slowed them, and the arrest of the Military Advo"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US calls for international action to cut weapons supply to Sudan paramilitaries",
-      "url": "https://www.bbc.com/news/articles/c17p1nwy7q8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c5f/live/11272930-c093-11f0-924c-87dcfe4462ba.jpg",
-      "published_at": "2025-11-13T16:10:39.000Z",
-      "summary": "\"They're committing acts of sexual violence and atrocities,\" says the US secretary of state, \"and it needs to end immediately\"."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1142,26 +1202,6 @@
       "summary": "Graffiti was found on the walls of the mosque with seemingly pointed messages to the IDF Central Command chief, who referred to Jewish violence against Palestinians as terrorism."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הניצב החשוד הגיע לסדנת קצינים בכירים - ועוכב לחקירה לעיניהם",
-      "url": "https://www.ynet.co.il/news/article/s17dtmqebg",
-      "image": null,
-      "published_at": "2025-11-13T09:48:54.000Z",
-      "summary": "פרסום ראשון: הניצב הבכיר שממלא תפקיד רגיש במשטרה הגיע לסדנה של תתי ניצבים - ובסיומה התבקש על ידי חוקרי מח\"ש להתלוות אליהם. חלק מבאי הכנס הבחינו בעיכובו לחקירה. בינתיים, ח\"כ טלי גוטליב שוב מפרה חוק - וחשפה את זהות החשוד"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"גנרל העינויים\" של אסד התחבא שנים באירופה, בעזרת המוסד: \"סוכן ישראלי כפול\"",
-      "url": "https://www.ynet.co.il/news/article/hk11qubmeze",
-      "image": null,
-      "published_at": "2025-11-13T09:29:25.000Z",
-      "summary": "חאלד אל-חלבי, קצין סורי-דרוזי שעינה עצורים כחלק מניסיון משטר אסד לדכא את מחאות \"האביב הערבי\" ב-2011, ברח לאירופה ונעלם ב-2015 רגע לפני שנעצר בפריז. הוא נעצר אשתקד באוסטריה, ולפי התביעה חי שנים בווינה בדירה שעליה שילם המוסד, אחרי \"הסכם\" שהושג בביקור של בכיר במודיעין האוסטרי בישראל"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1570,16 +1610,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-7313-d6d8-af9b-775f9d590001/f4/9b/a2b4eb5646bf884f6a438edf198b/071981.jpg?height=81",
       "published_at": "2025-11-12T19:19:25.000Z",
       "summary": "Rape is not about sexuality, but about power, whether committed by Hamas on October 7 or by Israeli soldiers at the Sde Teiman detention center. In Israel, the furore over a leaked video of sexual torture, and its politicization by Netanyahu, is overshadowing what's really at stake"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "'Calling it like it is': Netanyahu thanks Trump for letter asking for pardon",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-873654",
-      "image": null,
-      "published_at": "2025-11-12T19:09:47.000Z",
-      "summary": "In the letter, Trump told Herzog that he believes that the Netanyahu trial was a \" political, unjustified prosecution.\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
