@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-13T09:11:25.218Z",
+  "generated_at": "2025-11-13T09:39:41.812Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -52,6 +52,16 @@
       "summary": "Graffiti was found on the walls of the mosque with seemingly pointed messages to the IDF Central Command chief, who referred to Jewish violence against Palestinians as terrorism."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"גנרל העינויים\" של אסד התחבא שנים באירופה, בעזרת המוסד: \"סוכן ישראלי כפול\"",
+      "url": "https://www.ynet.co.il/news/article/hk11qubmeze",
+      "image": null,
+      "published_at": "2025-11-13T09:29:25.000Z",
+      "summary": "חאלד אל-חלבי, קצין סורי-דרוזי שעינה עצורים כחלק מניסיון משטר אסד לדכא את מחאות \"האביב הערבי\" ב-2011, ברח לאירופה ונעלם ב-2015 רגע לפני שנעצר בפריז. הוא נעצר אשתקד באוסטריה, ולפי התביעה חי שנים בווינה בדירה שעליה שילם המוסד, אחרי \"הסכם\" שהושג בביקור של בכיר במודיעין האוסטרי בישראל"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -60,6 +70,26 @@
       "image": null,
       "published_at": "2025-11-13T09:25:39.000Z",
       "summary": "The free exhibition will span historic kibbutz spaces, featuring 60-plus works that explore the North’s path home after the war, the organizers said."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Bedouin village to be evacuated despite Israel canceling plans to demolish it",
+      "url": "https://www.haaretz.com/israel-news/2025-11-13/ty-article/.premium/bedouin-village-to-be-evacuated-despite-israel-canceling-plans-to-demolish-it/0000019a-7c3c-d6d8-af9b-7e7f982e0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-7c72-dc91-a39e-7c735c800002/37/fb/54073b114b3e96555ae85849139b/178661.jpg?height=81",
+      "published_at": "2025-11-13T09:24:05.000Z",
+      "summary": "The ruling could be used as a precedent to expel other Bedouin villages from lands they have lived on since before the establishment of Israel in 1948, as it was written that turning a blind eye to the village staying on state lands doesn't grant the residents property rights"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מטכנאי כטב\"מים - ללוחם: \"אין סיבה שלא אתגייס לקרבי אחרי שאחותי נפצעה בטבח\"",
+      "url": "https://www.ynet.co.il/news/article/ry2irw7xzx",
+      "image": null,
+      "published_at": "2025-11-13T09:17:05.000Z",
+      "summary": "האם ששכלה את אחיה ביקשה מבנה שלא יתגייס ללוחמה, אבל הבן שהתחיל את השירות בתפקיד עורפי בחר להצטרף לחטיבת כפיר: \"אחותי ובן זוגה נפצעו קשה בפסטיבל הנובה, ואמא הבינה בסוף שזה חשוב לי\", סיפר סמ\"ר ש' לאולפן ynet"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -79,7 +109,7 @@
       "url": "https://www.ynet.co.il/news/article/rkk8sgxgze",
       "image": null,
       "published_at": "2025-11-13T09:06:03.000Z",
-      "summary": ""
+      "summary": "חוקרי יאח\"ה סיכמו עם סנגורו של ארנון בר-דוד כי מעצרו יוארך עד מחר, ואז הוא ישוחרר למעצר בית בתנאים מגבילים: \"לא יוכל לקבל שום החלטה שקשורה להסתדרות\". הוא ישהה במעצר בבית של בנו, מכיוון שאשתו החשודה גם כן בפרשה שוהה במעצר בביתם המשותף. 262 בני אדם כבר נחקרו או מסרו עדות"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -195,7 +225,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "לקראת הדד-ליין: לוין לא מוותר על הנציב קולה, אין הסכמות עם היועמ\"שית",
+      "title": "בג\"ץ חקירת הפצ\"רית: לוין לא מוותר על הנציב קולה, אין הסכמות עם היועמ\"שית",
       "url": "https://www.ynet.co.il/news/article/rjpxfbxxbg",
       "image": null,
       "published_at": "2025-11-13T08:03:23.000Z",
@@ -675,11 +705,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "US envoy: Next US steps on Syria include ‘redefining Turkish-Syrian-Israeli relations’",
+      "title": "No agreement on Sde Teiman leak probe, Levin says, telling court AG rejected his proposal",
       "url": "https://www.timesofisrael.com/liveblog-november-13-2025/",
       "image": null,
       "published_at": "2025-11-12T23:35:05.000Z",
-      "summary": "Senior cop is released after 7-hour interrogation, Ben Gvir reportedly declining to name replacement * Palestinian man reportedly shot in settler attack * IDF says it struck Hezbollah arms depot\nThe post US envoy: Next US steps on Syria include ‘redefining Turkish-Syrian-Israeli relations’ appeared "
+      "summary": "Senior cop is released after 7-hour interrogation, Ben Gvir said to hold off on naming replacement * Union chief's detention extended * IDF says it struck Hezbollah arms depot\nThe post No agreement on Sde Teiman leak probe, Levin says, telling court AG rejected his proposal appeared first on The Tim"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1250,26 +1280,6 @@
       "image": null,
       "published_at": "2025-11-12T17:16:10.000Z",
       "summary": "הפנטגון שלח לאזור את נושאת המטוסים ג'רלד פורד, בצעד שמסמן בדרך כלל הכנה להתלקחות אמיתית ולא רק אמצעי הרתעה. טראמפ מאשים את הנשיא ניקולס מדורו בשליחת פושעים ומאושפזים פסיכיאטריים לארה\"ב, וכשנשאל אם ימיו של מדורו בתפקיד ספורים השיב: \"אני חושב שכן\". משרד המשפטים מגבש הנחיות שיאפשרו לפעול צבאית גם בלי א"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "תלונה במשטרה נגד אלמוג כהן, שהתפרץ לשיעור: \"אסור שאלימות תגלוש לקמפוס\" | צפו",
-      "url": "https://www.ynet.co.il/news/article/byokvxzebg",
-      "image": null,
-      "published_at": "2025-11-12T17:08:13.000Z",
-      "summary": "סגן השר התפרץ לשיעור מדעי המחשב באונ' בן גוריון, והשתלח במרצה שבעבר כתב כי \"חיילי צה\"ל חונכו להיות רוצחי תינוקות\", הושעה - וחזר ללמד. \"תתבייש, החיילים גיבורים\", קרא כהן לעברו. האוניברסיטה הגישה תלונה במשטרה: \"הקמפוסים שלנו חייבים להישאר בטוחים ללימודים - ללא חשש מאלימות\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "עדויות הזוועה של שורדי השבי בפני האו\"ם: \"חטופה צעירה יצאה מהמקלחת רועדת\" ",
-      "url": "https://www.ynet.co.il/news/article/syzou4fxzg",
-      "image": null,
-      "published_at": "2025-11-12T16:58:30.000Z",
-      "summary": "אביבה וקית' סיגל חשפו בפני הוועדה נגד עינויים פרטים חדשים ומחרידים מהשבי - ובין השאר תיארו תקיפות מיניות נגד חטופות, איומים, מחבל שחתך לנער את היד כשהוריד לו את האזיקונים - וגם הרעבות, איומים ומים מזוהמים. קית': \"הכריחו אותי להתפשט, השוו את איבריי לשל חטוף אחר\". קשה לצפייה"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2260,16 +2270,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-69b0-d66b-adba-fbb2825c0007/20/34/57820f6f42ed8fa7ae33fb7bba44/680930.jpg?height=81",
       "published_at": "2025-11-10T15:16:24.000Z",
       "summary": "Former Israeli officer, Yarden Ashkenazi, repressed what she saw after serving during the 2014 Gaza war. Years later she realized she was suffering from PTSD – from experiencing things 'nothing short of crazy'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Syria foiled Islamic State plots to assassinate President al-Sharaa, officials say",
-      "url": "https://www.haaretz.com/middle-east-news/2025-11-10/ty-article/syria-foiled-islamic-state-plots-to-assassinate-president-al-sharaa-officials-say/0000019a-6df4-dd82-a59a-fdf4f8500000",
-      "image": "https://img.haarets.co.il/bs/00000199-f1a9-d54a-abfb-f5f905420001/f9/da/83fcfb314c7db9c2311a6281d930/453850.jpg?height=81",
-      "published_at": "2025-11-10T14:58:46.000Z",
-      "summary": "As Syria's president Ahmad al-Sharaa plans to enter the U.S.-led coalition to take out the Islamic State forces amid repeated bouts of sectarian violence, officials say his long battle with the militant group could become personal"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
