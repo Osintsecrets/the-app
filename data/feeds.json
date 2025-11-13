@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-13T07:37:08.472Z",
+  "generated_at": "2025-11-13T08:12:43.009Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Jewish anarchists set fire to mosque near Palestinian city Salfit, no injuries reported",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-873706",
+      "image": null,
+      "published_at": "2025-11-13T09:51:31.000Z",
+      "summary": "Graffiti was found on the walls of the mosque with seemingly pointed messages to the IDF Central Command chief, who referred to Jewish violence against Palestinians as terrorism."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -22,6 +32,36 @@
       "summary": "Officers from the “Tzur” enforcement and monitoring unit for sex offenders apprehended a sex offender at a playground in the south of the country."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "לקראת הדד-ליין: אין הסכמות בין לוין ליועמ\"שית על זהות חוקר פרשת הפצ\"רית",
+      "url": "https://www.ynet.co.il/news/article/rjpxfbxxbg",
+      "image": null,
+      "published_at": "2025-11-13T08:03:23.000Z",
+      "summary": "אחרי ששופטת העליון וילנר אמרה שהיא \"מתחננת להסכמות\", נראה שהשר לוין והיועמ\"שית בהרב-מיארה לא מתכוונים להגיע לפשרה. הפרקליטות מציעה שבית המשפט ימנה שופט לניהול חקירת הדלפת הסרטון. ללא הסכמה - פסק דין ביום א'"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Flight prices to East Asia soar as El Al maintains chokehold on Thailand, Japan routes",
+      "url": "https://www.haaretz.com/israel-news/2025-11-13/ty-article/.premium/flight-prices-to-east-asia-soar-as-el-al-maintains-chokehold-on-thailand-japan-routes/0000019a-7be6-dc91-a39e-7be78ce80000",
+      "image": "https://img.haarets.co.il/bs/0000017f-db28-db22-a17f-ffb90d250000/af/c0/024b11141715d11bae4ee4019254/1018316866.jpg?height=81",
+      "published_at": "2025-11-13T07:52:19.000Z",
+      "summary": "While many foreign airlines have resumed flights to Europe and the U.S., 73.1% of flights to East Asia are operated by Israel's flag carrier, which keeps reporting record quarterly profits"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Australia’s first treaty with Aboriginal people signed in state of Victoria",
+      "url": "https://www.aljazeera.com/news/2025/11/13/australias-first-treaty-with-aboriginal-people-signed-in-state-of-victoria?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-13T07:34:34.000Z",
+      "summary": "The treaty, which comes more than 220 years after the state was colonised, creates an assembly and truth-telling body."
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -30,6 +70,16 @@
       "image": null,
       "published_at": "2025-11-13T07:34:14.000Z",
       "summary": "Deputy commissioner allegedly interfered in Lahav 433 probe to aid associate; development comes as legal establishment faces separate turmoil over Tomer-Yerushalmi investigation\nThe post Senior police official detained over suspected breach of trust, abuse of authority appeared first on The Times of"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israeli president condemns ‘shocking’ settler attacks in occupied West Bank",
+      "url": "https://www.aljazeera.com/news/2025/11/13/israeli-president-condemns-shocking-settler-attacks-in-occupied-west-bank?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-13T07:33:21.000Z",
+      "summary": "Isaac Herzog says settler attacks are a &#039;serious&#039; breach of conduct and must end; military chief also condemns violence."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -125,7 +175,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Israel attacks Gaza’s south, north during ‘repeatedly violated’ truce",
+      "title": "LIVE: Israel attacks Gaza’s south, north during repeatedly violated truce",
       "url": "https://www.aljazeera.com/news/liveblog/2025/11/13/live-israel-attacks-gazas-south-north-during-repeatedly-violated-truce?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-13T06:26:04.000Z",
@@ -135,11 +185,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הנייד נלקח מהניצב הבכיר, החשד נגדו: ניסה להשפיע על חקירת פרשה שטרם נחשפה",
+      "title": "הניצב הבכיר חשוד שניסה להשפיע על פרשה שטרם נחשפה - וזוכה לגיבוי מבן גביר",
       "url": "https://www.ynet.co.il/news/article/bkk4rexlbe",
       "image": null,
       "published_at": "2025-11-13T06:19:36.000Z",
-      "summary": "הפרשה שעליה ניסה להשפיע הקצין, שנמצא בתפקיד רגיש וחשוד בהפרת אמונים ושימוש לרעה בכוח המשרה, עדיין לא הבשילה ועסקה בנושא שבו היה מצוי בניגוד עניינים לכאורה. הנייד שלו נלקח ממנו בתום החקירה במח\"ש, שם מנסים לשמור על מידור. בן גביר מתנגד למינוי מ\"מ ושוחח עם אשת הניצב: \"חזקת החפות עומדת לו\" "
+      "summary": "הפרשה שעליה ניסה להשפיע הקצין, שנמצא בתפקיד רגיש וחשוד בהפרת אמונים ושימוש לרעה בכוח המשרה, עדיין לא הבשילה ועסקה בנושא שבו היה מצוי בניגוד עניינים לכאורה. הנייד נלקח ממנו בתום החקירה, ובמח\"ש מנסים לשמור על מידור. השר מתנגד למינוי ממלא מקום, מתייצב לצד הניצב החשוד - ושוחח עם אשתו"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -305,7 +355,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Palestinian reports: Settlers torch West Bank mosque, spray racist graffiti",
+      "title": "Palestinian reports: Settlers vandalize, torch mosque in West Bank",
       "url": "https://www.haaretz.com/israel-news/2025-11-13/ty-article-live/rubio-warns-that-settler-violence-in-west-bank-could-hurt-gaza-peace-efforts/0000019a-7b0d-d259-af9a-ffdf9c310000",
       "image": "https://img.haarets.co.il/bs/0000019a-7a80-dc91-a39e-7ae33d440001/e3/a5/75bfeba64a6a9162794573d56083/765986.jpg?height=81",
       "published_at": "2025-11-13T02:42:35.000Z",
@@ -912,26 +962,6 @@
       "summary": "Israeli settlements classified as 'under threat' would receive a 25 percent addition in the total scoring for tax benefits. The bill 'joins the revolution in Judea and Samaria, which effectively consolidates Israeli sovereignty,' settler councils said"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Roman-era statues stolen from Damascus museum",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/12/roman-era-statues-stolen-from-damascus-museum?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-12T19:28:37.000Z",
-      "summary": "Thieves have stolen six Roman-era statues from Syria’s National Museum in Damascus."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "UN urges humanitarian corridor to help civilians stuck in Sudan’s el-Fasher",
-      "url": "https://www.aljazeera.com/news/2025/11/12/un-urges-humanitarian-corridor-to-help-civilians-stuck-in-sudans-el-fasher?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-12T19:26:02.000Z",
-      "summary": "IOM chief calls for ceasefire to allow aid groups to reach Sudanese civilians trapped in war-torn Darfur region."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1232,16 +1262,6 @@
       "summary": "24 שעות אחרי שכ-100 רעולי פנים פשטו על מפעל פלסטיני ותקפו גם חיילים, רב-אלוף אייל זמיר אמר כי מעשיהם של המתנחלים הקיצוניים מהווים \"חציית קו אדום\", והוסיף: \"צה\"ל לא יסבול תופעות של מיעוט עברייני המכתים ציבור שומרי חוק\". ראש הממשלה ושר הביטחון עדיין לא פרסמו התייחסות למקרה"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המצפון הלאומי נותר בשבי",
-      "url": "https://www.ynet.co.il/news/article/rje002qfl11l",
-      "image": null,
-      "published_at": "2025-11-12T15:56:38.000Z",
-      "summary": "התחקירים הנוקבים שיבואו בעתיד לא יכולים לפסוח על אף דרג – לא הצבאי, לא המדיני ולא המשפטי. הקונספציה, התחקירים, ניהול המלחמה, המגעים לשחרור החטופים, ואפילו התלות המוגזמת בארצות הברית – כולם צריכים להיבחן במסרקות של ברזל"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1540,16 +1560,6 @@
       "image": null,
       "published_at": "2025-11-12T10:20:39.000Z",
       "summary": "The victim was evacuated in serious condition to the Shamir Medical Center in Tzrifin, and authorities opened an investigation into the incident. "
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Prosecution: Cross-examination questioning in Case 1000 set to conclude on Monday",
-      "url": "https://www.jpost.com/israel-news/benjamin-netanyahu/article-873565",
-      "image": null,
-      "published_at": "2025-11-12T10:03:15.000Z",
-      "summary": "PM Netanyahu confirmed in court that he was aware of and approved gifts from Arnon Milchan, as testimony continues in Case 1000."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2260,16 +2270,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-6dfc-d218-a5be-7fffb7bc0001/24/bc/e2c403d642beafc6443a7ca4a94b/whatsapp-image-2025-11-10-at-3-05-27-pm.jpeg?height=81",
       "published_at": "2025-11-10T14:07:03.000Z",
       "summary": "Rudaeff was killed when fighting off Hamas militants who infiltrated Kibbutz Nir Yitzhak near the Gaza border. 'In what world do they bury you after two years?' his son asked during his eulogy, adding, 'Who would have believed we'd have to fight to bring you back?'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Defense minister approves new top IDF lawyer amid reported backlash from Netanyahu",
-      "url": "https://www.haaretz.com/israel-news/2025-11-10/ty-article/.premium/defense-minister-signs-off-on-new-top-idf-legal-chief-amid-reported-netanyahu-backlash/0000019a-6da4-dd82-a59a-fdf481660000",
-      "image": "https://img.haarets.co.il/bs/0000019a-6dc1-d66b-adba-ffc32e250005/59/53/89b598a5482fb5e31841899ea0e7/631080-2.jpg?height=81",
-      "published_at": "2025-11-10T13:38:59.000Z",
-      "summary": "Yair Netanyahu, the prime minister's son, reportedly lashed out at the appointment, accusing the new appointee of ties to the embattled attorney general. Defense Minister Katz pushed back, saying the prospective top IDF lawyer had supported Israeli West Bank settlements in his previous role in the d"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
