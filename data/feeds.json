@@ -1,25 +1,105 @@
 {
-  "generated_at": "2025-11-13T15:10:45.588Z",
+  "generated_at": "2025-11-13T15:38:16.394Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Sirens sound in Gaza border region, IDF confirms false alarm",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-873785",
+      "title": "NGOs, lawmakers mobilize for West Bank olive harvest amid claims of state complicity",
+      "url": "https://www.jpost.com/israel-news/article-873790",
       "image": null,
-      "published_at": "2025-11-13T16:07:17.000Z",
-      "summary": "Residents of the region reportedly heard explosions from interceptions. "
+      "published_at": "2025-11-13T17:09:49.000Z",
+      "summary": "The solidarity harvest was initiated by NGOs Rabbis for Human Rights and Peace Now, shortly after an attack on Palestinians and Israelis alike harvesting olives near the village of Burin."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "'This trial is absurd': Netanyahu addresses potentially accepting Trump-prompted pardon",
+      "title": "IDF kills two terrorists, false alarms after sirens in Gaza border region",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-873785",
+      "image": null,
+      "published_at": "2025-11-13T16:07:17.000Z",
+      "summary": "Residents of the Gaza border region reportedly heard explosions from interceptions. "
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Netanyahu 'thinking about' Trump's pardon request, not afraid of Mamdani's arrest threat",
       "url": "https://www.jpost.com/israel-news/article-873783",
       "image": null,
       "published_at": "2025-11-13T15:48:47.000Z",
       "summary": "In an interview with Erin Molan on her podcast, \"The Erin Molan Show\", Netanyahu said that the cases against him \"hurt both American and Israeli interests.\""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "What we know about new Epstein emails that mention Trump",
+      "url": "https://www.bbc.com/news/articles/c3rj0d97ynvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e9a/live/de408d30-bfdf-11f0-bbea-2df62eb90585.jpg",
+      "published_at": "2025-11-13T15:27:26.000Z",
+      "summary": "In emails released by Democrats, Epstein says Trump \"knew about the girls\". The White House says they are an attempt to \"smear\" the president."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בית הדין הצבאי ללוחמי כוח 100: פנו לפצ\"ר החדש על ביטול האישום בפרשת שדה תימן",
+      "url": "https://www.ynet.co.il/news/article/hjgksp7ezg",
+      "image": null,
+      "published_at": "2025-11-13T15:25:27.000Z",
+      "summary": "בית הדין הצבאי מסר לסנגורי הנאשמים בפרשת שדה תימן כי הם רשאים להפנות לפצ\"ר איתי אופיר את בקשתם לביטול האישומים נגדם. בדיון פרצה מהומה כשכמה מלוחמי \"כוח 100\" התרעמו על נציג הפרקליטות הצבאית - והוצאו מהאולם: \"לכלכתם את שמנו, הרסתם לנו את המשפחות\""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Nigeria cancels mother-tongue teaching in primary schools and reverts to English",
+      "url": "https://www.bbc.com/news/articles/cd7rlrzq88wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5591/live/44b86050-c086-11f0-924c-87dcfe4462ba.jpg",
+      "published_at": "2025-11-13T15:24:44.000Z",
+      "summary": "Exam results from areas which dropped English have declined, the education minister says, announcing the U-turn."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Dozens of Gazans stranded on plane for over nine hours after flying from Israel to South Africa",
+      "url": "https://www.haaretz.com/israel-news/security-aviation/2025-11-13/ty-article/.premium/dozens-of-palestinians-from-gaza-stranded-on-plane-after-arriving-in-johannesburg/0000019a-7d72-d6d8-af9b-7f7fe4b40000",
+      "image": "https://img.haarets.co.il/bs/0000019a-7dc3-d1ab-a3fa-7ddff71b0001/f5/01/9df95c1a469cbe957d718514564e/999.PNG?height=81",
+      "published_at": "2025-11-13T15:18:29.000Z",
+      "summary": "Sources at the airport who had been waiting to receive the group said the authorities were refusing to allow the passengers to disembark. The IDF said in response that the departure of Gazans is typically coordinated by Israeli authorities before arriving at another country"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Mossad arranged Austrian asylum for Syrian double agent accused of torture &#8211; report",
+      "url": "https://www.timesofisrael.com/mossad-arranged-austrian-asylum-for-syrian-double-agent-accused-of-torture-report/",
+      "image": null,
+      "published_at": "2025-11-13T15:15:51.000Z",
+      "summary": "Khaled al-Halabi, charged over suppressing protests in Raqqa, lived in Vienna in apartment paid for by Israeli spy agency that got him into country, NY Times says\nThe post Mossad arranged Austrian asylum for Syrian double agent accused of torture &#8211; report appeared first on The Times of Israel."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Israel seeking 20-year &#8216;America-first&#8217; security agreement with US &#8212; report",
+      "url": "https://www.timesofisrael.com/israel-seeking-20-year-america-first-security-agreement-with-us-report/",
+      "image": null,
+      "published_at": "2025-11-13T15:14:19.000Z",
+      "summary": "With current MOU set to lapse in 2028, Israel said trying to navigate GOP foreign aid skepticism by emphasizing US-Israel cooperation; Netanyahu says Israel looking to be more independent\nThe post Israel seeking 20-year &#8216;America-first&#8217; security agreement with US &#8212; report appeared f"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Donald Trump’s disapproval rating jumps to 58 percent: Poll",
+      "url": "https://www.aljazeera.com/news/2025/11/13/donald-trumps-disapproval-rating-jumps-to-58-percent-poll?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-13T15:01:42.000Z",
+      "summary": "The poll also shows 44 percent of Democrats were &#039;very enthusiastic&#039; about voting in the 2026 midterm elections."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -79,7 +159,7 @@
       "url": "https://www.ynet.co.il/news/article/hyd2vpqgbl",
       "image": null,
       "published_at": "2025-11-13T14:44:02.000Z",
-      "summary": "מערכת גשם משמעותית ראשונה מתקרבת לישראל. גשמים מקומיים יתחזקו במהלך הלילה ובימים הקרובים קיים חשש להצפות במישור החוף ובשפלה וכן לשיטפונות בנחלי מדבר יהודה וים המלח. הטמפרטורות ירדו אל מתחת לממוצע העונתי - וישובו לטפס בתחילת השבוע הבא.  צפו בתיעוד הברד בשרון "
+      "summary": "מערכת גשם משמעותית ראשונה בישראל. גשמים מקומיים יתחזקו בלילה ובימים הבאים קיים חשש להצפות במישור החוף ובשפלה ולשיטפונות בנחלי מדבר יהודה וים המלח. הטמפרטורות ירדו אל מתחת לממוצע העונתי - וישובו לטפס בתחילת השבוע הבא. בבנימינה עלה באש עץ בעקבות פגיעת ברק, צפו בתיעוד הברד בשרון "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -832,16 +912,6 @@
       "summary": "Officers from the “Tzur” enforcement and monitoring unit for sex offenders apprehended a sex offender at a playground in the south of the country."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Trump’s $300m ballroom backed by tech, crypto giants — and two Israeli billionaires",
-      "url": "https://www.timesofisrael.com/trumps-300m-ballroom-backed-by-tech-crypto-giants-and-two-israeli-billionaires/",
-      "image": null,
-      "published_at": "2025-11-13T08:58:46.000Z",
-      "summary": "White House donor list features US president's Palm Beach neighbors, major US corporations, and high-profile figures including Miriam Adelson and Isaac Perlmutter\nThe post Trump’s $300m ballroom backed by tech, crypto giants — and two Israeli billionaires appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -892,26 +962,6 @@
       "summary": "לפי כתב האישום, הנער רצח את מוחמד מרזוק בן ה-16 במהלך ויכוח שהחל בעקבות \"אמירה שזלזלה במנוח\". הוא דקר אותו פעמיים בחזה, ומרזוק קרס על הרצפה ומת מפצעיו בהמשך בבית החולים. \"אירוע קטלני בתוך כותלי בית הספר - מבצרם של הילדים והמקום שבו הם אמורים לחוש בטוחים\", נכתב באישום"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Can Trump dole out $2,000 tariff dividends, direct healthcare payments?",
-      "url": "https://www.aljazeera.com/news/2025/11/13/can-trump-dole-out-2000-tariff-dividends-direct-healthcare-payments?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-13T08:22:56.000Z",
-      "summary": "Trump floats the idea of tariff dividends, direct healthcare payments and extending mortgages up to 50 years."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Trump signs government funding bill, ending shutdown after record 43-day disruption",
-      "url": "https://www.timesofisrael.com/trump-signs-government-funding-bill-ending-shutdown-after-record-43-day-disruption/",
-      "image": null,
-      "published_at": "2025-11-13T08:15:16.000Z",
-      "summary": "Federal workers fired during closure to be reinstated; Republicans and Democrats remain divided over healthcare subsidies, with vote scheduled for December\nThe post Trump signs government funding bill, ending shutdown after record 43-day disruption appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -950,16 +1000,6 @@
       "image": "https://img.haarets.co.il/bs/0000017f-db28-db22-a17f-ffb90d250000/af/c0/024b11141715d11bae4ee4019254/1018316866.jpg?height=81",
       "published_at": "2025-11-13T07:52:19.000Z",
       "summary": "While many foreign airlines have resumed flights to Europe and the U.S., 73.1% of flights to east Asia are operated by Israel's flag carrier, which keeps reporting record quarterly profits"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "What we know about new Epstein emails that mention Trump",
-      "url": "https://www.bbc.com/news/articles/c3rj0d97ynvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e9a/live/de408d30-bfdf-11f0-bbea-2df62eb90585.jpg",
-      "published_at": "2025-11-13T07:21:33.000Z",
-      "summary": "In emails released by Democrats, Epstein says Trump \"knew about the girls\". The White House says they are an attempt to \"smear\" the president."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1020,16 +1060,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b364/live/26eb4680-bfe3-11f0-8456-eff94716b162.jpg",
       "published_at": "2025-11-13T06:00:11.000Z",
       "summary": "Years of conflict have taken their toll and the war of attrition is continuing on the homefront - but Ukrainians are fighting back hard by trying to keep morale high"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "עימות המינויים התקועים מחריף - ובצה\"ל מזהירים: \"החלטות קריטיות מתעכבות\"",
-      "url": "https://www.ynet.co.il/news/article/yokra14579523",
-      "image": null,
-      "published_at": "2025-11-13T05:06:33.000Z",
-      "summary": "כ\"ץ מסרב לאשר את מועמד הרמטכ\"ל לתפקיד נספח צה\"ל בוושינגטון, אך זמיר החליט שלא להמתין עוד - ולאפשר לאלוף הדי זילברמן להמשיך לתפקיד ראש אגף התכנון. גורמים ביטחוניים: כ\"ץ מתעקש למנות את מזכירו הצבאי, שמקובל על נתניהו. המחלוקת גם על ראשי הזרועות והכעס בצמרת הצבא: \"פוגע במורל\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1520,16 +1550,6 @@
       "image": null,
       "published_at": "2025-11-12T15:36:25.000Z",
       "summary": "Hapoel Tel Aviv downed Baskonia 114-89 to move to 8-2 in EuroLeague, led by Elijah Bryant (24 pts). Meanwhile, Maccabi fell to Fenerbahce, dropping its record to 2-8."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Just one Jewish 'anarchist' remains in custody after around 100 attack Palestinian village",
-      "url": "https://www.jpost.com/israel-news/article-873619",
-      "image": null,
-      "published_at": "2025-11-12T15:32:41.000Z",
-      "summary": "In total, only six attackers were caught, and four were detained. This marks the 85th recent attack on Palestinians, with the IDF calling for more tools against offenders."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2170,16 +2190,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-0551-dd59-a9dd-4f7b0dbd0001/56/2a/d01a0ece4347b6d1d7c560bf46ea/583986.jpg?height=81",
       "published_at": "2025-11-10T18:56:21.000Z",
       "summary": "By the measure of Strategic Affairs Minister Ron Dermer, Israel under his boss is deteriorating from a free society into a fearful one. This is all happening under the government of Netanyahu, a man who once spoke highly about democratic, liberal values and presented Israel as a beacon of freedom"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Netanyahu says most Israelis don't support state commission of inquiry for Oct. 7",
-      "url": "https://www.haaretz.com/israel-news/2025-11-10/ty-article/.premium/netanyahu-says-most-israelis-dont-support-state-commission-of-inquiry-for-oct-7/0000019a-6e73-d218-a5be-7effeaf70000",
-      "image": "https://img.haarets.co.il/bs/0000019a-6edb-dece-a1fe-7fff1e3b0001/db/1c/846989644abc9abd0f0fe39c6d1a/751606.jpg?height=81",
-      "published_at": "2025-11-10T18:19:28.000Z",
-      "summary": "Netanyahu said a separate committee would be established that would 'represent all parts of the nation.' While he spoke, relatives of October 7 victims turned their backs on him in protest, as October Council, the group that represents them, said Netanyahu 'crossed a red line'"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
