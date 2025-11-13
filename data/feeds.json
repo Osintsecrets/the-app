@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-13T13:47:44.603Z",
+  "generated_at": "2025-11-13T14:09:35.018Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "'This trial is absurd': Netanyahu addresses potentially accepting Trump-prompted pardon",
+      "url": "https://www.jpost.com/israel-news/article-873783",
+      "image": null,
+      "published_at": "2025-11-13T15:48:47.000Z",
+      "summary": "In an interview with Erin Molan on her podcast, \"The Erin Molan Show\", Netanyahu said that the cases against him \"hurt both American and Israeli interests.\""
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -22,6 +32,26 @@
       "summary": "A candid interview with Yechiel Leiter, Israel's ambassador to the US, on Donald Trump's Gaza peace plan and Washington's relations with Turkey and Arab nations."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US calls for international action to cut weapons supply to Sudan paramilitaries",
+      "url": "https://www.bbc.com/news/articles/c17p1nwy7q8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c5f/live/11272930-c093-11f0-924c-87dcfe4462ba.jpg",
+      "published_at": "2025-11-13T14:07:32.000Z",
+      "summary": "\"They're committing acts of sexual violence and atrocities,\" says the US secretary of state, \"and it needs to end immediately\"."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "השר לשעבר לנתניהו: כשהבן הגיבור שלך שתה קפה במיאמי, שלי נהרג בקרב",
+      "url": "https://www.ynet.co.il/news/article/skcsylqewl",
+      "image": null,
+      "published_at": "2025-11-13T14:05:20.000Z",
+      "summary": "רה\"מ טען ל\"מתקפות עוינות\" נגד בנו יאיר, ש\"פועל נמרצות\" למען ישראל, ויזהר שי ששכל את בנו ב-7/10 תקף: \"גם הבן שלי היה ככה, ההבדל הוא שהבן המובטל שלך ברח מכאן בזמן שבני גילו חירפו נפשם למען המולדת\". לדבריו, \"שנתיים נלחמו כאן בזמן שהוא כתב פוסטים מהמרפסת במיאמי. ביבי, הכאב שלך לא מעניין אף אחד\""
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -32,6 +62,16 @@
       "summary": "\"The Al-Quds Brigades and the Izz ad-Din al-Qassam Brigades will hand over the body of an Israeli prisoner of war, which was found today in the Moraj area north of Khan Yunis,\" Hamas said."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Sudan’s civilians deserve more than survival",
+      "url": "https://www.aljazeera.com/opinions/2025/11/13/sudans-civilians-deserve-more-than-survival?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-13T13:45:48.000Z",
+      "summary": "Sudan is facing the world’s largest displacement crisis. Peace and access cannot wait."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -40,6 +80,16 @@
       "image": null,
       "published_at": "2025-11-13T13:40:54.000Z",
       "summary": "Histadrut leader Arnon Bar-David faces a fraud and bribery investigation and will be released to house arrest. The probe focuses on preferential treatment in union-related insurance dealings."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israel's campuses are under political attack. Academia must push back",
+      "url": "https://www.haaretz.com/opinion/2025-11-13/ty-article-opinion/.premium/israels-campuses-are-under-attack-academia-must-push-back/0000019a-7cfe-d1ab-a3fa-7cfe275c0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-7d67-dc91-a39e-7d6702db0001/58/0e/7aedf32d4f20a8df6d31a46480e3/036009.jpg?height=81",
+      "published_at": "2025-11-13T13:39:54.000Z",
+      "summary": "After Deputy Minister Almog Cohen and activists stormed a Ben-Gurion University classroom, one thing is clear: Israeli academia cannot function under threats or political bullying"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -130,16 +180,6 @@
       "image": null,
       "published_at": "2025-11-13T12:59:37.000Z",
       "summary": "החלטה של הרצוג לחון את ראש הממשלה תוכל להתקבל על בסיס חוות דעת במשרד המשפטים. כמו שבכירי שב\"כ לא הודו בחשדות שיוחסו להם בעקבות הרג המחבלים שחטפו אוטובוס ב-1984 וזכו לחנינה, גם רה\"מ יוכל לנסות לעשות זאת מבלי להביע חרטה. נתניהו: \"חנינה? אחשוב על זה אם יציעו. זו לא הודאה באשמה\""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US calls for international action to cut weapons supply to Sudan paramilitaries",
-      "url": "https://www.bbc.com/news/articles/c17p1nwy7q8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84de/live/b424bc40-c06d-11f0-8669-5560f5c90fbe.jpg",
-      "published_at": "2025-11-13T12:57:26.000Z",
-      "summary": "\"They're committing acts of sexual violence and atrocities,\" says the US secretary of state, \"and it needs to end immediately\"."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -249,7 +289,7 @@
       "url": "https://www.ynet.co.il/news/article/skwrhzxgwl",
       "image": null,
       "published_at": "2025-11-13T12:22:00.000Z",
-      "summary": "בטהרן חוששים שישראל תנסה \"לסיים את מה שהתחילה\", כלומר להפיל את משטר האייתוללות, וחמינאי עומד בפני דילמה: האם לפתוח במו\"מ עם ארה״ב או לשקם את היכולות הצבאיות ולאיים מחדש על ירושלים. בישראל לא מזהים ניסיונות לחדש את פרויקט הנשק הגרעיני, אך חוששים מ\"מיסקלקולציה\""
+      "summary": "בטהרן חוששים שישראל תנסה \"לסיים את מה שהתחילה\", כלומר להפיל את משטר האייתוללות, וחמינאי עומד בפני דילמה: האם לפתוח במו\"מ עם ארה״ב או לשקם את היכולות הצבאיות ולאיים מחדש על ירושלים? בישראל לא מזהים ניסיונות לחדש את פרויקט הנשק הגרעיני, אך חוששים מ\"מיסקלקולציה\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -505,11 +545,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Justice minister to top court: No agreement with AG on probe of former top IDF lawyer",
+      "title": "AG accepts High Court's offer to appoint retired justice to oversee IDF top lawyer case",
       "url": "https://www.haaretz.com/israel-news/2025-11-13/ty-article/.premium/justice-minister-to-top-court-no-agreement-with-ag-on-probe-of-former-top-idf-lawyer/0000019a-7c27-d259-af9a-feff71790000",
       "image": "https://img.haarets.co.il/bs/0000019a-7c3f-d6d8-af9b-7e7f5dfc0004/c1/60/44dd45eb4e8c837732eeb2d9b0bd/756381-8.jpg?height=81",
       "published_at": "2025-11-13T10:10:33.000Z",
-      "summary": "If the stalemate between Levin and Attorney General Gali Baharav-Miara continues and no agreement is reached, the High Court is expected to issue a ruling on the matter on Sunday"
+      "summary": "If the stalemate between Justice Minister Yariv Levin, who didn't accept the court's offer, and Attorney General Gali Baharav-Miara continues and no agreement is reached, the High Court is expected to issue a ruling on the matter on Sunday"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -659,7 +699,7 @@
       "url": "https://www.aljazeera.com/news/2025/11/13/new-review-urges-uk-to-repatriate-shamima-begum-others-from-syria?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-13T08:49:24.000Z",
-      "summary": "Conditions at Syrian al-Hol and al-Roj camps are &quot;inhuman, dangerous, and degrading&quot;, independent report says."
+      "summary": "Conditions at Syrian al-Hol and Roj camps are &quot;inhuman, dangerous, and degrading&quot;, independent report says."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -882,16 +922,6 @@
       "summary": "A decade after deadly jihadist attacks in Paris, terror groups have undergone reconfiguration, losing sanctuary in Syria and Iraq and becoming most active in Africa\nThe post ISIS, al-Qaeda have evolved in last decade, still pose global threat, say analysts appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "LIVE: Israel to receive one more captive’s body from Gaza",
-      "url": "https://www.aljazeera.com/news/liveblog/2025/11/13/live-israel-attacks-gazas-south-north-during-repeatedly-violated-truce?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-13T06:26:04.000Z",
-      "summary": "Israel has killed 260 Palestinians in Gaza since the October 10 ceasefire, according to the enclave&#039;s Health Ministry."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1000,16 +1030,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bf9/live/f9b89470-c077-11f0-b95f-c7c5e73ea311.jpg",
       "published_at": "2025-11-13T03:16:15.000Z",
       "summary": "Carbon emissions from burning fossil fuels are forecast to reach a new high in 2025 but could soon peak."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Israel grilled at UN over reports claiming &#8216;systematic and widespread torture&#8217; of Palestinians",
-      "url": "https://www.timesofisrael.com/israel-grilled-at-un-over-reports-claiming-systematic-and-widespread-torture-of-palestinians/",
-      "image": null,
-      "published_at": "2025-11-13T03:04:04.000Z",
-      "summary": "Israeli ambassador rejects allegations as 'disinformation'; committee acknowledges 'very disturbing' accusations against Hamas which it 'will take up... with the state of Palestine'\nThe post Israel grilled at UN over reports claiming &#8216;systematic and widespread torture&#8217; of Palestinians ap"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1140,16 +1160,6 @@
       "image": null,
       "published_at": "2025-11-12T22:23:24.000Z",
       "summary": "ראש הממשלה האשים את אנשי התקשורת ב\"הצטרפות סדרתית להשתלחות נגד רעייתי ובני\", ושיגר מסר: \"פגיעה במשפחתי - היא פגיעה בי\". לטענתו, השניים גם \"מאוימים על-ידי אנשים מוסתים שמאיימים לרצוח אותם\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"יש לי סמכות\" מול \"תקדים מסוכן\": לוין והיועמ\"שית לא מתפשרים; כך הגן קולה על יצחק עמית",
-      "url": "https://www.ynet.co.il/news/article/s17mm8gxwl",
-      "image": null,
-      "published_at": "2025-11-12T22:21:47.000Z",
-      "summary": "שר המשפטים צפוי לענות לבג\"ץ כי \"פעל כחוק\" כשמינה את הנציב אשר קולה לחקירת הפצ\"רית, ומוכן להוסיף שופט \"כדי לחזק את האיזון\". בהרב-מיארה, מנגד, מסכימה לסיוע לפיקוח - רק בלי מעורבות של גורם פוליטי. בג\"ץ דרש הבנות עד היום, אך לא חלה כל התקרבות. וגם: כך הגן קולה על נשיא העליון שבו לוין לא מכיר"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1500,16 +1510,6 @@
       "image": "https://img.haarets.co.il/bs/00000197-bbca-de01-a39f-fffeb92b0001/53/d0/331790b147e9acced068c3ba40a3/014540.jpg?height=81",
       "published_at": "2025-11-12T15:42:07.000Z",
       "summary": "In a letter to Netanyahu, Dermer cited family commitments for his resignation, writing, 'This government will be remembered for the October 7 attack and its handling of the war.' His departure is another sign of the unraveling inner circle around the prime minister as the war ends"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Olympic Committee of Israel halts 2025 awards amid security challenges",
-      "url": "https://www.jpost.com/israel-news/sports/article-873616",
-      "image": null,
-      "published_at": "2025-11-12T15:38:10.000Z",
-      "summary": "The Olympic Committee’s management accepted the security recommendation, marking the first time in recent memory that the titles will not be awarded."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2210,16 +2210,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-6d1b-d0d1-a9bb-ff3b559c0001/36/e1/3f8f7dde451f9426171f633c5d56/674106.jpg?height=81",
       "published_at": "2025-11-10T18:08:34.000Z",
       "summary": "39 lawmakers voted in favor of the measure, while 16 voted against ■ The bill now returns to the Knesset's National Security Committee"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "From Texas to Tel Aviv, invitations go out to Jews fleeing 'Mamdani's New York'",
-      "url": "https://www.haaretz.com/us-news/2025-11-10/ty-article/from-texas-to-tel-aviv-invitations-go-out-to-jews-fleeing-mamdanis-new-york/0000019a-6e00-d0d1-a9bb-ff2b0d220000",
-      "image": "https://img.haarets.co.il/bs/00000199-ef79-d7e9-adfd-ff7f1ff20000/cd/96/bd61bb774ca884a698fa8342847c/468512.jpg?height=81",
-      "published_at": "2025-11-10T18:00:51.000Z",
-      "summary": "In Maryland, a new Jewish federation moved up its launch to capitalize on a threatened – but hardly guaranteed – exodus"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
