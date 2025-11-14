@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-14T10:42:07.089Z",
+  "generated_at": "2025-11-14T11:07:54.798Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Russian drone slams into block of flats in deadly wave of strikes across Kyiv",
+      "url": "https://www.bbc.com/news/articles/cn4jn94gyllo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28c8/live/64b46940-c143-11f0-86a5-23e8532eb2d7.jpg",
+      "published_at": "2025-11-14T11:02:54.000Z",
+      "summary": "Six areas of the capital are hit, and a further attack on a market in the south kills two others."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,26 @@
       "image": null,
       "published_at": "2025-11-14T10:58:53.000Z",
       "summary": "Several cities along the coast experienced heavy rain on Friday morning, from Haifa to Ashkelon, where 61 millimeters fell in just an hour and a half."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Iran accused of seizing Singapore-bound tanker off coast of UAE",
+      "url": "https://www.timesofisrael.com/iran-accused-of-seizing-singapore-bound-tanker-off-coast-of-uae/",
+      "image": null,
+      "published_at": "2025-11-14T10:58:08.000Z",
+      "summary": "British military warns of 'state activity' after ship-tracking data shows Greek-owned, Marshall Islands-flagged vessel Talara suddenly diverted toward Islamic Republic\nThe post Iran accused of seizing Singapore-bound tanker off coast of UAE appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "המשטרה טעתה - והחשוד בניסיון חטיפת הנערות בירושלים שוחרר למעצר בית",
+      "url": "https://www.ynet.co.il/news/article/r16l00dvxwx",
+      "image": null,
+      "published_at": "2025-11-14T10:54:27.000Z",
+      "summary": "הצעיר נעצר בתחילת השבוע בעקבות חשד שניסה לחטוף שתי נערות ולתקוף אותן מינית - אך מסדר הזיהוי זוהם, הוא הופגש בטעות עם אחת המתלוננות - והיא קרסה נפשית. בשל כך ובשל שגיאת מידע שהוצגה לבית המשפט - הוא שוחרר למעצר בית"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -55,11 +85,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "שוחררו החשודים ברצח אחותם: \"חפים מפשע, תגיעו לרוצחים האמיתיים\"",
+      "title": "הרכב והשרשרת שקיבלה הנרצחת מאשקלון שעות לפני הרצח; 4 האחים שנעצרו שוחררו",
       "url": "https://www.ynet.co.il/news/article/skxizovezg",
       "image": null,
       "published_at": "2025-11-14T10:31:45.000Z",
-      "summary": "ארבעת אחיה של תהליל עאמר, שנורתה למוות בכפר קאסם, שוחררו עקב מחסור בראיות נגדם. \"האחים חפים מפשע\", אמרו בני המשפחה. \"אנחנו דורשים מהמשטרה לחשוף מה היא עברה מהרגע שיצאה מהבית - ועד שנרצחה\". המשטרה ממשיכה לחקור כיוונים נוספים"
+      "summary": "ארבעת אחיה של תהליל עאמר, שנורתה למוות בכפר קאסם, שוחררו עקב מחסור בראיות נגדם. \"האחים חפים מפשע\", טענו בני המשפחה. \"דורשים מהמשטרה לחשוף מה היא עברה מהרגע שיצאה מהבית - ועד שנרצחה\". המשטרה ממשיכה לחקור כיוונים נוספים"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -135,7 +165,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "העזתים מזהירים: חמאס גובה עמלות, מחסל מתנגדים - ומתחזק",
+      "title": "גובה עמלות, מחסל ומתעד: חמאס משתלט מחדש על חיי העזתים",
       "url": "https://www.ynet.co.il/news/article/bjiytdve11l",
       "image": null,
       "published_at": "2025-11-14T09:40:35.000Z",
@@ -250,16 +280,6 @@
       "image": null,
       "published_at": "2025-11-14T08:42:04.000Z",
       "summary": "A verdict against the ex-leader, who is accused of crimes against humanity, will be given on Monday. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Four killed in wave of Russian strikes across Kyiv, officials say",
-      "url": "https://www.bbc.com/news/articles/cn4jn94gyllo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/622d/live/e33074c0-c130-11f0-8456-eff94716b162.jpg",
-      "published_at": "2025-11-14T08:41:48.000Z",
-      "summary": "At least 26 others are reported injured in drone and missile strikes in six areas of the capital."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -912,16 +932,6 @@
       "summary": "His children describe him as “a family man who cared for everyone around him” and a “man of the sea.”"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Report: Trump pressing Saudi crown prince to ink deal with Israel following Gaza truce",
-      "url": "https://www.timesofisrael.com/report-trump-pressing-saudi-crown-prince-to-ink-deal-with-israel-following-gaza-truce/",
-      "image": null,
-      "published_at": "2025-11-13T23:54:28.000Z",
-      "summary": "Senior US official tells Axios message to MBS, expected at White House next week, is: 'We did all the things you asked. Now there are things President Trump wants'\nThe post Report: Trump pressing Saudi crown prince to ink deal with Israel following Gaza truce appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -985,7 +995,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israel's violent Jewish settlers are neither marginal and nor a handful",
+      "title": "Israel's violent Jewish settlers are neither marginal nor a handful",
       "url": "https://www.haaretz.com/opinion/editorial/2025-11-14/ty-article-opinion/israels-violent-jewish-settlers-are-neither-marginal-and-nor-a-handful/0000019a-7ed9-d1ab-a3fa-7edf29b10000",
       "image": "https://img.haarets.co.il/bs/0000019a-7498-d1ab-a3fa-7cde8f440000/bf/40/e78ebd4a43dc9d3dde90a9eb8aa7/761088.jpg?height=81",
       "published_at": "2025-11-13T22:51:27.000Z",
@@ -1070,16 +1080,6 @@
       "image": null,
       "published_at": "2025-11-13T22:04:00.000Z",
       "summary": "לדברי גורמים בצה\"ל, פעילות הצבא בדרום סוריה היא יומיומית. הלקח מ-7 באוקטובר, לדבריהם, ברור: \"מי שלא נמצא בעומק – מגיב מאוחר מדי”"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "איתי חזר, ונתניהו התקשר. \"ביקשתי ועדת חקירה ממלכתית. הוא ענה שצריך הסכמה רחבה\"",
-      "url": "https://www.ynet.co.il/news/article/hjqspimgwg",
-      "image": null,
-      "published_at": "2025-11-13T22:01:00.000Z",
-      "summary": "המילים הנוקבות של רובי חן לשר שהגיע להלוויית בנו עדיין מהדהדות, וגם המאבק למען איתי והסירוב לשבת שבעה עד שיוחזר. \"אם המודיעין שקבע מוות כל כך מוצלח, איפה הוא היה ב-7/10?\", מסבירה האם חגית את החלטתה אז, וזו לא השאלה היחידה שנותרה לה. בריאיון מיוחד מהשבעה על הבן הלוחם, מתארים השניים את המקור לכעס על ה"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
