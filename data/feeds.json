@@ -1,6 +1,56 @@
 {
-  "generated_at": "2025-11-14T05:39:40.079Z",
+  "generated_at": "2025-11-14T06:14:47.928Z",
   "items": [
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "'I figured there was an 18 percent chance she'd say yes. Sure enough, she said no'",
+      "url": "https://www.haaretz.com/israel-news/holylandings/2025-11-14/ty-article-magazine/.highlight/i-figured-there-was-an-18-percent-chance-shed-say-yes-sure-enough-she-said-no/0000019a-80d2-db4c-a1be-ecda3d6b0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-80d3-dc33-afdf-efd735950005/c5/de/ad71faac4a7790c1bc45c2d4791c/63722350.JPG?height=81",
+      "published_at": "2025-11-14T06:02:11.000Z",
+      "summary": "This week at Ben-Gurion Airport: A couple who grew up in the same town and reconnected during the pandemic, and a dad who takes himself on a four-day reset in Greece"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "השינויים בתוכנית טראמפ, הדאגה בישראל - והמהלך הרוסי שמעכב את אישורה באו\"ם",
+      "url": "https://www.ynet.co.il/news/article/bycyt4neze",
+      "image": null,
+      "published_at": "2025-11-14T05:59:38.000Z",
+      "summary": "מועצת הביטחון אמורה להצביע על הצעת ארה\"ב שתסדיר את כוח הייצוב בעזה - אך סעיפים על מדינה פלסטינית, שמזכירים במידה רבה את תוכניתו של מקרון, מעלים תהיות בישראל. רוסיה, שמחזיקה בזכות וטו, הציגה הצעה משלה - וארה\"ב זועמת: \"הפסקת האש שברירית, לניסיונות לזרוע מחלוקת יהיו השלכות חמורות\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Epstein emails with author Wolff raise journalism ethics questions: Experts",
+      "url": "https://www.aljazeera.com/news/2025/11/14/epstein-emails-with-author-wolff-raise-journalism-ethics-questions-experts?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-14T05:57:39.000Z",
+      "summary": "While journalists build ties with sources to obtain information, scholars say certain boundaries must be maintained."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "At least 2 dead, 21 missing in landslides in Indonesia’s Java island",
+      "url": "https://www.aljazeera.com/news/2025/11/14/at-least-2-dead-21-missing-in-landslides-in-indonesias-java-island?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-14T05:54:13.000Z",
+      "summary": "A search and rescue operation is underway to look for the missing victims. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "‘Massive enemy attack’: Russia pounds Ukraine’s Kyiv, killing one",
+      "url": "https://www.aljazeera.com/news/2025/11/14/massive-enemy-attack-russia-pounds-ukraines-kyiv-killing-one?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-14T05:32:46.000Z",
+      "summary": "The Ukrainian capital&#039;s Mayor Vitaly Klitschko says a pregnant woman is among several injured and hospitalised. "
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -10,6 +60,16 @@
       "image": null,
       "published_at": "2025-11-14T05:31:14.000Z",
       "summary": "בכניסה למודיעין התהפכה מכונית אחרי שהידרדרה למסילת הרכבת ליד תחנת פאתי מודיעין. הנוסעים נפצעו באורח קל ופונו לקבלת טיפול רפואי. בשל התאונה הופסקה תנועת הרכבות מהעיר לירושלים ולתל אביב"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "South Africa lets 153 Palestinians disembark following 12-hour plane ordeal",
+      "url": "https://www.aljazeera.com/news/2025/11/14/south-africa-lets-153-palestinians-disembark-following-12-hour-plane-ordeal?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-14T05:04:45.000Z",
+      "summary": "Chartered plane carrying group of Palestinian passengers was second to land in South Africa in recent weeks. "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -265,11 +325,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "US proposal at UN for Gaza stabilization force faces pusback from Russia, China and Arabs",
+      "title": "US proposal at UN for Gaza stabilization force faces pushback from Russia, China and Arabs",
       "url": "https://www.timesofisrael.com/us-proposal-at-un-for-gaza-stabilization-force-faces-pusback-from-russia-china-and-arabs/",
       "image": null,
       "published_at": "2025-11-14T01:02:05.000Z",
-      "summary": "US calls on Security Council to back its plan, warns 'attempts to sow discord' will have 'grave, tangible and entirely avoidable consequences for Palestinians'\nThe post US proposal at UN for Gaza stabilization force faces pusback from Russia, China and Arabs appeared first on The Times of Israel.\n"
+      "summary": "US calls on Security Council to back its plan, warns 'attempts to sow discord' will have 'grave, tangible and entirely avoidable consequences for Palestinians'\nThe post US proposal at UN for Gaza stabilization force faces pushback from Russia, China and Arabs appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -479,7 +539,7 @@
       "url": "https://www.ynet.co.il/news/article/hjqspimgwg",
       "image": null,
       "published_at": "2025-11-13T22:01:00.000Z",
-      "summary": "המילים הנוקבות של רובי חן לשר היחיד שהגיע להלוויית בנו עדיין מהדהדות, וגם המאבק למען איתי והסירוב לשבת שבעה עד שיוחזר. \"אם המודיעין שקבע מוות כל כך מוצלח, איפה הוא היה ב-7/10?\", מסבירה האם חגית את החלטתה אז, וזו לא השאלה היחידה שנותרה לה. בריאיון מיוחד מהשבעה על הבן הלוחם, מתארים השניים את המקור לכע"
+      "summary": "המילים הנוקבות של רובי חן לשר שהגיע להלוויית בנו עדיין מהדהדות, וגם המאבק למען איתי והסירוב לשבת שבעה עד שיוחזר. \"אם המודיעין שקבע מוות כל כך מוצלח, איפה הוא היה ב-7/10?\", מסבירה האם חגית את החלטתה אז, וזו לא השאלה היחידה שנותרה לה. בריאיון מיוחד מהשבעה על הבן הלוחם, מתארים השניים את המקור לכעס על ה"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -575,16 +635,6 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "מתקשה להתמודד עם העומס: השיא שנשבר ברכבת ישראל",
-      "url": "https://www.ynet.co.il/news/article/yokra14580297",
-      "image": null,
-      "published_at": "2025-11-13T22:00:00.000Z",
-      "summary": "אם גם אתם מרגישים עומס חריג בחניונים, ברציפים ובקרונות, אתם לא טועים.  למרות התקלות, העיכובים והאיחורים הבלתי פוסקים, לאחרונה נשבר שיא של כל הזמנים בנסיעה ברכבת. הפקקים בכבישים כנראה החזירו את הנוסעים לפסים, וברכבת מבטיחים: שיפור בשירות - כבר בחודשים הקרובים"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "רצח הנערה שאהבה את \"הארי פוטר\" הותיר את ג'יי קיי רולינג ללא מילים. עכשיו אמה מדברת",
       "url": "https://www.ynet.co.il/news/article/yokra14574224",
       "image": null,
@@ -600,6 +650,16 @@
       "image": null,
       "published_at": "2025-11-13T22:00:00.000Z",
       "summary": "בישראל הופתעו לרעה מקבלת הפנים ההיסטורית לה זכה א-שרע בבית הלבן, וחוששים שוושינגטון תכפה ויתור על הנקודה האסטרטגית. צבא לבנון מתקשה לפרז את חיזבאללה, ובצה\"ל משלימים היערכות למבצע נגד הארגון. וגם: הנשק המתקדם שארדואן עלול להעביר לסוריה - ופעילי רדואן שמזוהים מדרום לליטני"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מתקשה להתמודד עם העומס: השיא שנשבר ברכבת ישראל",
+      "url": "https://www.ynet.co.il/news/article/yokra14580297",
+      "image": null,
+      "published_at": "2025-11-13T22:00:00.000Z",
+      "summary": "אם גם אתם מרגישים עומס חריג בחניונים, ברציפים ובקרונות, אתם לא טועים.  למרות התקלות, העיכובים והאיחורים הבלתי פוסקים, לאחרונה נשבר שיא של כל הזמנים בנסיעה ברכבת. הפקקים בכבישים כנראה החזירו את הנוסעים לפסים, וברכבת מבטיחים: שיפור בשירות - כבר בחודשים הקרובים"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -700,16 +760,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-7ef0-d6d8-af9b-7eff20200001/41/14/b7d2d56a47d6b077119a851cc79f/441261.jpg?height=81",
       "published_at": "2025-11-13T21:13:07.000Z",
       "summary": "In a notable shift, the U.S. has revised its UN Security Council resolution, the third draft submitted to date, to include mention of a pathway to Palestinian statehood. The resolution reflects ongoing efforts to secure international consensus for Trump's peace initiatives in Gaza"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "דיווח: חשש בפנטגון מעסקת מכירת מטוסי ה-F-35 לסעודיה",
-      "url": "https://www.ynet.co.il/news/article/s1wpv6qgzx",
-      "image": null,
-      "published_at": "2025-11-13T21:12:13.000Z",
-      "summary": "לפי ניו יורק טיימס, בפנטגון מודאגים ממכירת מטוסי הקרב המתקדמים לסעודיה - שעשויה לשנות את מאזן הכוחות במזרח התיכון ולשים סוף ליתרון האיכותי של ישראל. הסיבה: החשש מהיריבה סין, שעלולה לרגל ולעשות שימוש בטכנולוגיות של ה-F-35 לאור קשריה עם סעודיה. בשבוע הבא: בן סלמאן יפגוש את טראמפ"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -929,7 +979,7 @@
       "url": "https://www.timesofisrael.com/the-reel-schmooze-natalie-portmans-arco-an-art-film-for-kids/",
       "image": null,
       "published_at": "2025-11-13T18:42:45.000Z",
-      "summary": "ToI's film reviewer Jordan Hoffman weighs in on the new space-age kid's film now out in cinemas, and takes a new look at 2024's 'Thelma' starring 96-year-old June Squibb\nThe post The Reel Schmooze: Natalie Portman&#8217;s &#8216;Arco&#8217; &#8211; An art film for kids appeared first on The Times of"
+      "summary": "ToI's film reviewer Jordan Hoffman weighs in on the new space-age kids' film now out in cinemas, and takes a new look at 2024's 'Thelma' starring 96-year-old June Squibb\nThe post The Reel Schmooze: Natalie Portman&#8217;s &#8216;Arco&#8217; &#8211; An art film for kids appeared first on The Times of"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -972,16 +1022,6 @@
       "summary": "Africa CDC recorded about 300,000 confirmed and suspected cases of cholera so far in 2025, a rise over last year."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Should the US fund health insurance or leave it to the market?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2025/11/13/should-the-us-fund-health-insurance-or-leave-it-to-the-market?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-13T17:25:58.000Z",
-      "summary": "Health insurance has once again become a battleground in US politics."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1012,16 +1052,6 @@
       "summary": "The solidarity harvest was initiated by NGOs Rabbis for Human Rights and Peace Now, shortly after an attack on Palestinians and Israelis alike harvesting olives near the village of Burin."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Ireland vs Portugal 2-0: World Cup 2026 qualifier – as it happened",
-      "url": "https://www.aljazeera.com/sports/liveblog/2025/11/13/live-ireland-vs-portugal-world-cup-2026-qualifier?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-13T17:00:00.000Z",
-      "summary": "All the updates as Ireland beat Portugal in Dublin and Ronaldo was given his marching orders for elbow on Dara O&#039;Shea."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1032,16 +1062,6 @@
       "summary": "Israeli soldier Yuval Fisher endured severe psychological trauma during his military service, including surviving a near-fatal rocket explosion. Despite his struggles, he faced denial of mental health support from his military superiors"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Canada moves to rebuild trade ties with India after years of tension",
-      "url": "https://www.aljazeera.com/news/2025/11/13/canada-moves-to-rebuild-trade-ties-with-india-after-years-of-tension?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-13T16:48:20.000Z",
-      "summary": "The Canadian trade minister, on a visit to India, says Ottawa wants to attract more investment from New Delhi."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1050,16 +1070,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4861/live/7fbb9a80-c060-11f0-bdb0-99c97c554d8b.jpg",
       "published_at": "2025-11-13T16:43:21.000Z",
       "summary": "Bol Mel, who is sanctioned by the US for alleged corruption, had been tipped as Kiir's successor."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Journalist Sami Hamdi arrives in London after 2 weeks in ICE detention",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/13/journalist-sami-hamdi-arrives-in-london-after-2-weeks-in-ice-detention?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-13T16:42:14.000Z",
-      "summary": "British Muslim journalist and political commentator Sami Hamdi has arrived in London after being held by ICE."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2260,16 +2270,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-7317-d4d2-a99b-73170db10000/78/98/61027bd04fd1a43f3c0f5c5c8e2f/591069.jpg?height=81",
       "published_at": "2025-11-11T13:39:52.000Z",
       "summary": "Over the years, Israeli embassies and missions have been targeted by terror groups acting on Iranian orders. During the Gaza and Iran war, and especially since the Israel-Iran war in June, Israel has stepped up preparations against Iranian-directed attacks on its diplomats worldwide"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Justice Ministry legal adviser hid personal ties to justice minister during council appointment",
-      "url": "https://www.haaretz.com/israel-news/2025-11-11/ty-article/.premium/justice-ministry-legal-adviser-hid-ties-to-justice-minister-during-council-appointment/0000019a-72d1-db1e-a1df-f7f3e70b0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-7306-d699-adfa-fb070f960001/3c/1c/e1fe616f41e19f954ffed6d03b3e/613329.jpg?height=81",
-      "published_at": "2025-11-11T13:26:46.000Z",
-      "summary": "On Monday, Haaretz revealed that the Legal Adviser Yael Kotick's husband is a childhood friend of Justice Minister Yariv Levin. Kotick was required to any disclose personal with government ministers in an affidavit ahead of her appointment to the Cable and Satellite Council last August – but didn't"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
