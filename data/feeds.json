@@ -1,13 +1,63 @@
 {
-  "generated_at": "2025-11-14T11:07:54.798Z",
+  "generated_at": "2025-11-14T11:32:22.569Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Ron Dermer steps out of Israel's power center, leaving a void in Jerusalem's US diplomacy",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-873817",
+      "image": null,
+      "published_at": "2025-11-14T13:19:52.000Z",
+      "summary": "NATIONAL AFFAIRS: After years as Netanyahu’s most trusted adviser, the man who bridged Jerusalem and Washington leaves gov’t, taking with him a legacy of influence, division, and results."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Security forces block left-wing activists' entry into West Bank for Palestinian olive harvest",
+      "url": "https://www.jpost.com/israel-news/article-873870",
+      "image": null,
+      "published_at": "2025-11-14T13:12:16.000Z",
+      "summary": "In a brief but disruptive demonstration, the protesters exited the buses and blocked the main road through the Shomron Junction, creating a safety hazard by impeding traffic."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "UK judge finds BHP Group liable in Brazil’s worst environmental disaster",
+      "url": "https://www.aljazeera.com/news/2025/11/14/uk-judge-finds-bhp-group-liable-in-brazils-worst-environmental-disaster?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-14T11:18:56.000Z",
+      "summary": "A dam collapse in 2015 unleashed tonnes of toxic waste into a major river, killing 19 and devastating villages downstream."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Amid settler attacks, police block left-wing activists from West Bank olive harvest",
+      "url": "https://www.timesofisrael.com/amid-settler-attacks-police-block-left-wing-activists-from-west-bank-olive-harvest/",
+      "image": null,
+      "published_at": "2025-11-14T11:09:56.000Z",
+      "summary": "After area around the Palestinian village of Burin declared a closed military zone, hundreds of activists stage impromptu protest in the road against unchecked settler violence\nThe post Amid settler attacks, police block left-wing activists from West Bank olive harvest appeared first on The Times of"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump, Congress and the Epstein files: What happens next?",
+      "url": "https://www.aljazeera.com/news/2025/11/14/trump-congress-and-the-epstein-files-what-happens-next?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-14T11:07:11.000Z",
+      "summary": "House advances bill to release Jeffrey Epstein files amid Republican resistance and Trump&#039;s opposition to disclosure.\n"
+    },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
       "title": "Russian drone slams into block of flats in deadly wave of strikes across Kyiv",
       "url": "https://www.bbc.com/news/articles/cn4jn94gyllo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28c8/live/64b46940-c143-11f0-86a5-23e8532eb2d7.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5536/live/5af93eb0-c14a-11f0-86a5-23e8532eb2d7.jpg",
       "published_at": "2025-11-14T11:02:54.000Z",
       "summary": "Six areas of the capital are hit, and a further attack on a market in the south kills two others."
     },
@@ -50,6 +100,26 @@
       "image": null,
       "published_at": "2025-11-14T10:53:58.000Z",
       "summary": "The suspect was taken in for questioning at the Lev HaBira police station, and will be brought today before the court for an extension of his detention."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Amputees from Israel’s Gaza war use homemade prosthetics to re-enter life",
+      "url": "https://www.aljazeera.com/news/2025/11/14/amputees-from-israels-gaza-war-use-homemade-prosthetics-to-re-enter-life?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-14T10:52:21.000Z",
+      "summary": "The besieged Palestinian enclave has the world&#039;s highest number of child amputees per capita."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Italian prosecutors investigate Bosnian war ‘sniper safaris’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/14/italian-prosecutors-investigate-bosnian-war-sniper?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-14T10:47:07.000Z",
+      "summary": "Prosecutors in Italy are examining claims that Italians travelled to Bosnia during the war to shoot at civilians."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -100,6 +170,16 @@
       "image": null,
       "published_at": "2025-11-14T10:25:56.000Z",
       "summary": "A spokesperson for Israir confirmed that the company submitted a request to the Shin Bet several weeks ago to renew the Tel Aviv–Morocco route."
+    },
+    {
+      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
+      "source": "Bellingcat",
+      "topic": "OSINT",
+      "title": "Building on Ruins: The Russification of Mariupol, One Apartment Block at a Time",
+      "url": "https://www.bellingcat.com/uncategorized/2025/11/14/building-on-ruins-the-russification-of-mariupol-one-apartment-block-at-a-time/",
+      "image": null,
+      "published_at": "2025-11-14T10:20:39.000Z",
+      "summary": "× “They Are Building Houses on Bones” It’s the second time Moreva has lost her home. She fled to Mariupol from Makiivka, an industrial city near Donetsk, after Russia occupied Donbas in 2014. The 57-year-old rebuilt her life in the port city, working as a professor in Mariupol State University’s eco"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -405,11 +485,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "תקרית חריגה בים: חשש שמכלית נפט נחטפה לאיראן",
+      "title": "תקרית חריגה בים: איראן חטפה ספינה",
       "url": "https://www.ynet.co.il/news/article/bjy11yiegbe",
       "image": null,
       "published_at": "2025-11-14T07:28:53.000Z",
-      "summary": "זמן קצר אחרי שדיווחה על 3 ספינות קטנות שהתקרבו אליה סמוך לאיחוד האמירויות, מכלית ששטה תחת דגל של איי מרשל ביצעה פנייה מפתיעה בים - ועושה דרכה כעת אל המים הטריטוריאליים של איראן"
+      "summary": "זמן קצר אחרי שדיווחה על 3 ספינות קטנות שהתקרבו אליה סמוך לאיחוד האמירויות, מכלית ששטה תחת דגל של איי מרשל והובילה גז עתיר גופרית ביצעה פנייה מפתיעה בים - לכיוון המים הטריטוריאליים של איראן"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -515,7 +595,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Russian attacks on Ukraine kill 4 in Kyiv, 2 in Chornomorsk",
+      "title": "LIVE: Russian attacks on Ukraine kill 5 in Kyiv, 2 in Chornomorsk",
       "url": "https://www.aljazeera.com/news/liveblog/2025/11/14/live-ukraines-capital-kyiv-comes-under-deadly-russian-attack?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-14T06:37:26.000Z",
@@ -615,7 +695,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "‘Massive enemy attack’: Russia pounds Ukraine’s Kyiv, killing four",
+      "title": "‘Massive enemy attack’: Russia pounds Ukraine’s Kyiv, killing five",
       "url": "https://www.aljazeera.com/news/2025/11/14/massive-enemy-attack-russia-pounds-ukraines-kyiv-killing-one?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-14T05:32:46.000Z",
@@ -882,26 +962,6 @@
       "summary": "For the first time in the history of the Zionist movement, a faction aligned with hard-right Christians has gained a foothold in the World Zionist Congress. It's all thanks to Israel's own messianic Minister Bezalel Smotrich"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Russia-Ukraine war: List of key events, day 1,359",
-      "url": "https://www.aljazeera.com/news/2025/11/14/russia-ukraine-war-list-of-key-events-day-1359?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-14T01:02:43.000Z",
-      "summary": "Here are the key events from day 1,359 of Russia’s war on Ukraine."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "US proposal at UN for Gaza stabilization force faces pushback from Russia, China and Arabs",
-      "url": "https://www.timesofisrael.com/us-proposal-at-un-for-gaza-stabilization-force-faces-pusback-from-russia-china-and-arabs/",
-      "image": null,
-      "published_at": "2025-11-14T01:02:05.000Z",
-      "summary": "US calls on Security Council to back its plan, warns 'attempts to sow discord' will have 'grave, tangible and entirely avoidable consequences for Palestinians'\nThe post US proposal at UN for Gaza stabilization force faces pushback from Russia, China and Arabs appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -932,16 +992,6 @@
       "summary": "His children describe him as “a family man who cared for everyone around him” and a “man of the sea.”"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump administration joins lawsuit against California’s redistricting maps",
-      "url": "https://www.aljazeera.com/news/2025/11/13/trump-administration-joins-lawsuit-against-californias-redistricting-maps?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-13T23:47:37.000Z",
-      "summary": "Voters&#039; approval of Proposition 50 means Democrats might win up to five additional seats in the House in the midterms."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -960,16 +1010,6 @@
       "image": null,
       "published_at": "2025-11-13T23:17:16.000Z",
       "summary": "גופתו של הגבר, עובד זר, אותרה בשיחים בגן ציבורי בשכונת קריית שלום. התושבים הזדעזעו, המשטרה פתחה בסריקות ועצרה חשוד"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "BBC apologises to Trump over documentary, rejects defamation claim",
-      "url": "https://www.aljazeera.com/economy/2025/11/13/bbc-apologises-to-trump-over-documentary-rejects-defamation-claim?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-13T23:06:31.000Z",
-      "summary": "In a letter, BBC said it had no plans to rebroadcast the documentary that was the basis of Trump&#039;s defamation claim."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1050,16 +1090,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-7f1f-d326-a3ff-ff1f33190002/45/a7/7070696f4f19b6fe5800cf6fc513/154024.jpg?height=81",
       "published_at": "2025-11-13T22:12:05.000Z",
       "summary": "According to police sources familiar with the case, Chief Superintendent Meni Benjamin, head of the Lahav 433 anti-corruption and serious crime unit, is suspected of intervening in an investigation and making decisions to benefit a person close to him"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Ronaldo sent off as Ireland stun Portugal to keep World Cup hopes alive",
-      "url": "https://www.aljazeera.com/sports/2025/11/13/ronaldo-sent-off-as-ireland-stun-portugal-to-keep-world-cup-hopes-alive?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-13T22:08:29.000Z",
-      "summary": "Troy Parrott scores twice in first half to keep Ireland&#039;s hopes of reaching next tournament alive with a famous victory."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1522,16 +1552,6 @@
       "summary": "Attorney-General Gali Baharav-Miara formally told the High Court there are “no grounds for judicial intervention” in David Zini's appointment as Shin Bet director, citing a lawful process."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "WATCH: IDF ramps up strikes on Hezbollah, targeting weapons depot and underground site",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-873690",
-      "image": null,
-      "published_at": "2025-11-13T10:11:05.000Z",
-      "summary": "The military said the strikes, guided by intelligence, targeted a weapons storage facility and an underground site used by the group.  "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1560,16 +1580,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-7c72-dc91-a39e-7c735c800002/37/fb/54073b114b3e96555ae85849139b/178661.jpg?height=81",
       "published_at": "2025-11-13T09:24:05.000Z",
       "summary": "The ruling could be used as a precedent to expel other Bedouin villages from lands they have lived on since before the establishment of Israel in 1948, as it was written that turning a blind eye to the village staying on state lands doesn't grant the residents property rights"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel Prison Service arrests sex offender 'performing indecent acts' in public playground",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-873693",
-      "image": null,
-      "published_at": "2025-11-13T09:10:04.000Z",
-      "summary": "Officers from the “Tzur” enforcement and monitoring unit for sex offenders apprehended a sex offender at a playground in the south of the country."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2310,16 +2320,6 @@
       "image": null,
       "published_at": "2025-09-08T16:10:26.000Z",
       "summary": "Four masked men in police tactical vests surround a young scooter rider, cuffing his hands behind his back. One person, whose face is fully obscured with a cap, sunglasses and a balaclava, is heard on eyewitness video telling the scooter rider: “You came into this country as a J1, as an exchange stu"
-    },
-    {
-      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
-      "source": "Bellingcat",
-      "topic": "OSINT",
-      "title": "A Guide To Monitoring Conflict Amidst a Sea of Misinformation",
-      "url": "https://www.bellingcat.com/resources/how-tos/2025/09/01/a-guide-to-monitoring-conflict-amidst-a-sea-of-misinformation/",
-      "image": null,
-      "published_at": "2025-09-01T09:44:41.000Z",
-      "summary": "Join Bellingcat’s WhatsApp Channel for the latest news and resources from us. How does one monitor a conflict zone on the brink of civil war, especially in a region which is difficult to access, experiences frequent internet shutdowns and where misinformation is common? In this guide, we outline the"
     },
     {
       "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
