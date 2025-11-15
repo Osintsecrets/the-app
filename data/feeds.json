@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-11-15T15:33:28.996Z",
+  "generated_at": "2025-11-15T16:08:49.096Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump targets longtime MAGA ally Marjorie Taylor Greene",
+      "url": "https://www.bbc.com/news/articles/c9wv4dx05q5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91d8/live/51472cb0-c1d1-11f0-a9fe-75bc5051575c.jpg",
+      "published_at": "2025-11-15T15:46:15.000Z",
+      "summary": "The Georgia congresswoman has criticised Trump's focus on foreign policy and handling of Jeffrey Epstein files. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Sudan’s army captures two areas in North Kordofan as RSF burns more bodies",
+      "url": "https://www.aljazeera.com/news/2025/11/15/sudans-army-captures-two-areas-in-north-kordofan-as-rsf-burns-more-bodies?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-15T15:45:50.000Z",
+      "summary": "RSF is burning and burying bodies near a university, mosque, camp for the displaced people, and hospital in el-Fasher."
+    },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
@@ -677,7 +697,7 @@
       "topic": "News",
       "title": "Trump envoy Witkoff reportedly planning meeting with top Hamas official on Gaza cease-fire",
       "url": "https://www.haaretz.com/israel-news/2025-11-15/ty-article-live/trump-envoy-witkoff-reportedly-planning-meeting-with-top-hamas-official-on-gaza-cease-fire/0000019a-85bc-d3ce-a7de-f5bd83780000",
-      "image": "https://img.haarets.co.il/bs/0000019a-85c0-dc33-afdf-efc7026b0000/e0/a8/c4285a7945459dff810186277947/793030.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/00000199-f151-d54a-abfb-f5d176300001/23/0f/42cc865448328d23b578c2275fa5/684559.jfif?height=81",
       "published_at": "2025-11-15T04:27:12.000Z",
       "summary": ""
     },
@@ -690,16 +710,6 @@
       "image": null,
       "published_at": "2025-11-15T04:23:03.000Z",
       "summary": "Congresswoman Greene claims Trump making an &#039;example&#039; of her to scare Republicans before vote on Epstein files."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump targets longtime MAGA ally Marjorie Taylor Greene",
-      "url": "https://www.bbc.com/news/articles/c9wv4dx05q5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91d8/live/51472cb0-c1d1-11f0-a9fe-75bc5051575c.jpg",
-      "published_at": "2025-11-15T03:50:59.000Z",
-      "summary": "The Georgia congresswoman has criticised Trump's focus on foreign policy and handling of Jeffrey Epstein files. "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -850,16 +860,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0050/live/28239a20-c17d-11f0-8456-eff94716b162.jpg",
       "published_at": "2025-11-15T01:06:21.000Z",
       "summary": "Ground-breaking research has made some fascinating discoveries on the dictator, from his ancestry to possible neurological disorders."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US bankruptcy court to approve deal with Purdue Pharma and Sackler family",
-      "url": "https://www.aljazeera.com/news/2025/11/15/us-bankruptcy-court-to-approve-deal-with-purdue-pharma-and-sackler-family?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-15T00:48:09.000Z",
-      "summary": "The deal is expected to be one of the largest settlements against an opioid manufacturer, with funds for victims."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1457,7 +1457,7 @@
       "topic": "News",
       "title": "Trump envoy Witkoff reportedly planning meeting with top Hamas official on Gaza cease-fire",
       "url": "https://www.haaretz.com/israel-news/2025-11-14/ty-article-live/body-of-slain-israeli-hostage-meni-godard-returned-from-gaza-strip/0000019a-802d-dc33-afdf-ef6fc9ff0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-85c0-dc33-afdf-efc7026b0000/e0/a8/c4285a7945459dff810186277947/793030.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/00000199-f151-d54a-abfb-f5d176300001/23/0f/42cc865448328d23b578c2275fa5/684559.jfif?height=81",
       "published_at": "2025-11-14T02:34:15.000Z",
       "summary": ""
     },
