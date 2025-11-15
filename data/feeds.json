@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-14T23:34:04.194Z",
+  "generated_at": "2025-11-15T00:42:09.208Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -10,6 +10,56 @@
       "image": null,
       "published_at": "2025-11-15T00:45:48.000Z",
       "summary": "Police opened an investigation into the incident and began searching for suspects, noting that the background of the incident is likely criminal."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "A woman’s search for a lost childhood in South Korea",
+      "url": "https://www.aljazeera.com/features/2025/11/15/a-womans-search-for-a-lost-childhood-in-south-korea?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-15T00:26:27.000Z",
+      "summary": "&#039;My identity, my immediate family, my extended family, everything was erased,&#039; says adoptee Ju-rye Hwang."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "At 16, I was experimented on by the CIA and now I'm suing",
+      "url": "https://www.bbc.com/news/articles/cvgdngkxedzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d16/live/ad3f3f40-ba87-11f0-b2a1-6f537f66f9aa.jpg",
+      "published_at": "2025-11-15T00:14:49.000Z",
+      "summary": "Lana Ponting is part of a class-action lawsuit against the Canadian government for its alleged role in the MK-Ultra experiments. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia-Ukraine war: List of key events, day 1,360",
+      "url": "https://www.aljazeera.com/news/2025/11/15/russia-ukraine-war-list-of-key-events-day-1360?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-15T00:12:10.000Z",
+      "summary": "Here are the key events from day 1,360 of Russia’s war on Ukraine."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Eduardo Bolsonaro, son of Brazil’s ex-president, to face obstruction charge",
+      "url": "https://www.aljazeera.com/news/2025/11/15/eduardo-bolsonaro-son-of-brazils-ex-president-to-face-obstruction-charge?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-15T00:05:36.000Z",
+      "summary": "A court will weigh whether Eduardo Bolsonaro&#039;s lobbying of US President Donald Trump amounted to illegal interference."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Pakistan's army has always been influential - now its chief has new powers",
+      "url": "https://www.bbc.com/news/articles/c9d6w1glz3qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1b3/live/af549250-c138-11f0-8717-7b6a6b2fefad.jpg",
+      "published_at": "2025-11-14T23:49:17.000Z",
+      "summary": "Critics say the move, which entrenches the military's hold on power, paves the way toward autocracy."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -110,6 +160,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd4/live/7c0864c0-c198-11f0-b1da-c7b043da88d2.jpg",
       "published_at": "2025-11-14T22:01:26.000Z",
       "summary": "In October more than 260 settler attacks resulted in Palestinians casualties or property damage according to the UN."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "The Aussie giving War & Peace a 'bogan' remake",
+      "url": "https://www.bbc.com/news/articles/cx2lkjd2kmdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/397b/live/29b928b0-c145-11f0-8456-eff94716b162.jpg",
+      "published_at": "2025-11-14T22:00:42.000Z",
+      "summary": "Ander Louis has written a new version of Leo Tolstoy's classic Russian novel in Australian slang."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -692,26 +752,6 @@
       "summary": "The bill cites Abraham's biblical purchase of the land as proof of Jewish ownership, and suggests that local municipalities be granted authority over the site. "
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israel linked to “forced migration” with South Africa flights",
-      "url": "https://www.aljazeera.com/video/quotable/2025/11/14/israel-linked-to-forced-migration-with-south-africa-flights?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-14T14:27:10.000Z",
-      "summary": "Flights that take Palestinians out of Gaza are raising concerns about forced displacement."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "China-Thailand relationship has come “full circle”",
-      "url": "https://www.aljazeera.com/video/quotable/2025/11/14/china-thailand-relationship-has-come-full?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-14T14:24:15.000Z",
-      "summary": "Kasit Piromya on the China-Thailand relationship, and how it could play a key role in fostering regional peace."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -720,16 +760,6 @@
       "image": null,
       "published_at": "2025-11-14T14:21:37.000Z",
       "summary": "Athens to create 'Achilles Shield' multi-layered air defense system, wants to purchase weaponry from Israel for $750 million\nThe post Greece in talks to buy anti-aircraft, artillery systems from Israel appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Why did US let Dodik off the hook and hand Europe’s ailing heart to Russia?",
-      "url": "https://www.aljazeera.com/opinions/2025/11/14/why-did-us-let-dodik-off-the-hook-and-hand-europes-ailing-heart-to-russia?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-14T14:21:36.000Z",
-      "summary": "The US decision to lift sanctions on the Bosnian Serb leader effectively enabled Russia to annex half of Bosnia."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1302,16 +1332,6 @@
       "summary": "His children describe him as “a family man who cared for everyone around him” and a “man of the sea.”"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "France remembers Bataclan attacks but knows enemy has not gone away",
-      "url": "https://www.bbc.com/news/articles/c6291204278o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6326/live/138d3ed0-c0b6-11f0-8669-5560f5c90fbe.jpg",
-      "published_at": "2025-11-13T23:35:32.000Z",
-      "summary": "As France marks 10 years since the Paris attacks, an ex-girlfriend of a jihadist survivor is arrested for an alleged plot of her own."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1552,16 +1572,6 @@
       "summary": "Residents of the Gaza border region reportedly heard explosions from interceptions. "
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Anthony Zurcher: Democrats left bruised after historic shutdown yields little",
-      "url": "https://www.bbc.com/news/articles/cz917nvj7qeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac8/live/f61eaf60-c078-11f0-ae46-bd64331f0fd4.jpg",
-      "published_at": "2025-11-13T16:02:41.000Z",
-      "summary": "Trump emerges from the shutdown having made little in the way of substantive concessions to Democrats in Congress."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1770,16 +1780,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-7a80-dc91-a39e-7ae33d440001/e3/a5/75bfeba64a6a9162794573d56083/765986.jpg?height=81",
       "published_at": "2025-11-13T02:42:35.000Z",
       "summary": ""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Thirteen hours by touch – inside one of the world's longest exam days",
-      "url": "https://www.bbc.com/news/articles/c9wv22qjq8eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4b2/live/827a5fb0-bf8c-11f0-af65-43e046963d80.jpg",
-      "published_at": "2025-11-12T23:01:22.000Z",
-      "summary": "South Korea's national college entry exam is notoriously hard - but blind students face unique challenges."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
