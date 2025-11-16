@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-16T18:43:08.106Z",
+  "generated_at": "2025-11-16T19:01:17.717Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Netanyahu vows to take action against extremist settlers, directs warning at ministers",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-874098",
+      "image": null,
+      "published_at": "2025-11-16T20:57:29.000Z",
+      "summary": "Netanyahu addressed the recent spike in West Bank Jewish settler violence, stressing the large majority of settlers are law-abiding and loyal to the state."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -32,6 +42,26 @@
       "summary": "South Africa initially refused the Gazans' entry because they were unable to indicate the duration of their stay or the address of their accommodation."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אחרי הדוח על הכשל בתפיסת הביטחון: המבקר נפגש עם נתניהו",
+      "url": "https://www.ynet.co.il/news/article/ryydi5wx11e",
+      "image": null,
+      "published_at": "2025-11-16T18:45:55.000Z",
+      "summary": "אנגלמן נועד עם ראש הממשלה בירושלים, 5 ימים לאחר שהדוח קבע: \"נתניהו לא מימש אחריותו בהכנת תפיסת ביטחון לאומי\". בשבועות הקרובים תתקיים פגישה נוספת: \"תכלול גם את מנהלי החטיבות הרלוונטיים, כחלק מהעמקת הבדיקה סביב אירועי 7/10\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Are Israeli-backed human trafficking networks forcing people out of Gaza?",
+      "url": "https://www.aljazeera.com/video/inside-story/2025/11/16/are-israeli-backed-human-trafficking-networks-forcing-people-out-of-gaza?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-16T18:30:36.000Z",
+      "summary": "Rights activists warn of possible ethnic cleansing of Palestinians."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -40,6 +70,16 @@
       "image": null,
       "published_at": "2025-11-16T18:23:09.000Z",
       "summary": "Three Palestinians were reportedly injured during the IDF's operation in al-Fara, according to the Palestinian Authority-run WAFA news outlet."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israel pushes US to close door on Palestinian statehood before UNSC vote",
+      "url": "https://www.aljazeera.com/news/2025/11/16/israel-pushes-us-to-close-door-on-palestinian-statehood-before-un-vote?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-16T18:21:54.000Z",
+      "summary": "Hardliners furious after US amends resolution to secure support of countries participating in Gaza stabilisation force."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1032,16 +1072,6 @@
       "summary": "The case has quickly become a proxy battle over the balance of power between the executive, legal, and judicial institutions."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ברקת מגן על עסקת ה-F35: \"הזוי לחשוב שנאבד את היתרון שלנו, תנו קצת קרדיט\"",
-      "url": "https://www.ynet.co.il/news/article/bk6fjzplwe",
-      "image": null,
-      "published_at": "2025-11-16T10:22:52.000Z",
-      "summary": "מומחה למדינות המפרץ הערבי הזהיר בריאיון לאולפן ynet כי בריאד שואפים \"להיות בעל הבית\" במזרח התיכון, אך השר ניר ברקת הבהיר: \"נאבד את היתרון היחסי? תנו קצת קרדיט\". הוא קרא לפירוק הרשות הפלסטינית, וטען: \"אני יודע איך לדבר עם השייחים. הם רוצים לחזור לטרום הסכמי אוסלו\""
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1050,16 +1080,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6627/live/34b46580-c2cc-11f0-9d55-433111332088.jpg",
       "published_at": "2025-11-16T10:22:45.000Z",
       "summary": "Kmart and Target issued a recall for the products, which were found to have traces of asbestos in some samples."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "What one month of ceasefire in Gaza looks like",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2025/11/16/what-one-month-of-ceasefire-in-gaza-looks-like?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-16T10:12:56.000Z",
-      "summary": "The ceasefire was meant to stop Israel’s war on Gaza. But it has only changed its pace."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1080,16 +1100,6 @@
       "image": null,
       "published_at": "2025-11-16T10:05:50.000Z",
       "summary": "Additionally, on Saturday night, Border police and IDF soldiers arrested two suspected terrorists in Kalkilya in an undercover operation."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US lawmaker Marjorie Taylor Greene blames Trump for threats after split",
-      "url": "https://www.aljazeera.com/news/2025/11/16/us-lawmaker-marjorie-taylor-greene-blames-trump-for-threats-after-split?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-16T10:04:29.000Z",
-      "summary": "The former Trump ally accuses him of trying to intimidate Republicans before US House vote next week over Epstein files."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1250,16 +1260,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17cb/live/5d3ccef0-c26f-11f0-ae46-bd64331f0fd4.jpg",
       "published_at": "2025-11-16T03:14:59.000Z",
       "summary": "The protests came weeks after Carlos Manzo, mayor of Uruapan, was killed."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Gilad Hazan’s fusion of rock, house, and arabic music captivates at Oud Festival",
-      "url": "https://www.jpost.com/israel-news/culture/article-873928",
-      "image": null,
-      "published_at": "2025-11-16T03:14:20.000Z",
-      "summary": "Gilad Hazan wowed the audience at the Jerusalem Oud Festival with his genre-defying performance, blending Arabic music with house beats, rock, and jazz."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
