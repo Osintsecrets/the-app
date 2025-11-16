@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-16T13:19:17.202Z",
+  "generated_at": "2025-11-16T13:37:36.673Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF admits it accidentally fired 'warning shots' at misidentified UNIFIL soldiers in south Lebanon",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-874056",
+      "image": null,
+      "published_at": "2025-11-16T15:23:51.000Z",
+      "summary": "The UNIFIL soldiers were mistakenly identified as suspicious individuals due to poor weather conditions."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -32,10 +42,70 @@
       "summary": "\"Peacekeepers asked for the IDF to stop firing through UNIFIL’s liaison channels,\" UNIFIL stated."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "The US will help South Korea build nuclear 'attack' submarines - here's what that means",
+      "url": "https://www.bbc.com/news/articles/c620qppzlgwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c064/live/20a4dba0-c2f0-11f0-a24d-474f58ed5b5e.jpg",
+      "published_at": "2025-11-16T13:33:18.000Z",
+      "summary": "The agreement comes amid a period of growing geopolitical tensions on the Korean Peninsula."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הסנגור ביקש לקצר את העונש. סבתא של ליטל יעל פרצה בבכי: \"גיהינום ממושך\"",
+      "url": "https://www.ynet.co.il/news/article/r1eoi4wlwl",
+      "image": null,
+      "published_at": "2025-11-16T13:21:00.000Z",
+      "summary": "אדוארד קצ'ורה, שקבר את הנערה ליטל יעל מלניק, הובא לבית המשפט לשלב הטיעונים לעונש, לאחר שזוכה מרצח. הפרקליטות דרשה מאסר ארוך -  אך הסנגור התנגד וקרא לשחררו ממעצר. הסבתא לודמילה העידה בדמעות: \"ליבי מתפוצץ, היא רצתה לחיות והוא ניצל אותה. אני רוצה צדק לנכדה שלי\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הלב והאבן: על צוואת גולדין, לקח הרמטכ\"ל והמזכרת ממנהרת סינוואר",
+      "url": "https://www.ynet.co.il/news/article/yokra14579804",
+      "image": null,
+      "published_at": "2025-11-16T13:18:18.000Z",
+      "summary": "באוהל האבלים: המזכרת מאוגדה 98, המסר מהרמטכ\"ל והתמרור שמציבה המשפחה"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "What’s Grokipedia, Musk’s AI-powered rival to Wikipedia?",
+      "url": "https://www.aljazeera.com/news/2025/11/16/whats-grokipedia-musks-ai-powered-rival-to-wikipedia?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-16T13:10:15.000Z",
+      "summary": "Grokipedia copies Wikipedia’s format, but loose fact-checking and weak citations leave many of its claims unreliable."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Chile votes for new president in communist vs far-right contest",
+      "url": "https://www.aljazeera.com/news/2025/11/16/chile-votes-for-new-president-in-communist-vs-far-right-contest?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-16T13:06:24.000Z",
+      "summary": "Elections pit governing leftist coalition against conservative challenger and will also redefine country&#039;s legislature."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Video: Gen Z protests in Mexico fuelled by mayor’s murder",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/16/video-gen-z-protests-in-mexico-fuelled-by-mayors-murder?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-16T13:03:31.000Z",
+      "summary": "Gen Z protesters in Mexico are demanding an end to impunity for gang violence and calling for justice."
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "IDF confirms forces shot at misidentified UN peacekeepers in southern Lebanon 'due to poor weather'",
+      "title": "IDF confirms it shot at misidentified UN peacekeepers in southern Lebanon 'due to poor weather conditions'",
       "url": "https://www.haaretz.com/middle-east-news/2025-11-16/ty-article/.premium/united-nations-idf-fired-at-peacekeepers-from-tank-position-in-lebanese-territories/0000019a-8c8f-dc33-afdf-efcf53ef0000",
       "image": "https://img.haarets.co.il/bs/0000019a-8c97-da6d-abbf-dfb7700f0000/60/a3/67e3695f430ab38662676a463399/204454.jpg?height=81",
       "published_at": "2025-11-16T13:02:29.000Z",
@@ -79,7 +149,7 @@
       "url": "https://www.ynet.co.il/news/article/hjjlavdx11x",
       "image": null,
       "published_at": "2025-11-16T12:52:07.000Z",
-      "summary": "מוחמד אבו עמאר, בן 21 מלקיה, הואשם בהמתה בקלות דעת, כמעט שנה אחרי התאונה בכניסה לעומר שבה נהרג אביאל אלבז. \"בעלי נרצח, הנהג לקח את חייו והרס את חיי המשפחה. השוטרים אמרו לי להילחם על התיק\", אמרה אשתו שאנל"
+      "summary": "מוחמד אבו עמאר, בן 21 מלקיה, הואשם בהמתה בקלות דעת, כמעט שנה אחרי התאונה בכניסה לעומר שבה נהרג אביאל אלבז. \"בעלי נרצח, הנהג לקח את חייו והרס את חיי המשפחה. השוטרים אמרו לי להילחם על התיק\", אמרה אשתו שאנל. תיעוד התאונה הקטלנית"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -605,16 +675,6 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הלב והאבן",
-      "url": "https://www.ynet.co.il/news/article/yokra14579804",
-      "image": null,
-      "published_at": "2025-11-16T08:58:24.000Z",
-      "summary": "באוהל האבלים: המזכרת מאוגדה 98, המסר מהרמטכ\"ל והתמרור שמציבה המשפחה"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "הצעירים איבדו אמון: הזמן להחליף את השיטה",
       "url": "https://www.ynet.co.il/news/article/by8byfvx11g",
       "image": null,
@@ -1042,26 +1102,6 @@
       "summary": "Conor Benn scored a unanimous points victory over Chris Eubank Jr in their rematch at Tottenham Hotspur Stadium."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "UFC 322 updates: Makhachev beats Della Maddalena to take welterweight crown",
-      "url": "https://www.aljazeera.com/sports/liveblog/2025/11/16/live-islam-makhachev-vs-jack-della-maddalena-ufc-322-mma-fight?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-16T00:52:03.000Z",
-      "summary": "All the updates as Valentina Shevchenko retains flyweight title in co-main event at Madison Square Garden, New York."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Four killed after two boats carrying migrants capsize off Libya’s coast",
-      "url": "https://www.aljazeera.com/news/2025/11/16/four-killed-after-two-boats-carrying-migrants-capsize-off-libyas-coast?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-16T00:51:46.000Z",
-      "summary": "Libyan Red Crescent says it rescued 91 migrants and asylum seekers from Bangladesh, Sudan and Egypt."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1112,26 +1152,6 @@
       "summary": "Friday's planned participation of Jewish left-wing activists in the Palestinian olive harvest in the West Bank was derailed by the IDF and Israel police, who only appear to stop those suspected of nonviolence"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בג\"ץ יכריע היום: אלה האפשרויות שבפני השופטים בחקירת פרשת הפצ\"רית",
-      "url": "https://www.ynet.co.il/news/article/rknpnixxwx",
-      "image": null,
-      "published_at": "2025-11-15T23:00:49.000Z",
-      "summary": "בג\"ץ ימסור היום פסק דין בפרשת הפצ\"רית בעקבות כישלון המגעים בין שר המשפטים ליועמ\"שית. בפני השופטים כמה אפשרויות לבחירת הגורם שינהל את החקירה. אלו האתגרים שבפני בית המשפט - והבעיות בהצעות שהוגשו לו"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "The US will help South Korea build nuclear 'attack' submarines - here's what that means",
-      "url": "https://www.bbc.com/news/articles/c620qppzlgwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7140/live/9413dec0-c150-11f0-8bc9-0d0d258ea657.jpg",
-      "published_at": "2025-11-15T23:00:19.000Z",
-      "summary": "The agreement comes amid a period of growing geopolitical tensions on the Korean Peninsula."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1150,16 +1170,6 @@
       "image": "https://img.haarets.co.il/bs/00000189-2ed6-d145-a1e9-3ff68ef60007/65/e3/e2ca8d294ecab58b38d04b3d0303/836463.jpg?height=81",
       "published_at": "2025-11-15T22:49:30.000Z",
       "summary": ""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Clashes in Mexico City amid Gen-Z styled protests over crime and corruption",
-      "url": "https://www.aljazeera.com/news/2025/11/15/protest-in-mexico-inspired-by-gen-z-movement-draws-older-govt-critics?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-15T22:48:55.000Z",
-      "summary": "Riot police deploy tear gas as protesters tear down fences around the residence of Mexican President Claudia Sheinbaum."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1660,16 +1670,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c4d/live/3bba9f00-c161-11f0-ae46-bd64331f0fd4.jpg",
       "published_at": "2025-11-14T14:04:30.000Z",
       "summary": "The BBC's James Landale reports from the east of the capital where a drone struck a multi-storey residential building."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF kills two Palestinians, arrests 40 in West Bank counterterrorism op.",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-873873",
-      "image": null,
-      "published_at": "2025-11-14T13:56:56.000Z",
-      "summary": "In addition, the Judea Territorial Brigade carried out a brigade-wide operation in the city of Hebron as part of preparations for Shabbat \"Chayei Sarah\" at the Cave of the Patriarchs."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
