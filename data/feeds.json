@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T09:08:47.194Z",
+  "generated_at": "2025-11-16T09:34:31.096Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Levin warns High Court: Blocking Kula would be ‘cover-up’ in Sde Teiman probe",
+      "title": "High Court rules: Kula will not supervise investigation into MAG",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-873989",
       "image": null,
       "published_at": "2025-11-16T10:23:38.000Z",
@@ -55,6 +55,26 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
+      "title": "מהומות במחאת דור ה-Z במקסיקו, פצועים בעימותים מחוץ לארמון הנשיאה",
+      "url": "https://www.ynet.co.il/news/article/h1tsvzve11e",
+      "image": null,
+      "published_at": "2025-11-16T09:18:22.000Z",
+      "summary": "צעירים מקסיקנים מחו נגד הפשע והאלימות בארצם, אחרי רצח ראש עיר שקרא להיאבק בקרטלי הסמים. \"קרלוס לא מת, הממשלה הרגה אותו\", קראו ההמונים בהפגנה המרכזית במקסיקו סיטי, מחוץ למעון הנשיאה שיינבאום. רעולי פנים פירקו מחסומים שמקיפים את הארמון, ו-100 שוטרים נפצעו בעימותים"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israel's top court rejects justice minister's pick to supervise probe into leak of Sde Teiman abuse video",
+      "url": "https://www.haaretz.com/israel-news/2025-11-16/ty-article/.premium/top-court-rejects-ministers-pick-to-run-probe-into-leak-of-gazan-detainee-abuse/0000019a-8bc0-d1cc-a9df-efd671090000",
+      "image": "https://img.haarets.co.il/bs/0000019a-8bdb-dc33-afdf-efdff3690001/bd/f5/520f82c240428049ae2a761b747e/760577-4.jpg?height=81",
+      "published_at": "2025-11-16T09:13:30.000Z",
+      "summary": "According to the ruling, Justiec Minister Yariv Levin is eligible to appoint a different official to oversee the investigation of the IDF's former senior legal adviser, Yifat Tomer-Yerushalmi, and other senior officials in the Military Advocate General's Office"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
       "title": "אנחנו עומדים בפני רגע של שינוי מקיף ועמוק",
       "url": "https://www.ynet.co.il/news/article/sya11nsgkwg",
       "image": null,
@@ -99,7 +119,7 @@
       "url": "https://www.ynet.co.il/news/article/bjvcb1pg11x",
       "image": null,
       "published_at": "2025-11-16T08:39:27.000Z",
-      "summary": "מכה ליועמ\"שית ולפרקליטות: 3 השופטים אמנם פסלו את מינוי נציב תלונות הציבור, אבל קבעו ששר המשפטים יוכל למנות מועמד אחר משלו. ראש ההרכב וילנר: \"קמה הצדקה לחרוג מהכלל שלפיו אין מקום לאפשר התערבות גורמים פוליטיים בחקירות פליליות\". השופט שטיין: \"חייב למנות משפטן נקי מאינטרסים אישיים\""
+      "summary": "מכה ליועמ\"שית ולפרקליטות: 3 השופטים אמנם פסלו את מינוי נציב התלונות על השופטים, אבל קבעו ששר המשפטים יוכל למנות מועמד אחר משלו. ראש ההרכב וילנר: \"קמה הצדקה לחרוג מהכלל שלפיו אין מקום לאפשר התערבות גורמים פוליטיים בחקירות פליליות\". השופט שטיין: \"חייב למנות משפטן נקי מאינטרסים אישיים\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -110,6 +130,16 @@
       "image": null,
       "published_at": "2025-11-16T08:33:10.000Z",
       "summary": "“This is not the way of the Torah, this is not the way of the State of Israel; these violent criminals must be dealt with severely,” Opposition head Yair Lapid stated."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Week in Pictures: From river erosion in Bangladesh to protests in Mexico",
+      "url": "https://www.aljazeera.com/gallery/2025/11/16/week-in-pictures-from-river-erosion-in-bangladesh-to-protests-in-mexico?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-16T08:31:30.000Z",
+      "summary": "A global roundup of some of last week’s events."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1042,16 +1072,6 @@
       "summary": "Police are still investigating the circumstances but said there is no reason to think the crash was intentional. "
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הסופה \"קלאודיה\" משתוללת באירופה: הרוגים וטורנדו בפורטוגל, הצפות בבריטניה",
-      "url": "https://www.ynet.co.il/news/article/s1royqugwe",
-      "image": null,
-      "published_at": "2025-11-15T17:00:29.000Z",
-      "summary": "שלושה הרוגים ועשרות פצועים בפורטוגל בסערה \"קלאודיה\", שהביאה גשמים כבדים ורוחות עזות גם לספרד. סופת טורנדו השתוללה בעיירת נופש, הרסה מתחם קמפינג וגרמה לנפגעים במלון. היום הגיעה \"קלאודיה\" גם לאנגליה ולוויילס"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1170,16 +1190,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-ba3b-d5c1-ad9d-fb7b1e270001/bd/df/c744a80a44559ded8086da655b63/028789-2.jpg?height=81",
       "published_at": "2025-11-15T13:01:29.000Z",
       "summary": "The team will drop its Israeli identity following a series of pro-Palestinian protests at races and the team's removal from a race in Italy. Six riders have since parted ways with the team"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Investigators probe group that arranged ‘trafficking’ flights out of Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/15/investigators-probe-group-that-arranged-trafficking-flights-out-of-gaza?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-15T13:00:07.000Z",
-      "summary": "Concerns have been raised about a ‘humanitarian organisation’ that flew people from Gaza to South Africa."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2250,16 +2260,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-78ed-d6d8-af9b-7effea540000/a0/10/1fd77e484b00aeab92bb6ed0d9ec/886198-3.jpg?height=81",
       "published_at": "2025-11-12T17:27:06.000Z",
       "summary": "An official document states that the Israeli defense company will help Albania, a member of NATO, establish an independent defense industry. Meanwhile, Haaretz has learned that despite Brazil's pro-Palestinian stance, it extended a multimillion-dollar contract with Elbit Systems"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "West Bank barrier and Palestinian homes may be relocated to make room for incineration plant",
-      "url": "https://www.haaretz.com/west-bank/2025-11-12/ty-article/.premium/west-bank-barrier-palestinian-homes-may-be-moved-to-make-way-for-incineration-plant/0000019a-77a4-d326-a3ff-f7bd5bcf0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-78ae-d259-af9a-feff9be10001/8e/41/cd786617417ba5cdcecc4a42df33/743545.jpg?height=81",
-      "published_at": "2025-11-12T16:53:29.000Z",
-      "summary": "Two buildings and 37 acres of Palestinian agricultural land are designated to be expropriated for a planned waste incineration plant expected to reduce the amount of garbage sent to landfills in Israel. 'I worked all my life to build this house,' a resident facing eviction told Haaretz"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
