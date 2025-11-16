@@ -1,15 +1,35 @@
 {
-  "generated_at": "2025-11-16T17:02:47.805Z",
+  "generated_at": "2025-11-16T17:34:40.825Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Paratroopers shoot terrorist attempting to harm them during West Bank op.",
+      "title": "Netanyahu, Germany’s Merz discuss Middle East issues in 'good and friendly' talk",
+      "url": "https://www.jpost.com/israel-news/article-874087",
+      "image": null,
+      "published_at": "2025-11-16T19:20:36.000Z",
+      "summary": "The PMO described the conversation as “good and friendly.\""
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "PA accuses Israel of 'human trafficking' after planeload of Gazans arrive in South Africa",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-874086",
+      "image": null,
+      "published_at": "2025-11-16T19:04:08.000Z",
+      "summary": "A planeload of Palestinians was held on the tarmac of O.R. Tambo Airport in South Africa for 12 hours after flying in from Kenya. They left Gaza and flew to Kenya from Israel's Ramon airport."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Palestinian terrorist shot dead by IDF paratroopers during operations in West Bank camp",
       "url": "https://www.jpost.com/israel-news/defense-news/article-874080",
       "image": null,
       "published_at": "2025-11-16T18:23:09.000Z",
-      "summary": "No injuries to Israeli soldiers were reported."
+      "summary": "Three Palestinians were reportedly injured during the IDF's operation in al-Fara, according to the Palestinian Authority-run WAFA news outlet."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -22,6 +42,46 @@
       "summary": "\"Our troops continue operating along the Yellow Line to clear the area and eliminate terrorist strongholds,\" Zamir said."
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "German auction of Holocaust victims' correspondence, Nazi documents cancelled after backlash",
+      "url": "https://www.haaretz.com/world-news/europe/2025-11-16/ty-article/.premium/auschwitz-survivors-slam-german-auction-of-holocaust-victims-letters-and-nazi-documents/0000019a-8cf0-dfa6-ad9e-cdf0258c0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-8d14-d490-a5da-effce6190001/7a/aa/103012c84bfd9bf3d548085bf064/holocaust-auction-1.png?height=81",
+      "published_at": "2025-11-16T17:25:48.000Z",
+      "summary": "From a yellow star with 'signs of wear' to a Jewish family's mail, the auction house removed its online listings. Poland's foreign minister called for the artefacts to be handed over to the Auschwitz Museum"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Somalia confirms major data breach in electronic visa system",
+      "url": "https://www.aljazeera.com/news/2025/11/16/somalia-confirms-major-data-breach-in-electronic-visa-system?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-16T17:17:10.000Z",
+      "summary": "Officials launch probe days after breach emerged amid widespread concern and speculation over leaked data."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"יש בבית שמש עוד מאות מבני חינוך במצב הזה\": דאגת התושבים אחרי הקריסה בגן",
+      "url": "https://www.ynet.co.il/news/article/sjyhrdwxbx",
+      "image": null,
+      "published_at": "2025-11-16T17:10:00.000Z",
+      "summary": "תושבי בית שמש חוששים מאירועים נוספים של קריסת כיתות לימוד וגנים, ושיתפו כי \"בכל העיר בונים ומרחיבים מוסדות לימוד בצורה רעועה וספק חוקית\". אחד התושבים הוסיף בזעם: \"בדרך לזירה אנשי העירייה ראו ממש בצמוד עוד מבנה כזה מסוכן - ולא נתנו הוראה מיידית להפסיק את השימוש בו\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Who is Marjorie Taylor Greene, Trump’s MAGA ally turned critic?",
+      "url": "https://www.aljazeera.com/news/2025/11/16/who-is-marjorie-taylor-greene-trumps-maga-ally-turned-critic?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-16T17:09:55.000Z",
+      "summary": "Trump calls Greene a &#039;traitor&#039; and rescinds his endorsement of the lawmaker."
+    },
+    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -30,6 +90,26 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6888/live/41ee2db0-c300-11f0-bdc1-a928b34ade94.jpg",
       "published_at": "2025-11-16T17:02:02.000Z",
       "summary": "Iran’s largest lake has largely dried out and people are resorting to praying for rain in some areas"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"מהגדולות שפעלו בישראל\": מעבדת סמים ענקית נחשפה באזור אשדוד, 9 נעצרו\n",
+      "url": "https://www.ynet.co.il/news/article/sjma0uwg11x",
+      "image": null,
+      "published_at": "2025-11-16T16:59:50.000Z",
+      "summary": "בפשיטה בהשתתפות כוחות ימ\"ר, יס\"מ ויחידת כלבנים, נעצרו באזור אשדוד תשעה חשודים בהפעלת אחת ממעבדות הסמים הגדולות שנחשפו בשנים האחרונות, ונתפסו עשרות קילוגרמים של סם \"דוקטור\" ומיליוני דולרים במזומן. החשודים ייצרו והפיצו סמים סינתטיים בשוק המסיבות: \"התפיסה תשפיע על שוק הסמים\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israel can’t fly us all out to South Africa",
+      "url": "https://www.aljazeera.com/opinions/2025/11/16/israel-cant-fly-us-all-out-to-south-africa?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-16T16:57:04.000Z",
+      "summary": "The paid forced deportation flights are the latest Israeli scheme in a long history of failed ethnic cleansing efforts."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -50,6 +130,16 @@
       "image": null,
       "published_at": "2025-11-16T16:55:18.000Z",
       "summary": " “We are on the verge of losing the younger evangelical generation for Israel - and we must act now.”"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Democracy in “question” as far right surges in Chilean election",
+      "url": "https://www.aljazeera.com/video/quotable/2025/11/16/democracy-in-question-as-far-right-surges-in-chilean-election?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-16T16:55:02.000Z",
+      "summary": "“He [Kast] has declared himself an admirer of Donald Trump in the United States...&quot;"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -219,7 +309,7 @@
       "url": "https://www.ynet.co.il/news/article/b17fubwl11e",
       "image": null,
       "published_at": "2025-11-16T15:46:27.000Z",
-      "summary": "מכירת המטוסים לממלכה עלולה לכרסם ביתרון האיכותי האווירי של צה\"ל, אבל הרווח הטמון במהלך מדיני מצדיק את הסיכון. שלל המגבלות והחסמים שארה\"ב מטילה על עסקות נשק למזרח התיכון אמורים להבטיח שהסעודים יתקשו להפעיל את ה-F35 נגד ישראל. שלא לדבר על הסוויץ' האמריקני ששולט בהם מרחוק"
+      "summary": "מכירת המטוסים לממלכה עלולה לכרסם ביתרון האיכותי האווירי של צה\"ל, אבל הרווח הטמון במהלך מדיני מצדיק את הסיכון. שלל המגבלות והחסמים שארה\"ב מטילה על עסקות נשק למזרח התיכון אמורים להבטיח שהסעודים יתקשו להפעיל את ה-F-35 נגד ישראל - שלא לדבר על הסוויץ' האמריקני ששולט בהם מרחוק"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -962,26 +1052,6 @@
       "summary": "The former Trump ally accuses him of trying to intimidate Republicans before US House vote next week over Epstein files."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Man says shadowy group sending Palestinians out of Gaza has Israeli support",
-      "url": "https://www.aljazeera.com/news/2025/11/16/man-says-shadowy-group-sending-palestinians-out-of-gaza-has-israeli-support?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-16T10:02:48.000Z",
-      "summary": "Al-Majd Europe group taking families on buses out of Gaza to Israel&#039;s Ramon Airport - then to unknown destinations."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "“Violence, torture” in Israeli prisons entrenched over years",
-      "url": "https://www.aljazeera.com/video/quotable/2025/11/16/aje-onl-qt_basil_farraj-161125?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-16T09:57:45.000Z",
-      "summary": " Basil Farraj, talks about the conditions and treatment of Palestinian and Lebanese prisoners in Israeli detention centr"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1000,16 +1070,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-8bec-da6d-abbf-dfec38930001/7a/3d/d86d053646cab1a58910f3d0c463/005139.jpg?height=81",
       "published_at": "2025-11-16T09:51:11.000Z",
       "summary": "The report, published by the National Insurance Institute, shows that more than a quarter of Israeli families struggle to afford adequate food, though rates show slight improvement from last year. It also shows that only 10 percent of Arab Israeli households have a high level of food security"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "קולה בחוץ, מי ימונה? תנאי הסף למפקח חקירת הפצ\"רית, לפי בג\"ץ",
-      "url": "https://www.ynet.co.il/news/article/rysx4gdl11x",
-      "image": null,
-      "published_at": "2025-11-16T09:38:39.000Z",
-      "summary": "משפטן בכיר, נקי מאינטרסים אישיים והשפעות פוליטיות: בג\"ץ קבע שבמקרה חריג זה לשר המשפטים סמכות למינוי עובד מדינה מחוץ לסמכות היועמ\"שית, והשופט שטיין קבע את תנאי הסף. גורמים משפטיים בכירים הצביעו על החשש: \"סכנה לפוליטיזציה של התביעה הכללית\". פרקליטו של לוין: \"הישג ענק\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1042,16 +1102,6 @@
       "summary": "Israel's regional standing and the prime minister's legal troubles have sparked two hypotheses: one sees Netanyahu as using the pardon campaign for extortion, the other views him as being extorted. Meanwhile, escalating West Bank settler violence is a deliberate far-right response to block diplomati"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "מהומות במחאת דור ה-Z במקסיקו, פצועים בעימותים מחוץ לארמון הנשיאה",
-      "url": "https://www.ynet.co.il/news/article/h1tsvzve11e",
-      "image": null,
-      "published_at": "2025-11-16T09:18:22.000Z",
-      "summary": "צעירים מקסיקנים מחו נגד הפשע והאלימות בארצם, אחרי רצח ראש עיר שקרא להיאבק בקרטלי הסמים. \"קרלוס לא מת, הממשלה הרגה אותו\", קראו ההמונים בהפגנה המרכזית במקסיקו סיטי, מחוץ למעון הנשיאה היהודייה שיינבאום. רעולי פנים פירקו מחסומים שמקיפים את הארמון, ו-100 שוטרים נפצעו בעימותים"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1062,16 +1112,6 @@
       "summary": "According to the ruling, Justice Minister Yariv Levin is eligible to appoint a different official to oversee the investigation of the IDF's former top lawyer, Yifat Tomer-Yerushalmi, and other senior officials in the Military Advocate General's Office"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Man tells Al Jazeera he left Gaza through Al Majd ‘displacement flight’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/16/man-tells-al-jazeera-he-left-gaza-through-al-majd-displacement-flight?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-16T09:07:33.000Z",
-      "summary": "This Palestinian man left Gaza through ‘Al Majd Europe’, a group using unofficial, Israeli-coordinated channels."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1080,16 +1120,6 @@
       "image": null,
       "published_at": "2025-11-16T08:33:10.000Z",
       "summary": "“This is not the way of the Torah, this is not the way of the State of Israel; these violent criminals must be dealt with severely,” Opposition head Yair Lapid stated."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Week in Pictures: From river erosion in Bangladesh to protests in Mexico",
-      "url": "https://www.aljazeera.com/gallery/2025/11/16/week-in-pictures-from-river-erosion-in-bangladesh-to-protests-in-mexico?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-16T08:31:30.000Z",
-      "summary": "A global roundup of some of last week’s events."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1482,16 +1512,6 @@
       "summary": "Pope Leo spoke to stars including Cate Blanchett, Spike Lee and Viggo Mortensen at the event for global cinema."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "UN rapporteur claims no independent probe found evidence of Oct. 7 sexual assault despite UN report",
-      "url": "https://www.jpost.com/israel-news/article-873910",
-      "image": null,
-      "published_at": "2025-11-15T15:13:29.000Z",
-      "summary": "“No independent investigation found that rape took place on the 7th of October,\" United Nations Special Rapporteur on violence against women and girls, Reem Alsalem, claimed."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1550,16 +1570,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-869f-d3ce-a7de-f79fecff0007/dc/fa/ec14ec014c598ab3dda22a47f286/282473.jpg?height=81",
       "published_at": "2025-11-15T10:43:40.000Z",
       "summary": "The entirety of Israeli culture is stored and catalogued in vast halls at Harvard University"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Lahav 433 Chief Meni Benjamin speaks out after being detained for questioning on misconduct",
-      "url": "https://www.jpost.com/israel-news/article-873906",
-      "image": null,
-      "published_at": "2025-11-15T10:12:08.000Z",
-      "summary": "“I am very disappointed in the Police Internal Investigations Department. The way they detained me for questioning, they could have done it in a more respectful manner,\" Benjamin said."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2279,16 +2289,6 @@
       "url": "https://www.haaretz.com/opinion/editorial/2025-11-12/ty-article-opinion/with-all-due-respect-israels-judicial-system-will-decide-netanyahus-case-not-trump/0000019a-79c2-d259-af9a-ffdf4d860000",
       "image": "https://img.haarets.co.il/bs/0000019a-79c4-dc91-a39e-79e77cea0001/35/d0/64c2769a4b5684d2883c1b8868df/431540-3.jpg?height=81",
       "published_at": "2025-11-12T21:54:48.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "An October 7 commission of inquiry is a sacred cow that will achieve virtually nothing",
-      "url": "https://www.haaretz.com/opinion/2025-11-12/ty-article-opinion/.premium/an-october-7-commission-of-inquiry-is-a-sacred-cow-that-will-achieve-virtually-nothing/0000019a-796b-d6d8-af9b-7f7f5f830000",
-      "image": "https://img.haarets.co.il/bs/0000019a-6f96-d0d1-a9bb-ffbfaac40001/84/8c/a1a6f28e4d54b487fd92ff6192d0/158343.jpg?height=81",
-      "published_at": "2025-11-12T21:51:15.000Z",
       "summary": ""
     },
     {
