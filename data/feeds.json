@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-11-16T08:11:32.488Z",
+  "generated_at": "2025-11-16T08:41:24.205Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Levin warns High Court: Blocking Kula would be ‘cover-up’ in Sde Teiman probe",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-873989",
+      "image": null,
+      "published_at": "2025-11-16T10:23:38.000Z",
+      "summary": "The case has quickly become a proxy battle over the balance of power between the executive, legal, and judicial institutions."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Four children injured following roof collapse in Beit Shemesh",
+      "url": "https://www.jpost.com/israel-news/article-873987",
+      "image": null,
+      "published_at": "2025-11-16T10:12:34.000Z",
+      "summary": "No life-threatening injuries were reported."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -45,11 +65,61 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "גג קרס בבית שמש, 4 ילדות נפצעו",
+      "title": "בג\"ץ הכריע: קולה לא יוכל לשמש כמפקח חקירת הפצ\"רית - אבל לוין יוכל לבחור מועמד אחר",
+      "url": "https://www.ynet.co.il/news/article/bjvcb1pg11x",
+      "image": null,
+      "published_at": "2025-11-16T08:21:19.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Iran says it has begun cloud-seeding operations to induce rain amid severe drought",
+      "url": "https://www.timesofisrael.com/iran-says-it-has-begun-cloud-seeding-operations-to-induce-rain-amid-severe-drought/",
+      "image": null,
+      "published_at": "2025-11-16T08:18:34.000Z",
+      "summary": "Aircraft used to spray particles such as silver iodide and salt into clouds to trigger precipitation; president warned Tehran could be evacuated due to unprecedented water shortage\nThe post Iran says it has begun cloud-seeding operations to induce rain amid severe drought appeared first on The Times"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Levin says blocking judicial ombudsman from leading Sde Teiman probe would allow ‘cover-up’",
+      "url": "https://www.timesofisrael.com/levin-says-blocking-judicial-ombudsman-from-leading-sde-teiman-probe-would-allow-cover-up/",
+      "image": null,
+      "published_at": "2025-11-16T08:18:12.000Z",
+      "summary": "Justice minister's warning to High Court comes ahead of expected decision on who will head investigation into top military official's leak of an abuse video \nThe post Levin says blocking judicial ombudsman from leading Sde Teiman probe would allow ‘cover-up’ appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Feud erupts between Trump and ally Marjorie Taylor Greene ahead of Epstein files vote",
+      "url": "https://www.bbc.com/news/articles/c9wv4dx05q5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91d8/live/51472cb0-c1d1-11f0-a9fe-75bc5051575c.jpg",
+      "published_at": "2025-11-16T08:12:45.000Z",
+      "summary": "The Georgia congresswoman has criticised Trump's foreign policy and handling of Jeffrey Epstein files. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "חשד: העביר לאיראנים תמונות של אתרים רגישים בסיוע בת זוגו המילואימניקית",
+      "url": "https://www.ynet.co.il/news/article/sjyzpldgwx",
+      "image": null,
+      "published_at": "2025-11-16T08:10:28.000Z",
+      "summary": "לפי שב\"כ והמשטרה, שמעון אזרזר (27) מקריית ים ניצל את מערכת היחסים שלו עם משרתת בחיל האוויר כדי לקבל מידע על צה\"ל. הוא העביר תמונות ומיקומים של אתרים רגישים לגורמי מודיעין איראנים - שאיתם ניהל קשר במלחמה במשך יותר משנה"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "גג קרס במוסד לחינוך מיוחד בבית שמש, 4 ילדות נפצעו",
       "url": "https://www.ynet.co.il/news/article/h1v74bwg11l",
       "image": null,
       "published_at": "2025-11-16T08:02:29.000Z",
-      "summary": ""
+      "summary": "בת 9 נפצעה באורח בינוני ושלוש ילדות נוספות נפצעו קל מקריסת הגג בקרוואן שמשמש גם כגן לחינוך מיוחד. \"בנס לא היו הרוגים, ויש עוד מאות כיתות וגנים במצב הזה\", אמרו תושבים בבית שמש"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -120,26 +190,6 @@
       "image": null,
       "published_at": "2025-11-16T06:46:12.000Z",
       "summary": "Chileans blame violence on gangs from other Latin American countries; projected winner, the son of a Nazi officer, has praised Pinochet and would be 1st far-right leader since dictator\nThe post Chilean far right looms large in election dominated by crime, threats of deportations appeared first on Th"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Feud erupts between Trump and longtime ally Marjorie Taylor Greene",
-      "url": "https://www.bbc.com/news/articles/c9wv4dx05q5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91d8/live/51472cb0-c1d1-11f0-a9fe-75bc5051575c.jpg",
-      "published_at": "2025-11-16T06:25:26.000Z",
-      "summary": "The Georgia congresswoman has criticised Trump's foreign policy and handling of Jeffrey Epstein files. "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "רגע לפני הכרעת בג\"ץ, לוין תוקף: \"אם קולה לא ימונה - השופטים אפשרו את טיוח חקירת הפצ\"רית\"",
-      "url": "https://www.ynet.co.il/news/article/bjvcb1pg11x",
-      "image": null,
-      "published_at": "2025-11-16T06:17:44.000Z",
-      "summary": "אחרי שנקבע כי השופט קולה מנוע מליווי החקירה בשל תפקידו כנציב תלונות הציבור, השר לוין טוען: \"יש מי שחושש מתוצאות החקירה\". בהודעתו, שעות לפני הכרעת בג\"ץ, טען לוין כי דחיית הצעתו תהווה \"ראיה חותכת להסתרת שותפי הפצ\"רית לשעבר\". גורמים שמעורים בנושא חוששים: הכנת הקרקע לכפור בפסיקה"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -229,7 +279,7 @@
       "url": "https://www.timesofisrael.com/haredi-lawmakers-targeted-by-protesters-opposing-conscription-bill-prompting-outcry/",
       "image": null,
       "published_at": "2025-11-16T04:08:54.000Z",
-      "summary": "Mob targeting Shas lawmaker Yoav Ben-Tzur's car draws widespread condemnation; Bnei Brak home of UTJ's Ya'akov Asher also sees protests\nThe post Haredi crowds smash MK&#8217;s car window, protest at another&#8217;s home in furor over draft bill appeared first on The Times of Israel.\n"
+      "summary": "Mob targeting Shas lawmaker Yoav Ben-Tzur draws widespread condemnation; Bnei Brak home of UTJ's Ya'akov Asher also sees protests\nThe post Haredi crowds smash MK&#8217;s car window, protest at another&#8217;s home in furor over draft bill appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1002,16 +1052,6 @@
       "summary": "להב 433 מובילה את החקירות הכי רגישות במדינה, אבל מתמודדת כעת בעצמה עם טלטלות של ממש: אחרי שקצינים בה נחקרו בחשד שהדליפו מידע למשפחת הפשע מוסלי, נחקר בפרשה לא-קשורה גם מי שעומד בראש, ניצב מני בנימין, בחשד שהתערב לטובת איש עסקים בחקירה שטרם נחשפה. הגיבוי מהשר בן גביר, הקרב האפשרי מולו על מינוי ממלא מק"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Trump Organization said close to joining $63 billion Saudi-owned real estate project",
-      "url": "https://www.timesofisrael.com/trump-organization-said-close-to-joining-major-saudi-owned-real-estate-project/",
-      "image": null,
-      "published_at": "2025-11-15T16:18:12.000Z",
-      "summary": "NYT reports potential deal ahead of Saudi crown prince's visit to Washington, in latest case of blurred lines between Trump's diplomatic dealings and his family business\nThe post Trump Organization said close to joining $63 billion Saudi-owned real estate project appeared first on The Times of Israe"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1072,16 +1112,6 @@
       "summary": "“No independent investigation found that rape took place on the 7th of October,\" United Nations Special Rapporteur on violence against women and girls, Reem Alsalem, claimed."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Iran&#8217;s Revolutionary Guards confirm seizing oil tanker sailing off UAE coast",
-      "url": "https://www.timesofisrael.com/irans-revolutionary-guards-confirm-seizing-oil-tanker-sailing-off-uae-coast/",
-      "image": null,
-      "published_at": "2025-11-15T15:01:55.000Z",
-      "summary": "Marshall Islands-flagged ship unexpectedly diverted into Iranian waters while heading to Singapore, with Tehran claiming it's carrying 'unauthorized cargo'; US monitoring situation\nThe post Iran&#8217;s Revolutionary Guards confirm seizing oil tanker sailing off UAE coast appeared first on The Times"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1090,16 +1120,6 @@
       "image": null,
       "published_at": "2025-11-15T14:52:51.000Z",
       "summary": "תמונות חדשות של ילדים עזתים עומדים במים עד הברכיים ואוהלים שקרסו בגשם מציפות את הרשתות החברתיות, לצד דיווחים על הגשמים העזים - והטענה כי ישראל חוסמת במכוון את הכנסת הסיוע. חמאס מקדם קמפיין בינלאומי חדש בצל מזג האוויר הסוער, ומנצל את התמונות הקשות שאינן חדשות לתושבים ברצועה"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "תעלומת העזתים שהוטסו לדרום אפריקה - ושיאניות הגשם | כותרות השבת",
-      "url": "https://www.ynet.co.il/news/article/hktyi11lebx",
-      "image": null,
-      "published_at": "2025-11-15T14:45:14.000Z",
-      "summary": "ללא צווי מעצר מינהליים, ראש השב\"כ מציע להשתמש באיזוק אלקטרוני לאכיפת מעצרי פורעים יהודים ביו\"ש | בבית הלבן: טראמפ בוחן מכירת חמקנים לסעודיה - וייפגש עם יורש העצר בן סלמאן | וויטקוף מתכנן להיפגש שוב עם בכיר חמאס | משמרות המהפכה: השתלטנו על מכלית נפט ששטה מאיחוד האמירויות לסינגפור"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1570,26 +1590,6 @@
       "image": null,
       "published_at": "2025-11-14T10:20:39.000Z",
       "summary": "× “They Are Building Houses on Bones” It’s the second time Moreva has lost her home. She fled to Mariupol from Makiivka, an industrial city near Donetsk, after Russia occupied Donbas in 2014. The 57-year-old rebuilt her life in the port city, working as a professor in Mariupol State University’s eco"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "WATCH: Israeli forces arrest four suspected of ISIS-inspired terror plot in east Jerusalem",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-873858",
-      "image": null,
-      "published_at": "2025-11-14T09:13:17.000Z",
-      "summary": "The police discovered a handgun hidden in a chicken coop at one of the suspects homes during the arrest."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Coalition drops to 48 seats in Knesset as Bennett-Eisenkot bloc gains majority - poll",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-873856",
-      "image": null,
-      "published_at": "2025-11-14T08:56:10.000Z",
-      "summary": "Likud has lost two seats, dropping the party to 24, while former prime minister Naftali Bennett's party gained two, also reaching 24 to tie."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
