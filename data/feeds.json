@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-17T04:16:19.053Z",
+  "generated_at": "2025-11-17T04:44:24.889Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -20,6 +20,16 @@
       "image": null,
       "published_at": "2025-11-17T04:22:02.000Z",
       "summary": "National Security Minister Itamar Ben-Gvir visited the scene, and blamed previous Shin Bet head Ronen Bar for not acting on Bedouin crime."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israel's big fear: Saudis getting F-35s without normalization deal",
+      "url": "https://www.haaretz.com/middle-east-news/2025-11-17/ty-article/.premium/israels-big-fear-saudis-getting-f-35s-without-normalization-deal/0000019a-8e5f-d84c-a3be-ffdf9ec40000",
+      "image": "https://img.haarets.co.il/bs/00000189-15cb-d572-af9b-15ff3c500003/b4/63/bca36ed9469f9226ad333f0da1ba/f35.jpg?height=81",
+      "published_at": "2025-11-17T04:10:29.000Z",
+      "summary": "As Trump presses F-35 sales to Saudi Arabia and directs IDF moves in Gaza, Netanyahu's sway fades, normalization talks stall, and Hamas quietly rebuilds – leaving Israel exposed on both military and diplomatic fronts"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -45,11 +55,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "In potential detente, Trump says planning to meet with Mamdani to ‘work something out’",
+      "title": "Ahead of UN vote, Hamas rejects ‘dangerous’ US proposal for Gaza stabilization force",
       "url": "https://www.timesofisrael.com/liveblog-november-17-2025/",
       "image": null,
       "published_at": "2025-11-17T03:09:15.000Z",
-      "summary": "Ben Gvir makes late-night visit to southern Israel after reports of heavy gunfire from two Bedouin locales in the Negev * Lebanese health ministry says one killed in Israeli strike\nThe post In potential detente, Trump says planning to meet with Mamdani to ‘work something out’ appeared first on The T"
+      "summary": "Ben Gvir makes late-night visit to southern Israel after reports of heavy gunfire from two Bedouin locales * Trump says planning to meet with Mamdani to ‘work something out’\nThe post Ahead of UN vote, Hamas rejects ‘dangerous’ US proposal for Gaza stabilization force appeared first on The Times of I"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -465,21 +475,21 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "המציאות העגומה של השבים לצפון: \"גם המורים הטובים ביותר - פשוט קורסים\"",
-      "url": "https://www.ynet.co.il/news/article/yokra14576789",
-      "image": null,
-      "published_at": "2025-11-16T22:00:00.000Z",
-      "summary": "רבים מילדי הצפון שבו לבתיהם לאחר שנתיים, אך חודשיים וחצי לשנת הלימודים, התקציב לשיקום החינוך תקוע. בבתי הספר מתמודדים עם פערים עצומים ומחסור כוח אדם מחריף: \"אנחנו בחדר ניתוח במצב אנוש - והרופאים מתווכחים בחוץ\". אזהרת ועד ההורים בק\"ש, והטענה במשרד החינוך: \"יש גאנט, כל דבר יבוא בעיתו\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "הקרבה, השיטתיות והשווי: משפט נתניהו מתקדם - השאלות הפתוחות בתיק המתנות",
       "url": "https://www.ynet.co.il/news/article/yokra14582700",
       "image": null,
       "published_at": "2025-11-16T22:00:00.000Z",
       "summary": "1000 סימני שאלה: חקירתו הנגדית של נתניהו בתיק תגיע היום לסיומה. מה הייתה מידת הקִּרבה בינו לבין המיליארדרים מילצ'ן ופאקר? מה היה שווי המתנות שקיבל מהם והאם היה מדובר בשיטתיות? אלה כמה מהשאלות העיקריות שבהן יעסקו השופטים, שלא ברור עד כמה בדיחות הבאגס-באני הצליחו לעורר בהם ספק"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "המציאות העגומה של השבים לצפון: \"גם המורים הטובים ביותר - פשוט קורסים\"",
+      "url": "https://www.ynet.co.il/news/article/yokra14576789",
+      "image": null,
+      "published_at": "2025-11-16T22:00:00.000Z",
+      "summary": "רבים מילדי הצפון שבו לבתיהם לאחר שנתיים, אך חודשיים וחצי לשנת הלימודים, התקציב לשיקום החינוך תקוע. בבתי הספר מתמודדים עם פערים עצומים ומחסור כוח אדם מחריף: \"אנחנו בחדר ניתוח במצב אנוש - והרופאים מתווכחים בחוץ\". אזהרת ועד ההורים בק\"ש, והטענה במשרד החינוך: \"יש גאנט, כל דבר יבוא בעיתו\""
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -2350,16 +2360,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-7c7a-d326-a3ff-fc7b02300001/0f/d6/9f4354cf4e25b9f5e11277dfe9c4/299225.jpg?height=81",
       "published_at": "2025-11-13T12:24:30.000Z",
       "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Hamas, Islamic Jihad to hand over deceased hostage to Israel on Thursday evening",
-      "url": "https://www.haaretz.com/israel-news/2025-11-13/ty-article/.premium/hamas-islamic-jihad-to-hand-over-deceased-hostage-to-israel-on-thursday-evening/0000019a-7d14-d1ab-a3fa-7ddea65b0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-6ee6-d0d1-a9bb-ffef5fb00000/ed/00/d0ae463c493f986db09e03aab888/739852.jpg?height=81",
-      "published_at": "2025-11-13T12:20:30.000Z",
-      "summary": "Four deceased hostages remain in Gaza, after Hamas handed over the body of IDF officer Hadar Goldin on Sunday"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
