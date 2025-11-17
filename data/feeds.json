@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-17T23:08:10.013Z",
+  "generated_at": "2025-11-17T23:34:53.081Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -20,6 +20,46 @@
       "image": null,
       "published_at": "2025-11-18T00:26:50.000Z",
       "summary": "Rights group claims that at least 98 Palestinians have died in Israeli custody since October 2023, alleging claims of torture and medical neglect."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "צה\"ל במסמך רשמי לדרג המדיני: \"מכירת ה-F-35 לסעודיה - סכנה לעליונות האווירית של ישראל\"",
+      "url": "https://www.ynet.co.il/news/article/hjtjlmte11l",
+      "image": null,
+      "published_at": "2025-11-17T23:18:55.000Z",
+      "summary": "פרסום ראשון: המטכ\"ל העביר מסמך מחיל האוויר שבו הזהיר כי מכירת החמקנים לסעודיה, כפי שאישר טראמפ בקולו, תפגע בעליונות האווירית של ישראל ובבלעדיות המבצעית של מטוסי האדיר. בצבא מדגישים כי יכולות הגילוי והרשתיות של המטוס הן מרכיב קריטי בביטחון הלאומי. וגם: הצורך ברכש מהיר נוסף בשל מרוץ החימוש המתעצם באזו"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US Fed Governor Cook offers detailed defence in mortgage fraud case",
+      "url": "https://www.aljazeera.com/economy/2025/11/17/us-fed-governor-cook-offers-detailed-defence-in-mortgage-fraud-case?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-17T23:05:41.000Z",
+      "summary": "Cook&#039;s lawyer says the criminal referrals against her &#039;fail on even the most cursory look at the facts&#039;."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump's plan for Gaza backed by UN Security Council",
+      "url": "https://www.bbc.com/news/articles/c0rpkgq4wllo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c141/live/78b4a2b0-c405-11f0-8669-5560f5c90fbe.jpg",
+      "published_at": "2025-11-17T23:01:32.000Z",
+      "summary": "Included in the 20-point peace plan is the establishment of an International Stabilisation Force (ISF), which would work to demilitarise the territory."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Calls for answers grow over Canada’s interrogation of Israel critic",
+      "url": "https://www.aljazeera.com/news/2025/11/17/calls-for-answers-grow-over-canadas-interrogation-of-israel-critic?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-17T22:53:22.000Z",
+      "summary": "Ministry of public safety says it is seeking more details about questioning of scholar Richard Falk at Toronto airport."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -182,16 +222,6 @@
       "summary": "Katz's condemnation came months after a spike in such attacks, six days after a new mass attack last week, and after yet another mass attack earlier Monday."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "צה\"ל במסמך רשמי לדרג המדיני: \"מכירת ה-F-35 לסעודיה - סכנה לעליונות האווירית של ישראל\"",
-      "url": "https://www.ynet.co.il/news/article/hjtjlmte11l",
-      "image": null,
-      "published_at": "2025-11-17T21:24:32.000Z",
-      "summary": "פרסום ראשון: המטכ\"ל העביר מסמך מחיל האוויר שבו הזהיר כי מכירת החמקנים לסעודיה, כפי שאישר טראמפ בקולו, תפגע בעליונות האווירית של ישראל ובבלעדיות המבצעית של מטוסי האדיר. בצבא מדגישים כי יכולות הגילוי והרשתיות של המטוס הן מרכיב קריטי בביטחון הלאומי. וגם: הצורך ברכש מהיר נוסף בשל מרוץ החימוש המתעצם באזו"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -275,7 +305,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Trump says he will approve sale of F-35 fighter jet to Saudi Arabia",
+      "title": "Trump says he will approve sale of F-35 fighter jets to Saudi Arabia",
       "url": "https://www.aljazeera.com/news/2025/11/17/trump-says-he-will-approve-sale-of-f-35-fighter-jet-to-saudi-arabia?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-17T20:59:07.000Z",
@@ -1072,16 +1102,6 @@
       "summary": "By adding a microRNA molecule to ALS models, Tel Aviv University, Ben-Gurion University and Weizmann Institute researchers say the damaged nerve cells 'even regenerated'\nThe post In world first, Israeli scientists use RNA-based gene therapy to stop ALS deterioration appeared first on The Times of Is"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "South Korea proposes talks with North Korea on military demarcation line",
-      "url": "https://www.aljazeera.com/news/2025/11/17/south-korea-proposes-talks-with-north-korea-on-military-demarcation-line?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-17T15:02:35.000Z",
-      "summary": "Seoul calls for inter-Korean military negotiations to prevent accidental clashes and ease tensions with Pyongyang.\n"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1090,16 +1110,6 @@
       "image": null,
       "published_at": "2025-11-17T15:00:27.000Z",
       "summary": "הוראת שר הביטחון להכריז על שטח צבאי סגור לאורך גבול מצרים לא מולאה, אך צה\"ל הצליח מאז להקטין את ההברחות מ-5 ביום לאחת בלבד. בצל הקשב הרב שהופנה לעזה וללבנון, בשנתיים האחרונות הוברחו אלפי נשקים לנגב וליו\"ש - ועשויים כבר להימצא בידי מחבלים. ה\"חסינות\" שהממשלה מעניקה למבריחים, והסכנה: \"זה איום אסטרטגי. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Why many Bosnian genocide scholars remain silent on Gaza",
-      "url": "https://www.aljazeera.com/opinions/2025/11/17/why-many-bosnian-genocide-scholars-remain-silent-on-gaza?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-17T14:56:25.000Z",
-      "summary": "Their refusal to speak out undermines scholarly integrity and the field of genocide studies."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1895,21 +1905,21 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Netanyahu seen as biggest obstacle to Trump's efforts to advance plan for Gaza",
-      "url": "https://www.haaretz.com/israel-news/2025-11-16/ty-article/.premium/netanyahu-seen-as-biggest-obstacle-to-trumps-efforts-to-advance-plan-for-gaza/0000019a-8947-df64-a5db-f9ef5f370000",
-      "image": "https://img.haarets.co.il/bs/0000019a-8a4c-dc33-afdf-ef4f049f0001/fc/81/f6a65d2246a6a10a125b979228fc/197912.jpg?height=81",
-      "published_at": "2025-11-16T04:00:00.000Z",
-      "summary": "The American's Arab partners see the Israeli prime minister as someone who will not allow any progress toward a Palestinian state. Meanwhile, Netanyahu is openly signaling that he is undermining the transition to the second stage of the Gaza cease-fire"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
       "title": "Vetoing Bibi hurts Israel's liberal camp",
       "url": "https://www.haaretz.com/opinion/2025-11-16/ty-article-opinion/.premium/vetoing-bibi-hurts-israels-liberal-camp/0000019a-8921-d1cc-a9df-eff7c0f00000",
       "image": "https://img.haarets.co.il/bs/0000019a-892d-d1cc-a9df-efff2a460000/5b/f9/76591c1b4674a24a8a2d93108081/629608-2.jpg?height=81",
       "published_at": "2025-11-16T04:00:00.000Z",
       "summary": ""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Netanyahu seen as biggest obstacle to Trump's efforts to advance plan for Gaza",
+      "url": "https://www.haaretz.com/israel-news/2025-11-16/ty-article/.premium/netanyahu-seen-as-biggest-obstacle-to-trumps-efforts-to-advance-plan-for-gaza/0000019a-8947-df64-a5db-f9ef5f370000",
+      "image": "https://img.haarets.co.il/bs/0000019a-8a4c-dc33-afdf-ef4f049f0001/fc/81/f6a65d2246a6a10a125b979228fc/197912.jpg?height=81",
+      "published_at": "2025-11-16T04:00:00.000Z",
+      "summary": "The American's Arab partners see the Israeli prime minister as someone who will not allow any progress toward a Palestinian state. Meanwhile, Netanyahu is openly signaling that he is undermining the transition to the second stage of the Gaza cease-fire"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
