@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T08:14:35.763Z",
+  "generated_at": "2025-11-17T08:47:06.112Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Security forces evacuate settlers from Tzur Misgavi in Gush Etzion",
+      "title": "Israeli forces evacuate illegal hilltop settlement outpost in Gush Etzion amid rampant violence",
       "url": "https://www.jpost.com/israel-news/article-874143",
       "image": null,
       "published_at": "2025-11-17T10:04:11.000Z",
@@ -30,6 +30,36 @@
       "image": null,
       "published_at": "2025-11-17T08:57:23.000Z",
       "summary": "The men were arrested following a report that they had attacked a man, dragged him into their vehicle, and driven away."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אחד העדים בפרשת ההסתדרות שם קץ לחייו",
+      "url": "https://www.ynet.co.il/news/article/rj4l6iulwe",
+      "image": null,
+      "published_at": "2025-11-17T08:33:09.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בחמאס פנו לרשות הפלסטינית: קחו את הנשק לאחסון - שלא יושמד",
+      "url": "https://www.ynet.co.il/news/article/b17kah00ewx",
+      "image": null,
+      "published_at": "2025-11-17T08:20:15.000Z",
+      "summary": "במסגרת תוכנית טראמפ לעזה נדרש חמאס למסור או להשמיד את נשקו, אך ארגון הטרור חושש מחידוש הלחימה - ורוצה לאחסן את הנשק במקום שנגיש לו. בכירים בחמאס ביקשו מהרשות הפלסטינית לתאם מיקומי אחסון, אך נתקלו בסירוב. \"אם אתם רוצים להציג זאת כהעברת נשק - תכריזו על כך בפומבי\", אמר בכיר ברשות"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Japan’s tourism-linked stocks plunge amid spat with China",
+      "url": "https://www.aljazeera.com/economy/2025/11/17/japans-tourism-linked-stocks-plunge-amid-spat-with-china?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-17T08:16:50.000Z",
+      "summary": "Relations between Tokyo and Beijing have plummeted over Japanese leader&#039;s recent remarks on Taiwan."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -119,7 +149,7 @@
       "url": "https://www.ynet.co.il/news/article/rkrzes00gzg",
       "image": null,
       "published_at": "2025-11-17T07:30:48.000Z",
-      "summary": "אלעד אור, אחיו של החלל החטוף דרור אור, שיתף כי המשפחה מקבלת עדכונים בכל יום על עבודות החיפוש, ואמר כי \"אפשר לעשות יותר - ויותר מהר\". הוא שיתף כי \"ישראל מתכוננת להביא כוחות בינלאומיים לחיפוש מעמיק יותר\""
+      "summary": "אלעד אור, אחיו של החלל החטוף דרור אור, שיתף בריאיון לאולפן ynet כי המשפחה מקבלת עדכונים בכל יום על עבודות החיפוש, ואמר כי \"אפשר לעשות יותר - ויותר מהר\". הוא שיתף כי \"ישראל מתכוננת להביא כוחות בינלאומיים לחיפוש מעמיק יותר\""
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -195,7 +225,17 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Jurors in high-profile Australian trial visit beach where murder victim found",
+      "title": "How Tanzania police crushed election protests with lethal force",
+      "url": "https://www.bbc.com/news/articles/c3vn4rlqd52o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8803/live/3a914c20-c15f-11f0-8456-eff94716b162.png",
+      "published_at": "2025-11-17T05:02:23.000Z",
+      "summary": "The UN says hundreds of people were killed in the protests. Verified clips show the violent actions of police as they attempted to crush protests."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Jury in high-profile Australian trial visit beach where murder victim found",
       "url": "https://www.bbc.com/news/articles/crexy0e2373o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48ac/live/144476b0-c370-11f0-9025-d749f5f8d7b7.png",
       "published_at": "2025-11-17T04:49:38.000Z",
@@ -225,7 +265,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Bangladesh live: Tribunal’s verdict against former PM Sheikh Hasina shortly",
+      "title": "Live: Bangladesh tribunal reads verdict against deposed ex-PM Sheikh Hasina",
       "url": "https://www.aljazeera.com/news/liveblog/2025/11/17/bangladesh-live-court-verdict-against-toppled-ex-pm-sheikh-hasina-expected?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-17T04:39:06.000Z",
@@ -832,16 +872,6 @@
       "summary": "Soldiers from the IDF's 228th and 300th Brigades took part in the operations, under the command of the 91st Division."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Border Police accused of detaining entire Bedouin hamlet for hours in blanket sweep",
-      "url": "https://www.timesofisrael.com/border-police-accused-of-detaining-entire-bedouin-hamlet-for-hours-in-blanket-sweep/",
-      "image": null,
-      "published_at": "2025-11-16T20:05:15.000Z",
-      "summary": "Residents of West Bank village say officers rounded up all 180 residents, including kids and elderly, during raid to search for weapons, in what would mark highly unusual action\nThe post Border Police accused of detaining entire Bedouin hamlet for hours in blanket sweep appeared first on The Times o"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1022,16 +1052,6 @@
       "summary": "Trump calls Greene a &#039;traitor&#039; and rescinds his endorsement of the lawmaker."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Iran begins cloud seeding to induce rain amid historic drought",
-      "url": "https://www.bbc.com/news/articles/cj4172yl0l1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6888/live/41ee2db0-c300-11f0-bdc1-a928b34ade94.jpg",
-      "published_at": "2025-11-16T17:02:02.000Z",
-      "summary": "Iran’s largest lake has largely dried out and people are resorting to praying for rain in some areas"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1142,16 +1162,6 @@
       "summary": "Children turn war-shattered ruins into makeshift skateparks as mental health crisis deepens."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "פלא אנושי בגרמניה",
-      "url": "https://www.ynet.co.il/news/article/hkdgq00we11l",
-      "image": null,
-      "published_at": "2025-11-16T16:13:42.000Z",
-      "summary": "בעולם האקדמי יש פעילים פרו-פלסטיניים הסבורים שכל מפגש עם ישראלים מעניק לגיטימציה למדינה ולכן עדיף להחרימם. קבוצה קטנה של סטודנטים וסטודנטיות עשתה את הבלתי אפשרי"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1160,26 +1170,6 @@
       "image": null,
       "published_at": "2025-11-16T16:13:04.000Z",
       "summary": "In an exchange leaked from the cabinet meeting, Netanyahu told National Missions Minister Orit Strock that he \"did not know\" until when a ceasefire in Gaza would hold."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"רק שלא יהפוך לסמל כמו הדר גולדין\": החשש של אם החלל החטוף רן גואילי",
-      "url": "https://www.ynet.co.il/news/article/syegeldlzx",
-      "image": null,
-      "published_at": "2025-11-16T16:10:30.000Z",
-      "summary": "גואילי הוא חלל חטוף אחד מתוך שלושה שעדיין בעזה, אך אימו טליק מנסה לשמור על אופטימיות. \"מקווים שנמצא אינפורמציה חדשה ושיהיו בשורות טובות בקרוב\", אמרה בריאיון לאולפן ynet. מטה המשפחות זעם על דברי סטרוק, לפיהם המלחמה \"לא נועדה להשיב חטופים\": \"רן נפל לאחר שהציל עשרות - חובת המדינה להשיבו\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Nigeria vs DR Congo 1-1 (3-4 penalties) – CAF World Cup playoff final",
-      "url": "https://www.aljazeera.com/sports/liveblog/2025/11/16/live-nigeria-vs-dr-congo-caf-world-cup-qualifiers-playoff-final?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-16T16:00:00.000Z",
-      "summary": "All the updates as DR Congo beat Nigeria in the CAF playoffs final for the 2026 FIFA World Cup."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1492,26 +1482,6 @@
       "summary": "“This is not the way of the Torah, this is not the way of the State of Israel; these violent criminals must be dealt with severely,” Opposition head Yair Lapid stated."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "South Korean actress and K-pop star fights off home intruder",
-      "url": "https://www.bbc.com/news/articles/czr1dm5vkjdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b577/live/a5bbc610-c2ae-11f0-b6ec-5792363f89a7.jpg",
-      "published_at": "2025-11-16T06:05:29.000Z",
-      "summary": "The star and her mother physically subdued a man who broke into her home with a weapon, according to South Korean media."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Thirteen injured after demolition derby car hits crowd in Australia",
-      "url": "https://www.bbc.com/news/articles/c8x1k0x2k2lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcbf/live/150ec0e0-c286-11f0-ae46-bd64331f0fd4.jpg",
-      "published_at": "2025-11-16T05:37:42.000Z",
-      "summary": "The car was taking part in the race in New South Wales when it drove through a fence and hit the grandstand, police said."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1550,26 +1520,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17cb/live/5d3ccef0-c26f-11f0-ae46-bd64331f0fd4.jpg",
       "published_at": "2025-11-16T03:14:59.000Z",
       "summary": "The protests came weeks after Carlos Manzo, mayor of Uruapan, was killed."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "'We're just going to go through this again': Americans fear second government shutdown",
-      "url": "https://www.bbc.com/news/articles/ce8glerlyrgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7300/live/f67adda0-c17f-11f0-be56-f12785bd2327.jpg",
-      "published_at": "2025-11-16T02:55:31.000Z",
-      "summary": "With the funding deal due to expire at the end of January, Americans are saving up to cope with no income again. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "At least four dead after migrant boats sink in Mediterranean",
-      "url": "https://www.bbc.com/news/articles/cgkz5k5erzgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1986/live/1da758e0-c289-11f0-88d6-3b63f235a784.jpg",
-      "published_at": "2025-11-16T01:58:03.000Z",
-      "summary": "The Libyan Red Crescent says two boats carrying nearly 100 migrants attempting to reach Europe capsized."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1652,16 +1602,6 @@
       "summary": "The crowd smashed the car's windows and threw garbage bags at the vehicle. MK Yoav Ben-Tzur was unharmed and was escorted out by police officers who arrived at the scene"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Zelensky vows energy sector overhaul after $100m corruption scandal",
-      "url": "https://www.bbc.com/news/articles/cvgwyyd8l58o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e1e/live/81c4bf20-c25c-11f0-80d4-cd6e0a140eb7.jpg",
-      "published_at": "2025-11-15T20:26:30.000Z",
-      "summary": "State-owned energy firms will be fully audited and new management brought in, the Ukrainian PM says. "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1670,16 +1610,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-890e-dc34-afbf-fb1ff22c0004/db/04/79133fe147768f3f4160abf32da1/555632.jpg?height=81",
       "published_at": "2025-11-15T20:16:07.000Z",
       "summary": "According to the Kremlin, the two discussed 'recent developments in the Gaza Strip amid the cease-fire, the situation around Iran's nuclear program, and efforts to support stability in Syria.' Earlier this week, Russia submitted its own proposal on Gaza to the UN, challenging the U.S.-drawn plan"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump says he will take legal action against BBC over Panorama edit",
-      "url": "https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0acf/live/f99f2110-c1cc-11f0-8669-5560f5c90fbe.jpg",
-      "published_at": "2025-11-15T19:43:03.000Z",
-      "summary": "The US president confirmed he intends to sue the broadcaster for at least $1bn over the Panorama edit of a 2021 speech. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1720,46 +1650,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-88a8-dc33-afdf-efefec0d0000/ae/46/3a1dcab54ec2b16432314f02ab1e/801479-2.jpg?height=81",
       "published_at": "2025-11-15T17:16:09.000Z",
       "summary": "Demonstrations across Israel have brought former police and judicial leaders, ex-hostages and bereaved families to stages in Tel Aviv, Haifa and Kiryat Gat, as organizers press for a state commission of inquiry into the October 7 failures and renewed action on the return of hostages' bodies"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "DR Congo and M23 rebels sign framework for peace in Qatar",
-      "url": "https://www.bbc.com/news/articles/cwy7zlngwepo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb5/live/c40bd9f0-c23d-11f0-a786-17e554da8bc7.jpg",
-      "published_at": "2025-11-15T17:12:16.000Z",
-      "summary": "Building on previous deals it covers humanitarian access, the return of displaced people and more."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Thousands march outside COP30 summit in call for action",
-      "url": "https://www.bbc.com/news/articles/cy40z22qqwwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6269/live/0e701860-c268-11f0-a3d5-9d7d626b89bd.jpg",
-      "published_at": "2025-11-15T17:09:03.000Z",
-      "summary": "This is the first time since 2021 that protesters have been allowed to demonstrate outside the UN talks."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Driver released after deadly Stockholm bus crash",
-      "url": "https://www.bbc.com/news/articles/c629m7jm777o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a217/live/b51ea9c0-c177-11f0-9e77-171133adaa3b.png",
-      "published_at": "2025-11-15T17:00:29.000Z",
-      "summary": "Police are still investigating the circumstances but said there is no reason to think the crash was intentional. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Pope Leo welcomes Hollywood stars to the Vatican ",
-      "url": "https://www.bbc.com/news/articles/cdxr5drrpqxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/86c877c0-c237-11f0-ae46-bd64331f0fd4.jpg",
-      "published_at": "2025-11-15T16:06:45.000Z",
-      "summary": "Pope Leo spoke to stars including Cate Blanchett, Spike Lee and Viggo Mortensen at the event for global cinema."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1832,16 +1722,6 @@
       "summary": "The local UN peacekeeping force said a concrete wall erected by the IDF has crossed the Blue Line, rendering almost an acre of Lebanese territory inaccessible to the local population. The IDF said it has been reinforcing Israel's northern border barrier, as part of lessons learned from the war'"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Nine killed in accidental blast at police station in Indian-administered Kashmir, officials say",
-      "url": "https://www.bbc.com/news/articles/cnvel2gvqeqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3586/live/25eb4170-c1ed-11f0-a3c4-ebcbc0706d0f.jpg",
-      "published_at": "2025-11-15T10:04:06.000Z",
-      "summary": "Police say the powerful blast severely damaged the police station and engulfed vehicles in flames."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1880,26 +1760,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-8927-df64-a5db-f9afdd1a0000/59/46/944a18df412cb49ae505cfb45492/674233.jpg?height=81",
       "published_at": "2025-11-15T04:27:12.000Z",
       "summary": ""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "China urges citizens not to visit Japan over Taiwan row",
-      "url": "https://www.bbc.com/news/articles/crklvx2n7rzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a30e/live/a4b4b470-c13c-11f0-ae46-bd64331f0fd4.jpg",
-      "published_at": "2025-11-15T03:31:11.000Z",
-      "summary": "Japanese PM Sanae Takaichi had suggested Tokyo could take military action if Beijing attacked Taiwan."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump rolls back tariffs on dozens of food products",
-      "url": "https://www.bbc.com/news/articles/cdjr4xw83eko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c945/live/5af4f750-c1aa-11f0-a67e-9bebb1aed6eb.jpg",
-      "published_at": "2025-11-15T02:11:46.000Z",
-      "summary": "The executive order allowing products like coffee and bananas to escape tariffs comes as the Trump administration faces mounting pressure over rising prices."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
