@@ -1,11 +1,21 @@
 {
-  "generated_at": "2025-11-17T16:12:23.609Z",
+  "generated_at": "2025-11-17T16:47:12.059Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Netanyahu Trial: Judges cancel Wednesday testimony due to “security issue”",
+      "title": "IDF reduces drone weapons smuggling from Egypt, stopping 130 drones in a month",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-874214",
+      "image": null,
+      "published_at": "2025-11-17T18:25:36.000Z",
+      "summary": "Most of the weapons being smuggled are made in Iran or Yemen, according to IDF sources."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Netanyahu Trial: Judges cancel Wednesday testimony due to 'security issue'",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-874211",
       "image": null,
       "published_at": "2025-11-17T18:09:50.000Z",
@@ -40,6 +50,46 @@
       "image": null,
       "published_at": "2025-11-17T17:01:21.000Z",
       "summary": "Reporter's Notebook: Israeli forces are facing a significant national security threat, as Egyptian smugglers send hundreds of weapon-carrying drones per month into Israel."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Teacher killed and 25 girls abducted in gunbattle at Nigerian school",
+      "url": "https://www.bbc.com/news/articles/c5ypn7pwgv5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b847/live/103b0fb0-c3ad-11f0-9282-295abedd69b8.jpg",
+      "published_at": "2025-11-17T16:39:40.000Z",
+      "summary": "The army is called in to help the police search nearby forests and rescue the kidnapped girls."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Two missing after mudslides rip through northern Italy",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/two-missing-after-mudslides-rip-through-northern-italy?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-17T16:17:49.000Z",
+      "summary": "Firefighters are searching for two people missing after a mudslide hit a home overnight in Brazzano di Cormons, Italy."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Japanese PM Takaichi’s Taiwan remarks spark spat with China",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/17/japanese-pm-takaichis-taiwan-remarks-spark-spat-with-china?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-17T16:08:52.000Z",
+      "summary": "China is retaliating over Japanese Prime Minister Sanae Takaichi’s recent comments on Taiwan."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "UK’s sweeping asylum law changes: How will they impact refugees?",
+      "url": "https://www.aljazeera.com/news/2025/11/17/uks-sweeping-asylum-law-changes-how-will-they-impact-refugees?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-17T16:06:43.000Z",
+      "summary": "Britain to announce proposals on asylum with refugees facing longer waits and possible return to their countries. "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -420,16 +470,6 @@
       "image": null,
       "published_at": "2025-11-17T13:49:03.000Z",
       "summary": "פירוק חמאס מנשק לא נראה באופק, וארגון הטרור משתמש בכל האמצעים כדי להתחזק. גביית מיסים על הסיוע הביאה לעליית מחירים: \"חלק עברו לרכישת סיגריה ביום\", סיפר סוחר עזתי. בנקים נפתחים מחדש, בינתיים ללא אספקת מזומנים. גם מתנגדי הארגון רוצים ביטחון, האו\"ם: \"בזכותם\" נבזז רק 5% מהסיוע"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Teacher killed and 25 girls abducted in gunbattle at Nigerian school",
-      "url": "https://www.bbc.com/news/articles/c5ypn7pwgv5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b847/live/103b0fb0-c3ad-11f0-9282-295abedd69b8.jpg",
-      "published_at": "2025-11-17T13:48:26.000Z",
-      "summary": "The army is called in to help the police search nearby forests and rescue the kidnapped girls."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -842,16 +882,6 @@
       "summary": "Sheikh Hasina is credited for the country's economic progress but also accused of authoritarianism."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trita Parsi on Iran, the US and the Middle East",
-      "url": "https://www.aljazeera.com/video/centre-stage/2025/11/17/trita-parsi-on-iran-the-us-and-the-middle-east?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-17T10:43:18.000Z",
-      "summary": "."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -890,26 +920,6 @@
       "image": null,
       "published_at": "2025-11-17T10:04:11.000Z",
       "summary": "Gush Etzion Regional Council reached out to Finance Minister Bezalel Smotrich to request his assistance in dealing with the \"anarchy\" developing in the area in a letter sent in September."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Spain vs Turkiye: World Cup 2026 qualifier – team news, start time, lineups",
-      "url": "https://www.aljazeera.com/sports/2025/11/17/spain-vs-turkiye-world-cup-2026-qualifier-team-news-start-time-lineups?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-17T09:56:02.000Z",
-      "summary": "Group E leaders Spain aim to qualify for direct entry into next year&#039;s World Cup with a final takedown of Turkiye."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Can AI predict famine?",
-      "url": "https://www.aljazeera.com/video/digital-dilemma/2025/11/17/can-ai-predict-famine?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-17T09:54:24.000Z",
-      "summary": "Al Jazeera&#039;s Linh Nguyen looks at whether AI can help to predict famine before it hits."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1482,16 +1492,6 @@
       "summary": "Critics, including opposition leaders and the father of a fallen IDF soldier, accuse Prime Minister Netanyahu of avoiding a truly independent investigation due to fear of the findings. According to the government, a ministerial committee will give its recommendation on the investigation's members an"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF tank accidentally fires 'warning shots' at UNIFIL soldiers in southern Lebanon",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-874056",
-      "image": null,
-      "published_at": "2025-11-16T15:23:51.000Z",
-      "summary": "The UNIFIL soldiers were mistakenly identified as suspicious individuals due to poor weather conditions, the Israeli military said in a statement."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1655,21 +1655,21 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Vetoing Bibi hurts Israel's liberal camp",
-      "url": "https://www.haaretz.com/opinion/2025-11-16/ty-article-opinion/.premium/vetoing-bibi-hurts-israels-liberal-camp/0000019a-8921-d1cc-a9df-eff7c0f00000",
-      "image": "https://img.haarets.co.il/bs/0000019a-892d-d1cc-a9df-efff2a460000/5b/f9/76591c1b4674a24a8a2d93108081/629608-2.jpg?height=81",
-      "published_at": "2025-11-16T04:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
       "title": "Netanyahu seen as biggest obstacle to Trump's efforts to advance plan for Gaza",
       "url": "https://www.haaretz.com/israel-news/2025-11-16/ty-article/.premium/netanyahu-seen-as-biggest-obstacle-to-trumps-efforts-to-advance-plan-for-gaza/0000019a-8947-df64-a5db-f9ef5f370000",
       "image": "https://img.haarets.co.il/bs/0000019a-8a4c-dc33-afdf-ef4f049f0001/fc/81/f6a65d2246a6a10a125b979228fc/197912.jpg?height=81",
       "published_at": "2025-11-16T04:00:00.000Z",
       "summary": "The American's Arab partners see the Israeli prime minister as someone who will not allow any progress toward a Palestinian state. Meanwhile, Netanyahu is openly signaling that he is undermining the transition to the second stage of the Gaza cease-fire"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Vetoing Bibi hurts Israel's liberal camp",
+      "url": "https://www.haaretz.com/opinion/2025-11-16/ty-article-opinion/.premium/vetoing-bibi-hurts-israels-liberal-camp/0000019a-8921-d1cc-a9df-eff7c0f00000",
+      "image": "https://img.haarets.co.il/bs/0000019a-892d-d1cc-a9df-efff2a460000/5b/f9/76591c1b4674a24a8a2d93108081/629608-2.jpg?height=81",
+      "published_at": "2025-11-16T04:00:00.000Z",
+      "summary": ""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
