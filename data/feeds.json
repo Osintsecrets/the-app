@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-11-17T05:40:28.421Z",
+  "generated_at": "2025-11-17T06:15:14.386Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump calls on House Republicans to vote to release Epstein files",
+      "url": "https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68e1/live/d4df66a0-c361-11f0-8669-5560f5c90fbe.jpg",
+      "published_at": "2025-11-17T06:04:35.000Z",
+      "summary": "\"We have nothing to hide,\" Trump writes on Truth Social, after previously fighting a proposal to make more of the Epstein files public. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "LIVE: Russian attack kills 3 in Kharkiv; Ukraine’s Zelenskyy to meet Macron",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/11/17/live-russian-attack-kills-3-in-kharkiv-ukraines-zelenskyy-to-meet-macron?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-17T05:48:40.000Z",
+      "summary": "Russian attack kills three people and injures 10 in Ukraine&#039;s eastern Kharkiv region."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הועלתה רמת האיום על גפני ואשר, הראשון לציון נגד המחאות: \"פורעים זורעים פילוג\"",
+      "url": "https://www.ynet.co.il/news/article/hkl8le00xzl",
+      "image": null,
+      "published_at": "2025-11-17T05:46:27.000Z",
+      "summary": "בדגל התורה הודיעו כי חברי הכנסת יעקב אשר ומשה גפני הועלו לרמת איום 4 בעקבות המחאות, והרב יצחק יוסף - שח\"כ יואב בן צור הותקף מחוץ לשיעור שלו - קרא \"למצות את הדין עם הפורעים\". באשר לחוק הפטור מגיוס אמר: \"הכול מסור לוועדה המיוחדת שמונתה על ידי מועצת חכמי התורה\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אבינתן אור חשף איך כמעט הצליח לברוח: \"ראיתי את הכוכבים, כתבתי 'חטוף' על שק חול\"",
+      "url": "https://www.ynet.co.il/news/article/hyqltq00gze",
+      "image": null,
+      "published_at": "2025-11-17T05:35:51.000Z",
+      "summary": "שורד השבי דיבר בכנס בוושינגטון וחשף פרטים חדשים על ניסיון הבריחה מידי מחבלי חמאס: \"חפרתי במשך שבועות, גרמתי לעצמי לעבוד כדי לשנות את גורלי. אבל הם גילו והכו אותי במשך ימים\". לאחר אותו ניסיון, הוחמרו מאוד תנאיו של אבינתן - שהוחזק לאורך המלחמה ללא חטופים אחרים"
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -20,6 +60,16 @@
       "image": null,
       "published_at": "2025-11-17T05:04:43.000Z",
       "summary": "אנחנו צפויים לאכול עוד הרבה חרא לפני שנתאפס, אבל הרגע הזה יגיע. עד אז נסתפק בניצחונות קטנים"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Jurors in high-profile Australian trial visit beach where murder victim found",
+      "url": "https://www.bbc.com/news/articles/crexy0e2373o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48ac/live/144476b0-c370-11f0-9025-d749f5f8d7b7.png",
+      "published_at": "2025-11-17T04:49:38.000Z",
+      "summary": "Rajwinder Singh denies stabbing the 24-year-old to death in October 2019."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -52,16 +102,6 @@
       "summary": "Hasina is being tried in absentia for crimes against humanity for a violent crackdown on student protests last year."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump calls on House Republicans to vote to release Epstein files",
-      "url": "https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68e1/live/d4df66a0-c361-11f0-8669-5560f5c90fbe.jpg",
-      "published_at": "2025-11-17T04:36:08.000Z",
-      "summary": "\"We have nothing to hide,\" Trump wrote on Truth Social, after previously fighting a proposal to make more of the Epstein files public. "
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -80,6 +120,16 @@
       "image": "https://img.haarets.co.il/bs/00000189-15cb-d572-af9b-15ff3c500003/b4/63/bca36ed9469f9226ad333f0da1ba/f35.jpg?height=81",
       "published_at": "2025-11-17T04:10:29.000Z",
       "summary": "As Trump presses F-35 sales to Saudi Arabia and directs IDF moves in Gaza, Netanyahu's sway fades, normalization talks stall, and Hamas quietly rebuilds – leaving Israel exposed on both military and diplomatic fronts"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Watch: Three 'Nestflix' peregrine falcons each take flight for the first time",
+      "url": "https://www.bbc.com/news/videos/c8drz5gdlm5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46aa/live/af3a3280-c367-11f0-ae46-bd64331f0fd4.jpg",
+      "published_at": "2025-11-17T03:52:12.000Z",
+      "summary": "Three peregrine falcon chicks, stars of the \"Nestflix\" livestream, have finally taken their first flights above the Melbourne city skyline."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -109,7 +159,7 @@
       "url": "https://www.timesofisrael.com/liveblog-november-17-2025/",
       "image": null,
       "published_at": "2025-11-17T03:09:15.000Z",
-      "summary": "Ben Gvir makes late-night visit to southern Israel after reports of heavy gunfire from two Bedouin locales * Trump says planning to meet with Mamdani to ‘work something out’\nThe post Ahead of UN vote, Hamas rejects ‘dangerous’ US proposal for Gaza stabilization force appeared first on The Times of I"
+      "summary": "Ben Gvir makes late-night visit to southern Israel after reports of heavy gunfire from two Bedouin locales * Trump defends Tucker Carlson, says planning to meet with Mamdani to ‘work something out’\nThe post Ahead of UN vote, Hamas rejects ‘dangerous’ US proposal for Gaza stabilization force appeared"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -130,6 +180,16 @@
       "image": null,
       "published_at": "2025-11-17T03:00:00.000Z",
       "summary": "בצפון צה\"ל נערך למבצע נגד חיזבאללה, על רקע התעצמות הארגון והפרות הולכות וגוברות של הסכם הפסקת האש. בדרום מתגבשת בעיה אחרת: ללא כוח רב-לאומי שייכנס לרצועה ויפרק את חמאס מנשקו - הארגון מתחזק, מתבסס ושב לשלוט על כמחצית מהרצועה. הכתב הצבאי של ynet ו\"ידיעות אחרונות\", יואב זיתון, מסביר מה קורה בשטח, מדוע "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ecuador votes against allowing foreign military bases in country",
+      "url": "https://www.bbc.com/news/articles/c891zkwvjl2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ce4/live/5719edd0-c35c-11f0-ab3b-6dd51708161c.jpg",
+      "published_at": "2025-11-17T02:59:09.000Z",
+      "summary": "Voters have rejected a referendum proposal, dealing a blow to President Daniel Noboa and US ambitions in the region."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -525,21 +585,21 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הקרבה, השיטתיות והשווי: משפט נתניהו מתקדם - השאלות הפתוחות בתיק המתנות",
-      "url": "https://www.ynet.co.il/news/article/yokra14582700",
-      "image": null,
-      "published_at": "2025-11-16T22:00:00.000Z",
-      "summary": "1000 סימני שאלה: חקירתו הנגדית של נתניהו בתיק תגיע היום לסיומה. מה הייתה מידת הקִּרבה בינו לבין המיליארדרים מילצ'ן ופאקר? מה היה שווי המתנות שקיבל מהם והאם היה מדובר בשיטתיות? אלה כמה מהשאלות העיקריות שבהן יעסקו השופטים, שלא ברור עד כמה בדיחות הבאגס-באני הצליחו לעורר בהם ספק"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "המציאות העגומה של השבים לצפון: \"גם המורים הטובים ביותר - פשוט קורסים\"",
       "url": "https://www.ynet.co.il/news/article/yokra14576789",
       "image": null,
       "published_at": "2025-11-16T22:00:00.000Z",
       "summary": "רבים מילדי הצפון שבו לבתיהם לאחר שנתיים, אך חודשיים וחצי לשנת הלימודים, התקציב לשיקום החינוך תקוע. בבתי הספר מתמודדים עם פערים עצומים ומחסור כוח אדם מחריף: \"אנחנו בחדר ניתוח במצב אנוש - והרופאים מתווכחים בחוץ\". אזהרת ועד ההורים בק\"ש, והטענה במשרד החינוך: \"יש גאנט, כל דבר יבוא בעיתו\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הקרבה, השיטתיות והשווי: משפט נתניהו מתקדם - השאלות הפתוחות בתיק המתנות",
+      "url": "https://www.ynet.co.il/news/article/yokra14582700",
+      "image": null,
+      "published_at": "2025-11-16T22:00:00.000Z",
+      "summary": "1000 סימני שאלה: חקירתו הנגדית של נתניהו בתיק תגיע היום לסיומה. מה הייתה מידת הקִּרבה בינו לבין המיליארדרים מילצ'ן ופאקר? מה היה שווי המתנות שקיבל מהם והאם היה מדובר בשיטתיות? אלה כמה מהשאלות העיקריות שבהן יעסקו השופטים, שלא ברור עד כמה בדיחות הבאגס-באני הצליחו לעורר בהם ספק"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1112,26 +1172,6 @@
       "summary": "זמיר ביקר בעיר הדרומית ברצועה ואמר כי הצבא \"ערוך למעבר מהיר להתקפה רחבה\". לדבריו, הכוחות ממשיכים לטהר את המרחב סביב הקו הצהוב ומונעים את התעצמות חמאס, והמאמץ לפרק את הארגון יימשך \"בדרך הסכמית או צבאית\""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Zelenskyy says Ukraine working on new prisoner exchange with Russia",
-      "url": "https://www.aljazeera.com/news/2025/11/16/zelenskyy-says-ukraine-working-on-new-prisoner-exchange-with-russia?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-16T15:09:43.000Z",
-      "summary": "Exchanges have been the only progress of any note in negotiations between the two countries in the nearly four-year war."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בארה\"ב מעריכים שטראמפ לא יאשר עסקת F-35 כבר השבוע: \"אולי בן סלמאן ישכנע אותו\"",
-      "url": "https://www.ynet.co.il/news/article/b1qemddgwe",
-      "image": null,
-      "published_at": "2025-11-16T15:01:20.000Z",
-      "summary": "גורמים בממשל אמרו לסוכנות הידיעות AP כי עסקת הענק למכירת מטוסי הקרב המתקדמים לסעודיה לא צפויה לקבל את אישור הנשיא כבר במהלך הביקור הקרוב של יורש העצר הסעודי. אחת הסיבות: החשש בפנטגון שטכנולוגיה מתקדמת תזלוג לידי סין. ההערכה: נורמליזציה עם ישראל - עד סוף כהונת טראמפ"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1140,16 +1180,6 @@
       "image": null,
       "published_at": "2025-11-16T14:49:22.000Z",
       "summary": "“Revitalizing and strengthening the North is a national mission and crucial to Israel’s resilience,” says Rashi CEO Michal Cohen"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הסערה במערכת הפוליטית, ודרישת משפחות נפגעי 7/10: \"נתניהו צריך להיחקר ראשון\"",
-      "url": "https://www.ynet.co.il/news/article/skee3uwewg",
-      "image": null,
-      "published_at": "2025-11-16T14:45:56.000Z",
-      "summary": "החלטת הממשלה שנחשפה ב-ynet מעוררת סערה פוליטית וציבורית: במועצת אוקטובר מתחו ביקורת על הניסיון של נתניהו להקים ועדת חקירה לא-ממלכתית ו\"לקבוע עובדות בשטח\", לפיד טען כי הסירוב לחקור את הכישלון מסכן את ביטחון המדינה. גם איזנקוט, גולן וליברמן תקפו: \"זו ועדת טיוח. נחקר לא ממנה חוקרים\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1705,16 +1735,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "US and UK warn of major e-visa data breach in Somalia",
-      "url": "https://www.bbc.com/news/articles/c620e43z2q5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d6e/live/2766d660-c218-11f0-8456-eff94716b162.jpg",
-      "published_at": "2025-11-15T16:28:26.000Z",
-      "summary": "Tens of thousands of people's personal data has been leaked online, according to the US embassy."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Pope Leo welcomes Hollywood stars to the Vatican ",
       "url": "https://www.bbc.com/news/articles/cdxr5drrpqxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/86c877c0-c237-11f0-ae46-bd64331f0fd4.jpg",
@@ -1910,16 +1930,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-82a0-d3ce-a7de-f7b9d34a0001/f8/ab/782ada174b84a000c80de8554061/625340.jpg?height=81",
       "published_at": "2025-11-14T19:38:20.000Z",
       "summary": "Israel's defense establishment senses that Washington and the Israeli government are shutting it out of planning for Gaza's future; a month after the agreement, Israeli defense officials say the Yellow Line is becoming 'Gaza's Berlin Wall,' with U.S.-led plans on one side and Israel, Hamas and all G"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "UK court finds mining firm liable for Brazil's worst environmental disaster",
-      "url": "https://www.bbc.com/news/articles/c8034v2e3l3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f45f/live/927b2210-c16b-11f0-a255-0f6bee817455.jpg",
-      "published_at": "2025-11-14T17:39:50.000Z",
-      "summary": "The 2015 dam collapse killed 19 people, polluted a river and destroyed hundreds of homes."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2360,16 +2370,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-7c7a-d326-a3ff-fc7b02300001/0f/d6/9f4354cf4e25b9f5e11277dfe9c4/299225.jpg?height=81",
       "published_at": "2025-11-13T12:24:30.000Z",
       "summary": ""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Russia's AI robot falls seconds after being unveiled",
-      "url": "https://www.bbc.com/news/videos/crre8g5e45jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b1/live/ecf86750-bfba-11f0-ae46-bd64331f0fd4.png",
-      "published_at": "2025-11-12T11:33:59.000Z",
-      "summary": "Footage shows the moment Russia's first anthropomorphic robot fell just seconds after its debut"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
