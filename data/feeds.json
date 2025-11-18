@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-18T04:13:08.078Z",
+  "generated_at": "2025-11-18T04:41:50.826Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Australia detains South African seen at neo-Nazi rally",
+      "url": "https://www.bbc.com/news/articles/cj417gqq5n1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a73f/live/08334e60-c39c-11f0-a624-43243f904594.png",
+      "published_at": "2025-11-18T04:28:43.000Z",
+      "summary": "The civil engineer was seen in the front row of a protest organised by the National Socialist Network."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -65,7 +75,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Trump says U.S. will sell F-35 fighter jets to 'great ally' Saudi Arabia despite Israel opposition",
+      "title": "Trump says U.S. will sell F-35 fighter jets to 'great ally' Saudi Arabia despite Israeli opposition",
       "url": "https://www.haaretz.com/israel-news/2025-11-18/ty-article-live/trump-says-u-s-will-sell-f-35-jets-to-great-ally-saudi-arabia-despite-israel-opposition/0000019a-94f2-d8b5-abbf-b7f3969d0000",
       "image": "https://img.haarets.co.il/bs/0000019a-94f3-d0a6-a3fe-f4f79c7e0001/27/18/408c7a1b4d9c8c38e041a63865aa/826791.jpg?height=81",
       "published_at": "2025-11-18T03:28:26.000Z",
@@ -525,7 +535,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "לוין בראש, גם סמוטריץ, בן גביר והשר שהציע להטיל אטום בפנים: הוועדה שתקבע את מנדט ועדת החקירה",
+      "title": "לוין בראש, גם סמוטריץ', בן גביר והשר שהציע להטיל אטום בפנים: הוועדה שתקבע את מנדט ועדת החקירה",
       "url": "https://www.ynet.co.il/news/article/sj0vk11yebe",
       "image": null,
       "published_at": "2025-11-17T21:11:52.000Z",
@@ -1170,16 +1180,6 @@
       "image": null,
       "published_at": "2025-11-17T16:06:43.000Z",
       "summary": "Britain to announce proposals on asylum with refugees facing longer waits and possible return to their countries. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Australia revokes visa of South African seen at neo-Nazi rally",
-      "url": "https://www.bbc.com/news/articles/cj417gqq5n1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a73f/live/08334e60-c39c-11f0-a624-43243f904594.png",
-      "published_at": "2025-11-17T16:00:42.000Z",
-      "summary": "The civil engineer was seen in the front row of a protest organised by the National Socialist Network."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1895,21 +1895,21 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Vetoing Bibi hurts Israel's liberal camp",
-      "url": "https://www.haaretz.com/opinion/2025-11-16/ty-article-opinion/.premium/vetoing-bibi-hurts-israels-liberal-camp/0000019a-8921-d1cc-a9df-eff7c0f00000",
-      "image": "https://img.haarets.co.il/bs/0000019a-892d-d1cc-a9df-efff2a460000/5b/f9/76591c1b4674a24a8a2d93108081/629608-2.jpg?height=81",
-      "published_at": "2025-11-16T04:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
       "title": "Netanyahu seen as biggest obstacle to Trump's efforts to advance plan for Gaza",
       "url": "https://www.haaretz.com/israel-news/2025-11-16/ty-article/.premium/netanyahu-seen-as-biggest-obstacle-to-trumps-efforts-to-advance-plan-for-gaza/0000019a-8947-df64-a5db-f9ef5f370000",
       "image": "https://img.haarets.co.il/bs/0000019a-8a4c-dc33-afdf-ef4f049f0001/fc/81/f6a65d2246a6a10a125b979228fc/197912.jpg?height=81",
       "published_at": "2025-11-16T04:00:00.000Z",
       "summary": "The American's Arab partners see the Israeli prime minister as someone who will not allow any progress toward a Palestinian state. Meanwhile, Netanyahu is openly signaling that he is undermining the transition to the second stage of the Gaza cease-fire"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Vetoing Bibi hurts Israel's liberal camp",
+      "url": "https://www.haaretz.com/opinion/2025-11-16/ty-article-opinion/.premium/vetoing-bibi-hurts-israels-liberal-camp/0000019a-8921-d1cc-a9df-eff7c0f00000",
+      "image": "https://img.haarets.co.il/bs/0000019a-892d-d1cc-a9df-efff2a460000/5b/f9/76591c1b4674a24a8a2d93108081/629608-2.jpg?height=81",
+      "published_at": "2025-11-16T04:00:00.000Z",
+      "summary": ""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
