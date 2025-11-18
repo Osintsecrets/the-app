@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-18T11:08:22.087Z",
+  "generated_at": "2025-11-18T11:34:34.317Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -32,6 +32,26 @@
       "summary": "Israeli rider enters the Dubai International Baja, aiming for a global title, carrying a message shaped by resilience, loss, and belief that human connection can survive even when governments clash."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ex-Harvard president Larry Summers steps back from public role after Epstein email release",
+      "url": "https://www.bbc.com/news/articles/cddr199d3z0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92db/live/036be790-c426-11f0-8669-5560f5c90fbe.jpg",
+      "published_at": "2025-11-18T11:33:38.000Z",
+      "summary": "The former US treasury secretary says he is \"ashamed\" of his emails to the late sex offender."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "נשיא העליון: \"לא דבק רבב בדוד זיני\". אזרחים התפרצו: \"הוא קדוש, השופט טמא\"",
+      "url": "https://www.ynet.co.il/news/article/rkmsecklzl",
+      "image": null,
+      "published_at": "2025-11-18T11:25:12.000Z",
+      "summary": "התבטאויות שופטי העליון מלמדות כי הם לא צפויים לפסול את מינוי האלוף זיני לראש השב\"כ, אך בכל זאת לאורך הדיון נרשמו שורת התפרצויות של תומכיו - גם מצד ח\"כ טלי גוטליב, ששוב הוצאה על-ידי הנשיא עמית"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -40,6 +60,16 @@
       "image": null,
       "published_at": "2025-11-18T11:22:14.000Z",
       "summary": "During the investigation, Lahav 433 learned that the three officials used their positions within the rabbinical court system to blackmail a fourth official into advancing their personal interests. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump’s Gaza plan now has “authority to use force”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/11/18/aje-onl-qt-daniel-forti-181125?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-18T11:17:59.000Z",
+      "summary": "“There is actually a need for an operation to have the permission to use force to maintain law and order in Gaza.&quot;"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -55,7 +85,37 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "1 מכל 3 בי-ם, ו מכל 5 בת\"א: כמה ילדים בעיר שלכם? | הנתונים והשיאניות",
+      "title": "פרשת המין בכלא צלמון: עונש קל לסוהרת שהואשמה בקיום יחסים עם אסירים",
+      "url": "https://www.ynet.co.il/news/article/bjv7ttkg11e",
+      "image": null,
+      "published_at": "2025-11-18T11:11:51.000Z",
+      "summary": "כתב האישום ייחס לה ניהול קשרים אינטימיים עם חמישה אסירים ועם קצין - אך הסוהרת לשעבר מכלא צלמון תרצה חודש בלבד של עבודות שירות"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Hailing Hamas? Comparing Netanyahu to Hitler? In Turkey, Erdogan is denounced for being 'too moderate' on Gaza",
+      "url": "https://www.haaretz.com/opinion/2025-11-18/ty-article-opinion/.premium/hailing-hamas-in-turkey-erdogan-is-denounced-for-being-too-moderate-on-gaza/0000019a-9607-d2c1-addf-d72fba480000",
+      "image": "https://img.haarets.co.il/bs/0000019a-960f-d0a6-a3fe-f60fc30d0001/b4/19/a39e1816481b8ebb2a7d95a98771/194633.jpg?height=81",
+      "published_at": "2025-11-18T11:08:47.000Z",
+      "summary": "The public mood in Turkey against Israel, and also against its tiny Jewish community, is so vitriolic that outspoken Erdogan faces constant criticism for being too soft. The Turkish president is hoping that sending peacekeeping troops to Gaza will squash his opponents' claims that he hasn't done eno"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Zelensky to visit Turkey to discuss end to war without Russian presence",
+      "url": "https://www.timesofisrael.com/zelensky-to-visit-turkey-to-discuss-end-to-war-without-russian-presence/",
+      "image": null,
+      "published_at": "2025-11-18T10:59:40.000Z",
+      "summary": "Ukraine president's trip to Istanbul will follow visits to Paris, where he signed a weaponry purchase deal, and Spain, where he will speak to Sanchez, King Felipe\nThe post Zelensky to visit Turkey to discuss end to war without Russian presence appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "1 מכל 3 בי-ם, ומכל 5 בת\"א: כמה ילדים בעיר שלכם? | הנתונים והשיאניות",
       "url": "https://www.ynet.co.il/news/article/skk1u6yewx",
       "image": null,
       "published_at": "2025-11-18T10:59:02.000Z",
@@ -117,7 +177,7 @@
       "topic": "News",
       "title": "Brazil creates new Indigenous territories after COP30 protests ",
       "url": "https://www.bbc.com/news/articles/c1d0vekq12ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1694/live/3823c5c0-c458-11f0-8a46-59224c61e7f0.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f5/live/471607a0-c471-11f0-9b68-57906bffd3ed.jpg",
       "published_at": "2025-11-18T10:13:43.000Z",
       "summary": "President Luiz Inácio Lula da Silva's government recognises 10 new Indigenous lands during climate summit."
     },
@@ -130,6 +190,16 @@
       "image": null,
       "published_at": "2025-11-18T10:08:47.000Z",
       "summary": "US immigration officers detained more than 130 people over the weekend in Charlotte."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "French energy giant Total faces war crimes allegations over Mozambique massacre",
+      "url": "https://www.bbc.com/news/articles/c4gw119ynlxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fad6/live/f5a44700-c3e0-11f0-bbb8-f506e20a7d44.jpg",
+      "published_at": "2025-11-18T10:02:10.000Z",
+      "summary": "TotalEnergies denies responsibility for the actions of local security forces involved in dozens of killings."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -420,16 +490,6 @@
       "image": null,
       "published_at": "2025-11-18T06:41:38.000Z",
       "summary": "Israel's Fire and Rescue Authority is on the scene, working to put out the fire before it spreads to nearby fields. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Ex-Harvard president Larry Summers steps back from public role after Epstein email release",
-      "url": "https://www.bbc.com/news/articles/cddr199d3z0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92db/live/036be790-c426-11f0-8669-5560f5c90fbe.jpg",
-      "published_at": "2025-11-18T06:28:54.000Z",
-      "summary": "The former US treasury secretary says he is \"ashamed\" of his emails to the late sex offender."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -962,16 +1022,6 @@
       "summary": "Among Jewish Israelis, opposition is even higher at 79%, up from 76% in the previous JCFA poll. This marks the highest level of Jewish-Israeli opposition in its tracking since the war began."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Netanyahu welcomes UN vote for Gaza plan, says it &#8216;will lead to peace and prosperity&#8217;",
-      "url": "https://www.timesofisrael.com/liveblog-november-18-2025/",
-      "image": null,
-      "published_at": "2025-11-17T22:15:32.000Z",
-      "summary": "Trump to roll out red carpet for Saudi prince with offer of fighter jets, business deals * Hamas: Resistance against Israel ‘by all means is a legitimate right’\nThe post Netanyahu welcomes UN vote for Gaza plan, says it &#8216;will lead to peace and prosperity&#8217; appeared first on The Times of I"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1212,16 +1262,6 @@
       "summary": "New attacks near Bethlehem and Hebron underscore intensifying Israeli violence in occupied Palestinian territory."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ישראל פנתה להאג: \"בטלו את צווי המעצר - ופסלו את התובע שפעל ממניעים פסולים\"",
-      "url": "https://www.ynet.co.il/news/article/bkdzulfl11e",
-      "image": null,
-      "published_at": "2025-11-17T20:10:45.000Z",
-      "summary": "בצל ההאשמות כי התובע קארים חאן מיהר להגיש את צווי המעצר נגד נתניהו ושר הביטחון לשעבר גלנט כדי להסיט את תשומת הלב מחקירה בגין עבירות המין נגדו, ישראל מבקשת שביה\"ד הבינלאומי יפסול אותו מהתיקים - וכן יבטל את הצווים: \"כי זיהום ההליך שנגרם עקב מעשיו של התובע עמוק ובלתי ניתן לתיקון\""
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1232,16 +1272,6 @@
       "summary": "The Justice Ministry warned that Social Equality Minister May Golan's plan could increase crime due to slashes in programs that help people in debt in Arab communities. The education and welfare ministries also believe that the plan is harmful"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "טראמפ מאשר: נמכור לסעודיה מטוסי F-35",
-      "url": "https://www.ynet.co.il/news/article/rys9aetxbl",
-      "image": null,
-      "published_at": "2025-11-17T20:00:41.000Z",
-      "summary": "לקראת הפגישה מחר בבית הלבן עם יורש העצר הסעודי מוחמד בן סלמאן, הודיע הנשיא האמריקני כי הוא יאשר למכור לסעודיה את מטוסי הקרב המתקדמים: \"נעשה את זה, הם היו בעלי ברית נהדרים\". עסקת הענק בין וושינגטון לריאד מעוררת חשש בישראל, ותפגע ביתרון האיכותי שלה בשמי המזרח התיכון"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1250,16 +1280,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9225-dbc2-abff-d3e51e1e0001/d8/0e/560997c14c35a44cb793150ea14c/figurines.png?height=81",
       "published_at": "2025-11-17T20:00:20.000Z",
       "summary": "By the prehistoric Sea of Galilee, a Natufian in an early village made and fired what may be the world's earliest figurine of a lively scene"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "‘Disturbing pattern’: US judge rebukes ‘missteps’ in James Comey indictment",
-      "url": "https://www.aljazeera.com/news/2025/11/17/disturbing-pattern-us-judge-rebukes-missteps-in-james-comey-indictment?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-17T20:00:08.000Z",
-      "summary": "Judge William Fitzpatrick wrote there was &#039;a reasonable basis&#039; to question whether &#039;government misconduct&#039; occurred."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1965,21 +1985,21 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Netanyahu seen as biggest obstacle to Trump's efforts to advance plan for Gaza",
-      "url": "https://www.haaretz.com/israel-news/2025-11-16/ty-article/.premium/netanyahu-seen-as-biggest-obstacle-to-trumps-efforts-to-advance-plan-for-gaza/0000019a-8947-df64-a5db-f9ef5f370000",
-      "image": "https://img.haarets.co.il/bs/0000019a-8a4c-dc33-afdf-ef4f049f0001/fc/81/f6a65d2246a6a10a125b979228fc/197912.jpg?height=81",
-      "published_at": "2025-11-16T04:00:00.000Z",
-      "summary": "The American's Arab partners see the Israeli prime minister as someone who will not allow any progress toward a Palestinian state. Meanwhile, Netanyahu is openly signaling that he is undermining the transition to the second stage of the Gaza cease-fire"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
       "title": "Vetoing Bibi hurts Israel's liberal camp",
       "url": "https://www.haaretz.com/opinion/2025-11-16/ty-article-opinion/.premium/vetoing-bibi-hurts-israels-liberal-camp/0000019a-8921-d1cc-a9df-eff7c0f00000",
       "image": "https://img.haarets.co.il/bs/0000019a-892d-d1cc-a9df-efff2a460000/5b/f9/76591c1b4674a24a8a2d93108081/629608-2.jpg?height=81",
       "published_at": "2025-11-16T04:00:00.000Z",
       "summary": ""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Netanyahu seen as biggest obstacle to Trump's efforts to advance plan for Gaza",
+      "url": "https://www.haaretz.com/israel-news/2025-11-16/ty-article/.premium/netanyahu-seen-as-biggest-obstacle-to-trumps-efforts-to-advance-plan-for-gaza/0000019a-8947-df64-a5db-f9ef5f370000",
+      "image": "https://img.haarets.co.il/bs/0000019a-8a4c-dc33-afdf-ef4f049f0001/fc/81/f6a65d2246a6a10a125b979228fc/197912.jpg?height=81",
+      "published_at": "2025-11-16T04:00:00.000Z",
+      "summary": "The American's Arab partners see the Israeli prime minister as someone who will not allow any progress toward a Palestinian state. Meanwhile, Netanyahu is openly signaling that he is undermining the transition to the second stage of the Gaza cease-fire"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2242,16 +2262,6 @@
       "summary": "Israel's defense establishment senses that Washington and the Israeli government are shutting it out of planning for Gaza's future; a month after the agreement, Israeli defense officials say the Yellow Line is becoming 'Gaza's Berlin Wall,' with U.S.-led plans on one side and Israel, Hamas and all G"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Drought and settler violence make 2025 West Bank olive harvest worst in living memory",
-      "url": "https://www.haaretz.com/israel-news/2025-11-14/ty-article/.premium/drought-and-settler-violence-make-2025-west-bank-olive-harvest-worst-in-living-memory/0000019a-8358-dc33-afdf-ef5f36de0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-8363-dc33-afdf-ef67662a0000/47/51/5137bdf54fa1ad212f82c485ae7a/674286.jpg?height=81",
-      "published_at": "2025-11-14T17:35:31.000Z",
-      "summary": "This year's olive harvest will not exceed 10,000 tons – less than a tenth of the average over the past decade, according to the Palestinian Olive Council's estimate. Unlike in Israel, Palestinian olive farming relies almost entirely on rainfall"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -2260,106 +2270,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c4d/live/3bba9f00-c161-11f0-ae46-bd64331f0fd4.jpg",
       "published_at": "2025-11-14T14:04:30.000Z",
       "summary": "The BBC's James Landale reports from the east of the capital where a drone struck a multi-storey residential building."
-    },
-    {
-      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
-      "source": "Bellingcat",
-      "topic": "OSINT",
-      "title": "Building on Ruins: The Russification of Mariupol, One Apartment Block at a Time",
-      "url": "https://www.bellingcat.com/news/uk-and-europe/2025/11/14/building-on-ruins-the-russification-of-mariupol-one-apartment-block-at-a-time/",
-      "image": null,
-      "published_at": "2025-11-14T10:20:39.000Z",
-      "summary": "× “They Are Building Houses on Bones” It’s the second time Moreva has lost her home. She fled to Mariupol from Makiivka, an industrial city near Donetsk, after Russia occupied Donbas in 2014. The 57-year-old rebuilt her life in the port city, working as a professor in Mariupol State University’s eco"
-    },
-    {
-      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
-      "source": "Bellingcat",
-      "topic": "OSINT",
-      "title": "Geolocating Darfur Killings of Those Escaping Al Fashir",
-      "url": "https://www.bellingcat.com/news/2025/11/05/geolocating-darfur-killings-of-those-escaping-al-fashir/",
-      "image": null,
-      "published_at": "2025-11-05T13:35:27.000Z",
-      "summary": "Warning: Contains written descriptions of extreme violence including murder. All graphic footage has been omitted. A Bellingcat investigation has identified and verified the exact location of a mass killing of more than 80 people that took place near Al Fashir during the recent siege and takeover of"
-    },
-    {
-      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
-      "source": "Bellingcat",
-      "topic": "OSINT",
-      "title": "&#8216;Pattern of Extreme Brutality&#8217;: Tear Gas, Pepper Balls Among Weapons Deployed Against Protesters in Illinois",
-      "url": "https://www.bellingcat.com/news/2025/10/31/illinois-immigration-protests/",
-      "image": null,
-      "published_at": "2025-10-31T18:58:48.000Z",
-      "summary": "To stay up to date on our latest investigations, join Bellingcat’s new WhatsApp channel&#160;here. This investigation is part of a collaboration between Bellingcat and Evident. You can watch Evident’s video here. Children in Chicago’s Old Irving Park neighbourhood were preparing for a Halloween para"
-    },
-    {
-      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
-      "source": "Bellingcat",
-      "topic": "OSINT",
-      "title": "Russia’s Grain Smuggling Fleet Continues Undeterred",
-      "url": "https://www.bellingcat.com/news/2025/10/23/russias-grain-smuggling-fleet-continues-undeterred/",
-      "image": null,
-      "published_at": "2025-10-23T08:41:07.000Z",
-      "summary": "An investigation by Bellingcat has identified yet another Russian-flagged bulk carrier, Irtysh (IMO: 9664976), operating in defiance of Western sanctions by exporting grain from occupied Crimea to Houthi-controlled Yemen.&#160; Following the same pattern of deceptive methods used by other vessels in"
-    },
-    {
-      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
-      "source": "Bellingcat",
-      "topic": "OSINT",
-      "title": "How a Former Political Hopeful Helps Russian Neo-Nazi Group Rusich Sell its Online Merch",
-      "url": "https://www.bellingcat.com/news/2025/10/21/how-a-former-political-hopeful-helps-russian-neo-nazi-group-rusich-sell-its-online-merch/",
-      "image": null,
-      "published_at": "2025-10-21T09:47:12.000Z",
-      "summary": "To stay up to date on our latest investigations, join Bellingcat’s new WhatsApp channel here. Editor&#8217;s note: Vladislav Gillung officially changed his name to Vladislav Romanov in his twenties. Although the first recorded use of him as Romanov is from the period between 2020 and 2022, we will r"
-    },
-    {
-      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
-      "source": "Bellingcat",
-      "topic": "OSINT",
-      "title": "Wildfires Ravage One of Africa’s Largest Nature Reserves",
-      "url": "https://www.bellingcat.com/news/2025/10/07/wildfires-ravage-one-of-africas-largest-nature-reserves/",
-      "image": null,
-      "published_at": "2025-10-07T15:39:01.000Z",
-      "summary": "Late last month, fires engulfed Namibia’s most visited wildlife reserve &#8211; Etosha National Park. An analysis of satellite imagery by Bellingcat has found that more than a third of the park was affected, impacting crucial grazing lands for endangered species, including black rhinos, giraffes and"
-    },
-    {
-      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
-      "source": "Bellingcat",
-      "topic": "OSINT",
-      "title": "Australian Cocaine Pilot Killed in Brazil Plane Crash Linked to Kinahan Drug Cartel",
-      "url": "https://www.bellingcat.com/news/2025/09/27/australian-cocaine-pilot-killed-in-brazil-plane-crash-linked-to-kinahan-drug-cartel/",
-      "image": null,
-      "published_at": "2025-09-27T15:57:08.000Z",
-      "summary": "This article is the result of a collaboration with The Sunday Times. To stay up to date on our latest investigations, join Bellingcat’s new WhatsApp channel here. An Australian pilot who recently died when his small plane crashed in South America during a failed drug run has links to an alleged Kina"
-    },
-    {
-      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
-      "source": "Bellingcat",
-      "topic": "OSINT",
-      "title": "Like Clockwork: An Orange Wall Exposes Yet Another Active Club ‘Fight Night’",
-      "url": "https://www.bellingcat.com/news/2025/09/15/active-club-fight-night-2025-san-diego/",
-      "image": null,
-      "published_at": "2025-09-15T16:06:39.000Z",
-      "summary": "To stay up to date on our latest investigations, join Bellingcat&#8217;s new WhatsApp channel here. The organisers of an annual combat sports event allegedly told the venue owner that they were using the space to film an activewear commercial featuring a small “crowd” including women and children.&#"
-    },
-    {
-      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
-      "source": "Bellingcat",
-      "topic": "OSINT",
-      "title": "Incendiary Munitions Strike Gaza-bound Flotilla Two Nights in a Row",
-      "url": "https://www.bellingcat.com/news/2025/09/10/incendiary-munitions-strike-gaza-bound-flotilla-two-nights-in-a-row/",
-      "image": "https://www.bellingcat.com/app/uploads/2025/09/Synced-Drops.mp4",
-      "published_at": "2025-09-10T15:23:07.000Z",
-      "summary": "On September 8 and 9, two vessels of the Gaza-bound Global Sumud Flotilla (GSF) were attacked outside the port of Sidi Bou Said in Tunisia. Bellingcat analysed footage and images from both incidents. The experts consulted believe improvised incendiary munitions were likely used. The trajectory follo"
-    },
-    {
-      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
-      "source": "Bellingcat",
-      "topic": "OSINT",
-      "title": "Trump’s Takeover of DC: Traffic Stops Turn Into Immigration Arrests for Delivery Riders and Workers",
-      "url": "https://www.bellingcat.com/news/2025/09/08/dc-trump-feds-immigration-delivery-riders/",
-      "image": null,
-      "published_at": "2025-09-08T16:10:26.000Z",
-      "summary": "Four masked men in police tactical vests surround a young scooter rider, cuffing his hands behind his back. One person, whose face is fully obscured with a cap, sunglasses and a balaclava, is heard on eyewitness video telling the scooter rider: “You came into this country as a J1, as an exchange stu"
     },
     {
       "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
