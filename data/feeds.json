@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-11-19T09:11:10.627Z",
+  "generated_at": "2025-11-19T09:39:42.874Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "\"Being There Changes You\"",
+      "url": "https://www.jpost.com/israel-news/article-874437",
+      "image": null,
+      "published_at": "2025-11-19T11:35:37.000Z",
+      "summary": "Young Jewish professionals describe the March of the Living experience that became a turning point"
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "UTJ's Degel HaTorah gives green light to advance haredi draft bill",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-874434",
+      "image": null,
+      "published_at": "2025-11-19T11:23:40.000Z",
+      "summary": "Developments on the controversial bill had previously been halted in the Knesset’s Foreign Affairs and Defense Committee since the opening of the winter session in October."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -32,14 +52,84 @@
       "summary": "Guy Luzon’s side showed remarkable character in Budapest, climbing temporarily into second place in Group G and injecting new life into its campaign."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ניהול חקירת הפצ\"רית: בקשת לוין לקראת העתירות הצפויות לבג\"ץ נגד מועמדו",
+      "url": "https://www.ynet.co.il/news/article/bksaheiewe",
+      "image": null,
+      "published_at": "2025-11-19T09:32:53.000Z",
+      "summary": "בג\"ץ קבע כי מנהל חקירת יפעת תומר-ירושלמי צריך להיות עובד מדינה, ומששר המשפטים מינה מועמד שאינו עומד בקריטריון - הוא מבקש להעסיקו באופן זמני. במקביל, בקשה לדיון נוסף נגד הסמכות שניתנה ללוין: \"פגיעה בשלטון החוק\""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Lebanese man goes on trial in Germany for supplying Hezbollah with drone parts",
+      "url": "https://www.timesofisrael.com/lebanese-man-goes-on-trial-in-germany-for-supplying-hezbollah-with-drone-parts/",
+      "image": null,
+      "published_at": "2025-11-19T09:28:58.000Z",
+      "summary": "Defendant accused of providing thousands of components, including some used in 2024 strike on retirement home in Herzliya\nThe post Lebanese man goes on trial in Germany for supplying Hezbollah with drone parts appeared first on The Times of Israel.\n"
+    },
+    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Nine killed in Russian attack on western Ukraine, says Zelensky",
+      "title": "Russian strike on flats kills 10 in one of deadliest attacks on western Ukraine",
       "url": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca3/live/9e7fcd50-c51b-11f0-9129-896fa1393664.jpg",
-      "published_at": "2025-11-19T09:06:45.000Z",
-      "summary": "Blocks of flats were hit in the western city of Ternopil and many people were left dead and wounded, said Ukraine's leader. "
+      "published_at": "2025-11-19T09:27:27.000Z",
+      "summary": "Residential areas of Ternopil were hit and many people were left dead and wounded, say officials"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israeli attack on refugee camp in Lebanon opens “very dangerous door”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/11/19/israeli-attack-on-refugee-camp-in-lebanon-opens-very-dangerous?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-19T09:22:14.000Z",
+      "summary": "“ This could open the door to some major escalation now, in the near future.”"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Cooperation not threats: Nigeria wants US alliance to curb violent attacks",
+      "url": "https://www.aljazeera.com/features/2025/11/19/cooperation-not-threats-nigeria-wants-us-alliance-to-curb-violent-attacks?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-19T09:19:48.000Z",
+      "summary": "Refuting US claims of &#039;Christian genocide&#039;, Nigeria&#039;s information minister says Abuja seeks stronger US security ties."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "At least nine killed, dozens injured in Russian attacks across Ukraine",
+      "url": "https://www.aljazeera.com/news/2025/11/19/children-among-the-36-wounded-in-russias-overnight-attacks-on-ukraine?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-19T09:15:14.000Z",
+      "summary": "Moscow claims Ukraine tried to hit civilian targets with US-made ATACMS missiles in Russia&#039;s southern city of Voronezh."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "יעל עברה בנעוריה אונס קבוצתי. אחרי שנים של הדחקה היא נלחמת: \"הייתי רוח רפאים\"",
+      "url": "https://www.ynet.co.il/news/article/rynoxrcxbl",
+      "image": null,
+      "published_at": "2025-11-19T09:11:36.000Z",
+      "summary": "יעל אריאל עברה פגיעה מינית בילדותה, ובגיל 12 נאנסה על ידי קבוצת נערים שהכירה. במשך שנים היא הדחיקה את הטראומה, עד שאירוע נוסף אילץ אותה להתעמת עם השדים שליוו אותה כל חייה. היום היא מלמדת בני נוער לזהות סיטואציות בעייתיות: \"אני רוצה שיידעו להבחין במצוקה ולעצור בזמן\""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Japan's largest urban fire in decades rips through 170 buildings",
+      "url": "https://www.bbc.com/news/videos/cx207dw3v5yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6389/live/a8daa100-c519-11f0-b288-51552c83ad58.jpg",
+      "published_at": "2025-11-19T09:10:24.000Z",
+      "summary": "Local media say one person was killed in the fire in the city of Oita, on the Japanese island of Kyushu."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -50,6 +140,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e64/live/56bbfc60-c47a-11f0-b288-51552c83ad58.jpg",
       "published_at": "2025-11-19T09:06:43.000Z",
       "summary": "The US-based Trinidadian rapper addressed the UN in New York alongside Trump administration officials, making claims that lack evidence."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Ahead of the budget, are the superrich really fleeing the UK due to taxes?",
+      "url": "https://www.aljazeera.com/news/2025/11/19/are-the-superrich-really-fleeing-the-uk-due-to-taxes?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-19T09:05:51.000Z",
+      "summary": "Experts doubt the details of a reported exodus, but tensions are growing between business leaders and the government."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -149,7 +249,7 @@
       "url": "https://www.ynet.co.il/news/article/hjmdvljxbe",
       "image": null,
       "published_at": "2025-11-19T07:49:54.000Z",
-      "summary": "נציגי אכ\"א חשפו כי אנשי הקבע, בהם בכירים, ביקשו למעשה \"להתפטר\" לפני תום שירותם: \"היו כאלה שדחינו את פרישתם כי פשוט אין להם תחליף\". ירידה מדאיגה בקרב צעירים: \"60% הביעו חוסר רצון להמשיך\". קצין שנפצע קשה תקף: \"חצי שנה הייתי בעזה בלי רגע להסתכל על התלוש - ואתם מגנים על אברכים ולא עליי?\""
+      "summary": "נציגי אכ\"א חשפו כי אנשי הקבע, בהם בכירים, ביקשו למעשה \"להתפטר\" לפני תום שירותם: \"היו כאלה שנדחתה פרישתם כי פשוט אין להם תחליף\". ירידה מדאיגה במוטיבציה בקרב צעירים: \"60% הביעו חוסר רצון להמשיך\". קצין שנפצע קשה תקף: \"חצי שנה הייתי בעזה - ואתם מגנים על תלמיד ישיבה ולא עליי?\""
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -842,16 +942,6 @@
       "summary": "ראש המטה לפשיעה בחברה הערבית במשרד רה\"מ, עו\"ד רואי כחלון, טען כי חקירה שבה פתחה נגדו בהרב-מיארה \"לוותה בשורת כשלים מהותיים\". הוא הגדיר את החקירה \"מופרכת\", וטען כי הפגיעה בשמו פוגעת ביכולתו \"להתמודד על תפקידים בכירים בשירות המדינה\""
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "US Congress approves bill calling for release of Epstein files after Trump U-turn",
-      "url": "https://www.timesofisrael.com/us-house-votes-to-force-release-of-epstein-files-senate-could-follow-soon/",
-      "image": null,
-      "published_at": "2025-11-18T21:52:01.000Z",
-      "summary": "American lawmakers vote almost unanimously for release of files on the convicted sex offender, who the US president says he kicked out of his club for being 'a sick pervert'\nThe post US Congress approves bill calling for release of Epstein files after Trump U-turn appeared first on The Times of Isra"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1002,16 +1092,6 @@
       "summary": "The US House of Representatives voted 427 to 1 to release documents related to sexual offender Jeffrey Epstein."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "MBS: No normalisation with Israel without path to Palestinian statehood",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/mbs-no-normalisation-with-israel-without-path-to-palestinian-statehood?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-18T20:01:24.000Z",
-      "summary": "Saudi Crown Prince Mohammed bin Salman says Riyadh sought to join Trump’s Abraham Accords to normalise ties with Israel."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1022,16 +1102,6 @@
       "summary": "The man is the leader of a neo-Nazi international extremist group called Maniac Murder Cult, whose violent solicitations appear to have inspired multiple real-life killings, including a school shooting in Nashville, Tennessee, earlier this year"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "What is the F-35 fighter jet, and why does Saudi Arabia want it?",
-      "url": "https://www.aljazeera.com/news/2025/11/18/what-is-the-f-35-fighter-jet-and-why-does-saudi-arabia-want-it?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-18T19:56:25.000Z",
-      "summary": "As Saudi Crown Prince Mohammed bin Salman visits the US, we take a look at the fighter jet his country wants to buy."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1040,16 +1110,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9866-d5e6-abff-fcf68a060000/ba/04/42b9c990465d8d8caf65ff360830/836063-2.jpg?height=81",
       "published_at": "2025-11-18T19:43:32.000Z",
       "summary": "The new member of opposition leader Yair Lapid's Yesh Atid party commanded several West Bank military units and served as the head of the IDF's Northern Command. On October 7, 2023, he went to rescue his son Amir, a Haaretz columnist, and his family from a Gaza border kibbutz that was attacked by Ha"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Meta prevails in existential challenge as court rules it’s not a monopoly",
-      "url": "https://www.aljazeera.com/economy/2025/11/18/meta-prevails-in-existential-challenge-as-court-rules-its-not-a-monopoly?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-18T19:37:02.000Z",
-      "summary": "A US judge ruled that the social media landscape had &#039;changed markedly&#039; since the lawsuit was brought five years ago."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1072,16 +1132,6 @@
       "summary": "בג\"ץ הוציא צו על תנאי המחייב להסביר את האפליה בין הלומי הקרב לנכים הפיזיים, ובה פער גדול במענקי הדיור וכשלי ועדות החריגים. בעתירה נטען: מצבם של הלומי הקרב \"לעיתים חמור יותר משל נכים פיזיים\". פורום המאגד אלפי הלומי קרב בירך: \"פציעה נפשית אינה פחות אמיתית - מכאן נתקן\""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "העימות על הפיילוט של מירי רגב לייבוא נהגים זרים: \"יירקו גם עליהם - והם יעזבו\"",
-      "url": "https://www.ynet.co.il/news/article/bkoapv5xzl",
-      "image": null,
-      "published_at": "2025-11-18T19:22:34.000Z",
-      "summary": "על רקע מחסור של אלפי נהגים ועליית מדרגה באלימות בתחבורה הציבורית, משרד התחבורה מבקש לקדם פיילוט להבאת 1,000 עובדים זרים. המהלך מעורר התנגדות מצד ועדי הנהגים: \"זה לא ישפר את המצב ויגרום לעזיבת ותיקים\". בינתיים הציבור סובל מאיכות השירות והנהגים מעומסי עבודה: \"צריך לחשוב מחוץ לקופסה\""
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1090,26 +1140,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8667/live/6fb18b00-c4b0-11f0-b288-51552c83ad58.jpg",
       "published_at": "2025-11-18T19:17:16.000Z",
       "summary": "The president made the comment to a female reporter while speaking to the press on Air Force One on Friday."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "לוין בחר שופט בדימוס שיפקח על חקירת הפצ\"רית: \"אין עובד מדינה שעומד בתנאים\"",
-      "url": "https://www.ynet.co.il/news/article/hyhaxh5lzl",
-      "image": null,
-      "published_at": "2025-11-18T19:10:00.000Z",
-      "summary": "שר המשפטים מציע את שופט המחוזי בדימוס יוסף בן חמו: בג\"ץ פסק כי על לוין למנות עובד מדינה מכהן בכיר, אבל הוא טען כי לא מצא אחד שלא כפוף מקצועית או ניהולית לייעוץ המשפטי לממשלה או לפרקליטות המדינה. לוין אמר שביקש למנות שופט מכהן - אבל לא קיבל הסכמה"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Saudi Crown Prince: Don’t let Osama bin Laden sour US-Saudi relations",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/saudi-crown-prince-dont-let-osama-bin-laden-sour-us-saudi-relations?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-18T19:06:48.000Z",
-      "summary": "Saudi Crown Prince Mohammed bin Salman said Osama bin Laden led the 9/11 attacks to destroy US-Saudi relations."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1460,26 +1490,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92db/live/036be790-c426-11f0-8669-5560f5c90fbe.jpg",
       "published_at": "2025-11-18T11:33:38.000Z",
       "summary": "The former US treasury secretary says he is \"ashamed\" of his emails to the late sex offender."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Former chief rabbi among three probed for bribery, extortion in rabbinical courts",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-874274",
-      "image": null,
-      "published_at": "2025-11-18T11:22:14.000Z",
-      "summary": "During the investigation, Lahav 433 learned that the three officials used their positions within the rabbinical court system to blackmail a fourth official into advancing their personal interests. "
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Netanyahu praises UNSC Gaza resolution vote, thanks US President Trump",
-      "url": "https://www.jpost.com/israel-news/article-874272",
-      "image": null,
-      "published_at": "2025-11-18T11:15:14.000Z",
-      "summary": "\"Israel extends its hand in peace and prosperity to all of our neighbors and calls on them to normalize relations with Israel,\" the PMO stated."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1970,16 +1980,6 @@
       "image": "https://img.haarets.co.il/bs/00000189-15cb-d572-af9b-15ff3c500003/b4/63/bca36ed9469f9226ad333f0da1ba/f35.jpg?height=81",
       "published_at": "2025-11-17T04:10:29.000Z",
       "summary": "At the end of his first term, Trump intended to link the Abraham Accords to a deal to sell F-35s to the UAE. But now, the president views the sale as a key element of U.S. foreign policy, contradicting the longstanding U.S. policy of preserving Israel's qualitative military edge in the Middle East"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Watch: Three 'Nestflix' peregrine falcons each take flight for the first time",
-      "url": "https://www.bbc.com/news/videos/c8drz5gdlm5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46aa/live/af3a3280-c367-11f0-ae46-bd64331f0fd4.jpg",
-      "published_at": "2025-11-17T03:52:12.000Z",
-      "summary": "Three peregrine falcon chicks, stars of the \"Nestflix\" livestream, have finally taken their first flights above the Melbourne city skyline."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
