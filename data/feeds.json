@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-11-19T22:38:27.930Z",
+  "generated_at": "2025-11-19T23:08:52.439Z",
   "items": [
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "IDF launches wave of airstrikes across Gaza after troops come under fire",
+      "url": "https://www.timesofisrael.com/idf-launches-wave-of-airstrikes-across-gaza-after-troops-come-under-fire/",
+      "image": null,
+      "published_at": "2025-11-19T22:52:39.000Z",
+      "summary": "Hamas-linked authorities report 25 killed in strikes target commander of Hamas’s Zeitoun Battalion and naval chief; EU official says bloc wants to train up to 3,000 Palestinian police\nThe post IDF launches wave of airstrikes across Gaza after troops come under fire appeared first on The Times of Isr"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Italy to extradite Nord Stream blast suspect to Germany",
+      "url": "https://www.bbc.com/news/articles/c4gwgd0rjdzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b67/live/e280c680-c593-11f0-b336-71a88b56470b.png",
+      "published_at": "2025-11-19T22:42:05.000Z",
+      "summary": "Former Ukrainian military officer Serhiy Kuznetsov will face a charge of anti-constitutional sabotage in Berlin."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Family demands independent medical care for US teen detained by Israel",
+      "url": "https://www.aljazeera.com/news/2025/11/19/family-demands-independent-medical-care-for-us-teen-detained-by-israel?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-19T22:39:12.000Z",
+      "summary": "Mohammed Ibrahim&#039;s uncle says a US official told his family that his health is deteriorating in Israeli detention."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli Justice Ministry agrees: Bill to restrict foreign-funded NGOs infringes on basic rights",
+      "url": "https://www.haaretz.com/israel-news/2025-11-20/ty-article/.premium/israeli-justice-ministry-bill-to-restrict-foreign-funded-ngos-infringes-on-basic-rights/0000019a-9e25-dd6e-a5fa-ffe5ecc80000",
+      "image": "https://img.haarets.co.il/bs/0000019a-306f-d804-a9df-387f3a070000/ae/95/f091ddd94d97a454e3c8edc9b89d/613451.jpg?height=81",
+      "published_at": "2025-11-19T22:37:54.000Z",
+      "summary": "A representative told a Knesset committee that the ministry accepts the opinion of the panel's legal adviser, according to which the bill aimed at non-profit organizations receiving funding from foreign countries harms democracy"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +50,16 @@
       "image": null,
       "published_at": "2025-11-19T22:37:14.000Z",
       "summary": "A suspicious envelope was found in Prime Minister Benjamin Netanyahu's office. Paramedics and additional forces ruled out that it contained a dangerous substance."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israel kills at least 28 Palestinians in wave of Gaza ‘ceasefire’ attacks",
+      "url": "https://www.aljazeera.com/news/2025/11/19/israel-kills-at-least-25-palestinians-in-wave-of-gaza-attacks?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-19T22:30:16.000Z",
+      "summary": "Gaza&#039;s Health Ministry says Israeli attacks also wounded 77 people, fuelling panic across the war-ravaged enclave."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -520,16 +570,6 @@
       "image": null,
       "published_at": "2025-11-19T18:41:42.000Z",
       "summary": "אחרי שהקונגרס אישר, בתמיכת הנשיא, הצעה שמחייבת לפרסם את כל המסמכים שנוגעים לפרשת המיליארדר הפדופיל - משרד המשפטים הודיע כי יעשה זאת תוך 30 יום: \"מעודדים שקיפות מרבית\". ברקע: מיילים של אפשטיין שבהם טען כי טראמפ העביר שעות בביתו עם אחת הבנות, הנשיא טוען: \"אין לי מה להסתיר\""
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Wave of IDF strikes hit Hezbollah weapons depots in south Lebanon after warnings",
-      "url": "https://www.timesofisrael.com/wave-of-idf-strikes-hit-hezbollah-weapons-depots-in-south-lebanon-after-warnings/",
-      "image": null,
-      "published_at": "2025-11-19T18:30:27.000Z",
-      "summary": "Military accuses Hezbollah of 'blatant' ceasefire violation by restoring infrastructure in village of Beit Lif, says deal oversight mechanism did not address concerns\nThe post Wave of IDF strikes hit Hezbollah weapons depots in south Lebanon after warnings appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1082,16 +1122,6 @@
       "summary": "The Washington deal helps Orban before the election but exposes the fragility of Hungary&#039;s illiberal rule."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "George & The Whales: A Guide’s Life Among Tonga’s Giants",
-      "url": "https://www.aljazeera.com/video/digidocs/2025/11/19/aje-onl-georgethewhales_digidocs-191125?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-19T14:00:09.000Z",
-      "summary": "Meet George, a whale-watching guide in Tonga whose bond with the humpback whales runs deep."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1100,16 +1130,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/825c/live/bbaa0e60-c474-11f0-9b68-57906bffd3ed.png",
       "published_at": "2025-11-19T13:52:41.000Z",
       "summary": "The confusing question lingering over the AI hype is whether it could be a bubble at risk of bursting"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Video: Football ‘minnows’ qualify for FIFA World Cup",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/video-football-minnows-qualify-for-fifa-world-cup?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-19T13:50:27.000Z",
-      "summary": "A number of other underdog nations have just qualified for the FIFA World Cup finals."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -2330,16 +2350,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-8de5-d63c-ad9b-8defc6870000/fe/40/c4f24b9441b98be5b0b073a7d071/752135-1.jpg?height=81",
       "published_at": "2025-11-16T23:02:34.000Z",
       "summary": "Prime Minister Benjamin Netanyahu is a criminal who represents the end of Israel's democracy, while the former IDF chief legal officer is simply an official who tried, unsuccessfully, to defend it"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Stateless nations face off as Palestine plays its first soccer game on European soil",
-      "url": "https://www.haaretz.com/israel-news/sports/2025-11-17/ty-article-magazine/.premium/stateless-nations-face-off-as-palestine-plays-its-first-soccer-game-on-european-soil/0000019a-8e16-d1fb-a5ba-bf5fa5b50000",
-      "image": "https://img.haarets.co.il/bs/0000019a-8e8f-d84c-a3be-ff8fcd600000/f7/bf/d1d71fb44b1c8e551ecaf10b2d8e/803225-2.jpg?height=81",
-      "published_at": "2025-11-16T22:03:41.000Z",
-      "summary": "In its first soccer game in Europe, the Palestinian national team faced an opponent unrecognized by FIFA, but one that recognizes Palestine: the Basque national team. Palestine lost 3-0, but spectators seemed less focused on the score and more on the message the match conveyed to the world"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
