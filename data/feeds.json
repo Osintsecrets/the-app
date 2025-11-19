@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-11-19T14:09:24.247Z",
+  "generated_at": "2025-11-19T14:41:53.676Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "'A ticking time bomb': Experts warns Israel, Lebanon border is a misstep away from confilict",
+      "url": "https://www.jpost.com/israel-news/article-874484",
+      "image": null,
+      "published_at": "2025-11-19T16:22:51.000Z",
+      "summary": "Israel is accelerating targeted strikes against Hezbollah positions, leading to Lebanon filing an urgent complaint to the UN Security Council, in a moment of increasing friction."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "WATCH: 1,000th US military aid aircraft lands in Israel, Baram calls it 'crucial link'",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-874483",
+      "image": null,
+      "published_at": "2025-11-19T16:14:45.000Z",
+      "summary": "To date, over 120,000 tons of military equipment, munitions, weapons systems, and protective gear have been transferred to Israel via 1,000 aircraft and approximately 150 maritime vessels."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -42,6 +62,26 @@
       "summary": "Over the past month, security forces arrested multiple Israeli and Syrian civilians for their involvement in the network, which smuggled various types of weapons from Syria into Israel."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Nicki Minaj supports contested Trump claim Christians being persecuted in Nigeria",
+      "url": "https://www.bbc.com/news/articles/cd7r1y30ljqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0748/live/167e1ed0-c538-11f0-b4db-7fe51d77cd43.jpg",
+      "published_at": "2025-11-19T14:24:29.000Z",
+      "summary": "The US-based Trinidadian rapper addressed the UN in New York alongside Trump administration officials, making claims that lack evidence."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Children among 25 killed in one of Russia's deadliest strikes on western Ukraine",
+      "url": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/deab3670-c530-11f0-bf7b-db7c049674ab.jpg",
+      "published_at": "2025-11-19T14:23:43.000Z",
+      "summary": "Two blocks of flats were attacked in the western city of Ternopil. One was almost destroyed."
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -50,6 +90,16 @@
       "image": null,
       "published_at": "2025-11-19T14:00:09.000Z",
       "summary": "Meet George, a whale-watching guide in Tonga whose bond with the humpback whales runs deep."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Kenyan authorities paid trolls to threaten Gen Z protesters, Amnesty says",
+      "url": "https://www.bbc.com/news/articles/c3vngv60l0qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06aa/live/24a2eda0-c548-11f0-b288-51552c83ad58.jpg",
+      "published_at": "2025-11-19T13:58:22.000Z",
+      "summary": "A widespread campaign sought to \"silence and suppress\" protesters, Amnesty International says."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -152,16 +202,6 @@
       "summary": "The decision, made despite two legal opinions opposing attorney Amit Hadad's dual representation, prompted committee member, attorney Inbal Rubinstein, to resign"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Children among 25 killed in one of Russia's deadliest strikes on western Ukraine",
-      "url": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/deab3670-c530-11f0-bf7b-db7c049674ab.jpg",
-      "published_at": "2025-11-19T13:15:37.000Z",
-      "summary": "Two blocks of flats were attacked in the western city of Ternopil. One was almost destroyed."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -235,11 +275,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הקו התקיף נשבר: החרדים זעמו, נתניהו צפוי להתקפל - והלוחמים מזהירים מקריסה",
+      "title": "החרדים זעמו, נתניהו צפוי להתקפל. המ\"פ הגיע לכנסת וזעק: \"אתם פוגעים בנו\" | צפו",
       "url": "https://www.ynet.co.il/news/article/rynbg4jxwl",
       "image": null,
       "published_at": "2025-11-19T13:02:35.000Z",
-      "summary": "רה\"מ נסוג מהעמדה שהציגה מפלגתו לאחר ה\"אור הירוק\" של המנהיגות הליטאית, ונוטה להסכים לדיונים בחוק הפטור מגיוס בלחץ החרדים. לתוך המתח הזה נכנסה פסיקת בג\"ץ, שהתקבלה בכעס חריף בקרב המפלגות החרדיות. מ\"פ שנפצע קשה בעזה זעק בכנסת: \"מה אנחנו אמורים לחשוב כשאתם מעבירים חוק השתמטות?\""
+      "summary": "הקו התקיף נשבר: רה\"מ נסוג מהעמדה שהציגה מפלגתו לאחר ה\"אור הירוק\" של המנהיגות הליטאית, ובלחץ החרדים נוטה להסכים לדיונים בחוק הפטור מגיוס. לתוך המתח הזה נכנסה פסיקת בג\"ץ, שעליה כועסים במפלגות החרדיות. המ\"פ שנפצע קשה בעזה: \"מה אנחנו אמורים לחשוב כשאתם מעבירים חוק השתמטות?\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -390,16 +430,6 @@
       "image": null,
       "published_at": "2025-11-19T12:05:16.000Z",
       "summary": "אתר החדשות הגרמני DW ריאיין גורם בחברה האחראית להגעתם של יותר מ-100 עזתים לדרום אפריקה, שטען כי הוא פלסטיני מירושלים ש\"עוזר לעם שלי לא למות ברצועה\". הוא הוסיף: \"חמאס והרשות הפלסטינית לא רוצים שהעזתים יעזבו\""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Nicki Minaj supports contested Trump claim Christians being persecuted in Nigeria",
-      "url": "https://www.bbc.com/news/articles/cd7r1y30ljqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0748/live/167e1ed0-c538-11f0-b4db-7fe51d77cd43.jpg",
-      "published_at": "2025-11-19T12:00:57.000Z",
-      "summary": "The US-based Trinidadian rapper addressed the UN in New York alongside Trump administration officials, making claims that lack evidence."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -685,11 +715,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "ניהול חקירת הפצ\"רית: בקשת לוין לקראת העתירות הצפויות לבג\"ץ נגד מועמדו",
+      "title": "ה\"פתרון\" של לוין לבג\"ץ: השופט שיחקור את הפצ\"רית ייקלט כעובד מדינה, בלי מכרז",
       "url": "https://www.ynet.co.il/news/article/bksaheiewe",
       "image": null,
       "published_at": "2025-11-19T09:32:53.000Z",
-      "summary": "בג\"ץ קבע כי מנהל חקירת יפעת תומר-ירושלמי צריך להיות עובד מדינה, ומששר המשפטים מינה מועמד שאינו עומד בקריטריון - הוא מבקש להעסיקו באופן זמני. במקביל, בקשה לדיון נוסף נגד הסמכות שניתנה ללוין: \"פגיעה בשלטון החוק\""
+      "summary": "בג\"ץ קבע כי מנהל חקירת תומר-ירושלמי יהיה עובד מדינה, אך לוין מינה את השופט בדימוס יוסף בן חמו שאינו עומד בקריטריון - וכעת מבקש להעסיקו באופן זמני, בהסכמת נציב שירות המדינה, שהעניק פטור ממכרז. וגם: כך פעל לוין לקדם את בנו של בן חמו בעבר. בקשה לדיון נוסף בבג\"ץ נגד הסמכות שניתנה ללוין"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -785,7 +815,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הותר לפרסום: זה קמ\"ן פיקוד הדרום בזמן טבח 7/10 שניהל רומן אסור עם פקודתו",
+      "title": "זה קמ\"ן פיקוד הדרום בזמן טבח 7/10 שניהל רומן אסור עם פקודתו",
       "url": "https://www.ynet.co.il/news/article/sy5lc5s31g",
       "image": null,
       "published_at": "2025-11-19T08:52:40.000Z",
@@ -1015,7 +1045,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israeli army says it's carrying out strikes against Hezbollah targets in southern Lebanon",
+      "title": "IDF carrying out several strikes against Hezbollah in Lebanon throughout Wednesday",
       "url": "https://www.haaretz.com/israel-news/2025-11-19/ty-article-live/hamas-denies-israeli-claim-that-lethal-airstrike-targeted-training-compound-in-lebanon/0000019a-9a19-d7d6-ab9f-ffd928420000",
       "image": "https://img.haarets.co.il/bs/0000019a-9b43-d7d6-ab9f-ffdba7fa0000/a5/0c/c9e79eab4f39830c9e56cfc900d3/812060.jpg?height=81",
       "published_at": "2025-11-19T03:24:56.000Z",
@@ -1185,7 +1215,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israeli settlers are here, and they have brought destruction with them",
+      "title": "Israeli settlers don't combat terror – they make the terror",
       "url": "https://www.haaretz.com/opinion/2025-11-18/ty-article-opinion/.premium/israeli-settlers-are-here-and-they-have-brought-destruction-with-them/0000019a-98a4-d67f-adbe-dee766ef0000",
       "image": "https://img.haarets.co.il/bs/0000019a-792c-d326-a3ff-fd3dfc900001/fc/b1/eaaa150844098e96b731d8c10d33/270914.jpg?height=81",
       "published_at": "2025-11-18T21:30:47.000Z",
@@ -1352,16 +1382,6 @@
       "summary": "A teacher and a security guard die in the raid on a school in which 25 children and a teacher are abducted."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Netanyahu’s first testimony in Case 4000 cross-examination sees sharp clash over media influence",
-      "url": "https://www.jpost.com/israel-news/benjamin-netanyahu/article-874339",
-      "image": null,
-      "published_at": "2025-11-18T17:03:23.000Z",
-      "summary": "Case 4000 explores the Netanyahu's seeking favorable coverage in Israeli media, particularly their relationship with Bezeq owner Shaul Elovitch, who owned the Walla news site."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1370,16 +1390,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f5/live/471607a0-c471-11f0-9b68-57906bffd3ed.jpg",
       "published_at": "2025-11-18T16:50:22.000Z",
       "summary": "President Lula's government recognises 10 new Indigenous lands in an effort to protect their culture and environment."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "October 7 hero Maj.-Gen. (res.) Noam Tibon to enter Israeli politics with Lapid's Yesh Atid",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-874335",
-      "image": null,
-      "published_at": "2025-11-18T16:49:29.000Z",
-      "summary": "Lapid and Tibon will deliver a joint statement at 7:15 p.m."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
