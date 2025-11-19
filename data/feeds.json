@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T10:10:22.591Z",
+  "generated_at": "2025-11-19T10:42:25.300Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -15,7 +15,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "UTJ's Degel HaTorah gives green light to advance haredi draft bill",
+      "title": "Haredi leaders give ‘green light’ to advance controversial conscription bill",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-874434",
       "image": null,
       "published_at": "2025-11-19T11:23:40.000Z",
@@ -45,6 +45,56 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
+      "title": "Russian attack hits flats in one of deadliest strikes on western Ukraine",
+      "url": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/deab3670-c530-11f0-bf7b-db7c049674ab.jpg",
+      "published_at": "2025-11-19T10:34:35.000Z",
+      "summary": "At least 16 people have been killed and dozens more wounded in the attack on the western region of Ternopil."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "חשד: מפקח על חוסה במעון בשרון ביצע בו עבירות מין - ואיים להרוג אותו אם יספר",
+      "url": "https://www.ynet.co.il/news/article/sjna00liebx",
+      "image": null,
+      "published_at": "2025-11-19T10:31:04.000Z",
+      "summary": "בעל מוגבלות כבן 18 במעון \"כפר לי\" התלונן שנפל קורבן לעבירות מין בידי המפקח שלו. לטענת אביו של הצעיר, אותו עובד אף איים על בנו בתנועה של שיסוף גרון: \"אין לנו תמיכה מצד אף גורם\". משרד הרווחה: \"הופסקה עבודתו של החשוד\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "גורמים פלסטיניים טוענים: בוטלה הפגישה בין אל-חיה לוויטקוף \"בשל לחץ ישראלי\"",
+      "url": "https://www.ynet.co.il/news/article/bkbq9msg11x",
+      "image": null,
+      "published_at": "2025-11-19T10:27:31.000Z",
+      "summary": "השליח המיוחד הגיע לטורקיה לקראת הפגישה, אך לפי ערוץ אל-מיאדין היא בוטלה בעקבות לחץ ישראלי. וויטקוף כבר נועד עם אל-חיה באוקטובר, וסיפר בריאיון לתוכנית \"60 דקות\": \"הבענו את התנחומים שלנו על שאיבד את בנו\""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Zelensky visits Turkey in bid to 'intensify' peace talks",
+      "url": "https://www.bbc.com/news/articles/c620p6jnynko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2975/live/2ef97cd0-c49c-11f0-9d93-43c068b4c1e4.jpg",
+      "published_at": "2025-11-19T10:20:41.000Z",
+      "summary": "There were no plans for the Russian side to join the talks, the Kremlin said."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Which teams are in the FIFA World Cup 2026, and who can still qualify?",
+      "url": "https://www.aljazeera.com/sports/2025/11/19/which-teams-are-in-the-fifa-world-cup-2026-and-who-can-still-qualify?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-19T10:07:28.000Z",
+      "summary": "Al Jazeera&#039;s breakdown of the qualified teams, playoffs and shock omissions from the FIFA World Cup in North America."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
       "title": "Family of Indian man lynched over beef rumours vows to keep fighting for justice",
       "url": "https://www.bbc.com/news/articles/cp3delkdjkqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8af7/live/202688b0-c505-11f0-8cf1-fdd4be8468bd.png",
@@ -52,14 +102,34 @@
       "summary": "Mohammad Akhlaq was lynched to death in 2015 over rumours that he had eaten beef. "
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "True climate justice demands a reckoning with colonialism",
+      "url": "https://www.aljazeera.com/opinions/2025/11/19/true-climate-justice-demands-a-reckoning-with-colonialism?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-19T09:56:16.000Z",
+      "summary": "By acknowledging how empire deepened climate vulnerability, the African Court can do what the ICJ refused to."
+    },
+    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
       "title": "Klimt painting second most expensive artwork sold at auction",
       "url": "https://www.bbc.com/news/articles/cm2emm4737zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d09/live/5aff7bc0-c525-11f0-ba4c-a176bf1fb76f.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2512/live/c3b79e00-c533-11f0-9839-6584ec7afe70.jpg",
       "published_at": "2025-11-19T09:55:50.000Z",
       "summary": "The portrait of Austrian heiress Elisabeth Lederer was looted by the Nazis and almost destroyed."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US sells $700m NASAMS missile system to Taiwan",
+      "url": "https://www.aljazeera.com/news/2025/11/19/us-sells-700m-nasams-missile-system-to-taiwan?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-19T09:54:06.000Z",
+      "summary": "The Pentagon approves NASAMS deal as the US reiterates its &#039;rock-solid&#039; commitment to Taipei&#039;s security."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -112,16 +182,6 @@
       "summary": "Defendant accused of providing thousands of components, including some used in 2024 strike on retirement home in Herzliya\nThe post Lebanese man goes on trial in Germany for supplying Hezbollah with drone parts appeared first on The Times of Israel.\n"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Russian strike on flats kills 10 in one of deadliest attacks on western Ukraine",
-      "url": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca3/live/9e7fcd50-c51b-11f0-9129-896fa1393664.jpg",
-      "published_at": "2025-11-19T09:27:27.000Z",
-      "summary": "Residential areas of Ternopil were hit and many people were left dead and wounded, say officials"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -135,7 +195,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Miss Universe judge quits scandal-ridden pageant",
+      "title": "Two Miss Universe judges quit scandal-hit pageant, as one claims it's rigged",
       "url": "https://www.bbc.com/news/articles/crmxgymr8ewo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02fb/live/8aa15d00-c528-11f0-ba4c-a176bf1fb76f.jpg",
       "published_at": "2025-11-19T09:20:11.000Z",
@@ -169,7 +229,7 @@
       "url": "https://www.ynet.co.il/news/article/rynoxrcxbl",
       "image": null,
       "published_at": "2025-11-19T09:11:36.000Z",
-      "summary": "יעל אריאל עברה פגיעה מינית בילדותה, ובגיל 12 נאנסה על ידי קבוצת נערים שהכירה. במשך שנים היא הדחיקה את הטראומה, עד שאירוע נוסף אילץ אותה להתעמת עם השדים שליוו אותה כל חייה. היום היא מלמדת בני נוער לזהות סיטואציות בעייתיות: \"אני רוצה שיידעו להבחין במצוקה ולעצור בזמן\""
+      "summary": "יעל אריאל עברה בילדותה פגיעה מינית - ובגיל 12 נאנסה על ידי קבוצת נערים שהכירה. במשך שנים היא הדחיקה את הטראומה, עד שאירוע נוסף אילץ אותה להתעמת עם השדים שליוו אותה כל חייה. בשנת 2024 לבדה נפתחו מאות תיקי פגיעה מינית שבהם מעורב יותר מפוגע אחד. \"לחץ חברתי הוא דבר מאוד חזק\", אומרת אריאל. \"אני רוצה שידע"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -962,20 +1022,10 @@
       "summary": "In Case 4000, the Israeli prime minister is accused of offering regulatory favors to Bezeq owner Shaul Elovitch in exchange for positive coverage on the Walla news site, which Bezeq owned at the time"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הפרויקטור ממשרד רה\"מ בתלונה חריפה נגד היועמ\"שית: \"עינוי דין מתמשך ומכוון\"",
-      "url": "https://www.ynet.co.il/news/article/h1skvd9lwg",
-      "image": null,
-      "published_at": "2025-11-18T21:56:00.000Z",
-      "summary": "ראש המטה לפשיעה בחברה הערבית במשרד רה\"מ, עו\"ד רואי כחלון, טען כי חקירה שבה פתחה נגדו בהרב-מיארה \"לוותה בשורת כשלים מהותיים\". הוא הגדיר את החקירה \"מופרכת\", וטען כי הפגיעה בשמו פוגעת ביכולתו \"להתמודד על תפקידים בכירים בשירות המדינה\""
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Don't fall for the distractions: The real goal is disrupting Israel's next election",
+      "title": "Don't fall for distractions: The Netanyahu government's real goal is disrupting the next election",
       "url": "https://www.haaretz.com/opinion/2025-11-18/ty-article-opinion/.premium/dont-fall-for-the-distractions-the-real-goal-is-disrupting-israels-next-election/0000019a-983e-d67f-adbe-deff075c0000",
       "image": "https://img.haarets.co.il/bs/0000019a-98e7-d607-ab9e-9be72e1e0000/d9/b1/c15aa3844b28b970282731fdb169/115468-2.jpg?height=81",
       "published_at": "2025-11-18T21:49:23.000Z",
@@ -1032,16 +1082,6 @@
       "summary": "The judge urged the jury to do away with personal feelings about the war on Gaza or the legality of the proscription."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "פוסט ההבהרה של רום ברסלבסקי: \"כתבתי בעיצומה של סערת רגשות והתקף חרדה\"",
-      "url": "https://www.ynet.co.il/news/article/b1bqki5gzg",
-      "image": null,
-      "published_at": "2025-11-18T21:25:19.000Z",
-      "summary": "שורד השבי ביקש להבהיר את הביקורת הנוקבת על המדינה והסיוע הלא-מספק לשבים. הוא התנצל בפני הגופים שטען שלא מסייעים, אך הבהיר: \"עוזרים, לא מספיק\". הוא ביקש להודות לכל מי שסייע ולכוחות הביטחון, הביע תקווה ל\"חיים רגילים\" - ופנה לכלל הרשויות: \"חבל שאתם לא יכולים לעשות יותר בשבילנו\""
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1060,16 +1100,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-98cb-d7d6-ab9f-fddb93400001/a1/1d/845a03af427881b1a65be17e6288/image-2025-11-18-130801117.png?height=81",
       "published_at": "2025-11-18T21:09:26.000Z",
       "summary": ""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US court blocks new Texas congressional map while state officials appeal",
-      "url": "https://www.aljazeera.com/news/2025/11/18/us-court-blocks-new-texas-congressional-map-while-state-officials-appeal?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-18T21:09:20.000Z",
-      "summary": "The majority on a federal court in El Paso, Texas, found that the new map used race to redraw congressional districts."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1100,26 +1130,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-989d-dd6e-a5fa-fbfdde7c0000/52/57/129ae2024e04b19930776498883c/836763.jpg?height=81",
       "published_at": "2025-11-18T20:32:46.000Z",
       "summary": "Despite Trump's insistence that Saudi-U.S. ties are a good thing for Americans, parts of his base, who see the Middle East as a distraction from an America First agenda, might be unconvinced"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Saudi Crown Prince promises trillion-dollar investments with US",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/saudi-crown-prince-promises-trillion-dollar-investments-with-us?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-18T20:06:39.000Z",
-      "summary": "Saudi Crown Prince Mohammed bin Salman promised to invest almost a trillion dollars in new deals with the US. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "House passes bill demanding government release Epstein files",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/18/house-passes-bill-demanding-government-release-epstein-files?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-18T20:04:32.000Z",
-      "summary": "The US House of Representatives voted 427 to 1 to release documents related to sexual offender Jeffrey Epstein."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1292,16 +1302,6 @@
       "summary": "A majority of coalition voters now believe, according to a survey, that Israeli officials knew in advance about Hamas' attack and chose not to prevent it – and the officials who hid during the first days after October 7 went on to evade responsibility by blaming anti-government protesters, the defen"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Zelensky to meet Trump envoy in Turkey in bid to 'intensify' peace talks",
-      "url": "https://www.bbc.com/news/articles/c620p6jnynko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2975/live/2ef97cd0-c49c-11f0-9d93-43c068b4c1e4.jpg",
-      "published_at": "2025-11-18T16:21:51.000Z",
-      "summary": "There were no plans for the Russian side to join the talks, the Kremlin said."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1455,7 +1455,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Former Mossad chief's memoir is 288 pages of Yossi Cohen worshiping himself",
+      "title": "Former Mossad chief's memoir is 288 pages of Yossi Cohen worshipping himself",
       "url": "https://www.haaretz.com/life/books/2025-11-18/ty-article-review/.premium/former-mossad-chiefs-memoir-is-288-pages-of-yossi-cohen-worshipping-himself/0000019a-9671-d0a6-a3fe-f675b63b0000",
       "image": "https://img.haarets.co.il/bs/0000019a-967a-d8b5-abbf-b7fbb9e80000/f0/a1/9517e411411c8fb32db8854c6a0f/555.jpg?height=81",
       "published_at": "2025-11-18T12:58:10.000Z",
