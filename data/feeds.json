@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-19T18:46:07.914Z",
+  "generated_at": "2025-11-19T19:07:30.708Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Ben-Gvir advances death penalty for terrorists bill at Knesset, clashes erupt over legality",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-874522",
+      "image": null,
+      "published_at": "2025-11-19T21:04:26.000Z",
+      "summary": "The issue most debated was the ethical aspects of the bill’s outline, causing the meeting to break out into clashes between Ben-Gvir and the panel."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -42,6 +52,56 @@
       "summary": "The United States, Argentina, Hungary, Paraguay, North Macedonia, Fiji, Papua New Guinea, Palau, and Tonga voted against the resolution."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trial opens into North Macedonia nightclub fire that killed 63",
+      "url": "https://www.bbc.com/news/articles/cp3x3909rqvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5774/live/04ec5cd0-c575-11f0-92f5-0fd46a9dc2cf.jpg",
+      "published_at": "2025-11-19T18:57:33.000Z",
+      "summary": "Thirty-five people and three institutions are on trial. Prosecutors say years of failings turned the venue into a death trap. "
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Harvard reopens probe of ex-president Larry Summers after Epstein emails release",
+      "url": "https://www.timesofisrael.com/harvard-reopens-probe-of-ex-president-larry-summers-after-epstein-emails-release/",
+      "image": null,
+      "published_at": "2025-11-19T18:56:31.000Z",
+      "summary": "Summers, who served as secretary of the treasury under former US president Bill Clinton, steps down from board of OpenAI, but says he will keep teaching at Harvard\nThe post Harvard reopens probe of ex-president Larry Summers after Epstein emails release appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Israeli strikes across Gaza kill 25 Palestinians, health ministry says",
+      "url": "https://www.bbc.com/news/articles/c62e27j69q9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee12/live/26ae8300-c572-11f0-92f5-0fd46a9dc2cf.jpg",
+      "published_at": "2025-11-19T18:45:35.000Z",
+      "summary": "The Israeli military says it struck several Hamas targets after gunmen fired at soldiers in Gaza in violation of the five-week-old ceasefire."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "‘It’s Israeli policy’: Report reveals abuse of Palestinians in prisons",
+      "url": "https://www.aljazeera.com/news/2025/11/19/its-israeli-policy-report-reveals-abuse-of-palestinians-in-prisons?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-19T18:43:08.000Z",
+      "summary": "Physicians for Human Rights-Israel reveals torture, abuse carried out against Palestinians held in Israeli prisons. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "טראמפ התקפל, הקונגרס אישר - ומסמכי אפשטיין ייחשפו תוך 30 יום: \"נציית לחוק\"",
+      "url": "https://www.ynet.co.il/news/article/b1vl000ix11g",
+      "image": null,
+      "published_at": "2025-11-19T18:41:42.000Z",
+      "summary": "אחרי שהקונגרס אישר, בתמיכת הנשיא, הצעה שמחייבת לפרסם את כל המסמכים שנוגעים לפרשת המיליארדר הפדופיל - משרד המשפטים הודיע כי יעשה זאת תוך 30 יום: \"מעודדים שקיפות מרבית\". ברקע: מיילים של אפשטיין שבהם טען כי טראמפ העביר שעות בביתו עם אחת הבנות, הנשיא טוען: \"אין לי מה להסתיר\""
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -59,7 +119,7 @@
       "url": "https://www.ynet.co.il/news/article/rjzwufjxbl",
       "image": null,
       "published_at": "2025-11-19T18:30:03.000Z",
-      "summary": "משלחת שורדי השבי שהוחזקו שנתיים ברצועת עזה תגיע מחר אל הבית הלבן, ואיתן מור יעניק לנשיא ארה\"ב סביבון. אביו כתב לטראמפ: \"תזכורת שהניצחונות הגדולים ביותר שלנו, עתיקים וחדשים, מושגים דרך כוח התקווה לעתיד ילדינו\". לו\"ז המשלחת, שהגיע תחילה בטיסת ארקיע לניו יורק"
+      "summary": "משלחת שורדי השבי שהוחזקו שנתיים ברצועת עזה תגיע מחר לבית הלבן, ואיתן מור יעניק לנשיא ארה\"ב סביבון. אביו כתב לטראמפ: \"תזכורת שהניצחונות הגדולים ביותר שלנו, עתיקים וחדשים, מושגים דרך כוח התקווה לעתיד ילדינו\". לו\"ז המשלחת, שהגיעה תחילה בטיסת ארקיע לניו יורק"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -87,7 +147,7 @@
       "topic": "News",
       "title": "High Court to Netanyahu government: Explain why October 7 state commission hasn't been formed",
       "url": "https://www.haaretz.com/israel-news/2025-11-19/ty-article/.premium/high-court-to-netanyahu-government-explain-why-oct-7-state-commission-hasnt-been-formed/0000019a-9d31-dd6e-a5fa-fff5f3dc0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-9d3c-d67f-adbe-dfff2c370002/b9/a3/a20e8474440389bd9a0d6c7dd7ff/837134.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000018c-acb1-d22c-a98c-fcf5fb180007/56/01/d8019ce744e0bdeac7dcb53b473f/599886-2.jpg?height=81",
       "published_at": "2025-11-19T18:20:47.000Z",
       "summary": "The Court gave the government until January to respond. Earlier this week, Netanyahu's coalition proposed an investigative panel as an alternative to an independent state commission into the Hamas massacre. One minister vowed to examine the Israeli judiciary's 'role' leading up to the attack"
     },
@@ -735,7 +795,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Inside the California lab that shows the contradiction at the heart of the trillion-dollar AI race",
+      "title": "The contradiction at the heart of the trillion-dollar AI race",
       "url": "https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/825c/live/bbaa0e60-c474-11f0-9b68-57906bffd3ed.png",
       "published_at": "2025-11-19T13:52:41.000Z",
@@ -1012,16 +1072,6 @@
       "summary": "הממשלה ויתרה על הקמת ועדת חקירה ממלכתית ומינתה במקום ועדת שרים בראשות לוין שתקבע את מנדט החקירה ל-7/10. בהרכב חברים שרים שסיפקו הצהרות שנויות במחלוקת, מסמוטריץ' שכינה את חמאס \"נכס\" - ועד לסטרוק שקבעה: \"העליון צריך להיות בצד הנחקר\". ויש גם כאלה שהתהפכו ותמכו בעבר בוועדה ממלכתית. אלה חברי הגוף שזכה ממ"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Record-breaking LeBron James returns as LA Lakers down Utah Jazz",
-      "url": "https://www.aljazeera.com/sports/2025/11/19/record-breaking-lebron-james-returns-as-la-lakers-down-utah-jazz?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-19T12:29:28.000Z",
-      "summary": "James began his 23rd NBA season in Lakers&#039; home win as Curry&#039;s Warriors lost to Orlando Magic despite his 34 points."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1030,16 +1080,6 @@
       "image": null,
       "published_at": "2025-11-19T12:28:06.000Z",
       "summary": "שר האנרגיה אלי כהן הבהיר בריאיון לאולפן ynet כי \"הדבר העיקרי זה לשמר את העליונות הצבאית של ישראל במזה\"ת\", אחרי שטראמפ אישר שימכור לסעודיה מטוסי F-35. חרף הצהרותיו של בן סלמאן בעד \"נתיב למדינה פלסטינית\", כהן טוען כי זה לא באמת מעניין ריאד: \"כמה פליטים הסכים לקלוט? לא תהיה להם מדינה\""
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Saudi crown prince heads to a US Congress no longer railing against him",
-      "url": "https://www.timesofisrael.com/saudi-crown-prince-heads-to-a-us-congress-no-longer-railing-against-him/",
-      "image": null,
-      "published_at": "2025-11-19T12:21:23.000Z",
-      "summary": "But Mohammed bin Salman's visit to Capitol will be more subdued than usual for world leaders, and neither the Republican House speaker nor Senate leader plans press remarks with him\nThe post Saudi crown prince heads to a US Congress no longer railing against him appeared first on The Times of Israel"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1202,16 +1242,6 @@
       "summary": "Guy Luzon’s side showed remarkable character in Budapest, climbing temporarily into second place in Group G and injecting new life into its campaign."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ה\"פתרון\" של לוין לבג\"ץ: השופט שיחקור את הפצ\"רית ייקלט כעובד מדינה, בלי מכרז",
-      "url": "https://www.ynet.co.il/news/article/bksaheiewe",
-      "image": null,
-      "published_at": "2025-11-19T09:32:53.000Z",
-      "summary": "בג\"ץ קבע כי מנהל חקירת תומר-ירושלמי יהיה עובד מדינה, אך לוין מינה את השופט בדימוס יוסף בן חמו שאינו עומד בקריטריון - וכעת מבקש להעסיקו באופן זמני, בהסכמת נציב שירות המדינה, שהעניק פטור ממכרז. וגם: המינוי של בנו של בן חמו לשופט, בהסכמה בין פוגלמן ללוין - והבקשה לדיון נוסף נגד הסמכות לשר"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1250,16 +1280,6 @@
       "image": null,
       "published_at": "2025-11-19T05:21:01.000Z",
       "summary": "Before the International Day for the Elimination of Violence Against Women on November 25, the ARCCI noted that several state organizations withheld key information."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "'Things happen' - Trump defends Saudi crown prince over Khashoggi killing",
-      "url": "https://www.bbc.com/news/articles/cn0gdkwp2p9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/969e/live/55d3d520-c510-11f0-b288-51552c83ad58.jpg",
-      "published_at": "2025-11-19T04:55:27.000Z",
-      "summary": "The US president's claims that the crown prince \"knew nothing\" contradict the CIA's own assessment. "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1375,16 +1395,6 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "WATCH: IDF combat soldiers engage in violent brawl at northern base",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-874383",
-      "image": null,
-      "published_at": "2025-11-18T22:48:44.000Z",
-      "summary": "The footage shows soldiers flinging chairs at one another, standing on tables, and hitting one another. Several soldiers attempted to separate those fighting. "
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
       "title": "Bedouin high school in the Negev opens new campus",
       "url": "https://www.jpost.com/israel-news/article-874386",
       "image": null,
@@ -1410,16 +1420,6 @@
       "image": null,
       "published_at": "2025-11-18T22:33:02.000Z",
       "summary": "Thirteen people were killed in the strike, and four were injured, the Lebanese Health Ministry stated."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Lebanon says Israeli strike killed 13 people near Palestinian refugee camp",
-      "url": "https://www.bbc.com/news/articles/c0l73j781y9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa4c/live/097590b0-c4c0-11f0-9c9c-e7c124d0f066.jpg",
-      "published_at": "2025-11-18T22:19:58.000Z",
-      "summary": "The Israeli military says it targeted Hamas members \"operating in a training compound\", which Hamas rejected as \"fabrication and lies\"."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
