@@ -1,11 +1,31 @@
 {
-  "generated_at": "2025-11-20T08:13:41.518Z",
+  "generated_at": "2025-11-20T08:46:00.176Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "IDF reservist wounded in counterror ops in Nablus by Palestinian fire",
+      "title": "Thai authorities find remains of missing Israeli tourist Sagi Mor after he drowned while saving son",
+      "url": "https://www.jpost.com/israel-news/article-874584",
+      "image": null,
+      "published_at": "2025-11-20T10:38:19.000Z",
+      "summary": "Sagi Mor dived into the sea to rescue his son, who was being carried away by strong currents"
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Dozens of Palestinians entered Israel on fake medical claims, health min. official arrested",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-874578",
+      "image": null,
+      "published_at": "2025-11-20T10:22:24.000Z",
+      "summary": "The official, a resident of Jerusalem in his 40s, was also accused of trafficking dangerous medications."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF reservist wounded in counter terror ops in Nablus by Palestinian fire",
       "url": "https://www.jpost.com/israel-news/defense-news/article-874571",
       "image": null,
       "published_at": "2025-11-20T10:04:03.000Z",
@@ -22,6 +42,16 @@
       "summary": "From being bullied in school to his Navy intelligence commander, Jonathan Pollard described how antisemitism shaped his life in the United States."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "לוחם מילואים נפצע בינוני מירי בשכם: \"עשרות נעצרו במבצע ללכידת מחבלים\"",
+      "url": "https://www.ynet.co.il/news/article/by11dqh3gzx",
+      "image": null,
+      "published_at": "2025-11-20T08:38:43.000Z",
+      "summary": "במהלך פעילות לאיתור אמל\"ח ומעצר מחבלים בעיר בצפון השומרון נפתחה אש על כוחות צה\"ל, ולוחם נפצע ופונה לטיפול. לפי הפלסטינים עשרות נעצרו"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -32,6 +62,56 @@
       "summary": "The 15 people were taken from medical care after being rescued from the smoke-filled apartments, after the flames erupted in nine residential buildings."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Will a global oil glut push prices lower in 2026?",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2025/11/20/will-a-global-oil-glut-push-prices-lower-in-2026?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-20T08:34:11.000Z",
+      "summary": "The International Energy Agency warns of an oil surplus in 2026, but OPEC+ predicts a balanced market."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "EU moves to ease AI, privacy rules amid pressure from Big Tech, Trump",
+      "url": "https://www.aljazeera.com/economy/2025/11/20/eu-moves-to-ease-ai-privacy-rules-amid-pressure-from-big-tech-trump?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-20T08:33:57.000Z",
+      "summary": "Bloc proposes delaying strict rules for &#039;high-risk&#039; AI until 2027 in bid to address concerns about lagging innovation."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US military officials in Ukraine amid reports of draft Russia peace plan",
+      "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66be/live/44cc5b80-c57e-11f0-9053-4f5f8839bda7.jpg",
+      "published_at": "2025-11-20T08:31:24.000Z",
+      "summary": "It comes amid reports the US and Russia have prepared a 28-point peace plan, allegedly containing major concessions for Ukraine."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "משה רדמן זומן לחקירה, ארגוני המחאה: \"מנסים להפחיד את הרוב הדמוקרטי\"",
+      "url": "https://www.ynet.co.il/news/article/r1zddn3xbe",
+      "image": null,
+      "published_at": "2025-11-20T08:29:18.000Z",
+      "summary": "אחד ממובילי המחאה נגד הממשלה זומן לחקירה בחשד להפרת סדר בהפגנה במוצ\"ש. הארגונים טוענים כי מדובר ב\"חקירה פוליטית״ וב\"ניסיון להשתיק\" אותם. הם תקפו את השר בן גביר: \"מתערב שוב ושוב בחקירות והפך את המשטרה לכלי אישי. הוא חייב להיות מודח באופן מיידי\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "סוף עצוב לחיפושים בתאילנד: אותרה גופתו של שגיא מור, שזינק לים להציל את בנו",
+      "url": "https://www.ynet.co.il/news/article/ry2a44hl11g",
+      "image": null,
+      "published_at": "2025-11-20T08:27:58.000Z",
+      "summary": "בתום החיפושים אחר האב שנעלם בים הסוער בקופנגן, אותרה גופתו של שגיא, בן 45 מקלע אלון שבגולן. הוא זינק כדי להציל את בנו שנסחף, הצליח לקרב אותו לחוף - אך נסחף בעצמו לעומק הים"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -40,6 +120,26 @@
       "image": null,
       "published_at": "2025-11-20T08:27:07.000Z",
       "summary": "Irish low-cost carrier’s website no longer lists Tel Aviv as a destination after canceling its 2025–2026 winter schedule, leaving the future of its Israel routes uncertain."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Amnesia, nostalgia, healing: Spain grapples with Franco legacy 50 years on",
+      "url": "https://www.aljazeera.com/news/longform/2025/11/20/franco-legacy-fifty-years?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-20T08:13:33.000Z",
+      "summary": "Half a century has passed since Franco&#039;s dictatorship ended with his death, but some in Spain still valorise his rule."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russian air strikes kill 26 in devastating attack on Ukraine’s Ternopil",
+      "url": "https://www.aljazeera.com/gallery/2025/11/20/russian-air-strikes-kill-26-in-devastating-attack-on-ukraines-ternopil?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-20T08:11:32.000Z",
+      "summary": "Residents gather below the wreckage, anxiously awaiting news about loved ones unaccounted for after the aerial assault."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -60,6 +160,26 @@
       "image": null,
       "published_at": "2025-11-20T08:05:57.000Z",
       "summary": "Over the past year, 32 women from both Jewish and Arab backgrounds were victims of femicide."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ethiopia receives historic artefacts held in Germany for 100 years ",
+      "url": "https://www.bbc.com/news/articles/c07m7pl3njmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a39/live/dd21c420-c5dc-11f0-bca0-d197f0674a9d.jpg",
+      "published_at": "2025-11-20T08:01:58.000Z",
+      "summary": "Ethiopia has welcomed the return as part of a broader push to repatriate items of national significance."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Uncovering mining scars in the Amazon",
+      "url": "https://www.aljazeera.com/video/between-us/2025/11/20/uncovering-mining-scars-in-the-amazon?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-20T07:58:53.000Z",
+      "summary": "Al Jazeera’s Monica Yanakiew takes us inside the Amazon rainforest, where mining scars are impossible to ignore."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -122,16 +242,6 @@
       "summary": "Alice Guo, who lied about her identity, recruited foreign nationals to carry out online scams, say prosecutors.    "
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "מזג אוויר סוער משתק את החיפושים: קושי באיתור הישראלי שנסחף לים בתאילנד",
-      "url": "https://www.ynet.co.il/news/article/ry2a44hl11g",
-      "image": null,
-      "published_at": "2025-11-20T07:33:43.000Z",
-      "summary": "החיפושים אחר האב שנעלם בים הסוער באי בדרום תאילנד נמשכים, אך תנאי מזג האוויר משביתים מסוקים, רחפנים וסירות חילוץ. כ-160 מתנדבים סרקו את החופים רגלית ועל אופנועי ים, לאחר שהסריקות הופסקו בשל הסכנה. חמ\"ל מאולתר פועל עם המשטרה המקומית, משלחת חילוץ מישראל עושה את דרכה לאי"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -185,11 +295,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "דרוזים מסוריה יוכשרו בישראל להיות כבאי אש - ויקימו תחנה בא-סווידא: \"יציל חיים\"",
+      "title": "דרוזים מסוריה יוכשרו בישראל להיות לוחמי אש - ויקימו תחנה בא-סווידא: \"יציל חיים\"",
       "url": "https://www.ynet.co.il/news/article/yokra14586561",
       "image": null,
       "published_at": "2025-11-20T06:48:00.000Z",
-      "summary": "ארבעה חודשים אחרי הטבח במעוז הדרוזים, 20 צעירים מא-סווידא ילמדו כיצד להתמודד עם תרחישים מורכבים ומצבי אסון. ההסמכה יוצאת הדופן היא חלק מתוכנית כוללת שתעלה הממשלה בקרוב - ותפקידה לחזק את גם הקשר עם העדה בישראל"
+      "summary": "פרסום ראשון: ארבעה חודשים אחרי הטבח במעוז הדרוזים, 20 צעירים מא-סווידא ילמדו כיצד להתמודד עם תרחישים מורכבים ומצבי אסון. ההסמכה יוצאת הדופן היא חלק מתוכנית כוללת שתעלה הממשלה בקרוב - ותפקידה לחזק את גם הקשר עם העדה בישראל"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -492,16 +602,6 @@
       "summary": ""
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US military officials in Ukraine amid reports of Russia peace plan",
-      "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66be/live/44cc5b80-c57e-11f0-9053-4f5f8839bda7.jpg",
-      "published_at": "2025-11-20T02:32:13.000Z",
-      "summary": "It comes amid reports the US and Russia have prepared a 28-point peace plan, allegedly containing major concessions for Ukraine."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -557,7 +657,7 @@
       "topic": "News",
       "title": "Paris court blocks auction of earliest-known calculator",
       "url": "https://www.bbc.com/news/articles/c2kpkq90ygno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc5/live/eeb76140-c5a0-11f0-8c06-f5d460985095.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c8d/live/6377d6f0-c5eb-11f0-9f1e-75cdd6519717.jpg",
       "published_at": "2025-11-20T02:03:14.000Z",
       "summary": "The court blocked La Pascaline, a 400-year-old calculating machine, from being exported from France."
     },
@@ -610,6 +710,16 @@
       "image": null,
       "published_at": "2025-11-20T01:06:12.000Z",
       "summary": "Hakimi is the first Moroccan since 1998 and the first defender since 1973 to win Africa&#039;s most prestigious award. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ukrainian teen saboteurs recruited on Telegram to attack their own country",
+      "url": "https://www.bbc.com/news/articles/c8r08zmkjlzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56fc/live/664a6e70-c568-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-11-20T00:46:01.000Z",
+      "summary": "Russia is using Telegram to recruit Ukrainian children and teenagers to carry out sabotage and bombings according to the Ukrainian government."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -742,16 +852,6 @@
       "summary": "A suspicious envelope was found in Prime Minister Benjamin Netanyahu's office. Paramedics and additional forces ruled out that it contained a dangerous substance."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israel kills at least 28 Palestinians in wave of Gaza ‘ceasefire’ attacks",
-      "url": "https://www.aljazeera.com/news/2025/11/19/israel-kills-at-least-25-palestinians-in-wave-of-gaza-attacks?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-19T22:30:16.000Z",
-      "summary": "Gaza&#039;s Health Ministry says Israeli attacks also wounded 77 people, fuelling panic across the war-ravaged enclave."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -820,16 +920,6 @@
       "image": null,
       "published_at": "2025-11-19T21:56:50.000Z",
       "summary": "Past president of Hebrew University weathered COVID, judicial reform and a massive call-up of student reservists post-Oct. 7. Shunning of Israeli institutions a larger challenge\nThe post What Matters Now to Prof. Asher Cohen: Academic boycott of Israel is &#8216;catastrophic&#8217; appeared first on"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump pledges ‘cooperation and coordination’ to end Sudan’s civil war",
-      "url": "https://www.aljazeera.com/news/2025/11/19/trump-pledges-cooperation-and-coordination-to-end-sudans-civil-war?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-19T21:54:09.000Z",
-      "summary": "The US president says he will address the conflict in Sudan at the request of Saudi Crown Prince Mohammed bin Salman."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -902,16 +992,6 @@
       "summary": ""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Why has number of people facing hunger doubled since 2019?",
-      "url": "https://www.aljazeera.com/video/inside-story/2025/11/19/why-has-number-of-people-facing-hunger-doubled-since-2019?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-19T21:29:14.000Z",
-      "summary": "Hundreds of millions of people face food shortages as conflict, climate change and economic crises take their toll."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -950,16 +1030,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9c77-d607-ab9e-9ff737ae0000/2c/6f/9fded3334b7dae9e42e29431b66b/735127.jpg?height=81",
       "published_at": "2025-11-19T21:03:14.000Z",
       "summary": "Cases involving intoxicating substances, including date-rape drugs, spiked, and workplace sexual abuse complaints rose 50 percent, the report shows. The Association of Rape Crisis Centers compiled the data from government records obtained independently after authorities denied a Freedom of Informati"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "New US peace plan for Ukraine involves Kyiv ceding land, weapons: Reports",
-      "url": "https://www.aljazeera.com/news/2025/11/19/new-us-peace-plan-for-ukraine-involves-kyiv-ceding-land-weapons-reports?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-19T20:57:39.000Z",
-      "summary": "Terms of the US-drafted, 28-point framework to end the war closely track Russian demands, according to news reports."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1020,16 +1090,6 @@
       "image": null,
       "published_at": "2025-11-19T20:08:19.000Z",
       "summary": "At the Nahal Ein Gev II archeology site, a figurine was discovered to be the earliest item depicting human-animal interaction."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Russian strikes on western Ukraine kill and wound dozens",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/19/russian-strikes-on-western-ukraine-kill-and-wound-dozens?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-19T20:08:01.000Z",
-      "summary": "At least 25 people were killed and dozens wounded in overnight Russian missile and drone attacks across western Ukraine."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1202,26 +1262,6 @@
       "summary": "Under-sixteens will be banned from major social media plaforms from 10 December."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Dr. Esther Luzzatto to receive Ben-Gurion Award from BGU",
-      "url": "https://www.jpost.com/israel-news/culture/article-874481",
-      "image": null,
-      "published_at": "2025-11-19T17:29:06.000Z",
-      "summary": "She is being honored for her contribution to development of the Negev, high-tech, and gender quality"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Congress votes to send Epstein files bill to Trump",
-      "url": "https://www.bbc.com/news/articles/cdxr1r34ev9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2987/live/ab2c2360-c51f-11f0-9129-896fa1393664.jpg",
-      "published_at": "2025-11-19T17:27:48.000Z",
-      "summary": "Once the US president signs the measure, the justice department will have 30 days to release the materials. "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1322,16 +1362,6 @@
       "summary": "To date, over 120,000 tons of military equipment, munitions, weapons systems, and protective gear have been transferred to Israel via 1,000 aircraft and approximately 150 maritime vessels."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המוסד חושף את תשתיות הטרור שבונה חמאס בלב אירופה",
-      "url": "https://www.ynet.co.il/news/article/r1yhidjewx",
-      "image": null,
-      "published_at": "2025-11-19T16:11:41.000Z",
-      "summary": "\"התמנון החמאסי\": שיתוף פעולה עם שירותי המודיעין והאכיפה בכמה מדינות באירופה, הוביל לסיכול תשתיות שבנה ארגון הטרור במטרה לממש פיגועים נגד יעדים ישראליים ויהודיים. במחבוא באוסטריה הוסלקו אקדחים ואמצעי חבלה ששייכים לבנו של בכיר בלשכה המדינית של חמאס בעזה"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1342,16 +1372,6 @@
       "summary": "In an interview with Haaretz, Dr. Felix Klein says his plan to outlaw 'From the River to the Sea' and other chants that could be interpreted as calling for Israel's destruction already has the support of the interior minister. He warns Israel's far-right diaspora minister not to meddle in German pol"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "War hero will receive an annual tuition scholarship for exceptional bravery on Oct. 7",
-      "url": "https://www.jpost.com/israel-news/article-874480",
-      "image": null,
-      "published_at": "2025-11-19T16:01:36.000Z",
-      "summary": "Tel Aviv University Honors Its Reservist Soldiers."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1360,16 +1380,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9be8-dd6e-a5fa-fbecb0e90007/53/9b/eba01ac54cb58f67a911dafa17a8/767461.jpg?height=81",
       "published_at": "2025-11-19T15:57:31.000Z",
       "summary": "The unanimous decision requires the government to impose sanctions, noting that political leaders have neglected their duty to enforce army conscription. 'The current state of mass, conscious, and continuous rule-breaking, causing a serious breach of equality, is not acceptable,' the ruling wrote"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הבן גילה בזירה על רצח אביו אהרון בפיגוע: \"ליוו אותי אליו. המחזה היה קשה\"",
-      "url": "https://www.ynet.co.il/news/article/ry8aahil11e",
-      "image": null,
-      "published_at": "2025-11-19T15:55:01.000Z",
-      "summary": "בני משפחתו של אהרון כהן חשפו עדויות מצמררות מהרגע שבו הבינו שאביהם נרצח בפיגוע בגוש עציון. הבן יוסף סיפר על החיבוק האחרון לפני המילואים, הבת חביבה הבטיחה לנכדים לבלות עם סבא: \"לא היה לי מה להגיד להם\". השכול שוב הכה בבניין אחד בקריית ארבע, שבו נרצחו בעבר דיירים נוספים בפיגועים"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1445,16 +1455,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Family of Indian man lynched over beef rumours vows to keep fighting for justice",
-      "url": "https://www.bbc.com/news/articles/cp3delkdjkqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8af7/live/202688b0-c505-11f0-8cf1-fdd4be8468bd.png",
-      "published_at": "2025-11-19T09:57:03.000Z",
-      "summary": "Mohammad Akhlaq was lynched to death in 2015 over rumours that he had eaten beef. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Klimt painting second-most expensive artwork sold at auction",
       "url": "https://www.bbc.com/news/articles/cm2emm4737zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2512/live/c3b79e00-c533-11f0-9839-6584ec7afe70.jpg",
@@ -1470,16 +1470,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9b35-d5e6-abff-fff5c7340001/6b/36/7cd32ed646768eec88232653fa10/293060-2.jpg?height=81",
       "published_at": "2025-11-19T09:36:42.000Z",
       "summary": "Rabbi Dov Lando, leader of the Lithuanian Haredi movement and spiritual leader of Degel Hatorah, had previously instructed the faction's lawmakers to vote against the bill. The decision removes the last remaining ultra-Orthodox opposition to the measure"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Two Miss Universe judges quit scandal-hit pageant, as one claims it's rigged",
-      "url": "https://www.bbc.com/news/articles/crmxgymr8ewo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02fb/live/8aa15d00-c528-11f0-ba4c-a176bf1fb76f.jpg",
-      "published_at": "2025-11-19T09:20:11.000Z",
-      "summary": "Lebanese-French musician Omar Harfouch is one of two judges who resigned days before the finals in Thailand."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1530,16 +1520,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-98da-dd6e-a5fa-fbfe7d870001/47/14/87c1386b43fba885b41f9ecc2be3/new.JPG?height=81",
       "published_at": "2025-11-19T02:11:28.000Z",
       "summary": "Hamas denies IDF claim that it struck a 'training compound' belonging to the organization', calling it 'pure fabrication and lies, aimed at justifying its criminal aggression'"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "The only 'no' vote on releasing Epstein files",
-      "url": "https://www.bbc.com/news/articles/crl2g195n96o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae79/live/cf874290-c4dd-11f0-a513-b5961c879548.jpg",
-      "published_at": "2025-11-19T00:48:25.000Z",
-      "summary": "The resounding vote in favour of the Epstein bill, 427-1, marks a rare moment of bipartisanship on Capitol Hill that was - almost - unanimous."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1940,16 +1920,6 @@
       "image": "https://img.haarets.co.il/bs/0000018a-569c-d477-af8f-fefe00ca0001/e4/f2/7839536f4a78994737919ec24a43/87923.jpg?height=81",
       "published_at": "2025-11-18T00:07:46.000Z",
       "summary": ""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "A Chinese firm bought an insurer for CIA agents - part of Beijing's trillion dollar spending spree",
-      "url": "https://www.bbc.com/news/articles/c4g311jn1m9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa7f/live/3a8e0080-c3bf-11f0-8456-eff94716b162.png",
-      "published_at": "2025-11-17T23:01:18.000Z",
-      "summary": "When an insurer for FBI and CIA agents was sold to a Chinese entity, it led the US to tighten investment laws."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
