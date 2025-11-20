@@ -1,6 +1,36 @@
 {
-  "generated_at": "2025-11-20T10:10:03.743Z",
+  "generated_at": "2025-11-20T10:42:06.693Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "WATCH: IDF troops in Israel-controlled territory find rocket launcher aimed at Israel",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-874600",
+      "image": null,
+      "published_at": "2025-11-20T12:19:15.000Z",
+      "summary": "During a separate operation by the Kfir Brigade, several weapons were found, including Kalashnikov rifles, fragmentation grenades, explosives, magazines, and military uniforms. "
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Sde Teiman investigation: Kula backs court ruling as NGO challenges Ben-Hamo appointment",
+      "url": "https://www.jpost.com/israel-news/article-874598",
+      "image": null,
+      "published_at": "2025-11-20T12:09:20.000Z",
+      "summary": "“How much will we continue to challenge High Court decisions? We need to understand that this is the final word, that this is the decision!\" said Investigator Asher Kula"
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Air Force forms new elite unit to guard bases after Oct. 7, IDF says",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-874596",
+      "image": null,
+      "published_at": "2025-11-20T12:09:11.000Z",
+      "summary": "Israel sets up base-defense force under Wing 7 alongside Shaldag and Unit 669, with rapid helicopter response and upgraded perimeter systems."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -42,6 +72,46 @@
       "summary": "Sagi Mor dived into the sea to rescue his son, who was being carried away by strong currents"
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הדר מוכתר התלוננה על הטרדה מינית בהפגנה, חשוד בן 80 נחקר ושוחרר | תיעוד",
+      "url": "https://www.ynet.co.il/news/article/sjobqw3e11x",
+      "image": null,
+      "published_at": "2025-11-20T10:34:37.000Z",
+      "summary": "הפעילה הפוליטית הגישה תלונה על הטרדה מינית שחוותה לדבריה בהפגנה בתל אביב, לאחר שגבר בן 80 תועד אומר לה \"את נורא יפה, כיף לגעת בך\". החשוד, תושב תל אביב שעוכב לחקירה ושוחרר בתנאים מגבילים, הביע חרטה וטען כי דבריו נאמרו \"בסרקזם\". עורך דינו טען: \"לא הייתה שום כוונה מינית\""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli minister blasts journalists amid anti-media incitement, vandalism of news channel offices",
+      "url": "https://www.haaretz.com/israel-news/2025-11-20/ty-article/.premium/israeli-minister-blasts-journalists-amid-anti-media-incitement-vandalism-of-news-offices/0000019a-a050-dd6e-a5fa-fbf467e90000",
+      "image": "https://img.haarets.co.il/bs/0000019a-a061-dd6e-a5fa-fbe5360e0000/11/25/d44344bd46f9b6f0bab23b8b8ed5/844480.jpg?height=81",
+      "published_at": "2025-11-20T10:31:46.000Z",
+      "summary": "Heritage Minister Amichai Eliyahu lambasted the Israeli news media for reporting on the investigation into abuse at the Sde Teiman detention center, calling out the journalist who broke the story"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Charming Kitten exposed: The elite Iranian cyber unit targeting Israel's most sensitive military sites and arms makers",
+      "url": "https://www.haaretz.com/israel-news/security-aviation/2025-11-20/ty-article-magazine/.premium/charming-kitten-exposed-elite-iranian-cyber-unit-targeting-israels-most-sensitive-sites/0000019a-9d88-d67f-adbe-dfcb94cb0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-a06b-d7d6-ab9f-fdfb10000000/f6/9f/bc9125c445739c726bf274b80c29/chatgpt-image-nov-19-2025-10-25-42-am.png?height=81",
+      "published_at": "2025-11-20T10:30:08.000Z",
+      "summary": "Haaretz has analyzed a massive leak that exposed the global hacking operations of one of the Revolutionary Guards' top hacker units. Advanced tools were used, including in an attempt to break into the systems of the company that makes Iron Dome, the Israel Airports Authority and arms giant Rafael"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Nigeria’s Tinubu delays G20 trip amid search for 24 abducted schoolgirls",
+      "url": "https://www.aljazeera.com/news/2025/11/20/nigerias-tinubu-delays-g20-trip-amid-search-for-24-abducted-schoolgirls?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-20T10:22:28.000Z",
+      "summary": "The Nigerian president will focus on rescuing the schoolgirls abducted by armed men in Kebbi State."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -50,6 +120,36 @@
       "image": null,
       "published_at": "2025-11-20T10:22:24.000Z",
       "summary": "The official, a resident of Jerusalem in his 40s, was also accused of trafficking dangerous medications."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "תקפו בגז פלפל: נערים רעולי פנים נעצרו בהתפרעות של מתנחלים בכפר פלסטיני ",
+      "url": "https://www.ynet.co.il/news/article/skdomdhg11g",
+      "image": null,
+      "published_at": "2025-11-20T10:10:12.000Z",
+      "summary": "האלימות בשטחים נמשכת: שני נערים נתפסו עם גז פלפל במהלך עימותים בכפר מוחמאס מצפון לירושלים. לפי הפלסטינים המתנחלים תקפו תושבים ופעילים ישראלים, וגרמו נזק לבתים ומכוניות. חיפוש אחר חשודים נוספים"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "במסווה הומניטרי, בחסות ההסלמה בדרום סוריה: כך פעלה רשת הברחות הנשק",
+      "url": "https://www.ynet.co.il/news/article/h1ogaihlbl",
+      "image": null,
+      "published_at": "2025-11-20T10:09:13.000Z",
+      "summary": "כתבי אישום הוגשו נגד חברי רשת הברחות מהצפון ושלושה תושבי חדר בסוריה: ייבאו לישראל אקדחים, רובים ו-RPG תוך ניצול ההסלמה בדרום המדינה השכנה. לפי האישום, חלק מההברחות בוצעו בסיוע חיילי צה\"ל, הנשק נאסף ליד מוצב בסוריה, הועבר במשאית צבאית לגולן ונמסר לנאשמים"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "EU says any peace plan must consult Ukraine, Europe, doubts Russian intent",
+      "url": "https://www.aljazeera.com/news/2025/11/20/eu-says-any-peace-plan-must-consult-ukraine-europe-doubts-russian-intent?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-20T10:05:39.000Z",
+      "summary": "EU leaders have struck a similar tone as reports indicate that a US-brokered peace deal would defer to Russian demands."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -269,7 +369,7 @@
       "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d658/live/eea590e0-c5f6-11f0-8c06-f5d460985095.jpg",
       "published_at": "2025-11-20T08:31:24.000Z",
-      "summary": "It comes amid reports the US and Russia have prepared a 28-point peace plan, allegedly containing major concessions for Ukraine."
+      "summary": "It comes after reports the US and Russia have prepared a 28-point peace plan, allegedly with major concessions for Ukraine."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -335,7 +435,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Femicide in Israel: Increase in Jewish, Israeli-Arab women murdered since last year",
+      "title": "Femicide in Israel: Data shows increase in Jewish, Israeli-Arab women murdered since last year",
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-874561",
       "image": null,
       "published_at": "2025-11-20T08:05:57.000Z",
@@ -652,6 +752,16 @@
       "summary": "לפי נתוני הלמ”ס, היישובים נמצאים בגידול שלילי או אפסי. המתיישבים שבחרו להגן בגופם על המדינה, גילו שבסוף הם אלה שנשארים עם סכסוך בלתי פתיר, שלטון שלא מצליח להגן על חייהם, והפדיחה הגדולה בתולדות ההתנחלות - תנועת הטרוריסטים הצעירים שצמחה להם מתחת לאף"
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ripley's revealed as buyer of $12m golden toilet",
+      "url": "https://www.bbc.com/news/articles/cjd07dprln9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95b0/live/63cff800-b653-11f0-b2a1-6f537f66f9aa.png",
+      "published_at": "2025-11-20T04:55:56.000Z",
+      "summary": "The first edition of Maurizio Cattelan's work was stolen from Blenheim Palace in 2019."
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -842,26 +952,6 @@
       "summary": "\"He let me shower, and when I finished, he dragged me out of there and didn't let me put on my clothes,\" said former hostage Guy Gilboa Dalal in recent testimony about the abuse he suffered in Gaza."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Brazil’s Lula faces obstacles in push for agreement at climate summit",
-      "url": "https://www.aljazeera.com/news/2025/11/20/brazils-lula-faces-obstacles-in-push-for-agreement-at-climate-summit?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-20T01:37:05.000Z",
-      "summary": "Brazilian president pushes for a &#039;roadmap&#039; away from fossil fuel use, but countries remain divided on key issues. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump says he signed bill to release Epstein files",
-      "url": "https://www.aljazeera.com/news/2025/11/20/trump-says-he-signed-bill-to-release-epstein-files?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-20T01:32:46.000Z",
-      "summary": "Epstein Files Transparency Act compels release of unclassified materials in searchable format within 30 days."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1022,16 +1112,6 @@
       "summary": ""
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Children among 26 killed in one of Russia's deadliest strikes on western Ukraine",
-      "url": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/deab3670-c530-11f0-bf7b-db7c049674ab.jpg",
-      "published_at": "2025-11-19T21:39:38.000Z",
-      "summary": "Two blocks of flats were destroyed by cruise missiles in the city of Ternopil, Ukraine's air force says."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1132,16 +1212,6 @@
       "summary": "When a group of right-wing protesters accused me this week of betraying the State of Israel, one asked: 'Are you scared?' to which I responded, 'Should I be?'"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בן סלמאן ביקש, טראמפ מבצע: \"נסיים את המלחמה בסודן - המקום האלים בעולם\"",
-      "url": "https://www.ynet.co.il/news/article/sjig5qjxbe",
-      "image": null,
-      "published_at": "2025-11-19T20:30:27.000Z",
-      "summary": "בפגישתם בבית הלבן, יורש העצר הסעודי ביקש מהנשיא לפעול כדי להביא לסיום מלחמת האזרחים שנמשכת כבר יותר משנתיים וחצי, וגבתה את חייהם של עשרות אלפי בני אדם. \"זה לא היה בתוכניות שלי, אבל אני רואה כמה זה חשוב לך\", אמר טראמפ לבן סלמאן - והוסיף כי ממשלו החל לעסוק בנושא חצי שעה לאחר הבקשה"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1222,26 +1292,6 @@
       "summary": "Thirty-five people and three institutions are on trial. Prosecutors say years of failings turned the venue into a death trap. "
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "טראמפ התקפל, הקונגרס אישר - ומסמכי אפשטיין ייחשפו תוך 30 יום: \"נציית לחוק\"",
-      "url": "https://www.ynet.co.il/news/article/b1vl000ix11g",
-      "image": null,
-      "published_at": "2025-11-19T18:41:42.000Z",
-      "summary": "אחרי שהקונגרס אישר, בתמיכת הנשיא, הצעה שמחייבת לפרסם את כל המסמכים שנוגעים לפרשת המיליארדר הפדופיל - משרד המשפטים הודיע כי יעשה זאת תוך 30 יום: \"מעודדים שקיפות מרבית\". ברקע: מיילים של אפשטיין שבהם טען כי טראמפ העביר שעות בביתו עם אחת הבנות, הנשיא טוען: \"אין לי מה להסתיר\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המתנה שיעניק איתן מור לטראמפ: \"מסמל את האור שניצח את החושך\"",
-      "url": "https://www.ynet.co.il/news/article/rjzwufjxbl",
-      "image": null,
-      "published_at": "2025-11-19T18:30:03.000Z",
-      "summary": "משלחת שורדי השבי שהוחזקו שנתיים ברצועת עזה תגיע מחר לבית הלבן, ואיתן מור יעניק לנשיא ארה\"ב סביבון. אביו כתב לטראמפ: \"תזכורת שהניצחונות הגדולים ביותר שלנו, עתיקים וחדשים, מושגים דרך כוח התקווה לעתיד ילדינו\". לו\"ז המשלחת, שהגיעה תחילה בטיסת ארקיע לניו יורק"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1272,16 +1322,6 @@
       "summary": "The bill, which passed 26–0 with no abstentions, will award up to four credit points, scaled to reserve duty performed in the prior tax year."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Why did almost 100 Palestinian detainees reportedly die in Israeli custody? - analysis",
-      "url": "https://www.jpost.com/israel-news/article-874501",
-      "image": null,
-      "published_at": "2025-11-19T18:02:22.000Z",
-      "summary": "The Israeli government doesn't dispute the number of prison deaths but disputes the claim that detainees were dying due to illegal beatings and other actions by Israeli prison guards."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1290,16 +1330,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9cc1-d67f-adbe-dec3a32c0001/ef/42/19aa81cb43b28f14182b42e13bba/836585.jpg?height=81",
       "published_at": "2025-11-19T17:47:04.000Z",
       "summary": "There are plenty of reasons to be skeptical about the Security Council resolution backing Trump's plan for Gaza. But it's the only game in town, so how can supporters of peace seize the modest opportunities it provides for a better path forward – including towards Palestinian statehood?"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Former Gaza hostages travel to DC to meet with Congress, Trump",
-      "url": "https://www.jpost.com/israel-news/article-874496",
-      "image": null,
-      "published_at": "2025-11-19T17:40:19.000Z",
-      "summary": "The Lobby for the Return of Abductees and Captives will host a cohort of freed hostages who traveled to Washington DC."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1320,16 +1350,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9caf-d607-ab9e-9fef566b0000/2a/4c/7267ad374b5abdf3d4fd93b3efb7/761877.jpg?height=81",
       "published_at": "2025-11-19T17:12:55.000Z",
       "summary": "Tisch told an ADL summit in March that dealing with rising antisemitism in the city was 'personal' to her ■ Mamdani's past criticisms of the police remain contentious as he shifts focus to citywide public safety"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF targets senior Hamas terrorist in strike on Gaza City following attack on troops in Khan Yunis",
-      "url": "https://www.jpost.com/israel-news/article-874487",
-      "image": null,
-      "published_at": "2025-11-19T17:09:02.000Z",
-      "summary": "The attack reportedly killed three; however, it is not clear yet if the target of the attack was killed."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2240,26 +2260,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9157-dfa6-ad9e-d1f753c60000/a4/a8/d54e964546c39845c9c290c335db/876435.jpg?height=81",
       "published_at": "2025-11-17T10:19:35.000Z",
       "summary": "Carlson has 'said good things about me over the years,' the president said, claiming not to know much about Fuentes, despite hosting him at Mar-a-Lago three years ago"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Will Trump's emerging Saudi deal force Israel to clash with its 'greatest friend ever'?",
-      "url": "https://www.haaretz.com/israel-news/2025-11-17/ty-article/.premium/trumps-emerging-saudi-deal-could-force-israel-to-clash-with-its-greatest-friend-ever/0000019a-90d5-dfa6-ad9e-d1f5f4ea0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-9111-d84c-a3be-ff9dc84a0000/26/2a/97eb35b54d4bb2549b3e5a851e11/531445-1.jpg?height=81",
-      "published_at": "2025-11-17T09:24:36.000Z",
-      "summary": "Israel's gravest political and strategic threat now comes from Riyadh, not Tehran or Gaza. Normalization holds little strategic value for Saudi Arabia, and Israel views it similarly if it means recognizing Palestinian statehood – yet Trump wants it more than anyone"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Released hostage Rom Braslavski says Netanyahu has not reached out since return, amid rehabilitation crowdfunding efforts",
-      "url": "https://www.haaretz.com/israel-news/2025-11-17/ty-article/.premium/released-hostage-says-netanyahu-has-not-reached-out-since-return-amid-crowdfunding-efforts/0000019a-907f-dfa6-ad9e-d1ff433e0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-909b-d110-adbf-fbbb1e160000/a5/d2/829f9d0d4c6ab177dc0507c5aef1/447230.jpg?height=81",
-      "published_at": "2025-11-17T07:34:40.000Z",
-      "summary": "Israeli officials were ignoring his pleas for help, Braslavski said, while Netanyahu and National Security Minister Itamar Ben-Gvir had not contacted him since his release. The released hostage has described the torture he faced in Gaza, and called his current situation 'way worse than PTSD'"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
