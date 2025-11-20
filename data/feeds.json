@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T03:29:25.282Z",
+  "generated_at": "2025-11-20T03:53:53.749Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -22,6 +22,16 @@
       "summary": "The decision to open the 40th opera season on Tuesday with Dido and Aeneas is a lovely nod to the past while ensuring the opera in Israel has a future."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump signs bill ordering justice department to release Epstein files",
+      "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef2/live/5c250f30-c555-11f0-a1c2-758f53fd6195.jpg",
+      "published_at": "2025-11-20T03:47:54.000Z",
+      "summary": "The bill gives the US Justice Department 30 days to release all the files in a searchable format."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -40,6 +50,26 @@
       "image": null,
       "published_at": "2025-11-20T03:40:22.000Z",
       "summary": "Two Palestinian minors who entered Israel illegally from the West Bank were arrested yesterday by the Israeli Police on suspicion of vehicle theft. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "חם מהרגיל עד שרבי - גם בסופ\"ש, ומתי יישבר החום? | התחזית המלאה",
+      "url": "https://www.ynet.co.il/news/article/3ovh8lau8",
+      "image": null,
+      "published_at": "2025-11-20T03:39:50.000Z",
+      "summary": "מזג האוויר יוסיף להתחמם, ויהיה שרבי בכל האזורים. רוחות מזרחיות ערות ינשבו בהרי הצפון שיימשכו לאורך סוף השבוע. בשבת תחול ירידה קלה בטמפרטורות - שיוסיפו להיות חמות לעונה"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "At Senate hearing, Trump&#8217;s pick for antisemitism envoy cites his own history with Jew hatred",
+      "url": "https://www.timesofisrael.com/at-senate-hearing-trumps-pick-for-antisemitism-envoy-cites-his-own-history-with-jew-hatred/",
+      "image": null,
+      "published_at": "2025-11-20T03:37:35.000Z",
+      "summary": "Rabbi Yehuda Kaploun says 'anyone has a right to criticize Israel' but singling it out while ignoring others crosses a line, is pressed about Trump's defense of Tucker Carlson after interview with antisemite\nThe post At Senate hearing, Trump&#8217;s pick for antisemitism envoy cites his own history "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -90,16 +120,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66be/live/44cc5b80-c57e-11f0-9053-4f5f8839bda7.jpg",
       "published_at": "2025-11-20T02:32:13.000Z",
       "summary": "It comes amid reports the US and Russia have prepared a 28-point peace plan, allegedly containing major concessions for Ukraine."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump signs bill ordering justice department to release Epstein files",
-      "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef2/live/5c250f30-c555-11f0-a1c2-758f53fd6195.jpg",
-      "published_at": "2025-11-20T02:28:12.000Z",
-      "summary": "The bill gives the US Justice Department 30 days to release all the files in a searchable format."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -189,7 +209,7 @@
       "url": "https://www.aljazeera.com/news/2025/11/20/trump-says-he-signed-bill-to-release-epstein-files?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-20T01:32:46.000Z",
-      "summary": "US president announces he ordered the disclosure of documents related to the late convicted sex offender."
+      "summary": "Epstein Files Transparency Act compels release of unclassified materials in searchable format within 30 days."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -680,16 +700,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9d0d-d5e6-abff-fdfd78a50000/53/37/b762461c4a6c91d94ac8ee6ffae6/846317.jpg?height=81",
       "published_at": "2025-11-19T20:27:01.000Z",
       "summary": "The IDF said that earlier militant fire on Israeli soldiers, which caused no casualties, violated the Gaza cease-fire. A Hamas battalion commander in Gaza City was among the targets of an IDF strike"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Rare Nazi Enigma machine auctioned off for almost half a million euros",
-      "url": "https://www.timesofisrael.com/rare-nazi-enigma-machine-auctioned-off-for-almost-half-a-million-euros/",
-      "image": null,
-      "published_at": "2025-11-19T20:20:31.000Z",
-      "summary": "Machine's code was famously decoded by Alan Turing and his team, contributing to allied war effort; German Admiral Karl Doenitz ordered sophisticated M4 model in 1941\nThe post Rare Nazi Enigma machine auctioned off for almost half a million euros appeared first on The Times of Israel.\n"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1400,16 +1410,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9c03-d498-a9da-df475e940001/1a/ff/d3f9f0504a7d9cf5de73b78b5a28/720924.jpg?height=81",
       "published_at": "2025-11-19T12:56:34.000Z",
       "summary": "Members of the Sudanese migrant community in Israel had planned to protest UAE support for the Sudanese rebel militia. The protest, planned for Thursday, was meant to take place outside the embassy in Herzliya"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "זו כבר לא טמינת הראש בחול. זו הגשת החבל לתליין ",
-      "url": "https://www.ynet.co.il/news/article/r100ionje11x",
-      "image": null,
-      "published_at": "2025-11-19T12:51:42.000Z",
-      "summary": "כמו בכל שיטה מעוצבת היטב, אחרי שהשמידו את כל מנגנוני הביקורת החיצוניים, הם עברו למנגנון הפנימי היחיד שעוד היה אמור לרסן אותם"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
