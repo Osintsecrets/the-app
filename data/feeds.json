@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T07:09:43.879Z",
+  "generated_at": "2025-11-20T07:35:35.085Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -52,6 +52,16 @@
       "summary": "HRW alleges that Israeli forces expelled about 32,000 Palestinians from three West Bank refugee camps during Operation Iron Wall, citing destroyed homes and a ban on residents returning."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Israeli strikes across Gaza kill 25 Palestinians, health ministry says",
+      "url": "https://www.bbc.com/news/articles/c62e27j69q9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee12/live/26ae8300-c572-11f0-92f5-0fd46a9dc2cf.jpg",
+      "published_at": "2025-11-20T07:30:46.000Z",
+      "summary": "The Israeli military says it struck several Hamas targets after gunmen fired at soldiers in Gaza in violation of the five-week-old ceasefire."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -60,6 +70,16 @@
       "image": null,
       "published_at": "2025-11-20T07:11:12.000Z",
       "summary": "Israel is currently the only Middle Eastern nation to hold American F-35s, and Israeli officials expressed concern that the planned sale of F-35s would threaten Israeli military supremacy. "
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Fires reported in nine buildings in southern Israel's Be'er Sheva, arson suspect arrested",
+      "url": "https://www.haaretz.com/israel-news/2025-11-20/ty-article/.premium/fires-reported-in-nine-buildings-in-southern-israels-beer-sheva-arson-suspect-arrested/0000019a-a007-d607-ab9e-bbe776770000",
+      "image": "https://img.haarets.co.il/bs/0000019a-a00e-dd6e-a5fa-fbee4bf30001/79/d2/071981a14a8c87d3190eb43135f5/bb.jpeg?height=81",
+      "published_at": "2025-11-20T07:00:36.000Z",
+      "summary": "Israel Fire & Rescue Authority said it rescued 15 people from the flames, including children and babies, from several apartments"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -80,6 +100,16 @@
       "image": null,
       "published_at": "2025-11-20T06:44:54.000Z",
       "summary": "Sexual offenses listed in the indictment were confirmed as rape, forcible indecent acts, and sexual harassment of a young security guard on her first day of work. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Detente? Trump says Mamdani will visit White House on Friday",
+      "url": "https://www.aljazeera.com/news/2025/11/20/detente-trump-says-mamdani-will-visit-white-house-on-friday?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-20T06:44:23.000Z",
+      "summary": "After months of trading public barbs, the US president and New York City mayor-elect are set to meet in person."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -255,11 +285,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Anti-Zionist protesters chant &#8216;death to the IDF&#8217; at New York City synagogue",
+      "title": "Anti-Zionist protesters chant &#8216;Death to the IDF&#8217; at New York City synagogue",
       "url": "https://www.timesofisrael.com/anti-zionist-protesters-chant-death-to-the-idf-at-new-york-city-synagogue/",
       "image": null,
       "published_at": "2025-11-20T04:46:05.000Z",
-      "summary": "Activists gather in Manhattan to demonstrate against event for immigration to Israel, chanting to 'globalize the intifada' and accosting Jews\nThe post Anti-Zionist protesters chant &#8216;death to the IDF&#8217; at New York City synagogue appeared first on The Times of Israel.\n"
+      "summary": "Activists gather in Manhattan to demonstrate against event promoting immigration to Israel, chanting to 'globalize the intifada' and accosting Jews\nThe post Anti-Zionist protesters chant &#8216;Death to the IDF&#8217; at New York City synagogue appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -829,7 +859,7 @@
       "url": "https://www.timesofisrael.com/high-court-orders-government-to-explain-why-its-not-launching-oct-7-state-inquiry/",
       "image": null,
       "published_at": "2025-11-19T21:07:35.000Z",
-      "summary": "Government has until Jan. 4 to justify why it isn't setting up commission which could 'examine in an independent, professional, and impartial manner' events around massacre\nThe post High Court orders government to explain why it&#8217;s not launching Oct. 7 state inquiry appeared first on The Times "
+      "summary": "Government has until Jan. 4 to justify why it isn't setting up commission that could 'examine in an independent, professional, and impartial manner' events around massacre\nThe post High Court orders government to explain why it&#8217;s not launching Oct. 7 state inquiry appeared first on The Times o"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1012,16 +1042,6 @@
       "summary": "At least 23 people were killed in Israeli air strikes across Gaza on Wednesday, despite the fragile ceasefire. "
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Nearly one-third of women worldwide faced partner or sexual violence: WHO",
-      "url": "https://www.aljazeera.com/news/2025/11/19/nearly-a-third-of-women-worldwide-faced-partner-or-sexual-violence-who?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-19T19:05:37.000Z",
-      "summary": "Despite stark findings, World Health Organization says violence against women and girls is &#039;a deeply neglected crisis&#039;."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1030,16 +1050,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5774/live/04ec5cd0-c575-11f0-92f5-0fd46a9dc2cf.jpg",
       "published_at": "2025-11-19T18:57:33.000Z",
       "summary": "Thirty-five people and three institutions are on trial. Prosecutors say years of failings turned the venue into a death trap. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Israeli strikes across Gaza kill 25 Palestinians, health ministry says",
-      "url": "https://www.bbc.com/news/articles/c62e27j69q9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee12/live/26ae8300-c572-11f0-92f5-0fd46a9dc2cf.jpg",
-      "published_at": "2025-11-19T18:45:35.000Z",
-      "summary": "The Israeli military says it struck several Hamas targets after gunmen fired at soldiers in Gaza in violation of the five-week-old ceasefire."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -2290,16 +2300,6 @@
       "image": "https://img.haarets.co.il/bs/00000189-15cb-d572-af9b-15ff3c500003/b4/63/bca36ed9469f9226ad333f0da1ba/f35.jpg?height=81",
       "published_at": "2025-11-17T04:10:29.000Z",
       "summary": "At the end of his first term, Trump intended to link the Abraham Accords to a deal to sell F-35s to the UAE. But now, the president views the sale as a key element of U.S. foreign policy, contradicting the longstanding U.S. policy of preserving Israel's qualitative military edge in the Middle East"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Trump says U.S. will sell F-35 fighter jets to Saudi Arabia in defense sale opposed by Israel",
-      "url": "https://www.haaretz.com/israel-news/2025-11-17/ty-article-live/.premium/reports-school-principal-killed-in-israeli-attack-in-southern-lebanon-village/0000019a-8faa-d110-adbf-efbb56450000",
-      "image": "https://img.haarets.co.il/bs/0000019a-923a-da51-a7fb-ff7f46780000/80/e0/3ac7f16f4a0d90702145426b2f82/783769.jpg?height=81",
-      "published_at": "2025-11-17T03:00:27.000Z",
-      "summary": ""
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
