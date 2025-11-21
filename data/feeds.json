@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-21T15:08:52.496Z",
+  "generated_at": "2025-11-21T15:33:04.227Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Fighting terrorists on the northern front: IDF strikes Hamas training compound in southern Lebanon",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-874749",
+      "image": null,
+      "published_at": "2025-11-21T17:06:36.000Z",
+      "summary": "The IDF killed 13 terrorists in the southern Lebanon training compound."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -22,14 +32,64 @@
       "summary": "Israel Police searched the area and found no other explosives."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הרוגה ו-9 פצועים בתאונה בגליל. ליד צריפין: רוכב אופנוע נפצע אנושות",
+      "url": "https://www.ynet.co.il/news/article/hjz9h10lwl",
+      "image": null,
+      "published_at": "2025-11-21T15:26:40.000Z",
+      "summary": "צוות מד\"א קבע את מותה של אישה בשנות ה-40 לחייה, שנפצעה בהתנגשות בין שני רכבים בכביש 85. גבר וילד נפצעו בינוני ו-7 בני אדם באורח קל. \"תאונה קשה מאוד עם הרס רב\", תיארו במד\"א. בכביש 44 רוכב אופנוע נפגע מרכב ונפצע באורח אנוש, ליד קריית אתא: פצועה קשה בהתהפכות טרקטורון"
+    },
+    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "South Africa declares gender violence a national disaster after protests",
+      "title": "South Africa calls gender violence a national disaster after protests",
       "url": "https://www.bbc.com/news/articles/cn979g302l9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a66b/live/e1375ea0-c6e8-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-21T14:54:07.000Z",
+      "published_at": "2025-11-21T15:20:30.000Z",
       "summary": "Fifteen women are killed every day in a country with one of the highest rates of gender violence in the world."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Israel-Premier Tech to rebrand after being barred from cycling race, targeted by protesters",
+      "url": "https://www.timesofisrael.com/israel-premier-tech-to-rebrand-after-being-barred-from-cycling-race-targeted-by-protesters/",
+      "image": null,
+      "published_at": "2025-11-21T15:12:57.000Z",
+      "summary": "Team sponsored by Israeli Canadian billionaire Sylvan Adams to be taken over next year by company founded by Spanish soccer great Iniesta\nThe post Israel-Premier Tech to rebrand after being barred from cycling race, targeted by protesters appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "UN climate summit drops mention of fossil fuels from draft deal",
+      "url": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10c/live/55491e60-c6de-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-21T15:08:40.000Z",
+      "summary": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Singapore sanctions four far-right Israeli activists over violence against Palestinians",
+      "url": "https://www.haaretz.com/west-bank/2025-11-21/ty-article/.premium/singapore-sanctions-four-far-right-israeli-activists-over-violence-against-palestinians/0000019a-a6a4-d83e-a19b-f7f484320000",
+      "image": "https://img.haarets.co.il/bs/0000019a-a6d2-d83e-a19b-f7f6e4ce0000/b0/24/cf96778d45cdb605aa5b67edc91d/743888.jpg?height=81",
+      "published_at": "2025-11-21T15:07:37.000Z",
+      "summary": "Singapore is the latest country to sanction far-right Israeli settler activists amid the surge in West Bank violence. While it singled out individuals 'jeopardizing prospects for a two-state solution,' it stopped short of recognizing a Palestinian state or sanctioning officials like Ben-Gvir"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Despite Gaza ceasefire, ‘we haven’t seen the worst’: B’Tselem chief",
+      "url": "https://www.aljazeera.com/news/2025/11/21/despite-gaza-ceasefire-we-havent-seen-the-worst-btselem-chief?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-21T14:53:41.000Z",
+      "summary": "Conditions that led to genocide in Gaza remain precarious given lack of accountability, says rights advocate Yuli Novak."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -220,16 +280,6 @@
       "image": null,
       "published_at": "2025-11-21T12:59:55.000Z",
       "summary": "מיס מקסיקו זכתה בתחרות בתאילנד, פחות משלושה שבועות אחרי שפרשה מאירוע לאחר שבכיר בתחרות כינה אותה \"סתומה\". שני שופטים פרשו לאחר מכן, אחד טען לזיופים - וכעת \"ניו יורק פוסט\" חשף שהנציגה הראשונה של פלסטין התחתנה בעבר עם בנו של מרואן ברגותי, וקראה לבנם המשותף בשמו"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "UN climate summit drops mention of fossil fuels from draft deal",
-      "url": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10c/live/55491e60-c6de-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-21T12:54:21.000Z",
-      "summary": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -802,16 +852,6 @@
       "summary": "The significance of COP30 and the importance of countries building resilience to climate change."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "New study finds AI can weaken antisemitism, not just amplify it",
-      "url": "https://www.timesofisrael.com/new-study-finds-ai-can-weaken-antisemitism-not-just-amplify-it/",
-      "image": null,
-      "published_at": "2025-11-21T07:43:46.000Z",
-      "summary": "Researchers linked to Anti-Defamation League trained artificial intelligence chatbot to counter conspiracy theories about Jews with persuasive facts, with encouraging success\nThe post New study finds AI can weaken antisemitism, not just amplify it appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -940,16 +980,6 @@
       "image": null,
       "published_at": "2025-11-21T06:34:05.000Z",
       "summary": "“The harshest criticism we’ll hear is the criticism we direct at ourselves. We have a goal, and we know and will know how to reach it. I’m very proud of the players,\" said the team's coach."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "White House unaware that US ambassador to Israel met with convicted spy",
-      "url": "https://www.aljazeera.com/news/2025/11/21/white-house-unaware-that-us-ambassador-to-israel-met-with-convicted-spy?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-21T06:25:33.000Z",
-      "summary": "CIA reportedly &#039;alarmed&#039; by the meeting, which broke a longstanding policy of not speaking with convicted spies."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1262,16 +1292,6 @@
       "summary": ""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "עונש מוות למחבלים | דניאלה לונדון דקל",
-      "url": "https://www.ynet.co.il/news/article/syntqhhgbx",
-      "image": null,
-      "published_at": "2025-11-20T22:33:00.000Z",
-      "summary": "*רק בתנאי שהם לא יהודים"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1580,16 +1600,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6975/live/96461d80-c631-11f0-a892-01d657345866.jpg",
       "published_at": "2025-11-20T17:27:58.000Z",
       "summary": "Álvaro García Ortiz is barred from the post for two years and must pay €10,000 in compensation."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "WATCH: IDF uncovers massive underground Hamas terror city under Gaza's Beit Hanun",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-874639",
-      "image": null,
-      "published_at": "2025-11-20T17:09:46.000Z",
-      "summary": "Thousands of structures served as weapons storage facilities and command centers. Armed terrorists operated from inside an elementary school, and the tunnel network ran under civilian homes. "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2370,16 +2380,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9718-d8b5-abbf-b7f91dc10007/e4/fa/6fd4227a4ae691dbfaadec951f61/63770468.JPG?height=81",
       "published_at": "2025-11-18T14:50:53.000Z",
       "summary": "Israeli Culture Minister Miki Zohar thinks it's a dangerous film. But 'The Sea,' centered on a Palestinian boy who longs to see the sea, is exactly the kind of film that could have helped mend Israel's battered international image"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "A U.S. Mandate for Palestine? Why the UN Security Council resolution won't aid Palestinians",
-      "url": "https://www.haaretz.com/israel-news/2025-11-18/ty-article/.premium/a-u-s-mandate-for-palestine-why-the-un-resolution-wont-aid-palestinians/0000019a-9711-d2c1-addf-d73bf4340000",
-      "image": "https://img.haarets.co.il/bs/0000019a-972c-d8b5-abbf-b7fd4fcf0001/be/a3/0f0e0c1e4745bbdacd37ab9209bc/824181.jpg?height=81",
-      "published_at": "2025-11-18T14:32:14.000Z",
-      "summary": "The resolution contains no clear commitment to end Israeli annexation measures in Gaza or the West Bank, and the vague reference to Palestinian self-determination perpetuates the familiar pattern of declarations without implementation, which depends on the goodwill of a U.S. president who is more co"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
