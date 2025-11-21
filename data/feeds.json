@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T14:40:02.040Z",
+  "generated_at": "2025-11-21T15:08:52.496Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -22,6 +22,16 @@
       "summary": "Israel Police searched the area and found no other explosives."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "South Africa declares gender violence a national disaster after protests",
+      "url": "https://www.bbc.com/news/articles/cn979g302l9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a66b/live/e1375ea0-c6e8-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-21T14:54:07.000Z",
+      "summary": "Fifteen women are killed every day in a country with one of the highest rates of gender violence in the world."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -32,16 +42,6 @@
       "summary": "One Palestinian was severely injured in the attack, and another was moderately injured. "
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "South Africa declares gender violence a national disaster after protests",
-      "url": "https://www.bbc.com/news/articles/cn979g302l9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d027/live/c73fa4a0-c6e6-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-11-21T14:35:46.000Z",
-      "summary": "Fifteen women are killed every day in a country with one of the highest rates of gender violence in the world."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -49,17 +49,27 @@
       "url": "https://www.timesofisrael.com/trump-democrats-who-urged-us-troops-to-refuse-illegal-orders-punishable-by-death/",
       "image": null,
       "published_at": "2025-11-21T14:22:47.000Z",
-      "summary": "Video by Democratic lawmakers who are veterans and skeptical of Caribbean campaign is 'seditious behavior from traitors,' says US president; White House later clarifies he doesn't want them executed\nThe post Trump: Democrats who urged US troops to refuse illegal orders &#8216;punishable by DEATH&#82"
+      "summary": "Video by Democratic lawmakers who are veterans and skeptical of Caribbean campaign is 'seditious behavior from traitors,' says US president; White House clarifies he doesn't want them executed\nThe post Trump: Democrats who urged US troops to refuse illegal orders &#8216;punishable by DEATH&#8217; ap"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Zelenskyy says Trump’s Ukraine plan must ensure ‘real and dignified peace’",
+      "url": "https://www.aljazeera.com/news/2025/11/21/zelenskyy-says-trumps-ukraine-plan-must-ensure-real-and-dignified-peace?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-21T14:20:32.000Z",
+      "summary": "Ukrainian president says working on US plan to end war with Russia as European allies raise concerns about concessions."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "היועמ\"שית רוצה דיון נוסף בבג\"ץ: לצמצם את ניגוד העניינים - והתערבות לוין בחקירת הפצ\"רית",
+      "title": "הפרקליטות רוצה דיון נוסף בבג\"ץ: לצמצם את ניגוד העניינים - והתערבות לוין בחקירת הפצ\"רית",
       "url": "https://www.ynet.co.il/news/article/rj4sllrxbe",
       "image": null,
       "published_at": "2025-11-21T14:19:25.000Z",
-      "summary": "מטעמה של גלי בהרב-מיארה הוגשה בקשה לדיון נוסף בהחלטה שקיבלו השופטים, ובה נקבע כי שר המשפטים יקבע מי יהיה מלווה חקירת הפצ\"רית. לוין: \"הם לא בוחלים בשום אמצעי כדי למנוע חקירה לגילוי האמת\""
+      "summary": "בשם המשנה ליועמ\"שית ופרקליט המדינה הוגשה בקשה לדיון נוסף בהחלטה שקיבלו השופטים, ובה נקבע כי שר המשפטים יקבע מי יהיה מלווה חקירת הפצ\"רית. לוין: \"הם לא בוחלים בשום אמצעי כדי למנוע חקירה לגילוי האמת\""
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -189,7 +199,7 @@
       "url": "https://www.ynet.co.il/news/article/bk4tfkcewx",
       "image": null,
       "published_at": "2025-11-21T13:05:26.000Z",
-      "summary": "המחבלים זוהו החל מסביבות השעה 06:30 בבוקר באזור מזרח רפיח, ייתכן שלטובת נסיגה מהשטח. אחד מתוך 5 המחבלים שנעצרו מסר בחקירתו כי יחד איתו שהו במנהרה כ-30 פעילים, בהם המג\"ד. הוא הוסיף כי הפעילים יצאו לחפש מזון ומים. חלק כנראה הצליחו לחזור אל מתחת לאדמה"
+      "summary": "המחבלים זוהו החל מסביבות השעה 06:30 בבוקר באזור מזרח רפיח, ייתכן שלטובת נסיגה מהשטח. אחד מתוך 5 המחבלים שנעצרו מסר בחקירתו כי יחד איתו שהו במנהרה כ-30 פעילים. הוא הוסיף כי הפעילים יצאו לחפש מזון ומים. חלק כנראה הצליחו לחזור אל מתחת לאדמה"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -942,16 +952,6 @@
       "summary": "CIA reportedly &#039;alarmed&#039; by the meeting, which broke a longstanding policy of not speaking with convicted spies."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Cambodia night bus plunges off a bridge, killing 16 passengers",
-      "url": "https://www.aljazeera.com/news/2025/11/21/cambodia-night-bus-plunges-off-a-bridge-killing-16-passengers?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-21T06:13:24.000Z",
-      "summary": "Police say the driver, who was not confirmed among the dead, was asleep when the crash occurred."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1415,7 +1415,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Mamdani slams anti-Israel protest outside New York synagogue where 'death to the IDF' was chanted",
+      "title": "Mamdani criticizes 'language' used at anti-Israel New York synagogue protest where 'death to the IDF' was chanted",
       "url": "https://www.haaretz.com/us-news/2025-11-20/ty-article/.premium/death-to-idf-anti-israel-activists-protest-outside-aliyah-event-at-new-york-synagogue/0000019a-a299-d607-ab9e-bbfddcf10000",
       "image": "https://img.haarets.co.il/bs/00000194-950b-dc39-a5fc-97db8e7c0000/e8/e9/8d8653094885bdc6032d7bb39449/128460.jpg?height=81",
       "published_at": "2025-11-20T20:28:52.000Z",
