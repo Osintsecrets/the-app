@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-11-21T17:07:57.759Z",
+  "generated_at": "2025-11-21T17:37:35.016Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "UN climate summit drops mention of fossil fuels from draft deal",
+      "url": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10c/live/55491e60-c6de-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-21T17:27:33.000Z",
+      "summary": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "IDF: Troops killed 6 Hamas operatives who emerged from Rafah tunnels, nabbed another 5",
+      "url": "https://www.timesofisrael.com/idf-troops-killed-6-hamas-operatives-who-emerged-from-rafah-tunnels-nabbed-another-5/",
+      "image": null,
+      "published_at": "2025-11-21T17:23:31.000Z",
+      "summary": "Army scanning area to locate additional gunmen; security cabinet said to appoint Sa'ar, Levin, Smotrich and Ben Gvir to oversee Gaza truce's next stage; UN says flow of food aid insufficient\nThe post IDF: Troops killed 6 Hamas operatives who emerged from Rafah tunnels, nabbed another 5 appeared firs"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Mamdani faces backlash for saying aliyah event promotes 'violation of international law'",
+      "url": "https://www.haaretz.com/us-news/2025-11-21/ty-article/.premium/mamdani-faces-backlash-for-saying-aliyah-event-promotes-violation-of-international-law/0000019a-a6e4-d67f-adbe-fee756de0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-a765-d67f-adbe-ffe748880001/ea/99/ad0dec51416397f3c6464a0f8863/650539.jpg?height=81",
+      "published_at": "2025-11-21T17:12:13.000Z",
+      "summary": "After anti-Israel activists demonstrated outside a synagogue holding an event promoting Jewish immigration to Israel, also known as aliyah, the protest – which included chants of 'death to the IDF' and 'globalize the intifada' – was widely condemned"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ניתוחי הגדלת חזה ופריצה לנייד: הסייבר האיראני שקידם טרור נגד ישראלים ",
+      "url": "https://www.ynet.co.il/news/article/hkavrrtezl",
+      "image": null,
+      "published_at": "2025-11-21T17:07:46.000Z",
+      "summary": "תחקיר של ערוץ \"איראן אינטרנשיונל\" שרטט תמונה מדאיגה על אודות \"מחלקה 40\" - קבוצה שקידמה עבור משמרות המהפכה לוחמת סייבר לטובת פיגועי טרור נגד ישראלים ויהודים. 60 נשים וגברים ריגלו במשך שנים אחר עמודי פייסבוק של ישראלים, ופרצו לאתרי קליניקות באיסטנבול כדי לחפש מנותחים פלסטיים "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -29,7 +69,7 @@
       "url": "https://www.timesofisrael.com/palestinians-report-7-settler-attacks-overnight-amid-escalating-west-bank-violence/",
       "image": null,
       "published_at": "2025-11-21T16:51:20.000Z",
-      "summary": "Attacks targets homes, vehicles and other property; Singapore joins growing list of nations to slap sanctions on settler leaders\nThe post Palestinians report 7 settler attacks overnight amid escalating West Bank violence appeared first on The Times of Israel.\n"
+      "summary": "At least 2 Palestinians said be hospitalized for injuries they suffered during attacks on homes, vehicles and other property\nThe post Palestinians report 7 settler attacks overnight amid escalating West Bank violence appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -220,16 +260,6 @@
       "image": null,
       "published_at": "2025-11-21T15:12:57.000Z",
       "summary": "Team sponsored by Israeli Canadian billionaire Sylvan Adams to be taken over next year by company founded by Spanish soccer great Iniesta\nThe post Israel-Premier Tech to rebrand after being barred from cycling race, targeted by protesters appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "UN climate summit drops mention of fossil fuels from draft deal",
-      "url": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10c/live/55491e60-c6de-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-21T15:08:40.000Z",
-      "summary": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -670,16 +700,6 @@
       "image": null,
       "published_at": "2025-11-21T10:38:02.000Z",
       "summary": "Attack comes just days after armed men stormed a secondary school in northwestern Nigeria, kidnapping 25 schoolgirls."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Shin Bet said to back death penalty for terrorists, in departure from previous stance",
-      "url": "https://www.timesofisrael.com/shin-bet-said-to-back-death-penalty-for-terrorists-in-departure-from-previous-stance/",
-      "image": null,
-      "published_at": "2025-11-21T10:29:29.000Z",
-      "summary": "IDF said to support the law but only if sentence handed down on case-by-case basis; Smotrich reportedly pushing for it to apply to Jews who spy for Iran as well\nThe post Shin Bet said to back death penalty for terrorists, in departure from previous stance appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1270,16 +1290,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-a36f-d7d6-ab9f-ffffa6710000/8a/d3/6aa3f48d41bd82666c951d1a6298/whatsapp-image-2025-11-20-at-18-08-50.jpeg?height=81",
       "published_at": "2025-11-20T22:50:33.000Z",
       "summary": "Two others, including a 17-year-old youth, were moderately wounded in the incident - which police believe was due to a conflict within the family"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "מתקפת הציוצים של טראמפ, והבהרת הבית הלבן: \"לא רוצה להוציא להורג חברי קונגרס\"",
-      "url": "https://www.ynet.co.il/news/article/r1xtbkpgwl",
-      "image": null,
-      "published_at": "2025-11-20T22:47:31.000Z",
-      "summary": "הנשיא האמריקני פרסם ושיתף שורת ציוצים שבהם תקף מחוקקים דמוקרטים \"מרדנים\" שקראו לחיילים לסרב לפקודות לא חוקיות - ורמז כי דינם מוות: \"ג'ורג' וושינגטון היה תולה אותם\". דוברת הבית הלבן נאלצה להבהיר את דבריו בתדרוך כתבים: \"טראמפ לא רוצה להרוג אותם\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2370,16 +2380,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-976c-dd6e-a5fa-ffec6c770002/47/ef/328c85b7407d8dd81764fa5d209f/817459-2.jpg?height=81",
       "published_at": "2025-11-18T15:17:11.000Z",
       "summary": "Facing public opposition at home and its role as Arab leader, Saudi Arabia must move closer to normalization with Israel but cannot afford to trade the Palestinian cause solely for stealth fighters and security guarantees"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Contentious new film 'The Sea' might actually help restore Israel's image",
-      "url": "https://www.haaretz.com/life/2025-11-18/ty-article/.premium/contentious-new-film-the-sea-might-actually-help-restore-israels-image/0000019a-9717-da51-a7fb-ff771bb80000",
-      "image": "https://img.haarets.co.il/bs/0000019a-9718-d8b5-abbf-b7f91dc10007/e4/fa/6fd4227a4ae691dbfaadec951f61/63770468.JPG?height=81",
-      "published_at": "2025-11-18T14:50:53.000Z",
-      "summary": "Israeli Culture Minister Miki Zohar thinks it's a dangerous film. But 'The Sea,' centered on a Palestinian boy who longs to see the sea, is exactly the kind of film that could have helped mend Israel's battered international image"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
