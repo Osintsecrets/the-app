@@ -1,6 +1,86 @@
 {
-  "generated_at": "2025-11-21T00:42:44.463Z",
+  "generated_at": "2025-11-21T02:23:27.956Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Netanyahu convenes emergency meeting as settlers torch vehicles in Huwara",
+      "url": "https://www.jpost.com/israel-news/article-874703",
+      "image": null,
+      "published_at": "2025-11-21T04:14:03.000Z",
+      "summary": "Netanyahu held the meeting with the IDF, Shin Bet, and Israel Police as settlers attacked Huwara amid criticism of the security establishment's failure to prevent West Bank violence."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Lebanon arrests alleged drug kingpin sanctioned by US State Department",
+      "url": "https://www.aljazeera.com/news/2025/11/21/lebanon-arrests-alleged-drug-kingpin-sanctioned-by-us-state-department?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-21T01:58:58.000Z",
+      "summary": "Noah Zaitar allegedly ran a drug empire, producing and exporting narcotics, including the synthetic stimulant captagon."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "At least 41 dead as relentless rains flood Vietnam",
+      "url": "https://www.bbc.com/news/articles/ceq0q3e2j17o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6c4/live/649e3e00-c679-11f0-ac1d-d9ecb68c5020.jpg",
+      "published_at": "2025-11-21T01:50:48.000Z",
+      "summary": "The coastal cities of Hoi An and Nha Trang, and a key coffee-producing belt, are among the worst-hit."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Levin lashes out at court for freezing his appointment of Sde Teiman probe overseer",
+      "url": "https://www.timesofisrael.com/liveblog-november-21-2025/",
+      "image": null,
+      "published_at": "2025-11-21T01:39:42.000Z",
+      "summary": "Trump tells freed hostage soldier Matan Angrest he’s a ‘living testimony’ to toughness of Jewish people * Pollard defends Huckabee after meeting leak, says ‘abhorrent’ Kushner, Witkoff working for Saudi and Qatar\nThe post Levin lashes out at court for freezing his appointment of Sde Teiman probe ove"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Trump hosts captives he helped free from Gaza: &#8216;You&#8217;re not hostages anymore, you&#8217;re heroes&#8217;",
+      "url": "https://www.timesofisrael.com/trump-hosts-captives-he-helped-free-from-gaza-youre-not-hostages-anymore-youre-heroes/",
+      "image": null,
+      "published_at": "2025-11-21T01:25:51.000Z",
+      "summary": "Group includes 17 of the 20 hostages released last month; ex-captives thank US president, urge him to continue pressuring Hamas to return the remaining three bodies held in Strip\nThe post Trump hosts captives he helped free from Gaza: &#8216;You&#8217;re not hostages anymore, you&#8217;re heroes&#82"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump calls Democrats' message to troops seditious behaviour, punishable by death",
+      "url": "https://www.bbc.com/news/articles/cx2p2dz9zk2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e730/live/5e8af550-c64a-11f0-af50-5d6972195d70.jpg",
+      "published_at": "2025-11-21T01:19:09.000Z",
+      "summary": "Trump's comments came after a group of Democrats urged US service members to refuse unlawful commands."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "India's delayed action plan raises eyebrows at COP30 climate summit",
+      "url": "https://www.bbc.com/news/articles/cy8v8k8mlego?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f972/live/ba929fd0-c675-11f0-a674-cf008e1f5535.jpg",
+      "published_at": "2025-11-21T01:17:06.000Z",
+      "summary": "India says it has met a key target of its previous climate action plan, but many say it needs to do more."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US judge orders end to Trump’s deployment of troops in Washington, DC",
+      "url": "https://www.aljazeera.com/news/2025/11/21/us-judge-orders-end-to-trumps-deployment-of-troops-in-washington-dc?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-21T00:52:32.000Z",
+      "summary": "US president&#039;s controversial deployment of soldiers to US cities has raised alarm and a series of legal challenges. "
+    },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
@@ -10,6 +90,16 @@
       "image": null,
       "published_at": "2025-11-21T00:32:54.000Z",
       "summary": "Officials said to back special team to combat 'Jewish terrorism' in West Bank,  but unlikely to resume use of administrative detention on Jews; settlers burn Palestinian scrapyard\nThe post Security agencies said to push new plan to counter surging settler violence appeared first on The Times of Isra"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia-Ukraine war: List of key events, day 1,366",
+      "url": "https://www.aljazeera.com/news/2025/11/21/russia-ukraine-war-list-of-key-events-day-1366?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-21T00:26:06.000Z",
+      "summary": "Here are the key events from day 1,366 of Russia’s war on Ukraine."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -32,6 +122,16 @@
       "summary": ""
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "South African women call purple protest over gender violence",
+      "url": "https://www.bbc.com/news/articles/cn979g302l9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d188/live/1a9108f0-c63e-11f0-8c98-11fe43704bb5.jpg",
+      "published_at": "2025-11-21T00:02:57.000Z",
+      "summary": "Nearly 1,000 women were raped and 137 murdered in the first three months of this year. "
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -50,6 +150,16 @@
       "image": null,
       "published_at": "2025-11-20T23:43:02.000Z",
       "summary": "Demonstration outside Park East Synagogue marks an escalation by anti-Israel protesters in terms of target and rhetoric, underlining new normal for the city's Jews despite Gaza ceasefire\nThe post &#8216;We need to make them scared&#8217;: NYC synagogue protest crosses new red lines appeared first on"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Tears, walkouts and drama: New Miss Universe to be crowned as chaotic season ends",
+      "url": "https://www.bbc.com/news/articles/cgmxmxljg8mo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b84/live/deff1290-c67f-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-20T23:30:09.000Z",
+      "summary": "A beloved pageant tries to maintain its footing as its owners change and the media landscape evolves."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -732,26 +842,6 @@
       "summary": "גורמים שונים בישראל מפרשים אחרת את מידת הנכונות של הארגון להחזיר את 3 החללים האחרונים. הפלסטינים טוענים כי \"יש צורך בציוד הנדסי כבד\", אך בישראל יש כאלה שמזהירים ממוטיבציה פוחתת של הארגון למלא את חלקו בהסכם, ובכל אופן יש הסכמה: \"תנאי השטח קשים\". אח החטוף: \"יש תור - ואנחנו אחרונים\""
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Levin officially taps retired judge to head Sde Teiman leak probe, amid court battle",
-      "url": "https://www.timesofisrael.com/levin-officially-taps-retired-judge-to-head-sde-teiman-leak-probe-amid-court-battle/",
-      "image": null,
-      "published_at": "2025-11-20T19:07:01.000Z",
-      "summary": "Civil society NGO immediately petitions against appointment of Yosef Ben-Hamo, saying he is not a 'senior public servant,' as High Court stipulated probe's head must be\nThe post Levin officially taps retired judge to head Sde Teiman leak probe, amid court battle appeared first on The Times of Israel"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Dick Cheney&#8217;s funeral brings bipartisan tributes, but Trump and Vance not invited",
-      "url": "https://www.timesofisrael.com/dick-cheneys-funeral-brings-bipartisan-tributes-but-trump-and-vance-not-invited/",
-      "image": null,
-      "published_at": "2025-11-20T19:06:14.000Z",
-      "summary": "Joe Biden and George W Bush, Kamala Harris and Mike Pence sit together at service for former US vice president, as White House abstains from usual statements of mourning\nThe post Dick Cheney&#8217;s funeral brings bipartisan tributes, but Trump and Vance not invited appeared first on The Times of Is"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1032,16 +1122,6 @@
       "summary": "Nnamdi Kanu is found guilty of inciting violence as part of his campaign for a separate state in south-east Nigeria."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israel’s emptying of West Bank refugee camps amounts to war crimes: HRW",
-      "url": "https://www.aljazeera.com/news/2025/11/20/israels-emptying-of-west-bank-refugee-camps-amounts-to-war-crimes-hrw?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-20T16:15:07.000Z",
-      "summary": "Human Rights Watch calls for Israeli leaders, including PM Netanyahu, to be investigated on war crimes accusations."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1090,26 +1170,6 @@
       "image": null,
       "published_at": "2025-11-20T15:43:17.000Z",
       "summary": "During the show in Tel Aviv, 66-year-old Kevin Spacey alluded to his past and how he felt ostracized and abandoned."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Video shows Palestinian child after shooting by Israeli forces",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/20/video-shows-palestinian-child-after-shooting-by-israeli-forces?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-20T15:42:33.000Z",
-      "summary": "A 15-year-old Palestinian boy was shot by Israeli troops in the occupied West Bank, causing him to die."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "“Healthy Scepticism” Needed For Any US-Saudi Arabia Deal",
-      "url": "https://www.aljazeera.com/video/quotable/2025/11/20/healthy-scepticism-needed-for-any-us-saudi-arabia-deal?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-20T15:39:26.000Z",
-      "summary": "Political strategist Amy Koch says there should be “healthy scepticism” of any deal between the US and Saudi Arabia"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1412,16 +1472,6 @@
       "summary": "Haaretz has analyzed a massive leak that exposed the global hacking operations of one of the Revolutionary Guards' top hacker units. Advanced tools were used, including in an attempt to break into the systems of the company that makes Iron Dome and the Israel Airports Authority"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Dozens of Palestinians entered Israel on fake medical claims, health min. official arrested",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-874578",
-      "image": null,
-      "published_at": "2025-11-20T10:22:24.000Z",
-      "summary": "The official, a resident of Jerusalem in his 40s, was also accused of trafficking dangerous medications."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1440,26 +1490,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9b85-d7d6-ab9f-ffddb98b0000/5a/b6/b43af0cc44f595acaedc2eca011c/125329.jpg?height=81",
       "published_at": "2025-11-20T09:58:04.000Z",
       "summary": "No more 'shooting and crying': Amid the Sde Teiman saga and IDF-backed settler attacks, the understanding that excessive violence or human rights violations by IDF soldiers broke ethical norms, and must be investigated, has collapsed"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Ethiopia receives historic artefacts held in Germany for 100 years ",
-      "url": "https://www.bbc.com/news/articles/c07m7pl3njmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a39/live/dd21c420-c5dc-11f0-bca0-d197f0674a9d.jpg",
-      "published_at": "2025-11-20T08:01:58.000Z",
-      "summary": "Ethiopia has welcomed the return as part of a broader push to repatriate items of national significance."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Korean coast guard arrests helmsman who was on his phone when ferry ran aground",
-      "url": "https://www.bbc.com/news/articles/cx2p2l4j8vjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f93f/live/26aa2350-c5cc-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-11-20T07:57:43.000Z",
-      "summary": "Crew members are under investigation for possible negligence, according to the coast guard."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1490,16 +1520,6 @@
       "image": "https://img.haarets.co.il/bs/0000017f-f66e-d47e-a37f-ff7ebca60000/b2/da/85ad3db3add4b1c1325cc29f771d/2488963485.jpg?height=81",
       "published_at": "2025-11-20T06:29:50.000Z",
       "summary": "Kasky, a 25-year-old self-described 'unhinged politics Jew,' enters an already crowded race to succeed Rep. Jerry Nadler in New York City"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Ripley's revealed as buyer of $12m golden toilet",
-      "url": "https://www.bbc.com/news/articles/cjd07dprln9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95b0/live/63cff800-b653-11f0-b2a1-6f537f66f9aa.png",
-      "published_at": "2025-11-20T04:55:56.000Z",
-      "summary": "The first edition of Maurizio Cattelan's work was stolen from Blenheim Palace in 2019."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1535,16 +1555,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Turkey set to host COP31 after reaching compromise with Australia",
-      "url": "https://www.bbc.com/news/articles/cx242yj380no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/627d/live/c2555900-c5ae-11f0-9981-cf3de4e1ed90.jpg",
-      "published_at": "2025-11-20T01:24:31.000Z",
-      "summary": "Australia will now support the Turkish bid to host the climate talks in return for their minister chairing them. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Ukrainian teen saboteurs recruited on Telegram to attack their own country",
       "url": "https://www.bbc.com/news/articles/c8r08zmkjlzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56fc/live/664a6e70-c568-11f0-a892-01d657345866.jpg",
@@ -1560,26 +1570,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c33/live/d9c4b9e0-c541-11f0-9b68-57906bffd3ed.jpg",
       "published_at": "2025-11-20T00:35:54.000Z",
       "summary": "India faces a dilemma with Bangladesh as Sheikh Hasina’s conviction strains ties between the two neighbours."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Albanian PM accuses Mahmood of 'ethnic stereotyping'",
-      "url": "https://www.bbc.com/news/articles/cge5e1xpgzyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf7d/live/84b04210-c598-11f0-a807-c90a622aa179.jpg",
-      "published_at": "2025-11-19T23:14:25.000Z",
-      "summary": "The home secretary told MPs on Monday around 700 Albanian families were \"living in taxpayer-funded accommodation having failed their asylum claims\"."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Italy to extradite Nord Stream blast suspect to Germany",
-      "url": "https://www.bbc.com/news/articles/c4gwgd0rjdzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b67/live/e280c680-c593-11f0-b336-71a88b56470b.png",
-      "published_at": "2025-11-19T22:42:05.000Z",
-      "summary": "Former Ukrainian military officer Serhiy Kuznetsov will face a charge of anti-constitutional sabotage in Berlin."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1702,16 +1692,6 @@
       "summary": "Although the son holds a low-ranking post in a traffic court, his approval as a judge means his future advancement within Israel's judiciary will now depend on the Justice Minister"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Dozens go on trial over North Macedonia nightclub fire that killed 63",
-      "url": "https://www.bbc.com/news/articles/cp3x3909rqvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5774/live/04ec5cd0-c575-11f0-92f5-0fd46a9dc2cf.jpg",
-      "published_at": "2025-11-19T18:57:33.000Z",
-      "summary": "Thirty-five people and three institutions are on trial. Prosecutors say years of failings turned the venue into a death trap. "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1730,16 +1710,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9cc1-d67f-adbe-dec3a32c0001/ef/42/19aa81cb43b28f14182b42e13bba/836585.jpg?height=81",
       "published_at": "2025-11-19T17:47:04.000Z",
       "summary": "There are plenty of reasons to be skeptical about the Security Council resolution backing Trump's plan for Gaza. But it's the only game in town, so how can supporters of peace seize the modest opportunities it provides for a better path forward – including towards Palestinian statehood?"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Instagram to start closing Australian teen accounts ahead of social media ban",
-      "url": "https://www.bbc.com/news/articles/cz919xyx7weo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df66/live/e58d6e40-c567-11f0-ac47-e3b40c46275e.jpg",
-      "published_at": "2025-11-19T17:31:45.000Z",
-      "summary": "Under-sixteens will be banned from major social media plaforms from 10 December."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1882,16 +1852,6 @@
       "summary": "In a document highlighting the details of the proposed bill to pass the death penalty, committee chair Foghel wrote that 'anyone who kills Jews only because they are Jews' would be executed. The Association for Civil Rights in Israel warned the bill is 'directed solely at Palestinian Arabs'"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Klimt painting second-most expensive artwork sold at auction",
-      "url": "https://www.bbc.com/news/articles/cm2emm4737zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2512/live/c3b79e00-c533-11f0-9839-6584ec7afe70.jpg",
-      "published_at": "2025-11-19T09:55:50.000Z",
-      "summary": "The portrait of Austrian heiress Elisabeth Lederer was looted by the Nazis and almost destroyed."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1962,16 +1922,6 @@
       "summary": "With Europe imposing sanctions on Moscow, there has been a growing network of vessels sailing without a valid flag from Russia through European waters. "
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Why India's poorest state continues to struggle with illegal alcohol sales",
-      "url": "https://www.bbc.com/news/articles/cp3de4dqvk8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef6b/live/876f79b0-c446-11f0-aa07-8f78e8344346.jpg",
-      "published_at": "2025-11-19T00:01:39.000Z",
-      "summary": "Efforts to crack down on bootlegging continue nine years after prohibition was introduced in Bihar. "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1990,16 +1940,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-40d7-d549-a9db-4dd716de0000/57/92/1cf1fa4d4f55bcfb2382a8de6a11/613452.jpg?height=81",
       "published_at": "2025-11-18T23:07:58.000Z",
       "summary": "To satisfy Supreme Court demands for external oversight of the investigation into the leaked video, Justice Minister Yariv Levin proposed a retired judge, saying no civil servant could meet the necessary criteria"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Baby Shark: How a 90-second clip created a $400m business",
-      "url": "https://www.bbc.com/news/articles/cn8xzgw623go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54e6/live/dd0cdb40-c4d9-11f0-a82a-7dfcc8b18fe0.jpg",
-      "published_at": "2025-11-18T23:00:46.000Z",
-      "summary": "Shares in the firm behind the highly-addictive children's song rose by more than 9% in their stock market debut."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2330,16 +2270,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9838-d7d6-ab9f-fdf887860000/55/45/be2f1c2443eabb6326758e31e301/836495.jpg?height=81",
       "published_at": "2025-11-18T03:28:26.000Z",
       "summary": ""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "'I hated that I looked Asian': KPop Demon Hunters star on her struggle for acceptance",
-      "url": "https://www.bbc.com/news/articles/c17pj0gr75lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b5a/live/171a1920-c466-11f0-8669-5560f5c90fbe.jpg",
-      "published_at": "2025-11-18T00:32:33.000Z",
-      "summary": "Korean-American actress Arden Cho tells BBC Global Women she struggled to feel accepted while growing up in Texas."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
