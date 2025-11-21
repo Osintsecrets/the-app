@@ -1,6 +1,76 @@
 {
-  "generated_at": "2025-11-21T18:13:53.416Z",
+  "generated_at": "2025-11-21T18:43:48.087Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Pupils abducted from Catholic school in fresh Nigeria attack ",
+      "url": "https://www.bbc.com/news/articles/cj4qxvy74qyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5c1/live/5f061350-c6fb-11f0-a863-434ee92aa5e3.png",
+      "published_at": "2025-11-21T18:40:07.000Z",
+      "summary": "Residents fear that close to 100 students and staff may have been taken during the early-morning raid."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump says he was 'not threatening death' to Democrats over video to troops",
+      "url": "https://www.bbc.com/news/articles/cx2p2dz9zk2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daf7/live/29e16590-c6f5-11f0-9f8e-2fe1bf37eb14.jpg",
+      "published_at": "2025-11-21T18:22:35.000Z",
+      "summary": "Trump's comments came after a group of Democrats urged US service members to refuse unlawful commands."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Steve Rosenberg: Kremlin tight-lipped on leaked plan - but advises Kyiv to accept",
+      "url": "https://www.bbc.com/news/articles/c5y9k0mrm2ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab6/live/15f39120-c6f0-11f0-b222-8b5ed945ab17.jpg",
+      "published_at": "2025-11-21T18:21:53.000Z",
+      "summary": "Russia and Ukraine may be about to enter a period of intense diplomacy, writes the BBC's Russia editor."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Anti-Zionist activists stage blood libel display at DC train station",
+      "url": "https://www.timesofisrael.com/anti-zionist-activists-stage-blood-libel-display-at-dc-train-station/",
+      "image": null,
+      "published_at": "2025-11-21T18:21:38.000Z",
+      "summary": "Performers dressed as Netanyahu and US leaders drink red liquid from wine glasses next to menu advertising 'Gaza's spilled blood,' drawing shock and outrage from Jewish groups\nThe post Anti-Zionist activists stage blood libel display at DC train station appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israel bars U.S. surgeon from entering Gaza to help thousands despite initial approval",
+      "url": "https://www.haaretz.com/israel-news/2025-11-21/ty-article/.premium/israel-bars-u-s-surgeon-from-entering-gaza-to-help-thousands-despite-initial-approval/0000019a-a6cf-d607-ab9e-bfefe6240000",
+      "image": "https://img.haarets.co.il/bs/0000019a-a76e-d607-ab9e-bfee63090005/de/8c/233edaff48cea1c8a3106fcf495e/255177-3.jpg?height=81",
+      "published_at": "2025-11-21T18:20:32.000Z",
+      "summary": "Dr. Feroze Sidhwa, an American specialist in abdominal injury rehabilitation, has already visited Gaza twice and received preliminary approval from the IDF to enter again. However, when he arrived in Jordan about a week and a half ago, he was informed that his entry was prohibited – and has been wai"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "UN climate summit drops mention of fossil fuels from draft deal",
+      "url": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10c/live/55491e60-c6de-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-21T18:18:44.000Z",
+      "summary": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "At least 67 Palestinian children killed in Gaza since ‘ceasefire’ began: UN",
+      "url": "https://www.aljazeera.com/news/2025/11/21/at-least-67-palestinian-children-killed-in-gaza-since-ceasefire-began-un?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-21T18:17:07.000Z",
+      "summary": "UNICEF says baby girl among several children killed this week as Israel carried out a wave of bombings despite truce."
+    },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
@@ -19,7 +89,7 @@
       "url": "https://www.ynet.co.il/news/article/rymccyrlze",
       "image": null,
       "published_at": "2025-11-21T17:47:08.000Z",
-      "summary": "נשיא אוקראינה הסביר לאזרחיו כי עכשיו יצטרך לבחור בין הכבוד לתמיכת ארה\"ב - אך הדגיש שלא יבגוד באינטרס הלאומי. הנשיא האמריקני הודיע כי \"המועד האחרון הראוי\" לתשובה הוא יום חמישי, בזמן שוושינגטון מאיימת בצמצום הסיוע במקרה של תשובה שלילית. \"תוכנית השלום\" המלאה - והשטחים שתאבד קייב"
+      "summary": "נשיא אוקראינה הסביר לאזרחיו כי עכשיו יצטרך לבחור בין הכבוד לתמיכת ארה\"ב - אך הדגיש ש\"לא יבגוד באינטרס הלאומי\". הנשיא האמריקני הודיע כי \"המועד האחרון הראוי\" לתשובה הוא יום חמישי, בזמן שוושינגטון מאיימת בצמצום הסיוע במקרה של תשובה שלילית. \"תוכנית השלום\" המלאה - והשטחים שתאבד קייב"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -30,16 +100,6 @@
       "image": null,
       "published_at": "2025-11-21T17:41:32.000Z",
       "summary": "המחבלים שנמלטו מהמנהרה ברפיח תועדו ברגעי הבריחה אוחזים משהו - כנראה בניסיון להסתוות. לצד ה\"נצורים\" - גם גופות. אחד המחבלים שחזר בחקירה מה קורה מתחת לקרקע - ולמה יצאו"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "UN climate summit drops mention of fossil fuels from draft deal",
-      "url": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10c/live/55491e60-c6de-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-21T17:27:33.000Z",
-      "summary": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -80,16 +140,6 @@
       "image": null,
       "published_at": "2025-11-21T17:06:36.000Z",
       "summary": "The IDF killed 13 terrorists in the southern Lebanon training compound."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Pupils abducted from Catholic school in fresh Nigeria attack ",
-      "url": "https://www.bbc.com/news/articles/cj4qxvy74qyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5c1/live/5f061350-c6fb-11f0-a863-434ee92aa5e3.png",
-      "published_at": "2025-11-21T17:05:37.000Z",
-      "summary": "Residents fear that close to 100 students and staff may have been taken during the early-morning raid."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -139,17 +189,7 @@
       "url": "https://www.ynet.co.il/news/article/skktfbax11x",
       "image": null,
       "published_at": "2025-11-21T16:03:05.000Z",
-      "summary": "יונס אשתיה, קצין המשטרה הפלסטינית, חוסל על ידי לוחמי הימ\"מ בעיירה תל מדרום לשכם. הוא ירה על לוחם מילואים ופצע אותו בינוני. בסביבת אותו המקום נעצר פעיל נוסף במנגנונים הפלסטיניים, שניים אחרים נלכדו בצפון השומרון"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Steve Rosenberg: Kremlin tight-lipped on leaked plan - but advises Kyiv to accept",
-      "url": "https://www.bbc.com/news/articles/c5y9k0mrm2ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab6/live/15f39120-c6f0-11f0-b222-8b5ed945ab17.jpg",
-      "published_at": "2025-11-21T15:57:14.000Z",
-      "summary": "Russia and Ukraine may be about to enter a period of intense diplomacy, writes the BBC's Russia editor."
+      "summary": "יונס אשתיה, קצין המשטרה הפלסטינית, חוסל בידי לוחמי הימ\"מ בעיירה תל מדרום לשכם. הוא ירה על לוחם מילואים ופצע אותו בינוני. בסביבת אותו המקום נעצר פעיל נוסף במנגנונים הפלסטיניים, שניים אחרים נלכדו בצפון השומרון"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -622,16 +662,6 @@
       "summary": "Convicted Israeli-operated US Navy mole accuses Kushner and Witkoff of serving foreign interests, fraternizing with terrorists; says Mideast envoy sought profit, not peace\nThe post Pollard: Anti-Israel elements in US administration leaked my Huckabee meeting to get him fired appeared first on The Ti"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump calls Democrat video to troops 'seditious behaviour, punishable by death'",
-      "url": "https://www.bbc.com/news/articles/cx2p2dz9zk2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daf7/live/29e16590-c6f5-11f0-9f8e-2fe1bf37eb14.jpg",
-      "published_at": "2025-11-21T11:39:35.000Z",
-      "summary": "Trump's comments came after a group of Democrats urged US service members to refuse unlawful commands."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -970,16 +1000,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-a55e-d7d6-ab9f-fdde72fc0007/ab/12/7d0ea7754a55b33b217c2c71a07b/g6pgvhhwwaayxf8.jfif?height=81",
       "published_at": "2025-11-21T07:51:47.000Z",
       "summary": "According to the Ramallah ministry's statement, the two killed were Amro Khaled Ahmad al-Marbu'a, 18, and Sami Ibrahim Sami Mashaikh, 16"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "COP30 is climate conference “of implementation”",
-      "url": "https://www.aljazeera.com/video/quotable/2025/11/21/cop30-is-climate-conference-of?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-21T07:44:43.000Z",
-      "summary": "The significance of COP30 and the importance of countries building resilience to climate change."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -2370,16 +2390,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-927a-d0a6-a3fe-f27fde5b0005/26/c0/71977f674cac98811dabb78739f5/758814.jpg?height=81",
       "published_at": "2025-11-18T15:35:59.000Z",
       "summary": "In a court filing, an Israeli advertising executive claims that a company controlled by Mikhael Mirilashvili serviced a Russia's state-owned nuclear energy company operating in Iran. He also asserts that Mirilashvili – not his son Yitzchak – is the real owner of the pro-Netanyahu Channel 14. Mirilas"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "The F-35 deal pushes MBS toward Israel – but he can't be seen as selling out the Palestinians",
-      "url": "https://www.haaretz.com/opinion/2025-11-18/ty-article-opinion/.premium/the-f-35-deal-pushes-mbs-toward-israel-he-cant-be-seen-as-selling-out-the-palestinians/0000019a-9768-d67f-adbe-dfeb9c7f0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-976c-dd6e-a5fa-ffec6c770002/47/ef/328c85b7407d8dd81764fa5d209f/817459-2.jpg?height=81",
-      "published_at": "2025-11-18T15:17:11.000Z",
-      "summary": "Facing public opposition at home and its role as Arab leader, Saudi Arabia must move closer to normalization with Israel but cannot afford to trade the Palestinian cause solely for stealth fighters and security guarantees"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
