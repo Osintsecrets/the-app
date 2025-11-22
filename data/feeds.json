@@ -1,6 +1,56 @@
 {
-  "generated_at": "2025-11-21T23:33:34.345Z",
+  "generated_at": "2025-11-22T00:41:22.377Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Will Trump's no-show eclipse South Africa's G20 moment?",
+      "url": "https://www.bbc.com/news/articles/c20508y7w5yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a101/live/6a31af10-c6fa-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-11-22T00:09:48.000Z",
+      "summary": "The host nation's goal of advocating for developing nations may be overshadowed by the absence of the US president."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Zelensky warns Ukraine risks losing US support over White House peace plan",
+      "url": "https://www.bbc.com/news/articles/cy5g4r9l4dlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d30/live/b840e960-c6fe-11f0-99c3-7dce999e48af.png",
+      "published_at": "2025-11-21T23:49:57.000Z",
+      "summary": "Vladimir Putin says the plan could be the \"basis\" for peace but warns Russia is prepared to fight on."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Mamdani accuses US of funding Israeli &#8216;genocide,&#8217; during warm meeting with Trump",
+      "url": "https://www.timesofisrael.com/mamdani-accuses-us-of-funding-israeli-genocide-during-warm-meeting-with-trump/",
+      "image": null,
+      "published_at": "2025-11-21T23:42:34.000Z",
+      "summary": "After months of trading barbs and insults, the president and the mayor-elect seem to strike a rapport in the Oval Office, saying their focus is on improving lives of New Yorkers\nThe post Mamdani accuses US of funding Israeli &#8216;genocide,&#8217; during warm meeting with Trump appeared first on Th"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Trump lauds Mamdani throughout White House meeting despite New York mayor-elect's Israel criticism",
+      "url": "https://www.haaretz.com/us-news/2025-11-22/ty-article/.premium/trump-lauds-mamdani-throughout-white-house-meeting-despite-mayor-elects-israel-criticism/0000019a-a890-dd6e-a5fa-fbf46d820000",
+      "image": "https://img.haarets.co.il/bs/0000019a-a832-d67f-adbe-fef3933e0000/6b/1e/f514e842478091f5c3e78f4e8aff/870087.jpg?height=81",
+      "published_at": "2025-11-21T23:40:33.000Z",
+      "summary": "Trump's repeated praise of the incoming mayor punctuated the meeting, as Mamdani pledged to address living costs and antisemitism in the city, adding that even Trump voters told him they were 'tired of seeing tax dollars fund endless wars' and Israeli violations of human rights"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "BBC board member Shumeet Banerji resigns",
+      "url": "https://www.aljazeera.com/news/2025/11/21/bbc-board-member-shumeet-banerji-resigns?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-21T23:15:07.000Z",
+      "summary": "Banerji said in his resignation letter that he was unhappy about governance issues at the organisation."
+    },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
@@ -110,16 +160,6 @@
       "image": null,
       "published_at": "2025-11-21T21:26:28.000Z",
       "summary": "Postcolonial scholar says Palestinian rights are &#039;near and dear&#039; to Zohran, who showed &#039;grit&#039; under campaign pressures. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Zelensky warns Ukraine risks losing US support over White House peace plan",
-      "url": "https://www.bbc.com/news/articles/cy5g4r9l4dlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d30/live/b840e960-c6fe-11f0-99c3-7dce999e48af.png",
-      "published_at": "2025-11-21T21:22:07.000Z",
-      "summary": "Vladimir Putin says the plan could be the \"basis\" for peace but warns Russia is prepared to fight on."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -402,6 +442,16 @@
       "summary": "UNICEF says baby girl among several children killed this week as Israel carried out a wave of bombings despite truce."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "How are Palestinians from Gaza ending up in South Africa?",
+      "url": "https://www.aljazeera.com/video/the-take-2/2025/11/21/aje-onl-pal_gazatosouthafrica_av_v2-211125?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-21T17:55:16.000Z",
+      "summary": "A charter flight of Palestinians landed in South Africa, but how ‘voluntary’ was their escape from Gaza?"
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -609,7 +659,7 @@
       "url": "https://www.timesofisrael.com/us-jewish-conservatives-are-still-waiting-for-jd-vance-to-condemn-the-antisemitic-right/",
       "image": null,
       "published_at": "2025-11-21T15:27:24.000Z",
-      "summary": "Participants at a Tikvah Fund event Sunday in NYC say they haven't heard a serious response from the US vice president to the attempted mainstreaming of anti-Israel and anti-Jewish extremists\nThe post US Jewish conservatives are still waiting for JD Vance to condemn the antisemitic right appeared fi"
+      "summary": "Participants at a Tikvah Fund event in NYC say they haven't heard a serious response from the US vice president to the attempted mainstreaming of anti-Israel and anti-Jewish extremists\nThe post US Jewish conservatives are still waiting for JD Vance to condemn the antisemitic right appeared first on "
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -640,16 +690,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/060c/live/3968e490-c6f8-11f0-a892-01d657345866.jpg",
       "published_at": "2025-11-21T15:20:30.000Z",
       "summary": "Fifteen women are killed every day in a country with one of the highest rates of gender violence in the world."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Israel-Premier Tech to rebrand after being barred from cycling race, targeted by protesters",
-      "url": "https://www.timesofisrael.com/israel-premier-tech-to-rebrand-after-being-barred-from-cycling-race-targeted-by-protesters/",
-      "image": null,
-      "published_at": "2025-11-21T15:12:57.000Z",
-      "summary": "Team sponsored by Israeli Canadian billionaire Sylvan Adams to be taken over next year by company founded by Spanish soccer great Iniesta\nThe post Israel-Premier Tech to rebrand after being barred from cycling race, targeted by protesters appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -782,16 +822,6 @@
       "summary": "Africa’s democratic roots are deep and ready to be reclaimed."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Bangladesh 5.5-magnitude earthquake – what we know so far",
-      "url": "https://www.aljazeera.com/news/2025/11/21/bangladesh-5-5-magnitude-earthquake-what-we-know-so-far?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-21T13:10:43.000Z",
-      "summary": "At least five people killed in deadly earthquake close to the capital city Dhaka on Friday. "
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -830,16 +860,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/56add2c0-c6c3-11f0-82b1-6148fee2770d.jpg",
       "published_at": "2025-11-21T12:37:03.000Z",
       "summary": "Marcel Breton spent 16 years trying to reclaim C$1.2m police seized from hiding spots in his house."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "India’s Tejas fighter jet crashes at Dubai Airshow, pilot dies",
-      "url": "https://www.aljazeera.com/news/2025/11/21/indias-home-built-fighter-jet-tejas-crashes-at-dubai-air-show-pilot-dies?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-21T12:34:16.000Z",
-      "summary": "The crash is the second recorded for the HAL Tejas, a key jet in India&#039;s efforts to modernise its air force fleet."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1872,16 +1892,6 @@
       "summary": "No more 'shooting and crying': Amid the Sde Teiman saga and IDF-backed settler attacks, the understanding that excessive violence or human rights violations by IDF soldiers broke ethical norms, and must be investigated, has collapsed"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Israeli strikes across Gaza kill 25 Palestinians, health ministry says",
-      "url": "https://www.bbc.com/news/articles/c62e27j69q9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee12/live/26ae8300-c572-11f0-92f5-0fd46a9dc2cf.jpg",
-      "published_at": "2025-11-20T07:30:46.000Z",
-      "summary": "The Israeli military says it struck several Hamas targets after gunmen fired at soldiers in Gaza in violation of the five-week-old ceasefire."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2380,16 +2390,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9866-d5e6-abff-fcf68a060000/ba/04/42b9c990465d8d8caf65ff360830/836063-2.jpg?height=81",
       "published_at": "2025-11-18T19:43:32.000Z",
       "summary": "The new member of opposition leader Yair Lapid's Yesh Atid party commanded several West Bank military units and served as the head of the IDF's Northern Command. On October 7, 2023, he went to rescue his son Amir, a Haaretz columnist, and his family from a Gaza border kibbutz that was attacked by Ha"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Saudi crown prince says Palestinian state key to normalization with Israel at Trump meeting",
-      "url": "https://www.haaretz.com/middle-east-news/2025-11-18/ty-article/.premium/saudi-crown-prince-says-palestinian-state-key-to-normalization-with-israel-at-trump-meet/0000019a-9830-d7d6-ab9f-fdf831110000",
-      "image": "https://img.haarets.co.il/bs/0000019a-9837-dd6e-a5fa-fbf779760000/b5/5f/af08b90849139b428310d719f4f7/836753.jpg?height=81",
-      "published_at": "2025-11-18T19:06:21.000Z",
-      "summary": "Asked at his White House meeting with the Saudi crown prince on how the U.S. sale of F-35 fighter jets to Saudi Arabia would affect the joint U.S.–Israel policy of preserving Israel's qualitative military edge, Trump said that both Israel and the Saudi kingdom are 'at a level where they should get t"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
