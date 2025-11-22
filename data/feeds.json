@@ -1,6 +1,56 @@
 {
-  "generated_at": "2025-11-22T18:11:46.554Z",
+  "generated_at": "2025-11-22T18:43:31.550Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "One dead, six wounded in various crime-related shootings in Israel over the weekend",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-874808",
+      "image": null,
+      "published_at": "2025-11-22T20:35:00.000Z",
+      "summary": "All of the incidents reportedly had criminal, rather than nationalistic or terroristic, motivations."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Arkia honors veteran captain after 44 years in the cockpit",
+      "url": "https://www.jpost.com/israel-news/article-874809",
+      "image": null,
+      "published_at": "2025-11-22T20:13:35.000Z",
+      "summary": "Capt. Yossi Arueti, one of the airline's most veteran pilots, was honored with a farewell event, held in the presence of former air force chiefs and senior figures in Israeli business."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "In UK media merger, Daily Mail owner signs $654M deal to buy The Telegraph",
+      "url": "https://www.timesofisrael.com/in-uk-media-merger-daily-mail-owner-signs-654m-deal-to-buy-the-telegraph/",
+      "image": null,
+      "published_at": "2025-11-22T18:18:45.000Z",
+      "summary": "The acquisition could make DMGT one of the UK’s largest right-leaning media groups; publisher says it plans to 'accelerate' Telegraph's global expansion, with focus on the US\nThe post In UK media merger, Daily Mail owner signs $654M deal to buy The Telegraph appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אימם של דוד ואריאל קוניו: \"ביקשו מטראמפ לא להמשיך בהסכם עד שכולם ישובו\" | ישיר",
+      "url": "https://www.ynet.co.il/news/article/bjpqddywzl",
+      "image": null,
+      "published_at": "2025-11-22T18:09:46.000Z",
+      "summary": "כבר 778 ימים מוחזקים בשבי חמאס שלושה חטופים. בני משפחותיהם של שניים מהם, רן גואילי ודרור אור, ינאמו בעצרת. בר, בתו של החלל מני גודארד שהושב בעסקה: \"החזרת חללים היא לא מחווה למשפחות, זו החובה הבסיסית ביותר\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "G20 leaders adopt new declaration, even as US boycotts summit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/g20-leaders-adopt-new-declaration-even-as-us-boycotts-summit?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-22T18:09:05.000Z",
+      "summary": "World leaders broke with tradition and quickly adopted a new declaration at the start of the G20 summit."
+    },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
@@ -35,11 +85,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "אלפים רבים ומנהיגי האופוזיציה בהפגנה בתל אביב: \"הממשלה דוהרת לוועדת טיוח\"",
+      "title": "האב השכול זעק בהפגנה למען ועדת חקירה ממלכתית: \"כל עוד האמת מוסתרת - הלב מדמם\" | ישיר",
       "url": "https://www.ynet.co.il/news/article/bknhi8yb11e",
       "image": null,
       "published_at": "2025-11-22T17:32:04.000Z",
-      "summary": "למרות החלטת הממשלה להקים ועדת חקירה \"בלתי תלויה\" - משפחות שכולות ונפגעי 7/10 דורשים לחקור את המחדל רק בוועדה ממלכתית"
+      "summary": "למרות החלטת הממשלה להקים ועדת חקירה \"בלתי תלויה\" - משפחות שכולות ונפגעי 7/10 דורשים לחקור את המחדל רק בוועדה ממלכתית. אחיותיו של נטע ברעם שנפל בנחל עוז: \"אם הממשלה לא תיקח אחריות, איך נחיה את חיינו?\". השר לשעבר ששכל את בנו: \"תשעה שרים נקראו לוודא שהאמת לא תצא לאור\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -215,11 +265,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "IDF carries out wave of airstrikes on Hezbollah sites across Lebanon",
+      "title": "IDF strikes Hezbollah sites across Lebanon, kills two operatives",
       "url": "https://www.timesofisrael.com/idf-carries-out-wave-of-airstrikes-on-hezbollah-sites-across-lebanon/",
       "image": null,
       "published_at": "2025-11-22T15:31:19.000Z",
-      "summary": "Beirut says one killed in earlier drone strike, which Israel has not commented on; military says rocket launchers, military sites hit in country's south, eastern Beqaa Valley\nThe post IDF carries out wave of airstrikes on Hezbollah sites across Lebanon appeared first on The Times of Israel.\n"
+      "summary": "Military says rocket launchers, military sites hit in country's south, eastern Beqaa Valley; two operatives killed in separate drone strikes\nThe post IDF strikes Hezbollah sites across Lebanon, kills two operatives appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -702,16 +752,6 @@
       "summary": "The vote occurs at a time of rising secessionist rhetoric in the Serb-majority entity, and with Europe in wider tumult. "
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "MAGA stalwart Taylor Greene announces resignation; Trump: &#8216;Great news for the country&#8217;",
-      "url": "https://www.timesofisrael.com/maga-stalwart-taylor-greene-announces-resignation-trump-great-news-for-the-country/",
-      "image": null,
-      "published_at": "2025-11-22T08:47:49.000Z",
-      "summary": "Amid rift with US president over Epstein, Georgia Republican with history of antisemitic rhetoric says she refuses to remain in Congress as 'battered wife'\nThe post MAGA stalwart Taylor Greene announces resignation; Trump: &#8216;Great news for the country&#8217; appeared first on The Times of Israe"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -782,16 +822,6 @@
       "summary": "Last week, Trump withdrew his support for the Georgia Republican, accusing her of having 'turned sharply left.' Greene said Trump attacked her because of her support for 'Track AIPAC' and calls to release the Epstein files"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "‘Cheering for him’: Key takeaways from Trump-Mamdani White House meeting",
-      "url": "https://www.aljazeera.com/news/2025/11/22/great-meeting-key-takeaways-from-trump-mamdani-white-house-meeting?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-22T07:33:22.000Z",
-      "summary": "President Trump and the mayor-elect adopt a markedly warmer tone after months of insults, catching many off guard. "
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -857,7 +887,7 @@
       "topic": "News",
       "title": "Thousands rally across Israel demanding Oct. 7 state inquiry, return of bodies from Gaza",
       "url": "https://www.haaretz.com/israel-news/2025-11-22/ty-article-live/idf-says-it-killed-six-militants-who-emerged-from-tunnel-in-idf-controlled-gaza/0000019a-a986-dd6e-a5fa-fbe6aa140000",
-      "image": "https://img.haarets.co.il/bs/0000019a-acaf-d2a0-afdf-fcafefbb0000/de/0d/5900288743ed883eb994a535e052/881332-2.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019a-accb-d2a0-afdf-fcef70610000/57/97/ac703a714e2289dee559dcd935ff/881598.jpg?height=81",
       "published_at": "2025-11-22T03:40:31.000Z",
       "summary": ""
     },
@@ -880,16 +910,6 @@
       "image": null,
       "published_at": "2025-11-22T03:25:38.000Z",
       "summary": "חמושים פרצו לבית הספר וחטפו לפחות 215 תלמידים ו-12 מורים. \"הם נעים עם הילדים לתוך היער\", סיפר סב ש-4 מנכדיו בגילאי 7 עד 10 נחטפו. כמה ימים לפני: 25 תלמידות נחטפו מפנימייה, 38 מתפללים נלקחו מכנסייה במהלך טקס שהועבר בשידור חי. ברקע: האיום של טראמפ לתקוף במדינה אם \"רצח הנוצרים\" לא ייפסק"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ישראל צריכה להחזיר את השליטה על תהליך עיצוב הרצועה",
-      "url": "https://www.ynet.co.il/news/article/bknb11t2e11g",
-      "image": null,
-      "published_at": "2025-11-22T03:08:00.000Z",
-      "summary": "תוכנית 21 הנקודות היא \"תוכנית מסגרת\" התפורה בתפרים גסים. על מנת לוודא שהאינטרסים הישראלים מתקיימים, ישראל צריכה, בעזרת יוזמה, יצירתיות ועבודת מטה נכונה, להשיב את השליטה"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1650,26 +1670,6 @@
       "image": null,
       "published_at": "2025-11-20T20:19:37.000Z",
       "summary": "IDF's Commander Training chief: International officials have complimented the IDF's \"use of precise warfare to maximize only striking those who need to be struck.\""
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Senior Ukrainian minister Taras Kachka to visit Israel in first since Russia's invasion",
-      "url": "https://www.jpost.com/israel-news/article-874673",
-      "image": null,
-      "published_at": "2025-11-20T20:13:39.000Z",
-      "summary": "Taras Kachka, Deputy Prime Minister responsible for European integration and trade, will head a delegation to Israel in two weeks."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Freed Gaza hostages to give Trump mezuzah from Kfar Aza home destroyed on Oct. 7",
-      "url": "https://www.jpost.com/israel-news/article-874671",
-      "image": null,
-      "published_at": "2025-11-20T20:08:52.000Z",
-      "summary": "“We came to say thank you to the president of the United States for the many actions he took for our release,\" the Berman twins said in a statement."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
