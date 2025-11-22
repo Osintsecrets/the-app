@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-22T13:17:19.857Z",
+  "generated_at": "2025-11-22T13:36:47.374Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -10,6 +10,26 @@
       "image": null,
       "published_at": "2025-11-22T14:56:56.000Z",
       "summary": "Residents of northern Israel were informed on Saturday afternoon that the sounds of explosions they may hear are the result of the IDF carrying out a wave of strikes on southern Lebanon."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "גלי תקיפות בלבנון; חיסול ממוקד בעזה: \"בכיר בחמאס נהרג\"",
+      "url": "https://www.ynet.co.il/news/article/hktjr4kzzg",
+      "image": null,
+      "published_at": "2025-11-22T13:20:06.000Z",
+      "summary": "לפי הדיווחים בלבנון, צה\"ל תקף לפחות 16 פעמים באזור אל-בקאע, ותקיפות נוספות בוצעו בדרום לבנון. בעיר עזה חוסל לפי הדיווח מפקד אגף המבצעים במערך ההתחמשות של גדודי אל-קסאם"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "We used to conceal Jewish symbols. Now it's Hebrew we're asked to hide",
+      "url": "https://www.haaretz.com/israel-news/2025-11-22/ty-article-magazine/.highlight/we-used-to-conceal-jewish-symbols-now-its-hebrew-were-asked-to-hide/0000019a-aaa3-dd6e-a5fa-fbe7e5340000",
+      "image": "https://img.haarets.co.il/bs/0000019a-aaa4-d2a0-afdf-faafccb70000/2b/85/4c533a4c4b488957aed4179d5121/994850.jpg?height=81",
+      "published_at": "2025-11-22T13:18:42.000Z",
+      "summary": "Who would dare read a Hebrew book today on the subway in Rome, London or Paris?"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -35,11 +55,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "עשן כבד בקניון באשדוד: חנויות ומסעדות פונו בגלל שריפה במתחם | תיעוד",
+      "title": "עשן כבד בקניון בכניסה לאשדוד: חנויות ומסעדות פונו בגלל שריפה במתחם | תיעוד",
       "url": "https://www.ynet.co.il/news/article/s1udy4yz11e",
       "image": null,
       "published_at": "2025-11-22T12:49:08.000Z",
-      "summary": "בשל השריפה שפרצה במרכז המסחרי \"עד הלום\", בעלי החנויות והמסעדות במקום החלו לפנות את הלקוחות, בעוד צוותי כיבוי עושים את דרכם לאזור. לפי דיווחים ראשוניים, משטחי עץ סמוכים לקניון עלו באש"
+      "summary": "בשל שריפה שפרצה באזור המרכז המסחרי \"עד הלום\", בעלי החנויות והמסעדות במקום פינו את הלקוחות, בעוד צוותי כיבוי עשו את דרכם למקום. לפי דיווחים, משטחי עץ סמוכים לקניון עלו באש"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -645,11 +665,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Islamic Jihad carrying out searches for hostage body near Gaza&#8217;s Nuseirat",
+      "title": "Senior Hamas commander said killed in Israeli strike in Gaza City; no IDF comment",
       "url": "https://www.timesofisrael.com/liveblog-november-22-2025/",
       "image": null,
       "published_at": "2025-11-22T03:04:41.000Z",
-      "summary": "Lebanese reports say one killed in Israeli drone strike in south * Palestinians say settler extremists poisoned flock of sheep near Ramallah\nThe post Islamic Jihad carrying out searches for hostage body near Gaza&#8217;s Nuseirat appeared first on The Times of Israel.\n"
+      "summary": "Islamic Jihad searching for hostage body near Gaza's Nuseirat * Lebanese reports say 1 killed in Israeli drone strike * Settler extremists accused of poisoning sheep near Ramallah\nThe post Senior Hamas commander said killed in Israeli strike in Gaza City; no IDF comment appeared first on The Times o"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1100,16 +1120,6 @@
       "image": null,
       "published_at": "2025-11-21T13:21:08.000Z",
       "summary": "זעירא, שהלך לעולמו בגיל 97, נחשב לאחד האחראים המרכזיים לכשל המודיעיני לפני פרוץ המלחמה. 5 פעמים התייצב בפני ועדת אגרנט, שחבריה הטיחו בו ביקורת קשה - אך לבסוף הוא נשבר והודה שאכן ראה ידיעה שהתריעה. הטענה שחשף את זהותו של אשרף מרואן, סגירת התיק - והדרך שעשה אחרי המלחמה"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "15 מחבלים יצאו ממנהרה מעבר לקו הצהוב: 6 חוסלו, עוד 5 נעצרו; נמשך המצוד",
-      "url": "https://www.ynet.co.il/news/article/bk4tfkcewx",
-      "image": null,
-      "published_at": "2025-11-21T13:05:26.000Z",
-      "summary": "המחבלים זוהו החל מסביבות השעה 06:30 בבוקר באזור מזרח רפיח, ייתכן שלטובת נסיגה מהשטח. אחד מתוך 5 המחבלים שנעצרו מסר בחקירתו כי יחד איתו שהו במנהרה כ-30 פעילים. הוא הוסיף כי הפעילים יצאו לחפש מזון ומים. חלק כנראה הצליחו לחזור אל מתחת לאדמה"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2300,16 +2310,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-792c-d326-a3ff-fd3dfc900001/fc/b1/eaaa150844098e96b731d8c10d33/270914.jpg?height=81",
       "published_at": "2025-11-18T21:30:47.000Z",
       "summary": "Some citizens, politicians and military personnel stubbornly cling to the absurd argument that the gangs of savage thugs who torch, ravage and expel entire Palestinian communities in the West Bank are merely a handful of 'wild weeds'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "The UN resolution is so vague on Palestinian statehood that even Netanyahu didn't care",
-      "url": "https://www.haaretz.com/opinion/editorial/2025-11-18/ty-article-opinion/the-un-resolution-is-so-vague-on-palestinian-statehood-that-even-netanyahu-didnt-care/0000019a-98b2-d7d6-ab9f-fdfa24160000",
-      "image": "https://img.haarets.co.il/bs/0000019a-7f1b-d6d8-af9b-7f5fc5400000/8b/eb/319c44c44bbd927524316c97f712/766506.jpg?height=81",
-      "published_at": "2025-11-18T21:29:49.000Z",
-      "summary": ""
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
