@@ -1,6 +1,76 @@
 {
-  "generated_at": "2025-11-22T21:07:16.537Z",
+  "generated_at": "2025-11-22T21:32:03.963Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "UN climate talks fail to secure new fossil fuel promises",
+      "url": "https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ded/live/18a04ba0-c7e2-11f0-a715-415645a54121.jpg",
+      "published_at": "2025-11-22T21:30:46.000Z",
+      "summary": "Nearly 200 countries attended COP30, which aimed to commit the world to take more action on climate change."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Drones sightings halt air traffic near Dutch city of Eindhoven",
+      "url": "https://www.bbc.com/news/articles/cewjlr0v02ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1952/live/da8afd00-c7e7-11f0-a9f0-9f5579338902.png",
+      "published_at": "2025-11-22T21:25:47.000Z",
+      "summary": "It is the latest in a series of drone sightings near airports and military bases in northern Europe."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Yemenite synagogue in central Israel vandalized, holy books ripped apart",
+      "url": "https://www.timesofisrael.com/yemenite-synagogue-in-central-israel-vandalized-holy-books-ripped-apart/",
+      "image": null,
+      "published_at": "2025-11-22T21:21:39.000Z",
+      "summary": "Mishkan Shalom Synagogue in central Israel says incident is 'pogrom,' community member calls it 'terror attack'; Police open investigation, no motive or suspects yet identified\nThe post Yemenite synagogue in central Israel vandalized, holy books ripped apart appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "חשד: הצית בניין בתל אביב - וכמעט גרם לאסון",
+      "url": "https://www.ynet.co.il/news/article/hjesdo1zzl",
+      "image": null,
+      "published_at": "2025-11-22T21:19:09.000Z",
+      "summary": "בן 26 מפתח תקווה נעצר אחרי שלפי החשד הצית עצים בסמוך לבניין בתל אביב - וגרם לשריפה גדולה שאחזה בחזית המבנה וגם בגג אחת הדירות. שכנה שנלכדה חולצה, והאירוע כולו הסתיים ללא נפגעים"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Airstrikes, hunger, waiting for evacuation: Gaza's children face a fragile cease-fire",
+      "url": "https://www.haaretz.com/gaza/2025-11-22/ty-article/.premium/gazas-hunger-crisis-remains-as-the-death-toll-passes-300-since-cease-fire-began/0000019a-ad33-d67f-adbe-fff3a8eb0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-ad35-d67f-adbe-fff7bb010006/7c/9b/12a71b3e4a188020513c751ca448/853595.jpg?height=81",
+      "published_at": "2025-11-22T21:14:45.000Z",
+      "summary": "Two Palestinian children have been killed on average each day since the cease-fire began, according to Gaza Health Ministry data and a UNICEF report. The UN says about 4,000 children in the enclave urgently need evacuation for life-saving treatment"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Gaza was ‘near and dear’ to Zohran Mamdani’s NYC mayoral bid, father says",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/gaza-was-near-and-dear-to-zohran-mamdanis-nyc-mayoral-bid-father-says?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-22T21:08:36.000Z",
+      "summary": "Scholar Mahmood Mamdani says Palestinian rights helped motivate his son Zohran’s run for New York City mayor."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Israeli strikes across Gaza kill 22 Palestinians, medical and civil defence officials say",
+      "url": "https://www.bbc.com/news/articles/c20879zzqn8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e122/live/714f42f0-c7c5-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-11-22T20:43:36.000Z",
+      "summary": "Israel says it struck targets in Gaza after an \"armed terrorist\" crossed the so-called yellow line and fired at soldiers."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -65,11 +135,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "ירי בלב יפו, שוד בתוך שכונה בב\"ש, פיצוץ ליד הקיבוץ: הפשע בכל פינה, והנתונים מוסתרים",
+      "title": "ירי בלב ההמון, שוד בתוך השכונה, רצח במכון השטיפה - ובמה התגאו בן גביר והמפכ\"ל?",
       "url": "https://www.ynet.co.il/news/article/h14m11ojb11g",
       "image": null,
       "published_at": "2025-11-22T19:49:24.000Z",
-      "summary": "ניסיונות חיסול בצפון ובמרכז, רצח בנצרת, שוד תכשיטים בבאר שבע, השחתת בית כנסת בשרון ופריצה לתחנת כיבוי במרכז. אלו רק חלק מאירועי הפשיעה שדווחו בסופ\"ש האחרון - בזמן שהמשטרה שוב מסתירה את הנתונים שהיא חייבת לפרסם על פי חוק. \"המשטרה משרתת את בן גביר - והאלימות לא עוצרת\", זעם חבר מועצת ת\"א-יפו. השר והמפכ"
+      "summary": "ניסיונות חיסול בצפון ובמרכז, שוד תכשיטים, פריצה לתחנת כיבוי, השחתת בית כנסת אלו רק חלק מאירועי הפשיעה שדווחו בסופ\"ש האחרון - בזמן שהמשטרה שוב מסתירה את הנתונים שהיא חייבת לפרסם על פי חוק. \"המשטרה משרתת את בן גביר - והאלימות לא עוצרת\", זעם חבר מועצת ת\"א-יפו. השר והמפכ\"ל התגאו במבצע להחזרת המשילות בנג"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -85,7 +155,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "‘Violence never ended’: Israeli attacks kill 22 Palestinians in Gaza",
+      "title": "‘Violence never ended’: Israeli attacks kill 24 Palestinians in Gaza",
       "url": "https://www.aljazeera.com/news/2025/11/22/violence-never-ended-israeli-attacks-kill-nearly-two-dozen-in-gaza?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-22T19:40:28.000Z",
@@ -445,16 +515,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Drones spotted near Dutch military base",
-      "url": "https://www.bbc.com/news/articles/cewjlr0v02ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d919/live/20a72ff0-c7ae-11f0-83e1-2f64c544cba6.png",
-      "published_at": "2025-11-22T14:34:36.000Z",
-      "summary": "It is the latest in a series of mysterious drone sightings at military sites in northern Europe."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Jair Bolsonaro arrested after being deemed a flight risk",
       "url": "https://www.bbc.com/news/articles/ce8qdm5zg10o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5656/live/8c802e20-c7a4-11f0-a788-49f2aacc0147.jpg",
@@ -802,16 +862,6 @@
       "summary": "Integrating transformative innovations from drones and AI to multi-domain operations, modern militaries are learning how to balance technology with the enduring human cost of battle\nThe post As machines boot up for war, IDF grapples with how to keep humans on combat&#8217;s bleeding edge appeared fi"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Families of Houthi-held Yemeni aid workers numb with worry: &#8216;We&#8217;re ghosts of people&#8217;",
-      "url": "https://www.timesofisrael.com/families-of-houthi-held-yemeni-aid-workers-numb-with-worry-were-ghosts-of-people/",
-      "image": null,
-      "published_at": "2025-11-22T10:12:00.000Z",
-      "summary": "Dozens of UN and NGO employees detained since last year by Iran-backed rebels, who accuse them of spying for West, Israel; families' fear exacerbated by US and Israeli strikes\nThe post Families of Houthi-held Yemeni aid workers numb with worry: &#8216;We&#8217;re ghosts of people&#8217; appeared fir"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -870,26 +920,6 @@
       "image": null,
       "published_at": "2025-11-22T08:56:28.000Z",
       "summary": "The vote occurs at a time of rising secessionist rhetoric in the Serb-majority entity, and with Europe in wider tumult. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Epstein victims expect death threats to rise as US release of files nears",
-      "url": "https://www.aljazeera.com/news/2025/11/22/epstein-victims-expect-death-threats-to-rise-as-us-release-of-files-nears?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-22T08:27:07.000Z",
-      "summary": "Abuse survivors urge accountability, support ahead of the release of the files related to the sex offender in the US. "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "שוטרים פיזרו את חגיגת השחרור מהכלא: \"היכו וזרקו רימונים. הילדים מבועתים\" | תיעוד",
-      "url": "https://www.ynet.co.il/news/article/h17fccrxwx",
-      "image": null,
-      "published_at": "2025-11-22T08:14:55.000Z",
-      "summary": "לטענת כמה מהחוגגים, שוטרים שסיירו בג'סר א-זרקא הגיעו למקום, זרקו רימונים ותקפו גם נשים: \"דחפו אישה בהיריון, הבהילו את הילדים\". 6 פונו לבית החולים במצב קל ובינוני. גורם במשטרה: \"השליכו אבנים על הכוחות - והם הגיבו\". תיעוד מהכאוס - והעדויות"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -960,16 +990,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-a621-d67f-adbe-fee3f14b0001/7c/2d/63ab7ed546438e452bbb67b8ff5a/174574.jpg?height=81",
       "published_at": "2025-11-22T02:31:58.000Z",
       "summary": "'We do not see the government mobilizing to confront this issue,' the deputy AG reprimanded, blaming the government for failing to advance bills to combat violence which has taken at least 226 lives since the beginning of the year"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "India's blind women cricketers chase history at first T20 World Cup",
-      "url": "https://www.bbc.com/news/articles/c78z8n3kvnro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d11/live/4ffb5310-c774-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-11-22T02:07:19.000Z",
-      "summary": "Most players come from underprivileged, rural backgrounds and learned the sport in the last few years."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2250,16 +2270,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-98da-dd6e-a5fa-fbfe7d870001/47/14/87c1386b43fba885b41f9ecc2be3/new.JPG?height=81",
       "published_at": "2025-11-19T02:11:28.000Z",
       "summary": "Hamas denies IDF claim that it struck a 'training compound' belonging to the organization', calling it 'pure fabrication and lies, aimed at justifying its criminal aggression'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "U.S. Congress passes measure to force release of Epstein files, sending it to Trump",
-      "url": "https://www.haaretz.com/us-news/2025-11-19/ty-article/u-s-congress-passes-measure-to-force-release-of-epstein-files-sending-it-to-trump/0000019a-994c-d5e6-abff-fdfc398d0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-994e-d7d6-ab9f-fdde7acb0001/f2/d4/2b478c454df4846e9434db38905f/ep2.JPG?height=81",
-      "published_at": "2025-11-18T23:36:38.000Z",
-      "summary": "The measure was passed in the House of Representatives with a vote of 427-1, as relations between the president and many of his most ardent supporters have been fractured over allegations that the administration covered up Epstein's ties to influential and powerful figures"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
