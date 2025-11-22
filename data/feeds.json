@@ -1,6 +1,76 @@
 {
-  "generated_at": "2025-11-22T11:31:14.281Z",
+  "generated_at": "2025-11-22T12:14:23.789Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump ally Marjorie Taylor Greene to quit Congress after Epstein files feud",
+      "url": "https://www.bbc.com/news/articles/cj4qx1lenvjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f27/live/b0083d80-c770-11f0-a882-55e7f9e7585f.jpg",
+      "published_at": "2025-11-22T12:06:02.000Z",
+      "summary": "A falling out with the US president erupted amid her relentless calls to release documents on the late paedophile."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Waves of Sudanese families flee expanding war, arrive in impoverished Chad",
+      "url": "https://www.aljazeera.com/news/2025/11/22/waves-of-sudanese-families-flee-expanding-war-arrive-in-impoverished-chad?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-22T12:01:55.000Z",
+      "summary": "Many people in Chad already depended on humanitarian assistance even before the start of the war in Sudan."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Arsenal vs Tottenham: Premier League – team news, start, lineups",
+      "url": "https://www.aljazeera.com/sports/2025/11/22/arsenal-vs-tottenham-premier-league-team-news-start?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-22T11:49:55.000Z",
+      "summary": "Arsenal host bitter local rivals Spurs at the Emirates, as the visitors look to put a dent in the Gunners&#039; title push."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Brazil&#8217;s former president Bolsonaro arrested days before starting 27-year prison sentence",
+      "url": "https://www.timesofisrael.com/brazils-former-president-bolsonaro-arrested-days-before-starting-27-year-prison-sentence/",
+      "image": null,
+      "published_at": "2025-11-22T11:46:44.000Z",
+      "summary": "Former right-wing leader detained at his Brasilia villa ahead of jail term for leading coup attempt; law enforcement says is acted at request of Brazil’s Supreme Court\nThe post Brazil&#8217;s former president Bolsonaro arrested days before starting 27-year prison sentence appeared first on The Times"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Nigeria sees one of worst mass abductions as 315 taken from school",
+      "url": "https://www.bbc.com/news/articles/c3w7621xypyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac15/live/18ee9de0-c78e-11f0-bca8-3f3db1bd72a1.png",
+      "published_at": "2025-11-22T11:32:39.000Z",
+      "summary": "The kidnapping comes amid a surge of attacks by armed groups in the African nation."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Deadly skies: Why Nepal is one of the most dangerous places to fly",
+      "url": "https://www.aljazeera.com/video/101-east/2025/11/22/deadly-skies-why-nepal-is-one-of-the-most-dangerous-places-to-fly?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-22T11:30:00.000Z",
+      "summary": "101 East takes to the skies in Nepal and investigates the Himalayan nation’s aviation crisis. "
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Iran seeks &#8216;urgent assistance&#8217; to put out fire in UNESCO-listed Hyrcanian forests",
+      "url": "https://www.timesofisrael.com/iran-seeks-urgent-assistance-to-put-out-fire-in-unesco-listed-hyrcanian-forests/",
+      "image": null,
+      "published_at": "2025-11-22T11:27:30.000Z",
+      "summary": "Aircraft and staff to arrive from Turkey, more assistance may be sought from Russia, after Tehran 'faced with the impossibility' of fighting flames alone, officials tell state media\nThe post Iran seeks &#8216;urgent assistance&#8217; to put out fire in UNESCO-listed Hyrcanian forests appeared first "
+    },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
@@ -10,16 +80,6 @@
       "image": null,
       "published_at": "2025-11-22T11:16:09.000Z",
       "summary": "Violence is out of control in the West Bank - and the few covering it are being assaulted."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Nigeria sees one of worst mass abductions as 315 taken from school",
-      "url": "https://www.bbc.com/news/articles/c3w7621xypyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac15/live/18ee9de0-c78e-11f0-bca8-3f3db1bd72a1.png",
-      "published_at": "2025-11-22T11:09:07.000Z",
-      "summary": "The kidnapping comes amid a surge of attacks by armed groups in the African nation."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -445,16 +505,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Trump ally Marjorie Taylor Greene to quit Congress after Epstein files feud",
-      "url": "https://www.bbc.com/news/articles/cj4qx1lenvjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f27/live/b0083d80-c770-11f0-a882-55e7f9e7585f.jpg",
-      "published_at": "2025-11-22T04:12:35.000Z",
-      "summary": "A falling out with the US president erupted amid her relentless calls to release documents on the late paedophile."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Five takeaways from Trump and Mamdani's surprisingly cordial meeting",
       "url": "https://www.bbc.com/news/articles/cvgqd42gl0qo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67af/live/26f109b0-c774-11f0-b0e6-6b19d8000d31.jpg",
@@ -482,16 +532,6 @@
       "summary": "אין הדעת נוחה מהתערבותו של בית משפט אזרחי בנושאים הלכתיים. אלא שהרבנות מבקשת לאחוז את החבל בשני קצותיו"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Major MAGA figure Marjorie Taylor Greene resigns after Trump clash",
-      "url": "https://www.aljazeera.com/news/2025/11/22/major-maga-figure-marjorie-taylor-greene-resigns-after-trump-clash?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-22T03:43:24.000Z",
-      "summary": "Greene says &#039;standing up for American women raped at 14&#039; should not lead to being branded a &#039;traitor&#039; by Trump."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -509,7 +549,7 @@
       "url": "https://www.bbc.com/news/articles/cdege0k962do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c3d/live/fc7a6410-c73c-11f0-8c06-f5d460985095.png",
       "published_at": "2025-11-22T03:32:39.000Z",
-      "summary": "While Donald Trump admonishes Nigeria for persecuting Christians, Christian converts tell the BBC they live in fear of being deported to Iran from the US."
+      "summary": "Christian converts tell the BBC they live in fear of being deported to Iran from the US."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -562,16 +602,6 @@
       "summary": "'We do not see the government mobilizing to confront this issue,' the deputy AG reprimanded, blaming the government for failing to advance bills to combat violence which has taken at least 226 lives since the beginning of the year"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US Supreme Court blocks order on likely racial bias in new Texas voter map",
-      "url": "https://www.aljazeera.com/news/2025/11/22/us-supreme-court-blocks-order-on-likely-racial-bias-in-new-texas-voter-map?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-22T02:26:45.000Z",
-      "summary": "Texas redrew its voting map as part of President Donald Trump&#039;s plan to win extra Republican seats in Congress in 2026. "
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -600,16 +630,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5c1/live/5f061350-c6fb-11f0-a863-434ee92aa5e3.png",
       "published_at": "2025-11-22T01:50:11.000Z",
       "summary": "The Christian Association of Nigeria said 215 students and 12 members of staff were taken during the raid on Friday."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Russia-Ukraine war: List of key events, day 1,367",
-      "url": "https://www.aljazeera.com/news/2025/11/22/russia-ukraine-war-list-of-key-events-day-1367?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-22T01:24:51.000Z",
-      "summary": "Here are the key events from day 1,367 of Russia’s war on Ukraine."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -662,16 +682,6 @@
       "summary": "אחרי ההקנטות וההאשמות ההדדיות, הגיע ראש העיר ניו יורק הנבחר לוושינגטון - ונפגש עם הנשיא. השניים מסרו הצהרה ממלכתית במיוחד, ותיארו פגישה \"טובה ויעילה\". \"דיברתי על כך שארה\"ב מממנת את רצח העם\", האשים ממדאני, לצד הנשיא שהתעלם לחלוטין. השאלה שהביכה את ראש העיר והמחמאות שקיבל"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Amid IDF strikes, Lebanon’s Aoun says state monopoly on weapons needed in south",
-      "url": "https://www.timesofisrael.com/amid-idf-strikes-lebanons-aoun-says-state-monopoly-on-weapons-needed-in-south/",
-      "image": null,
-      "published_at": "2025-11-21T22:29:07.000Z",
-      "summary": "President says military control south of Litani River is 'inevitable,' urges international oversight as Israel targets Hezbollah and Hamas\nThe post Amid IDF strikes, Lebanon’s Aoun says state monopoly on weapons needed in south appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -705,21 +715,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Analysis | The ultra-hawkish right and anti-Zionist left have drowned the American Jewish middle",
+      "title": "Analysis | The ultra-hawkish right and anti-Zionist left have drowned the American Jewish majority",
       "url": "https://www.haaretz.com/us-news/2025-11-21/ty-article-magazine/.premium/the-ultra-hawkish-right-and-anti-zionist-left-have-drowned-the-american-jewish-middle/0000019a-a618-dd6e-a5fa-fffc74910000",
       "image": "https://img.haarets.co.il/bs/00000189-9896-d00f-a7db-b99f628a0000/b5/97/e732605c49dd8dccb1a9ec4389a8/32406.jpg?height=81",
       "published_at": "2025-11-21T21:44:25.000Z",
-      "summary": "Every U.S. politics pathology is reproduced in Jewish politics. That's bad for a democratic Israel and a free Palestine"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Zamir warns settler violence threatens Israel’s ability to fight on key fronts",
-      "url": "https://www.timesofisrael.com/zamir-warns-settler-violence-threatens-israels-ability-to-fight-on-key-fronts/",
-      "image": null,
-      "published_at": "2025-11-21T21:27:26.000Z",
-      "summary": "IDF chief says unrest may divert troops from Gaza, Lebanon, Syria; army kills Palestinian gunman who shot reservist in West Bank; two East Jerusalem teens killed by Border Police\nThe post Zamir warns settler violence threatens Israel’s ability to fight on key fronts appeared first on The Times of Is"
+      "summary": "Every U.S. political pathology – on the left and right – is reproduced in American Jewish politics, effectively rendering invisible the plurality of U.S. Jews. That's bad for U.S. Jews, for a democratic Israel and for a free Palestine"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
