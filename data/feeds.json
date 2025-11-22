@@ -1,6 +1,36 @@
 {
-  "generated_at": "2025-11-22T05:08:44.652Z",
+  "generated_at": "2025-11-22T05:37:29.220Z",
   "items": [
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Australia’s Northern Territory braces for Tropical Cyclone Fina",
+      "url": "https://www.aljazeera.com/news/2025/11/22/australias-northern-territory-braces-for-tropical-cyclone-fina?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-22T05:23:37.000Z",
+      "summary": "Authorities in Australia&#039;s Northern Territory described the situation as &#039;serious&#039;, as they urged residents to shelter."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US warns civilian flights as military activity around Venezuela increases",
+      "url": "https://www.aljazeera.com/news/2025/11/22/us-warns-civilian-flights-as-military-activity-around-venezuela-increases?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-22T05:22:02.000Z",
+      "summary": "US aviation administration issues warning amid &#039;worsening security&#039; and growing &#039;military activity&#039; around Venezuela. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Colombia hails ‘historic blow’ after largest cocaine bust in a decade",
+      "url": "https://www.aljazeera.com/news/2025/11/22/colombia-hails-historic-blow-after-largest-cocaine-bust-in-a-decade?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-22T04:58:47.000Z",
+      "summary": "Authorities said the bust prevented the circulation of 35 million doses of cocaine worth more than $388m."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -10,6 +40,16 @@
       "image": null,
       "published_at": "2025-11-22T04:44:54.000Z",
       "summary": "אתמול היה היום החם ביותר בחודשי נובמבר מתחילת המדידות, וגם היום יהיה חם מהרגיל עד שרבי בכל הארץ. בראשון ובשני הטמפרטורות צפויות לרדת אך עדיין יהיה חם מהרגיל, ושינוי של ממש צפוי לקראת יום שלישי - וגם חשש משטפונות"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Can Pakistan join the Gaza stabilisation force without facing backlash?",
+      "url": "https://www.aljazeera.com/news/2025/11/22/can-pakistan-join-the-gaza-stabilisation-force-without-facing-backlash?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-22T04:44:05.000Z",
+      "summary": "Islamabad balances alliances, economic needs and public sentiment as it weighs potential troop deployment to Gaza."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -742,16 +782,6 @@
       "summary": "יונס אשתיה, קצין המשטרה הפלסטינית, חוסל בידי לוחמי הימ\"מ בעיירה תל מדרום לשכם. הוא ירה על לוחם מילואים ופצע אותו בינוני. בסביבת אותו המקום נעצר פעיל נוסף במנגנונים הפלסטיניים, שניים אחרים נלכדו בצפון השומרון"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Pilot killed as fighter jet crashes at Dubai Airshow",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/21/pilot-killed-as-fighter-jet-crashes-at-dubai-airshow?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-21T15:55:42.000Z",
-      "summary": "An Indian-made HAL Tejas fighter jet crashed during a demonstration at the Dubai Airshow in United Arab Emirates."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -760,26 +790,6 @@
       "image": null,
       "published_at": "2025-11-21T15:55:03.000Z",
       "summary": "Israel Police searched the area and found no other explosives."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Qatari emir arrives in DR Congo after Rwanda visit",
-      "url": "https://www.aljazeera.com/news/2025/11/21/qatari-emir-arrives-in-dr-congo-after-rwanda-visit?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-21T15:49:48.000Z",
-      "summary": "Qatar has mediated talks between the DRC government and M23 rebels which led to a framework deal last week."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Ex-leader of Reform UK in Wales jailed for 10 years over pro-Russia bribes",
-      "url": "https://www.aljazeera.com/news/2025/11/21/ex-leader-of-reform-uk-in-wales-jailed-for-10-years-over-pro-russia-bribes?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-21T15:48:31.000Z",
-      "summary": "Judge says Nathan Gill, a former leader of the Reform UK party in Wales, &#039;abused position of authority and trust&#039;."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -840,16 +850,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-a6d2-d83e-a19b-f7f6e4ce0000/b0/24/cf96778d45cdb605aa5b67edc91d/743888.jpg?height=81",
       "published_at": "2025-11-21T15:07:37.000Z",
       "summary": "Singapore is the latest country to sanction far-right Israeli settler activists amid the surge in West Bank violence. While it singled out individuals 'jeopardizing prospects for a two-state solution,' it stopped short of recognizing a Palestinian state or sanctioning officials like Ben-Gvir"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Despite Gaza ceasefire, ‘we haven’t seen the worst’: B’Tselem chief",
-      "url": "https://www.aljazeera.com/news/2025/11/21/despite-gaza-ceasefire-we-havent-seen-the-worst-btselem-chief?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-21T14:53:41.000Z",
-      "summary": "Conditions that led to genocide in Gaza remain precarious given lack of accountability, says rights advocate Yuli Novak."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
