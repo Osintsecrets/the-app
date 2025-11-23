@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-23T15:33:16.456Z",
+  "generated_at": "2025-11-23T16:09:22.149Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -22,6 +22,16 @@
       "summary": "The verdict adopts the position of the Health Ministry, leaving in place its decision to bar the physician from practicing medicine in any capacity."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Israel targets key Hezbollah official in first attack on Beirut in months",
+      "url": "https://www.bbc.com/news/articles/cn81j54xjx1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9268/live/f96bce90-c87b-11f0-b59b-8f3754d4238d.jpg",
+      "published_at": "2025-11-23T16:07:08.000Z",
+      "summary": "Israel has escalated its campaign on targets it says are linked to Hezbollah, raising fears of a resumption of hostilities."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -30,6 +40,26 @@
       "image": null,
       "published_at": "2025-11-23T16:07:08.000Z",
       "summary": "The latest change follows several recent adjustments to the trial schedule."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "יאיר נתניהו בחוץ, סופית: הנבחרים לראשות ההסתדרות הציונית",
+      "url": "https://www.ynet.co.il/news/article/bkpftox11wx",
+      "image": null,
+      "published_at": "2025-11-23T16:04:34.000Z",
+      "summary": ""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Fifty children escape after mass school abduction in Nigeria",
+      "url": "https://www.bbc.com/news/articles/cpwk5qzzppzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ec/live/f9992680-c883-11f0-bd12-71741f879d80.jpg",
+      "published_at": "2025-11-23T16:00:45.000Z",
+      "summary": "The raid on a Christian school came amid a surge of attacks by armed groups in the African nation."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -45,11 +75,101 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
+      "title": "צה\"ל תקף בביירות את רמטכ\"ל חיזבאללה, בכיר ישראלי: \"החיסול הצליח\"",
+      "url": "https://www.ynet.co.il/news/article/sjsogklbbe",
+      "image": null,
+      "published_at": "2025-11-23T15:55:39.000Z",
+      "summary": "במבצע שכונה \"בלאק פריידיי\", תקף חיל האוויר לראשונה זה 5 חודשים בדאחייה - בעקבות \"מודיעין מתפרץ\". היעד היה מספר 2 של חיזבאללה, הייתם עלי טבטבאי, ובישראל נערכים לאפשרות שחיזבאללה יגיב. בתחילה טענו בישראל כי ארה\"ב עודכנה מראש, אחר כך אמר גורם מדיני: \"האמריקנים עודכנו אחרי התקיפה\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"קללת קנדי\" נמשכת: נכדתו של הנשיא המנוח הודיעה שחלתה בסרטן סופני",
+      "url": "https://www.ynet.co.il/news/article/r1jmvsgwwx",
+      "image": null,
+      "published_at": "2025-11-23T15:53:45.000Z",
+      "summary": "בדיוק ביום השנה ה-62 לרצח סבה ג'ון קנדי הודיעה טטיאנה שלוסברג כי חלתה בלוקמיה ונותרה לה שנה לחיות. היא הביעה צער על כך שהיא מצרפת עוד פרק להיסטוריה עמוסת האסונות של המשפחה, שכוללת מעשי רצח, טביעות, תאונות דרכים והתרסקויות מטוסים: \"כל חיי ניסיתי להגן על אמי. עכשיו הוספתי עוד טרגדיה לחייה, ואין שום דב"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Manchester United vs Everton: Premier League – team news, start and lineups",
+      "url": "https://www.aljazeera.com/sports/2025/11/23/manchester-united-vs-everton-premier-league-team-news-start-and-lineups?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-23T15:45:33.000Z",
+      "summary": "Manchester United target top four spot in the English Premier League table when they host Everton on Monday."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Christian group in Nigeria says 50 students abducted by gunmen have escaped",
+      "url": "https://www.aljazeera.com/news/2025/11/23/christian-group-in-nigeria-says-50-students-abducted-by-gunmen-have-escaped?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-23T15:43:23.000Z",
+      "summary": "Authorities look for missing students and teachers after two major incidents of kidnappings take place within days."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Guinea-Bissau, beset by coups, votes in contentious presidential election",
+      "url": "https://www.aljazeera.com/news/2025/11/23/guinea-bissau-beset-by-coups-votes-in-contentious-presidential-election?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-23T15:42:37.000Z",
+      "summary": "The president wants a second term and is challenged by a relatively unknown candidate backed by a former prime minister."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israel targets Hezbollah military chief in strike on Beirut stronghold; five reported killed",
+      "url": "https://www.haaretz.com/israel-news/2025-11-23/ty-article/.premium/israel-targets-hezbollah-military-chief-in-strike-on-beirut-stronghold-5-reported-killed/0000019a-b12b-d83e-a19b-f77fb0c40000",
+      "image": "https://img.haarets.co.il/bs/0000019a-b144-d83e-a19b-f77490aa0000/41/6a/fb9ca9c4478aa81eda721913db8a/892653-2.jpg?height=81",
+      "published_at": "2025-11-23T15:39:53.000Z",
+      "summary": "A U.S. official said Israel did not notify the White House before the strike on Beirut, but only immediately afterward; Israeli intelligence estimates Hezbollah may target Jewish or Israel-linked sites outside of Israel in a bid to avoid further escalation within Israel and Lebanon"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Some 1 in 4 Israelis considering leaving the country, poll finds",
+      "url": "https://www.timesofisrael.com/some-1-in-4-israelis-considering-leaving-the-country-poll-finds/",
+      "image": null,
+      "published_at": "2025-11-23T15:34:07.000Z",
+      "summary": "30% of Arabs, 26% of Jews thinking of emigrating, IDI says; secular Jews more inclined than religious; security, politics, employment and cost of living are top concerns\nThe post Some 1 in 4 Israelis considering leaving the country, poll finds appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US-Ukraine talks: Why are European leaders opposing Trump’s peace plan?",
+      "url": "https://www.aljazeera.com/news/2025/11/23/us-ukraine-talks-why-are-european-leaders-opposing-trumps-peace-plan?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-23T15:29:44.000Z",
+      "summary": "Officials from the US, EU and Ukraine meet in Geneva to discuss Donald Trump&#039;s plan to end Russia&#039;s war with Ukraine."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Why is Saudi Arabia doubling down on its relations with the US?",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2025/11/23/why-is-saudi-arabia-doubling-down-on-its-relations-with-the-us?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-23T15:28:23.000Z",
+      "summary": "Gulf expert Gregory Gause explains what Saudi Arabia wants from Washington and what Washington wants from Riyadh."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
       "title": "\"זיני לא מבין את האויב, את אפס קצה המלחמה שהוא מנהל. נקבל גיבורים שהידים\"",
       "url": "https://www.ynet.co.il/news/article/bkvrodlw11x",
       "image": null,
       "published_at": "2025-11-23T15:17:40.000Z",
-      "summary": "ראש השב\"כ לשעבר עמי אילון מעריך בריאיון ל-ynet כי העתירה שאליה הצטרף נגד מינוי דוד זיני לראש השירות תידחה, וקרא לבכירי השב\"כ \"להניח שהם שומרי הסף\" ו\"להכווין\" את זיני. הוא אמר שהוא \"מוטרד\" משינוי עמדת שב\"כ בעד עונש מוות למחבלים, ושהתאכזב מכך שהרמטכ\"ל לא מתנגד: \"זה יעודד פיגועים בחו\"ל\""
+      "summary": "ראש השב\"כ לשעבר עמי אילון מעריך בריאיון לאולפן ynet כי העתירה שאליה הצטרף נגד מינוי דוד זיני לראש השירות תידחה, וקרא לבכירי השב\"כ \"להניח שהם שומרי הסף\" ו\"להכווין\" את זיני. אילון \"מוטרד\" משינוי עמדת שב\"כ בעד עונש מוות למחבלים, ואמר שהתאכזב מכך שהרמטכ\"ל לא מתנגד: \"זה יעודד פיגועים בחו\"ל\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -255,11 +375,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Israel bombs southern suburbs of Beirut; casualties reported",
+      "title": "One killed as Israel bombs southern suburbs of Beirut despite ceasefire",
       "url": "https://www.aljazeera.com/news/2025/11/23/israel-bombs-southern-suburbs-of-beirut?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-23T13:11:00.000Z",
-      "summary": "The attack is the latest violation of a ceasefire Israel signed one year ago to end the war in Lebanon."
+      "summary": "Netanyahu&#039;s office says Hezbollah&#039;s chief of staff was the target in the latest violation of a year-old ceasefire."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -300,16 +420,6 @@
       "image": null,
       "published_at": "2025-11-23T12:56:16.000Z",
       "summary": "Ukraine-born wrestler Aonishiki Arata is the first from his country to win an elite-level sumo championship in Japan."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "צה\"ל תקף בביירות את רמטכ\"ל חיזבאללה, ההערכה: החיסול הצליח",
-      "url": "https://www.ynet.co.il/news/article/sjsogklbbe",
-      "image": null,
-      "published_at": "2025-11-23T12:49:34.000Z",
-      "summary": "במבצע שכונה \"בלאק פריידיי\", תקף חיל האוויר לראשונה זה 5 חודשים בדאחייה - בעקבות \"מודיעין מתפרץ\". היעד היה מספר 2 של חיזבאללה, הייתם עלי טבטבאי, ובישראל נערכים לאפשרות שחיזבאללה יגיב. בתחילה טענו בישראל כי ארה\"ב עודכנה מראש, אחר כך אמר גורם מדיני: \"האמריקנים עודכנו אחרי התקיפה\""
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -622,16 +732,6 @@
       "summary": "השר לביטחון לאומי ושר האוצר התעמתו על רקע רפורמת החלב. בישיבה עלתה הצעה למינוי לוין לשר קבוע במשרדי הדת, העבודה וירושלים ומסורת. שיקלי על הקונסוליות של טורקיה: \"זו מדינת אויב, צריך להעיף אותם קיבינימט\". נתניהו: \"בדיפלומטית - זו מדינה לעומתית\""
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Nigeria sees one of worst mass abductions as 315 taken from school",
-      "url": "https://www.bbc.com/news/articles/c3w7621xypyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac15/live/18ee9de0-c78e-11f0-bca8-3f3db1bd72a1.png",
-      "published_at": "2025-11-23T10:10:03.000Z",
-      "summary": "The kidnapping comes amid a surge of attacks by armed groups in the African nation."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -722,16 +822,6 @@
       "summary": "The Houthis accused the defendants of working for foreign intelligence, including the Mossad, 'which led to the targeting of several military, security and civilian sites resulting in the death of dozens and widespread destruction of infrastructure'"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump again slams Democrats who urged US troops to refuse illegal orders",
-      "url": "https://www.aljazeera.com/news/2025/11/23/trump-again-slams-democrats-who-urged-us-troops-to-refuse-illegal-orders?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T09:14:05.000Z",
-      "summary": "Despite outcry over earlier attack, Trump doubles down and calls for rivals who issued message to military to be jailed."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -792,16 +882,6 @@
       "summary": "The 28-point war-ending 'peace plan' serves Russia's interests and pressures Ukraine. Peace won't follow, just as none came from the Soviet-Nazi pact"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Paul Pogba returns from doping ban for Monaco debut in Ligue 1",
-      "url": "https://www.aljazeera.com/sports/2025/11/23/paul-pogba-returns-from-doping-ban-for-monaco-debut-in-ligue-1?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T08:32:16.000Z",
-      "summary": "Ex-Juventus star made his return to football, suiting up for Monaco in first game in more than two years after drug ban."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -830,16 +910,6 @@
       "image": null,
       "published_at": "2025-11-23T08:19:09.000Z",
       "summary": "מיד כששר המשפטים הודיע על מינוי השופט בדימוס יוסף בן חמו למלווה חקירת הפצ\"רית, הקפיא נשיא העליון את ההחלטה. לוין כינה את המהלך \"שיא חדש של חרפה\", וכעת מבקש לבטל את ההחלטה: \"גורמים עתרו כדי לשלול את סמכותי\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israeli jets bomb villages across Lebanon despite ceasefire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/23/israeli-jets-bomb-villages-across-lebanon-despite-ceasefire?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T08:04:40.000Z",
-      "summary": "Israeli fighter jets have bombed across Lebanon, killing at least two people and injuring several others. "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -872,16 +942,6 @@
       "summary": "Tatiana Schlossberg, 35, says she was diagnosed shortly after giving birth in 2024 and has less than a year to live."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Ukraine-US-E3 start Geneva talks; Rubio rejects Russia ‘wish list’ claim",
-      "url": "https://www.aljazeera.com/news/2025/11/23/ukraine-e3-to-start-geneva-talks-rubio-rejects-russia-wish-list-claim?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T07:15:36.000Z",
-      "summary": "Stakeholders are gathering to start negotiations based on a text that the EU believes mostly favours Russian demands."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -900,16 +960,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdbc/live/fa83cde0-c831-11f0-9fb5-5f3a3703a365.jpg",
       "published_at": "2025-11-23T07:06:07.000Z",
       "summary": "Land drones are increasingly the only means of transporting supplies to the embattled city of Pokrovsk."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Verstappen wins Las Vegas F1 GP while Norris extends championship lead",
-      "url": "https://www.aljazeera.com/sports/2025/11/23/verstappen-wins-las-vegas-f1-gp-while-norris-extends-championship-lead?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T07:03:38.000Z",
-      "summary": "Lando Norris closes in on first Formula One Drivers&#039; championship after finishing second to Max Verstappen in Nevada."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -942,26 +992,6 @@
       "summary": "Days of torrential rain leaves vast swathes of the country inundated and facing landslides. "
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ההכנות להיתקלות הראשונה של הכוח הבינ\"ל עם חמאס, והצצה לשרטוט עתיד עזה",
-      "url": "https://www.ynet.co.il/news/article/yokra14588233",
-      "image": null,
-      "published_at": "2025-11-23T05:48:11.000Z",
-      "summary": "המנדט עוד לא נתפר, אין מודל להתבסס עליו - אבל במפקדה בקריית גת מתכנסים מדי יום נציגים מ-21 מדינות כדי לתכנן את עזה של אחרי המלחמה. היעד הראשון: הכנת הכוח הרב-לאומי שאמור לפרק את חמאס מנשקו. \"לא רוצים עוד יוניפי\"ל כמו בלבנון\", מודים בצה\"ל - ומבינים: שלטון פלסטיני מקומי הוא בלתי נמנע"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "חזרה גנרלית לפריימריז: אחרי 14 שנה - ועידת הליכוד מתכנסת השבוע",
-      "url": "https://www.ynet.co.il/news/article/yokra14588594",
-      "image": null,
-      "published_at": "2025-11-23T05:48:03.000Z",
-      "summary": "צמרת הליכוד משנסת מותניים: מחרתיים יתקיימו בחירות דרמטיות למרכז המפלגה ולמוקדי הכוח המרכזיים בה, וכשבפתח שנת בחירות - האירוע מסעיר את מפלגת השלטון ומצית מאבק עם לא מעט אגו ויצרים. מה שצפוי לקרות, הקרבות העיקריים, הבריתות המפתיעות - ואיך זה ישפיע על עתידם של הח\"כים והשרים?"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -969,7 +999,7 @@
       "url": "https://www.timesofisrael.com/liveblog-november-23-2025/",
       "image": null,
       "published_at": "2025-11-23T04:55:58.000Z",
-      "summary": "First Israeli strike on Beirut since July * Israel reportedly did not tell US ahead of hit * Senior Hamas team said in Cairo to discuss Gaza violence \nThe post In escalation, IDF targets Hezbollah chief of staff Haytham Ali Tabatabai in Beirut strike appeared first on The Times of Israel.\n"
+      "summary": "Israel increasingly confident he was killed in first strike on Beirut since July * US reportedly not informed ahead of hit * Senior Hamas team said in Cairo to discuss Gaza violence \nThe post In escalation, IDF targets Hezbollah chief of staff Haytham Ali Tabatabai in Beirut strike appeared first on"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -992,16 +1022,6 @@
       "summary": "Syria faces the daunting task of comprehensive reform, including a dire educational system with over 2.4 million children out of school. The new regime, led by al-Sharaa, must navigate ideological challenges in reforming school curricula and gain international trust by demonstrating a commitment to "
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "&#8216;We&#8217;re ready for him to come home,&#8217; says sister of deceased hostage Ran Gvili",
-      "url": "https://www.timesofisrael.com/were-ready-for-him-to-come-home-says-sister-of-deceased-hostage-ran-gvili/",
-      "image": null,
-      "published_at": "2025-11-23T03:52:48.000Z",
-      "summary": "Shira Gvili says the wait for the body of her brother, a police officer and one of the final three slain hostages held in Gaza, feels interminable\nThe post &#8216;We&#8217;re ready for him to come home,&#8217; says sister of deceased hostage Ran Gvili appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1015,7 +1035,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israel strikes Hezbollah military chief in Beirut stronghold, Netanyahu's office confirms",
+      "title": "Israeli officials: Hezbollah may target Jewish or Israel-linked sites abroad in response to strike against military chief",
       "url": "https://www.haaretz.com/israel-news/2025-11-23/ty-article-live/idf-says-it-killed-11-captured-six-palestinian-militants-escaping-gaza-tunnel-complex/0000019a-aeb4-d83e-a19b-fff4c3e30000",
       "image": "https://img.haarets.co.il/bs/0000019a-b0db-d7d6-ab9f-fddb9f100000/a2/fd/90ab52504c008c53191bbd282a03/892653.jpg?height=81",
       "published_at": "2025-11-23T03:41:55.000Z",
@@ -1282,16 +1302,6 @@
       "summary": "The strikes, which Israeli officials say are a response to Hamas cease-fire violations, are the latest test of a shaky U.S.-brokered agreement reached over a month ago. One IDF strike on a vehicle killed 11 Palestinians – mostly children – in Gaza City, health officials said"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Irish fashion designer Paul Costelloe dies aged 80",
-      "url": "https://www.bbc.com/news/articles/cly3w4we7gxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b343/live/0411c700-c7b4-11f0-83e1-2f64c544cba6.jpg",
-      "published_at": "2025-11-22T16:39:20.000Z",
-      "summary": "His family issued a statement on Saturday saying they are \"deeply saddened to announce the passing of Paul Costelloe following a short illness\"."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1350,16 +1360,6 @@
       "image": "https://img.haarets.co.il/bs/00000199-ba3b-d5c1-ad9d-fb7b1e270001/bd/df/c744a80a44559ded8086da655b63/028789-2.jpg?height=81",
       "published_at": "2025-11-22T06:55:27.000Z",
       "summary": "Israel Premier-Tech officially announced it will change its name to NSN, after the cycling team's new sponsor"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Five takeaways from Trump and Mamdani's surprisingly cordial meeting",
-      "url": "https://www.bbc.com/news/articles/cvgqd42gl0qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67af/live/26f109b0-c774-11f0-b0e6-6b19d8000d31.jpg",
-      "published_at": "2025-11-22T04:04:18.000Z",
-      "summary": "It was billed as potentially the political showdown of the year - instead, both men gave one another praise. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2180,16 +2180,6 @@
       "image": "https://img.haarets.co.il/bs/00000192-25ad-d900-a5f3-6ffd8c930000/72/d8/a104be6b4683b170d3dab6393718/933062-2.jpg?height=81",
       "published_at": "2025-11-19T19:58:35.000Z",
       "summary": "Chabad Rabbi Yehuda Kaploun faced rare public opposition from House Democrats, who called him 'partisan' and 'unqualified'. In his opening statement, he cited the 'Judeo-Christian values' that have long shaped the conservative approach to antisemitism"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Justice minister pushed to promote son of nominee to oversee Sde Teiman leak probe",
-      "url": "https://www.haaretz.com/israel-news/2025-11-19/ty-article/.premium/justice-minister-pushed-to-promote-son-of-nominee-to-lead-sde-teiman-leak-probe/0000019a-9ce0-d5e6-abff-fcf44d520000",
-      "image": "https://img.haarets.co.il/bs/0000019a-9ce5-d5e6-abff-fcf5de630001/73/f3/17ecf9f245d7b3740a2c692ac3ed/613452-19.jpg?height=81",
-      "published_at": "2025-11-19T19:33:28.000Z",
-      "summary": "Although the son holds a low-ranking post in a traffic court, his approval as a judge means his future advancement within Israel's judiciary will now depend on the Justice Minister"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
