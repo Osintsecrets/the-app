@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-23T09:08:38.429Z",
+  "generated_at": "2025-11-23T09:34:49.571Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -30,6 +30,36 @@
       "image": null,
       "published_at": "2025-11-23T10:07:17.000Z",
       "summary": "Justice Minister Levin will be temporarily appointed as minister of labor, religious services, and Jerusalem and Israel heritage, while Prime Minister Netanyahu will also become minister of interior"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "טלטלה בצה\"ל: הרמטכ\"ל יטיל אחריות אישית על חלק ממפקדי 7 באוקטובר",
+      "url": "https://www.ynet.co.il/news/article/byxlqbxbwe",
+      "image": null,
+      "published_at": "2025-11-23T09:20:43.000Z",
+      "summary": "פרסום ראשון: החלטת הרמטכ\"ל התקבלה בעקבות מסקנות ועדת תורג'מן, שמונתה לבדוק את התחקירים על המלחמה - אך כבר מעוררת ביקורת חריפה ביותר בקרב חוגים בכירים בצבא. הטענות: יישום המסקנות האישיות לא תואם לדוח, זמיר \"מיישר קו\" עם הדרג המדיני - ועניין חומת יריחו לא נבדק, אחרי שנחשף כי זמיר עצמו קיבל את הפקודה כ"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Jair Bolsonaro arrested after being deemed a flight risk",
+      "url": "https://www.bbc.com/news/articles/ce8qdm5zg10o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5656/live/8c802e20-c7a4-11f0-a788-49f2aacc0147.jpg",
+      "published_at": "2025-11-23T09:20:00.000Z",
+      "summary": "The former Brazilian president is suspected of damaging an ankle bracelet as part of an alleged escape plan."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Houthi court in Yemen hands down death sentences to 17 people accused of spying for Israel, Saudi Arabia and the U.S.",
+      "url": "https://www.haaretz.com/middle-east-news/2025-11-23/ty-article/houthi-court-in-yemen-hands-down-death-sentences-to-17-people-accused-of-spying/0000019a-afbf-d67f-adbe-ffff20530000",
+      "image": "https://img.haarets.co.il/bs/0000019a-afc8-d2a0-afdf-ffef58960000/fc/b4/f943e9ce4ed99d71189ff79080d3/779346.jpg?height=81",
+      "published_at": "2025-11-23T09:19:26.000Z",
+      "summary": "The Houthis accused the defendants of working for foreign intelligence, including the Mossad, 'which led to the targeting of several military, security and civilian sites resulting in the death of dozens and widespread destruction of infrastructure'"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -99,7 +129,7 @@
       "url": "https://www.aljazeera.com/sports/2025/11/23/paul-pogba-returns-from-doping-ban-for-monaco-debut-in-ligue-1?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-23T08:32:16.000Z",
-      "summary": "Ex-Juventus star made his return to football, suiting up for Monaco in first game in over two years after drugs ban."
+      "summary": "Ex-Juventus star made his return to football, suiting up for Monaco in first game in more than two years after drug ban."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -180,16 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/ef259260-c7cf-11f0-b259-1f10e6cadd18.jpg",
       "published_at": "2025-11-23T07:42:57.000Z",
       "summary": "Tatiana Schlossberg, 35, says she was diagnosed shortly after giving birth in 2024 and has less than a year to live."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Jair Bolsonaro arrested after being deemed a flight risk",
-      "url": "https://www.bbc.com/news/articles/ce8qdm5zg10o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5656/live/8c802e20-c7a4-11f0-a788-49f2aacc0147.jpg",
-      "published_at": "2025-11-23T07:31:13.000Z",
-      "summary": "The former Brazilian president is suspected of damaging an ankle bracelet as part of an alleged escape plan."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1030,16 +1050,6 @@
       "image": null,
       "published_at": "2025-11-22T16:47:13.000Z",
       "summary": "מצבו של אחד הפצועים, בן 18, מוגדר קשה. המשטרה מסרה כי הרקע לירי הוא ככל הנראה פלילי, וכוחות זרמו למקום. חבר מועצת העיר: \"הממשלה לא פועלת במידה הדרושה למניעת התפשטות הפשיעה המאורגנת בערים המעורבות\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "טל שירי נהרג מקריסת עץ בשרון",
-      "url": "https://www.ynet.co.il/news/article/hyfbpwk11ze",
-      "image": null,
-      "published_at": "2025-11-22T16:45:54.000Z",
-      "summary": "טרגדיה בשער אפרים: לפי הדיווח למד\"א, טל שירי בן ה-41 ניסר עץ במושב שבשרון - שקרס עליו. לאחר פעולות החייאה נאלץ הצוות הרפואי לקבוע את מותו במקום "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2280,16 +2290,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-588c-d2eb-afda-de8dff980007/3e/b8/84097ce54bed8bbaf15e4522940f/95908.jpg?height=81",
       "published_at": "2025-11-19T15:50:51.000Z",
       "summary": "In 1981, Haaretz columnist Yoel Marcus criticized the prime minister for not being candid after a fall in the bathroom. According to Begin's detailed letter in response, politicians have good reason to be reticent"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Saint George's Day offered this Arab-Jewish city a rare moment of normalcy and beauty",
-      "url": "https://www.haaretz.com/israel-news/2025-11-19/ty-article-magazine/.premium/saint-georges-day-offered-this-arab-jewish-city-a-shared-moment-of-normalcy-and-beauty/0000019a-9c6f-d7d6-ab9f-fdffb9be0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-9c7a-dd6e-a5fa-fffeee1d0007/59/8b/2e476e494113af944c1e86abafc2/813851.jpg?height=81",
-      "published_at": "2025-11-19T15:37:25.000Z",
-      "summary": "Even as relentless violence and internal rifts continue to plague the Israeli city of Lod, St. George's festival drew thousands this week, looking for a measure of hope. 'We don't want to be depressed all the time'"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
