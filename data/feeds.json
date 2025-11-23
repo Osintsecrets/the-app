@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-11-23T05:09:05.693Z",
+  "generated_at": "2025-11-23T05:38:38.380Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"זה טרור\": ריסס בירי באין מפריע באמצע הרחוב - ולא נעצר | תיעוד",
+      "url": "https://www.ynet.co.il/news/article/hkmykgezwx",
+      "image": null,
+      "published_at": "2025-11-23T05:32:27.000Z",
+      "summary": "בעיר סכנין בגליל, נסיעה של דקות מתחנת המשטרה הקרובה, תועד רעול פנים יורה לעבר חנויות ובתים. גם התנועה ברחוב נעצרה לטובת המעשה. \"בלתי נתפס שבריונים שולטים בעיר שלמה\", אמרו תושבים. אף אחד לא נעצר"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "‘Enough repression’: Thousands of Tunisians protest against Kais Saied",
+      "url": "https://www.aljazeera.com/news/2025/11/23/enough-repression-thousands-of-tunisians-protest-against-kais-saied?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-23T05:21:38.000Z",
+      "summary": "Protesters in Tunis denounce an escalating crackdown on dissent and demand the release of jailed dissidents. "
+    },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
@@ -45,7 +65,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הצוותים שמשרטטים את עתיד עזה, והכוח הרב-לאומי שבדרך: \"ראשון מסוגו בעולם\" ",
+      "title": "ההכנות להיתקלות הראשונה עם מחבלי חמאס, והצצה: כך משורטט עתיד הרצועה",
       "url": "https://www.ynet.co.il/news/article/yokra14588233",
       "image": null,
       "published_at": "2025-11-23T04:05:30.000Z",
@@ -662,6 +682,16 @@
       "summary": ""
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "How Greene went from Maga loyalist to quitting Congress",
+      "url": "https://www.bbc.com/news/articles/cwywjz202r7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab26/live/986dcfa0-c7ca-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-22T17:43:11.000Z",
+      "summary": "Greene's tenure in Congress may be ending, but her involvement in US political life may not be over."
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -942,16 +972,6 @@
       "summary": "החזון של בן סלמאן הוא להפוך את הממלכה ממעצמת אנרגיה למעצמת בינה מלאכותית, מרכזת דטה סנטרים ושירותי מחשוב בקנה מידה עולמי. וזה מתיישב מצוין עם חזונו של טראמפ והצורך במשאבים שקשה להשיגם"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "גלי תקיפות בלבנון; שורת חיסולים בעזה: בכיר בחמאס נהרג",
-      "url": "https://www.ynet.co.il/news/article/hktjr4kzzg",
-      "image": null,
-      "published_at": "2025-11-22T13:20:06.000Z",
-      "summary": "צה\"ל חיסל 5 מחבלים שיצאו ממנהרה ברפיח - וכמה שחצו את הקו הצהוב, בהם אחד שירה לעבר הכוחות. בעיר עזה חוסל מפקד אגף במערך ההתחמשות של חמאס. בלבנון: צה\"ל תקף לפחות 16 פעמים באל-בקאע. גורם ביטחוני: התקיפות בעזה הסתיימו. לשכת רה\"מ למתווכות: \"חמאס הפר שוב את הפסקת האש\""
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -980,16 +1000,6 @@
       "image": null,
       "published_at": "2025-11-22T12:15:00.000Z",
       "summary": "All the updates as Barcelona mark their long-awaited return to the Camp Nou stadium by thumping Athletic Club."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump ally Marjorie Taylor Greene to quit Congress after Epstein files feud",
-      "url": "https://www.bbc.com/news/articles/cj4qx1lenvjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f27/live/b0083d80-c770-11f0-a882-55e7f9e7585f.jpg",
-      "published_at": "2025-11-22T12:06:02.000Z",
-      "summary": "A falling out with the US president erupted amid her relentless calls to release documents on the late paedophile."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1070,16 +1080,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925a/live/3e4c9d90-c78d-11f0-a892-01d657345866.jpg",
       "published_at": "2025-11-22T10:33:57.000Z",
       "summary": "Carlos Manzo, an outspoken critic of cartel violence, was gunned down in public on 1 November."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "How the US-Israeli ‘peace plan’ will partition Gaza",
-      "url": "https://www.aljazeera.com/opinions/2025/11/22/how-the-us-israeli-peace-plan-will-partition-gaza?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-22T10:30:07.000Z",
-      "summary": "It is tapping into a well-known colonial strategy of isolating and fragmenting an occupied population."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
