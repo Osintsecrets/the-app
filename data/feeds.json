@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-23T12:56:00.790Z",
+  "generated_at": "2025-11-23T13:16:39.098Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -32,14 +32,74 @@
       "summary": "Sharabi has spoken around the world, including to the UN Security Council, and continues to meet with world leaders to advocate for the return of the hostages."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israel bombs southern suburbs of Beirut",
+      "url": "https://www.aljazeera.com/news/2025/11/23/israel-bombs-southern-suburbs-of-beirut?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-23T13:11:00.000Z",
+      "summary": "This is a breaking news story."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "IDF chief summoning top military commanders ahead of sanctions over Oct. 7 failures",
+      "url": "https://www.timesofisrael.com/idf-chief-summoning-top-military-commanders-ahead-of-sanctions-over-oct-7-failures/",
+      "image": null,
+      "published_at": "2025-11-23T13:07:52.000Z",
+      "summary": "Officials summoned by Zamir include Air Force, Navy chiefs, other top generals; Zamir said looking to rebuild trust in IDF after military-led Oct. 7 probes were found inadequate\nThe post IDF chief summoning top military commanders ahead of sanctions over Oct. 7 failures appeared first on The Times o"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "South Africa’s president delivers G20 summit closing remarks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/23/south-africas-president-delivers-g20-summit-closing-remarks?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-23T13:01:59.000Z",
+      "summary": "South Africa’s President Cyril Ramaphosa has delivered closing remarks at the G20 summit in Johannesburg."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "War refugee Aonishiki becomes first Ukrainian to win top sumo championship",
+      "url": "https://www.aljazeera.com/sports/2025/11/23/war-refugee-aonishiki-becomes-first-ukrainian-to-win-top-sumo-championship?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-23T12:56:16.000Z",
+      "summary": "Ukraine-born wrestler Aonishiki Arata is the first from his country to win an elite-level sumo championship in Japan."
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "תקיפה חריגה בדאחייה: היעד - מחבל מרכזי של חיזבאללה",
+      "title": "צה\"ל ניסה לחסל את מספר 2 בחיזבאללה בדאחייה בביירות",
       "url": "https://www.ynet.co.il/news/article/sjsogklbbe",
       "image": null,
       "published_at": "2025-11-23T12:49:34.000Z",
-      "summary": ""
+      "summary": "הייתם עלי טבטבאי הותקף, לפי הדיווחים בלבנון, בדירה ברובע הדאחייה. בצה\"ל אישרו את דבר התקיפה ואמרו כי היעד היה \"מחבל מרכזי בחיזבאללה\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "How the arrest of former president Jair Bolsonaro has divided Brazilians",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/23/how-the-arrest-of-former-president-jair-bolsonaro-has-divided-brazilians?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-23T12:45:12.000Z",
+      "summary": "Former Brazilian president Jair Bolsonaro was taken into police custody after tampering with his ankle monitor."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US senator demands more be done to free US teen from Israeli detention",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/23/us-senator-demands-more-be-done-to-free-us-teen-from-israeli-detention?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-23T12:42:35.000Z",
+      "summary": "US senator demands release ofUS teen who has been detained in an Israeli prison for nine months without trial."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -65,7 +125,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Zamir dismisses Gaza Division Commander, summons officers responsible for Oct. 7 failures",
+      "title": "Zamir dismisses Gaza division commander, summons officers responsible for Oct. 7 failures",
       "url": "https://www.jpost.com/israel-news/defense-news/article-874877",
       "image": null,
       "published_at": "2025-11-23T12:34:55.000Z",
@@ -649,7 +709,7 @@
       "url": "https://www.timesofisrael.com/uk-police-used-untrue-claims-about-israeli-fans-to-justify-soccer-game-ban-report/",
       "image": null,
       "published_at": "2025-11-23T06:57:02.000Z",
-      "summary": "Dutch law enforcement deny Maccabi Tel Aviv fans threw 'innocent members of the public into the river,' 500-600 'intentionally targeted Muslim communities' in Amsterdam last year\nThe post UK police used untrue claims about Israeli fans to justify soccer game ban &#8211; report appeared first on The "
+      "summary": "Dutch law enforcement denies Maccabi Tel Aviv fans threw 'innocent members of the public into the river' in Amsterdam last year, or that 500-600 'intentionally targeted Muslim communities'\nThe post UK police used untrue claims about Israeli fans to justify soccer game ban &#8211; report appeared fir"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -755,11 +815,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "IDF chief summoning top military commanders ahead of sanctions over Oct. 7 failures",
+      "title": "In escalation, IDF says it carried out strike on &#8216;prominent&#8217; Hezbollah operative in Beirut",
       "url": "https://www.timesofisrael.com/liveblog-november-23-2025/",
       "image": null,
       "published_at": "2025-11-23T04:55:58.000Z",
-      "summary": "Senior Hamas team said in Cairo to discuss Gaza escalation * Levin appeals to High Court against delay in appointing judge to oversee Sde Teiman leak probe\nThe post IDF chief summoning top military commanders ahead of sanctions over Oct. 7 failures appeared first on The Times of Israel.\n"
+      "summary": " IDF chief summoning top military commanders ahead of sanctions over Oct. 7 failures * Senior Hamas team said in Cairo to discuss Gaza violence \nThe post In escalation, IDF says it carried out strike on &#8216;prominent&#8217; Hezbollah operative in Beirut appeared first on The Times of Israel.\n"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -805,21 +865,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israeli forces kill Hamas commander in Gaza airstrikes after cease-fire breach, IDF says",
+      "title": "IDF says it targeted major Hezbollah militant in Beirut airstrike",
       "url": "https://www.haaretz.com/israel-news/2025-11-23/ty-article-live/.premium/idf-says-it-killed-11-captured-six-palestinian-militants-escaping-gaza-tunnel-complex/0000019a-aeb4-d83e-a19b-fff4c3e30000",
       "image": "https://img.haarets.co.il/bs/0000019a-acda-d67f-adbe-fedb05790001/ec/b3/e49cb1ec4d71b5c77824b17692f8/whatsapp-image-2025-11-22-at-8-23-21-pm.jpeg?height=81",
       "published_at": "2025-11-23T03:41:55.000Z",
       "summary": ""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Airlines cancel Venezuela flights amid US warning, military buildup",
-      "url": "https://www.aljazeera.com/news/2025/11/23/airlines-cancel-flights-to-venezuela-amid-us-military-buildup?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T03:20:23.000Z",
-      "summary": "Flight suspensions come after US regulator warned planes of security risk in the airspace in and around Venezuela."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -860,16 +910,6 @@
       "image": null,
       "published_at": "2025-11-23T03:00:00.000Z",
       "summary": "מערכת הבריאות פועלת כבר חודשיים ללא שר בריאות שאחראי על קידום תקציבים וחקיקה ותכנון ארוך טווח, ומאז שקמה הממשלה עמדו בראשה חמישה שרים שונים. יו\"ר איגוד רופאי הציבור פרופ' חגי לוין מזהיר מפגיעה קשה בזמינות הטיפול, מהעיכוב בסל התרופות ומהיעדר תוכנית לשיקום בריאות הציבור אחרי המלחמה"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Russia-Ukraine war: List of key events, day 1,368",
-      "url": "https://www.aljazeera.com/news/2025/11/23/russia-ukraine-war-list-of-key-events-day-1368?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T02:53:55.000Z",
-      "summary": "Here are the key events from day 1,368 of Russia’s war on Ukraine."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1022,16 +1062,6 @@
       "summary": "'He took me, pressed a rifle to my head and a knife to my throat, and told me that if I told anyone... he would kill me,' ex-captive tells Channel 12, adding the abuse happened twice\nThe post &#8216;I had nowhere to run&#8217;: Guy Gilboa-Dalal recounts sexual abuse by captor in Gaza appeared first "
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Fire at Hadassah Ein Kerem hospital prompts brief partial evacuation",
-      "url": "https://www.timesofisrael.com/fire-at-hadassah-ein-kerem-hospital-prompts-partial-evacuation-before-being-contained/",
-      "image": null,
-      "published_at": "2025-11-22T22:41:45.000Z",
-      "summary": "Jerusalem medical center says no injuries reported; fire service says blaze broke out in laundry room, was quickly brought under control\nThe post Fire at Hadassah Ein Kerem hospital prompts brief partial evacuation appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1072,16 +1102,6 @@
       "summary": "ניסיונות חיסול בצפון ובמרכז, שוד תכשיטים, פריצה לתחנת כיבוי והשחתת בית כנסת אלו רק חלק מאירועי הפשיעה שדווחו בסופ\"ש האחרון - בזמן שהמשטרה שוב מסתירה את הנתונים שהיא חייבת לפרסם על פי חוק. \"המשטרה משרתת את בן גביר - והאלימות לא עוצרת\", זעם חבר מועצת ת\"א-יפו. השר והמפכ\"ל התגאו במבצע להחזרת המשילות בנג"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Is the global public tuning out the climate change debate?",
-      "url": "https://www.aljazeera.com/video/inside-story/2025/11/22/is-the-global-public-tuning-out-the-climate-change-debate?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-22T22:12:07.000Z",
-      "summary": "Divisions mark the last days of the UN climate summit in the Brazilian city of Belem."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1102,16 +1122,6 @@
       "summary": "גם אם יועץ הבית של יריב לוין היה עומד בראשות ועדת החקירה הממלכתית, התגובה הייתה דומה, משום שאנחנו בעידן שבו סיווג השופטים נקבע לפי שאלה אחת: האם הם משרתים את נתניהו"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Air traffic suspended at Netherlands airport after drone sightings",
-      "url": "https://www.aljazeera.com/news/2025/11/22/air-traffic-suspended-at-netherlands-airport-after-drone-sightings?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-22T22:03:37.000Z",
-      "summary": "Drone sightings caused suspension of air traffic at Eindhoven airport, impacting both civilian and military operations."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1120,16 +1130,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ad66-d67f-adbe-ffe78db50001/c4/18/3da8b5a14c0b98edcb1d7df0701b/553820-9.jpg?height=81",
       "published_at": "2025-11-22T21:57:41.000Z",
       "summary": "U.S. officials say American soldiers have begun leaving a recently opened civilian-military center in Israel amid plans for postwar Gaza. Possible measures include expropriating Gazan land and 'building safe communities' in Israel-held areas, which 'would effectively divide Gaza into two'"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "World leaders, rights groups react to COP30 climate deal",
-      "url": "https://www.aljazeera.com/news/2025/11/22/world-leaders-rights-groups-react-to-cop30-climate-deal?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-22T21:55:22.000Z",
-      "summary": "Deal reached at UN climate talks in Brazil spurs mixed reactions as climate campaigners say more action is needed."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
