@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-23T14:07:20.506Z",
+  "generated_at": "2025-11-23T14:35:32.892Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Netanyahu trial: Court shortens Monday hearing as scheduling changes continue",
+      "url": "https://www.jpost.com/israel-news/benjamin-netanyahu/article-874910",
+      "image": null,
+      "published_at": "2025-11-23T16:07:08.000Z",
+      "summary": "The latest change follows several recent adjustments to the trial schedule."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -30,6 +40,56 @@
       "image": null,
       "published_at": "2025-11-23T14:24:19.000Z",
       "summary": " “It seems to me that our greatest victory, which surprised the whole world, is the victory of the spirit,” said Netanyahu"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הלכה לעולמה רות הרן, ששרדה את השואה ואת 7/10 - אז נרצח בנה ו-7 מקרוביה נחטפו",
+      "url": "https://www.ynet.co.il/news/article/ryyfzve11wl",
+      "image": null,
+      "published_at": "2025-11-23T14:14:54.000Z",
+      "summary": "חברת קיבוץ בארי נפטרה בגיל 90, שנתיים אחרי מתקפת חמאס שבה נרצח בנה אבשלום, ובני משפחתה נחטפו ושוחררו מהשבי. בריאיון ל-ynet סיפרה על הדמיון המחריד בין האירועים ששינו את חייה: \"כשרוצחים תינוקות במיטות - זו שואה\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"אוריך היה הבוס\": הודעות הוואטסאפ לפלדשטיין וקטעי עדות נתניהו שנחשפו",
+      "url": "https://www.ynet.co.il/news/article/bku00zfx11bl",
+      "image": null,
+      "published_at": "2025-11-23T14:12:37.000Z",
+      "summary": "שנה אחרי שהתפוצצה פרשת המסמכים המסווגים, הנאשמים אלי פלדשטיין וארי רוזנפלד ביקשו מביהמ\"ש הקלות בתנאי מעצר הבית. סנגורו של פלדשטיין הציג הודעות שלו עם אוריך, שלדבריו מוכיחות ששימש כ\"בוס\" הישיר שלו - וכן קטעים מעדות נתניהו, שטען: \"לא היה שיח עם פלדשטיין, מעת לעת ראיתי אותו מסתובב\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Nigerian school attacks impact “legitimacy of government”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/11/23/nigerian-school-attacks-impact-legitimacy-of?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-23T14:10:43.000Z",
+      "summary": "“Some schools do not have early warning systems.”"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "S Africa says G20 shared goals outweigh differences as it concludes summit",
+      "url": "https://www.aljazeera.com/news/2025/11/23/s-africa-says-g20-shared-goals-outweigh-differences-as-it-concludes-summit?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-23T13:58:28.000Z",
+      "summary": "G20 declaration shows commitment to multilateralism, reflects common purposes larger than disagreements, Ramaphosa says."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "G20 struggles to fix a “broken global economy”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/11/23/aje-onl-dannysriskandarajah_quotable-231125?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-23T13:58:10.000Z",
+      "summary": "“The G20 has been good at fighting fires … but much less good at fixing the foundations of a global economy.”"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -105,11 +165,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Israel bombs southern suburbs of Beirut, casualties reported",
+      "title": "Israel bombs southern suburbs of Beirut; casualties reported",
       "url": "https://www.aljazeera.com/news/2025/11/23/israel-bombs-southern-suburbs-of-beirut?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-23T13:11:00.000Z",
-      "summary": "The attack is the latest flagrant violation of the ceasefire Israel signed with Hezbollah one year ago to end the war. "
+      "summary": "The attack is the latest violation of a ceasefire Israel signed one year ago to end the war in Lebanon."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -149,7 +209,7 @@
       "url": "https://www.ynet.co.il/news/article/sjsogklbbe",
       "image": null,
       "published_at": "2025-11-23T12:49:34.000Z",
-      "summary": "במבצע שכונה \"בלאק פריידיי\", תקף חיל האוויר לראשונה זה 5 חודשים בדאחייה - והיעד הוא מספר 2 של חיזבאללה, הייתם עלי טבטבאי. בישראל נערכים לאפשרות שחיזבאללה יגיב. בתחילה טענו בישראל כי ארה\"ב עודכנה מראש, אחר כך גורמי ביטחון שינו כיוון: \"הם עודכנו אחרי התקיפה\". טבטבאי היה מבוקש גם בארה\"ב, שהציעה 5 מיליון"
+      "summary": "במבצע שכונה \"בלאק פריידיי\", תקף חיל האוויר לראשונה זה 5 חודשים בדאחייה - בעקבות \"מודיעין מתפרץ\". היעד היה מספר 2 של חיזבאללה, הייתם עלי טבטבאי, ובישראל נערכים לאפשרות שחיזבאללה יגיב. בתחילה טענו בישראל כי ארה\"ב עודכנה מראש, אחר כך אמר גורם מדיני: \"האמריקנים עודכנו אחרי התקיפה\""
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -195,7 +255,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Zamir dismisses Gaza division commander, summons officers responsible for Oct. 7 failures",
+      "title": "IDF chief Eyal Zamir summons top generals, to place direct responsibility for October 7 failures",
       "url": "https://www.jpost.com/israel-news/defense-news/article-874877",
       "image": null,
       "published_at": "2025-11-23T12:34:55.000Z",
@@ -215,11 +275,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "בית המשפט נענה לבקשת רה\"מ: עדות נתניהו תקוצר מחר בשל \"פגישה מדינית\"",
+      "title": "בית המשפט נענה לבקשת נתניהו: עדותו תקוצר מחר בשל \"פגישה מדינית\"",
       "url": "https://www.ynet.co.il/news/article/b1rhmdlbwl",
       "image": null,
       "published_at": "2025-11-23T12:18:35.000Z",
-      "summary": "לבקשת ראש הממשלה, הדיון שייערך מחר בעניינו במשפט האלפים יסתיים עד 12:00: \"נבחנה האפשרות של חידוש הדיון אחרי, אבל רה\"מ נדרש להתייצב בכנסת\". הבוקר: נתניהו נפגש עם שר המחסר ההודי בלשכתו"
+      "summary": "לבקשת ראש הממשלה, הדיון שייערך מחר בעניינו במשפט האלפים יסתיים עד 12:00: \"נבחנה האפשרות של חידוש הדיון אחרי, אבל רה\"מ נדרש להתייצב בכנסת\". הבוקר: נתניהו נפגש עם שר המסחר ההודי בלשכתו"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -425,11 +485,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "\"למרות המחלה - היית לביאה, סופרוומן\": מרים פיירברג מובאת למנוחות בנתניה",
+      "title": "\"למרות המחלה - היית לביאה, סופרוומן\": מרים פיירברג הובאה למנוחות בנתניה",
       "url": "https://www.ynet.co.il/news/article/hk81dojb11e",
       "image": null,
       "published_at": "2025-11-23T10:30:18.000Z",
-      "summary": "אחרי הורדת הדגל בעירייה, הוצב ארונה של ראש העיר המיתולוגית באצטדיון \"מרים\" ושם החל מסע הלווייתה. בן זוגה נפרד בגרון חנוק: \"אמא וסבתא מהאגדות, של כולם\". נתניהו: \"אגדה מוניציפלית, אגדה בחייה\". חולדאי: \"בנית את נתניה במו ידייך\". סגניתה בריאיון לאולפן ynet: \"נתנה לכולנו להאמין שהיא מנצחת את זה\""
+      "summary": "אחרי הורדת הדגל בעירייה, הוצב ארונה של ראש העיר המיתולוגית באצטדיון \"מרים\". בן זוגה נפרד בגרון חנוק: \"אמא וסבתא מהאגדות, של כולם\". נתניהו: \"אגדה מוניציפלית, אגדה בחייה\". חולדאי: \"בנית את נתניה במו ידייך\". סגניתה בריאיון לאולפן ynet: \"נתנה לכולנו להאמין שהיא מנצחת את זה\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -635,11 +695,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Ukraine's Zelenskyy faces a fateful choice over Trump's push for a surrender deal with Russia",
+      "title": "Can Zelenskyy afford to lose Trump after his forced surrender deal and still hold off Putin?",
       "url": "https://www.haaretz.com/world-news/2025-11-23/ty-article/.premium/zelenskyy-faces-a-fateful-choice-over-trumps-push-for-a-surrender-deal-with-russia/0000019a-af8c-d7d6-ab9f-ffdc89f10000",
       "image": "https://img.haarets.co.il/bs/0000019a-afc3-d67f-adbe-ffc350c10000/e7/27/23893d7b492798ffdade1b118273/63877918.JPG?height=81",
       "published_at": "2025-11-23T08:32:30.000Z",
-      "summary": "The 28-point war-ending 'peace plan' serves Putin's interests and pressures Zelenskyy. Peace won't follow, just as none came from the Molotov–Ribbentrop pact"
+      "summary": "The 28-point war-ending 'peace plan' serves Russia's interests and pressures Ukraine. Peace won't follow, just as none came from the Soviet-Nazi pact"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -722,16 +782,6 @@
       "summary": "Tatiana Schlossberg, 35, says she was diagnosed shortly after giving birth in 2024 and has less than a year to live."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US insists it authored Ukraine peace plan after claims of Russian 'wish list'",
-      "url": "https://www.bbc.com/news/articles/c4g95x50kdyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/1dc6f2f0-c828-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-11-23T07:20:28.000Z",
-      "summary": "A group of US lawmakers said the secretary of state told them the draft did not reflect Washington's position. Marco Rubio has distanced himself from those claims."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -775,31 +825,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "UK police used untrue claims about Israeli fans to justify soccer game ban &#8211; report",
+      "title": "UK police used false claims about Israeli fans to justify soccer game ban &#8211; report",
       "url": "https://www.timesofisrael.com/uk-police-used-untrue-claims-about-israeli-fans-to-justify-soccer-game-ban-report/",
       "image": null,
       "published_at": "2025-11-23T06:57:02.000Z",
-      "summary": "Dutch law enforcement denies Maccabi Tel Aviv fans threw 'innocent members of the public into the river' in Amsterdam last year, or that 500-600 'intentionally targeted Muslim communities'\nThe post UK police used untrue claims about Israeli fans to justify soccer game ban &#8211; report appeared fir"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Death toll from Vietnam floods rises to 90, several still missing",
-      "url": "https://www.aljazeera.com/news/2025/11/23/death-toll-from-vietnam-floods-rises-to-90-several-still-missing?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T06:45:05.000Z",
-      "summary": "Vietnamese government estimates economic losses of $343m across five provinces due to the floods."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Accused, shunned, exiled: The women banished to Ghana’s ‘witch camps’",
-      "url": "https://www.aljazeera.com/features/longform/2025/11/23/accused-shunned-exiled-the-women-banished-to-ghanas-witch-camps?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T06:32:58.000Z",
-      "summary": "Women accused of witchcraft are cast out of their communities in north Ghana. Now some are trying to break this cycle."
+      "summary": "Dutch law enforcement denies Maccabi Tel Aviv fans threw 'innocent members of the public into the river' in Amsterdam last year, or that 500-600 'intentionally targeted Muslim communities'\nThe post UK police used false claims about Israeli fans to justify soccer game ban &#8211; report appeared firs"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -820,16 +850,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/159a/live/d2d4c660-c83f-11f0-a892-01d657345866.jpg",
       "published_at": "2025-11-23T06:27:33.000Z",
       "summary": "Days of torrential rain leaves vast swathes of the country inundated and facing landslides. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israel has violated Gaza truce nearly 500 times in 44 days, killed hundreds",
-      "url": "https://www.aljazeera.com/news/2025/11/23/israel-has-violated-gaza-truce-nearly-500-times-in-44-days-killed-hundreds?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T06:23:41.000Z",
-      "summary": "Gaza Government Media Office says Israel fully responsible for humanitarian, security repercussions from its violations."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -869,7 +889,7 @@
       "url": "https://www.timesofisrael.com/liveblog-november-23-2025/",
       "image": null,
       "published_at": "2025-11-23T04:55:58.000Z",
-      "summary": " IDF chief summoning top military commanders ahead of sanctions over Oct. 7 failures * Senior Hamas team said in Cairo to discuss Gaza violence \nThe post In escalation, IDF targets Hezbollah chief of staff Haytham Ali Tabatabai in Beirut strike appeared first on The Times of Israel.\n"
+      "summary": "First Israeli strike on Beirut since July * Israel reportedly did not tell US ahead of hit * Senior Hamas team said in Cairo to discuss Gaza violence \nThe post In escalation, IDF targets Hezbollah chief of staff Haytham Ali Tabatabai in Beirut strike appeared first on The Times of Israel.\n"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -915,7 +935,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israeli strike in Beirut targeted Hezbollah's chief of staff, Netanyahu's office says",
+      "title": "Israel strikes Hezbollah military chief in Beirut stronghold, Netanyahu's office confirms",
       "url": "https://www.haaretz.com/israel-news/2025-11-23/ty-article-live/idf-says-it-killed-11-captured-six-palestinian-militants-escaping-gaza-tunnel-complex/0000019a-aeb4-d83e-a19b-fff4c3e30000",
       "image": "https://img.haarets.co.il/bs/0000019a-b0db-d7d6-ab9f-fddb9f100000/a2/fd/90ab52504c008c53191bbd282a03/892653.jpg?height=81",
       "published_at": "2025-11-23T03:41:55.000Z",
@@ -1100,26 +1120,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ded/live/18a04ba0-c7e2-11f0-a715-415645a54121.jpg",
       "published_at": "2025-11-22T22:38:19.000Z",
       "summary": "Nearly 200 countries attended COP30, which aimed to commit the world to take more action on climate change."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הפרטים המלאים על התקיפה המינית של גיא בשבי | קשה לקריאה",
-      "url": "https://www.ynet.co.il/news/article/sybaffy1111l",
-      "image": null,
-      "published_at": "2025-11-22T22:25:38.000Z",
-      "summary": "גיא גלבוע דלאל סיפר כי בין השאר, כשהיה כבול לכיסא, מחבל הציע לו לראות פורנו והחל לנשק אותו בכל גופו. במקרה אחר, הוא שלף אותו מהמקלחת, והחל לחכך בו את איבר מינו. את התקיפות המיניות הוא נאלץ לשמור בסוד: \"הצמיד לי רובה לראש וסכין לגרון, ואיים להרוג אותי\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ירי בלב ההמון, שוד בתוך השכונה, רצח במכון השטיפה - ובמה התגאו בן גביר והמפכ\"ל?",
-      "url": "https://www.ynet.co.il/news/article/h14m11ojb11g",
-      "image": null,
-      "published_at": "2025-11-22T22:21:12.000Z",
-      "summary": "ניסיונות חיסול בצפון ובמרכז, שוד תכשיטים, פריצה לתחנת כיבוי והשחתת בית כנסת אלו רק חלק מאירועי הפשיעה שדווחו בסופ\"ש האחרון - בזמן שהמשטרה שוב מסתירה את הנתונים שהיא חייבת לפרסם על פי חוק. \"המשטרה משרתת את בן גביר - והאלימות לא עוצרת\", זעם חבר מועצת ת\"א-יפו. השר והמפכ\"ל התגאו במבצע להחזרת המשילות בנג"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1610,16 +1610,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-a612-dd6e-a5fa-fff6580a0001/d5/4d/cea6279f4707b0e9c023d7337b98/058487.jpg?height=81",
       "published_at": "2025-11-21T11:06:59.000Z",
       "summary": "Feirberg served in various positions in the Netanya municipality since the 1970s. In 1998, she was elected mayor and remained in office until her death, serving five consecutive terms"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF reveals connection between Hamas, ousted Assad regime in letters, documents",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-874726",
-      "image": null,
-      "published_at": "2025-11-21T10:58:40.000Z",
-      "summary": "The letters include correspondence between senior Hamas officials, including Yahya Sinwar and Ismail Haniyeh, Hassan Nasrallah, and Mohammad Saeed Izadi."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
