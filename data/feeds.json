@@ -1,15 +1,45 @@
 {
-  "generated_at": "2025-11-24T06:49:09.970Z",
+  "generated_at": "2025-11-24T07:10:33.797Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Rescue teams working to assist teen who climbed crane to height of 36-story building",
+      "url": "https://www.jpost.com/israel-news/article-874978",
+      "image": null,
+      "published_at": "2025-11-24T08:53:13.000Z",
+      "summary": "Rescue teams were sent to the scene after receiving a 102 call about the 15-year-old boy."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Qatargate: Feldstein’s WhatsApp messages expose chain of command in PM’s office",
+      "url": "https://www.jpost.com/israel-news/article-874976",
+      "image": null,
+      "published_at": "2025-11-24T08:51:05.000Z",
+      "summary": "New WhatsApp evidence suggests Yonatan Urich directed Eli Feldstein, complicating the \"Bild\" case."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Katz calls for comptroller to review Zamir's Oct. 7 findings",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-874980",
+      "image": null,
+      "published_at": "2025-11-24T08:50:38.000Z",
+      "summary": "The comptroller will also revisit any inquiries the committee marked as incomplete or insufficient and advise on whether further fact-finding is required."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "כ\"ץ שוב נגד הרמטכ\"ל, אחרי המסקנות האישיות: \"לבחון מחדש את דוח תורג'מן\"",
+      "title": "כ\"ץ נגד זמיר, אחרי המסקנות: מינויי בכירים בצה\"ל יוקפאו, דוח תורג'מן \"ייבחן לעומק\"",
       "url": "https://www.ynet.co.il/news/article/b1wj60011z11e",
       "image": null,
       "published_at": "2025-11-24T06:40:05.000Z",
-      "summary": ""
+      "summary": "לאחר שהרמטכ\"ל הטיל אחריות אישית על מפקדי 7/10, הורה כ\"ץ למבקר מערכת הביטחון לבחון מחדש את \"תחקיר התחקירים\", כולל בחינה של מסמך חומת יריחו - שממנו התעלמה הוועדה. הדרישה ל\"לקריטריונים שוויוניים\" בצל הביקורת - וההבהרה: \"העמדה ביחס לקידום מי ששירת בפיקוד הדרום שרירה וקיימת\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -265,11 +295,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Ra’am ‘evaluating legal situation’ after Netanyahu’s apparent threat to outlaw Arab party",
+      "title": "Clashing with Zamir, Katz orders re-evaluation of external probe of IDF’s Oct.7 investigations",
       "url": "https://www.timesofisrael.com/liveblog-november-23-2025-2/",
       "image": null,
       "published_at": "2025-11-24T00:52:57.000Z",
-      "summary": "Bedouin leaders protest exclusion from emergency meeting on spiking crime * US hails ‘significant step forward’ in Ukraine talks, announces ‘updated’ framework\nThe post Ra’am ‘evaluating legal situation’ after Netanyahu’s apparent threat to outlaw Arab party appeared first on The Times of Israel.\n"
+      "summary": "Defense minister also says he is freezing senior military appointments * Ra’am ‘evaluating legal situation’ after Netanyahu’s apparent threat to outlaw Arab party\nThe post Clashing with Zamir, Katz orders re-evaluation of external probe of IDF’s Oct.7 investigations appeared first on The Times of Is"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1452,16 +1482,6 @@
       "summary": "Former hostage Guy Gilboa-Dalal spoke for the first time about how a Hamas terrorist sexually assaulted him while he was held in captivity during an interview with N12."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF halts all 17 Hamas terrorists who attempted to flee Rafah tunnel following manhunt",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-874819",
-      "image": null,
-      "published_at": "2025-11-23T02:37:23.000Z",
-      "summary": "The IDF intercepted 17 Hamas terrorists fleeing Rafah tunnels, killing 11 and arresting six, as an observation officer described how her unit led the detection and targeting effort."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1590,26 +1610,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e122/live/714f42f0-c7c5-11f0-a892-01d657345866.jpg",
       "published_at": "2025-11-22T20:43:36.000Z",
       "summary": "Israel says it struck targets in Gaza after an \"armed terrorist\" crossed the so-called yellow line and fired at soldiers."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "One dead, six wounded in various crime-related shootings in Israel over the weekend",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-874808",
-      "image": null,
-      "published_at": "2025-11-22T20:35:00.000Z",
-      "summary": "All of the incidents reportedly had criminal, rather than nationalistic or terroristic, motivations."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Arkia honors veteran captain after 44 years in the cockpit",
-      "url": "https://www.jpost.com/israel-news/article-874809",
-      "image": null,
-      "published_at": "2025-11-22T20:13:35.000Z",
-      "summary": "Capt. Yossi Arueti, one of the airline's most veteran pilots, was honored with a farewell event, held in the presence of former air force chiefs and senior figures in Israeli business."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
