@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-24T10:11:16.318Z",
+  "generated_at": "2025-11-24T10:44:12.625Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF kills multiple Hamas terrorists attempting to cross Yellow Line",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-874998",
+      "image": null,
+      "published_at": "2025-11-24T12:41:13.000Z",
+      "summary": "In two separate instances, the IDF killed terrorists attempting to cross into the Israeli-controlled area behind the Yellow Line."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -25,11 +35,51 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Preparing for a response: IDF launches surprise drills after killing Hezbollah chief",
+      "title": "IDF launches surprise drills in northern Israel after killing Hezbollah's military chief",
       "url": "https://www.jpost.com/israel-news/defense-news/article-874984",
       "image": null,
       "published_at": "2025-11-24T11:03:21.000Z",
       "summary": "The IDF has heightened the alert level of its forces on the Lebanon border over concerns that Hezbollah could exploit winter weather and reduced visibility."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Far-right politician prompts fury with burqa antics in Australian parliament",
+      "url": "https://www.aljazeera.com/news/2025/11/24/far-right-politician-prompts-fury-with-burqa-antics-in-australian-parliament?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-24T10:16:17.000Z",
+      "summary": "Pauline Hanson&#039;s provocation was part of a long-running campaign to ban the traditional Muslim garment in public."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Fifty children escape after mass school abduction in Nigeria",
+      "url": "https://www.bbc.com/news/articles/cpwk5qzzppzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ec/live/f9992680-c883-11f0-bd12-71741f879d80.jpg",
+      "published_at": "2025-11-24T10:14:46.000Z",
+      "summary": "The raid on a Christian school came amid a surge of attacks by armed groups in the African nation."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Bollywood's 'He-Man' Dharmendra dies at 89",
+      "url": "https://www.bbc.com/news/articles/cg66lv566kyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e196/live/314c1bb0-1826-11ef-85cb-e963500f6f32.jpg",
+      "published_at": "2025-11-24T10:12:57.000Z",
+      "summary": "Best known for the iconic role of Veeru in the all-time great Sholay, Dharmendra was India's \"most handsome actor\"."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "No, there is no ceasefire in Gaza",
+      "url": "https://www.aljazeera.com/opinions/2025/11/24/no-there-is-no-ceasefire-in-gaza?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-24T10:10:51.000Z",
+      "summary": "Israel’s bombing of Gaza is not a ‘violation of the ceasefire&#039;. It is a continuing genocide under diplomatic cover."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -90,16 +140,6 @@
       "image": null,
       "published_at": "2025-11-24T09:29:45.000Z",
       "summary": "A sports club in Gaza is offering activities for children despite its facilities being destroyed by Israel’s war."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Bollywood's 'He-Man' Dharmendra dies at 89",
-      "url": "https://www.bbc.com/news/articles/cg66lv566kyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e196/live/314c1bb0-1826-11ef-85cb-e963500f6f32.jpg",
-      "published_at": "2025-11-24T09:24:04.000Z",
-      "summary": "Best known for the iconic role of Veeru in the all-time great Sholay, Dharmendra was India's \"most handsome actor\"."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -165,7 +205,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "WATCH: Rescue of teen who climbed crane to height of 36-story building",
+      "title": "WATCH: 'I wanted to see the view': Rescue of teen who climbed crane to height of 36-story building",
       "url": "https://www.jpost.com/israel-news/article-874978",
       "image": null,
       "published_at": "2025-11-24T08:53:13.000Z",
@@ -505,16 +545,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Fifty children escape after mass school abduction in Nigeria",
-      "url": "https://www.bbc.com/news/articles/cpwk5qzzppzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ec/live/f9992680-c883-11f0-bd12-71741f879d80.jpg",
-      "published_at": "2025-11-24T05:22:48.000Z",
-      "summary": "The raid on a Christian school came amid a surge of attacks by armed groups in the African nation."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Australia is banning social media for kids under 16. How will it work?",
       "url": "https://www.bbc.com/news/articles/cwyp9d3ddqyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5105/live/5217d720-c5d7-11f0-82c9-1574c476e20e.jpg",
@@ -679,7 +709,7 @@
       "url": "https://www.timesofisrael.com/liveblog-november-23-2025-2/",
       "image": null,
       "published_at": "2025-11-24T00:52:57.000Z",
-      "summary": "IDF ready for potential Hezbollah response to military chief’s killing; no change in Home Front guidelines * Ra’am ‘evaluating legal situation’ after PM’s apparent threat to outlaw Arab party\nThe post Clashing with Zamir, Katz orders re-evaluation of external probe of IDF’s Oct.7 investigations appe"
+      "summary": "IDF chief instructs troops to increase alert level after killing of Hezbollah military chief * Knesset legal advisor accuses Rothman of threatening him at panel on splitting AG’s role\nThe post Clashing with Zamir, Katz orders re-evaluation of external probe of IDF’s Oct.7 investigations appeared fir"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -802,16 +832,6 @@
       "summary": "השר לביטחון לאומי הגיע ללקייה על רקע מבצע עליו הכריז בנגב, והתעמת עם ראש המועצה וח\"כ מרע\"ם: \"אתם תלמדו מה זה משטרה ומה זה חוק\" - כששעות לפני כן טרנסג'נדרית נדקרה בבאר שבע, שניים נורו בתל אביב וגבר נרצח באום אל פחם. התושבים קראו לעבר בן גביר: \"שר הטיקטוק\""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US and Ukraine announce ‘updated’ framework to end Russia’s war",
-      "url": "https://www.aljazeera.com/news/2025/11/23/us-very-optimistic-ukraine-peace-plan-can-be-reached-very-soon-rubio?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T22:26:04.000Z",
-      "summary": "Rubio says &#039;tremendous&#039; progress made in meetings with Ukrainian officials on proposals to halt the war."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -875,21 +895,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Netanyahu wants a partisan October 7 inquiry to kill off public sovereignty",
+      "title": "Netanyahu's partisan October 7 probe challenges the notion of an Israeli public",
       "url": "https://www.haaretz.com/opinion/editorial/2025-11-24/ty-article-opinion/netanyahu-wants-a-partisan-october-7-inquiry-to-kill-off-public-sovereignty/0000019a-b277-d2a0-afdf-f27f50590000",
       "image": "https://img.haarets.co.il/bs/0000019a-74db-d6d8-af9b-76dfc7de0001/14/24/c02b1aba4adf887279d29f0994f1/image-2025-11-11-133946449.png?height=81",
       "published_at": "2025-11-23T22:09:57.000Z",
       "summary": ""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Cameroon opposition leader flees to Gambia for ‘safety’ after disputed vote",
-      "url": "https://www.aljazeera.com/news/2025/11/23/cameroon-opposition-leader-flees-to-gambia-for-safety-after-disputed-vote?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T22:08:26.000Z",
-      "summary": "The Gambia hosts Issa Tchiroma Bakary after Paul Biya, Cameroon&#039;s leader for 43 years, wins yet another election."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -969,7 +979,7 @@
       "url": "https://www.haaretz.com/opinion/2025-11-23/ty-article-opinion/.premium/a-palestinian-state-without-borders-is-just-a-prison-not-a-promise/0000019a-b200-d2a0-afdf-f22fe8a10000",
       "image": "https://img.haarets.co.il/bs/0000017f-e6df-dea7-adff-f7ffe6160000/b6/96/2c62b435a3aa80daa182864fa524/3573272224.jpg?height=81",
       "published_at": "2025-11-23T21:46:12.000Z",
-      "summary": ""
+      "summary": "U.S. and Saudi support for a Palestinian state with no fixed borders or autonomy will leave the Palestinians divided, lacking sovereignty and without a future"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1410,16 +1420,6 @@
       "image": null,
       "published_at": "2025-11-23T10:54:40.000Z",
       "summary": "Minister Jabbarov's visit to Israel emphasized the deepening cooperation between Baku and Jerusalem in energy and economy, seeking to unlock Azerbaijan's geo-economic potential and advance stability."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Allow Gazans medical treatment in West Bank, east Jerusalem, human rights orgs. tells High Court",
-      "url": "https://www.jpost.com/israel-news/article-874852",
-      "image": null,
-      "published_at": "2025-11-23T10:36:34.000Z",
-      "summary": "Only three hospitals remain fully operational in Gaza, while two-thirds of the 647 medical facilities that were operational before the war are now out of service, the petitioners show."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
