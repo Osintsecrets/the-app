@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-24T09:42:37.400Z",
+  "generated_at": "2025-11-24T10:11:16.318Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF dismissed senior officers attack Eyal Zamir on October 7 'probe of probes'",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-874973",
+      "image": null,
+      "published_at": "2025-11-24T12:05:12.000Z",
+      "summary": "\"Hopefully, there will be a state commission of inquiry, and it will hear me. Everything is fine,\" former head of Military Intelligence, Aharon Haliva said in response to his dismissal."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -22,6 +32,46 @@
       "summary": "The IDF has heightened the alert level of its forces on the Lebanon border over concerns that Hezbollah could exploit winter weather and reduced visibility."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US and Ukraine signal peace plan progress after Geneva talks",
+      "url": "https://www.bbc.com/news/articles/ce3zwy808dpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ec1/live/d3644c30-c8ef-11f0-8cad-7b143c08a8f8.jpg",
+      "published_at": "2025-11-24T09:57:05.000Z",
+      "summary": "Both sides say \"intensive work\" will take place on outstanding issues following talks on a US-backed plan to end the war."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US plan to stop Ukraine war is “not reasonable”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/11/24/us-plan-to-stop-ukraine-war-is-not?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-24T09:53:26.000Z",
+      "summary": "“Trump has squeezed and pushed the Ukrainians very, very hard.”"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Sudan army chief rejects truce proposal citing UAE role",
+      "url": "https://www.aljazeera.com/news/2025/11/24/sudan-army-chief-rejects-truce-proposal-citing-uae-role?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-24T09:53:15.000Z",
+      "summary": "Abdel Fattah al-Burhan says UAE cannot be involved as it backs the RSF, signalling that fighting is to continue for now."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Attack in Pakistan’s Peshawar: What we know about victims, attackers",
+      "url": "https://www.aljazeera.com/news/2025/11/24/attack-in-pakistans-peshawar-what-we-know-about-victims-attackers?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-24T09:49:13.000Z",
+      "summary": "Three security personnel killed in an attack on paramilitary headquarters in northwestern Pakistani city of Peshawar."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -30,6 +80,16 @@
       "image": null,
       "published_at": "2025-11-24T09:46:10.000Z",
       "summary": "The worshippers were provided a new building to pray in as authorities began investigating the vandalism."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Gaza sports club offers activities despite destruction",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/24/gaza-sports-club-offers-activities-despite-destruction?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-24T09:29:45.000Z",
+      "summary": "A sports club in Gaza is offering activities for children despite its facilities being destroyed by Israel’s war."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -455,16 +515,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "US and Ukraine signal peace plan progress after Geneva talks",
-      "url": "https://www.bbc.com/news/articles/ce3zwy808dpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ec1/live/d3644c30-c8ef-11f0-8cad-7b143c08a8f8.jpg",
-      "published_at": "2025-11-24T04:57:45.000Z",
-      "summary": "Both sides say \"intensive work\" will take place on outstanding issues following talks on a US-backed plan to end the war."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Australia is banning social media for kids under 16. How will it work?",
       "url": "https://www.bbc.com/news/articles/cwyp9d3ddqyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5105/live/5217d720-c5d7-11f0-82c9-1574c476e20e.jpg",
@@ -585,9 +635,9 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "20-year-old Palestinian killed by IDF in clash with Israeli settlers in West Bank",
+      "title": "IDF says it struck three militants who entered Israeli-controlled zone in Gaza",
       "url": "https://www.haaretz.com/israel-news/2025-11-24/ty-article-live/20-year-old-palestinian-killed-by-idf-in-clash-with-israeli-settlers-in-west-bank/0000019a-b3c8-d7d6-ab9f-ffd861790000",
-      "image": "https://img.haarets.co.il/bs/0000019a-b2c7-d83e-a19b-f7f7562a0001/b6/39/0cb7c8504af389b79d531257db76/897329.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019a-b552-dd6e-a5fa-fff6280f0000/16/98/8a96127a4a28b11197d6d6776ba5/902045-1.jpg?height=81",
       "published_at": "2025-11-24T03:00:18.000Z",
       "summary": ""
     },
@@ -962,16 +1012,6 @@
       "summary": ""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Was South Africa’s G20 summit a success, despite a US boycott?",
-      "url": "https://www.aljazeera.com/video/inside-story/2025/11/23/was-south-africas-g20-summit-a-success-despite-a-us-boycott?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T21:05:42.000Z",
-      "summary": "The hosts hailed the gathering, but others warned about the G20&#039;s future."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -990,26 +1030,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d71/live/be453ed0-c8aa-11f0-8c06-f5d460985095.jpg",
       "published_at": "2025-11-23T20:49:58.000Z",
       "summary": "Brazil's convicted ex-president blames medication for tampering with his monitor under house arrest."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Bolsonaro says hallucinatory effects of meds made him tamper with ankle tag",
-      "url": "https://www.aljazeera.com/news/2025/11/23/bolsonaro-says-hallucinatory-effects-of-meds-made-him-tamper-with-ankle-tag?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T20:24:08.000Z",
-      "summary": "Brazil&#039;s ex-president, convicted of foiled coup, is under arrest after taking a soldering iron to the monitoring device."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Mamdani maintains Trump a ‘fascist’ despite cordial White House meeting",
-      "url": "https://www.aljazeera.com/news/2025/11/23/mamdani-maintains-trump-a-fascist-despite-cordial-white-house-meeting?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T20:22:44.000Z",
-      "summary": "The incoming NYC mayor says he still believes the US president is a fascist, two days after they had a friendly meeting."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1110,16 +1130,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-9ccf-d7d6-ab9f-fddfa3300001/c2/67/6fb4e5e847848137ed3f272245f6/whatsapp-image-2025-11-19-at-16-24-57.jpeg?height=81",
       "published_at": "2025-11-23T19:08:58.000Z",
       "summary": "It is not every day that a right-wing populist world leader like Netanyahu reposts an article – based mainly on intimation and innuendo – by Jacobin magazine, the small New York-based socialist publication. But at a time when widespread illiteracy is the norm, the headline is what matters most. Dirt"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Bangladesh asks India to extradite fugitive ex-PM Sheikh Hasina",
-      "url": "https://www.aljazeera.com/news/2025/11/23/bangladesh-asks-india-to-extradite-fugitive-ex-pm-sheikh-hasina?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-23T19:08:50.000Z",
-      "summary": "Dhaka says New Delhi has an &#039;obligatory responsibility&#039; to hand over the former leader, recently sentenced to death."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1430,16 +1440,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-a07a-dd6e-a5fa-fbfe12900001/af/a9/c1d1c10f4070af24ced269bb744c/728186.jpg?height=81",
       "published_at": "2025-11-23T10:09:30.000Z",
       "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Labor, Religious Services Ministries, to be transferred to Levin post-haredi party withdrawal",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-874851",
-      "image": null,
-      "published_at": "2025-11-23T10:07:17.000Z",
-      "summary": "Justice Minister Levin will be temporarily appointed as minister of labor, religious services, and Jerusalem and Israel heritage, while Prime Minister Netanyahu will also become minister of interior"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
