@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-25T20:10:01.984Z",
+  "generated_at": "2025-11-25T20:40:24.411Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Argentina to move embassy to Jerusalem next spring, Foreign Minister Sa'ar, President Milei say",
+      "url": "https://www.jpost.com/israel-news/article-875203",
+      "image": null,
+      "published_at": "2025-11-25T22:26:43.000Z",
+      "summary": "\"We discussed the president's upcoming visit to open Argentina's embassy in Jerusalem, our eternal capital,\" said Sa'ar after the meeting."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -50,6 +60,116 @@
       "image": null,
       "published_at": "2025-11-25T20:33:16.000Z",
       "summary": "Shai-Hulud cyberattack targets more than 25,000 npm projects, stealing developers' credentials."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הדקה האחרונה בחייה של סבאח ושיחת הטלפון המזעזעת: \"אבא, ירו בי\"\n",
+      "url": "https://www.ynet.co.il/news/article/ryaavlmzbx",
+      "image": null,
+      "published_at": "2025-11-25T20:29:32.000Z",
+      "summary": "סבאח בת ה-20 נורתה למוות לעיני אחותה הקטנה, כשיצאה לסופר. כמו במקרים רבים בחברה הערבית - חשודים לא נעצרו. ביום בו צוין המאבק למניעת אלימות נגד נשים, אביה סיפר ל-ynet על תחושת הנטישה: \"לו זה היה קורה ליהודי - הרוצח היה נתפס תוך שעות\". האב הוסיף בכאב: \"למה הייתי צריך לאבד את הבת שלי?\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בת 80 נהרגה מפגיעת רכב באשדוד",
+      "url": "https://www.ynet.co.il/news/article/bjq1guqwwl",
+      "image": null,
+      "published_at": "2025-11-25T20:28:07.000Z",
+      "summary": "הקשישה נפגעה בשדרות עובד בן עמי בעיר. המשטרה עיכבה לחקירה נהגת בחשד למעורבות בתאונה"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "International funding cuts disrupted global response to HIV, UN report says",
+      "url": "https://www.aljazeera.com/news/2025/11/25/international-funding-cuts-disrupted-global-response-to-hiv-un-report-says?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-25T20:26:16.000Z",
+      "summary": "UNAIDS says millions across the world lost access to treatment and preventive care due to financial shortfalls."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Brazil’s Supreme Court orders Jair Bolsonaro to begin prison sentence",
+      "url": "https://www.aljazeera.com/news/2025/11/25/brazils-supreme-court-orders-jair-bolsonaro-to-begin-prison-sentence?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-25T20:24:20.000Z",
+      "summary": "The ex-president was sentenced to more than 27 years in prison for trying to foment a coup after his election loss."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Major fire and explosions hit warehouse in west London",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/25/major-fire-and-explosions-hit-warehouse-in-west-london?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-25T20:17:55.000Z",
+      "summary": "A warehouse in West London was engulfed by a large fire as repeated explosions were heard."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Israel receives purported body of slain hostage, is working to identify it",
+      "url": "https://www.timesofisrael.com/israel-receives-purported-body-of-slain-hostage-is-working-to-identify-it/",
+      "image": null,
+      "published_at": "2025-11-25T20:16:38.000Z",
+      "summary": "Hamas and Islamic Jihad hand over remains following Israeli anger at 24-hour delay; IDF says it killed 5 gunmen in Rafah and a terror operative who crossed Yellow Line\nThe post Israel receives purported body of slain hostage, is working to identify it appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Who is Trump's 'drone guy' Dan Driscoll, taking key role in Ukraine talks?",
+      "url": "https://www.bbc.com/news/articles/c17x0x2qrejo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/181d/live/154bdb00-ca07-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-25T20:11:12.000Z",
+      "summary": "The youngest-ever US army secretary has been thrust into the spotlight as the face of renewed efforts to end the years-long war."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Brazil&#8217;s Bolsonaro to start serving 27-year prison sentence for coup plot",
+      "url": "https://www.timesofisrael.com/brazils-bolsonaro-to-start-serving-27-year-prison-sentence-for-coup-plot/",
+      "image": null,
+      "published_at": "2025-11-25T20:07:36.000Z",
+      "summary": "Country's top court concludes former president's trial after ankle monitor tampering incident; Bolsonaro's son, a candidate in next year's election, vows to push for pardon\nThe post Brazil&#8217;s Bolsonaro to start serving 27-year prison sentence for coup plot appeared first on The Times of Israel."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Shein jacket shipped to Israel exceeds EU chemical rules by 3,269 times &#8211; probe",
+      "url": "https://www.timesofisrael.com/shein-jacket-shipped-to-israel-exceeds-eu-chemical-rules-by-3269-times-probe/",
+      "image": null,
+      "published_at": "2025-11-25T20:07:30.000Z",
+      "summary": "Greenpeace tests 56 items supplied by online Chinese-founded platform, finds 4 in 5 shipped to Israel contain hazardous materials, with two exceeding EU regulations\nThe post Shein jacket shipped to Israel exceeds EU chemical rules by 3,269 times &#8211; probe appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Twenty-four schoolgirls released after northwestern Nigeria kidnapping",
+      "url": "https://www.aljazeera.com/news/2025/11/25/twenty-four-schoolgirls-released-in-northwestern-nigeria-kidnapping-case?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-25T20:06:56.000Z",
+      "summary": "President Tinubu urges intensified efforts to rescue other captives, after release of schoolgirls seized in Kebbi State."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli concerts honoring iconic Egyptian singer Umm Kulthum rankle Arab world",
+      "url": "https://www.haaretz.com/israel-news/2025-11-25/ty-article/.premium/israeli-concerts-honoring-iconic-egyptian-singer-umm-kulthum-rankle-arab-world/0000019a-bbca-d360-a5bb-bbdbfc3c0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-bc03-d824-ad9e-ff7f4e6c0001/98/c9/9084963d48bb802180037b98ec77/535650.jpg?height=81",
+      "published_at": "2025-11-25T20:03:46.000Z",
+      "summary": "Allegations of cultural appropriation and 'artistic theft' abound as Israel's Firqat Alnoor Orchestra, which has both Jewish and Arab members, tours the country. The singer's family members now plan to sue"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -442,16 +562,6 @@
       "summary": "\"They were all taken very seriously. One very specific one was taken seriously. Which, in the end, was refuted,\" said Yoni Asher, father of freed Gaza hostages Raz and Aviv."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Who is Trump's 'drone guy' Dan Driscoll, taking key role in Ukraine talks?",
-      "url": "https://www.bbc.com/news/articles/c17x0x2qrejo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/181d/live/154bdb00-ca07-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-25T17:12:53.000Z",
-      "summary": "The youngest-ever US army secretary has been thrust into the spotlight as the face of renewed efforts to end the years-long war."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -832,16 +942,6 @@
       "summary": "The ruling covers the case of a Polish couple who married in Berlin but Polish authorities refused to recognise their marriage."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Law enforcement a no-show at Knesset discussions on violence against women",
-      "url": "https://www.timesofisrael.com/law-enforcement-a-no-show-at-knesset-discussions-on-violence-against-women/",
-      "image": null,
-      "published_at": "2025-11-25T14:39:06.000Z",
-      "summary": "Opposition MKs who led meetings to mark International Day for the Elimination of Violence against Women slam Ben Gvir, who was touring prison services' domestic violence unit\nThe post Law enforcement a no-show at Knesset discussions on violence against women appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -942,36 +1042,6 @@
       "summary": "שיחת הבירור התפצלה לשניים: נתניהו פגש את שר הביטחון בנפרד, ואחר כך את הרמטכ\"ל. ההערכה: כ\"ץ סירב לפגישה משולשת - אחרי הודעת הרמטכ\"ל החריפה נגדו - ותגובת מקורביו"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "UN says Israel has killed 127 civilians in Lebanon since ceasefire with Hezbollah",
-      "url": "https://www.timesofisrael.com/un-says-israel-has-killed-127-civilians-in-lebanon-since-ceasefire-with-hezbollah/",
-      "image": null,
-      "published_at": "2025-11-25T14:07:16.000Z",
-      "summary": "Rights office spokesman calls for 'prompt and impartial' investigation, says only civilian fatalities discovered after strike on Ain al-Hilweh that IDF said targeted Hamas facility\nThe post UN says Israel has killed 127 civilians in Lebanon since ceasefire with Hezbollah appeared first on The Times "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Ethiopian volcano erupts after 12,000 years: What we know",
-      "url": "https://www.aljazeera.com/news/2025/11/25/ethiopian-volcano-erupts-after-12000-years-what-we-know?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-25T14:04:50.000Z",
-      "summary": "Several airlines in India have been forced to cancel flights because of dangerous volcanic ash in the air."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US linking Maduro to drug cartel is “very serious” move",
-      "url": "https://www.aljazeera.com/video/quotable/2025/11/25/us-linking-maduro-to-drug-cartel-is-very-serious-move?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-25T14:02:30.000Z",
-      "summary": "&quot; There&#039;s no indication that Maduro is ready to leave power and to resign.&quot;"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -980,16 +1050,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ba28-dcd7-a3be-ba3939ec0001/60/f2/0cdce72a448b94d56f96a24d4066/903904.jpg?height=81",
       "published_at": "2025-11-25T13:59:07.000Z",
       "summary": ""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US calls on Sudan’s warring parties to accept ceasefire plan unaltered",
-      "url": "https://www.aljazeera.com/news/2025/11/25/us-calls-on-sudans-warring-parties-to-accept-ceasefire-plan-unaltered?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-25T13:57:03.000Z",
-      "summary": "Envoy Massad Boulos demands the opposing sides accept plan without seeking preconditions."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1002,16 +1062,6 @@
       "summary": "The Beirut killing of Hezbollah's second in command may spur the Lebanese government to advance the group's disarmament, or offer its militants a bargaining chip – that only it can defend the country from Israel"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "How a study on hormonal contraception and breast cancer was distorted",
-      "url": "https://www.aljazeera.com/news/2025/11/25/how-a-study-on-hormonal-contraception-and-breast-cancer-was-distorted?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-25T13:41:02.000Z",
-      "summary": "Swedish study says hormonal birth control slightly raises breast cancer risk, but experts note the increase is small."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1020,16 +1070,6 @@
       "image": null,
       "published_at": "2025-11-25T13:37:57.000Z",
       "summary": "בלעדי: הפלגים הקיצוניים השיקו מוקדי סיוע עבור מלש\"בים חרדים, ומזמינים את חבריהם ובני משפחתם \"להלשין\" על כוונתם להתגייס - או אף אם אין מספיק התנגדות לרעיון. צעיר אחד פנה בנוגע לגיסו: \"הוא לא כל כך במסגרת, אבא שלו לא בעד גיוס - אבל לא מנסה לשכנע אותו\""
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Grieving families blame police as spiking murder rate bleeds through Arab society",
-      "url": "https://www.timesofisrael.com/grieving-families-blame-police-as-spiking-murder-rate-bleeds-through-arab-society/",
-      "image": null,
-      "published_at": "2025-11-25T13:20:38.000Z",
-      "summary": "No community seemingly left untouched with violent crime among Arabs nearing new record high even as arrests of suspects fall, feeding anger and mistrust of law enforcement\nThe post Grieving families blame police as spiking murder rate bleeds through Arab society appeared first on The Times of Israe"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1160,26 +1200,6 @@
       "image": null,
       "published_at": "2025-11-25T12:00:04.000Z",
       "summary": "Per reports, the official, whose identity has not been publicly disclosed, is suspected of election-bribery, fraud, and breach of trust."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בניסיון להביך את הקואליציה: לפיד יביא את תוכנית טראמפ להצבעה בכנסת",
-      "url": "https://www.ynet.co.il/news/article/sjqnzmqw11e",
-      "image": null,
-      "published_at": "2025-11-25T11:52:05.000Z",
-      "summary": "יו\"ר האופוזיציה יביא בשבוע הבא את תוכנית 20 הנקודות לסיום המלחמה להצבעה במליאת הכנסת: \"אנו מחזקים את ידי טראמפ במאמציו למימוש התוכנית\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "השיטפון החריג בנחל באר שבע, והזרימות החזקות זה עשור | התיעודים, והקיץ שחוזר",
-      "url": "https://www.ynet.co.il/news/article/bya4jbmbwx",
-      "image": null,
-      "published_at": "2025-11-25T11:46:25.000Z",
-      "summary": "הגשם הכבד גרם לזרימות עוצמתיות בנחלי הנגב, ולהצפות ביישובים בדואיים. השירות המטאורולוגי מזהיר משיטפונות בזק במדבר יהודה, בים המלח ובנגב עד שעות הערב, גשם חזק גם בשומרון ובבנימין. בהמשך היום הגשמים ייחלשו ובימים הקרובים יעלו בהדרגה שוב הטמפרטורות. בגוש דן כמעט לא ירד גשם. כל הנתונים"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1620,16 +1640,6 @@
       "image": null,
       "published_at": "2025-11-24T19:11:15.000Z",
       "summary": "IDF Chief of Staff Lt.-Gen. Eyal Zamir punished those on duty on October 7, but didn't take action against those who came before. A state inquiry is needed to address that."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF chief goes head to head with Katz over Oct. 7 probes",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-875064",
-      "image": null,
-      "published_at": "2025-11-24T19:10:21.000Z",
-      "summary": "IDF chief Eyal Zamir accuses Defense Minister Israel Katz of politicizing October 7 probes after move to reexamine Turgeman committee report."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2250,16 +2260,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ace8-d7d6-ab9f-fdf844440000/22/0b/acbfd6c8409eaf51517d23e7d08e/827491.jpg?height=81",
       "published_at": "2025-11-22T19:11:00.000Z",
       "summary": "Israeli opposition leaders sharply criticized the prime minister for sharing an article published on the left-wing magazine Jacobin on X over the weekend, claiming that convicted sex offender Epstein intervened in Israeli elections on behalf of Ehud Barak. 'Israel's enemies are celebrating,' ex-PM B"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "'We deserve to know': October 7 families lead tens of thousands of Israelis demanding state inquiry",
-      "url": "https://www.haaretz.com/israel-news/2025-11-22/ty-article/.premium/protests-across-israel-demand-oct-7-probe-return-of-remaining-bodies-in-gaza/0000019a-ac71-d7d6-ab9f-fdf996840000",
-      "image": "https://img.haarets.co.il/bs/0000019a-acdc-d7d6-ab9f-fddcfbb50001/0a/89/00d0e7dc4ab3811b88c5f1f88c41/22260c9a-5110-40a9-bf57-b466305fa5ff.jfif?height=81",
-      "published_at": "2025-11-22T18:41:43.000Z",
-      "summary": "Relatives of the last three remaining deceased hostages in Gaza spoke at the Hostage Square rally. Most leaders of the Israeli opposition – excluding the Arab parties – attended the protest in Tel Aviv, demanding an official state probe into the events of October 7, including former Prime Minister N"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
