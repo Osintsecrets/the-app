@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-11-25T17:10:52.968Z",
+  "generated_at": "2025-11-25T17:39:54.984Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Judge allows Netanyahu aide Yonatan Urich to work with Likud, maintains ban on PMO role",
+      "url": "https://www.jpost.com/israel-news/article-875178",
+      "image": null,
+      "published_at": "2025-11-25T19:27:32.000Z",
+      "summary": "The Lod District Court ruled that Urich may liaise with Likud and David Sharan while remaining barred from returning to the Prime Minister’s Office. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "חוסלו 5 מחבלים מ\"לכודי\" מנהרות רפיח: \"הלחץ נמשך\"",
+      "url": "https://www.ynet.co.il/news/article/hkixovq11wg",
+      "image": null,
+      "published_at": "2025-11-25T17:37:29.000Z",
+      "summary": "יומיים לאחר שאמרו בצבא כי האספקה למחבלים הולכת ואוזלת, חוסלו חמישה מהם - אחרי שכנראה יצאו מתחת לאדמה ברפיח"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Israel receives coffin that Hamas says contains Gaza hostage's body",
+      "url": "https://www.bbc.com/news/articles/c17x0xjqj21o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/230c/live/910d9160-ca08-11f0-88a5-11238e952b75.jpg",
+      "published_at": "2025-11-25T17:32:46.000Z",
+      "summary": "The remains will be transferred to Israeli forces, who will take them to Israel's forensic medicine institute for identification."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Israeli orchestra accused of robbing Arab heritage with release of Umm Kulthum video",
+      "url": "https://www.timesofisrael.com/israeli-orchestra-accused-of-robbing-arab-heritage-with-release-of-umm-kulthum-video/",
+      "image": null,
+      "published_at": "2025-11-25T17:32:23.000Z",
+      "summary": "Firqat Alnoor, featuring both Jewish and Arab musicians, plays late Egyptian icon's song to mark 50th anniversary of her death\nThe post Israeli orchestra accused of robbing Arab heritage with release of Umm Kulthum video appeared first on The Times of Israel.\n"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +50,26 @@
       "image": null,
       "published_at": "2025-11-25T17:13:32.000Z",
       "summary": "\"They were all taken very seriously. One very specific one was taken seriously. Which, in the end, was refuted,\" said Yoni Asher, father of freed Gaza hostages Raz and Aviv."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Who is Trump's 'drone guy' Dan Driscoll, taking key role in Ukraine talks?",
+      "url": "https://www.bbc.com/news/articles/c17x0x2qrejo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/181d/live/154bdb00-ca07-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-25T17:12:53.000Z",
+      "summary": "The youngest-ever US army secretary has been thrust into the spotlight as the face of renewed efforts to end the years-long war."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "&#8216;Everything is soaked&#8217;: Rain floods Gaza tents, amid efforts to ramp up aid",
+      "url": "https://www.timesofisrael.com/everything-is-soaked-rain-floods-gaza-tents-amid-efforts-to-ramp-up-aid/",
+      "image": null,
+      "published_at": "2025-11-25T17:12:47.000Z",
+      "summary": "Displaced Palestinians say Hamas indifferent as 13,000 tents damaged, cesspits overflowing; UN says Israeli restrictions on shelter supplies hampering prep for coming winter \nThe post &#8216;Everything is soaked&#8217;: Rain floods Gaza tents, amid efforts to ramp up aid appeared first on The Times "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -295,11 +355,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Israel says it received remains of deceased Gaza captive",
+      "title": "Israel says it receives remains believed to be of Gaza captive",
       "url": "https://www.aljazeera.com/news/2025/11/25/israel-says-red-cross-receives-remains-of-deceased-gaza-captive?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-25T15:07:03.000Z",
-      "summary": "It was not immediately clear if the remains belonged to one of the three deceased captives in the besieged Gaza Strip."
+      "summary": "Testing to determine whether remains belong to one of the three remaining deceased captives still in Gaza."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -415,11 +475,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "בידיים ישראליות: חלל חטוף בדרכו למכון לרפואה משפטית",
+      "title": "בידיים ישראליות: ארון של חלל חטוף הגיע למכון לרפואה משפטית",
       "url": "https://www.ynet.co.il/news/article/hkyewk7bzg",
       "image": null,
       "published_at": "2025-11-25T14:34:01.000Z",
-      "summary": "יממה אחרי שהג'יהאד האיסלאמי הודיע שמצא בנוסייראת את אחד החללים שהוחזק בידיו, הועבר הארון לידי הצלב האדום - וממנו הוא עבר לכוחות צה\"ל - בדרכו אל המכון. שלושת החללים החטופים הם רס\"ל רן גואילי, דרור אור וסונטיסק רינטאלק"
+      "summary": "יממה אחרי שהג'יהאד האיסלאמי הודיע שמצא בנוסייראת את אחד החללים שהוחזק בידיו, הועבר הארון לידי הצלב האדום - וממנו לכוחות צה\"ל. שלושת החללים החטופים הם רס\"ל רן גואילי, דרור אור וסונטיסק רינטאלק"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -645,7 +705,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "WATCH: Remains of slain ex-hostage in Israeli territory ahead of identification process",
+      "title": "WATCH: Remains of slain ex-hostage arrive at Abu Kabir medical center for identification",
       "url": "https://www.jpost.com/israel-news/defense-news/article-875128",
       "image": null,
       "published_at": "2025-11-25T12:57:15.000Z",
@@ -780,16 +840,6 @@
       "image": null,
       "published_at": "2025-11-25T12:06:15.000Z",
       "summary": "בתל אביב מאמצים את המודל של ערי אירופה - וראש העיר חולדאי הכריז כי עד סוף השנה, כל מרכז העיר צפוי להפוך לאזור \"מיתון תנועה\", עם מהירות מירבית של 30 קמ\"ש בלבד. במהלך השנה הבאה תורחב המדיניות לכל רחבי תל אביב, למעט הצירים הראשיים"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "IDF troops kill Palestinian terrorist who murdered Israeli guard in West Bank last year",
-      "url": "https://www.timesofisrael.com/idf-troops-kill-palestinian-terrorist-who-murdered-israeli-guard-in-west-bank-last-year/",
-      "image": null,
-      "published_at": "2025-11-25T12:02:58.000Z",
-      "summary": "Army says Sultan al-Ghani, who fled after killing Gidon Peri in August 2024, was slain in exchange of fire with commando unit south of Jenin\nThe post IDF troops kill Palestinian terrorist who murdered Israeli guard in West Bank last year appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -942,16 +992,6 @@
       "summary": "The action follows a Monday firefight in the area of eastern Nablus between Israeli forces and a wanted terrorist during counterterrorism operations."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Extreme weather causes flooding, road closures and damage across Israel",
-      "url": "https://www.timesofisrael.com/extreme-weather-causes-flooding-road-closures-and-damage-across-israel/",
-      "image": null,
-      "published_at": "2025-11-25T10:57:05.000Z",
-      "summary": "Multiple people rescued by emergency workers after becoming trapped in vehicles on flooded roads, as new record for rainfall set\nThe post Extreme weather causes flooding, road closures and damage across Israel appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1040,16 +1080,6 @@
       "image": null,
       "published_at": "2025-11-25T10:11:11.000Z",
       "summary": "The collapse marks a potentially dangerous security breach from the West Bank. "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הסוכן הישראלי שחשוד בחטיפת הילדים הגרמנים נשבר והודה: \"האמא שילמה\"",
-      "url": "https://www.ynet.co.il/news/article/r1w2hag11bl",
-      "image": null,
-      "published_at": "2025-11-25T10:02:10.000Z",
-      "summary": "דוד ברקאי, שככל הנראה השיג הסדר טיעון, האשים בעדותו את יורשת המיליונים כריסטינה בלוק בהזמנת חטיפת ילדיה מבעלה: \"שילמה לנו 220,000 אירו\". כך דיווחה התקשורת בגרמניה, היא סירבה להשיב לטענות. עו\"ד המייצג שני נאשמים בפרשה ל-ynet: \"ברקאי הוביל אותם בכחש, חשבו שזה חוקי וידוע לרשויות\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1205,7 +1235,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israeli military defends policy after Gaza sees widespread flooding, threats of disease",
+      "title": "Turkey, Egypt, Qatar discuss second stage of Gaza cease-fire deal, source says",
       "url": "https://www.haaretz.com/israel-news/2025-11-25/ty-article-live/islamic-jihad-says-it-found-body-of-deceased-hostage-in-israeli-controlled-area-of-gaza/0000019a-b8f5-dcd7-a3be-bafd86740000",
       "image": "https://img.haarets.co.il/bs/0000019a-bada-d360-a5bb-bbdb05960000/e9/dc/783884464f03959b2db869401b59/866620-2.jpg?height=81",
       "published_at": "2025-11-25T03:08:05.000Z",
@@ -1240,16 +1270,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a83d/live/1fa66260-c9ca-11f0-8c1f-e1fe6e7ce046.jpg",
       "published_at": "2025-11-25T01:38:33.000Z",
       "summary": "The former Trump ally has decided to end her time in Congress early after a public fallout with the president. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Zelensky welcomes amendments to proposed peace plan",
-      "url": "https://www.bbc.com/news/articles/cpd6qd10l94o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6535/live/e23134e0-c98e-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-11-25T01:06:36.000Z",
-      "summary": "There was optimism following the talks in Geneva, but no details emerged on how to bridge the huge divide between Moscow and Kyiv over territory and security guarantees."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1300,16 +1320,6 @@
       "image": null,
       "published_at": "2025-11-24T23:08:24.000Z",
       "summary": "Alona Ben Natan was the first Israeli woman to compete in major rallies in Morocco and Dubai, and faced opposition to her entry from Qatar when she was denied a visa."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump says he will visit China in April after call with Xi",
-      "url": "https://www.bbc.com/news/articles/ckgdr1vlz7ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaca/live/d0746f10-c97a-11f0-9a12-2dc0b71304e7.jpg",
-      "published_at": "2025-11-24T23:03:34.000Z",
-      "summary": "The two leaders discussed trade, Ukraine and Taiwan in their first phone call since meeting in South Korea last month."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1640,16 +1650,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-b627-d2b9-adbf-f6bfc7360001/d1/1e/a9450d3446a380ec9046e71852a8/784255.jpg?height=81",
       "published_at": "2025-11-24T15:13:22.000Z",
       "summary": "Stuck to the outside of the International Space Station, moss spores in a space=exposure kit survived extreme heat, cold and UV for 9 months. How does this help our cause?"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israeli league: Walker’s 31-point performance leads Maccabi win; Hapoel TLV undefeated",
-      "url": "https://www.jpost.com/israel-news/sports/article-875025",
-      "image": null,
-      "published_at": "2025-11-24T15:12:01.000Z",
-      "summary": "Maccabi TLV rebounded with a dominant win fueled by Lonnie Walker (31 pts). Holon's coach slammed the performance, while Jerusalem and Tel Aviv also notched crucial victories."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
