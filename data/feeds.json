@@ -1,35 +1,85 @@
 {
-  "generated_at": "2025-11-25T18:14:08.957Z",
+  "generated_at": "2025-11-25T18:47:23.104Z",
   "items": [
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "IDF kills five terrorists who evaded troops for hours after emerging from Rafah tunnel",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-875190",
-      "image": null,
-      "published_at": "2025-11-25T19:48:57.000Z",
-      "summary": "The incident occurred while the troops were conducting searches in the area. "
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Judge allows Netanyahu aide Yonatan Urich to work with Likud, maintains ban on PMO role",
-      "url": "https://www.jpost.com/israel-news/article-875178",
-      "image": null,
-      "published_at": "2025-11-25T19:27:32.000Z",
-      "summary": "The Lod District Court ruled that Urich may liaise with Likud and David Sharan while remaining barred from returning to the Prime Minister’s Office. "
+      "title": "Stretched thin: IDF plans little training in 2026 amid manpower shortage",
+      "url": "https://www.haaretz.com/israel-news/2025-11-25/ty-article/.premium/stretched-thin-idf-plans-little-training-in-2026-amid-manpower-shortage/0000019a-bb3f-db2f-afdf-bf3fc5050000",
+      "image": "https://img.haarets.co.il/bs/0000019a-bb40-dcd7-a3be-bb79c90e0001/9e/eb/41194a774bef8f5df40039f5ad0e/741536.jpg?height=81",
+      "published_at": "2025-11-25T18:38:43.000Z",
+      "summary": "The manpower shortage and expanded border deployments leave regular brigades with only a handful of training weeks. The new Haredi brigade will not man the borders next year. IDF Spokesperson: 'The operational deployment chart is still under assessment and has not yet been finalized'"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "נתניהו על המשבר בין זמיר לכ\"ץ: \"נחוש לפתור את הסוגיות בדרך הטובה ביותר\"",
+      "title": "פגישת המתווכות, פארסת הכוח הבינלאומי - והבנת ישראל: אין מנוס מפירוק חמאס לבד",
+      "url": "https://www.ynet.co.il/news/article/bkdw1d7b11e",
+      "image": null,
+      "published_at": "2025-11-25T18:28:05.000Z",
+      "summary": "ר\"מ קטאר נפגש בקהיר עם ראשי המודיעין של טורקיה ומצרים, והשלושה דנו ביישום שלב ב' של תוכנית טראמפ - וב\"תגובה להפרות שישראל מבצעת\". גורמים שמעורים בנושא עזה סקפטיים שכוח הייצוב יקום, ומתארים את הקושי האמריקני בהרכבתו: \"אזרבייג'ן כבר נסוגה, בסוף ישראל תצטרך לפרק את הארגון מנשק\" "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "היועמ\"שית לנתניהו: צריך לקדם בדחיפות מדיניות אכיפה נגד משתמטים",
+      "url": "https://www.ynet.co.il/news/article/rkh8xoqw11x",
+      "image": null,
+      "published_at": "2025-11-25T18:26:43.000Z",
+      "summary": "בהרב-מיארה שלחה לראש הממשלה מכתב שבו כתבה כי עליו לקדם אכיפה שוויונית ואפקטיבית בנוגע לצעירים חרדים שחייבים בגיוס: \"בית המשפט הורה לממשלה לגבש מדיניות בתוך 45 ימים\". כפי שפורסם ב-ynet, בקואליציה מעריכים ש\"חוק ביסמוט\" יוגש מחרתיים"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ארה\"ב: גייסו הומלסים כדי לכבוש אי, לרצוח את הגברים, ולהפוך את הנשים לשפחות מין",
+      "url": "https://www.ynet.co.il/news/article/bjbbtlqwbl",
+      "image": null,
+      "published_at": "2025-11-25T18:25:48.000Z",
+      "summary": "פרשה מטורפת בטקסס: טאנר תומאס וגאווין ווייסנבורג, צעירים בני 20 ו-21 מאזור דאלאס, מואשמים שבמשך כשנה רקמו מזימה להשתלט על האי גונאבה שבהאיטי ולבצע בו הפיכה וטבח המוני. הם תכננו להפליג אליו עם צבא של חסרי בית שיצוידו בנשק, ואחרי רצח הגברים לשעבד מינית את הנשים והילדים ולממש פנטזיות אונס. כחלק מההכנות"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Death penalty bill will severely harm Israel's security, former security and legal officials say",
+      "url": "https://www.haaretz.com/israel-news/2025-11-25/ty-article/.premium/death-penalty-bill-will-severely-harm-israels-security-former-security-officials-say/0000019a-bb91-dcd7-a3be-bbb9b8650000",
+      "image": "https://img.haarets.co.il/bs/0000019a-bbd0-dcd7-a3be-bbf9cbba0000/56/3c/8c9fb62d41d8863bcdb2fce4ca5e/429007.jpg?height=81",
+      "published_at": "2025-11-25T18:18:39.000Z",
+      "summary": "Former Shin Bet directors and legal advisers warned that a bill meant to curb terrorism would cause backlash and harm national security. 'The death penalty is unacceptable in terms of legal norms, therefore, unconstitutional,' an open letter read, noting it would change Israel's international status"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Serbia’s Vucic warns oil refinery faces shutdown as US sanctions bite",
+      "url": "https://www.aljazeera.com/news/2025/11/25/serbias-vucic-warns-oil-refinery-faces-shutdown-as-us-sanctions-bite?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-25T18:07:57.000Z",
+      "summary": "Pancevo, the country&#039;s only oil refinery, now on &#039;hot standby&#039; as Vucic faces tricky prospect of seizing Russian asset."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "נתניהו לרמטכ\"ל וכ\"ץ: תפסיקו את הוויכוח בפומבי",
       "url": "https://www.ynet.co.il/news/article/hktf1omb11e",
       "image": null,
       "published_at": "2025-11-25T18:07:50.000Z",
-      "summary": "דוברו של ראש הממשלה אמר כי הוא \"יפתור את הסוגיות בדרך הטובה ביותר\", וקרא \"לא להקשיב לתדרוכים של בעלי אינטרס\""
+      "summary": "שעות אחרי שנפגש בנפרד עם כ\"ץ וזמיר, על אף תכנון לפגישה משולשת, דוברו של רה\"מ אמר כי הוא \"יפתור את הסוגיות בדרך הטובה ביותר\", וקרא \"לא להקשיב לתדרוכים של בעלי אינטרס\". בפגישות, נתניהו ביקש מהשניים להפסיק את השיח הפומבי - וליישר את ההדורים עד לפגישה מתוכננת בין השר לרמטכ\"ל ביום חמישי"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Could Trump’s $50m reward succeed in toppling Venezuela’s Nicolas Maduro?",
+      "url": "https://www.aljazeera.com/news/longform/2025/11/25/could-trumps-50m-reward-succeed-in-toppling-venezuelas-nicolas-maduro?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-25T18:03:49.000Z",
+      "summary": "The US government has offered a record amount of money for information leading to Maduro&#039;s arrest. Will it work?"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -40,6 +90,16 @@
       "image": "https://img.haarets.co.il/bs/0000019a-bb9e-dcd7-a3be-bbbf876c0000/72/9e/f3b7f9064df8b0237798c1c03eaa/856580.jpg?height=81",
       "published_at": "2025-11-25T17:54:28.000Z",
       "summary": "The appointments come days after Mayor-elect Zohran Mamdani drew considerable fire from the Jewish community for saying a synagogue promoting immigration to Israel should not encourage 'activities in violation of international law' on its premises"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US consumer confidence tumbles to lowest level since April",
+      "url": "https://www.aljazeera.com/economy/2025/11/25/us-consumer-confidence-tumbles-to-lowest-level-since-april?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-25T17:53:46.000Z",
+      "summary": "A sluggish job market lowers consumer confidence but may also lead to another rate cut from the US Federal Reserve. "
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -122,16 +182,6 @@
       "summary": "Firqat Alnoor, featuring both Jewish and Arab musicians, plays late Egyptian icon's song to mark 50th anniversary of her death\nThe post Israeli orchestra accused of robbing Arab heritage with release of Umm Kulthum video appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Gaza terrorists demanded ransom for release of captive family in 2023, father reveals",
-      "url": "https://www.jpost.com/israel-news/article-875164",
-      "image": null,
-      "published_at": "2025-11-25T17:13:32.000Z",
-      "summary": "\"They were all taken very seriously. One very specific one was taken seriously. Which, in the end, was refuted,\" said Yoni Asher, father of freed Gaza hostages Raz and Aviv."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -160,26 +210,6 @@
       "image": null,
       "published_at": "2025-11-25T17:01:15.000Z",
       "summary": "Follow our live updates, with full team news, in advance of our comprehensive text commentary stream of the UCL match."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel Katz forces Netanyahu into mediation role as public clash with IDF chief grows",
-      "url": "https://www.jpost.com/israel-news/article-875161",
-      "image": null,
-      "published_at": "2025-11-25T16:55:19.000Z",
-      "summary": "Despite Netanyahu's announcement that he would hold a three-way meeting to resolve the dispute, Katz has pushed for separate meetings."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Lapid to bring Trump's Gaza peace plan to Knesset vote in bid to 'embarrass' Netanyahu",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-875162",
-      "image": null,
-      "published_at": "2025-11-25T16:50:41.000Z",
-      "summary": "In a statement, Lapid noted that \"we support President Trump and strengthen his hand in the efforts to implement the stages of the plan.\" "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -220,26 +250,6 @@
       "image": null,
       "published_at": "2025-11-25T16:30:57.000Z",
       "summary": "Despite 20 years of warnings, country still lacks a central body for emergency preparedness, and efforts to upgrade old buildings are insufficient, Knesset committee finds\nThe post Israel still woefully unprepared for major earthquake, lawmakers warn appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel wasted 2.6 million tons of food in 2024, worth $7.2 billion",
-      "url": "https://www.jpost.com/israel-news/article-875159",
-      "image": null,
-      "published_at": "2025-11-25T16:26:30.000Z",
-      "summary": "“In Israel, where food expenditure is relatively high compared internationally, food loss constitutes one of the components affecting the cost of living,” the report said."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Power struggles emerge in Netanyahu's Likud internal elections ahead of national primaries",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-875136",
-      "image": null,
-      "published_at": "2025-11-25T16:25:37.000Z",
-      "summary": "The clashes over local and Central Committee seats are exposing power struggles ahead of the national primaries as political consultants play central roles on many competing lists."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -492,16 +502,6 @@
       "summary": "Jordan Bardella's mentor, Marine Le Pen, was barred from public office for five years over party fund misappropriation and has appealed. 'Being the overwhelming favorite months before an election campaign begins is no guarantee of success,' the pollster said"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Netanyahu disputes claims of directing media coverage of his wife in continued Case 4000 testimony",
-      "url": "https://www.jpost.com/israel-news/benjamin-netanyahu/article-875147",
-      "image": null,
-      "published_at": "2025-11-25T14:50:17.000Z",
-      "summary": "Netanyahu denied he directed media coverage of his wife in Case 4000, rejecting prosecution claims and calling state witness accounts exaggerated during renewed cross-examination."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -550,16 +550,6 @@
       "image": null,
       "published_at": "2025-11-25T14:39:04.000Z",
       "summary": "Reeves faces daunting challenge - poor public finances and widespread public discontent with government."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Over 300 Israeli women murdered since 2015, Knesset report reveals",
-      "url": "https://www.jpost.com/israel-news/article-875144",
-      "image": null,
-      "published_at": "2025-11-25T14:37:58.000Z",
-      "summary": "The findings show a sharp rise in femicide, alarming enforcement gaps - particularly affecting Arab women - and repeated missed warning signs."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -792,16 +782,6 @@
       "summary": "יום אחרי העימות החריג בוועדת החוקה, היו\"ר שמחה רוטמן פתח את הדיון בהתנצלות בפני היועמ״ש גור בליי, והדגיש: \"אנחנו מלבנים בינינו, יודעים להסתדר\". גם ח״כ קריב התנצל: \"הגבתי בחריפות, מניח שזה תרם למתח\""
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "WATCH: Remains of slain ex-hostage arrive at Abu Kabir medical center for identification",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-875128",
-      "image": null,
-      "published_at": "2025-11-25T12:57:15.000Z",
-      "summary": "Hamas and Palestinian Islamic Jihad returned the remains, which were found on Monday, after Netanyahu said the delay in the release constituted a violation of the Gaza ceasefire."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -942,16 +922,6 @@
       "summary": "The campaign against army chief Eyal Zamir is powered by Yair and Sara Netanyahu's personal obsession, and by a defense minister desperate to save himself before his party's primaries"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Senior local authority official detained at Ben-Gurion Airport amid Histadrut corruption probe",
-      "url": "https://www.jpost.com/israel-news/article-875123",
-      "image": null,
-      "published_at": "2025-11-25T12:00:04.000Z",
-      "summary": "Per reports, the official, whose identity has not been publicly disclosed, is suspected of election-bribery, fraud, and breach of trust."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1042,66 +1012,6 @@
       "summary": "הורים למבקשי מקלט בעיר החרדית מתלוננים על מפגעי תברואה חמורים בגנים - שלא זוכים למענה מהעירייה: \"הכל מלוכלך, צינורות דולפים. זה אפילו לא מקום לחיות\". הורים התלוננו כי שטחים נוכסו מבית ספר ותיק לטובת מבני דת: \"המוסד קיים יותר מ-60 שנה ונדחק ככל שהעיר מתחרדת\". בעירייה הכחישו את הטענות"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Palestinian economy suffers worst-ever collapse after Israel-Hamas conflict, UN says",
-      "url": "https://www.jpost.com/israel-news/article-875115",
-      "image": null,
-      "published_at": "2025-11-25T11:04:24.000Z",
-      "summary": "The two-year Gaza war triggered an unprecedented collapse in the Palestinian economy, returning GDP per capita to 2003 levels and ranking the crisis among the ten worst globally, UNCTAD said."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"מיליונרים חדשים\": הסערה הכלכלית בעזה - והקופון של חמאס",
-      "url": "https://www.ynet.co.il/news/article/hklnbagwzg",
-      "image": null,
-      "published_at": "2025-11-25T11:03:22.000Z",
-      "summary": "ישראל הרחיבה את הכנסת הסיוע לרצועה באמצעות רשימת סוחרים מצומצמת - וסוחרים מקומיים טוענים שנותרו בחוץ שלא בצדק, בעוד ארגון הטרור ממשיך להרוויח, לפעמים בעקיפין. גורם ביטחוני ישראלי: \"הסוחרים נבדקו היטב, אין ביניהם אף גורם בעל זיקה לחמאס\""
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF kills terrorist who murdered Israeli security guard in 2024 terror attack",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-875113",
-      "image": null,
-      "published_at": "2025-11-25T10:59:08.000Z",
-      "summary": "The action follows a Monday firefight in the area of eastern Nablus between Israeli forces and a wanted terrorist during counterterrorism operations."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Book events of Palestinian author cancelled",
-      "url": "https://www.aljazeera.com/video/unmute/2025/11/25/book-events-of-palestinian-author-cancelled?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-25T10:55:49.000Z",
-      "summary": "Book events of Palestinian author cancelled"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הסוכן הסמוי \"קרקל\" הפיל 26 עבריינים בדרום | תיעוד",
-      "url": "https://www.ynet.co.il/news/article/r1we5kqbzg",
-      "image": null,
-      "published_at": "2025-11-25T10:54:52.000Z",
-      "summary": "המשטרה גייסה את את \"קרקל\" שהיה עבריין, והוביל למעצרם של 26 חשודים בסחיטה ואיומים שהחזיקו במאות גרמים של סמים. במקביל, משטרת ת\"א עצרה חשודים בסחר בסמים בעזרת 3 סוכנים סמויים שביצעו כ-20 \"עסקאות עוקץ\". 36 נעצרו במבצע נגד נשק לא חוקי בנגב: \"אין תאריך סיום\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Timeline: 26 years of fraught US-Venezuela relations",
-      "url": "https://www.aljazeera.com/news/2025/11/25/timeline-26-years-of-fraught-us-venezuela-relations?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-25T10:52:34.000Z",
-      "summary": "US-Venezuela relations have reached one of their most volatile moments in decades. Here is how we got here."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1110,26 +1020,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ba32-d360-a5bb-bb3b3eaf0000/60/12/825023db4069b85a85037bda2a94/299731-2.jpg?height=81",
       "published_at": "2025-11-25T10:41:49.000Z",
       "summary": "Since the Israeli Civil Administration is not formally mandated to carry out Israeli plans for the site in the West Bank, any action related to construction requires the seizure of powers from the Palestinian municipality. The Hebron municipality and other Palestinian bodies say that the constructio"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"היי חבר, רוצה להוציא ביבי מהמשחק?\": ההודעות שנשלחו לפעילי יש עתיד",
-      "url": "https://www.ynet.co.il/news/article/syislxqbbe",
-      "image": null,
-      "published_at": "2025-11-25T10:34:46.000Z",
-      "summary": "פרסום ראשון: היו\"ר לפיד העביר לבדיקת שב\"כ מסרים שנשלחו לאנשיו ממשתמש לא מוכר באפליקציית טלגרם: \"אנחנו קבוצה שמאלנית. תרוויח 4,000-1,000 שקל ליום\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Partners, family members killed 137 women each day in 2024: UN",
-      "url": "https://www.aljazeera.com/news/2025/11/25/partners-family-members-killed-137-women-each-day-in-2024-un?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-25T10:15:15.000Z",
-      "summary": "About 83,000 women and girls were intentionally killed worldwide last year."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1142,16 +1032,6 @@
       "summary": "Lawmakers from Ben-Gvir's party said a classified Israel Prison Service report deems Red Cross visits to prisoners dangerous, but after MK Aida Touma-Sliman requested it, the committee received only a non-classified summary"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Flooding collapses West Bank security fence section near Hebron, causing security breach risk",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-875109",
-      "image": null,
-      "published_at": "2025-11-25T10:11:11.000Z",
-      "summary": "The collapse marks a potentially dangerous security breach from the West Bank. "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1162,26 +1042,6 @@
       "summary": "Police officers handcuffed the man and took him to a police station, though he had committed no offense. He was released hours later without questioning. Police say he smelled of alcohol, and the officers' conduct will be examined"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israeli, Palestinian UN envoys spar as Mansour accuses Israel of seeking ceasefire collapse",
-      "url": "https://www.jpost.com/israel-news/article-875094",
-      "image": null,
-      "published_at": "2025-11-25T09:00:29.000Z",
-      "summary": "In addition to accusations of ceasefire noncompliance in Gaza, Mansour also alleged Israel has exercised policies \"aimed at undermining the PA politically, financially, and militarily.\""
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Severe nationwide floods in Israel as dozens rescued, security fence section collapses",
-      "url": "https://www.jpost.com/israel-news/article-875104",
-      "image": null,
-      "published_at": "2025-11-25T08:53:48.000Z",
-      "summary": "The water was over a meter high in places, according to the Israel Fire and Rescue Authority. "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1190,16 +1050,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ba16-db55-a7bb-ffd6df750000/a4/23/bd40c143465fa91698e30233c496/903655.jpg?height=81",
       "published_at": "2025-11-25T08:21:05.000Z",
       "summary": "Hezbollah supporters passed Haytham Tabtabai's coffin during his burial, along with two other members, at a cemetery south of Beirut where the group's fighters are usually laid to rest. Israel struck Lebanon's capital Sunday, saying it killed the military chief"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel Air Force strikes terror targets east of Khan Yunis, southern Gaza Strip",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-875096",
-      "image": null,
-      "published_at": "2025-11-25T07:43:42.000Z",
-      "summary": "The targets were reportedly located to the east of Khan Yunis."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1342,16 +1192,6 @@
       "summary": ""
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israeli motorcyclist takes second place in Dubai race, qualifies for FIM Bajas World Cup",
-      "url": "https://www.jpost.com/israel-news/sports/article-875086",
-      "image": null,
-      "published_at": "2025-11-24T23:08:24.000Z",
-      "summary": "Alona Ben Natan was the first Israeli woman to compete in major rallies in Morocco and Dubai, and faced opposition to her entry from Qatar when she was denied a visa."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1412,26 +1252,6 @@
       "summary": ""
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "WATCH: Israeli forces kill terrorist who rammed into IDF soldiers in May 2024 Nablus attack",
-      "url": "https://www.jpost.com/israel-news/article-875080",
-      "image": null,
-      "published_at": "2025-11-24T21:45:24.000Z",
-      "summary": "The terrorist had carried out a car-ramming attack in May 2024 at a checkpoint at one of the entrances to the city, near the settlement of Itamar. "
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Haredi stone-throwers attack Jerusalem Mayor Moshe Lion's car in capital",
-      "url": "https://www.jpost.com/israel-news/article-875079",
-      "image": null,
-      "published_at": "2025-11-24T21:41:38.000Z",
-      "summary": "No injuries were reported, although the vehicle's windshield was damaged. At the time, the mayor was visiting the Mea She'arim neighborhood. "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1462,26 +1282,6 @@
       "summary": ""
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "WZO adopts new agreement with Perez as president, bringing extended negotiation saga to an end",
-      "url": "https://www.jpost.com/israel-news/article-875073",
-      "image": null,
-      "published_at": "2025-11-24T20:51:51.000Z",
-      "summary": "The agreement will see Mizrachi CEO Rabbi Doron Perez become the WZO president, a normally ceremonial role that would reportedly expand to include matters of budget and Diaspora relations."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Mossad officer 'G' steps aside amid fallout from October 7 probe",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-875070",
-      "image": null,
-      "published_at": "2025-11-24T20:29:24.000Z",
-      "summary": "Brig.-Gen. \"G\" was seconded to the Mossad over the past few months while serving as the IDF Intelligence Directorate's Operations chief."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1490,16 +1290,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-b77f-d360-a5bb-b77f74dc0000/33/a3/077185ae46a79f9c30ef54c1f98f/869940.jpg?height=81",
       "published_at": "2025-11-24T20:14:56.000Z",
       "summary": "Despite the political differences between New York Mayor-elect Zohran Mamdani and Rep. Marjorie Taylor Greene, their recent appearances in Washington underscore that Israel is no longer a traditional right–left fault line"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israeli FM Sa’ar meets with Paraguayan counterpart and President Peña in Asuncion",
-      "url": "https://www.jpost.com/israel-news/article-875067",
-      "image": null,
-      "published_at": "2025-11-24T19:33:05.000Z",
-      "summary": "“Paraguay continues to strengthen alliances that look to the future,” said Peña, and stated that Sa’ar is “developing a work agenda\" between both countries."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1522,36 +1312,6 @@
       "summary": "The IDF estimates that dozens of Hamas militants remain in the tunnels in Rafah but does not commit to exact numbers, aware that the chances of finding all of them are slim. 'Our primary mission here is to kill or capture the militants inside the tunnels in this area,' one officer says"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Zamir punished those on duty in 10.7 but didn't take on formers, including himself - analysis",
-      "url": "https://www.jpost.com/israel-news/article-875065",
-      "image": null,
-      "published_at": "2025-11-24T19:11:15.000Z",
-      "summary": "IDF Chief of Staff Lt.-Gen. Eyal Zamir punished those on duty on October 7, but didn't take action against those who came before. A state inquiry is needed to address that."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF chief goes head to head with Katz over Oct. 7 probes",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-875064",
-      "image": null,
-      "published_at": "2025-11-24T19:10:21.000Z",
-      "summary": "IDF chief Eyal Zamir accuses Defense Minister Israel Katz of politicizing October 7 probes after move to reexamine Turgeman committee report."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Stranger Things fans ignore anti-Israel activists' boycott call after stars sympathized with Israel",
-      "url": "https://www.jpost.com/israel-news/culture/article-875061",
-      "image": null,
-      "published_at": "2025-11-24T18:49:20.000Z",
-      "summary": "Noah Schnapp and Brett Gelman both showed support for Israel, with Gelman even featuring in a sketch for Israeli comedy show Eretz Nehederet (Wonderful Country)."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1572,36 +1332,6 @@
       "summary": "Hundreds of Palestinians were killed and almost 4,000 wounded in the process of accessing aid at distribution sites of the U.S.-Israeli Gaza aid organization, according to health officials in the enclave. A U.S. State Department spokesperson said the GHF model 'played a huge role in getting Hamas to"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "From inside Rafah: The most unexpected battle of the war - feature",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-875045",
-      "image": null,
-      "published_at": "2025-11-24T17:00:10.000Z",
-      "summary": "Reporter's Notebook: The 'Post' visits Rafah, where the status of 200 Hamas fighters has shaken the Gaza ceasefire, and the wider region."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "World Zionist Congress sees historic appointment",
-      "url": "https://www.jpost.com/israel-news/culture/article-875049",
-      "image": null,
-      "published_at": "2025-11-24T16:52:04.000Z",
-      "summary": "Adv. Elisheva Ansbacher has been elected as the Zionist Executive Chair"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "WIZO warns in annual report of rising teen dating violence, nat’l data breakdown",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-875046",
-      "image": null,
-      "published_at": "2025-11-24T16:42:37.000Z",
-      "summary": "The findings reveal the depth of a crisis that WIZO says now begins in adolescence and extends into adulthood, while policymakers remain largely in the dark."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1620,16 +1350,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c1/live/69271a70-8a81-11f0-b4ed-15140726731b.jpg",
       "published_at": "2025-11-24T16:24:23.000Z",
       "summary": "The US says it is headed by Venezuela's president and other senior politicians, but some analysts say it does not even exist."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Bank of Israel cuts key rate by .25 percent after Gaza ceasefire",
-      "url": "https://www.jpost.com/israel-news/article-875042",
-      "image": null,
-      "published_at": "2025-11-24T16:13:05.000Z",
-      "summary": "It represents the first reduction in nearly two years, as a ceasefire in Gaza eased inflation and reduced geopolitical risk."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2240,26 +1960,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ac43-d83e-a19b-ff77ede20000/7c/b9/0986012e49bca7df79c303606181/115292.jpg?height=81",
       "published_at": "2025-11-22T17:05:59.000Z",
       "summary": "Israel's Defense and Security Forum, a group of ex-IDF officers also advocates for Israel to annex the West Bank. In 2024, it got 13.3M shekels ($3.95M) from the Central Fund for Israel, a right-wing U.S.-based foundation"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israeli airstrikes across Gaza kill at least 24 Palestinians, health officials say",
-      "url": "https://www.haaretz.com/gaza/2025-11-22/ty-article/.premium/israeli-airstrikes-across-gaza-kill-at-least-24-palestinians-health-officials-say/0000019a-ac25-d2a0-afdf-fc2f08ad0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-ac3d-dd6e-a5fa-fffd20080000/2e/8d/4f49a8294d2a8b2e0b4246a990cb/879596-4.jpg?height=81",
-      "published_at": "2025-11-22T16:44:54.000Z",
-      "summary": "The strikes, which Israeli officials say are a response to Hamas cease-fire violations, are the latest test of a shaky U.S.-brokered agreement reached over a month ago. One IDF strike on a vehicle killed 11 Palestinians – mostly children – in Gaza City, health officials said"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "We used to conceal Jewish symbols. Now it's Hebrew we're asked to hide",
-      "url": "https://www.haaretz.com/israel-news/2025-11-22/ty-article-magazine/.highlight/we-used-to-conceal-jewish-symbols-now-its-hebrew-were-asked-to-hide/0000019a-aaa3-dd6e-a5fa-fbe7e5340000",
-      "image": "https://img.haarets.co.il/bs/0000019a-aaa4-d2a0-afdf-faafccb70000/2b/85/4c533a4c4b488957aed4179d5121/994850.jpg?height=81",
-      "published_at": "2025-11-22T13:18:42.000Z",
-      "summary": "Who would dare read a Hebrew book today on the subway in Rome, London or Paris?"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
