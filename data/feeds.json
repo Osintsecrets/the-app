@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-25T07:10:47.019Z",
+  "generated_at": "2025-11-25T07:36:57.958Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -30,6 +30,26 @@
       "image": null,
       "published_at": "2025-11-25T07:43:42.000Z",
       "summary": "The targets were reportedly located to the east of Khan Yunis."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מרום החייל נהרג כשרכב על האופנוע: \"אהוב ליבנו, גאוות חיינו\"",
+      "url": "https://www.ynet.co.il/news/article/hy2yy0f11zx",
+      "image": null,
+      "published_at": "2025-11-25T07:27:32.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Top US military adviser tours Caribbean as pressure on Venezuela deepens",
+      "url": "https://www.aljazeera.com/news/2025/11/25/top-us-military-adviser-tours-caribbean-as-pressure-on-venezuela-deepens?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-25T07:14:06.000Z",
+      "summary": "The trip underscores the role of the US military buildup to pressure Venezuela over alleged drug trafficking."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvWDN5",
@@ -75,7 +95,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Russia attacks Kyiv, killing two, as US, Ukraine discuss plan to end war",
+      "title": "Russia attacks Kyiv, killing two, as US, Ukraine work on plan to end war",
       "url": "https://www.aljazeera.com/news/2025/11/25/russia-attacks-kyiv-killing-two-as-us-ukraine-discuss-plan-to-end-war?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-25T06:06:58.000Z",
@@ -105,7 +125,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: 9 killed in Kyiv, Rostov as Russia, Ukraine carry out attacks",
+      "title": "Russia-Ukraine war live: Nine killed in Kyiv, Rostov in overnight attacks",
       "url": "https://www.aljazeera.com/news/liveblog/2025/11/25/live-5-killed-in-kyiv-rostov-as-russia-ukraine-carry-out-attacks?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-25T05:55:54.000Z",
@@ -265,11 +285,21 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "אם ותינוקת חולצו, כבישים נחסמו ברחבי הארץ | שיאניות הגשם מהלילה - והתחזית",
+      "title": "שיאי גשם, חסימות ברחבי הארץ ואזורים נצורים בבנימין: \"לא זוכר אירוע כזה\"",
       "url": "https://www.ynet.co.il/news/article/bktql5zb11l",
       "image": null,
       "published_at": "2025-11-25T03:24:50.000Z",
       "summary": "הגשם חזר אחרי כמה ימי שרב - ושיא גשם חדש נשבר במרכז הארץ, כשבנווה צוף שבשומרון ירדו 128 מ\"מ תוך 4 שעות. בשירות המטאורולוגי פרסמו אזהרת הצפות, לצד חשש משיטפונות. בנגב ובשומרון כבאים חילצו אנשים מבתים ומכוניות, ללא נפגעים. במהלך היום הגשמים יתמעטו, אך גשם עשוי לרדת גם בלילה. צפו במכ\"ם "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Controversial US-backed Gaza Humanitarian Foundation ends aid operations",
+      "url": "https://www.bbc.com/news/articles/cj01jr13277o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fa2/live/e9bc6140-c9a1-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-11-25T03:21:27.000Z",
+      "summary": "Hundreds of Palestinians were killed while seeking food amid chaotic scenes near GHF's sites."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -305,11 +335,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "האחים המוסלמים באמריקה: התוכנית בת מאה השנים – הסוף?",
+      "title": "האחים המוסלמים בארה\"ב: התוכנית בת מאה השנים – הסוף?",
       "url": "https://www.ynet.co.il/news/article/h13utqmz11x",
       "image": null,
       "published_at": "2025-11-25T03:05:00.000Z",
-      "summary": "מה שקורה עכשיו בארצות הברית הוא לא תופעה נקודתית. זו תגובה איטית ומאוחרת לשיטה של האחים המוסלמים שנבנתה במשך שלושה עשורים: תשתיות חינוך, קהילות, מוסדות, קמפוסים, עמותות, מימון בינלאומי ופרויקטים קהילתיים, שאמורים להוביל להשפעה תרבותית, פוליטית ומשפטית"
+      "summary": "מה שקורה עכשיו בארה\"ב הוא לא תופעה נקודתית. זו תגובה איטית ומאוחרת לשיטה של האחים המוסלמים שנבנתה במשך שלושה עשורים: תשתיות חינוך, קהילות, מוסדות, קמפוסים, עמותות, מימון בינלאומי ופרויקטים קהילתיים, שאמורים להוביל להשפעה תרבותית, פוליטית ומשפטית"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -425,11 +455,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "US backs Israeli right to self-defense after IDF strike on Hezbollah army chief",
+      "title": "US says it backs Israeli right to self-defense after IDF strike on Hezbollah army chief",
       "url": "https://www.timesofisrael.com/liveblog-november-25-2025/",
       "image": null,
       "published_at": "2025-11-24T23:27:08.000Z",
-      "summary": "White House press secretary clarifies that she hasn't asked Trump about specific strike that killed Haytham Tabatabai * US withholding visa from far-right coalition MK over extremist past\nThe post US backs Israeli right to self-defense after IDF strike on Hezbollah army chief appeared first on The T"
+      "summary": "White House press secretary clarifies that she hasn't asked Trump about specific strike that killed Haytham Tabatabai * US withholding visa from far-right coalition MK over extremist past\nThe post US says it backs Israeli right to self-defense after IDF strike on Hezbollah army chief appeared first "
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -480,6 +510,16 @@
       "image": null,
       "published_at": "2025-11-24T23:06:34.000Z",
       "summary": "President orders cabinet members to present a report within 30 days on whether he should designate Brotherhood chapters in countries like Jordan, Lebanon or Egypt as terror groups\nThe post Trump launches process aimed at potentially sanctioning Muslim Brotherhood appeared first on The Times of Israe"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump says he will visit China in April after call with Xi",
+      "url": "https://www.bbc.com/news/articles/ckgdr1vlz7ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaca/live/d0746f10-c97a-11f0-9a12-2dc0b71304e7.jpg",
+      "published_at": "2025-11-24T23:03:34.000Z",
+      "summary": "The two leaders discussed trade, Ukraine and Taiwan in their first phone call since meeting in South Korea last month."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -932,6 +972,16 @@
       "summary": "ישראל כ\"ץ הוא פוליטיקאי מיומן, מכונה פוליטית כבדה. הוא לא מנהל קרב חפירות נגד הרמטכ\"ל השני בשנה האחרונה כי זה רע למעמדו – אלא ההפך. האופוזיציה שלו למערכת הצבאית מסומנת באור חיובי בליכוד, ומחלקת דיבידנדים. וצה\"ל? הוא עובר זובור אחרי זובור כדי שהממשלה תוכל לשלוט בסדר היום"
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Updated peace plan could be a deal Ukraine will take - eventually",
+      "url": "https://www.bbc.com/news/articles/cn4d27dx80no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aee/live/7be5d510-c94d-11f0-abcf-97df5562f205.jpg",
+      "published_at": "2025-11-24T19:23:14.000Z",
+      "summary": "The proposed plan is said to have been significantly changed since Sunday - but key sticking points are likely to remain."
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -970,16 +1020,6 @@
       "image": null,
       "published_at": "2025-11-24T19:10:21.000Z",
       "summary": "IDF chief Eyal Zamir accuses Defense Minister Israel Katz of politicizing October 7 probes after move to reexamine Turgeman committee report."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "רוכב אופנוע נהרג מפגיעת מכונית בחוף אשקלון",
-      "url": "https://www.ynet.co.il/news/article/b1c0pmzbzx",
-      "image": null,
-      "published_at": "2025-11-24T19:08:54.000Z",
-      "summary": "צוות מד\"א שהגיע לזירה בכביש 232 פתח בניסיונות החייאה, אך נאלץ לקבוע את מותו של רוכב האופנוע בזירה. \"הוא שכב על הקרקע, מחוסר הכרה, ללא דופק וללא נשימה\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1040,16 +1080,6 @@
       "image": null,
       "published_at": "2025-11-24T18:20:05.000Z",
       "summary": "In war-torn Gaza, volunteers fight to save hungry and abandoned animals."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Thousands mourn Hezbollah commander killed by Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/24/thousands-mourn-hezbollah-commander-killed-by-israel?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-24T18:19:30.000Z",
-      "summary": "Thousands gathered in Beirut at the funeral of Hezbollah commander Haytham Ali Tabatabai, a day after Israel killed him."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
