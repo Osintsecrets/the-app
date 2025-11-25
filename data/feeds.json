@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-25T17:39:54.984Z",
+  "generated_at": "2025-11-25T18:14:08.957Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF kills five terrorists who evaded troops for hours after emerging from Rafah tunnel",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-875190",
+      "image": null,
+      "published_at": "2025-11-25T19:48:57.000Z",
+      "summary": "The incident occurred while the troops were conducting searches in the area. "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,11 +25,81 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
+      "title": "נתניהו על המשבר בין זמיר לכ\"ץ: \"נחוש לפתור את הסוגיות בדרך הטובה ביותר\"",
+      "url": "https://www.ynet.co.il/news/article/hktf1omb11e",
+      "image": null,
+      "published_at": "2025-11-25T18:07:50.000Z",
+      "summary": "דוברו של ראש הממשלה אמר כי הוא \"יפתור את הסוגיות בדרך הטובה ביותר\", וקרא \"לא להקשיב לתדרוכים של בעלי אינטרס\""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Mamdani names five New York rabbis to transition team after synagogue-protest backlash",
+      "url": "https://www.haaretz.com/us-news/2025-11-25/ty-article/.premium/mamdani-names-five-new-york-rabbis-to-transition-team-after-synagogue-protest-backlash/0000019a-bb85-dcd7-a3be-bbbd941f0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-bb9e-dcd7-a3be-bbbf876c0000/72/9e/f3b7f9064df8b0237798c1c03eaa/856580.jpg?height=81",
+      "published_at": "2025-11-25T17:54:28.000Z",
+      "summary": "The appointments come days after Mayor-elect Zohran Mamdani drew considerable fire from the Jewish community for saying a synagogue promoting immigration to Israel should not encourage 'activities in violation of international law' on its premises"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Mediators said to meet in Cairo to discuss Gaza truce&#8217;s second phase",
+      "url": "https://www.timesofisrael.com/mediators-said-to-meet-in-cairo-to-discuss-gaza-truces-second-phase/",
+      "image": null,
+      "published_at": "2025-11-25T17:49:01.000Z",
+      "summary": "Egyptian media says Egyptian and Turkish intelligence chiefs met Qatari PM to address 'overcoming obstacles and limiting violations to ensure the ceasefire holds'\nThe post Mediators said to meet in Cairo to discuss Gaza truce&#8217;s second phase appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ex-wife of Dubai royal says she fears arrest as custody battle escalates",
+      "url": "https://www.bbc.com/news/articles/cj01j710rmmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8004/live/74cbb160-c9e7-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-25T17:40:57.000Z",
+      "summary": "Zeynab Javadli's ex-husband has lodged a criminal complaint with Dubai police, accusing her of kidnapping their three daughters."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Turkish authorities arrest three defence executives accused of spying",
+      "url": "https://www.aljazeera.com/news/2025/11/25/turkish-authorities-arrest-three-defence-executives-accused-of-spying?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-25T17:40:48.000Z",
+      "summary": "Defence executives accused of spying for foreign nations arrested in Turkiye with a fourth suspect reportedly abroad."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US imposes visa sanctions against Haitian official on governing council",
+      "url": "https://www.aljazeera.com/news/2025/11/25/us-imposes-visa-sanctions-against-haitian-official-on-governing-council?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-25T17:39:00.000Z",
+      "summary": "While the US government did not identify the official, economist Fritz Alphonse Jean told media he was the target."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
       "title": "חוסלו 5 מחבלים מ\"לכודי\" מנהרות רפיח: \"הלחץ נמשך\"",
       "url": "https://www.ynet.co.il/news/article/hkixovq11wg",
       "image": null,
       "published_at": "2025-11-25T17:37:29.000Z",
-      "summary": "יומיים לאחר שאמרו בצבא כי האספקה למחבלים הולכת ואוזלת, חוסלו חמישה מהם - אחרי שכנראה יצאו מתחת לאדמה ברפיח"
+      "summary": "יומיים לאחר שאמרו בצבא כי האספקה למחבלים הולכת ואוזלת, חוסלו חמישה מהם - אחרי שכנראה יצאו מתחת לאדמה ברפיח. עד כה נלכדו או חוסלו מעל הקרקע 22 מחבלים"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "'Wicked: For Good' has taken over theaters, but I found charm in a very different movie",
+      "url": "https://www.haaretz.com/life/film/2025-11-25/ty-article-magazine/.premium/wicked-for-good-has-taken-over-cinemas-but-i-found-charm-in-a-very-different-movie/0000019a-ba4b-db55-a7bb-ffdfa4490000",
+      "image": "https://img.haarets.co.il/bs/0000019a-ba64-d360-a5bb-bb7f4cad0001/d4/d1/29fea5f64b498598e2868891fd72/843673.jpg?height=81",
+      "published_at": "2025-11-25T17:33:49.000Z",
+      "summary": "While 'Wicked: For Good' dominates movie theaters, it lacks the charm of its predecessor. Meanwhile, 'Jay Kelly,' a delightful comedy-drama starring George Clooney and Adam Sandler, is a warm embrace"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -70,6 +150,16 @@
       "image": null,
       "published_at": "2025-11-25T17:12:47.000Z",
       "summary": "Displaced Palestinians say Hamas indifferent as 13,000 tents damaged, cesspits overflowing; UN says Israeli restrictions on shelter supplies hampering prep for coming winter \nThe post &#8216;Everything is soaked&#8217;: Rain floods Gaza tents, amid efforts to ramp up aid appeared first on The Times "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "LIVE: Chelsea vs Barcelona – UEFA Champions League",
+      "url": "https://www.aljazeera.com/sports/liveblog/2025/11/25/live-chelsea-vs-barcelona-champions-league?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-25T17:01:15.000Z",
+      "summary": "Follow our live updates, with full team news, in advance of our comprehensive text commentary stream of the UCL match."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -345,11 +435,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Coffin of deceased hostage crosses from Gaza into Israel, IDF says",
+      "title": "Israel's forensic medicine institute receives hostage's remains for identification, health ministry says",
       "url": "https://www.haaretz.com/israel-news/2025-11-25/ty-article/.premium/hostages-remains-on-way-to-israeli-forces-in-gaza-idf-says-citing-red-cross/0000019a-bb59-d360-a5bb-bb5b47c00000",
       "image": "https://img.haarets.co.il/bs/0000019a-bbc0-db2f-afdf-bff8130e0000/8e/8d/b637b0754880b3c0556faa1ae2a4/912571.jpg?height=81",
       "published_at": "2025-11-25T15:08:19.000Z",
-      "summary": "The IDF said it had received the remains of one of three possible hostages killed and kidnapped on October 7 – Ran Gvili, Dror Or or Thai citizen Sudthisak Rinthalak"
+      "summary": "Israel said it had received the remains of one of three possible hostages killed and kidnapped on October 7 – Ran Gvili, Dror Or or Thai citizen Sudthisak Rinthalak"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -822,16 +912,6 @@
       "summary": "UN report warns attacks, restrictions have driven occupied territory&#039;s economy into its worst contraction."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Daily Briefing Nov. 25: Day 781 &#8211; Thunderous response after PM hints at outlawing Arab party",
-      "url": "https://www.timesofisrael.com/daily-briefing-nov-25-day-781-thunderous-response-after-pm-hints-at-outlawing-arab-party/",
-      "image": null,
-      "published_at": "2025-11-25T12:09:30.000Z",
-      "summary": "Editor David Horovitz compares the yearlong ceasefire in Lebanon with the stagnant situation in the Gaza Strip, speaks about election-year machinations that could harm Israel's deterrence \nThe post Daily Briefing Nov. 25: Day 781 &#8211; Thunderous response after PM hints at outlawing Arab party app"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1042,16 +1122,6 @@
       "summary": "פרסום ראשון: היו\"ר לפיד העביר לבדיקת שב\"כ מסרים שנשלחו לאנשיו ממשתמש לא מוכר באפליקציית טלגרם: \"אנחנו קבוצה שמאלנית. תרוויח 4,000-1,000 שקל ליום\""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הציבור מאבד אמון במשטרה: \"לא עושה דבר למיגור הפשיעה\"",
-      "url": "https://www.ynet.co.il/news/article/yokra14590404",
-      "image": null,
-      "published_at": "2025-11-25T10:17:08.000Z",
-      "summary": "רציחות הפכו לעניין שבשגרה ברחבי הארץ, וחוסר הביטחון האישי מתבטא בנתוני המכון הישראלי לדמוקרטיה, שחושפים שבר גדול בין האזרחים למשטרה. עם יותר מ-230 נרצחים בחברה הערבית, פחות מחמישית מאנשי המגזר בוטחים בה, לעומת שליש מכלל החברה הישראלית. המשטרה: \"פועלים כל העת להעלאת אמון הציבור\""
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1090,36 +1160,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-b9f9-d824-ad9e-fbff8c480000/64/90/5b1bcbe94bb3a187ff3e05e63226/268062.jpg?height=81",
       "published_at": "2025-11-25T09:39:39.000Z",
       "summary": "Police officers handcuffed the man and took him to a police station, though he had committed no offense. He was released hours later without questioning. Police say he smelled of alcohol, and the officers' conduct will be examined"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Guinea-Bissau rivals Embalo, Dias claim win in presidential election",
-      "url": "https://www.aljazeera.com/news/2025/11/25/guinea-bissau-rivals-embalo-dias-claim-win-in-presidential-election?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-25T09:34:48.000Z",
-      "summary": "Conflicting claims come before the release of official results by the country&#039;s electoral commission."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Palestine Action cofounder to challenge group’s proscription in UK court",
-      "url": "https://www.aljazeera.com/news/2025/11/25/palestine-action-cofounder-to-challenge-groups-proscription-in-uk-court?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-25T09:09:20.000Z",
-      "summary": "Huda Ammori calls into question the pro-Palestine group’s ban under ‘antiterrorism’ laws."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "UK protesters aren’t giving up the fight to save Palestine Action",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/25/uk-protesters-arent-giving-up-the-fight-to-save-palestine-action?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-25T09:00:56.000Z",
-      "summary": "Protesters in the UK have been arrested for holding up signs that say ‘I oppose genocide, I support Palestine Action’."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1222,20 +1262,10 @@
       "summary": "A Knesset report from the Israel Women's Network shows a sharp rise in women killed by firearms, with more cases unsolved in Arab communities. 'The data should shock the country,' says one lawmaker. 'The government is neither taking emergency measures nor increasing budgets to combat violence agains"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Controversial US-backed Gaza Humanitarian Foundation ends aid operations",
-      "url": "https://www.bbc.com/news/articles/cj01jr13277o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f11/live/a0dcf2d0-c9df-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-11-25T03:21:27.000Z",
-      "summary": "Hundreds of Palestinians were killed while seeking food amid chaotic scenes near GHF's sites."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Turkey, Egypt, Qatar discuss second stage of Gaza cease-fire deal, source says",
+      "title": "IDF says it killed five Palestinian militants in Gaza's Rafah",
       "url": "https://www.haaretz.com/israel-news/2025-11-25/ty-article-live/islamic-jihad-says-it-found-body-of-deceased-hostage-in-israeli-controlled-area-of-gaza/0000019a-b8f5-dcd7-a3be-bafd86740000",
       "image": "https://img.haarets.co.il/bs/0000019a-bada-d360-a5bb-bbdb05960000/e9/dc/783884464f03959b2db869401b59/866620-2.jpg?height=81",
       "published_at": "2025-11-25T03:08:05.000Z",
@@ -1600,16 +1630,6 @@
       "image": null,
       "published_at": "2025-11-24T16:13:05.000Z",
       "summary": "It represents the first reduction in nearly two years, as a ceasefire in Gaza eased inflation and reduced geopolitical risk."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Prosecutors to indict suspect who attacked woman in alleged violent racist incident in West Bank",
-      "url": "https://www.jpost.com/israel-news/article-875036",
-      "image": null,
-      "published_at": "2025-11-24T15:55:05.000Z",
-      "summary": "Prosecutors move to indict a suspect in a racially motivated terror assault on an elderly woman near Turmus Aiya, seeking detention until trial ends."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2240,26 +2260,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-aaa4-d2a0-afdf-faafccb70000/2b/85/4c533a4c4b488957aed4179d5121/994850.jpg?height=81",
       "published_at": "2025-11-22T13:18:42.000Z",
       "summary": "Who would dare read a Hebrew book today on the subway in Rome, London or Paris?"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "An Israeli community thrives at the foot of the Italian Alps. But not all is perfect in paradise",
-      "url": "https://www.haaretz.com/israel-news/2025-11-22/ty-article-magazine/.highlight/an-israeli-community-thrives-at-the-foot-of-the-alps-but-not-all-is-perfect-in-paradise/0000019a-aa31-d2a0-afdf-fa3f508b0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-aa33-d83e-a19b-ff77bae20007/2f/d8/870c74ef4023b6c04152ec9bca4c/63804041.JPG?height=81",
-      "published_at": "2025-11-22T08:14:53.000Z",
-      "summary": "From the street to the classroom to their jobs, 50 Israeli families have integrated smoothly into life in northern Italy's spectacular Sesia Valley. So why don't they want you to read this article?"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Rep. Marjorie Taylor Greene resigns from office, after Trump's support withdrawal last week",
-      "url": "https://www.haaretz.com/us-news/2025-11-22/ty-article/marjorie-taylor-greene-resigns-from-office-after-trumps-support-withdrawal-last-week/0000019a-aa26-dd6e-a5fa-fbe6565d0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-aa3b-d67f-adbe-fefbbc7a0000/fb/7b/177535b84adca295a22e8a342d9f/872593.jpg?height=81",
-      "published_at": "2025-11-22T07:35:49.000Z",
-      "summary": "Last week, Trump withdrew his support for the Georgia Republican, accusing her of having 'turned sharply left.' Greene said Trump attacked her because of her support for 'Track AIPAC' and calls to release the Epstein files"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
