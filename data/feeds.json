@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-25T09:41:19.882Z",
+  "generated_at": "2025-11-25T10:11:29.963Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Senior local authority official detained at Ben-Gurion Airport amid Histadrut corruption probe",
+      "url": "https://www.jpost.com/israel-news/article-875123",
+      "image": null,
+      "published_at": "2025-11-25T12:00:04.000Z",
+      "summary": "Per reports, the official, whose identity has not been publicly disclosed, is suspected of election-bribery, fraud, and breach of trust."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -32,10 +42,70 @@
       "summary": "The collapse marks a potentially dangerous security breach from the West Bank. "
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Russia and Ukraine trade deadly strikes as US and Moscow hold talks",
+      "url": "https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d8/live/ca6078f0-c9e1-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-11-25T10:07:08.000Z",
+      "summary": "Officals say at least nine people have been killed ahead of US-Russia talks in Abu Dhabi."
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הג'יהאד האסלאמי טרם העביר את החלל שאותר: \"זו מריחת זמן כי אין סנקציות\"",
+      "title": "הסוכן הישראלי שחשוד בחטיפת הילדים הגרמנים נשבר והודה: \"האמא שילמה\"",
+      "url": "https://www.ynet.co.il/news/article/r1w2hag11bl",
+      "image": null,
+      "published_at": "2025-11-25T10:02:10.000Z",
+      "summary": "דוד ברקאי, שככל הנראה השיג הסדר טיעון, האשים בעדותו את יורשת המיליונים כריסטינה בלוק בהזמנת חטיפת ילדיה מבעלה: \"שילמה לנו 220,000 אירו\". כך דיווחה התקשורת בגרמניה, היא סירבה להשיב לטענות. עו\"ד המייצג שני נאשמים בפרשה ל-ynet: \"ברקאי הוביל אותם בכחש, חשבו שזה חוקי וידוע לרשויות\""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Footage shows Palestine Action member allegedly fracturing UK cop&#8217;s spine with sledgehammer",
+      "url": "https://www.timesofisrael.com/footage-shows-palestine-action-member-allegedly-fracturing-uk-cops-spine-with-sledgehammer/",
+      "image": null,
+      "published_at": "2025-11-25T09:47:17.000Z",
+      "summary": "Court shown bodycam video from 2024 Elbit break-in in Bristol; Sgt. Kate Evans says she was left unable to work, drive or dress herself after member of proscribed anti-Israel group hit her\nThe post Footage shows Palestine Action member allegedly fracturing UK cop&#8217;s spine with sledgehammer appe"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "קטע מגדר ההפרדה קרס בגשם. גורם במשטרה: \"זה קרה בגלל רשלנות של צה\"ל\"",
+      "url": "https://www.ynet.co.il/news/article/r1aa31xzze",
+      "image": null,
+      "published_at": "2025-11-25T09:47:14.000Z",
+      "summary": "מזג האוויר פגע במקטע של חומת הבטון המפרידה בין יישובי לכיש לבין יהודה ושומרון. במשטרה טוענים: \"הצבא לא פתח או תחזק את מערכת הניקוז מתחתיה\""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Man violently arrested while standing before right-wing protesters in Tel Aviv",
+      "url": "https://www.haaretz.com/israel-news/2025-11-25/ty-article/.premium/man-violently-arrested-while-standing-before-right-wing-protesters-in-tel-aviv/0000019a-b9f7-db2f-afdf-bfffdc750000",
+      "image": "https://img.haarets.co.il/bs/0000019a-b9f9-d824-ad9e-fbff8c480000/64/90/5b1bcbe94bb3a187ff3e05e63226/268062.jpg?height=81",
+      "published_at": "2025-11-25T09:39:39.000Z",
+      "summary": "Police officers handcuffed the man and took him to a police station, though he had committed no offense. He was released hours later without questioning. Police say he smelled of alcohol, and the officers' conduct will be examined"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Guinea-Bissau rivals Embalo, Dias claim win in presidential election",
+      "url": "https://www.aljazeera.com/news/2025/11/25/guinea-bissau-rivals-embalo-dias-claim-win-in-presidential-election?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-25T09:34:48.000Z",
+      "summary": "Conflicting claims come before the release of official results by the country&#039;s electoral commission."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הג'יהאד האיסלאמי טרם העביר את החלל שאותר: \"זו מריחת זמן כי אין סנקציות\"",
       "url": "https://www.ynet.co.il/news/article/hkyewk7bzg",
       "image": null,
       "published_at": "2025-11-25T09:17:31.000Z",
@@ -79,7 +149,7 @@
       "url": "https://www.ynet.co.il/news/article/rk9wrjmzzl",
       "image": null,
       "published_at": "2025-11-25T09:08:37.000Z",
-      "summary": "מספר הנרצחות ב-2025 זהה לזה שהיה בכל 2024, אך הגופים הממלכתיים האמונים על כך לא מעוניינים להשתתף בדיון בוועדה לקידום מעמד האישה. התירוץ של שב\"ס: סיור של השדולה למען האישה הדתית והחרדית ביחידת משגב. בן גביר טען שהסיבה היא חרם על ח\"כ מירב בן ארי, אלא שבראש הוועדה עומדת ח\"כ מירב כהן"
+      "summary": "44 נשים נרצחו ב-2025, אך הגופים הממלכתיים האמונים על כך נעדרו מהדיון בוועדה לקידום מעמד האישה. התירוץ של שב\"ס: סיור של השדולה למען האישה הדתית והחרדית. בן גביר טען שהסיבה היא חרם על ח\"כ מירב בן ארי, אלא שבראש הוועדה עומדת ח\"כ מירב כהן"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -120,16 +190,6 @@
       "image": null,
       "published_at": "2025-11-25T08:53:48.000Z",
       "summary": "The water was over a meter high in places, according to the Israel Fire and Rescue Authority. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Russia and Ukraine trade deadly strikes as US and Moscow hold talks",
-      "url": "https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c56/live/82a60550-c9d9-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-25T08:39:29.000Z",
-      "summary": "Officals say at least nine people have been killed ahead of US-Russia talks in Abu Dhabi."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -299,7 +359,7 @@
       "url": "https://www.ynet.co.il/news/article/hy2yy0f11zx",
       "image": null,
       "published_at": "2025-11-25T07:27:32.000Z",
-      "summary": "מרום גולן, חייל בשירות סדיר, נפגע אתמול מרכב במועצה אזורית חוף אשקלון ונהרג במקום"
+      "summary": "מרום גולן בן ה-19, חייל בשירות סדיר, נפגע אתמול מרכב במועצה אזורית חוף אשקלון ונהרג במקום"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -915,7 +975,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "אמון הציבור במשטרה נמצא בקריסה: \"היא לא עושה דבר למיגור הפשיעה\"",
+      "title": "הציבור מאבד אמון במשטרה: \"היא לא עושה דבר למיגור הפשיעה\"",
       "url": "https://www.ynet.co.il/news/article/yokra14590404",
       "image": null,
       "published_at": "2025-11-24T22:00:00.000Z",
@@ -960,16 +1020,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-b672-db55-a7bb-fff67bb90000/9d/ac/0551f7604c55a926dce0d02911f7/902050.jpg?height=81",
       "published_at": "2025-11-24T21:51:57.000Z",
       "summary": ""
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Likud to hold first national conference in almost 14 years to elect Central Committee",
-      "url": "https://www.timesofisrael.com/likud-to-hold-first-national-conference-in-almost-14-years-to-elect-central-committee/",
-      "image": null,
-      "published_at": "2025-11-24T21:50:50.000Z",
-      "summary": "Ruling party's powerful organ picks many of its candidates for Knesset elections, as well as members of high-level Secretariat; votes to be held due to intense internal pressure\nThe post Likud to hold first national conference in almost 14 years to elect Central Committee appeared first on The Times"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1032,26 +1082,6 @@
       "summary": ""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "התקיפה מתקרבת? ארה\"ב מגדירה את \"הקרטל של נשיא ונצואלה\" כארגון טרור",
-      "url": "https://www.ynet.co.il/news/article/hk009lvmzzl",
-      "image": null,
-      "published_at": "2025-11-24T21:02:40.000Z",
-      "summary": "ארה\"ב מגדירה את קרטל \"דה לוס סולס\" - שבראשו עומד לטענתה ניקולס מדורו - כארגון טרור. ונצואלה חוששת שמטרת הצעד היא להצדיק פעולה צבאית בשטחה ולהביא להפלת השלטון, ומתעקשת שהקרטל כלל לא קיים. ברקע: מבצע התקיפות נגד \"סירות הסמים\" ותגבור הכוחות האמריקניים בקריביים, והדיווחים על \"פעולות חשאיות\" בוונצואלה שע"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "שני שרים, שמונה תיקים: ה\"פיקדון\" של כץ ולוין - והמשך המעורבות של ש\"ס",
-      "url": "https://www.ynet.co.il/news/article/hk11doezbbe",
-      "image": null,
-      "published_at": "2025-11-24T20:56:56.000Z",
-      "summary": "על רקע החשש כי אנשי המפלגה יפוטרו מהמשרדים, יו\"ר ש\"ס דרעי נעתר לאשר את מינוי יריב לוין וחיים כץ לתפקידים שעזבו החרדים - בצל הלחץ להציג חוק גיוס שיהווה \"גשר\" לחזרתם לקואליציה. כך החרדים ימשיכו לשלוט בפועל במשרדים"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1090,16 +1120,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-b77f-d360-a5bb-b77f74dc0000/33/a3/077185ae46a79f9c30ef54c1f98f/869940.jpg?height=81",
       "published_at": "2025-11-24T20:14:56.000Z",
       "summary": "Despite the political differences between New York Mayor-elect Zohran Mamdani and Rep. Marjorie Taylor Greene, their recent appearances in Washington underscore that Israel is no longer a traditional right–left fault line"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "RSF announces unilateral three-month ‘humanitarian truce’ in Sudan",
-      "url": "https://www.aljazeera.com/news/2025/11/24/rsf-announces-unilateral-three-month-humanitarian-truce-in-sudan?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-24T20:04:43.000Z",
-      "summary": "Statement comes hours after warring Sudanese Armed Forces leader al-Burhan rejected ceasefire proposal as biased."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1335,11 +1355,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "'We will not become executioners for the state': Israeli doctors refuse role in terrorists' death penalty",
+      "title": "'We will not become executioners on behalf of the state': Israeli doctors refuse role in death penalty for terrorists",
       "url": "https://www.haaretz.com/israel-news/2025-11-24/ty-article/.premium/we-will-not-be-executioners-israeli-doctors-refuse-to-take-part-in-death-penalty/0000019a-b649-d360-a5bb-b75bc8660000",
-      "image": "https://img.haarets.co.il/bs/0000019a-b64d-db55-a7bb-ffdde00a0007/ad/01/70d9175648398f0c0594b4e38f12/846001.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019a-6e5a-d218-a5be-7eff3ce30000/8f/96/5c3982ff4bbbaec6c5f8ed412614/750885.jpg?height=81",
       "published_at": "2025-11-24T15:18:24.000Z",
-      "summary": "The latest amendment to the death penalty bill for terrorists requires executions by lethal injection, drawing doctors into the process. The Israel Medical Association issued a sharply worded objection, though experts disagree on how far physicians must avoid involvement"
+      "summary": "The latest amendment to the far-right death penalty bill for terrorists requires executions by lethal injection, involving doctors in the process. The Israel Medical Association issued an unprecedented objection in line with the accepted universal position, though experts disagree on the extent to w"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1540,16 +1560,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-b4bc-d7d6-ab9f-fdfc902a0001/37/42/a243340e442b9335913bcd04ec3a/328041-3.jpg?height=81",
       "published_at": "2025-11-24T09:05:19.000Z",
       "summary": "The arson attack on a Melbourne synagogue in July, which occurred alongside other attacks on Jewish and Israeli establishments over the same weekend, was broadly considered antisemitic and denounced by officials in Israel and Australia"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel Katz demands comptroller review IDF chief's October 7 report findings",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-874980",
-      "image": null,
-      "published_at": "2025-11-24T08:50:38.000Z",
-      "summary": "The comptroller will also revisit any inquiries the committee marked as incomplete or insufficient and advise on whether further fact-finding is required."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2230,16 +2240,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-a612-dd6e-a5fa-fff6580a0001/d5/4d/cea6279f4707b0e9c023d7337b98/058487.jpg?height=81",
       "published_at": "2025-11-21T11:06:59.000Z",
       "summary": "Feirberg served in various positions in the Netanya municipality since the 1970s. In 1998, she was elected mayor and remained in office until her death, serving five consecutive terms"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Settlers vandalize, torch Palestinian property in West Bank overnight, sources say",
-      "url": "https://www.haaretz.com/israel-news/2025-11-21/ty-article/.premium/settlers-vandalized-torched-palestinian-property-in-west-bank-overnight-sources-say/0000019a-a5db-d67f-adbe-ffdbee800000",
-      "image": "https://img.haarets.co.il/bs/0000019a-a5dd-d67f-adbe-ffdf80e30007/0a/f4/20ab4be04a35bb4d18e8060e474c/whatsapp-image-2025-11-21-at-09-25-49.jpeg?height=81",
-      "published_at": "2025-11-21T10:23:01.000Z",
-      "summary": "Palestinian sources also reported that settlers beat an 85-year-old man in Wadi Rahim in the South Hebron Hills, near the settlement of Susiya"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
