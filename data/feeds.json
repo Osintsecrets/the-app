@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-26T22:08:53.360Z",
+  "generated_at": "2025-11-26T22:38:35.717Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "WATCH: Hackers hijack digital bus stop screens in several Israeli cities, play Arabic audio",
+      "url": "https://www.jpost.com/israel-news/article-876347",
+      "image": null,
+      "published_at": "2025-11-27T00:18:17.000Z",
+      "summary": "Transportation Ministry says it is examining the source of the malfunction, as clips from Ashdod and Ramat Gan show siren-like sounds and Arabic music."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,66 @@
       "image": null,
       "published_at": "2025-11-26T23:39:10.000Z",
       "summary": "The soldiers opened fire on the terrorist, killing him."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ארה\"ב: 2 חיילי המשמר הלאומי נורו ליד הבית הלבן, עוצר הוטל על מעון הנשיא",
+      "url": "https://www.ynet.co.il/news/article/r10mj0vb11l",
+      "image": null,
+      "published_at": "2025-11-26T22:18:33.000Z",
+      "summary": "החיילים נפגעו בקרב יריות עם חשוד ליד המטרו, מושל מערב וירג'יניה דיווח שמתו - אך ראש ה-FBI הכחיש: \"מצבם קשה\". היורה נעצר, המניע לא ידוע. טראמפ היה בזמן האירוע בפלורידה ועודכן, אחר כך כתב: \"היורה חיה וישלם מחיר כבד\". עדת ראייה: \"שמעתי שני פיצוצים, אנשי השירות החשאי רדפו אחרי גבר בקפוצ'ון\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ההסכם במבוי סתום: הקטר האמריקני מאבד סבלנות, מחלוקת בצמרת על מעבר לשלב ב'",
+      "url": "https://www.ynet.co.il/news/article/hj7zvinbzg",
+      "image": null,
+      "published_at": "2025-11-26T22:16:05.000Z",
+      "summary": "ארה\"ב לוחצת על ישראל להמשיך לשלב הבא של העסקה, אך בי-ם מתעקשים על השבת שני החטופים שנותרו בעזה כתנאי להמשך: \"החיפושים על אש קטנה, הם יכולים להתאמץ יותר\". בינתיים, האמריקנים מתקשים לגייס מדינות מוסלמיות וערביות לכוח הייצוב - והקמת המנגנון תקועה. המרוויחות: טורקיה וקטאר"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "At least 44 dead and hundreds missing after fire engulfs Hong Kong tower blocks",
+      "url": "https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-11-26T22:14:20.000Z",
+      "summary": "Firefighters are struggling to put out the flames and say they are unsure when the blaze will be fully contained."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'I am devastated': Hong Kong residents in disbelief after fire destroys blocks of flats",
+      "url": "https://www.bbc.com/news/articles/cvgjnlx1g6yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57a5/live/b7641ed0-caec-11f0-8c06-f5d460985095.png",
+      "published_at": "2025-11-26T22:12:59.000Z",
+      "summary": "Efforts to control the blaze are continuing as locals wait for news of missing loved ones."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "What we know about the Hong Kong apartment fires",
+      "url": "https://www.bbc.com/news/articles/cdxe9r7wjgro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8162/live/0fcf8f90-caf3-11f0-84e9-a9bb2f1691c9.jpg",
+      "published_at": "2025-11-26T22:12:20.000Z",
+      "summary": "The death toll continues to rise and hundreds are missing, as firefighters struggle to put out the fire."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "יחסי ישראל-ארה\"ב: חסות או עצמאות",
+      "url": "https://www.ynet.co.il/news/article/yokra14592893",
+      "image": null,
+      "published_at": "2025-11-26T22:04:00.000Z",
+      "summary": "מי שקצת מבין ביחסים בינלאומיים, מבין כמה שטחיים הטיעונים על כך שישראל כפופה לגמרי לידידה הגדולה אמריקה"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -30,6 +100,16 @@
       "image": null,
       "published_at": "2025-11-26T22:01:26.000Z",
       "summary": "Strock reserved some of her sharpest criticism for the PA security forces, which Western governments – including the US – have long supported as a stabilizing partner."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Despite differences, Israel's opposition must work together to replace Netanyahu",
+      "url": "https://www.haaretz.com/opinion/2025-11-26/ty-article-opinion/.premium/despite-differences-israels-opposition-must-work-together-to-replace-netanyahu/0000019a-c138-db55-a7bb-edfca9e40000",
+      "image": "https://img.haarets.co.il/bs/0000019a-c199-db55-a7bb-eddd01510001/29/58/453af467491b9dbad83eed35645b/61090232.JPG?height=81",
+      "published_at": "2025-11-26T21:55:05.000Z",
+      "summary": "As the government works to erode state institutions, the opposition must recognize the pattern, link these assaults across arenas and confront a campaign designed to evade accountability for October 7"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -92,16 +172,6 @@
       "summary": "Beinart, an outspoken Jewish voice for Palestinian rights, had previously defended his decision to speak at the event, emphasizing the importance of engaging with Israelis"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "What we know about the Hong Kong apartment fires",
-      "url": "https://www.bbc.com/news/articles/cdxe9r7wjgro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8162/live/0fcf8f90-caf3-11f0-84e9-a9bb2f1691c9.jpg",
-      "published_at": "2025-11-26T21:27:51.000Z",
-      "summary": "The death toll continues to rise and hundreds are missing, as firefighters struggle to put out the fire."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -120,16 +190,6 @@
       "image": null,
       "published_at": "2025-11-26T21:07:38.000Z",
       "summary": "במשרד התחבורה בוחנים את מקור התקלה החריגה, שנגרמה ככל הנראה כתוצאה ממתקפת סייבר על תחנות תחבורה ציבורית במספר ערים. צפו בתיעודים מאשדוד ומרמת גן"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "At least 36 dead and hundreds missing after fire engulfs Hong Kong tower blocks",
-      "url": "https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-11-26T21:03:23.000Z",
-      "summary": "Firefighters are struggling to put out the flames and say they are unsure when the blaze will be fully contained."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -312,16 +372,6 @@
       "summary": "Donor's father was transported to Treblinka in same type of railcar, was among death camp's fewer than 100 survivors; museum, opening 2026, will be first of its kind in New England\nThe post Boxcar of same type used by Nazis to herd Jews installed at new Boston Holocaust museum appeared first on The "
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ההסכם במבוי סתום: הקטר האמריקני מאבד סבלנות, מחלוקת בצמרת על מעבר לשלב ב'",
-      "url": "https://www.ynet.co.il/news/article/hj7zvinbzg",
-      "image": null,
-      "published_at": "2025-11-26T20:02:15.000Z",
-      "summary": "ארה\"ב לוחצת על ישראל להמשיך לשלב הבא של העסקה, אך בי-ם מתעקשים על השבת שני החטופים שנותרו בעזה כתנאי להמשך: \"החיפושים על אש קטנה, הם יכולים להתאמץ יותר\". בינתיים, האמריקנים מתקשים לגייס מדינות מוסלמיות וערביות לכוח הייצוב - והקמת המנגנון תקועה. המרוויחות: טורקיה וקטאר"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -330,16 +380,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62f2/live/8831fae0-cadf-11f0-9fb5-5f3a3703a365.jpg",
       "published_at": "2025-11-26T20:00:57.000Z",
       "summary": "The military takeover comes as the West African nation was awaiting the results of Sunday's election."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ארה\"ב: 2 חיילי המשמר הלאומי נורו ליד הבית הלבן, עוצר הוטל על מעון הנשיא",
-      "url": "https://www.ynet.co.il/news/article/r10mj0vb11l",
-      "image": null,
-      "published_at": "2025-11-26T20:00:13.000Z",
-      "summary": "החיילים נפגעו בקרב יריות עם חשוד ליד המטרו, מושל מערב וירג'יניה דיווח שמתו - אך ראש ה-FBI הכחיש: \"מצבם קשה\". היורה נעצר, המניע לא ידוע. טראמפ היה בזמן האירוע בפלורידה ועודכן, אחר כך כתב: \"היורה חיה וישלם מחיר כבד\". עדת ראייה: \"שמעתי שני פיצוצים, אנשי השירות החשאי רדפו אחרי גבר בקפוצ'ון\""
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -460,16 +500,6 @@
       "image": null,
       "published_at": "2025-11-26T19:17:28.000Z",
       "summary": "Opposition MK who proposed legislation says coalition 'turned its back' on freed hostages, one of whom decries lack of support after returning from Hamas captivity\nThe post Coalition blocks bill for immediate funds for released hostages, bereaved families appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "'I am devastated': Hong Kong residents in disbelief after fire destroys blocks of flats",
-      "url": "https://www.bbc.com/news/articles/cvgjnlx1g6yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57a5/live/b7641ed0-caec-11f0-8c06-f5d460985095.png",
-      "published_at": "2025-11-26T19:12:58.000Z",
-      "summary": "Efforts to control the blaze are continuing as locals wait for news of missing loved ones."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -725,7 +755,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Arsenal vs Bayern Munich 3-1 – UEFA Champions League",
+      "title": "LIVE: Arsenal vs Bayern Munich – UEFA Champions League",
       "url": "https://www.aljazeera.com/sports/liveblog/2025/11/26/live-arsenal-vs-bayern-munich-uefa-champions-league?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-26T17:01:17.000Z",
@@ -1192,16 +1222,6 @@
       "summary": "Dror Or, from Kibbutz Be'eri, set out to transform his kibbutz's dairy industry, traveling to Europe to refine his craft. 'He was one of those Israelis we love to love, the kind the country is so desperately missing,' says Dafi Cramer, a culinary tour guide in the Gaza-border region"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "סוכנות ההגירה עצרה קרובת משפחה של דוברת הבית הלבן: \"היא תגורש מארה\"ב\"",
-      "url": "https://www.ynet.co.il/news/article/hjry0dnzwg",
-      "image": null,
-      "published_at": "2025-11-26T12:37:18.000Z",
-      "summary": "ממשל טראמפ נאבק במהגרים לא חוקיים ועצר את אם האחיין של דוברת הבית הלבן. גיסתה לשעבר של לוויט הגיעה מברזיל, ובגלל המדיניות של טראמפ איבדה את המעמד שהקנה לה חסינות מגירוש. לפי המשרד לביטחון המולדת היא תגורש"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1660,16 +1680,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-bcd1-dcd7-a3be-bef9ff3f0001/47/f1/7a26ac60494bb61d2320a3eae6b1/tip-of-the-spear.PNG?height=81",
       "published_at": "2025-11-25T21:47:13.000Z",
       "summary": "Rabbi Elliot Cosgrove labeled Mamdani's response to the anti-Israel protest as 'victim blaming' and warned of the growing influence of the Democratic Socialists of America, calling Mamdani's win 'the tip of the spear'"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel’s curling team aims for historic playoff spot at European Championships",
-      "url": "https://www.jpost.com/israel-news/sports/article-875200",
-      "image": null,
-      "published_at": "2025-11-25T21:27:23.000Z",
-      "summary": "The privilege of representing Israel on the international stage, especially during such a challenging period, is a great responsibility and a source of pride. We are fighting for our country."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2340,16 +2350,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-b518-d7d6-ab9f-fdd8acfb0000/0b/1f/76a8336844239a6fcc9c85746108/813489-2.jpg?height=81",
       "published_at": "2025-11-24T11:29:56.000Z",
       "summary": "The High Court rejected the appeal of residents of the unrecognized village of Ras Jrabah, ordering them off land they have lived on since before Israel's founding to make way for Dimona's expansion. The court also denied their request to relocate into the city, backing the state's position that Bed"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Gaza's 'day after' talks stalled as death toll mounts",
-      "url": "https://www.haaretz.com/gaza/2025-11-24/ty-article/.premium/discussion-on-gazas-future-stalled-as-its-death-toll-again-rises/0000019a-b498-dd6e-a5fa-fffc399b0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-b499-d2a0-afdf-f4bf66eb0001/5f/ab/3842ad54453e87cdb1e070416857/891053.jpg?height=81",
-      "published_at": "2025-11-24T11:02:05.000Z",
-      "summary": "Arab and Palestinian sources say political disagreements are blocking a multinational force, with no country willing to confront Hamas directly. A senior PA official said the authority remains largely sidelined from discussions over Gaza's governance and security"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
