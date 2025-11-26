@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-26T20:10:08.944Z",
+  "generated_at": "2025-11-26T20:36:32.132Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -20,6 +20,66 @@
       "image": null,
       "published_at": "2025-11-26T21:02:15.000Z",
       "summary": "A new directive would restrict IDF-issued devices to iPhones for lieutenant colonels, reducing the risk of intrusions for senior officers."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Georgia judge dismisses 2020 election interference case against Trump",
+      "url": "https://www.bbc.com/news/articles/czxpd8pv4gyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a257/live/ce7469f0-cae6-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-11-26T20:35:59.000Z",
+      "summary": "The state charges were the last remaining criminal case against the US president stemming from the 2020 election. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "רצח רודף רצח: בן 15 נורה למוות בצפון",
+      "url": "https://www.ynet.co.il/news/article/skt4yjhwze",
+      "image": null,
+      "published_at": "2025-11-26T20:17:22.000Z",
+      "summary": "לביב אשרף ספיה נרצח בכפר יאסיף, לפי עדויות הוא לא היה היעד - ונפגע מירי בזירה. המשטרה: \"הרקע פלילי, הנסיבות בבדיקה\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Peruvian ex-President Martin Vizcarra sentenced to 14 years in prison",
+      "url": "https://www.aljazeera.com/news/2025/11/26/peruvian-ex-president-martin-vizcarra-sentenced-to-14-years-in-prison?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-26T20:11:10.000Z",
+      "summary": "Vizcarra, a leader in the Peru First party, was found guilty of leading a corruption scheme when he was a governor."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "The visionary Palestinian peace plan for Israel and Gaza that you've never heard of",
+      "url": "https://www.haaretz.com/middle-east-news/palestinians/2025-11-26/ty-article/.premium/the-visionary-palestinian-peace-plan-for-israel-and-gaza-that-youve-never-heard-of/0000019a-c18d-db2f-afdf-f7bdaa2f0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-c1a9-d360-a5bb-f1bbef160001/de/fe/4aa221434b71859862f8760ab0c5/894540.jpg?height=81",
+      "published_at": "2025-11-26T20:06:21.000Z",
+      "summary": "A 51-page document by a group of Palestinian scholars and policy thinkers offers a much clearer path to Middle East peace than the UN resolution or Trump's 20-point plan"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "IDF chief: Israel needs bold leadership that recognizes failure, doesn’t ‘frighten, evade’",
+      "url": "https://www.timesofisrael.com/idf-chief-israel-needs-bold-leadership-that-recognizes-failure-doesnt-frighten-evade/",
+      "image": null,
+      "published_at": "2025-11-26T20:05:29.000Z",
+      "summary": "Remarks, read as thinly veiled critique of government, come amid public spat with Defense Minister Israel Katz over the latter's selective promotions of senior IDF officers\nThe post IDF chief: Israel needs bold leadership that recognizes failure, doesn’t ‘frighten, evade’ appeared first on The Times"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Boxcar of same type used by Nazis to herd Jews installed at new Boston Holocaust museum",
+      "url": "https://www.timesofisrael.com/boxcar-of-same-type-used-by-nazis-to-herd-jews-installed-at-new-boston-holocaust-museum/",
+      "image": null,
+      "published_at": "2025-11-26T20:03:54.000Z",
+      "summary": "Donor's father was transported to Treblinka in same type of railcar, was among death camp's fewer than 100 survivors; museum, opening 2026, will be first of its kind in New England\nThe post Boxcar of same type used by Nazis to herd Jews installed at new Boston Holocaust museum appeared first on The "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -49,7 +109,17 @@
       "url": "https://www.ynet.co.il/news/article/r10mj0vb11l",
       "image": null,
       "published_at": "2025-11-26T20:00:13.000Z",
-      "summary": "לפי התקשורת האמריקנית חשוד נעצר בזירה ולא נשקפת עוד סכנה, שני החיילים נפגעו אך מצבם אינו ידוע. הממשל מסר: טראמפ עודכן, אוספים פרטים על האירוע"
+      "summary": "מצבם של שני הפצועים מוגדר קשה, חשוד נעצר בזירת האירוע. טראמפ היה בזמן התקרית בפלורידה וקיבל עדכון על המתרחש. הממשל: עדיין אוספים פרטים"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "India ‘examining’ Bangladesh extradition request for convicted ex-PM Hasina",
+      "url": "https://www.aljazeera.com/news/2025/11/26/india-examining-bangladesh-extradition-request-for-convicted-ex-pm-hasina?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-26T19:55:43.000Z",
+      "summary": "Indian officials say they are examining Dhaka&#039;s latest request, made after Hasina was sentenced to death in absentia."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -190,16 +260,6 @@
       "image": null,
       "published_at": "2025-11-26T18:57:34.000Z",
       "summary": "Syrian government security deployments helped avoid sectarian violence, unlike previous incidents this year. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Georgia judge dismisses 2020 election interference case against Trump",
-      "url": "https://www.bbc.com/news/articles/czxpd8pv4gyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a257/live/ce7469f0-cae6-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-11-26T18:45:09.000Z",
-      "summary": "The state charges were the last remaining criminal case against the US president stemming from the 2020 election. "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -852,16 +912,6 @@
       "summary": "עלמה ונעם לא ידעו על רצח הוריהם עד ששוחררו מהשבי ב-25 בנובמבר 2023. שנתיים חלפו, ובאותו התאריך הושב אביהם לקבורה בישראל: \"זה סמלי\". אחיו אלעד סיפר ל-ynet: \"עד היום היינו עדיין ב-7/10. עכשיו יש לי הזדמנות להיפרד. הילדים חיכו לזה\". זה סיפורה של משפחת אור - וסגירת המעגל של קיבוץ בארי"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "VAT exemption on personal imports to rise from $75 to $150",
-      "url": "https://www.timesofisrael.com/vat-exemption-on-personal-imports-to-rise-from-75-to-150/",
-      "image": null,
-      "published_at": "2025-11-26T13:56:34.000Z",
-      "summary": "Treasury says aim of Smotrich's move is to reduce cost of living, remove power from alleged monopolies that keep consumer prices higher than most of Europe; public has 21 days to comment\nThe post VAT exemption on personal imports to rise from $75 to $150 appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -870,16 +920,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2553/live/9bb9a500-ca98-11f0-a892-01d657345866.jpg",
       "published_at": "2025-11-26T13:56:14.000Z",
       "summary": "Nigerian officials dispute reports that some 250 children remain missing after another mass school kidnap."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "IDF swerves away from Chinese cars, driven by worries of spies lurking in everyday tech",
-      "url": "https://www.timesofisrael.com/idf-swerves-away-from-chinese-cars-driven-by-worries-of-spies-lurking-in-everyday-tech/",
-      "image": null,
-      "published_at": "2025-11-26T13:55:45.000Z",
-      "summary": "Army bans China-made autos from bases and reportedly recalls electric vehicles leased to senior officers, which experts warn are a nearly 'perfect platform' for espionage\nThe post IDF swerves away from Chinese cars, driven by worries of spies lurking in everyday tech appeared first on The Times of I"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1042,16 +1082,6 @@
       "summary": "ממשל טראמפ נאבק במהגרים לא חוקיים ועצר את אם האחיין של דוברת הבית הלבן. גיסתה לשעבר של לוויט הגיעה מברזיל, ובגלל המדיניות של טראמפ איבדה את המעמד שהקנה לה חסינות מגירוש. לפי המשרד לביטחון המולדת היא תגורש"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israel’s systematic campaign to expel West Bank Palestinians",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/israels-systematic-campaign-to-expel-west-bank-palestinians?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-26T12:25:41.000Z",
-      "summary": "The UN has documented nearly 3,000 settler attacks across the occupied West Bank since October 2023."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1060,16 +1090,6 @@
       "image": null,
       "published_at": "2025-11-26T12:12:37.000Z",
       "summary": "9 אנשי צוות ו-11 לוחמי צנחנים במילואים נספו באסון טייסת 131 בסיני. אודי גזית, שלמזלו הוחלף לפני ההמראה, סיפר לאולפן ynet: \"הרגשתי שירו בי סכין ללב\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Major fire puts Hong Kong on highest alert as firefighters tackle blaze",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/26/major-fire-puts-hong-kong-on-highest-alert-as-firefighters-tackle-blaze?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-26T12:04:38.000Z",
-      "summary": "Firefighters are trying to tackle a major fire that has engulfed a residential tower complex, killing several people."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1155,7 +1175,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Prosecution challenges Netanyahu’s Account of Walla’s importance in Case 4000",
+      "title": "Prosecution challenges Netanyahu’s account of Walla’s importance in Case 4000",
       "url": "https://www.jpost.com/israel-news/benjamin-netanyahu/article-876243",
       "image": null,
       "published_at": "2025-11-26T11:01:29.000Z",
@@ -1190,16 +1210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a2/live/5d76f740-cabe-11f0-8c06-f5d460985095.jpg",
       "published_at": "2025-11-26T10:25:06.000Z",
       "summary": "The US president said he had not heard the audio, but that it sounded like \"standard\" negotiations."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"תחמיאו לטראמפ על ההסכם בעזה\": העצות של וויטקוף לעוזר של פוטין",
-      "url": "https://www.ynet.co.il/news/article/b17wth4bbl",
-      "image": null,
-      "published_at": "2025-11-26T10:24:51.000Z",
-      "summary": "על רקע ההתקדמות במגעים לסיום המלחמה, וביקורו הקרוב של וויטקוף ברוסיה, נחשפה ב\"בלומברג\" שיחה בין השליח המיוחד של טראמפ ליועצו הבכיר של פוטין. בשיחה המליץ וויטקוף כיצד צריך פוטין לדבר עם טראמפ במטרה לקדם הסכם. הוא ייעץ להחמיא לו על סיום המלחמה בעזה, לתאר את האווירה במו\"מ כאופטימית ולהציע לחבר תוכנית ש"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2349,16 +2359,6 @@
       "url": "https://www.haaretz.com/opinion/2025-11-23/ty-article-opinion/.premium/israel-needs-leaders-who-wont-join-a-government-that-boycotts-arab-parties/0000019a-b200-d7d6-ab9f-ffd8fc110000",
       "image": "https://img.haarets.co.il/bs/00000198-3c40-d5d4-a9fd-7e67573f0000/c1/66/4b1970d14e4ab9ff431792749488/628223.jpg?height=81",
       "published_at": "2025-11-23T21:53:47.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Polls apart: Israeli exclusion of Arab parties has become a compulsive disorder",
-      "url": "https://www.haaretz.com/opinion/2025-11-23/ty-article-opinion/.premium/polls-apart-israeli-exclusion-of-arab-parties-has-become-a-compulsive-disorder/0000019a-b200-d2a0-afdf-f22fd7820000",
-      "image": "https://img.haarets.co.il/bs/00000198-0531-db31-a79a-45bbec8a0000/b7/b1/0a92aa544ded8c13898e8f5f64a4/027043.jpg?height=81",
-      "published_at": "2025-11-23T21:50:52.000Z",
       "summary": ""
     },
     {
