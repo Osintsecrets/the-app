@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-27T22:08:43.116Z",
+  "generated_at": "2025-11-27T22:38:23.919Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -42,6 +42,36 @@
       "summary": "Community representatives met with relatives of hostages and with bereaved families, toured war-affected areas, and discussed plans to increase aliyah while confronting antisemitism."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Putin doubles down on demands for Ukrainian territory ahead of talks with US in Moscow",
+      "url": "https://www.bbc.com/news/articles/cp84nl57v0lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c52/live/ba403110-cbba-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-11-27T22:18:56.000Z",
+      "summary": "The Russian president accuses Kyiv of wanting to fight \"to the last Ukrainian\" - which he says Russia is also \"in principle\" ready to do."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Guinea-Bissau’s deposed President Embalo arrives in Senegal after coup",
+      "url": "https://www.aljazeera.com/news/2025/11/27/guinea-bissaus-deposed-president-embalo-arrives-in-senegal-after-coup?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-27T22:18:17.000Z",
+      "summary": "Senegal&#039;s Foreign Ministry says Umaro Sissoco Embalo arrived in the country a day after he was deposed in military coup."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בממשלה רוצים שעשרות קצינים ילכו הביתה. בצבא מזהים ניסיון לבצע טיהור",
+      "url": "https://www.ynet.co.il/news/article/syqjuji1111g",
+      "image": null,
+      "published_at": "2025-11-27T22:07:00.000Z",
+      "summary": "מלחמה, הפרק הפוליטי: הרמטכ\"ל ניסה לחתום את פרשת התחקירים בצה\"ל. לשר הביטחון ולממשלה יש תוכניות אחרות. בצבא מאמינים שהן הפתח לטיהורים פוליטיים והרס עצמאותו | גורם בליכוד: לא ייתכן שרק שמונה אנשים בצה\"ל ישלמו מחיר על 7 באוקטובר, זמיר הבטיח לכ\"ץ להדיח את בסיוק ובינדר | פרסום ראשון: מה איבד המזכ\"ץ של שר"
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -70,6 +100,16 @@
       "image": null,
       "published_at": "2025-11-27T22:01:00.000Z",
       "summary": "הפסטורליות של נופי הגולן כמו מאיימת על הלוחמים, שצריכים לשמור על עירנות גם אל מול אויב שכרגע הוא בלתי-נראה. \"יש פה דאעש, אל-קאעידה, חיזבאללה, איראנים וכוחות משטר\", אומר רס\"ן ע'. \"השיחות המדיניות לא מעניינות אותי\". למג\"ד שלו ברור: \"אם נצא מפה, לא יהיה שום מעצור בין האויב לאזרחים. כרגע הוא צריך קודם ל"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"מחזיקים ביד גורלות של ילדים\": הצצה נדירה למקום שאי אפשר להיכנס אליו",
+      "url": "https://www.ynet.co.il/news/article/rysflzrwzg",
+      "image": null,
+      "published_at": "2025-11-27T22:01:00.000Z",
+      "summary": "מאחורי דלת סגורה בי-ם, אנשי מקצוע מקבלים החלטות שיכולות לשנות חיי ילדים שהותקפו מינית: לחקור, לערב משטרה, להפנות להליך טיפולי בניסיון למנוע פגיעה נוספת. ל\"בית לין\", מרכז הגנה לקטינים, מגיעים אלפי דיווחים מבוהלים וסיפורים קטועים – וכל החלטה חייבת להתקבל במהירות וברגישות: \"שיחה אחת יכולה להציל ילד״"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -135,11 +175,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "ליקוי חומה: למה אף תחקיר צה\"לי לא עסק בהתעלמות מתוכנית הפלישה של חמאס",
+      "title": "ליקוי חומה: גילויים חדשים על התעלמות צה\"ל מתוכנית הפלישה של חמאס ומה עוד נותר לחקור",
       "url": "https://www.ynet.co.il/news/article/yokra14593653",
       "image": null,
       "published_at": "2025-11-27T22:00:00.000Z",
-      "summary": "\"נפיחה מחשבתית\", כך הגדיר גורם בפיקוד דרום את תוכנית \"חומת יריחו\" שהגיעה לידי המודיעין כבר באפריל 2022 | וזו הייתה האחרונה מתוך כמה גרסאות - שכל אחת מהן מפורטת ושטנית מקודמתה המטרה: \"לשבור את מערך ההגנה, להשמיד את המוצבים ולהגיע לאשקלון, שדרות ונתיבות\" | הנגדת ו', שנתנה למסמך את שמו (בחמאס הוא נקרא "
+      "summary": "\"נפיחה מחשבתית\", כך הגדיר גורם בפיקוד דרום את תוכנית \"חומת יריחו\" שהגיעה לידי ישראל כבר באפריל 2022 | וזו הייתה האחרונה מתוך כמה גרסאות - שכל אחת מהן מפורטת מקודמתה | המטרה: \"לשבור את מערך ההגנה, להשמיד את המוצבים ולהגיע לאשקלון, שדרות ונתיבות\" | הנגדת ו', שנתנה למסמך את שמו (בחמאס הוא נקרא \"הפרויקט"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -357,7 +397,7 @@
       "topic": "News",
       "title": "Palestinian-US teen freed after nine months in Israeli jail",
       "url": "https://www.bbc.com/news/articles/c0edw348pewo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f85c/live/bb6638a0-ca48-11f0-86f6-7b854e603852.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5648/live/fdbc6a80-cbdd-11f0-a892-01d657345866.jpg",
       "published_at": "2025-11-27T20:17:52.000Z",
       "summary": "Mohammed Ibrahim, now 16, was on holiday from Florida when he was arrested for allegedly throwing rocks at Jewish settlers in the occupied West Bank."
     },
@@ -762,16 +802,6 @@
       "summary": "'He'll transfer money without asking questions and beg me to ask for more': Financial domination - better known as findom - is a fetish where pleasure is derived from monetary submission to a dominatrix without physical contact or traditional sexual gratification. It is costing Israelis millions and"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Putin doubles down on demands for Ukrainian territory ahead of talks with US in Moscow",
-      "url": "https://www.bbc.com/news/articles/cp84nl57v0lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c52/live/ba403110-cbba-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-11-27T17:01:47.000Z",
-      "summary": "The Russian president accuses Kyiv of wanting to fight \"to the last Ukrainian\" - which he says Russia is also \"in principle\" ready to do."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -992,16 +1022,6 @@
       "summary": "Sarah Beckstrom and Andrew Wolfe were wounded in the shooting, which the FBI is investigating as &#039;terrorism&#039;. "
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "נתניהו והשרים שותקים: הסנקציות בחוק הפטור מגיוס - וקבוצת המתנגדים בקואליציה",
-      "url": "https://www.ynet.co.il/news/article/ryd8vjizbx",
-      "image": null,
-      "published_at": "2025-11-27T15:41:26.000Z",
-      "summary": "התקציב לישיבות שלא יעמדו ביעדים יופחת, וסנקציות אישיות יוטלו גם ישירות על המשתמטים: חוק הפטור מגיוס שהופץ מפרט את יעדי הגיוס והעונשים שיוטלו על מי שלא יעמוד בהם, אך כולל בתוכו גם כמה כוכביות קטנות - כולל סיוע לראשי הישיבות ומועד סיום הסנקציות. הרשימה המלאה - והרוב שלא בטוח יושג לחוק"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1082,16 +1102,6 @@
       "summary": "Gen Horta N’Tam is sworn in during a ceremony at the army headquarters."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "עם \"עקיצה\" לארדואן: המסע הראשון של האפיפיור החדש, בטורקיה ובלבנון",
-      "url": "https://www.ynet.co.il/news/article/h1v9urbzwg",
-      "image": null,
-      "published_at": "2025-11-27T15:05:29.000Z",
-      "summary": "ליאו ה-14 החל ביקור ראשון מאז שהפך למנהיג העולם הקתולי, ונפגש באנקרה עם ארדואן - ששיבח אותו על \"עמדתו הנבונה\" ביחס לפלסטינים. האפיפיור קרא לטורקיה להיות \"כוח של יציבות ופיוס\", ושלח גם עקיצה בצל דיכוי האופוזיציה"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1160,16 +1170,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-c57e-dcd7-a3be-df7f49cc0001/e0/c1/c8b815554c2bbdf7b716a4c32923/822192.jpg?height=81",
       "published_at": "2025-11-27T14:41:12.000Z",
       "summary": "Six homes, one workshop and an entire routine upended as a military presence becomes a long-term fixture"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "LIVE: Israel launches air strikes on West Bank as incursion turns deadly",
-      "url": "https://www.aljazeera.com/news/liveblog/2025/11/27/live-israel-launches-air-strikes-on-west-bank-as-incursion-turns-deadly?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-27T14:26:20.000Z",
-      "summary": "UN says 32,000 Palestinians forced from their homes in the Israeli-occupied territory with major assault ongoing."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
