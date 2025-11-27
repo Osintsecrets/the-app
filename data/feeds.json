@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-27T19:31:18.804Z",
+  "generated_at": "2025-11-27T20:08:24.736Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israel ParaSport Center marks 65 years with new Luski Aquatic Center",
+      "url": "https://www.jpost.com/israel-news/sports/article-876468",
+      "image": null,
+      "published_at": "2025-11-27T21:50:07.000Z",
+      "summary": "Reporter's Notebook: The new Luski Aquatic Center marks the third generation of the Luski family's support for the Israel ParaSport Center, ensuring disabled athletes have facilities to thrive."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -35,11 +45,81 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
+      "title": "מג\"ב עצר שב\"חים במחסום המנהרות, חייל ירד מאוטובוס וירה: \"חשב שזה פיגוע\"",
+      "url": "https://www.ynet.co.il/news/article/byiqeq8wbl",
+      "image": null,
+      "published_at": "2025-11-27T19:53:44.000Z",
+      "summary": "החייל, שלא היה בתפקיד, נסע באוטובוס ציבורי והבחין בפעילות, אז הוא סבר שמדובר באירוע ביטחוני - ופתח ביריות לעבר החשודים. אחד השב\"חים נפצע, במוקד שבו אירעו לא מעט פיגועים בשנים האחרונות "
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli court issues two-meter restraining order against far-right activist who threatened reporter over Gaza abuse leak",
+      "url": "https://www.haaretz.com/israel-news/2025-11-27/ty-article/.premium/court-issues-restraining-order-against-far-right-activist-who-threatened-reporter/0000019a-c6b2-db2f-afdf-f6bafe2e0000",
+      "image": "https://img.haarets.co.il/bs/00000191-e15c-d729-a191-f15eb6c90001/5f/f9/5b7a2ab44e1dbfbad5356d5b2fee/bgvr.jpg?height=81",
+      "published_at": "2025-11-27T19:52:29.000Z",
+      "summary": "Mordechai David, an associate of tamar Ben-Gvir, threatened reporter Guy Peleg after he aired a leaked video showing IDF soldiers abusing a Palestinian detainee. The judge repeatedly rejected Peleg's request for a 500-meter distancing order, issuing a two-meter restraining order instead"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Irish novelist says UK ban on Palestine Action could force her books off shelves",
+      "url": "https://www.timesofisrael.com/irish-novelist-says-uk-ban-on-palestine-action-could-force-her-books-off-shelves/",
+      "image": null,
+      "published_at": "2025-11-27T19:52:27.000Z",
+      "summary": "After pledging royalties to anti-Israel group, author Sally Rooney says terror designation may criminalize her support and prevent publishers, producers from paying her\nThe post Irish novelist says UK ban on Palestine Action could force her books off shelves appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Tens of thousands displaced as floods sweep across South Asia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/27/tens-of-thousands-displaced-as-floods-sweep-across-south-asia?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-27T19:42:10.000Z",
+      "summary": "Heavy rains have unleashed devastating floods and landslides across South Asia."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israel Police chief to reinstate senior official after probe into alleged abuse of power",
+      "url": "https://www.haaretz.com/israel-news/2025-11-27/ty-article/.premium/israel-police-chief-to-reinstate-senior-official-after-probe-into-conflict-of-interest/0000019a-c6a8-dcd7-a3be-deb9f2c80000",
+      "image": "https://img.haarets.co.il/bs/0000019a-c6c0-d824-ad9e-efff2d310000/0f/8e/28d4d35b45bd88d10ac097a2ba07/197888-3.jpg?height=81",
+      "published_at": "2025-11-27T19:33:58.000Z",
+      "summary": "Chief Superintendent Meni Benjamin was suspended about two weeks ago after the Justice Ministry launched an investigation into abuse of police power and breach of trust. The commissioner reinstated him after reviewing the investigation materials"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Bismuth presents bill exempting yeshiva students from IDF draft, loosening sanctions",
+      "url": "https://www.timesofisrael.com/bismuth-presents-bill-exempting-yeshiva-students-from-idf-draft-loosening-sanctions/",
+      "image": null,
+      "published_at": "2025-11-27T19:19:32.000Z",
+      "summary": "Controversial legislation would only conscript members of ultra-Orthodox community who do not learn full-time in yeshiva, and lift all sanctions against draft dodgers once they turn 26\nThe post Bismuth presents bill exempting yeshiva students from IDF draft, loosening sanctions appeared first on The"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
       "title": "\"המחבל ניסה להימלט\": גרסת המסתערבים לתקרית בג'נין - ו\"סיר הלחץ\" שקדם לירי",
       "url": "https://www.ynet.co.il/news/article/rjqc3flwzx",
       "image": null,
       "published_at": "2025-11-27T19:17:52.000Z",
       "summary": "\"המסתערבים בטוחים שהם לא חרגו מהפקודות והכללים\", הבהירו גורמים במג\"ב, שתיארו את השתלשלות האירוע. \"הכוח הגיע לתפוס שני מבוקשים במבנה על סמך מודיעין מדויק\", אמרו. \"המבוקשים יצאו רק אחרי שכלי הנדסי הכה בקירות המבנה, אך לפתע הם הפסיקו להישמע להנחיות - עוד לפני שנשלל החשד שהם חמושים\""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "FIFA teams up with Switzerland to fund soccer fields for Palestinians in West Bank",
+      "url": "https://www.timesofisrael.com/fifa-teams-up-with-switzerland-to-fund-soccer-fields-for-palestinians-in-west-bank/",
+      "image": null,
+      "published_at": "2025-11-27T19:16:54.000Z",
+      "summary": "Swiss government gives $149,000 to construction of community 'FIFA arenas,' following organization chief's pledge to to 'help rebuild all football facilities in Gaza and Palestine'\nThe post FIFA teams up with Switzerland to fund soccer fields for Palestinians in West Bank appeared first on The Times"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -175,11 +255,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Reform U.K. leader Nigel Farage dismisses antisemitism claims from ex-classmates after wave of allegations",
+      "title": "As Reform U.K. leader Nigel Farage embroiled in antisemitism storm, Jewish support for far-right party rises",
       "url": "https://www.haaretz.com/jewish/2025-11-27/ty-article/nigel-farage-denies-antisemitism-claims-from-ex-classmates-after-wave-of-allegations/0000019a-c638-d824-ad9e-ef7fc71b0000",
       "image": "https://img.haarets.co.il/bs/0000019a-c63e-db2f-afdf-f63efbbc0000/68/60/ca060ee747d48b75cd0b43a23e83/750352.jpg?height=81",
       "published_at": "2025-11-27T18:04:59.000Z",
-      "summary": "The far-right politician told the BBC he had never made any offensive comments 'with intent,' after a former classmate alleged he threatened to 'gas them.' Prime Minister Starmer called Farage 'spineless' and urged him to apologize"
+      "summary": "The politician told the BBC he had never made any offensive comments 'with intent,' after a former classmate alleged he threatened to 'gas them.' Prime Minister Starmer called Farage 'spineless' and urged him to apologize"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -855,11 +935,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Hong Kong fire that killed at least 75 ‘under control’ but hundreds missing",
+      "title": "Hong Kong fire that killed at least 85 ‘under control’ but hundreds missing",
       "url": "https://www.aljazeera.com/news/2025/11/27/hong-kong-fire-that-killed-dozens-under-control-hundreds-still-missing?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-27T13:58:26.000Z",
-      "summary": "Death toll rises to 75 as rescuers rush to reach victims trapped in upper apartments of high rises."
+      "summary": "Death toll rises to 85 as rescuers try to reach people trapped in upper apartments of high rises."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -925,21 +1005,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "בן גביר יגבש תוכניות חינוכית: \"מנהלת הגבעות\" שתוקם מול פורעים יהודים ביו\"ש",
+      "title": "בן גביר יגבש תוכניות חינוכיות: \"מנהלת הגבעות\" שתוקם מול פורעים יהודים ביו\"ש",
       "url": "https://www.ynet.co.il/news/article/bk6jctsbwx",
       "image": null,
       "published_at": "2025-11-27T13:36:29.000Z",
       "summary": "פרסום ראשון: במשרד הביטחון צפוי לקום גוף ייעודי לטיפול בתופעת האלימות היהודית ביו\"ש. לפי ההצעה, צה\"ל יכין תוכנית לגיוס נערי גבעות, יוקמו מרכזי הכשרות מקצועיות - והשר לביטחון לאומי נדרש לגבש תוכניות חינוכיות תוך 30 יום. אלה משרדי הממשלה שייקחו חלק במנהלת"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Egypt’s all-important parliamentary elections aren’t elections at all",
-      "url": "https://www.aljazeera.com/opinions/2025/11/27/egypts-all-important-parliamentary-elections-arent-elections-at-all?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-27T13:36:22.000Z",
-      "summary": "The vote is carefully managed so that only one outcome is possible: a longer lease on power for el-Sisi."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -950,16 +1020,6 @@
       "image": null,
       "published_at": "2025-11-27T13:34:50.000Z",
       "summary": "בצל פרשת ג'יזל פליקו, שבעל סימם וגייס 72 גברים כדי שיאנסו אותה, בצרפת דורשים צדק לקורבנות פרשה מזעזעת נוספת: בכיר במשרד התרבות חשוד שסימם לאורך עשור נשים בראיונות עבודה, עם חומר מְשַׁתֵּן שהחדיר לקפה או לתה - ואז \"טייל\" עמן בחוץ, הרחק משירותים. חלקן לא יכלו לשלוט בעצמן והטילו את מימיהן מולו: \"נאלצתי"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Shin Bet says it foiled Hamas plot to smuggle arms into West Bank using Israelis",
-      "url": "https://www.timesofisrael.com/shin-bet-says-it-foiled-hamas-plot-to-smuggle-arms-into-west-bank-using-israelis/",
-      "image": null,
-      "published_at": "2025-11-27T13:26:28.000Z",
-      "summary": "Residents of Kafr Qasim and Rahat arrested on suspicion of working for Israeli man in Turkey who was operating on behalf of the Palestinian terror group\nThe post Shin Bet says it foiled Hamas plot to smuggle arms into West Bank using Israelis appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1070,26 +1130,6 @@
       "image": null,
       "published_at": "2025-11-27T12:25:00.000Z",
       "summary": "According to the IDF, the officers were traveling as the lead vehicle in a convoy during offensive operations in Rafah when the explosion occurred."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Daily Briefing Nov. 27: Day 783 &#8211; US mulls Muslim Brotherhood sanctions, excludes allies Turkey, Qatar",
-      "url": "https://www.timesofisrael.com/daily-briefing-nov-27-day-783-us-mulls-muslim-brotherhood-sanctions-excludes-allies-turkey-qatar/",
-      "image": null,
-      "published_at": "2025-11-27T12:23:43.000Z",
-      "summary": "US bureau chief Jacob Magid discusses Trump's executive order examining the Islamist group in some Arab countries, GHF closing shop, start of construction in Gaza, and Huckabee-Pollard meeting\nThe post Daily Briefing Nov. 27: Day 783 &#8211; US mulls Muslim Brotherhood sanctions, excludes allies Tur"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Argentina nominates IAEA chief Grossi for UN secretary-general",
-      "url": "https://www.timesofisrael.com/argentina-nominates-iaea-chief-grossi-for-un-secretary-general/",
-      "image": null,
-      "published_at": "2025-11-27T12:23:35.000Z",
-      "summary": "Foreign Minister Pablo Quirno says head of UN's nuclear watchdog is globally recognized for 'extraordinary work' on international peace and security\nThe post Argentina nominates IAEA chief Grossi for UN secretary-general appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1240,16 +1280,6 @@
       "image": null,
       "published_at": "2025-11-27T10:31:29.000Z",
       "summary": "ועדות החקירה הבלתי תלויות הפכו לנורמה אותה אימצו מדינות דמוקרטיות רבות. תפקידיהן הבסיסיים נשארו בעינם: קביעת עובדות, הערכת אחריות, יצירת שקיפות והצעת המלצות לרפורמה ושינויים. אולם בעידן המודרני נוספה להן פונקציה נוספת: יצירת אמון מחודש במערכות השלטון באמצעות חקירה נקייה מהטיה פוליטית"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "יפן מציבה טילים 100 ק\"מ מטייוואן, סין מאיימת: \"צעד אחד - ותשלמו מחיר כואב\"",
-      "url": "https://www.ynet.co.il/news/article/hjubcth11wl",
-      "image": null,
-      "published_at": "2025-11-27T10:27:22.000Z",
-      "summary": "נמשך המשבר החריף בין טוקיו לבייג'ינג, שזועמת על הצהרת רה\"מ החדשה של יפן סאנאה טקאיצ'י - ולפיה תתערב לטובת טייוואן אם סין תפלוש לאי. טוקיו הודיעה שלמרות המתיחות תציב טילי נ\"מ סמוך לטייוואן, וצבא סין מאיים: \"יש לנו יכולות עוצמתיות להביס כל אויב פולש\". דיווח: טראמפ ביקש מטקאיצ'י \"לא להרגיז\" את סין, מחש"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1610,16 +1640,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-c1a9-d360-a5bb-f1bbef160001/de/fe/4aa221434b71859862f8760ab0c5/894540.jpg?height=81",
       "published_at": "2025-11-26T20:06:21.000Z",
       "summary": "A 51-page document by a group of Palestinian scholars and policy thinkers offers a much clearer path to Middle East peace than the UN resolution or Trump's 20-point plan"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "'Courageous leadership required': Zamir seems to jab gov't at Ben-Gurion remembrance event",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-876318",
-      "image": null,
-      "published_at": "2025-11-26T19:28:10.000Z",
-      "summary": "This came after clashing on Monday with Defense Minister Israel Katz over the October 7 probes after the move to reexamine the Turgeman committee report."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2300,26 +2320,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-b9f1-dcd7-a3be-bbf97f060000/75/ed/c529435e4e62ae409b19233b2100/846981.jpg?height=81",
       "published_at": "2025-11-25T07:42:10.000Z",
       "summary": "Trump ordered a report by his top cabinet secretaries on designating Muslim Brotherhood chapters as terrorist groups, while Netanyahu announced plans to ban the organization in Israel in what is seen as an effort to limit Arab parties' Knesset participation"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "'Ein Karem is an amazing village with special houses, nature and vista. We're living in a bubble here'",
-      "url": "https://www.haaretz.com/israel-news/business/real-estate/2025-11-25/ty-article-magazine/.premium/ein-karem-is-an-amazing-village-with-special-houses-and-nature-we-live-in-a-bubble-here/00000199-b3e2-d5c1-ad9d-f3ebe8cc0000",
-      "image": "https://img.haarets.co.il/bs/00000199-b3e2-d5c1-ad9d-f3ebd0830000/ba/54/8146a5ec4407bdc22cf13d503029/63210352.JPG?height=81",
-      "published_at": "2025-11-25T07:35:51.000Z",
-      "summary": "Adina and Uri Solomonovich arrived in Jerusalem's picturesque Ein Karem 40 years ago quite by chance as roommates – and never left"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Will home prices fall? Keep your eyes on southern Israel, but don't bet your savings on it",
-      "url": "https://www.haaretz.com/israel-news/business/real-estate/2025-11-25/ty-article-magazine/.premium/will-home-prices-fall-keep-your-eyes-on-south-israel-but-dont-bet-your-savings-on-it/00000199-b3e3-d5c1-ad9d-f3eb42be0000",
-      "image": "https://img.haarets.co.il/bs/00000199-b3e3-d5c1-ad9d-f3eb2be70000/2e/28/9042799a454088b2f77f658a20f0/63210361.JPG?height=81",
-      "published_at": "2025-11-25T07:33:48.000Z",
-      "summary": "The demand for housing hasn't decreased, but oversupply, high prices and excessive planning are creating gaps that force developers to lower prices. The supply surplus will soon reach cities where prices are stable – for now"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
