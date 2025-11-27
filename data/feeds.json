@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-27T16:11:17.234Z",
+  "generated_at": "2025-11-27T16:44:27.077Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -19,7 +19,7 @@
       "url": "https://www.jpost.com/israel-news/article-876439",
       "image": null,
       "published_at": "2025-11-27T17:53:13.000Z",
-      "summary": "The eight detained Israelis crossed into the Golan Heights before being apprehended."
+      "summary": "The eight detained Israelis crossed through the Golan Heights into Syria before being apprehended."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -52,6 +52,36 @@
       "summary": "Lod District Court Judge Michal Brant concluded that there was no legal support for the continued seizure of the devices and Urich has a right not to provide passwords."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "פוטין לא ממהר לעסקה: \"נילחם עד האוקראיני האחרון\". מקרון מחזיר גיוס לצבא",
+      "url": "https://www.ynet.co.il/news/article/b1sxhki11wl",
+      "image": null,
+      "published_at": "2025-11-27T16:36:24.000Z",
+      "summary": "נשיא רוסיה ייפגש בקרוב עם השליח האמריקני וויטקוף, ואמר כי תוכנית טראמפ מהווה \"בסיס אפשרי\" להסכם, אבל הצהיר שינצור את האש רק כשקייב תיסוג לחלוטין מדונבאס: \"אין טעם כעת לחתום על מסמכים עם ההנהגה האוקראינית, היא לא לגיטימית\". בצל דיווח שאירופה הוזהרה שרוסיה \"צוברת טילים ארוכי טווח\", נשיא צרפת הודיע על "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Firefighters search for hundreds still missing in devastating Hong Kong tower blocks fire",
+      "url": "https://www.bbc.com/news/articles/c62n3enz9klo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d325/live/9ff75970-cabe-11f0-8830-713b9084fff8.jpg",
+      "published_at": "2025-11-27T16:36:03.000Z",
+      "summary": "Dozens of people have died and hundreds remain unaccounted for after Wednesday's blaze."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Putin doubles down on demands for Ukrainian territory ahead of talks with US in Moscow",
+      "url": "https://www.bbc.com/news/articles/cp84nl57v0lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad1a/live/c31450a0-cbab-11f0-9b12-8751a987e19a.jpg",
+      "published_at": "2025-11-27T16:35:33.000Z",
+      "summary": "The Russian president confirmed a US delegation is expected for talks in Moscow next week."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -62,6 +92,56 @@
       "summary": "The Knesset hosted a Day of Prayer affirming the Jewish-Christian alliance. Ambassador Huckabee warned this \"wonderful partnership\" is currently \"under threat, the likes of which it has never been.\""
     },
     {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Low-cost Wizz Air commits to open Israel hub by spring 2026 in bid to cut high fares",
+      "url": "https://www.timesofisrael.com/low-cost-wizz-air-commits-to-open-israel-hub-by-spring-2026-in-bid-to-cut-high-fares/",
+      "image": null,
+      "published_at": "2025-11-27T16:22:26.000Z",
+      "summary": "If plan goes ahead, Hungarian carrier will invest a billion dollars, place aircraft in Israel and double network to 50 routes in the next few years\nThe post Low-cost Wizz Air commits to open Israel hub by spring 2026 in bid to cut high fares appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "France demands heightened security measures after Israeli MKs harass French consulate staffer",
+      "url": "https://www.haaretz.com/israel-news/2025-11-27/ty-article/.premium/france-demands-heightened-security-after-israeli-mks-harass-french-consulate-staffer/0000019a-c601-d360-a5bb-f71b883f0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-c606-d360-a5bb-f71f21ec0001/8a/2e/bf39d93c4a7699ada99f3aa576cc/693157.jfif?height=81",
+      "published_at": "2025-11-27T16:17:40.000Z",
+      "summary": "During a tour of the French Consulate in Jerusalem by right-wing Israeli lawmakers last wing, Religious Zionism MK Ohad Tal was recorded berating a consulate employee, warning they would 'make sure you can't work here.' This comes after Jerusalem's Deputy Mayor led two demonstrations near the consul"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US teen Mohammed Ibrahim released from Israeli prison after nine months",
+      "url": "https://www.aljazeera.com/news/2025/11/27/us-teen-mohammed-ibrahim-released-from-israeli-prison-after-nine-months?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-27T16:17:10.000Z",
+      "summary": "Advocates say the 16-year-old&#039;s health had been in decline since his arrest in February for allegedly throwing rocks."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "The numbers behind UN report on women and girls killed",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/27/the-numbers-behind-un-report-on-women-and-girls-killed?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-27T16:16:30.000Z",
+      "summary": "A UN report has found that at least 83,000 women and girls were intentionally killed last year."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ביסמוט התעלם מהם - והמילואימניקים זועמים: \"מתעדף משתמטים על משרתים\"",
+      "url": "https://www.ynet.co.il/news/article/r1b0ijl1111l",
+      "image": null,
+      "published_at": "2025-11-27T16:14:06.000Z",
+      "summary": "\"יריקה בפרצוף של המילואימניקים\": שורת ארגוני משרתים, שנלחמים זמן רב נגד השתמטות החרדים, יצאו בתוקף נגד הטיוטה שהציג ביסמוט, ואמהות ללוחמים כינו אותה \"מודל ביזיוני שימוטט את צה\"ל\". המתקפה על \"ההחלטה האנטי ציונית\", הזעקה מעזה לעוד לוחמים - והקריאה לבחירות: \"העם הגיע לקו האדום\""
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -70,6 +150,16 @@
       "image": null,
       "published_at": "2025-11-27T16:07:32.000Z",
       "summary": "Smotrich argues that in a democracy, the IDF chief must adhere to \"basic codes\" and cannot publicly attack elected officials, citing the US as an example of firm accountability."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US appears to back plan to divide Gaza, rebuild Israeli-controlled side",
+      "url": "https://www.aljazeera.com/news/2025/11/27/us-appears-to-back-plan-to-divide-gaza-rebuild-israeli-controlled-side?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-27T16:01:32.000Z",
+      "summary": "Critics worry that the creation of &#039;alternative safe communities&#039; may tip the enclave into permanent division."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -255,16 +345,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Firefighters search for hundreds still missing in devastating Hong Kong tower blocks fire",
-      "url": "https://www.bbc.com/news/articles/c62n3enz9klo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d325/live/9ff75970-cabe-11f0-8830-713b9084fff8.jpg",
-      "published_at": "2025-11-27T15:04:11.000Z",
-      "summary": "Dozens of people have died and hundreds remain unaccounted for after Wednesday's blaze."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "'I am devastated': Hong Kong residents in disbelief after fire destroys blocks of flats",
       "url": "https://www.bbc.com/news/articles/cvgjnlx1g6yo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57a5/live/b7641ed0-caec-11f0-8c06-f5d460985095.png",
@@ -369,7 +449,7 @@
       "url": "https://www.ynet.co.il/news/article/s100b11uzbx",
       "image": null,
       "published_at": "2025-11-27T14:29:22.000Z",
-      "summary": "תגובות קשות לחוק הפטור מגיוס של ביסמוט. \"פלסטר פוליטי\", תקף אדלשטיין, קודמו בוועדת החוץ והביטחון. איזנקוט: \"חוק השתמטות שהוא חרפה לאומית\". בנט: \"החוק הכי אנטי ציוני מקום המדינה, הכרזת מלחמה של הממשלה על כל חייל\". לפיד: \"פוליטיקה עלובה של מושחתים ומשתמטים על חשבון הילדים שלנו\""
+      "summary": "תגובות קשות לחוק הפטור מגיוס של ביסמוט. \"פלסטר פוליטי\", תקף אדלשטיין, קודמו בוועדת החוץ והביטחון. איזנקוט: \"חוק השתמטות שהוא חרפה לאומית\". בנט: \"החוק הכי אנטי ציוני מקום המדינה, הכרזת מלחמה של הממשלה על כל חייל\". לפיד: \"פוליטיקה עלובה של מושחתים ומשתמטים על חשבון הילדים שלנו\". גלנט: \"הבהרתי שגיוס שו"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -802,36 +882,6 @@
       "summary": "A Channel 12 report said the Knesset member, a prominent West Bank settler activist, was asked during his interview at the U.S. Embassy when he was last questioned by police, and replied, 'Yesterday'"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "What is bamboo scaffolding and how did it worsen the Hong Kong fire?",
-      "url": "https://www.aljazeera.com/news/2025/11/27/what-is-bamboo-scaffolding-and-how-did-it-worsen-the-hong-kong-fire?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-27T11:43:02.000Z",
-      "summary": "Experts say the scaffolding likely aided the fire&#039;s spread. At least 55 people have died, and hundreds are missing."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Military seizes power in Guinea-Bissau and detains president",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/27/military-seizes-power-in-guinea-bissau-and-detains-president?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-27T11:38:43.000Z",
-      "summary": "Military officers have seized control of Guinea-Bissau and detained the president."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Australia’s move “banning all kids from social media is a drastic step”",
-      "url": "https://www.aljazeera.com/video/quotable/2025/11/27/australias-move-banning-all-kids-from-social-media-is-a-drastic?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-27T11:34:09.000Z",
-      "summary": "&quot;Other countries will look at the Australian experience to see whether or not it&#039;s successful.&quot;"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -995,7 +1045,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "New IDF chief lawyer Itai Ophir to be sworn in today in closed ceremony",
+      "title": "New IDF chief lawyer Itai Offir sworn in today in closed ceremony",
       "url": "https://www.jpost.com/israel-news/defense-news/article-876376",
       "image": null,
       "published_at": "2025-11-27T10:14:24.000Z",
@@ -1072,16 +1122,6 @@
       "summary": "בשיחה עם אולפן ynet, שיתפו כמה מתושבי הצפון על הניסיון לחזור לשגרה באזור, ברקע חיסול רמטכ\"ל חיזבאללה וההתחממות בלבנון. שמעון מקריית שמונה קרא לנתניהו לבקר ולהשקיע בעיר, שירן: \"השבוע הזה היה מת בעסקים, איפה הכלכלה?\". ליאור הזמין את הציבור לטייל: \"גאים לשמור על הבית, שקט ובטוח פה\""
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "National laboratory stops testing drinking water due to funding shortfall",
-      "url": "https://www.timesofisrael.com/national-laboratory-stops-testing-drinking-water-due-to-funding-shortfall/",
-      "image": null,
-      "published_at": "2025-11-27T09:39:37.000Z",
-      "summary": "Environmental advocacy organization Adam Teva V'Din threatens legal action, demands immediate response from Health Ministry and Water Authority\nThe post National laboratory stops testing drinking water due to funding shortfall appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1130,26 +1170,6 @@
       "image": null,
       "published_at": "2025-11-27T08:17:00.000Z",
       "summary": "20-26.11.2025"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "החלל החטוף הישראלי האחרון בעזה: \"רן ניהל קרב לבד, כשהוא פצוע ביד וברגל\"",
-      "url": "https://www.ynet.co.il/news/article/hj6esobb11x",
-      "image": null,
-      "published_at": "2025-11-27T07:55:23.000Z",
-      "summary": "לצד אזרח תאילנד סונטיסק רינטאלק שנחטף ב-7/10, מוחזק בשבי חמאס גם לוחם היס\"מ רס\"ר רן גואילי, שנהרג בקרב עלומים לאחר שיצא להילחם עם כתף שבורה והציל עשרות בנובה. אמו לאולפן ynet: \"מתאים לו לקפוץ ראשון ולצאת אחרון\". דיווח ב\"אל ג'זירה\": הצלב האדום וחמאס מחפשים אחר חטוף חלל בשכונת זייתון"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "כבר 55 הרוגים בשריפת המגדלים בהונג קונג, 3 נעצרו: \"אשתי לכודה, הבית בוער\"",
-      "url": "https://www.ynet.co.il/news/article/bktnepvbwl",
-      "image": null,
-      "published_at": "2025-11-27T07:45:55.000Z",
-      "summary": "מאות כבאים נלחמים בלהבות ב-7 בניינים גבוהים במתחם המגורים בטאי פו - השריפה הקטלנית ביותר בטריטוריה זה קרוב ל-30 שנה. לא ברור מה גרם לאש להתלקח, אך פיגומי הבמבוק המסורתיים של פועלי הבניין ודאי עזרו לה להתפשט. העצורים הם אנשי חברת בנייה - שחשודים ב\"רשלנות חמורה\". רבים מ-4,800 הדיירים במקום מבוגרים, די"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1215,7 +1235,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "IDF says it launched series of airstrikes across southern Lebanon",
+      "title": "Israeli settlers graffiti, set fire to mosque in central West Bank",
       "url": "https://www.haaretz.com/israel-news/2025-11-27/ty-article-live/u-s-senators-urge-trump-to-investigate-idf-violations-of-u-s-human-rights-law/0000019a-c314-dcd7-a3be-db3d02d70000",
       "image": "https://img.haarets.co.il/bs/0000019a-c4b3-db2f-afdf-f6bbbc7e0001/07/52/5a2693354b3e99c8ff67ad69febe/whatsapp-image-2025-11-27-at-11-19-53-1.jpeg?height=81",
       "published_at": "2025-11-27T02:18:33.000Z",
@@ -2280,16 +2300,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-b7ee-db2f-afdf-b7fe111d0006/a0/d7/226e42454bfa9b5184df64ca4f75/63890156.JPG?height=81",
       "published_at": "2025-11-24T22:19:07.000Z",
       "summary": "Tamar Raphael, whose visit to Frankfurt was funded by the Israeli Culture Ministry and who wore a Palestinian flag lapel pin at the event, said she made her remarks 'to express a sane opinion'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Beyond the racism and apartheid, the death penalty poses a real danger to Israelis",
-      "url": "https://www.haaretz.com/opinion/2025-11-24/ty-article-opinion/.premium/beyond-the-racism-and-apartheid-the-death-penalty-poses-a-real-danger-to-israelis/0000019a-b6b9-d360-a5bb-b7bba9ee0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-b64d-db55-a7bb-ffddde140000/b9/90/effdd35044339fcff165ab50e318/845997-4.jpg?height=81",
-      "published_at": "2025-11-24T21:59:15.000Z",
-      "summary": ""
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
