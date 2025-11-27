@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-11-27T14:09:21.318Z",
+  "generated_at": "2025-11-27T14:40:43.008Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Huckabee praises Jewish-Christian partnership at Knesset Day of Prayer",
+      "url": "https://www.jpost.com/israel-news/article-876418",
+      "image": null,
+      "published_at": "2025-11-27T16:34:41.000Z",
+      "summary": "The Knesset hosted a Day of Prayer affirming the Jewish-Christian alliance. Ambassador Huckabee warned this \"wonderful partnership\" is currently \"under threat, the likes of which it has never been.\""
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Smotrich calls for IDF chief's dismissal over feud, argues Trump 'would have fired him in a call'",
+      "url": "https://www.jpost.com/israel-news/article-876420",
+      "image": null,
+      "published_at": "2025-11-27T16:07:32.000Z",
+      "summary": "Smotrich argues that in a democracy, the IDF Chief must adhere to \"basic codes\" and cannot publicly attack elected officials, citing the US as an example of firm accountability."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,21 +35,71 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "IAF combat helicopters support Commando Brigade in Jenin under new West Bank op",
+      "title": "Israel's Commando Brigade operates in Jenin, supported by Air Force combat helicopters",
       "url": "https://www.jpost.com/israel-news/defense-news/article-876409",
       "image": null,
       "published_at": "2025-11-27T15:34:05.000Z",
       "summary": "The military noted that this is part of ongoing counterterrorism operations in the area."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Firefighters search for hundreds still missing in devastating Hong Kong tower blocks fire",
+      "url": "https://www.bbc.com/news/articles/c62n3enz9klo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d325/live/9ff75970-cabe-11f0-8830-713b9084fff8.jpg",
+      "published_at": "2025-11-27T14:33:59.000Z",
+      "summary": "Dozens of people have been killed and hundreds remain unaccounted for after Wednesday's blaze."
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "חוק הפטור מגיוס הופץ, ביסמוט מגיב לביקורת: \"זהו, יוצאים לדרך\"",
+      "title": "המתקפה של אדלשטיין, הביקורת של בנט ואיזנקוט: \"חרפה לאומית\" | התגובות לחוק ביסמוט",
+      "url": "https://www.ynet.co.il/news/article/s100b11uzbx",
+      "image": null,
+      "published_at": "2025-11-27T14:29:22.000Z",
+      "summary": "תגובות קשות לנוסח חוק הפטור מגיוס של ביסמוט. \"זה פלסטר פוליטי\", תקף אדלשטיין, קודמו של ביסמוט בוועדת החוץ והביטחון. הרמטכ\"ל לשעבר איזנקוט: \"חוק השתמטות שהוא חרפה לאומית\". ראש הממשלה לשעבר בנט: \"לא ניתן לדבר הזה לעבור, החוק הכי אנטי ציוני מקום המדינה\""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "South Africa hits back after Trump says US won't invite it for G20 next year",
+      "url": "https://www.bbc.com/news/articles/cq8dq47j5y8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9e5/live/bfa75550-cb67-11f0-9287-d3b859c9f66c.jpg",
+      "published_at": "2025-11-27T14:24:55.000Z",
+      "summary": "The US boycotted the G20 summit in Johannesburg over widely discredited claims of persecution of the white minority."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Settler indicted after allegedly beating Palestinian woman unconscious with club",
+      "url": "https://www.timesofisrael.com/settler-indicted-after-allegedly-beating-palestinian-woman-unconscious-with-club/",
+      "image": null,
+      "published_at": "2025-11-27T14:17:57.000Z",
+      "summary": "Ariel Dahari charged with committing two terror-related assaults and damaging a vehicle with racist motive in incidents caught on camera during a West Bank olive harvest\nThe post Settler indicted after allegedly beating Palestinian woman unconscious with club appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Can Trump ban South Africa from 2026 G20 summit, as he says he will?",
+      "url": "https://www.aljazeera.com/news/2025/11/27/can-trump-ban-south-africa-from-2026-g20-summit-as-he-says-he-will?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-27T14:14:13.000Z",
+      "summary": "US President Donald Trump reiterated unfounded claims of &#039;human rights abuses&#039; of Afrikaners in South Africa."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "חוק ההשתמטות הופץ: שירות אזרחי ייכלל ביעדי הגיוס. הסנקציות - בתיאום עם הרבנים",
       "url": "https://www.ynet.co.il/news/article/h1irtasz11g",
       "image": null,
       "published_at": "2025-11-27T14:05:57.000Z",
-      "summary": ""
+      "summary": "לקראת תחילת מרתון הדיונים על החוק הנפיץ בשבוע הבא, ואחרי \"אור ירוק\" מנתניהו ובכירי הרבנים, יו\"ר ועדת החוץ והביטחון הפיץ את ההצעה המעודכנת לחברי הכנסת: \"זהו, יוצאים לדרך\". היעדים אומנם גדלו, אך גם שירות אזרחי ייחשב. קראו את הנוסח המלא"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -46,7 +116,7 @@
       "source": "Haaretz — All Headlines",
       "topic": "News",
       "title": "Comedian John Cleese 'extremely sorry' for sharing antisemitic conspiracy theories",
-      "url": "https://www.haaretz.com/life/2025-11-27/ty-article/.premium/comedian-john-cleese-extremely-sorry-for-sharing-antisemitic-conspiracy-theories/0000019a-c571-d824-ad9e-ef7fd8840000",
+      "url": "https://www.haaretz.com/life/2025-11-27/ty-article/comedian-john-cleese-extremely-sorry-for-sharing-antisemitic-conspiracy-theories/0000019a-c571-d824-ad9e-ef7fd8840000",
       "image": "https://img.haarets.co.il/bs/0000019a-c585-db2f-afdf-f7bdf2910000/43/42/8110c809458bb5b81cdd50f5905e/623344-2.jpg?height=81",
       "published_at": "2025-11-27T13:57:06.000Z",
       "summary": "The veteran comedian said in an interview that he couldn't believe some of the posts he shared, including one claiming Israel was involved in the murder of Charlie Kirk, 'have been completely invented.' He also said, 'When it's safe, I'll perform in Israel for free'"
@@ -252,16 +322,6 @@
       "summary": "Photographer Yasin Akgul says he will continue on his path &#039;with even more reporting&#039; following his acquittal."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "At least 65 dead and hundreds missing after fire engulfs Hong Kong tower blocks",
-      "url": "https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-11-27T12:52:42.000Z",
-      "summary": "Three people have been arrested and a corruption investigation has been launched into the city's worst fire in 70 years."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -379,7 +439,7 @@
       "url": "https://www.ynet.co.il/news/article/b1ne2orbzl",
       "image": null,
       "published_at": "2025-11-27T12:20:55.000Z",
-      "summary": "פרסום ראשון: תא\"ל גיא מרקיזנו, שמועמדותו לתפקיד הנספח הצבאי בוושינגטון שנויה במחלוקת ועומדת בלב המאבק בין כ\"ץ לזמיר, היה מעורב במלחמה בתקרית ביטחון שדה חריגה. צה\"ל נאלץ לנטרל מרחוק את הנייד, שאותר אחר כך שבור וזרוק. שר הביטחון אז גלנט כלל לא עודכן. הטור המלא - מחר ב\"\"ידיעות אחרונות\" במוסף לשבת"
+      "summary": "פרסום ראשון: תא\"ל גיא מרקיזנו, שמועמדותו לתפקיד הנספח הצבאי בוושינגטון שנויה במחלוקת ועומדת בלב המאבק בין כ\"ץ לזמיר, היה מעורב במלחמה בתקרית ביטחון שדה חריגה. צה\"ל נאלץ לנטרל מרחוק את הנייד, שאבד בחוף הים ואח\"כ אותר שבור. שר הביטחון אז גלנט כלל לא עודכן. הטור המלא - מחר ב\"ידיעות אחרונות\" במוסף לשבת"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -815,26 +875,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "South Africa hits back after Trump says US won't invite it for G20 next year",
-      "url": "https://www.bbc.com/news/articles/cq8dq47j5y8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9e5/live/bfa75550-cb67-11f0-9287-d3b859c9f66c.jpg",
-      "published_at": "2025-11-27T08:49:47.000Z",
-      "summary": "The US boycotted the G20 summit in Johannesburg over widely discredited claims of persecution of the white minority."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Indonesia races to evacuate Sumatra residents as flood deaths soar to 34",
-      "url": "https://www.aljazeera.com/news/2025/11/27/indonesia-races-to-evacuate-sumatra-residents-as-flood-deaths-soar-to?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-27T08:48:10.000Z",
-      "summary": "Up to 8,000 people across North Sumatra have been evacuated and roads remain blocked by landslide debris."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "What we know about the Hong Kong apartment fires",
       "url": "https://www.bbc.com/news/articles/cdxe9r7wjgro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa32/live/d5863da0-cb67-11f0-9fb5-5f3a3703a365.jpg",
@@ -915,11 +955,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Gold-plated iPhone 17s now available in Gaza at exorbitant cost",
+      "title": "Gold-plated iPhone 17s being sold in Gaza at exorbitant cost",
       "url": "https://www.timesofisrael.com/gold-plated-iphone-17s-now-available-in-gaza-at-exorbitant-cost/",
       "image": null,
       "published_at": "2025-11-27T07:33:40.000Z",
-      "summary": "Merchants show off new stock in videos posted online, with price tags surpassing NIS 30,000; those able to afford devices said to be Hamas members\nThe post Gold-plated iPhone 17s now available in Gaza at exorbitant cost appeared first on The Times of Israel.\n"
+      "summary": "Merchants show off new stock in videos posted online, with price tags surpassing NIS 30,000; those able to afford devices said to be Hamas members\nThe post Gold-plated iPhone 17s being sold in Gaza at exorbitant cost appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -940,16 +980,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62f2/live/8831fae0-cadf-11f0-9fb5-5f3a3703a365.jpg",
       "published_at": "2025-11-27T07:17:24.000Z",
       "summary": "The military takeover comes as the West African nation was awaiting the results of Sunday's election."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "What we know about the shooting of 2 National Guard members in DC",
-      "url": "https://www.timesofisrael.com/what-we-know-about-the-shooting-of-2-national-guard-members-in-dc/",
-      "image": null,
-      "published_at": "2025-11-27T07:11:20.000Z",
-      "summary": "Servicemen in critical condition; the suspect, Afghan national Rahmanullah Lakanwal, 29, who was shot and detained, came to US with his family under Biden administration program\nThe post What we know about the shooting of 2 National Guard members in DC appeared first on The Times of Israel.\n"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1050,16 +1080,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-c4b3-db2f-afdf-f6bbbc7e0001/07/52/5a2693354b3e99c8ff67ad69febe/whatsapp-image-2025-11-27-at-11-19-53-1.jpeg?height=81",
       "published_at": "2025-11-27T02:18:33.000Z",
       "summary": ""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "כטב\"ם תקף שדה גז בכורדיסטן העיראקית: תיעוד משריפת הענק במקום",
-      "url": "https://www.ynet.co.il/news/article/hjngixrbzl",
-      "image": null,
-      "published_at": "2025-11-27T02:11:25.000Z",
-      "summary": "לפי רויטרס כמה עובדים נפצעו בתקיפה, שהובילה גם להפסקת נרחבות באספקת החשמל והגז לצפון המדינה. בעיראק האשימו: \"מתקפת טרור נפשעת. נרדוף את האחראים\" "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1530,26 +1550,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-c087-d824-ad9e-ebff34450001/32/00/80613c354e8889197c94676eb94f/592475.jpg?height=81",
       "published_at": "2025-11-26T14:48:34.000Z",
       "summary": "The order will take effect in no fewer than 21 days. The Israel Tax Authority estimates that the loss of tax revenue could reach up to one billion shekels per year ($304 million). It remains unclear what budgetary source will be used to offset this revenue loss"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "After airstrike slams into terrorist position in Rafah, IDF closes in, killing three",
-      "url": "https://www.jpost.com/israel-news/article-876264",
-      "image": null,
-      "published_at": "2025-11-26T14:41:30.000Z",
-      "summary": "Over 20 terrorists were killed in eastern Rafah last week, and eight additional suspects were arrested as part of ongoing operations to dismantle underground terror infrastructure, the IDF announced."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Four Israelis wounded, one badly, as rioting Palestinians attack shepherds in Gush Etzion",
-      "url": "https://www.jpost.com/israel-news/article-876268",
-      "image": null,
-      "published_at": "2025-11-26T14:28:28.000Z",
-      "summary": "Responding police and soldiers used riot-dispersal measures but made no arrests as the crowd swelled."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
