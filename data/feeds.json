@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-27T06:50:33.415Z",
+  "generated_at": "2025-11-27T07:11:21.919Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -15,11 +15,41 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
+      "title": "BBC on the scene of the Hong Kong apartment block blaze",
+      "url": "https://www.bbc.com/news/videos/c1w9q910nz4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dce7/live/622d0500-cb5d-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-27T06:55:53.000Z",
+      "summary": "At least 44 people have been killed in the fire, which took local authorities 18 hours to bring under control."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Following Gaza ceasefire, foreign interest in Israeli homes heats up as local demand cools",
+      "url": "https://www.timesofisrael.com/following-gaza-ceasefire-foreign-interest-in-israeli-homes-heats-up-as-local-demand-cools/",
+      "image": null,
+      "published_at": "2025-11-27T06:53:16.000Z",
+      "summary": "Sales tamped down by high costs and high interest rates, as Diaspora Jews seeking haven from rampant antisemitism contend with a weakened dollar\nThe post Following Gaza ceasefire, foreign interest in Israeli homes heats up as local demand cools appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
       "title": "US suspends immigration requests for Afghans after National Guard shooting",
       "url": "https://www.bbc.com/news/articles/cgex957qg97o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b7f/live/d0d68c80-cb4c-11f0-a892-01d657345866.jpg",
       "published_at": "2025-11-27T06:46:01.000Z",
       "summary": "The alleged gunman in the Washington shooting is an Afghan national who entered the US in September 2021. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Gasfield in northern Iraq hit by drone attack: Reports",
+      "url": "https://www.aljazeera.com/news/2025/11/27/gasfield-in-northern-iraq-hit-by-drone-attack-reports?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-27T06:42:17.000Z",
+      "summary": "About 80 percent of the power grid in semi-autonomous Kurdish region disrupted after drone attack on Khor Mor gasfield."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -150,6 +180,16 @@
       "image": null,
       "published_at": "2025-11-27T04:11:27.000Z",
       "summary": "Hamas calls for pressure to release the fighters, acknowledging them for first time; 'It appears they have decided to become martyrs' official reportedly says\nThe post Israel reportedly offers trapped Hamas fighters in Rafah chance to surrender, relocate appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Pope Leo XIV to visit Turkey and Lebanon in first foreign trip of his papacy",
+      "url": "https://www.bbc.com/news/articles/cy5g3076lqzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8587/live/8c7b86a0-cb3b-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-11-27T04:03:10.000Z",
+      "summary": "He will gather with leaders of other Christian traditions in Nicaea and celebrate Mass in Beirut."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -305,7 +345,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Georgia's pro-EU protesters defiant year after accession process was halted",
+      "title": "They can't crush our protests, vow Georgians after year of resistance",
       "url": "https://www.bbc.com/news/articles/c208w378gg7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/601ad730-caf7-11f0-b43f-e3318ee9f4fe.jpg",
       "published_at": "2025-11-27T00:03:12.000Z",
@@ -475,16 +515,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "At least 44 dead and hundreds missing after fire engulfs Hong Kong tower blocks",
-      "url": "https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726a/live/92a91ae0-cab6-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-11-26T22:14:20.000Z",
-      "summary": "Firefighters are struggling to put out the flames and say they are unsure when the blaze will be fully contained."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "'I am devastated': Hong Kong residents in disbelief after fire destroys blocks of flats",
       "url": "https://www.bbc.com/news/articles/cvgjnlx1g6yo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57a5/live/b7641ed0-caec-11f0-8c06-f5d460985095.png",
@@ -595,11 +625,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israeli Minister seeks terror label for U.S. Islamic group, citing Trump's order on Muslim Brotherhood",
+      "title": "Israeli Minister Chikli seeks U.S. terror designation for CAIR, citing Trump on Muslim Brotherhood",
       "url": "https://www.haaretz.com/israel-news/2025-11-26/ty-article/.premium/israeli-minister-seeks-terror-label-for-u-s-muslim-group-citing-trump-order/0000019a-c1af-db2f-afdf-f7bf6bc10000",
       "image": "https://img.haarets.co.il/bs/00000195-b482-d5aa-a3fd-bf8f01e30000/41/6a/8e4027b74745abde08bd33577cb1/022897-2.jpg?height=81",
       "published_at": "2025-11-26T21:31:23.000Z",
-      "summary": "Chikli claims 'conclusive evidence' linking the U.S.-based Council on American-Islamic Relations to Hamas and the Muslim Brotherhood, urging Israel to classify it a terror group, even as Washington officials note Trump's order provides no binding mechanism"
+      "summary": "Israel's Diaspora Affairs minister claims 'conclusive evidence' links the U.S.-based Council on American-Islamic Relations to Hamas and the Muslim Brotherhood; CAIR called this a 'conspiracy theory,' noting it has long condemned all terrorism, including Hamas suicide bombings and October 7 attacks o"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -892,16 +922,6 @@
       "summary": "אחות התלמיד בן ה-11 שיתפה ברשתות חברתיות שהוא סובל מדי יום מהתעללות בבית הספר שבו הוא לומד בפתח תקווה - שלמרות פניות המשפחה לא נתן מענה. \"ההורים לא מדברים את השפה, והיחס כלפיהם מזלזל\". המשטרה פתחה בחקירה בעקבות סרטון שהופץ, ושבו נראה הילד מותקף על ידי נערים בין כותלי בית הספר"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump administration nixes temporary immigration protections for Haitians",
-      "url": "https://www.aljazeera.com/news/2025/11/26/trump-administration-nixes-temporary-immigration-protections-for-haitians?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-26T19:27:00.000Z",
-      "summary": "Homeland Security Secretary Noem determines it is safe for Haitians to return home, despite widespread gang violence."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1040,16 +1060,6 @@
       "image": null,
       "published_at": "2025-11-26T17:26:56.000Z",
       "summary": "רפאל נתיב, תושב העיר, התעורר באמצע הלילה לקולות מחאה של צעירים חרדים שהגיעו למנוע מעצר של עריק. הוא זעם וצעק עליהם. \"הם התעצבנו, ועניתי\", תיאר. \"הגיוס הוא מצווה - האמונה שלהם כל כך חלשה שהיא תתפרק אם יראו חילוני? זה אבסורד\". שני החשודים שנעצרו הלילה - שוחררו"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Prosecution presses Netanyahu over his interest in media coverage, Walla news site",
-      "url": "https://www.timesofisrael.com/prosecution-presses-netanyahu-over-his-interest-in-media-coverage-walla-news-site/",
-      "image": null,
-      "published_at": "2025-11-26T17:16:54.000Z",
-      "summary": "Prosecutor focuses on PM's concern with negative coverage of his wife when meeting with Hollywood mogul, Israel Hayom owners; premier again seeks to cut number of hearings per week\nThe post Prosecution presses Netanyahu over his interest in media coverage, Walla news site appeared first on The Times"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
