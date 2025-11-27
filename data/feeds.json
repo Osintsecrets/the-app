@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-11-27T05:40:45.377Z",
+  "generated_at": "2025-11-27T06:15:05.916Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'This is no life': Security and long-held views shattered in south Lebanon amid Israeli strikes",
+      "url": "https://www.bbc.com/news/articles/cdd560nvqqdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43a4/live/3bd83360-cac8-11f0-b7d6-15745cdbcf61.jpg",
+      "published_at": "2025-11-27T06:00:14.000Z",
+      "summary": "A year on from a ceasefire in Lebanon, Israel is continuing attacks on what it says are Hezbollah's efforts to recover from their war."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Thousands left homeless by fire in Bangladesh shantytown in Dhaka",
+      "url": "https://www.aljazeera.com/news/2025/11/27/thousands-left-homeless-by-fire-in-bangladesh-shantytown-in-dhaka?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-27T05:35:18.000Z",
+      "summary": "Some 60,000 families, many of them climate refugees, live in the area spread over 65 hectares."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -40,6 +60,16 @@
       "image": null,
       "published_at": "2025-11-27T04:55:55.000Z",
       "summary": "Itinerary includes meeting with Erdogan; speeches expected to focus on peace, will be delivered in English; Vatican spokesman says security arrangements to be undertaken in Lebanon\nThe post Pope Leo heading to Turkey, Lebanon for closely watched first overseas trip appeared first on The Times of Isr"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US suspends immigration requests for Afghans after National Guard shooting",
+      "url": "https://www.bbc.com/news/articles/cgex957qg97o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b7f/live/d0d68c80-cb4c-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-11-27T04:45:27.000Z",
+      "summary": "The alleged gunman in the Washington shooting is an Afghan national who entered the US in September 2021. "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -82,6 +112,16 @@
       "summary": "Officials involved in the Cairo negotiations told Haaretz that neither Hamas nor Israel appears interested in complying with the next stages toward full implementation of the cease-fire. Meanwhile, efforts to remove rubble and find missing bodies in the Strip are reportedly encountering difficulties"
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Two National Guard members in critical condition after shooting near White House",
+      "url": "https://www.bbc.com/news/articles/c3r7qpqddnro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51a4/live/74146670-cb33-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-11-27T04:00:23.000Z",
+      "summary": "President Trump says the gunman behind the \"act of terror\" was an Afghan who entered the US in 2021. "
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -115,7 +155,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Hong Kong’s deadliest fire in 63 years: What we know and how it spread",
+      "title": "Hong Kong fire: What we know about deadly Tai Po blaze and why it spread",
       "url": "https://www.aljazeera.com/news/2025/11/27/hong-kongs-deadliest-fire-in-63-years-what-we-know-and-how-it-spread?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-27T03:04:15.000Z",
@@ -505,7 +545,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Washington DC shooting updates: 2 National Guard troops critically wounded",
+      "title": "Washington DC shooting updates: 2 National Guard members critically wounded",
       "url": "https://www.aljazeera.com/news/liveblog/2025/11/26/live-two-us-national-guard-members-shot-killed-near-white-house?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-26T20:59:15.000Z",
@@ -595,7 +635,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Two US National Guard troops injured in Washington, DC, shooting",
+      "title": "Two US National Guardsmen injured in Washington, DC, shooting",
       "url": "https://www.aljazeera.com/news/2025/11/26/two-national-guard-troops-shot-in-us-capital?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-26T20:32:53.000Z",
@@ -960,16 +1000,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-c0d3-d824-ad9e-ebff36b60000/4c/fd/24167fe34c72b57e3fe35d5201b2/hero-120.jpg?height=81",
       "published_at": "2025-11-26T17:15:06.000Z",
       "summary": "The companies said the acquisition is another stage in the expansion of the Uvision Group and strengthens its ability to work from unit level to strategic levels. The startup, SpearUAV, develops small autonomous drones called VIPER launched from a capsule in the field"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Five key takeaways from the UK’s tax-and-spending budget",
-      "url": "https://www.aljazeera.com/news/2025/11/26/five-key-takeaways-from-the-uks-tax-and-spending-budget?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-26T17:10:41.000Z",
-      "summary": "Chancellor Rachel Reeves announced a rise in taxes and increased welfare spending."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
