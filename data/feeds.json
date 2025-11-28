@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-28T10:09:46.472Z",
+  "generated_at": "2025-11-28T10:42:09.581Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump says US will pause migration from 'third-world countries'",
+      "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e9/live/a3d64660-cc34-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-28T10:17:27.000Z",
+      "summary": "The president did not name which countries would be affected, but vowed to remove anyone \"not a net asset\" to the US."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,11 +25,31 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
+      "title": "Hong Kong tower blocks fire death toll rises to 128",
+      "url": "https://www.bbc.com/news/articles/c79xd17dre3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/48dd23e0-cc44-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-28T10:09:03.000Z",
+      "summary": "Authorities say 89 bodies are unintentified and 79 people remain injured after Wednesday's blaze."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
       "title": "Ukraine anti-corruption agents search home of Zelensky's top adviser",
       "url": "https://www.bbc.com/news/articles/c058lp086zvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a3/live/29798c50-cc35-11f0-bee0-bb78b7c7ba87.jpg",
       "published_at": "2025-11-28T10:07:14.000Z",
       "summary": "Andriy Yermak has played a crucial role in Ukraine's response to Russia's war and is lead negotiator in peace talks."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Copa Libertadores final: Palmeiras vs Flamengo – teams, start, lineups",
+      "url": "https://www.aljazeera.com/sports/2025/11/28/copa-libertadores-final-palmeiras-vs-flamengo-teams-start-lineups?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-28T10:06:20.000Z",
+      "summary": "Palmeiras and Flamengo line up in the eighth all-Brazilian Copa Libertadores final in the last nine years."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -55,7 +85,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "'Scared and desperate' - the South Africans who claim they were duped by Zuma's daughter to fight for Russia",
+      "title": "'Scared and desperate' - the South Africans who say they were duped by Zuma's daughter to fight for Russia",
       "url": "https://www.bbc.com/news/articles/cx2dndy228xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a427/live/c3123cb0-cbca-11f0-8e93-71481b645865.jpg",
       "published_at": "2025-11-28T09:27:59.000Z",
@@ -190,16 +220,6 @@
       "image": null,
       "published_at": "2025-11-28T08:32:49.000Z",
       "summary": "Author Antony Lowenstein says radicalisation of Israeli society allows the military to kill Palestinians with impunity."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump says US will 'permanently pause' migration from 'third world countries'",
-      "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e9/live/a3d64660-cc34-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-28T08:21:38.000Z",
-      "summary": "The president did not name which countries would be affected, but vowed to remove anyone \"not a net asset\" to the US."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1180,16 +1200,6 @@
       "image": null,
       "published_at": "2025-11-27T19:50:14.000Z",
       "summary": "Traffic and trains disrupted as Sri Lanka battles severe weather and rising floodwaters across multiple regions."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Tens of thousands displaced as floods sweep across South Asia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/27/tens-of-thousands-displaced-as-floods-sweep-across-south-asia?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-27T19:42:10.000Z",
-      "summary": "Heavy rains have unleashed devastating floods and landslides across South Asia."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
