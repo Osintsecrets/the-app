@@ -1,6 +1,66 @@
 {
-  "generated_at": "2025-11-28T22:08:24.139Z",
+  "generated_at": "2025-11-28T22:37:31.636Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "חקירת המסתערבים, ההעדפה של מג\"ב - והאשמת האו\"ם: \"נראה כמו הוצאה להורג\"",
+      "url": "https://www.ynet.co.il/news/article/r1lub8dw11x",
+      "image": null,
+      "published_at": "2025-11-28T22:22:20.000Z",
+      "summary": "3 לוחמי ימ\"ס, בהם קצין, נחקרו בעקבות התקרית בג'נין. צה\"ל פתח בתחקיר, במג\"ב העדיפו חקירת מצ\"ח, אך מח\"ש לקחה את המושכות: החשד - ירי שלא כדין. בחקירה טענו שחשו סכנה לחייהם: \"ניסו לנטרל, לא במטרה להמית\". בעולם סיקרו בהרחבה - וגם באו\"ם לא התרשמו מהגרסה: \"הוצאה להורג חסרת בושה\""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Guinea-Bissau's coup called a 'sham' by West African political figures ",
+      "url": "https://www.bbc.com/news/articles/cz0nlxlr87go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8796/live/89c4f500-cca2-11f0-aa92-07851ff0caaf.jpg",
+      "published_at": "2025-11-28T22:20:30.000Z",
+      "summary": "Senegal's prime minister and Nigeria's former leader say they do not believe the military takeover was genuine."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "השר הבכיר שיקר בקורות החיים - והתפטר: \"אירופה תחת מתקפה\"",
+      "url": "https://www.ynet.co.il/news/article/h1vhlvpbwx",
+      "image": null,
+      "published_at": "2025-11-28T22:19:49.000Z",
+      "summary": "יונוץ מושטאנו, שר ההגנה הרומני, הודה כי זייף את סעיפי ההשכלה בקורות חייו: \"לא רוצה שטעויות העבר שלי יסיטו את תשומת הלב מהמשימה החשובה - להתגונן מפני רוסיה\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "טראמפ הכריז: אבטל את כל הצווים שעליהם חתם ביידן עם עט אוטומטי",
+      "url": "https://www.ynet.co.il/news/article/s1nmauvbze",
+      "image": null,
+      "published_at": "2025-11-28T22:16:35.000Z",
+      "summary": "הנשיא הודיע ברשת Truth שבבעלותו כי החליט לבטל את כל המסמכים שנחתמו בידי קודמו עם ה-autopen - מכשיר שנועד להקל על עבודת הנשיאים. הוא לא פירט אילו צווים יבוטלו, אך האשים את ביידן: \"הוא לא היה מעורב בתהליך. אם יאמר שכן - יועמד לדין\". טרם ברורות ההשלכות החוקיות של המהלך"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"סוריה לא יציבה\": סל התגובות שמכינים בישראל, והארגון שמחזיק ב\"נשק צנוע\"",
+      "url": "https://www.ynet.co.il/news/article/by53whpz11e",
+      "image": null,
+      "published_at": "2025-11-28T22:13:31.000Z",
+      "summary": "בירושלים העבירו מסרים חמורים למשטר של א-שרע אחרי התקרית החריגה שבה נפצעו 6 חיילים. \"אסור לנו לסגת מהשטחים שתפסנו כדי שלא יתבססו שם גורמים עוינים\", אמרו גורמי ביטחון, \"כרגע אין אופק להסכם עם דמשק\". הסורים: \"20 נהרגו בתקיפה הישראלית\". וגם: זה ארגון הטרור שמחבליו פתחו באש על כוח צה\"ל"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Could conscription return in Europe?",
+      "url": "https://www.aljazeera.com/video/inside-story/2025/11/28/could-conscription-return-in-europe?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-28T22:05:55.000Z",
+      "summary": "France announces new military service plans weeks after Germany."
+    },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
@@ -10,6 +70,16 @@
       "image": null,
       "published_at": "2025-11-28T22:02:34.000Z",
       "summary": "Hostages forum says Saturday's event may be last as it narrows activities to support 2 families, says rallies don't serve current situation of terror groups searching for bodies\nThe post Father of Ran Gvili, one of two remaining hostages, to speak at possible final Tel Aviv rally appeared first on T"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Palestinians forced into lockdown as Israel’s West Bank assault continues",
+      "url": "https://www.aljazeera.com/news/2025/11/28/palestinians-forced-into-lockdown-as-israels-west-bank-assault-continues?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-28T21:55:46.000Z",
+      "summary": "Save the Children says Palestinians are sheltering at home as Israeli raids injure dozens and lead to mass arrests."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -60,16 +130,6 @@
       "image": null,
       "published_at": "2025-11-28T20:56:10.000Z",
       "summary": "The change must be carried out before the next routine flight, and is among the largest mass recalls affecting Airbus."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"סוריה לא יציבה\": סל התגובות שמכינים בישראל, והארגון שמחזיק ב\"נשק צנוע\"",
-      "url": "https://www.ynet.co.il/news/article/by53whpz11e",
-      "image": null,
-      "published_at": "2025-11-28T20:50:13.000Z",
-      "summary": "בירושלים העבירו מסרים חמורים למשטר של א-שרע אחרי התקרית החריגה שבה נפצעו 6 חיילים. \"אסור לנו לסגת מהשטחים שתפסנו כדי שלא יתבססו שם גורמים עוינים\", אמרו גורמי ביטחון, \"כרגע אין אופק להסכם עם דמשק\". הסורים: \"20 נהרגו בתקיפה הישראלית\". וגם: זה ארגון הטרור שמחבליו פתחו באש על כוח צה\"ל"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -170,16 +230,6 @@
       "image": null,
       "published_at": "2025-11-28T20:16:41.000Z",
       "summary": "סגנית השר שרן השכל גיבשה רשימה של חמישה חברי קואליציה שהתחייבו להתנגד לחוק ההשתמטות, ואולי יש עוד. בינתיים, האינטרסים של סילמן גוברים על החלטת ממשלה, בנט גייס ערבויות של 22 מיליון שקל למפלגתו, ומזנון הח\"כים הפך לשכונת ליכודניקים"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "טראמפ הכריז: אבטל את כל הצווים שעליהם חתם ביידן עם עט אוטומטי",
-      "url": "https://www.ynet.co.il/news/article/s1nmauvbze",
-      "image": null,
-      "published_at": "2025-11-28T20:15:26.000Z",
-      "summary": "הנשיא הודיע ברשת Truth שבבעלותו כי החליט לבטל את כל המסמכים שנחתמו בידי קודמו עם ה-autopen - מכשיר שנועד להקל על עבודת הנשיאים. הוא לא פירט אילו צווים יבוטלו, אך האשים את ביידן: \"הוא לא היה מעורב בתהליך. אם יאמר שכן - יועמד לדין\". טרם ברורות ההשלכות החוקיות של המהלך"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -312,16 +362,6 @@
       "summary": "מאחורי דלת סגורה בי-ם, אנשי מקצוע מקבלים החלטות שיכולות לשנות חיי ילדים שהותקפו מינית: לחקור, לערב משטרה, להפנות להליך טיפולי בניסיון למנוע פגיעה נוספת. ל\"בית לין\", מרכז הגנה לקטינים, מגיעים אלפי דיווחים מבוהלים וסיפורים קטועים – וכל החלטה חייבת להתקבל במהירות וברגישות: \"שיחה אחת יכולה להציל ילד״"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "השר הבכיר שיקר בקורות החיים - והתפטר: \"אירופה תחת מתקפה\"",
-      "url": "https://www.ynet.co.il/news/article/h1vhlvpbwx",
-      "image": null,
-      "published_at": "2025-11-28T19:13:14.000Z",
-      "summary": "יונוץ מושטאנו, שר ההגנה הרומני, הודה כי זייף את סעיפי ההשכלה בקורות חייו: \"לא רוצה שטעויות העבר שלי יסיטו את תשומת הלב מהמשימה החשובה - להתגונן מפני רוסיה\""
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -440,16 +480,6 @@
       "image": null,
       "published_at": "2025-11-28T17:46:18.000Z",
       "summary": "כמעט עשור אחרי שחיסול מחבל מנוטרל עורר מהומה וכשהנזקים של פרשת שדה תימן עדיין מהדהדים, תיעוד הירי במבוקשים שנכנעו מתקבל באדישות מוחלטת ו\"גיבוי\" של בן גביר. כשמערכת האכיפה מרוסקת והאופוזיציה מבוהלת, המדרון החלקלק הופך לבולען"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "חקירת המסתערבים, ההעדפה של מג\"ב - והאשמת האו\"ם: \"נראה כמו הוצאה להורג\"",
-      "url": "https://www.ynet.co.il/news/article/r1lub8dw11x",
-      "image": null,
-      "published_at": "2025-11-28T17:41:29.000Z",
-      "summary": "3 לוחמי ימ\"ס, בהם קצין, נחקרו בעקבות התקרית בג'נין. צה\"ל פתח בתחקיר, במג\"ב העדיפו חקירת מצ\"ח, אך מח\"ש לקחה את המושכות: החשד - ירי שלא כדין. בחקירה טענו שחשו סכנה לחייהם: \"ניסו לנטרל, לא במטרה להמית\". בעולם סיקרו בהרחבה - וגם באו\"ם לא התרשמו מהגרסה: \"הוצאה להורג חסרת בושה\""
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -852,16 +882,6 @@
       "summary": "בזמן יום הלימודים, זרוע העגורן קרסה על מבנה סמוך לגן בגבעת שמואל. ההורים הוזעקו לאסוף את הילדים המבוהלים. נפתחה חקירה, צו סגירה זמני הוצא לאתר הבנייה: \"זה רק מזל שאירוע כזה לא הסתיים באסון רב נפגעים\""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Donald Trump lashes out at reporter asking about DC shooter",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/donald-trump-lashes-out-at-reporter-asking-about-dc-shooter?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-28T13:40:30.000Z",
-      "summary": "Donald Trump snapped at a reporter who asked why he blames the Biden administration for the shooting in Washington, DC."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -870,16 +890,6 @@
       "image": null,
       "published_at": "2025-11-28T12:52:09.000Z",
       "summary": "לפי דיווחים בגרמניה, שני ישראלים שהיו חלק מכנופיית החוטפים הגיעו בחשאי להמבורג ומסרו עדות שהפלילה את כריסטינה בלוק - לאחר שהוסר צו המעצר הבינלאומי נגדם. אחד מהם מסר הצהרה מקיפה, וחשף כיצד עבד מבנה הפיקוד, איך בוצע הקשר עם בלוק וכיצד פעלו בשטח בדנמרק"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Flood deaths rise to 174 in Indonesia, surge across Southeast Asia",
-      "url": "https://www.aljazeera.com/news/2025/11/28/flood-deaths-rise-to-174-in-indonesia-surge-across-southeast-asia?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-28T12:49:56.000Z",
-      "summary": "Authorities say 79 people remain missing and thousands of families have been displaced from their homes across Sumatra."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
