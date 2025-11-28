@@ -1,6 +1,76 @@
 {
-  "generated_at": "2025-11-28T11:07:50.003Z",
+  "generated_at": "2025-11-28T11:33:00.885Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Nuns win reprieve in abandoned convent in Alps - if they stay off social media",
+      "url": "https://www.bbc.com/news/articles/c0l9z176lnlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a669/live/04ca61e0-cc44-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-11-28T11:25:16.000Z",
+      "summary": "The three nuns say they were taken out of the convent against their will and placed in a care home."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Guinea-Bissau president flees to Senegal after coup",
+      "url": "https://www.bbc.com/news/articles/c741m97lk42o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e76e/live/28eaca90-cc19-11f0-a74c-f1d4734c755d.jpg",
+      "published_at": "2025-11-28T11:17:43.000Z",
+      "summary": "Umaro Sissoco Embaló has arrived in Senegal \"safe and sound\" on a chartered military plane, authorities say."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Will Bangladesh’s Hasina face the hangman?",
+      "url": "https://www.aljazeera.com/gallery/2025/11/28/history-illustrated-will-bangladeshs-hasina-face-the-hangman?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-28T11:12:42.000Z",
+      "summary": "Bangladesh wants former Prime Minister Hasina to hang, waits on India to formally respond to extradition request."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "תיעוד דרמטי מקרב היריות פנים אל פנים בסוריה: \"מחבל!\"",
+      "url": "https://www.ynet.co.il/news/article/hyipf0ib11l",
+      "image": null,
+      "published_at": "2025-11-28T11:10:19.000Z",
+      "summary": "בתיעוד יוצא דופן שהפיץ צה\"ל נראים המעצרים בבית ג'ן, והירי לעבר הלוחמים: \"מחבל! הוא מוציא ראש\". 6 קצינים ולוחמים נפצעו, בישראל העבירו מסרים לא-שרע והכינו סל תגובות. בסוריה כינו \"פשע מלחמה\" את תקיפות התגובה שבהן נהרגו לפחות 13 סורים. זהו הארגון שאנשיו נעצרו במיטותיהם - לפני ההיתקלות"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Pope Leo XIV begins Turkiye visit with prayers and unity message",
+      "url": "https://www.aljazeera.com/gallery/2025/11/28/pope-leo-xiv-begins-turkiye-visit-with-prayers-and-unity-message?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-28T11:09:06.000Z",
+      "summary": "The pontiff leads prayers in Istanbul, emphasising the Nicene Creed as the core of Christian unity and faith."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Venezuela explained in 10 maps and charts",
+      "url": "https://www.aljazeera.com/news/2025/11/28/venezuela-explained-in-10-maps-and-charts?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-28T11:04:56.000Z",
+      "summary": "Al Jazeera visualises Venezuela’s political and economic landscape, oil riches, migration crisis and tensions with US."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "India’s Olympic ambition in spotlight as Commonwealth Games build-up begins",
+      "url": "https://www.aljazeera.com/sports/2025/11/28/indias-olympic-ambition-in-spotlight-as-commonwealth-games-build-up-begins?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-28T11:02:46.000Z",
+      "summary": "India are expected to bid for the 2036 Olympic Games but the 2030 Commonwealth Games must first cover for past mistakes."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -230,26 +300,6 @@
       "image": null,
       "published_at": "2025-11-28T09:11:31.000Z",
       "summary": "On first visit to Iran's capital since 2022 anti-hijab protests, AP reporter sees women openly flout headscarf laws; discontent with theocracy, fears of another war also widespread\nThe post With Iran&#8217;s regime wary of widespread dissent, Tehran women let their hair down appeared first on The Ti"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Guinea-Bissau president flees to Senegal after coup",
-      "url": "https://www.bbc.com/news/articles/c741m97lk42o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e76e/live/28eaca90-cc19-11f0-a74c-f1d4734c755d.jpg",
-      "published_at": "2025-11-28T09:04:12.000Z",
-      "summary": "Sissoco Embaló has arrived in Senegal \"safe and sound\" on a chartered military plane, authorities say."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המסרים מישראל לא-שרע, ותיעוד ההרס אחרי תקרית האש בסוריה",
-      "url": "https://www.ynet.co.il/news/article/hyipf0ib11l",
-      "image": null,
-      "published_at": "2025-11-28T09:02:05.000Z",
-      "summary": "בסוריה כינו את התקיפות \"פשע מלחמה\", בישראל מכינים סל תגובות: גורמי ביטחון אמרו שלא מוכרת מעורבות של אנשי המשטר בחילופי האש שבהם נפצעו 6 קצינים ולוחמים וטענו כי \"זה ממחיש שאסור לסגת מהשטחים שתפסנו\". זהו הארגון שאנשיו נעצרו במיטותיהם בבית ג'ן - לפני ההיתקלות"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -665,7 +715,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "IDF kills, arrests Jaama Islamiya terrorists in southern Syria, six reservists wounded",
+      "title": "WATCH: IDF kills, arrests Jaama Islamiya terrorists in southern Syria, six reservists wounded",
       "url": "https://www.jpost.com/israel-news/defense-news/article-876513",
       "image": null,
       "published_at": "2025-11-28T05:29:42.000Z",
@@ -842,16 +892,6 @@
       "summary": "Wall Street Journal reports that Tehran has sent Hezbollah hundreds of millions of dollars  obtained through oil sales over the past year; UAE says working to put a stop to it\nThe post Iran said funneling huge sums to Hezbollah via Dubai in attempt to help it rebuild appeared first on The Times of I"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Two Palestinian terror suspects shot dead in Jenin after surrendering to Border Police",
-      "url": "https://www.timesofisrael.com/two-palestinian-terror-suspects-shot-dead-in-jenin-after-surrendering-to-border-police/",
-      "image": null,
-      "published_at": "2025-11-28T00:23:38.000Z",
-      "summary": "Incident under investigation by officers' commanders; international pressure mounts as European nations condemn settler attacks in joint statement\nThe post Two Palestinian terror suspects shot dead in Jenin after surrendering to Border Police appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -869,7 +909,7 @@
       "url": "https://www.haaretz.com/opinion/2025-11-28/ty-article/.premium/trauma-under-the-olive-tree/0000019a-c69a-dcd7-a3be-debbccd00000",
       "image": "https://img.haarets.co.il/bs/0000019a-b6d7-db55-a7bb-ffd7c3160006/05/50/6482c4664c66a16fb25be2f4c8b8/904901.jpg?height=81",
       "published_at": "2025-11-28T00:16:01.000Z",
-      "summary": "Israelis have always claimed that Palestinian schools 'teach hate.' But, as an Israeli police raid on a children's play at El-Hakawati Theater shows, these children have no need for textbooks to engrave in their hearts who scares them and drives them away"
+      "summary": ""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -880,16 +920,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-c704-db2f-afdf-f73c67dd0000/e1/cf/76bc05fb49eea65996d693f14195/576900.jpg?height=81",
       "published_at": "2025-11-28T00:04:45.000Z",
       "summary": ""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump says National Guard’s Sarah Beckstrom has died after DC shooting",
-      "url": "https://www.aljazeera.com/news/2025/11/28/trump-says-one-national-guard-soldier-shot-near-white-house-has-died?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-28T00:03:46.000Z",
-      "summary": "US president says second National Guard member &#039;fighting for his life&#039; after attack a day earlier in Washington, DC."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -980,16 +1010,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c52/live/ba403110-cbba-11f0-a892-01d657345866.jpg",
       "published_at": "2025-11-27T22:18:56.000Z",
       "summary": "The Russian president accuses Kyiv of wanting to fight \"to the last Ukrainian\" - which he says Russia is also \"in principle\" ready to do."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Guinea-Bissau’s deposed President Embalo arrives in Senegal after coup",
-      "url": "https://www.aljazeera.com/news/2025/11/27/guinea-bissaus-deposed-president-embalo-arrives-in-senegal-after-coup?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-27T22:18:17.000Z",
-      "summary": "Senegal&#039;s Foreign Ministry says Umaro Sissoco Embalo arrived in the country a day after he was deposed in military coup."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1102,16 +1122,6 @@
       "summary": "Reporter's Notebook: The new Luski Aquatic Center marks the third generation of the Luski family's support for the Israel ParaSport Center, ensuring disabled athletes have facilities to thrive."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "‘Real uncertainty’: What to know about Honduras’ presidential election",
-      "url": "https://www.aljazeera.com/news/2025/11/27/real-uncertainty-what-to-know-about-the-honduran-presidential-election?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-27T21:41:47.000Z",
-      "summary": "Several candidates are vying to replace President Xiomara Castro, but concerns about voting process have caused tension."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1150,16 +1160,6 @@
       "image": null,
       "published_at": "2025-11-27T21:16:18.000Z",
       "summary": "Stay Forte, which was made using classic prison-break movie tropes, manages to keep some suspense throughout, and the drama is not so much about what they did but how they managed to do it. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Former Peru President Pedro Castillo sentenced to 11.5 years in prison",
-      "url": "https://www.aljazeera.com/news/2025/11/27/former-peru-president-pedro-castillo-sentenced-to-11-5-years-in-prison?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-27T20:48:32.000Z",
-      "summary": "The decision follows Castillo&#039;s failed 2022 bid to dissolve Congress and avoid a third impeachment attempt. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
