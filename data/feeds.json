@@ -1,11 +1,141 @@
 {
-  "generated_at": "2025-11-28T11:33:00.885Z",
+  "generated_at": "2025-11-28T12:17:24.299Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IAF pilots reveal rapid approvals, zero-mistake hit on Hezbollah military chief Ali Tabatabai",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-876538",
+      "image": null,
+      "published_at": "2025-11-28T13:49:21.000Z",
+      "summary": "An IAF combat pilot from the targeted-killings team reveals the intel break, rapid approvals, and two-floor precision strike that killed Hezbollah chief of staff Haytham Ali Tabatabai in Beirut."
+    },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Nuns win reprieve in abandoned convent in Alps - if they stay off social media",
+      "title": "National Guard member dies after shooting in Washington DC ",
+      "url": "https://www.bbc.com/news/articles/cwyx4y6007lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b27/live/79cb55e0-cc34-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-28T12:07:45.000Z",
+      "summary": "Sarah Beckstrom, 20, succumbed to her injuries, while a second guardsman remains in critical condition, Donald Trump says."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הנגבי נגד הפטור מגיוס חרדים: \"החוק מכשיר השתמטות ומסכן את עתיד המדינה\"",
+      "url": "https://www.ynet.co.il/news/article/bjsktbv1111g",
+      "image": null,
+      "published_at": "2025-11-28T11:59:47.000Z",
+      "summary": "בהתבטאות ראשונה מאז שרה\"מ נתניהו הדיח אותו מתפקיד ראש המל\"ל, הזכיר הנגבי את מאבקו להעלאת הפרופיל הרפואי כדי להיות לוחם בצנחנים. \"חמישה עשורים חלפו, והנטל עדיין נופל על כתפי מעטים יחסית\", כתב ברשתות"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "השיפורים הישראליים למטוס הקרב המתקדם בעולם - שהפכו אותו לעוד יותר טוב",
+      "url": "https://www.ynet.co.il/news/article/s1yneds11wg",
+      "image": null,
+      "published_at": "2025-11-28T11:59:04.000Z",
+      "summary": "הוספת מכלי דלק. הסתמכות על תחזוקה מקומית. החלפת מערכת הלוחמה האלקטרונית. שינוי התוכנה. ה-F-35 האמריקני צפוי להימכר לסעודיה - אבל כמו ה\"אדיר\" הישראלי הוא לא יהיה. הדיווחים על השיפורים לחמקן, התקיפות במרחק 1,700 ק\"מ ללא תדלוק שהדהימו את ארה\"ב - ומדוע זה מעניין אותם במיוחד"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Hong Kong tower blocks fire death toll rises to 128",
+      "url": "https://www.bbc.com/news/articles/c79xd17dre3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/48dd23e0-cc44-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-28T11:59:00.000Z",
+      "summary": "Authorities say 89 bodies are unidentified and 79 people remain injured after Wednesday's blaze."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump says US will pause migration from 'third-world countries'",
+      "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e9/live/a3d64660-cc34-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-28T11:50:57.000Z",
+      "summary": "The president did not name which countries would be affected, but vowed to remove anyone \"not a net asset\" to the US."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Why has Venezuela banned six international airlines amid US tensions?",
+      "url": "https://www.aljazeera.com/news/2025/11/28/why-has-venezuela-banned-six-international-airlines-amid-us-tensions?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-28T11:46:10.000Z",
+      "summary": "Venezuela&#039;s decision to revoke permits for carriers is the latest response to escalating tensions with the US."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ukraine anti-corruption agents search home of Zelensky's top adviser",
+      "url": "https://www.bbc.com/news/articles/c058lp086zvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a3/live/29798c50-cc35-11f0-bee0-bb78b7c7ba87.jpg",
+      "published_at": "2025-11-28T11:42:23.000Z",
+      "summary": "Andriy Yermak has played a crucial role in Ukraine's response to Russia's war and is lead negotiator in peace talks."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "More than 50 killed in deadly Sri Lanka floods: What we know so far",
+      "url": "https://www.aljazeera.com/economy/2025/11/28/more-than-50-killed-in-deadly-sri-lanka-floods-what-we-know-so-far?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-28T11:42:00.000Z",
+      "summary": "Cyclone Ditwah caused landslides in the central mountainous tea-growing regions of Badulla and Nuwara Eliya. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "צה\"ל יהרוס 24 מבנים בג'נין, אחרי ייעוץ משפטי: \"המטרה - להגן על הלוחמים\"",
+      "url": "https://www.ynet.co.il/news/article/sjlklldwwe",
+      "image": null,
+      "published_at": "2025-11-28T11:41:36.000Z",
+      "summary": "המהלך החריג במבצע במחומש הכפרים בצפון-מזרח השומרון: על-מנת לאפשר את הרחבת הצירים לצורך מעבר עם כלים כבדים, עודכנו התושבים בג'נין שהם יכולים לפנות את חפציהם לפני ההריסה. החשש: דרבון פעילי טרור בגזרות אחרות"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Two former Peruvian presidents jailed in two days",
+      "url": "https://www.bbc.com/news/articles/c0q5ww558ngo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5536/live/435790e0-cc44-11f0-a666-77ae802e0cf4.jpg",
+      "published_at": "2025-11-28T11:36:20.000Z",
+      "summary": "Pedro Castillo and Martín Vizcarra are the latest in a series of Peruvian presidents to be sent to prison."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Police raid Jewish-Arab group event in Haifa 'to ensure messages are legal'",
+      "url": "https://www.haaretz.com/israel-news/2025-11-28/ty-article/.premium/israeli-police-raid-jewish-arab-group-event-in-haifa-to-ensure-messages-are-legal/0000019a-ca0c-d824-ad9e-eb7f77df0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-ca10-db55-a7bb-efd4f1e90000/27/a6/4e37252842aea2a6cf8eca1ae41a/omdim.jpeg?height=81",
+      "published_at": "2025-11-28T11:35:31.000Z",
+      "summary": "Police returned to the Haifa Congress Center twice, activists said, demanding a 'Getting out of Gaza' sign be removed and warning they would cut microphones over any 'provocation'"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Pope, Orthodox leader mark Christian milestone in historic Turkiye meeting",
+      "url": "https://www.aljazeera.com/news/2025/11/28/pope-orthodox-leader-mark-christian-milestone-in-historic-turkiye-meeting?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-28T11:34:43.000Z",
+      "summary": "First American pope urges Catholic Church in Turkiye to serve the most vulnerable, including migrants and refugees."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Runaway nuns can stay in Alpine convent if they leave social media",
       "url": "https://www.bbc.com/news/articles/c0l9z176lnlo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a669/live/04ca61e0-cc44-11f0-8c06-f5d460985095.jpg",
       "published_at": "2025-11-28T11:25:16.000Z",
@@ -35,11 +165,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "תיעוד דרמטי מקרב היריות פנים אל פנים בסוריה: \"מחבל!\"",
+      "title": "תיעוד דרמטי מקרב היריות פנים אל פנים בסוריה: \"מחבל! הוא מוציא ראש\"",
       "url": "https://www.ynet.co.il/news/article/hyipf0ib11l",
       "image": null,
       "published_at": "2025-11-28T11:10:19.000Z",
-      "summary": "בתיעוד יוצא דופן שהפיץ צה\"ל נראים המעצרים בבית ג'ן, והירי לעבר הלוחמים: \"מחבל! הוא מוציא ראש\". 6 קצינים ולוחמים נפצעו, בישראל העבירו מסרים לא-שרע והכינו סל תגובות. בסוריה כינו \"פשע מלחמה\" את תקיפות התגובה שבהן נהרגו לפחות 13 סורים. זהו הארגון שאנשיו נעצרו במיטותיהם - לפני ההיתקלות"
+      "summary": "בתיעוד יוצא דופן שהפיץ צה\"ל נראים המעצרים בבית ג'ן, והירי לעבר הלוחמים: \"מחבל! בבית משמאל\". 6 קצינים ולוחמים נפצעו, בישראל העבירו מסרים לא-שרע והכינו סל תגובות. בסוריה כינו \"פשע מלחמה\" את תקיפות התגובה שבהן נהרגו לפחות 13 סורים. זהו הארגון שאנשיו נעצרו במיטותיהם - לפני ההיתקלות"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -172,16 +302,6 @@
       "summary": "“Israel is still in the mood of, I would say, not full-fledged war, but unrest and instability.”"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump says US will pause migration from 'third-world countries'",
-      "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e9/live/a3d64660-cc34-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-28T10:17:27.000Z",
-      "summary": "The president did not name which countries would be affected, but vowed to remove anyone \"not a net asset\" to the US."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -190,26 +310,6 @@
       "image": null,
       "published_at": "2025-11-28T10:15:45.000Z",
       "summary": "Commander hints that the IDF is not leaving Syria any time soon, despite US-sponsored talks"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Hong Kong tower blocks fire death toll rises to 128",
-      "url": "https://www.bbc.com/news/articles/c79xd17dre3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/48dd23e0-cc44-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-28T10:09:03.000Z",
-      "summary": "Authorities say 89 bodies are unintentified and 79 people remain injured after Wednesday's blaze."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Ukraine anti-corruption agents search home of Zelensky's top adviser",
-      "url": "https://www.bbc.com/news/articles/c058lp086zvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a3/live/29798c50-cc35-11f0-bee0-bb78b7c7ba87.jpg",
-      "published_at": "2025-11-28T10:07:14.000Z",
-      "summary": "Andriy Yermak has played a crucial role in Ukraine's response to Russia's war and is lead negotiator in peace talks."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -310,16 +410,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14de/live/195dcd20-cbf1-11f0-8d2c-035473429d3c.jpg",
       "published_at": "2025-11-28T08:59:32.000Z",
       "summary": "The price increase is expected to raise millions to fund the museum's renovation plans."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "National Guard member dies after shooting in Washington DC ",
-      "url": "https://www.bbc.com/news/articles/cwyx4y6007lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b27/live/79cb55e0-cc34-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-28T08:48:33.000Z",
-      "summary": "Sarah Beckstrom, 20, succumbed to her injuries, while a second guardsman remains in critical condition, Donald Trump says."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -772,16 +862,6 @@
       "summary": "As Netanyahu boosts an outlet accusing Israel of 'historic crimes,' Katz blocks indictments and shields allies, dragging the defense establishment into his political trench wars. Even cabinet ministers now admit the army is kept in crisis to dodge a real inquiry"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Jordan demands Russia stop recruiting citizens after two killed in fighting",
-      "url": "https://www.aljazeera.com/news/2025/11/28/jordan-demands-russia-stop-recruiting-citizens-after-two-killed-in-fighting?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-28T03:45:01.000Z",
-      "summary": "Aman says it will take &#039;all available measures&#039; to stop its citizens from being recruited to fight for Russian forces. "
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -805,21 +885,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "IDF plans demolition of 24 buildings in Jenin refugee camp",
+      "title": "Head of NGO supporting Haredi soldiers demands major changes to conscription bill",
       "url": "https://www.timesofisrael.com/liveblog-november-28-2025/",
       "image": null,
       "published_at": "2025-11-28T03:11:13.000Z",
-      "summary": "Man found dead in central Tel Aviv; body shows signs of violence, MDA says * Floods ravage Southeast Asia as rescuers ramp up recovery efforts; death toll passes 180\nThe post IDF plans demolition of 24 buildings in Jenin refugee camp appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump says US will stop Venezuelan drug trafficking ‘by land’ soon",
-      "url": "https://www.aljazeera.com/news/2025/11/28/trump-says-us-will-soon-stop-venezuelan-drug-trafficking-by-land?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-28T03:05:25.000Z",
-      "summary": "US president claims attacks on vessels in Latin American region have stopped 85 percent of drugs trafficked by sea. "
+      "summary": "UN condemns Israel’s killing of surrendered Palestinians in Jenin * Police accused of censorship after officers raid Standing Together event in Haifa — report\nThe post Head of NGO supporting Haredi soldiers demands major changes to conscription bill appeared first on The Times of Israel.\n"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -847,19 +917,9 @@
       "topic": "News",
       "title": "IDF: Bodies of nine militants found in Gaza tunnel",
       "url": "https://www.haaretz.com/israel-news/2025-11-28/ty-article-live/.premium/israeli-settlers-graffiti-set-fire-to-mosque-in-central-west-bank/0000019a-c85d-d824-ad9e-eb7faeb00000",
-      "image": "https://img.haarets.co.il/bs/00000195-d70e-da7e-adb7-ff9ee42a0007/b0/82/4d099e6e4d1881c787ed94513cd0/967613.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/00000196-da28-d9a9-a99e-fb2d4d980000/b2/d1/76ee300e4646b321f3bcb85bb262/710996-2.jpg?height=81",
       "published_at": "2025-11-28T02:54:57.000Z",
       "summary": ""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Russia-Ukraine war: List of key events, day 1,373",
-      "url": "https://www.aljazeera.com/news/2025/11/28/russia-ukraine-war-list-of-key-events-day-1373?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-28T01:10:46.000Z",
-      "summary": "Here are the key events from day 1,373 of Russia’s war on Ukraine.\n"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1080,36 +1140,6 @@
       "image": null,
       "published_at": "2025-11-27T22:00:00.000Z",
       "summary": "זלנסקי הוא \"עכברוש, רודף נוצרים\", ישראל היא \"נטל אסטרטגי\" ו–11.9 היה \"שקר\". אחרי שפלירטט עם תיאוריית \"העליונות הלבנה\", מגיש הפודקאסט המגה–מצליח טאקר קרלסון מספק עכשיו במה נוחה גם למכחישי שואה, אנטישמים ומעריצי היטלר. בימין האמריקאי, שרכב שנים על גב הנמר הפופוליסטי, נבוכים לגלות שהובלו הפעם למחילת אר"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"שום דבר לא ישחרר ממך את התחושה שהיית חתום על חטוף חי, והחזרת אותו חלל\"",
-      "url": "https://www.ynet.co.il/news/article/yokra14592417",
-      "image": null,
-      "published_at": "2025-11-27T22:00:00.000Z",
-      "summary": "אל\"מ במיל' משה, קצין מודיעין בכיר במפקדת השבויים והנעדרים בצה\"ל, ליווה במשך יותר מ-11 שנה את משפחות גולדין ושאול והביא מודיעין על חטופי 7 באוקטובר. עכשיו הוא שובר שתיקה וחושף סודות שלא סיפר עד היום"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"אתה מספר בישיבה שרבת עם ערבים והם נגנבים\" | ההקצנה הולידה נוער גבעות חרדי",
-      "url": "https://www.ynet.co.il/news/article/yokra14592993",
-      "image": null,
-      "published_at": "2025-11-27T22:00:00.000Z",
-      "summary": "בין אלה שהתנגדו בשבוע שעבר לפינוי מאחז צור משגבי היו צעירים עם כיפות שחורות וחולצות לבנות. שבירת הטאבו האנטי–לאומני של הרבנים הגיעה עד כדי הקמת חוות ומאחזים לא-חוקיים. \"100 מטר מאיתנו גרו ערבים ואיך שבאנו הם ברחו\", מספר צעיר מגוש עציון. \"החרדים מתחילים להבין את חשיבות יישוב הארץ\". התופעה מקבלת גיבוי"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "לך תוכיח שאין לך אחים / מיכאל מילשטיין",
-      "url": "https://www.ynet.co.il/news/article/yokra14593404",
-      "image": null,
-      "published_at": "2025-11-27T22:00:00.000Z",
-      "summary": "כמוצא שלל רב קפץ נתניהו על הצהרת טראמפ בעניין האחים המוסלמים וזרק לאוויר הבחירות רמיזה שרע\"מ תיפסל | ספין או לא, המהומה בעיצומה. אם המהלך ייצא לפועל, עלול להתממש תרחיש האימה שטווה סינוואר על התקוממות ערביי ישראל ב–7 באוקטובר | יו\"ר המפלגה, מנסור עבאס, שמסריו בעברית ובערבית זהים, הודף את הטענות ונערך"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1682,16 +1712,6 @@
       "summary": "Australia in August accused Iran of directing two antisemitic arson attacks in the cities of Sydney and Melbourne, and expelled Tehran's ambassador for the first time since World War Two"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "New IDF chief lawyer Itay Offir sworn in, Israel Katz and Eyal Zamir attend closed ceremony",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-876376",
-      "image": null,
-      "published_at": "2025-11-27T10:14:24.000Z",
-      "summary": "Katz, IDF chief duel over how Offir will do his job • Offir says he would uphold the law, wherever that would take him"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1747,7 +1767,7 @@
       "topic": "News",
       "title": "Israeli settlers graffiti, set fire to mosque in central West Bank",
       "url": "https://www.haaretz.com/israel-news/2025-11-27/ty-article-live/u-s-senators-urge-trump-to-investigate-idf-violations-of-u-s-human-rights-law/0000019a-c314-dcd7-a3be-db3d02d70000",
-      "image": "https://img.haarets.co.il/bs/00000195-d70e-da7e-adb7-ff9ee42a0007/b0/82/4d099e6e4d1881c787ed94513cd0/967613.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/00000196-da28-d9a9-a99e-fb2d4d980000/b2/d1/76ee300e4646b321f3bcb85bb262/710996-2.jpg?height=81",
       "published_at": "2025-11-27T02:18:33.000Z",
       "summary": ""
     },
@@ -2300,16 +2320,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ba64-d360-a5bb-bb7f4cad0001/d4/d1/29fea5f64b498598e2868891fd72/843673.jpg?height=81",
       "published_at": "2025-11-25T17:33:49.000Z",
       "summary": "While 'Wicked: For Good' dominates movie theaters, it lacks the charm of its predecessor. Meanwhile, 'Jay Kelly,' a delightful comedy-drama starring George Clooney and Adam Sandler, is a warm embrace"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Pro-Boycott writer Peter Beinart faces BDS backlash over Tel Aviv University event",
-      "url": "https://www.haaretz.com/israel-news/2025-11-25/ty-article/.premium/pro-boycott-writer-peter-beinart-faces-bds-backlash-over-tel-aviv-university-event/0000019a-bb84-d824-ad9e-fbffdc210000",
-      "image": "https://img.haarets.co.il/bs/0000019a-bb8f-d360-a5bb-bb9ffc2b0000/e8/ad/100ab70e4d159c1f31553884178d/862671.jpg?height=81",
-      "published_at": "2025-11-25T16:41:25.000Z",
-      "summary": "Despite saying he supports 'many forms' of boycott against Israel, Beinart defended his decision to speak at the event, emphasizing the importance of engaging with Israelis. He previously criticized BDS for attacking an Arab-Jewish anti-occupation group, advocating for open dialogue regardless of id"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
