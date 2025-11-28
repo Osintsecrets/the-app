@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-28T15:38:00.492Z",
+  "generated_at": "2025-11-28T16:10:58.132Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -12,6 +12,16 @@
       "summary": "Personnel from the IDF, Israel Police and Shin Bet confiscated tens of thousands of shekels to be used in terror funding, dozens of weapons, and arrested scores of suspects."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Zelensky's chief of staff resigns after Ukrainian anti-corruption raid on his home",
+      "url": "https://www.bbc.com/news/articles/ckg9nd2wddno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a712/live/0c46c260-cc71-11f0-ab80-ff64212d3317.jpg",
+      "published_at": "2025-11-28T16:05:19.000Z",
+      "summary": "Yermak, 54, has been Zelensky's closest adviser throughout Russia's full-scale war."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -20,6 +30,16 @@
       "image": null,
       "published_at": "2025-11-28T15:54:33.000Z",
       "summary": "MILITARY AFFAIRS: Itay Offir comes into the office of the IDF military advocate general with the IDF embroiled in scandal and under attack by the ICC."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Thirteen killed in deadliest Israeli raid for months in southern Syria",
+      "url": "https://www.bbc.com/news/articles/cp89k31krz4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25e2/live/9e111080-cc6f-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-28T15:45:37.000Z",
+      "summary": "The village of Beit Jinn came under attack in what Israel said was an operation against a militant group."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -32,14 +52,14 @@
       "summary": "The incident, which occurred during Israeli counterterrorism operations in Jenin, is currently under investigation."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Zelensky's chief of staff resigns after anti-corruption raid",
-      "url": "https://www.bbc.com/news/articles/ckg9nd2wddno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5a/live/93202940-cc6f-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-11-28T15:34:29.000Z",
-      "summary": "Yermak, 54, has been Zelensky's closest adviser throughout Russia's full-scale war."
+      "title": "RSF military push for Kordofan leaves Sudan at risk of partition",
+      "url": "https://www.aljazeera.com/features/2025/11/28/rsf-military-push-for-kordofan-leaves-sudan-at-risk-of-partition?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-28T15:21:38.000Z",
+      "summary": "RSF already has control of western Sudan in war with Sudan&#039;s army, leaving country facing potential split. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -122,6 +142,16 @@
       "summary": "Authorities say 89 bodies are unidentified and 79 people remain injured after Wednesday's blaze."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Tunisia hands prison terms to dozens of opposition figures",
+      "url": "https://www.bbc.com/news/articles/c0r9qzrxdwwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab41/live/e68c96c0-cc62-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-28T15:03:15.000Z",
+      "summary": "The defendants were accused of attempting a coup - but human rights groups say the trial was politically motivated."
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -175,11 +205,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Ukraine anticorruption investigators search home of Zelenskyy’s top aide",
+      "title": "Zelenskyy’s top aide resigns after search by anti-corruption investigators",
       "url": "https://www.aljazeera.com/news/2025/11/28/ukraine-anticorruption-investigators-search-home-of-zelenskyys-top-aide?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-28T14:20:40.000Z",
-      "summary": "Ukrainian president&#039;s chief of staff Andriy Yermak confirms search, saying he has offered &#039;full cooperation&#039;."
+      "summary": "Ukrainian president says chief of staff Andriy Yermak has submitted his resignation amid widescale corruption probe."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -582,16 +612,6 @@
       "summary": "The Smol Emuni – the Faithful Left movement saw up close how a small group slowly reshaped Israeli society. Now they plan to do the same – from the opposite side"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Ten killed in deadliest Israeli raid for months in southern Syria",
-      "url": "https://www.bbc.com/news/articles/cp89k31krz4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4934/live/20dbbcd0-cc35-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-28T10:39:06.000Z",
-      "summary": "The village of Beit Jinn came under attack in what Israel said was an operation against a militant group."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -870,16 +890,6 @@
       "image": null,
       "published_at": "2025-11-28T07:12:40.000Z",
       "summary": "לא מדובר בחוק גיוס, לא בהסדרה ולא בפתרון – אלא בתרמית מבנית שמייצרת מסלול אחד בלבד: הישארות בישיבה"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "LIVE: Israel bombs Syria, Gaza after extrajudicial killings in West Bank",
-      "url": "https://www.aljazeera.com/news/liveblog/2025/11/28/live-israel-4?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-28T07:12:10.000Z",
-      "summary": "At least 13 Syrians killed in Israeli attacks after two unarmed Palestinians murdered in occupied West Bank&#039;s Jenin."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
