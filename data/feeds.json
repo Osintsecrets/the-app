@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-28T13:44:07.693Z",
+  "generated_at": "2025-11-28T14:09:12.500Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Can new MAG Itay Offir save the IDF's legal corps - and shield Israel from ICC war crime threat?",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-876455",
+      "image": null,
+      "published_at": "2025-11-28T15:54:33.000Z",
+      "summary": "MILITARY AFFAIRS: Itay Offir comes into the office of the IDF military advocate general with the IDF embroiled in scandal and under attack by the ICC."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -32,6 +42,46 @@
       "summary": "\"The IDF needs an additional thousand fighters,\" he continued. \"The proposed law, as is, does not advance this goal; it enables dodging, and endangers the future of the state.\""
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "National Guard member dies after shooting in Washington DC ",
+      "url": "https://www.bbc.com/news/articles/cwyx4y6007lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b27/live/79cb55e0-cc34-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-28T14:07:20.000Z",
+      "summary": "Sarah Beckstrom, 20, succumbed to her injuries, while a second guardsman remains in critical condition, Donald Trump says."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Hong Kong tower blocks fire death toll rises to 128",
+      "url": "https://www.bbc.com/news/articles/c79xd17dre3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/48dd23e0-cc44-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-28T14:03:21.000Z",
+      "summary": "Authorities say 89 bodies are unidentified and 79 people remain injured after Wednesday's blaze."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump says US will pause migration from 'third-world countries'",
+      "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e9/live/a3d64660-cc34-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-28T13:57:48.000Z",
+      "summary": "The president did not name which countries would be affected, but vowed to remove anyone \"not a net asset\" to the US."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ex-president's daughter resigns over allegations she duped South Africans to fight for Russia",
+      "url": "https://www.bbc.com/news/articles/cx2dndy228xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2afa/live/96b5b240-cc52-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-11-28T13:54:56.000Z",
+      "summary": "Her resignation comes as a South African allegedly recruited to fight in Ukraine recounts the horrors of war to the BBC."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -42,14 +92,34 @@
       "summary": "An IAF combat pilot from the targeted-killings team reveals the intel break, rapid approvals, and two-floor precision strike that killed Hezbollah chief of staff Haytham Ali Tabatabai in Beirut."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בהלה בגן הילדים: המנוף קרס סמוך לחצר, הילדים פונו",
+      "url": "https://www.ynet.co.il/news/article/bywfwzdb11g",
+      "image": null,
+      "published_at": "2025-11-28T13:45:47.000Z",
+      "summary": "בזמן יום הלימודים, זרוע העגורן קרסה על מבנה סמוך לגן בגבעת שמואל. ההורים הוזעקו לאסוף את הילדים המבוהלים. נפתחה חקירה, צו סגירה זמני הוצא לאתר הבנייה: \"זה רק מזל שאירוע כזה לא הסתיים באסון רב נפגעים\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Donald Trump lashes out at reporter asking about DC shooter",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/donald-trump-lashes-out-at-reporter-asking-about-dc-shooter?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-28T13:40:30.000Z",
+      "summary": "Donald Trump snapped at a reporter who asked why he blames the Biden administration for the shooting in Washington, DC."
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "&#8216;To hell with Trump and Netanyahu&#8217;: Hamas messages played from bus stop signs in cyberattack",
+      "title": "&#8216;To hell with Trump and Netanyahu&#8217;: Hamas messages play from Israeli bus stops in cyberattack",
       "url": "https://www.timesofisrael.com/to-hell-with-trump-and-netanyahu-hamas-messages-played-from-bus-stop-signs-in-cyberattack/",
       "image": null,
       "published_at": "2025-11-28T13:27:31.000Z",
-      "summary": "LED screens used to monitor arrivals and buy tickets turned into mouthpieces for terror after apparent hack from 'hostile country,' CEO of signage company tells Hebrew media\nThe post &#8216;To hell with Trump and Netanyahu&#8217;: Hamas messages played from bus stop signs in cyberattack appeared fir"
+      "summary": "LED screens used to monitor arrivals and buy tickets turned into mouthpieces for terror after apparent hack from 'hostile country,' CEO of signage company says\nThe post &#8216;To hell with Trump and Netanyahu&#8217;: Hamas messages play from Israeli bus stops in cyberattack appeared first on The Tim"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -60,16 +130,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2886/live/177d9e00-cc4a-11f0-a892-01d657345866.jpg",
       "published_at": "2025-11-28T13:06:42.000Z",
       "summary": "Researchers heard electric crackles on 28 hours of recordings made over two Martian years."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Ex-president's daughter resigns over allegations she duped South Africans to fight for Russia",
-      "url": "https://www.bbc.com/news/articles/cx2dndy228xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2afa/live/96b5b240-cc52-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-11-28T12:54:13.000Z",
-      "summary": "Her resignation comes as a South African allegedly recruited to fight in Ukraine recounts the horrors of war to the BBC."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -109,17 +169,7 @@
       "url": "https://www.timesofisrael.com/ousted-chair-of-knesset-defense-panel-government-pushing-exact-opposite-of-a-conscription-law/",
       "image": null,
       "published_at": "2025-11-28T12:43:17.000Z",
-      "summary": "Likud MK Yuli Edelstein, who backed stricter measure, says critics of bill exempting yeshiva students from IDF service to face 'threats' ahead of vote on controversial legislation\nThe post Ousted chair of Knesset defense panel: Government pushing &#8216;exact opposite&#8217; of a conscription law ap"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Hong Kong tower blocks fire death toll rises to 128",
-      "url": "https://www.bbc.com/news/articles/c79xd17dre3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/48dd23e0-cc44-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-28T12:34:19.000Z",
-      "summary": "Authorities say 89 bodies are unidentified and 79 people remain injured after Wednesday's blaze."
+      "summary": "Likud MK Yuli Edelstein, who backed stricter measure, says critics inside coalition of bill exempting yeshiva students from IDF service will face 'threats' ahead of vote on legislation\nThe post Ousted chair of Knesset defense panel: Government pushing &#8216;exact opposite&#8217; of a conscription l"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -140,16 +190,6 @@
       "image": null,
       "published_at": "2025-11-28T12:10:43.000Z",
       "summary": "טולקובסקי, מפקד חיל האוויר החמישי, היה זה שקלט את מטוסי הסילון הראשונים ופיקד על כוחות האוויר במבצע קדש. לאחר שחרורו הוא עבר לעסקים, ונחשב לאחד מהאבות המייסדים של תעשיית ההייטק"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "National Guard member dies after shooting in Washington DC ",
-      "url": "https://www.bbc.com/news/articles/cwyx4y6007lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b27/live/79cb55e0-cc34-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-28T12:07:45.000Z",
-      "summary": "Sarah Beckstrom, 20, succumbed to her injuries, while a second guardsman remains in critical condition, Donald Trump says."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -210,16 +250,6 @@
       "image": null,
       "published_at": "2025-11-28T11:59:04.000Z",
       "summary": "הוספת מכלי דלק. הסתמכות על תחזוקה מקומית. החלפת מערכת הלוחמה האלקטרונית. שינוי התוכנה. ה-F-35 האמריקני צפוי להימכר לסעודיה - אבל כמו ה\"אדיר\" הישראלי הוא לא יהיה. הדיווחים על השיפורים לחמקן, התקיפות במרחק 1,700 ק\"מ ללא תדלוק שהדהימו את ארה\"ב - ומדוע זה מעניין אותם במיוחד"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump says US will pause migration from 'third-world countries'",
-      "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e9/live/a3d64660-cc34-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-28T11:50:57.000Z",
-      "summary": "The president did not name which countries would be affected, but vowed to remove anyone \"not a net asset\" to the US."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -515,11 +545,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Justice Ministry unit investigates Border Police officer recorded killing surrendered Palestinians in Jenin",
+      "title": "Justice Ministry unit investigates Border Police officers in recorded killing of surrendered Palestinians in Jenin",
       "url": "https://www.haaretz.com/israel-news/2025-11-28/ty-article/.premium/israeli-authorities-to-investigate-officer-recorded-killing-surrendered-palestinians/0000019a-c9b9-db55-a7bb-edfd2d920001",
       "image": "https://img.haarets.co.il/bs/0000019a-c657-db2f-afdf-f67ffcdc0001/ca/16/25ca3584445ebbd14ac2c4d24c62/whatsapp-image-2025-11-27-at-19-16-06.jpeg?height=81",
       "published_at": "2025-11-28T09:21:07.000Z",
-      "summary": "After two officers were filmed shooting Palestinians who they had already detained at close range, the IDF declared that the incident was 'under review', while National Security Minister Ben-Gvir voiced support for the killings"
+      "summary": "After officers were filmed shooting Palestinians who they had already detained at close range, the IDF declared that the incident was 'under review', while National Security Minister Ben-Gvir voiced support for the killings"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -785,11 +815,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Syrians say 20 killed by Israel after clash with IDF left six soldiers wounded",
-      "url": "https://www.haaretz.com/israel-news/2025-11-28/ty-article/.premium/idf-six-soldiers-wounded-in-southern-syria-including-three-in-a-serious-condition/0000019a-c92f-d824-ad9e-eb7fabeb0000",
+      "title": "Syrians say 13 killed by Israel after clash with IDF left six soldiers wounded",
+      "url": "https://www.haaretz.com/israel-news/2025-11-28/ty-article/idf-six-soldiers-wounded-in-southern-syria-including-three-in-a-serious-condition/0000019a-c92f-d824-ad9e-eb7fabeb0000",
       "image": "https://img.haarets.co.il/bs/0000019a-c939-db2f-afdf-ff39c1680001/f2/cf/a954116c4a768399193f59f31a18/941665.jpg?height=81",
       "published_at": "2025-11-28T07:03:37.000Z",
-      "summary": "According to the Israeli military, militants opened fire on troops as they were carrying out arrests in the area near the border. The Syrian Foreign Ministry later reported that 20 people were killed in subsequent Israeli strikes"
+      "summary": "According to the Israeli military, militants opened fire on troops as they were carrying out arrests in the area near the border. The Syrian Foreign Ministry later reported that 13 people were killed in subsequent Israeli strikes"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -850,16 +880,6 @@
       "image": null,
       "published_at": "2025-11-28T06:29:20.000Z",
       "summary": "סמל גיא בזק התגייס לגדוד 51 של גולני, 25 שנה אחרי שאביו פיקד עליו. ב-7/10 הספיק לסמס לאחותו ש\"האדמה רועדת\", ואז עלה על ציוד - ויצא לקרב. בקיבוץ כיסופים, לצד חבריו לכוח, חיסל מחבלי חמאס - ואף מנע מאחת החוליות לחדור ליישוב. האב יובל: \"מהיום שנולד הוא היה יוצא דופן. מסתבר שלא ידענו כמה\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump suspends immigration from ‘Third World’, orders review of green cards",
-      "url": "https://www.aljazeera.com/news/2025/11/28/trump-suspends-immigration-from-third-world-orders-review-of-green-cards?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-28T06:27:11.000Z",
-      "summary": "Green card applications from &#039;countries of concern&#039; will be reviewed after Afghan national named as shooting suspect."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1150,16 +1170,6 @@
       "image": null,
       "published_at": "2025-11-27T22:01:00.000Z",
       "summary": "מאחורי דלת סגורה בי-ם, אנשי מקצוע מקבלים החלטות שיכולות לשנות חיי ילדים שהותקפו מינית: לחקור, לערב משטרה, להפנות להליך טיפולי בניסיון למנוע פגיעה נוספת. ל\"בית לין\", מרכז הגנה לקטינים, מגיעים אלפי דיווחים מבוהלים וסיפורים קטועים – וכל החלטה חייבת להתקבל במהירות וברגישות: \"שיחה אחת יכולה להציל ילד״"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אבל זה הוא התחיל! / חנוך דאום",
-      "url": "https://www.ynet.co.il/news/article/yokra14589080",
-      "image": null,
-      "published_at": "2025-11-27T22:00:00.000Z",
-      "summary": "איך גם סוגיה שיש לגביה הסכמה גורפת - אלימות זה דבר רע - הפכה לעניין של פוזיציה?"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1600,16 +1610,6 @@
       "image": null,
       "published_at": "2025-11-27T12:58:36.000Z",
       "summary": "Prosecutors indicted Ariel Dahari for a racially motivated assault on Palestinian harvesters near Turmus Aiya, seeking to keep him in custody until trial."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel thwarts Turkish-led terror network funneling weapons to West Bank on behalf of Hamas",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-876387",
-      "image": null,
-      "published_at": "2025-11-27T12:52:25.000Z",
-      "summary": "The suspects were arrested in joint operations with Israel Police, and indictments are expected to be filed in the coming days, the agency said."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
