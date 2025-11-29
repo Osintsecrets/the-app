@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-29T13:26:26.426Z",
+  "generated_at": "2025-11-29T13:40:37.211Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -20,6 +20,16 @@
       "image": null,
       "published_at": "2025-11-29T14:59:29.000Z",
       "summary": "Argentina has formally launched the Isaac Accords, a new initiative aimed at strengthening political, economic and cultural cooperation between Israel and Latin America."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump says Venezuela airspace to be shut ‘in its entirety’ as tensions rise",
+      "url": "https://www.aljazeera.com/news/2025/11/29/trump-says-venezuela-airspace-to-be-shut-in-its-entirety-as-tensions-rise?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-29T13:09:04.000Z",
+      "summary": "This is a breaking news story."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -179,7 +189,7 @@
       "url": "https://www.bbc.com/news/articles/cz0nljm4y74o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a43/live/a72730f0-ccf6-11f0-8231-1f56aaf8d190.jpg",
       "published_at": "2025-11-29T11:29:35.000Z",
-      "summary": "A widening corruption scandal has forced the resignation of Ukraine's second most powerful person."
+      "summary": "A widening corruption scandal forced Ukraine's second most powerful person, Andriy Yermak, to resign."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -800,16 +810,6 @@
       "image": null,
       "published_at": "2025-11-28T22:05:55.000Z",
       "summary": "France announces new military service plans weeks after Germany."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Palestinians forced into lockdown as Israel’s West Bank assault continues",
-      "url": "https://www.aljazeera.com/news/2025/11/28/palestinians-forced-into-lockdown-as-israels-west-bank-assault-continues?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-28T21:55:46.000Z",
-      "summary": "Save the Children says Palestinians are sheltering at home as Israeli raids injure dozens and lead to mass arrests."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
