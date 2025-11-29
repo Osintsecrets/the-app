@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-29T16:09:30.959Z",
+  "generated_at": "2025-11-29T16:42:22.708Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -10,6 +10,46 @@
       "image": null,
       "published_at": "2025-11-29T16:43:22.000Z",
       "summary": "One of the wounded on the Palestinian side was hit by gunfire from a Jewish settler."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump to pardon ex-Honduras president convicted of drug trafficking",
+      "url": "https://www.bbc.com/news/articles/c1kpm0rvxepo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca43/live/d4debd70-ccf0-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-11-29T16:32:00.000Z",
+      "summary": "Juan Orlando Hernández was sentenced in the US to 45 years behind bars for conspiring to smuggle cocaine."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "How will Netanyahu steal Israel's upcoming election?",
+      "url": "https://www.haaretz.com/opinion/2025-11-29/ty-article-opinion/.premium/how-will-netanyahu-steal-israels-upcoming-election/0000019a-cba7-db55-a7bb-eff7b0240000",
+      "image": "https://img.haarets.co.il/bs/0000019a-cbc6-d824-ad9e-ebff446a0001/0c/c3/eeaea7874544a7f81bd368c6026f/827491-2.jpg?height=81",
+      "published_at": "2025-11-29T16:24:20.000Z",
+      "summary": "The prime minister has famously shared a post for an article claiming that Jeffrey Epstein interfered in Israeli elections. It's another sign the 2026 campaign will be flooded with lies and conspiracy theories"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "שני ילדים נהרגו ברצועה, צה\"ל: חשודים שחצו את הקו הצהוב והותקפו מהאוויר",
+      "url": "https://www.ynet.co.il/news/article/h1z5oqo11wl",
+      "image": null,
+      "published_at": "2025-11-29T16:21:01.000Z",
+      "summary": "בעזה דיווחו ששני אחים בני 10 ו-12 נהרגו בתקיפת כטב\"ם כשיצאו לאסוף קרשים למדורה: \"הם ילדים, מה הם עשו?\". צה\"ל: חצו את הקו הצהוב והיוו \"איום מיידי\" על החיילים. בבוקר: \"חוסל מחבל שהתקרב לכוחות\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russian strikes on Kyiv kill three as Ukraine envoys travel to US for talks",
+      "url": "https://www.aljazeera.com/news/2025/11/29/russian-strikes-on-kyiv-kill-three-as-ukraine-envoys-travel-to-us-for-talks?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-29T16:15:33.000Z",
+      "summary": "Russian strikes on Kyiv kill three, injure dozens, as Ukraine seeks US support for a resolution to the war."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -395,11 +435,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Israeli attack kills two children in southern Gaza despite ceasefire",
+      "title": "Gaza death toll surpasses 70,000 as Israel keeps up attacks despite truce",
       "url": "https://www.aljazeera.com/news/2025/11/29/israeli-attack-kills-two-children-in-southern-gaza-despite-ceasefire?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-29T10:17:00.000Z",
-      "summary": "Drone attack hits Bani Suheila in southern Gaza amid continued Israeli attacks on the enclave."
+      "summary": "Israeli drone attack kills two Palestinian children in southern Gaza, medics report, as humanitarian crisis deepens."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -532,16 +572,6 @@
       "summary": "באיראן פרסמו תיעודים מרגעי הפיצוצים במפקדה ובעמדה נוספת של יחידות ההגנה האווירית של הרפובליקה האיסלאמית. בסעודיה דווח: \"אלו סרטונים סודיים שמראים את פגיעת טילי השיוט הישראליים\". בכיר בצבא איראן: \"מערכות ואנשים נפגעו - אך רשת ההגנה לא הפסיקה לפעול לרגע\""
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump to pardon ex-Honduras president convicted of drug trafficking",
-      "url": "https://www.bbc.com/news/articles/c1kpm0rvxepo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca43/live/d4debd70-ccf0-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-11-29T07:28:01.000Z",
-      "summary": "Juan Orlando Hernández was sentenced in the US to 45 years behind bars for conspiring to smuggle cocaine."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -615,11 +645,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Russia-Ukraine war live: Ukraine comes under deadly drone, missile attacks",
+      "title": "Russia-Ukraine war updates: Ukraine comes under deadly attacks",
       "url": "https://www.aljazeera.com/news/liveblog/2025/11/29/russia-ukraine-war-live-kyiv-comes-under-deadly-drone-missile-attacks?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-29T06:48:39.000Z",
-      "summary": "At least three people have been killed in Kyiv and two others in Dnipropetrovsk in Russian drone and missile attacks."
+      "summary": "These were the updates about the Russia-Ukraine war on Saturday, November 29, 2025."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -860,16 +890,6 @@
       "image": null,
       "published_at": "2025-11-28T23:26:28.000Z",
       "summary": "East Timor&#039;s declaration of independence in November 1975 was swiftly followed by invasion and decades of occupation.  "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump says will pardon former Honduras leader before presidential vote",
-      "url": "https://www.aljazeera.com/news/2025/11/28/trump-says-will-pardon-former-honduras-leader-before-presidential-vote?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-28T22:47:19.000Z",
-      "summary": "Juan Orlando Hernandez, member of Trump-endorsed candidate Nasry Asfura&#039;s party, serving US drug trafficking sentence."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1200,16 +1220,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-caff-db55-a7bb-efffcf600000/3d/bd/c9849bcc4f0db1e038ba160e7a1d/938940.jpg?height=81",
       "published_at": "2025-11-28T15:18:25.000Z",
       "summary": "In his first apostolic trip, Leo visited religious sites in Turkey and urged onlookers to support Turkey's migrant population, alongside broader messages of peace and reconciliation ahead of his visit to Lebanon on Sunday"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הרמטכ\"ל נפגש עם פצועים מהקרב בסוריה; העדויות מהלחימה - וההפגנות נגד ישראל",
-      "url": "https://www.ynet.co.il/news/article/bkljbqd11zg",
-      "image": null,
-      "published_at": "2025-11-28T15:15:32.000Z",
-      "summary": "רא\"ל זמיר ביקר שני לוחמים שנפצעו בקרב בכפר בית ג'ן שבדרום סוריה, אביו של אחד מהם סיפר: \"תכננו לחגוג לו יום הולדת עם אחיו התאום, הוא מאוד עייף ממה שעבר\". סורים יצאו היום להפגין נגד ישראל, בדמשק שרפו דגלים. הסמג\"ד סיפר על הלחימה מול המחבלים: \"הצלחנו לסכל תשתיות בעומק, טרור צריך לפגוש צבא\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2220,16 +2230,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-bf50-db55-a7bb-ffd427000000/dc/1a/dde57ab24a2e966ac752539c7896/914153.jpg?height=81",
       "published_at": "2025-11-26T09:08:11.000Z",
       "summary": "Pope Leo will not visit Lebanon's south, battered by last year's war between Israel and Hezbollah and the site of intensified Israeli strikes in recent weeks. Israel's recent strike that killed Hezbollah's chief of staff in Beirut reinforced security concerns"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Body of Israeli hostage Dror Or returned from Gaza after 781 days in captivity",
-      "url": "https://www.haaretz.com/israel-news/2025-11-26/ty-article/.premium/body-of-israeli-hostage-dror-or-returned-from-gaza-by-hamas/0000019a-becf-d360-a5bb-bfdfd1dd0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-bf09-d360-a5bb-bf1b14050005/68/76/c24d878d44389d99dfdbb5ed9c7a/dror-or-3.jpg?height=81",
-      "published_at": "2025-11-26T06:21:23.000Z",
-      "summary": "Dror Or, 48, was murdered during the October 7 Hamas attack and kidnapped from his home on Kibbutz Be'eri. His wife Yonat was also murdered, and two of their children were kidnapped to Gaza and released in an earlier hostage deal"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
