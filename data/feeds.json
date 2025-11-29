@@ -1,6 +1,66 @@
 {
-  "generated_at": "2025-11-29T17:07:42.611Z",
+  "generated_at": "2025-11-29T17:35:17.553Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Flooding in southern Asia leaves 600 dead",
+      "url": "https://www.bbc.com/news/articles/c5y9ejley9do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e51/live/b9daa970-cd23-11f0-8283-5d59e9f176b9.jpg",
+      "published_at": "2025-11-29T17:33:40.000Z",
+      "summary": "The region is hit by some of the worst floods in years, with millions affected in Indonesia, Malaysia, Thailand and Sri Lanka."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הקרב הגדול הבא בליכוד: מי ייבחר לנשיא הוועידה וישלוט על חוקת המפלגה?",
+      "url": "https://www.ynet.co.il/news/article/hyod4s0011we",
+      "image": null,
+      "published_at": "2025-11-29T17:22:48.000Z",
+      "summary": "השר חיים כץ יתמודד מול ח\"כ דוד ביטן על נשיאות ועידת הליכוד, בבחירות עם השפעה מכרעת על השליטה בתנועה בתקופה הקרובה. ביטן וכץ, שרץ גם לראשות מרכז המפלגה, הם האנשים החזקים ביותר במרכז הליכוד החדש שנבחר השבוע"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Brothers, 8 and 11, killed in south Gaza strike; IDF: ‘Suspects’ crossed Yellow Line",
+      "url": "https://www.timesofisrael.com/brothers-8-and-11-killed-in-south-gaza-strike-idf-suspects-crossed-yellow-line/",
+      "image": null,
+      "published_at": "2025-11-29T17:07:26.000Z",
+      "summary": "Uncle of Juma and Fadi Abu Asi says they were killed while searching for firewood in IDF-held territory; army says troops in Rafah also eliminated 'terrorist'\nThe post Brothers, 8 and 11, killed in south Gaza strike; IDF: ‘Suspects’ crossed Yellow Line appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הורי החטוף הישראלי האחרון בעזה שוחחו עם נתניהו: \"לא לוותר, לא לשכוח, לא לעבור לשלב ב'\"",
+      "url": "https://www.ynet.co.il/news/article/rkipcq00z11e",
+      "image": null,
+      "published_at": "2025-11-29T17:05:25.000Z",
+      "summary": "רה\"מ שוחח עם הוריו של החלל החטוף רן גואילי, שנפל בגבורה ב-7/10, ועם שגריר תאילנד - שאזרחה סונטיסק רינטאלק הוא החלל החטוף השני שנותר בעזה. אמו של רן, טליק, סיפרה ל-ynet כי ביקשה מנתניהו לא להמשיך בשלב השני בתוכנית טראמפ - כל עוד שני החטופים האחרונים לא מוחזרים: \"שכולם יכירו את השמות\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מחר הגשם חוזר - ומה צפוי בדצמבר | התחזית",
+      "url": "https://www.ynet.co.il/news/article/bjd00hcdw11x",
+      "image": null,
+      "published_at": "2025-11-29T17:01:51.000Z",
+      "summary": "השבוע הקרוב ייפתח באווירה סגרירית, והגשמים צפויים בעיקר בצפון הארץ. ביום שני יהיו \"שאריות\" של גשמים מקומיים. אחרי נובמבר שחון, הצפי לדצמבר: כמויות משקעים קרובות לממוצע"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Consider airspace around Venezuela closed, Trump says ",
+      "url": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e3e/live/70ac8f80-cd45-11f0-b610-cf72bc71edf9.jpg",
+      "published_at": "2025-11-29T16:43:24.000Z",
+      "summary": "The US cannot legally close another country's airspace, but Trump's comments could deter airlines from operating in Venezuela.  "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,16 +70,6 @@
       "image": null,
       "published_at": "2025-11-29T16:43:22.000Z",
       "summary": "One of the wounded on the Palestinian side was hit by gunfire from a Jewish settler."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Flooding in southern Asia leaves hundreds dead",
-      "url": "https://www.bbc.com/news/articles/c5y9ejley9do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e51/live/b9daa970-cd23-11f0-8283-5d59e9f176b9.jpg",
-      "published_at": "2025-11-29T16:42:32.000Z",
-      "summary": "The region is hit by some of the worst floods in years, with millions affected in Indonesia, Malaysia and Thailand."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -425,11 +475,11 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "UN Committee Against Torture condemns Israel’s ‘disproportionate’ response to October 7 attacks",
+      "title": "UN Committee against Torture condemns Israel’s ‘disproportionate’ response to October 7 attacks",
       "url": "https://www.jpost.com/israel-news/article-876587",
       "image": null,
       "published_at": "2025-11-29T10:41:00.000Z",
-      "summary": "The committee also expressed concern over the treatment of Palestinians in the West Bank, citing both increased settler violence and the use of administrative detention against terror suspects."
+      "summary": "Panel also expresses concern over treatment of Palestinians in the West Bank, citing both increased settler violence and use of administrative detention."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -720,16 +770,6 @@
       "image": null,
       "published_at": "2025-11-29T05:33:22.000Z",
       "summary": "בכירים אוקראינים, כך לפי \"בלומברג\", עושים דרכם לארה\"ב לפגישה עם טראמפ. ה\"וול סטריט ג'ורנל\" חשף את הרווחים שארה\"ב תגרוף אם קייב תקבל את ההסכם שעוצב בהשפעת רוסיה: \"יוכלו לנצל נכסים רוסיים בכ-300 מיליארד דולר\". אך עד שזה יקרה, המלחמה נמשכת: פיצוצים במכליות ששייכות ל\"צי הצללים\" של רוסיה"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Lebanon&#8217;s army displays underground Hezbollah sites amid push to dismantle them",
-      "url": "https://www.timesofisrael.com/lebanons-army-displays-underground-hezbollah-sites-amid-push-to-dismantle-them/",
-      "image": null,
-      "published_at": "2025-11-29T04:54:09.000Z",
-      "summary": "Troops take journalists on tour of terror group's underground network as military insists it is working hard to enforce the ceasefire\nThe post Lebanon&#8217;s army displays underground Hezbollah sites amid push to dismantle them appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1082,16 +1122,6 @@
       "summary": "Secretary-General Naim Qassem said that the strike, which killed the group's military chief, Haytham Abu Ali Tabatabai, was a 'blatant aggression' by Israel, and called on the Lebanese government to prepare a plan to confront Israel that relies on 'its army and its people'"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Runaway nuns can stay in Alpine convent if they leave social media",
-      "url": "https://www.bbc.com/news/articles/c0l9z176lnlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a669/live/04ca61e0-cc44-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-11-28T18:43:25.000Z",
-      "summary": "The three nuns say they were taken out of the convent against their will and placed in a care home."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1122,16 +1152,6 @@
       "summary": "Personnel from the IDF, Israel Police and Shin Bet confiscated tens of thousands of shekels to be used in terror funding, dozens of weapons, and arrested scores of suspects."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בנאום ראשון מאז חיסול הרמטכ\"ל: האיום של מזכ\"ל חיזבאללה",
-      "url": "https://www.ynet.co.il/news/article/skoqridbbg",
-      "image": null,
-      "published_at": "2025-11-28T17:03:33.000Z",
-      "summary": "נעים קאסם נאם לראשונה מאז חוסל עלי הייתם טבטבאי, מספר 2 בארגון הטרור, ואיים כי יגיב על החיסול: \"יש לנו את הזכות לכך, ואנחנו נקבע את העיתוי\". לדבריו, \"מטרת החיסול - לערער את המורל שלנו וליצור בלבול\""
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1140,26 +1160,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ca83-dcd7-a3be-dabb4c2e0001/c4/bb/b26bad9a4e3cb266bbe80225c78e/225037.jpg?height=81",
       "published_at": "2025-11-28T17:01:26.000Z",
       "summary": "Mansour Abbas of the United Arab List understands that the place of an Arab-led party in the Israeli coalition is not something that can wait for that far-off day after the occupation has ended. That's a threat to everything Benjamin Netanyahu's government stands for"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "טלטלה בקייב: יד ימינו של זלנסקי התפטר",
-      "url": "https://www.ynet.co.il/news/article/sjz3wrwwze",
-      "image": null,
-      "published_at": "2025-11-28T16:39:21.000Z",
-      "summary": "אנדריי ירמאק, ראש הלשכה של הנשיא ומנהל צוות המו\"מ האוקראיני שנחשב לאחד האנשים החזקים במדינה, התפטר מתפקידו. שעות קודם סוכנויות המאבק בשחיתות פשטו על דירתו במתחם הנשיאותי בקייב: \"חיפושים גם במשרדו\". כך ביסס את מעמדו - והקריאות לפטרו בצל השערורייה שמסבכת את זלנסקי"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המרצה שנחשדה בהסתה נגד רה\"מ נעצרה שוב: \"נתניהו, באים לקחת אותך\"",
-      "url": "https://www.ynet.co.il/news/article/ryx5srpzzx",
-      "image": null,
-      "published_at": "2025-11-28T16:32:52.000Z",
-      "summary": "המשטרה עצרה את ד\"ר יולנדה יבור מאור עקיבא בחשד להסתה נגד ראש הממשלה. היא תובא מחר לדיון בהארכת מעצרה, אחרי שכתבה בפייסבוק: \"הבחירה היחידה היא להילחם בבוגד - או לחדול. דיקטטורה לא מפילים בקלפי\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
