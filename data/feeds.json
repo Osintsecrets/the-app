@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-11-29T05:39:07.118Z",
+  "generated_at": "2025-11-29T06:13:10.956Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Grapevine: Sigh... more hotels",
+      "url": "https://www.jpost.com/israel-news/article-876454",
+      "image": null,
+      "published_at": "2025-11-29T07:59:20.000Z",
+      "summary": "Movers and shakers in Israeli society."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Planes grounded after Airbus discovers solar radiation could impact systems",
+      "url": "https://www.bbc.com/news/articles/c8e9d13x2z7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602d/live/3750e380-ccaa-11f0-9975-d11a46903c55.jpg",
+      "published_at": "2025-11-29T06:01:25.000Z",
+      "summary": "The issue is thought to affect 6,000 planes, which will need to undergo an urgent software update or have computers replaced."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "NYC Palestinian restaurant renames itself to honor Columbia&#8217;s anti-Israel protesters",
+      "url": "https://www.timesofisrael.com/nyc-palestinian-restaurant-renames-itself-to-honor-columbias-anti-israel-protesters/",
+      "image": null,
+      "published_at": "2025-11-29T05:37:00.000Z",
+      "summary": "Ayat rebrands as 'Hinds Hall,' paying homage to protesters' takeover of a campus building and renaming of it after Hind Rajab, a Palestinian girl killed in Gaza\nThe post NYC Palestinian restaurant renames itself to honor Columbia&#8217;s anti-Israel protesters appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "המשלחת האוקראינית, והחזון של וויטקוף: \"לא יהיו עוד מלחמות - כי כולם ישגשגו\"",
+      "url": "https://www.ynet.co.il/news/article/hjvkee00bbl",
+      "image": null,
+      "published_at": "2025-11-29T05:33:22.000Z",
+      "summary": "בכירים אוקראינים, כך לפי \"בלומברג\", עושים דרכם לארה\"ב לפגישה עם טראמפ. ה\"וול סטריט ג'ורנל\" חשף את הרווחים שארה\"ב תגרוף אם קייב תקבל את ההסכם שעוצב בהשפעת רוסיה: \"יוכלו לנצל נכסים רוסיים בכ-300 מיליארד דולר\". אך עד שזה יקרה, המלחמה נמשכת: פיצוצים במכליות ששייכות ל\"צי הצללים\" של רוסיה"
+    },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
@@ -10,16 +50,6 @@
       "image": null,
       "published_at": "2025-11-29T04:54:09.000Z",
       "summary": "Troops take journalists on tour of terror group's underground network as military insists it is working hard to enforce the ceasefire\nThe post Lebanon&#8217;s army displays underground Hezbollah sites amid push to dismantle them appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Russian drone strikes hit Kyiv residential areas despite peace moves",
-      "url": "https://www.bbc.com/news/articles/cx2gylngx7go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6ca/live/54f61020-cce3-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-11-29T04:48:18.000Z",
-      "summary": "The attack on Ukraine's capital early on Saturday killed one person and injured seven, city officials said."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -212,6 +242,16 @@
       "summary": "The late sex offender maintained contact with wealthy and influential people even after his first conviction. "
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "We searched for a true Christmas market - and may have found one",
+      "url": "https://www.bbc.com/news/articles/clyzdxyjx2eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9e/live/adaa8850-c9ea-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-11-29T00:03:22.000Z",
+      "summary": "We visited festive markets in the UK and Germany to check which come closest to the real deal."
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -395,7 +435,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Airbus issues major A320 recall after flight-control incident",
+      "title": "Airbus issues major A320 recall after flight control incident",
       "url": "https://www.aljazeera.com/economy/2025/11/28/airbus-issues-major-a320-recall-after-flight-control-incident?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-28T20:56:10.000Z",
@@ -680,16 +720,6 @@
       "image": null,
       "published_at": "2025-11-28T18:42:40.000Z",
       "summary": "Majority say mayor-elect is antisemitic, 56% say they're 'worried' about city's next mayor, who accuses Israel of genocide and initially declined to criticize calls for global intifada\nThe post Poll: 2/3 of &#8216;connected&#8217; US Jews say Mamdani will make NYC less safe for them appeared first o"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Zelensky&#8217;s chief of staff resigns as Ukraine corruption investigations widen",
-      "url": "https://www.timesofisrael.com/zelenskys-chief-of-staff-resigns-as-ukraine-corruption-investigations-widen/",
-      "image": null,
-      "published_at": "2025-11-28T18:42:11.000Z",
-      "summary": "Departure of long-time confidant Yermak a blow for Ukrainian leader as he negotiates a potential end to war sparked by Russian invasion\nThe post Zelensky&#8217;s chief of staff resigns as Ukraine corruption investigations widen appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1172,16 +1202,6 @@
       "summary": "Movers and shakers in Israeli society."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Japan's same-sex marriage ban is constitutional, says Tokyo court",
-      "url": "https://www.bbc.com/news/articles/clyz7njqwvvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e3/live/a456ec40-cc2d-11f0-83b4-73da040a79fa.jpg",
-      "published_at": "2025-11-28T07:57:44.000Z",
-      "summary": "The ruling bucks a trend set by courts around Japan that had raised hopes for marriage equality."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1200,16 +1220,6 @@
       "image": null,
       "published_at": "2025-11-28T07:25:42.000Z",
       "summary": "שרי החוץ של בריטניה, גרמניה, צרפת ואיטליה הביעו דאגה לנוכח התגברות ההתנכלויות מצד פורעים יהודים כלפי פלסטינים ביו\"ש: \"פיגועים אלה זורעים טרור בקרב אזרחים\". הם קראו לישראל להעמיד לדין את \"האחראים לפשעים\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "כזה עוד לא ראיתם: אלפים מחכים בתור - רק כדי לקבל תור לחידוש דרכון פורטוגלי | תיעוד מדהים",
-      "url": "https://www.ynet.co.il/news/article/bkkedtlw11l",
-      "image": null,
-      "published_at": "2025-11-28T07:17:39.000Z",
-      "summary": "מחוץ לסינמה סיטי בגלילות מחכים אלפי ישראלים בתור שנמשך גם בחניון התת-קרקעי - רק כדי לקבל תור לשגרירות בפורטוגל בתחילת השנה הבאה"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1390,16 +1400,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-c747-d360-a5bb-f75f105d0000/59/35/9672d5d5420fb1d6b9fac2681db2/843843.jpg?height=81",
       "published_at": "2025-11-27T23:24:43.000Z",
       "summary": "Even amid Hamas attacks and Hezbollah threats, Netanyahu focused his fury on anti-government protesters. Police, Shin Bet and courts were pressed to crack down – sometimes absurdly  – while the Supreme Court allowed Justice Minister Levin to intervene in criminal probes"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "At The Jewish Agency Board Meeting, ‘we act to impact’ becomes a blueprint for Israel’s recovery",
-      "url": "https://www.jpost.com/israel-news/article-876422",
-      "image": null,
-      "published_at": "2025-11-27T23:13:11.000Z",
-      "summary": "Community representatives met with relatives of hostages and with bereaved families, toured war-affected areas, and discussed plans to increase aliyah while confronting antisemitism."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
