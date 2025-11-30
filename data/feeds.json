@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-30T17:07:51.844Z",
+  "generated_at": "2025-11-30T17:36:28.323Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "'Not one minister called me, saying welcome back': Ex-hostage Gadi Mozes slams gov't - N12",
+      "url": "https://www.jpost.com/israel-news/article-876748",
+      "image": null,
+      "published_at": "2025-11-30T19:08:43.000Z",
+      "summary": "Mozes pushed for a state commission of inquiry to “investigate everything that happened that morning.”"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -30,6 +40,26 @@
       "image": null,
       "published_at": "2025-11-30T17:45:30.000Z",
       "summary": "Germany tightened its defense after a close first quarter, holding Israel to 9 points in the second quarter and pulling away for an 89,69 win in the qualifier."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "האתגרים, \"איחוי הקרע\" - והמחיר הציבורי שישלם נתניהו | דילמת החנינה של הרצוג ",
+      "url": "https://www.ynet.co.il/news/article/hyjmyrfbbx",
+      "image": null,
+      "published_at": "2025-11-30T17:31:01.000Z",
+      "summary": "נשיא המדינה צפוי \"לחטוף\" על החלטתו בבקשת החנינה של רה\"מ - בין אם ייעתר לה ובין אם לאו. ההחלטה עשויה לעצב את מורשתו, אך אופן הבקשה - ללא כל הודאה או הבעת חרטה - מכניס את הרצוג להתלבטות חריפה. אלו החוסרים בבקשה התקדימית, לוח הזמנים - והאפשרות שיעניק לנתניהו \"חנינה על תנאי\""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "These Israeli women soldiers watched Gaza 24 hours a day. Now we get to watch them",
+      "url": "https://www.haaretz.com/life/2025-11-30/ty-article-magazine/.premium/these-israeli-women-soldiers-watched-gaza-24-hours-a-day-now-we-get-to-watch-them/0000019a-d41f-db2f-afdf-f63f93780000",
+      "image": "https://img.haarets.co.il/bs/0000019a-d45f-db55-a7bb-fddfe59b0001/ab/fc/7c31bf604c77b3cbccafc9517f04/culture-roundup-30-11-2025.png?height=81",
+      "published_at": "2025-11-30T17:24:29.000Z",
+      "summary": "A video exhibition at Tel Aviv Museum of Art features the IDF soldiers known as 'spotters' who are tasked with watching Israel's border with Gaza. Plus, the creator of 'Mad Men' flies in for a new TV festival in Jerusalem, and Quentin Tarantino recommends a Netflix film"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -235,7 +265,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "'Only those guilty seek a pardon': Opposition slams Netanyahu's pardon request, ministers push Herzog to accept",
+      "title": "'Only the guilty seek a pardon': Opposition slams Netanyahu's pardon request, ministers push Herzog to accept",
       "url": "https://www.haaretz.com/israel-news/2025-11-30/ty-article/.premium/netanyahus-request-for-pardon-slammed-by-opposition-as-ministers-push-herzog-to-accept/0000019a-d4e2-d824-ad9e-ffff75f90000",
       "image": "https://img.haarets.co.il/bs/0000019a-d510-db2f-afdf-f738ed7b0000/81/05/8aafb24a4c6ca32b82f522ca33e6/826686.jpg?height=81",
       "published_at": "2025-11-30T15:04:48.000Z",
@@ -835,11 +865,11 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Hamas battalion commander among killed as IDF targets terrorists exiting Gaza tunnel in Rafah",
+      "title": "WATCH: IDF destroys Hamas infrastructure, including tunnels, bunkers, kills terrorists near Rafah",
       "url": "https://www.jpost.com/israel-news/defense-news/article-876670",
       "image": null,
       "published_at": "2025-11-30T10:40:54.000Z",
-      "summary": "Guided by the IAF, Israeli troops operating on the ground were able to identify and kill the terrorists."
+      "summary": "Earlier on Sunday, the IDF confirmed that they killed Hamas battalion commanders, along with other terrorist operatives."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -940,16 +970,6 @@
       "image": null,
       "published_at": "2025-11-30T09:33:55.000Z",
       "summary": "Israel Railways announced that the trains have since returned to full operation."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "800 הרוגים בהצפות באסיה: \"גשם של פעם ב-300 שנה\" | משרד החוץ באזהרה לישראלים",
-      "url": "https://www.ynet.co.il/news/article/hjk006ytbwx",
-      "image": null,
-      "published_at": "2025-11-30T09:31:17.000Z",
-      "summary": "גשמי מונסון וסופות טרופיות גרמו בשבוע שעבר להצפות באינדונזיה, תאילנד ומלזיה בדרום מזרח-אסיה. בשלושתן נהרגו יותר מ-500 איש, רובם באי סומטרה באינדונזיה, שם מאות נעדרים. קרוב ל-200 הרוגים בסרי לנקה בדרום היבשת, שם היכתה סופת ציקלון. משרד החוץ קורא לשוהים בסרי לנקה, הודו ותאילנד להיזהר"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1340,16 +1360,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-d143-d824-ad9e-fb7fd43a0001/5c/dd/f924b05c44f485a56ec4e73cb508/herzogs.jpeg?height=81",
       "published_at": "2025-11-29T17:33:26.000Z",
       "summary": "The name of the park, honoring Israel's sixth president who was born in Ireland and spent his childhood in Dublin, will be up for a vote on Monday amid pro-Palestinian efforts, according to the Irish Times. Ireland's Jewish Representative Council warned that the move 'would be widely understood as a"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Two Jews, seven Palestinians wounded in clash near Bethlehem",
-      "url": "https://www.jpost.com/israel-news/article-876602",
-      "image": null,
-      "published_at": "2025-11-29T16:43:22.000Z",
-      "summary": "One of the wounded on the Palestinian side was hit by gunfire from a Jewish settler."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2260,16 +2270,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-b232-d7d6-ab9f-fffab8470000/ff/5b/8543611546e8852121956544630e/103189.jpg?height=81",
       "published_at": "2025-11-26T20:31:18.000Z",
       "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "The visionary Palestinian peace plan for Israel and Gaza that you've never heard of",
-      "url": "https://www.haaretz.com/middle-east-news/palestinians/2025-11-26/ty-article/.premium/the-visionary-palestinian-peace-plan-for-israel-and-gaza-that-youve-never-heard-of/0000019a-c18d-db2f-afdf-f7bdaa2f0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-c1a9-d360-a5bb-f1bbef160001/de/fe/4aa221434b71859862f8760ab0c5/894540.jpg?height=81",
-      "published_at": "2025-11-26T20:06:21.000Z",
-      "summary": "A 51-page document by a group of Palestinian scholars and policy thinkers offers a much clearer path to Middle East peace than the UN resolution or Trump's 20-point plan"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
