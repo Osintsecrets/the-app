@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-30T22:38:24.386Z",
+  "generated_at": "2025-11-30T23:08:18.318Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Pope Leo finds his voice on first foreign trip",
+      "url": "https://www.bbc.com/news/articles/cvgrwedyr0eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f14c/live/e94afe40-ce35-11f0-b0ac-d13c1508eb1d.jpg",
+      "published_at": "2025-11-30T22:41:04.000Z",
+      "summary": "We are learning a little more about how Pope Leo intends to carry out his duties, writes Religion Editor Aleem Maqbool."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -179,7 +189,7 @@
       "url": "https://www.timesofisrael.com/what-to-know-about-netanyahus-request-for-a-pardon-in-his-corruption-trial/",
       "image": null,
       "published_at": "2025-11-30T21:49:02.000Z",
-      "summary": "Democracy think tank says that in shying away from admitting any wrongdoing, PM could send a problematic message about public norms\nThe post What to know about Netanyahu&#8217;s request for a pardon in his corruption trial appeared first on The Times of Israel.\n"
+      "summary": "President has broad discretion, but a pardon before conviction 'threatens the rule of law,' says democracy think tank, and Netanyahu is still insisting he's innocent\nThe post What to know about Netanyahu&#8217;s request for a pardon in his corruption trial appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -269,7 +279,7 @@
       "url": "https://www.timesofisrael.com/four-foreign-activists-said-wounded-by-settlers-near-jericho-one-seriously/",
       "image": null,
       "published_at": "2025-11-30T20:11:01.000Z",
-      "summary": "Three Italians and one Canadian are accosted in Ein al-Duyuk by masked gang, who beat them and steal their passports, wallets and phones\nThe post Four foreign activists said wounded by settlers near Jericho, one seriously appeared first on The Times of Israel.\n"
+      "summary": "Three Italians and one Canadian reportedly accosted in Ein al-Duyuk by masked gang, who beat them and steal their passports, wallets and phones\nThe post Four foreign activists said wounded by settlers near Jericho, one seriously appeared first on The Times of Israel.\n"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -445,11 +455,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Pope says two states the &#8216;only solution&#8217; to conflict as he opens Lebanon visit",
+      "title": "Pope calls two states &#8216;only solution&#8217; to Palestinian conflict as he opens Lebanon visit",
       "url": "https://www.timesofisrael.com/pope-says-two-states-the-only-solution-to-conflict-as-he-opens-lebanon-visit/",
       "image": null,
       "published_at": "2025-11-30T18:28:50.000Z",
-      "summary": "Catholic leader arrives in Beirut under tight security, urges Lebanese citizens to remain in country, which has seen waves of emigration due to war and sectarian divisions\nThe post Pope says two states the &#8216;only solution&#8217; to conflict as he opens Lebanon visit appeared first on The Times "
+      "summary": "Leo XIV arrives in Beirut under tight security, urges Lebanese citizens to remain in country, which has seen waves of emigration due to war and sectarian divisions\nThe post Pope calls two states &#8216;only solution&#8217; to Palestinian conflict as he opens Lebanon visit appeared first on The Times"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1195,7 +1205,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Netanyahu writes to Israeli president requesting pardon in corruption cases",
+      "title": "Israel’s Netanyahu urges president to pardon corruption cases",
       "url": "https://www.aljazeera.com/news/2025/11/30/netanyahu-writes-to-israeli-president-requesting-pardon-in-corruption-cases?traffic_source=rss",
       "image": null,
       "published_at": "2025-11-30T10:32:29.000Z",
