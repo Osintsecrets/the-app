@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-11-30T16:09:45.928Z",
+  "generated_at": "2025-11-30T16:42:27.413Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Netanyahu will not consider plea deal requiring him to leave politics, wants to run again",
+      "url": "https://www.jpost.com/israel-news/article-876751",
+      "image": null,
+      "published_at": "2025-11-30T18:38:35.000Z",
+      "summary": "Sources close to President Herzog said that a decision on Netanyahu's pardon will take at least two months."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -32,10 +42,70 @@
       "summary": "Former Olympic swimmer Adi Bichman has been unanimously appointed CEO of Israel’s Olympic Committee as the country begins its push toward the 2028 Games."
     },
     {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Dror Or of Kibbutz Be&#8217;eri, beloved father and cheesemaker, buried alongside his wife",
+      "url": "https://www.timesofisrael.com/dror-or-of-kibbutz-beeri-beloved-father-and-cheesemaker-buried-alongside-his-wife/",
+      "image": null,
+      "published_at": "2025-11-30T16:35:04.000Z",
+      "summary": "Family eulogizes couple as 'people of freedom and light, of spirit and creativity,' assails political leadership for evading responsibility for October 7 attack\nThe post Dror Or of Kibbutz Be&#8217;eri, beloved father and cheesemaker, buried alongside his wife appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "פה אחד, יום לפני הדיון על הפטור מגיוס: אושרה הגדלת מכסת משרתי המילואים",
+      "url": "https://www.ynet.co.il/news/article/rjp5by911zg",
+      "image": null,
+      "published_at": "2025-11-30T16:17:10.000Z",
+      "summary": "ללא התנגדות, ובזמן שהחרדים צועדים לעבר הפטור: כל שרי הממשלה אישרו במשאל דחוף את הצעת שר הביטחון לאפשר גיוס של 280,000 חיילי מילואים. \"הנטל יוגבר על כתפיהם של קבוצה מצומצמת יחסית של משרתים מאוכלוסיית המדינה\", נכתב בהחלטה - העשירית מאז 7/10. מחר: דיון בכנסת על החוק הנפיץ"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Pope Leo insists on 2-state solution to resolve Israel-Palestine conflict",
+      "url": "https://www.aljazeera.com/news/2025/11/30/pope-leo-insists-on-2-state-solution-to-resolve-israel-palestine-conflict?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-30T16:07:36.000Z",
+      "summary": "Crowds welcome Pope Leo in Beirut as he calls for an end to violence and promotes interfaith understanding."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Indonesia searches for hundreds missing in deadly floods",
+      "url": "https://www.bbc.com/news/articles/clyz82z7p8zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63c8/live/ec2e8510-ce07-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-11-30T16:06:28.000Z",
+      "summary": "The death toll on the island of Sumatra has risen to more than 440, the government says."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Is US President Donald Trump preparing to strike Venezuela?",
+      "url": "https://www.aljazeera.com/news/2025/11/30/is-us-president-donald-trump-preparing-to-strike-venezuela?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-11-30T16:04:40.000Z",
+      "summary": "Venezuela slams Trump&#039;s warning that its airspace should be considered closed amid rising tensions."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הסיקור בעולם: \"נתניהו מתחנן לנשיא, הרצוג יוכל להגיד לא לטראמפ?\"",
+      "url": "https://www.ynet.co.il/news/article/hkkcrrtz11e",
+      "image": null,
+      "published_at": "2025-11-30T16:04:39.000Z",
+      "summary": "בקשת החנינה של רה\"מ זוכה להבלטה רבה בתקשורת הבינ\"ל, שמנסה להסביר: \"איך אפשר לחון את מי שטרם הורשע?\". BBC: \"עבור רבים בישראל מתן חנינה יסדוק עוד קצת את הדימוי העצמי של דמוקרטיה איתנה עם מערכת משפט חזקה\". בעיתונים מדגישים את מסע השכנועים של טראמפ – והדילמה של הרצוג: \"באמת ירצה ללכת נגד רצונו של האיש ה"
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Thousands attend funeral of Dror Or, Kibbutz Be'eri's last hostage",
+      "title": "Thousands attend funeral of Dror Or, Kibbutz Be'eri's last hostage returned from Hamas captivity",
       "url": "https://www.haaretz.com/israel-news/2025-11-30/ty-article/.premium/thousands-attend-funeral-of-dror-or-kibbutz-beeris-last-hostage/0000019a-d4fc-dcd7-a3be-defdfd210000",
       "image": "https://img.haarets.co.il/bs/0000019a-d4e6-dfc2-af9f-d6e66f4b0000/64/00/0a6fbf3c4f4db7e073467e06abc9/959956-2.jpg?height=81",
       "published_at": "2025-11-30T15:57:53.000Z",
@@ -375,7 +445,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Climate protesters in kayaks disrupt operations at Australia port",
+      "title": "Climate protesters in kayaks disrupt operations at Australian port",
       "url": "https://www.bbc.com/news/videos/c865p45j3qeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b857/live/c9d05e10-cdeb-11f0-8c06-f5d460985095.jpg",
       "published_at": "2025-11-30T13:08:54.000Z",
@@ -560,16 +630,6 @@
       "image": null,
       "published_at": "2025-11-30T12:00:01.000Z",
       "summary": "מתקדים פרשת קו 300 עולה כי בידי הנשיא הרצוג נתון כוח רב ביותר לעצב את התנאים לאישור בקשת החנינה - החל ממועד סיום דרכו הפוליטית של נתניהו, המשך בתנאים הקשורים לקידום רפורמות ושינויים בתחום המשפט, ואולי אף הקמת ועדת חקירה ממלכתית לאירוע 7 באוקטובר"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "More than 400 killed in Indonesia flooding, officials say",
-      "url": "https://www.bbc.com/news/articles/c5y9ejley9do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/201b/live/f8de5930-cded-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-11-30T11:59:49.000Z",
-      "summary": "Hundreds have been killed across South East Asia, with monsoons exacerbated by cyclones also affecting Thailand and Malaysia."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -792,16 +852,6 @@
       "summary": ""
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Man killed by train after falling on tracks in Tel Aviv, causing rush-hour chaos",
-      "url": "https://www.timesofisrael.com/man-killed-by-train-after-falling-on-tracks-in-tel-aviv-causing-rush-hour-chaos/",
-      "image": null,
-      "published_at": "2025-11-30T09:56:09.000Z",
-      "summary": "Israel Railways says man fell onto tracks from overpass south of HaHagana Station, was struck by oncoming train; rail service around Tel Aviv halted for 2 hours, gradually resumes\nThe post Man killed by train after falling on tracks in Tel Aviv, causing rush-hour chaos appeared first on The Times of"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -880,26 +930,6 @@
       "image": null,
       "published_at": "2025-11-30T09:19:19.000Z",
       "summary": " זה לא נורמלי שחבל ארץ שבו ילדים גדלים באופן שגרתי לחלוטין תחת מתקפות טילים, טרור שריפות, חשש מחדירות מחבלים מהקרקע ומהאוויר - מקום שבו הכל שליו וקסום עד שהוא הופך לגיהנום, לא מסוגל לכל הפחות להבטיח סבבי טיפול ככל הנדרש לכל אזרח שמתגורר שם"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "שעות לאחר חזרתו לעבודה במשטרה: מפקד להב 433 נחקר שוב במח\"ש",
-      "url": "https://www.ynet.co.il/news/article/bk2tftkwzx",
-      "image": null,
-      "published_at": "2025-11-30T09:10:49.000Z",
-      "summary": "ניצב מני בנימין, שהמפכ\"ל אישר לו לשוב למשטרה, זומן פעם נוספת לחקירה. פרקליטו תקף: \"מח\"ש עושה הכול כדי למנוע ממנו לפעול במסגרת תפקידו\". בשבועיים האחרונים נחקר בנימין בחשד שפעל בכמה מקרים בניגוד עניינים"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המלחמה נגמרה, אבל העולם שוב התחיל לצוד יהודים",
-      "url": "https://www.ynet.co.il/news/article/syh6dktw11l",
-      "image": null,
-      "published_at": "2025-11-30T09:10:40.000Z",
-      "summary": "מדינה כמו שלנו, שקמה משום שלא הייתה לנו הגנה בשום מקום אחר בעולם, לא יכולה לעמוד מנגד כשהחיילים שלה נרדפים מחוץ לגבולותיה."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1002,16 +1032,6 @@
       "summary": "Lionel Messi&#039;s Inter Miami will host Vancouver in the MLS Cup final after a dominant victory against New York City FC."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Stockton birthday party shooting kills four, injures 10",
-      "url": "https://www.aljazeera.com/news/2025/11/30/four-dead-after-14-people-shot-at-childs-birthday-party-in-california?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-30T06:51:08.000Z",
-      "summary": "Authorities have not yet released information about the attacker&#039;s identity or motive behind attack on family gathering."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1020,16 +1040,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67af/live/ff4f7b90-cd67-11f0-a892-01d657345866.jpg",
       "published_at": "2025-11-30T06:22:36.000Z",
       "summary": "The two ships struck by drones were thought to be used to bypass Western sanctions on Russia."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Thousands march in Philippines, demanding Marcos resign over fraud scandal",
-      "url": "https://www.aljazeera.com/news/2025/11/30/thousands-rally-in-philippines-demanding-marcos-resign-over-graft-scandal?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-30T06:03:32.000Z",
-      "summary": "Claims that President Ferdinand Marcos Jr took kickbacks from infrastructure projects cause outrage in the Philippines. "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1137,7 +1147,7 @@
       "topic": "News",
       "title": "Pope Leo says Palestinian state 'only solution' to conflict, which 'Israel still does not accept'",
       "url": "https://www.haaretz.com/israel-news/2025-11-30/ty-article-live/gaza-death-toll-crosses-70-000-since-israel-hamas-war-began-gaza-health-ministry-says/0000019a-d1f9-db2f-afdf-f7f9bab10000",
-      "image": "https://img.haarets.co.il/bs/0000019a-d104-db2f-afdf-f73c2df30001/2a/8d/66c73260457a95cc78d3b5755e25/protests-at-hostage-square-in-tel-aviv-on-saturday.webp?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019a-d55d-db2f-afdf-f77d93b50000/9d/67/ca51cb304138ac7e0ac62eb67b50/961647.jpg?height=81",
       "published_at": "2025-11-29T23:48:09.000Z",
       "summary": ""
     },
@@ -1330,16 +1340,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-cbc6-d824-ad9e-ebff446a0001/0c/c3/eeaea7874544a7f81bd368c6026f/827491-2.jpg?height=81",
       "published_at": "2025-11-29T16:24:20.000Z",
       "summary": "The prime minister has famously shared a post for an article claiming that Jeffrey Epstein interfered in Israeli elections. It's another sign the 2026 campaign will be flooded with lies and conspiracy theories"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF kills three Palestinians crossing Gaza's Yellow Line in two incidents",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-876600",
-      "image": null,
-      "published_at": "2025-11-29T15:56:36.000Z",
-      "summary": "The first incident saw two suspects crossing and had \"conducted suspicious activities on the ground,\" the military said, as they also approached Israeli forces."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
