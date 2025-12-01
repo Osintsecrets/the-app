@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-01T11:08:41.023Z",
+  "generated_at": "2025-12-01T11:35:21.533Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "High Court of Justice to hear challenges to dismissal of Attorney-General Baharav-Miara",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-876826",
+      "image": null,
+      "published_at": "2025-12-01T13:29:11.000Z",
+      "summary": "The high court convened an expanded 7-justice panel to hear the AG firing case, signaling the seriousness of the challenge to the independence of the attorney general's office."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -20,6 +30,16 @@
       "image": null,
       "published_at": "2025-12-01T11:39:59.000Z",
       "summary": "Prosecutor Tirosh focused questioning on Case 4000 discrepancies, comparing Netanyahu's description of Walla news site during his tenure vs. his current court testimony."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "UK MP Tulip Siddiq given jail sentence in Bangladesh after trial in her absence",
+      "url": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906c/live/e5d39d40-cea2-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-12-01T11:33:21.000Z",
+      "summary": "The former minister and niece of Bangladesh's ousted former leader, who received a two-year sentence, says the charges are politically motivated."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -52,6 +72,26 @@
       "summary": "Filming will begin in December in the UK, Germany, Bulgaria, and Spain."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Recovery under way after floods in Indonesia, Sri Lanka, Thailand",
+      "url": "https://www.aljazeera.com/gallery/2025/12/1/flooding-recovery-efforts-underway-in-indonesia-sri-lanka-and-thailand?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-01T11:23:08.000Z",
+      "summary": "Floods in Indonesia, Sri Lanka and Thailand leave more than 1,000 dead, thousands missing and millions displaced. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אחרי שיחה עם ראש מח\"ש, המפכ\"ל לחץ על מפקד להב: תחתום על תנאי השחרור",
+      "url": "https://www.ynet.co.il/news/article/b1czwgszwe",
+      "image": null,
+      "published_at": "2025-12-01T11:20:58.000Z",
+      "summary": "פרסום ראשון: ראש מח\"ש עדכנה בזמן אמת את המפכ\"ל על כך שמפקד להב 433 מסרב לחתום על תנאי השחרור, וזה ביקש ממנו לחדול מסירובו. לבסוף הוא אכן חתם, ויצא ממשרדי מח\"ש דרך חדר המכונות רק סמוך לחצות - תוך שהוא מנסה להתחמק"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -60,6 +100,16 @@
       "image": null,
       "published_at": "2025-12-01T11:19:54.000Z",
       "summary": " “Almost every issue that is discussed is about whether it is good for Netanyahu or bad for Netanyahu,” he added. “The issue itself doesn’t matter.”"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אוקספורד בחרה את מילת השנה ל-2025, והיא תעצבן אתכם",
+      "url": "https://www.ynet.co.il/news/article/r1ks11ls11zg",
+      "image": null,
+      "published_at": "2025-12-01T11:14:59.000Z",
+      "summary": "הביטוי rage bait (\"פיתיון זעם\"), כלומר פרסום תכנים מתסכלים ופרובוקטיביים ברשתות החברתיות כדי לעורר תגובות, לייקים ושיתופים, משקף טוב מכול את רוח התקופה לפי הלקסיקוגרפים שבחרו בו. בקו הגמר ניצח ה\"רייג'-בייט\" את \"טיפוח הילה\" ו\"ביו-האק\", והוא מצטרף לאחיו הגדולים \"פודקאסט\" ו\"אימוג'י\", שזכו לפניו"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -245,7 +295,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "רגב: מערכת המשפט היא מאפיה בחסות החוק, נתניהו מציל אותה",
+      "title": "רגב: מערכת המשפט היא מאפיה בחסות החוק, נתניהו מציל אותה עם החנינה",
       "url": "https://www.ynet.co.il/news/article/rk3jnacwwx",
       "image": null,
       "published_at": "2025-12-01T09:59:56.000Z",
@@ -340,16 +390,6 @@
       "image": null,
       "published_at": "2025-12-01T09:18:50.000Z",
       "summary": "Sweep follows year-long operation in which an undercover agent infiltrated the Abu Latif and Hariri criminal organizations to gather evidence on racketeering schemes\nThe post Dozens arrested in early morning police raid of top crime families in Israel, West Bank appeared first on The Times of Israel"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "UK MP Tulip Siddiq given jail sentence in Bangladesh after trial in her absence",
-      "url": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906c/live/e5d39d40-cea2-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-12-01T09:07:54.000Z",
-      "summary": "The former minister and niece of Bangladesh's ousted former leader, who received a two-year sentence, says the charges are politically motivated."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -449,13 +489,13 @@
       "url": "https://www.haaretz.com/west-bank/2025-12-01/ty-article/.premium/canada-italy-condemn-settler-violence-after-foreign-activists-wounded-in-west-bank/0000019a-d8d1-db2f-afdf-fef998060000",
       "image": "https://img.haarets.co.il/bs/00000197-3035-d079-ab97-7575c6e80001/fe/ac/9c760873466ead0a17a8d6b109c8/560869.jpg?height=81",
       "published_at": "2025-12-01T07:57:39.000Z",
-      "summary": "Early on Sunday, masked Jewish settlers attacked four foreign activists in the village of Ein al-Duyuk, wounding them and stealing their belongings. The activists were part of a human rights group that sought to protect the village from settler violence, despite the fact that it is located in an are"
+      "summary": "Early on Sunday, masked Jewish settlers attacked four foreign activists in the village of Ein al-Duyuk, wounding them and stealing their belongings. The activists were part of a human rights group that sought to protect the village from settler violence, although it is located in an area of the West"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "ח\"כים מהציונות הדתית אמרו שלא יצביעו בעד, אב שכול הטיח בביסמוט: החוק שלך מסוכן | ישיר",
+      "title": "ח\"כים מהציונות הדתית אמרו שלא יצביעו בעד, אב שכול הטיח בביסמוט: החוק שלך מסוכן",
       "url": "https://www.ynet.co.il/news/article/ry00qts5wzx",
       "image": null,
       "published_at": "2025-12-01T07:36:52.000Z",
@@ -915,11 +955,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Knesset discusses Haredi draft exemption legislation after controversial bill&#8217;s reveal",
+      "title": "Religious Zionism minister, MKs say they oppose coalition&#8217;s latest Haredi conscription bill",
       "url": "https://www.timesofisrael.com/liveblog-december-1-2025/",
       "image": null,
       "published_at": "2025-11-30T23:26:52.000Z",
-      "summary": "Bennett: Government ‘betraying the serving public’ on Haredi conscription * Police arrest suspected senior crime family members over alleged protection rackets\nThe post Knesset discusses Haredi draft exemption legislation after controversial bill&#8217;s reveal appeared first on The Times of Israel."
+      "summary": "Immigration minister says he'll vote against 'shameful' proposal it 'even if it means PM fires me' * Police arrest suspected senior crime family members over alleged protection rackets\nThe post Religious Zionism minister, MKs say they oppose coalition&#8217;s latest Haredi conscription bill appeared"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1042,16 +1082,6 @@
       "summary": "בקשת החנינה של ראש הממשלה מסעירה מדינה שלמה, ולפי שעה לא ברור מה יחליט הנשיא הרצוג. אז מהם האישומים נגד נתניהו, מהו התיק שממנו הוא חושש יותר מכול, מדוע לא נחתם הסדר טיעון עד כה, האם ניתנה בעבר חנינה לאדם בטרם הסתיים משפטו - ומה באשר לדינם של יתר הנאשמים? ynet עושה סדר"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הבקשה לחנינה: הרבה מדי, מאוחר מדי",
-      "url": "https://www.ynet.co.il/news/article/yokra14597500",
-      "image": null,
-      "published_at": "2025-11-30T22:04:00.000Z",
-      "summary": "אין שום צידוק להעניק חנינה בשלב זה לראש הממשלה נתניהו. אפילו לא צידוק אגבי אחד. יש רק סיבות כבדות משקל נגד המהלך הזה"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1060,16 +1090,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b9b/live/5b139420-cde5-11f0-a750-a3ce41dc0968.jpg",
       "published_at": "2025-11-30T22:02:43.000Z",
       "summary": "The BBC visits a camp where people are taking refuge after the fall of el-Fasher city. "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "נתניהו מוכן לתת לנו חנינה",
-      "url": "https://www.ynet.co.il/news/article/yokra14597685",
-      "image": null,
-      "published_at": "2025-11-30T22:02:00.000Z",
-      "summary": "נתניהו לא מתכוון להתפטר. להפך: כל הבקשה שלו מנומקת בצורך להקדיש את כל זמנו לכהונתו בממשלה. חנינה למען כהונה: זאת התמצית. ספק אם בקשה שארוזה בנימוק הזה הגיעה אי פעם למשכן נשיאי ישראל"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1342,16 +1362,6 @@
       "summary": "Segev Kalfon told The New York Times of maltreatment at the hands of his Hamas captors and his decision to cling to hope after hearing his mother's voice on a makeshift radio"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Pope Leo insists on two-state solution to resolve Israel-Palestine conflict",
-      "url": "https://www.aljazeera.com/news/2025/11/30/pope-leo-insists-on-2-state-solution-to-resolve-israel-palestine-conflict?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-30T16:07:36.000Z",
-      "summary": "Crowds welcome Pope Leo in Beirut as he calls for an end to violence and promotes interfaith understanding."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1400,16 +1410,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f946/live/2a7a0610-cdda-11f0-84e3-8b388d01c57d.png",
       "published_at": "2025-11-30T14:42:53.000Z",
       "summary": "The husband and wife are alleged to have used a range of devices - including earpieces - to cheat card games over a number of weeks."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Netanyahu's pardon must include admission of guilt, departure from political life, Lapid charges",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-876714",
-      "image": null,
-      "published_at": "2025-11-30T14:33:41.000Z",
-      "summary": "”You cannot grant Netanyahu a pardon without an admission of guilt, an expression of remorse, and an immediate withdrawal from political life,\" the opposition leader said."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
