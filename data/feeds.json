@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-01T05:18:59.042Z",
+  "generated_at": "2025-12-01T05:45:57.891Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Dozens linked to Abu Latif, Hariri crime families detained in undercover op.",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-876781",
+      "image": null,
+      "published_at": "2025-12-01T07:25:01.000Z",
+      "summary": "The operation followed an investigation which aimed to combat both extortions and \"protection money\" paid to these crime families in northern Israel, police explained."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -22,6 +32,26 @@
       "summary": "“The troops are at a high level of readiness, in defense and prepared for developments in the Syria and Lebanon areas,” Maj.-Gen. Rafi Milo concluded following situational assessments."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הנשיא שחזר מהכלא לארמון, הרודן ששוחרר מטעמים הומניטריים | המנהיגים שקיבלו חנינה",
+      "url": "https://www.ynet.co.il/news/article/ry6fdb9bwx",
+      "image": null,
+      "published_at": "2025-12-01T05:30:20.000Z",
+      "summary": "בקשתו של נתניהו מהרצוג מציבה אותו בשורה אחת עם מנהיגים בעולם שניסו להימלט מאימת הדין באמצעות חנינה או תרגילים משפטיים שונים. מניקסון בפרשת \"ווטרגייט\" ששינתה את אמריקה, דרך לולה שיצא מהכלא היישר לנשיאות ברזיל ועד הרודן מפרו שהורשע בפשעי מלחמה - אך שוחרר מ״סיבות בריאותיות״"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"דיברנו כמה ימים לפני 7/10, סותטיסאק אמר שעוד קצת - הוא חוזר הביתה לתמיד\"",
+      "url": "https://www.ynet.co.il/news/article/yokra14597420",
+      "image": null,
+      "published_at": "2025-12-01T05:15:43.000Z",
+      "summary": "במשך חצי שנה לא ידעה משפחתו של סותטיסאק רינתלאק, שעבד במטעים של קיבוץ בארי ונחטף ב-7/10, מה עלה בגורלו. \"הוא היה ראש המשפחה, המפרנס\", אמרה אחותו בשיחה עם ynet ו\"ידיעות אחרונות\". אמו: \"אני רוצה את הבן שלי - כמה שיותר מהר\""
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -30,6 +60,16 @@
       "image": "https://img.haarets.co.il/bs/0000019a-d55d-db2f-afdf-f77d93b50000/9d/67/ca51cb304138ac7e0ac62eb67b50/961647.jpg?height=81",
       "published_at": "2025-12-01T05:02:47.000Z",
       "summary": ""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Greek farmers clash with police amid protests over delayed EU subsidies",
+      "url": "https://www.aljazeera.com/news/2025/12/1/greek-farmers-clash-with-police-amid-protests-over-delayed-eu-subsidies?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-01T04:54:58.000Z",
+      "summary": "Hundreds of farmers block parts of the Athens-Thessaloniki highway in protest over the delayed payments."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -85,7 +125,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "מזג האוויר: טפטופים ועלייה בטמפרטורות ",
+      "title": "מזג האוויר: טפטופים וטמפרטורה גבוהה מהרגיל ",
       "url": "https://www.ynet.co.il/news/article/eajbzh2eq",
       "image": null,
       "published_at": "2025-12-01T04:14:41.000Z",
@@ -195,11 +235,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Arms makers see record earnings as Gaza, Ukraine wars fuel demand &#8212; report",
+      "title": "Global arms makers see record earnings as Gaza, Ukraine wars fuel demand &#8212; report",
       "url": "https://www.timesofisrael.com/arms-makers-see-record-earnings-as-gaza-ukraine-wars-fuel-demand-report/",
       "image": null,
       "published_at": "2025-12-01T01:50:58.000Z",
-      "summary": "Researchers say nine out of top 100 arms firms based in Middle East and earned $31 billion last year, with three Israeli companies accounting for half of amount \nThe post Arms makers see record earnings as Gaza, Ukraine wars fuel demand &#8212; report appeared first on The Times of Israel.\n"
+      "summary": "Researchers say nine out of top 100 arms firms based in Middle East and earned $31 billion last year, with three Israeli companies accounting for half of amount \nThe post Global arms makers see record earnings as Gaza, Ukraine wars fuel demand &#8212; report appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -287,7 +327,7 @@
       "topic": "News",
       "title": "WW1 toxic compound sprayed on Georgian protesters, BBC evidence suggests",
       "url": "https://www.bbc.com/news/articles/czrk7g50e1po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ef5/live/5a3981a0-cb91-11f0-9fb5-5f3a3703a365.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a84/live/167826e0-cb84-11f0-9fb5-5f3a3703a365.jpg",
       "published_at": "2025-12-01T00:19:04.000Z",
       "summary": "Anti-government demonstrators are likely to have been targeted with camite, our investigation finds."
     },
@@ -500,16 +540,6 @@
       "image": null,
       "published_at": "2025-11-30T22:02:00.000Z",
       "summary": "נתניהו לא מתכוון להתפטר. להפך: כל הבקשה שלו מנומקת בצורך להקדיש את כל זמנו לכהונתו בממשלה. חנינה למען כהונה: זאת התמצית. ספק אם בקשה שארוזה בנימוק הזה הגיעה אי פעם למשכן נשיאי ישראל"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"רצה לחסוך קצת - ולחזור הביתה לתמיד\": משפחתו של סותטיסאק מחכה לשובו",
-      "url": "https://www.ynet.co.il/news/article/yokra14597420",
-      "image": null,
-      "published_at": "2025-11-30T22:00:00.000Z",
-      "summary": "יותר מחצי שנה חיכו הוריו של סותטיסאק רינתלאק, שעבד במטעים של קיבוץ בארי ונחטף ב-7 באוקטובר, לדעת מה עלה בגורלו. המשפחה בתאילנד מחכה לשובו של אחד משני החללים האחרונים שנותרו בידי חמאס. האם און: \"אני רוצה את הבן שלי בבית כמה שיותר מהר. מחכה לו כל יום שיבוא\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1042,16 +1072,6 @@
       "summary": "Micheál Martin said proposals to rename Herzog Park in Dublin are a 'denial of our history,' and would 'erase the distinctive contributions of the Jewish community,' ahead of a city council vote on Monday"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"כמו בקולומביה\": פרצו לחנות עם M16, ושדדו סחורה בשווי 120 אלף שקל | תיעוד",
-      "url": "https://www.ynet.co.il/news/article/bycfyakbwx",
-      "image": null,
-      "published_at": "2025-11-30T15:40:31.000Z",
-      "summary": "3 רעולי פנים חמושים ברובה ואקדח תועדו שודדים חנות טלפונים ברהט וגורמים לה נזק. \"אין דין, אין דיין, אין משטרה - אין כלום\", אמר בעל החנות, שמתח ביקורת על השר בן גביר: \"הוא בא לפה צועק ומתפרע, אבל אין ביטחון. הוא רק הורס בתים\""
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1295,16 +1315,6 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "IDF fears UNIFIL leaked photos, documentation of military movements to Hezbollah - Army Radio",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-876667",
-      "image": null,
-      "published_at": "2025-11-30T12:09:03.000Z",
-      "summary": "The IDF also discovered an official UNIFIL document which referred to Israel as \"the enemy,\" according to Army Radio."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
       "title": "Five terrorists planning imminent terror attack in West Bank arrested by IDF, Shin Bet",
       "url": "https://www.jpost.com/israel-news/defense-news/article-876682",
       "image": null,
@@ -1350,16 +1360,6 @@
       "image": null,
       "published_at": "2025-11-30T11:32:38.000Z",
       "summary": "Qatar has opened the world’s first museum dedicated to exiled Indian artist Maqbool Fida Husain."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Death toll in Hong Kong apartment complex fire hits 146",
-      "url": "https://www.aljazeera.com/news/2025/11/30/death-toll-in-hong-kong-apartment-complex-fire-hits-146?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-11-30T11:31:50.000Z",
-      "summary": "More than 100 people remain unaccounted for after seven high-rise buildings caught fire and burned for two days."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
