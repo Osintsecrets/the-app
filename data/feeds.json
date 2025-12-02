@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-02T14:45:22.518Z",
+  "generated_at": "2025-12-02T15:10:48.539Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Holon Institute of Technology and UK Abraham Awards Group sign MOU on AI Diplomacy",
+      "url": "https://www.jpost.com/israel-news/culture/article-878971",
+      "image": null,
+      "published_at": "2025-12-02T17:04:23.000Z",
+      "summary": "Agreement signed at British Ambassador’s residence advancing AI collaboration between Israel, the UK, and Abraham Accords nations"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -50,6 +60,76 @@
       "image": null,
       "published_at": "2025-12-02T15:56:31.000Z",
       "summary": "Netanyahu said Israel’s conditions include defending Israeli communities along its borders, preventing terrorist entrenchment, and protecting Israel’s Druze allies."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "תהליך הזיהוי מתחיל: ממצאים מעזה הובאו למכון לרפואה משפטית",
+      "url": "https://www.ynet.co.il/news/article/ryv3vs211ze",
+      "image": null,
+      "published_at": "2025-12-02T15:03:19.000Z",
+      "summary": "בחמאס הודיעו על מסירת חלל חטוף, ולאחר מכן אמרו בישראל כי הצלב האדום העביר ממצאים מעזה. הם הועברו לאבו כביר לצורך זיהוי. בעזה נותרו שני חללים חטופים: רס\"ל רן גואילי וסותטיסאק רינטלאק התאילנדי"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Activist suspected of incitement against Netanyahu commences hunger strike after court extends arrest",
+      "url": "https://www.haaretz.com/israel-news/2025-12-02/ty-article/.premium/detained-activist-suspected-of-incitement-against-netanyahu-goes-on-hunger-strike/0000019a-df34-dece-a9da-ffb6b6360000",
+      "image": "https://img.haarets.co.il/bs/0000019a-df4a-d6ad-a9fe-dffee9630000/de/05/4c6d7edb4f5d9af8caa3ece5cc42/953130.jpg?height=81",
+      "published_at": "2025-12-02T14:57:06.000Z",
+      "summary": "Yolanda Yavor was arrested last week over a Facebook post urging Israelis to revolt against Prime Minister Benjamin Netanyahu. Her attorney says the investigation was launched for 'political reasons,' and that her family fears for her well-being"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Bulgarian government pulls budget amid fierce protests",
+      "url": "https://www.aljazeera.com/news/2025/12/2/bulgarian-government-pulls-budget-amid-fierce-protests?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-02T14:56:04.000Z",
+      "summary": "Protesters argue the draft budget would increase taxes and inflation with little payoff, while entrenching corruption."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israel’s genocide in Gaza has not stopped, despite the ceasefire: Analysts",
+      "url": "https://www.aljazeera.com/features/2025/12/2/israels-genocide-in-gaza-has-not-stopped-despite-ceasefire-analysts?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-02T14:48:12.000Z",
+      "summary": "Analysts and a human rights group say Israel&#039;s genocide in Gaza has not stopped, despite the ceasefire."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Was ex-Honduras leader Hernandez victim of Biden ‘set-up’, as Trump claims?",
+      "url": "https://www.aljazeera.com/news/2025/12/2/was-ex-honduras-leader-hernandez-victim-of-biden-set-up-as-trump-claims?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-02T14:47:47.000Z",
+      "summary": "Trump&#039;s plan to pardon ex-Honduran President Hernandez, convicted in a drug case, raises concerns over US credibility."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Why is the UK scaling back jury trials, and why is it controversial?",
+      "url": "https://www.aljazeera.com/news/2025/12/2/why-is-the-uk-scaling-back-jury-trials-and-why-is-it-controversial?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-02T14:41:11.000Z",
+      "summary": "Right to trial by jury seen as a touchstone of the British justice system, but severe court backlogs may prompt change."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "נשלחו לכלא מתכנני פיגוע משאית תופת ליד הכנסת: \"רבים יכלו להיהרג\" ",
+      "url": "https://www.ynet.co.il/news/article/hjamz8h11bx",
+      "image": null,
+      "published_at": "2025-12-02T14:40:36.000Z",
+      "summary": "תושבי מזרח ירושלים מוסטפא עבד אל-נבי ואחמד נתשה הורשעו בתכנון הפיגוע ונשלחו לכלא - אל-נבי ל-12 שנות מאסר, נתשה לחמש שנים. השניים טענו כי הכול היה \"דיבורים בלבד\", השופטת: \"הגיעו לשלב מתקדם של הוצאת המעשים לפועל\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -120,16 +200,6 @@
       "image": null,
       "published_at": "2025-12-02T13:51:31.000Z",
       "summary": "&#039;Double strikes&#039; allegedly used on Venezuelan boats accused of trafficking drugs were used extensively under Obama."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בחמאס הודיעו על מסירת חלל חטוף, ישראל: קיבלנו ממצאים מהצלב האדום, יועברו לזיהוי",
-      "url": "https://www.ynet.co.il/news/article/ryv3vs211ze",
-      "image": null,
-      "published_at": "2025-12-02T13:46:55.000Z",
-      "summary": "משרד רה\"מ הודיע כי הצלב האדום העביר ממצאים מעזה שייבדקו במכון הלאומי לרפואה משפטית - שבוע אחרי הפעם האחרונה שחלל חטוף שב לישראל. בעזה נותרו שני חללים חטופים: רס\"ל רן גואילי וסותטיסאק רינטלאק התאילנדי"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -205,11 +275,11 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "IDF, Shin Bet receive 'findings' from Red Cross inside Gaza, PMO confirms",
+      "title": "Coffin containing potential remains of Gaza hostage arrives at Abu Kabir for identification",
       "url": "https://www.jpost.com/israel-news/article-878941",
       "image": null,
       "published_at": "2025-12-02T13:11:24.000Z",
-      "summary": "Earlier, the Prime Minister's Office confirmed Israel was preparing to receive \"findings\" from the Red Cross that were transferred from the Gaza Strip."
+      "summary": "Earlier on Tuesday, a Hamas official told Reuters it would turn over the remains of one of the two remaining deceased hostages still in Gaza."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -682,16 +752,6 @@
       "summary": "Ohel, who was held hostage in Gaza for 738 days after attempting to flee the Nova music festival in southern Israel, told Channel 12 News he was forbidden to speak during his first two weeks in captivity, and that IDF strikes hit close to the places where he was held in Gaza"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "FIFA World Cup 2026 draw: Teams, pots, how to watch and all to know",
-      "url": "https://www.aljazeera.com/sports/2025/12/2/fifa-world-cup-2026-draw-teams-pots-how-to-watch-and-all-to-know?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-02T09:15:53.000Z",
-      "summary": "The group classification of the 48 teams at next year&#039;s World Cup finals will be determined at the FIFA draw in the US."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -712,16 +772,6 @@
       "summary": "פרשת ג'נין יכולה להפוך לעוד תיק משפטי. אבל היא יכולה גם להפוך לפרשה שתגדיר את איתי אופיר ואת האופן שבו יוביל את הפרקליטות הצבאית בשנים הקרובות. בין אלאור אזריה לשדה תימן הוא זה שיידרש לצייר את הקו הבא"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Video: Moment Palestinian prisoner’s home is blown up by Israeli forces",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/video-moment-palestinian-prisoners-home-is-blown-up-by-israeli-forces?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-02T09:10:35.000Z",
-      "summary": "Palestinian prisoner Abdulkarim Sanobar’s home in the occupied West Bank was blown up by the Israeli military."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -740,16 +790,6 @@
       "image": null,
       "published_at": "2025-12-02T09:03:46.000Z",
       "summary": "בסופו של דבר, בין אם אוהבים ובין אם מתנגדים לו, נתניהו עדיין יכול לבחור כיצד ייזכר. בעיני, עסקת חנינה־מול־פרישה, יחד עם כתיבת חוקה והקמת ועדת חקירה, היא ההזדמנות האחרונה להפוך סיום דרמטי למורשת בונה "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Hegseth or Admiral Bradley: Who approved the second Venezuela boat strike?",
-      "url": "https://www.aljazeera.com/news/2025/12/2/hegseth-or-admiral-bradley-who-approved-the-second-venezuela-boat-strike?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-02T09:01:47.000Z",
-      "summary": "The US defence secretary and White House have defended the second strike, but Trump said he would not have wanted it."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -780,16 +820,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c32/live/36da48c0-cf6f-11f0-8c06-f5d460985095.jpg",
       "published_at": "2025-12-02T08:44:44.000Z",
       "summary": "The strikes, authorised by Defence Secretary Pete Hegseth, have raised fresh legality questions - but the White House says laws have been followed."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US envoys headed to Moscow to discuss Ukraine peace plan with Putin",
-      "url": "https://www.aljazeera.com/news/2025/12/2/us-envoys-headed-to-moscow-to-discuss-ukraine-peace-plan-with-putin?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-02T08:43:15.000Z",
-      "summary": "White House &#039;optimistic&#039; about a deal, but Ukraine still wary that plan is based on Russian demands."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1042,16 +1072,6 @@
       "summary": "מול הח\"כים שהגיעו לוועדת חוץ וביטחון, התייצבו משרתי מילואים, משפחותיהם ונוער לקראת גיוס \"כדי להסתכל בעיניים של מי שיעביר חוק שייפגע בכולנו\". הם ביקשו לחזק את חברי הקואליציה שמתנגדים לחוק של ביסמוט: \"אין צבא גדול וחזק בלי החרדים. הימין מזדכה על כל הערכים שלו בשביל פוליטיקה קטנה\""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "האם טראמפ יצליח לסיים גם את מלחמת רוסיה אוקראינה?",
-      "url": "https://www.ynet.co.il/news/theheadline/article/hygra11s11bx",
-      "image": null,
-      "published_at": "2025-12-02T03:00:00.000Z",
-      "summary": "שיחות השלום בין רוסיה ואוקראינה יצאו לדרך בפלורידה בהובלת נציגי הממשל, אך סוגיות הליבה - הצטרפות אוקראינה לנאט\"ו וגודל הצבא שתורשה להחזיק - נותרות פתוחות. לפי פרופ' אודי זומר, טראמפ נוקט ב\"דיפלומטיית נדל\"ן\": קודם סוגרים עסקה, ורק אחר כך את הפרטים. אלא שהמציאות הגאו-אסטרטגית באירופה מורכבת מזו של המז"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1065,9 +1085,9 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israel receives 'findings' from Red Cross in Gaza after Hamas says it returned hostage body",
+      "title": "Gaza 'findings' arrive at forensic institute after Hamas says it returned hostage body",
       "url": "https://www.haaretz.com/israel-news/2025-12-02/ty-article-live/female-soldier-lightly-wounded-in-west-bank-ramming-idf-searching-area/0000019a-dce2-df00-afba-deea5e7e0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-deb0-dece-a9da-ffb603fa0000/07/00/9af414ea458bbeadf34e4830d3c5/971111.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019a-df94-dece-a9da-ff96b5160001/05/d7/b6604d204e6dad55fe28e07240e8/police-convoy-abu-kabir.PNG?height=81",
       "published_at": "2025-12-02T02:35:21.000Z",
       "summary": ""
     },
@@ -1450,16 +1470,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-da9a-dbc7-a1fb-fedb95cd0007/ba/d6/37adcea04291b6bb2748f1e7819d/972739.jpg?height=81",
       "published_at": "2025-12-01T16:17:33.000Z",
       "summary": "Supreme Court President Isaac Amit canceled Monday's hearing on petitions against the government's dismissal of the attorney general due to the absence of a government representative"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel will strike Iraq if militias seek to support Hezbollah, US envoy warns Baghdad - report",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-876849",
-      "image": null,
-      "published_at": "2025-12-01T16:10:44.000Z",
-      "summary": "The warning came a month after sources in the Northern Command told Walla that Israel was seeing an increased threat from the country.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2250,16 +2260,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ca7c-db55-a7bb-effcbe9d0007/91/b3/f04ab6d7407588be3fe9ea412e0d/740481.jpg?height=81",
       "published_at": "2025-11-28T16:14:09.000Z",
       "summary": "Directors of psychological support centers say they will have to stop treatments and dismantle necessary support systems built after October 7. 'Don't allow short-term budgetary decisions to harm the rehabilitation efforts,' they appealed to the prime minister and his cabinet"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "From Gaza to Epstein: Why Israel is losing MAGA and the evangelicals",
-      "url": "https://www.haaretz.com/israel-news/podcasts/2025-11-28/ty-article-podcast/from-gaza-to-epstein-why-israel-is-losing-maga-and-the-evangelicals/0000019a-c5d2-d824-ad9e-efff890b0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-c5ed-d824-ad9e-efff9ac60001/47/3e/170540884fbb95da763cf7df6cac/800277.jpg?height=81",
-      "published_at": "2025-11-28T15:21:33.000Z",
-      "summary": ""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
