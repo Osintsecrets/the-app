@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T04:47:09.799Z",
+  "generated_at": "2025-12-02T05:10:31.664Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Tribute to former hostage Rom Braslavsk, late drama define an unforgettable week in Israeli soccer",
+      "title": "Tribute to former hostage Rom Braslavski, late drama define an unforgettable week in Israeli soccer",
       "url": "https://www.jpost.com/israel-news/sports/article-876913",
       "image": null,
       "published_at": "2025-12-02T05:18:53.000Z",
@@ -32,6 +32,36 @@
       "summary": "Haredi demonstrators rioted in Beit Shemesh, blocking buses and throwing stones, as police units moved in to disperse the crowd."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Honduras presidential candidates locked in 'technical tie', official says ",
+      "url": "https://www.bbc.com/news/articles/cx2dgp8mvmno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/882a/live/2e266e70-cde9-11f0-a750-a3ce41dc0968.jpg",
+      "published_at": "2025-12-02T05:06:31.000Z",
+      "summary": "Right-wing candidate Nasry Asfura leads former TV host Salvador Nasralla by just 515 votes, according to country's electoral authority."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "המחבל שדרס לוחמת ניסה לדרוס שוב - וחוסל",
+      "url": "https://www.ynet.co.il/news/article/h1pn11l2z11e",
+      "image": null,
+      "published_at": "2025-12-02T05:00:28.000Z",
+      "summary": "בתום מצוד קצר כוח מגדוד 202 של הצנחנים חיסל את המחבל באזור חברון, אחרי שניסה לדרוס חיילים פעם נוספת"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "&#8216;Bibi sees ghosts everywhere&#8217;: US said to fume at PM over repeated strikes in Syria",
+      "url": "https://www.timesofisrael.com/liveblog-december-2-2025/",
+      "image": null,
+      "published_at": "2025-12-02T04:44:36.000Z",
+      "summary": "Saudi Arabia transfers $90 million to PA amid continued Israeli withholding of funds * US approves potential sale of helicopter support, training to Riyadh for $1 billion\nThe post &#8216;Bibi sees ghosts everywhere&#8217;: US said to fume at PM over repeated strikes in Syria appeared first on The Ti"
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -49,7 +79,7 @@
       "url": "https://www.aljazeera.com/news/2025/12/2/i-decided-id-die-indonesias-flood-victims-recount-stories-of-survival?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-02T04:33:17.000Z",
-      "summary": "At least 502 people have died in floods in the Southeast Asian country, with the death toll expected to rise."
+      "summary": "At least 631 people have died in floods in the Southeast Asian country, with the death toll expected to rise."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -195,7 +225,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "'I choose life,' ex-hostage Alon Ohel recounts Hamas kidnapping, torture, sexual harassment - N12",
+      "title": "'I choose life:' Ex-hostage Alon Ohel recounts Hamas kidnapping, torture, sexual harassment - N12",
       "url": "https://www.jpost.com/israel-news/article-876904",
       "image": null,
       "published_at": "2025-12-02T01:40:10.000Z",
@@ -370,16 +400,6 @@
       "image": null,
       "published_at": "2025-12-01T22:17:44.000Z",
       "summary": "IDF troops were dispatched to the Judea Junction in the area of Hebron following reports of a ramming attack, the military said Monday night."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Honduras presidential candidates locked in 'technical tie', official says ",
-      "url": "https://www.bbc.com/news/articles/cx2dgp8mvmno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/882a/live/2e266e70-cde9-11f0-a750-a3ce41dc0968.jpg",
-      "published_at": "2025-12-01T22:15:45.000Z",
-      "summary": "Right-wing candidate Nasry Asfura leads former TV host Salvador Nasralla by just 515 votes, according to country's electoral authority."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1210,26 +1230,6 @@
       "image": null,
       "published_at": "2025-12-01T15:57:45.000Z",
       "summary": "משפחתו של לוחם היס\"מ שנפל ב-7/10 הודיעה על שינוי בצורת המחאה להשבתו, ומעתה יתקיימו קבלות שבת בכיכר החטופים בימי שישי בצהריים - עד שיחזור: \"מברכים על 253 המשפחות שזכו לסגירת מעגל, המאבק ימשיך אבל הדרך תשתנה\""
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Coalition MKs tear into Haredi draft exemption bill, throwing it into uncertainty",
-      "url": "https://www.timesofisrael.com/coalition-mks-tear-into-haredi-draft-exemption-bill-throwing-it-into-uncertainty/",
-      "image": null,
-      "published_at": "2025-12-01T15:34:31.000Z",
-      "summary": "Minister pledges to vote against measure 'even if it means the prime minister will fire me'; rare expressions of open defiance extend to members of Netanyahu's Likud\nThe post Coalition MKs tear into Haredi draft exemption bill, throwing it into uncertainty appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הפיץ תיאוריות קונספירציה על גנץ - ויפצה אותו ב-250 אלף שקל",
-      "url": "https://www.ynet.co.il/news/article/hkremxjw11l",
-      "image": null,
-      "published_at": "2025-12-01T15:09:14.000Z",
-      "summary": "בית המשפט פסק כי מפיץ תיאוריות קונספירציה נגד יו\"ר כחול לבן, שהאשים אותו ב\"ברית עם חמאס\", ייאלץ לפצות אותו בתוספת הוצאות משפט. שמות בכירים נוספים הופיעו בפוסטים, שבהם נטען כי 7/10 תואם \"כדי להפיל ממשלת ימין\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
