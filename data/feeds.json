@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-02T19:11:07.496Z",
+  "generated_at": "2025-12-02T19:36:33.168Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Netanyahu cancels statement on haredi draft bill as opposition slams legislation",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-878998",
+      "image": null,
+      "published_at": "2025-12-02T21:30:31.000Z",
+      "summary": "Opposition leader Yair Lapid (Yesh Atid) responded that Netanyahu canceled his statement “because he knows we know the details of the draft-evasion law, and he has no way to defend it.”"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -42,6 +52,56 @@
       "summary": "The state was given until March 1 to file a detailed response and clarify “why no recruitment policy is being set for Arab citizens and residents of Israel under the General Security Service Law.\""
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"לו\"ז מדיני-ביטחוני\" או התחמקות מעדות? סדרת הביטולים במשפט נתניהו",
+      "url": "https://www.ynet.co.il/news/article/ry84ldhbwg",
+      "image": null,
+      "published_at": "2025-12-02T19:28:51.000Z",
+      "summary": "נתניהו ביקש לבטל היום את עדותו בבית המשפט מסיבות ביטחוניות ומדיניות - ונסע לפגוש מתגייסים בבקו\"ם ולבקר בבית החולים חיילים שנפצעו. בשנה שחלפה מאז העיד בפעם הראשונה ביקש ראש הממשלה פעמים רבות לדחות את הדיונים או לקצר אותם בגלל פגישות דחופות וסוגיות רגישות, וקיבל את הסכמת השופטים"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Attorney General says she can't oppose petitions for Ben-Gvir's ouster due to his police intervening",
+      "url": "https://www.haaretz.com/israel-news/2025-12-02/ty-article/.premium/ag-says-she-cant-oppose-petitions-for-ben-gvirs-ouster-due-to-his-police-intervening/0000019a-e04f-db4d-a99b-f0dff0830000",
+      "image": "https://img.haarets.co.il/bs/0000019a-e051-df29-abdf-fcdf5c110001/fa/ef/d0c4ee4a46eaa68c0f8e9850883b/965571-2.jpg?height=81",
+      "published_at": "2025-12-02T19:22:32.000Z",
+      "summary": "Attorney General Gali Baharav-Miara wrote a letter to Prime Minister Netanyahu saying that the petitions to remove Ben-Gvir from the office of National Security Minister are justified so long as he continues to interfere in police operations and abuse his authority to influence appointments"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "טרגדיה בשווייץ: \"בודהה המקפץ\" מאשדוד התרסק ברחיפה עם מצנח - ונהרג",
+      "url": "https://www.ynet.co.il/news/article/bkcfrb2bwe",
+      "image": null,
+      "published_at": "2025-12-02T19:20:46.000Z",
+      "summary": "הפארקוריסט סרגיי שפיצין, שלעיתים עורר בהלה באשדוד כשקפץ בין בניינים, נהרג בעמק לאוטרברונן. רק שלשום הוא פרסם ברשת סרטון שלו מקפיצה בשווייץ"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "A weekly pilgrimage of Israeli sadness and fury comes to an end",
+      "url": "https://www.haaretz.com/israel-news/haaretz-today/2025-12-02/ty-article/.highlight/a-weekly-pilgrimage-of-israeli-sadness-and-fury-comes-to-an-end/0000019a-df90-db4d-a99b-df984b650000",
+      "image": "https://img.haarets.co.il/bs/0000019a-e06b-daec-a3fb-f7ef9ab20000/80/46/8228416442a499e8108b7362312f/802568.jpg?height=81",
+      "published_at": "2025-12-02T19:13:56.000Z",
+      "summary": "The Hostage Square rallies should be remembered as an outstanding example of the power of the people. But in lieu of the screams from the square, there are brave former hostages who'll ensure the country never forgets what its leadership wishes it would"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Tight special election race in deep-red Tennessee concerns US Republicans",
+      "url": "https://www.aljazeera.com/news/2025/12/2/tight-special-election-race-in-deep-red-tennessee-concerns-us-republicans?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-02T19:13:16.000Z",
+      "summary": "Polls show Democratic candidate within striking distance of Republican rival in district Trump carried by 22 points. "
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -49,7 +109,7 @@
       "url": "https://www.timesofisrael.com/michael-and-susan-dell-pledge-6-25-billion-to-trump-investment-scheme-for-kids/",
       "image": null,
       "published_at": "2025-12-02T19:05:22.000Z",
-      "summary": "Jewish philanthropists to put unprecedented donation into 'Trump Accounts' of 25 million eligible US kids in largest single private commitment made to American children.\nThe post Michael and Susan Dell pledge $6.25 billion to Trump investment scheme for kids appeared first on The Times of Israel.\n"
+      "summary": "In largest single private commitment ever made to US kids, Jewish philanthropists to put donation into 'Trump Accounts' for 25 million eligible children\nThe post Michael and Susan Dell pledge $6.25 billion to Trump investment scheme for kids appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -90,6 +150,16 @@
       "image": "https://img.haarets.co.il/bs/0000019a-e020-db4d-a99b-f0b82c3a0000/26/07/c0e7e23b4cff9e3396d72aa8e722/30226060311dank-04677.jpg?height=81",
       "published_at": "2025-12-02T18:55:36.000Z",
       "summary": "An audit report by Israel's state comptroller Matanyahu Englman laid out how the Ministry of Defense and related offices have failed to protect vital military facilities and institutes from missiles, even after approximately 26,000 missiles and drones were launched at Israel during the war"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Costco sues Trump administration for US tariff refund",
+      "url": "https://www.aljazeera.com/economy/2025/12/2/costco-sues-trump-administration-for-us-tariff-refund?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-02T18:43:10.000Z",
+      "summary": "The lawsuit comes ahead of a looming Supreme Court decision about the legality of Donald Trump’s tariffs."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -472,6 +542,16 @@
       "summary": "After ballooning war spending on defense and civilian needs, growth will be driven by exports and private demand, the organization says; raises concern about fiscal and tax policy\nThe post OECD sees Israel economy rebound following Gaza ceasefire, but warns of risks appeared first on The Times of Is"
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli tourist in Nepal reportedly attacked after speaking Hebrew",
+      "url": "https://www.haaretz.com/world-news/2025-12-02/ty-article/israeli-tourist-attacked-after-speaking-hebrew-on-the-street-in-nepal/0000019a-dfc3-df29-abdf-ffdf693a0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-dfd3-db4d-a99b-dfdbf8dc0000/3d/1e/18eed21643bba4b713b611de9a8a/937906-2.jpg?height=81",
+      "published_at": "2025-12-02T16:25:35.000Z",
+      "summary": "The victim said he was struck on the head with an iron rod while walking in an area popular with Israelis, adding that he believed the attack was 'nationalistically motivated'"
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -842,16 +922,6 @@
       "summary": "&#039;Double strikes&#039; allegedly used on Venezuelan boats accused of trafficking drugs were used extensively under Obama."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Sudan’s paramilitary RSF claims control of key city of Babnusa",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/2/sudans-paramilitary-rsf-claims-control-of-key-city-of-babnusa?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-02T13:44:10.000Z",
-      "summary": "Sudan’s Rapid Support Forces say they have seized control of the city of Babnusa in West Kordofan."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -880,16 +950,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-dee0-db4d-a99b-def8fa9e0005/85/54/dc49615746f39a5174d9802fab25/331651-2.jpg?height=81",
       "published_at": "2025-12-02T13:20:07.000Z",
       "summary": "The Barak MX air defense system, which can intercept threats such as aircraft, drones, cruise missiles and ballistic missiles at ranges of up to 150 kilometers, will be purchased from Israel Aerospace Industries to protect the Royal Thai Air Force's bases"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "AI threatens to widen inequality among states: UN",
-      "url": "https://www.aljazeera.com/news/2025/12/2/ai-threatens-to-widen-inequality-among-states-un?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-02T13:18:17.000Z",
-      "summary": "Report warns of potential &#039;great divergence&#039;, with developed states profiting and others left behind."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1140,26 +1200,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ded1-df29-abdf-fedf5c9a0001/92/29/dbb245054e4a99a8ca0975e891e2/alon-ohel-screenshot-taken-from-channel-12.png?height=81",
       "published_at": "2025-12-02T09:35:05.000Z",
       "summary": "Ohel, who was held hostage in Gaza for 738 days after attempting to flee the Nova music festival in southern Israel, told Channel 12 News he was forbidden to speak during his first two weeks in captivity, and that IDF strikes hit close to the places where he was held in Gaza"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "פשעי המלחמה של בריטניה: \"חיילי קומנדו רצחו באפגניסטן מאות חפים מפשע\"",
-      "url": "https://www.ynet.co.il/news/article/rjobwq211bx",
-      "image": null,
-      "published_at": "2025-12-02T09:13:38.000Z",
-      "summary": "יחידת העילית הבריטית SAS ביצעה לכאורה מעשים חמורים במלחמה באפגניסטן בין השנים 2010 ל-2013 וטייחה אותם – כך עולה מדיוני ועדת חקירה הבודקת את הנושא. לפי הפרטים שהתפרסמו בממלכה, מאות ילדים ומבוגרים חפים מפשע נרצחו בידי חיילי הקומנדו כשלא היו חמושים ואף שלא היוו סכנה ללוחמים"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "טבילת האש הראשונה של הפצ\"ר איתי אופיר",
-      "url": "https://www.ynet.co.il/news/article/sy7v2x2bbl",
-      "image": null,
-      "published_at": "2025-12-02T09:13:07.000Z",
-      "summary": "פרשת ג'נין יכולה להפוך לעוד תיק משפטי. אבל היא יכולה גם להפוך לפרשה שתגדיר את איתי אופיר ואת האופן שבו יוביל את הפרקליטות הצבאית בשנים הקרובות. בין אלאור אזריה לשדה תימן הוא זה שיידרש לצייר את הקו הבא"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1520,16 +1560,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bba/live/0a8f04e0-ce61-11f0-a892-01d657345866.jpg",
       "published_at": "2025-12-01T19:00:30.000Z",
       "summary": "Australia is banning social media for everyone under the age 16 - here's everything you need to know in 60 seconds."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Defense Ministry D-G Baram flies to Germany to unveil Israeli-made Arrow missile defense system",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-876871",
-      "image": null,
-      "published_at": "2025-12-01T18:50:10.000Z",
-      "summary": "The deal, worth $3.6 billion, will mark the first deployment of the Arrow 3 outside Israel. It also represents the end of Germany's temporary weapon sales ban on Israel."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2270,36 +2300,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-bbab-dcd7-a3be-bbbb16420005/bb/e5/b00b0f6149e5b995b10621e14105/720853.jpg?height=81",
       "published_at": "2025-11-29T07:48:36.000Z",
       "summary": "On the TV screen: celebrity chefs swooning over freshly picked olives from lush trees. On the ground: settlers violently preventing Palestinian farmers from harvesting the fruit in their own meager groves"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Shepherd communities in Wadi Qelt are vanishing under settler terror. A journey through an abandoned land",
-      "url": "https://www.haaretz.com/israel-news/twilight-zone/2025-11-29/ty-article-magazine/.highlight/shepherd-communities-vanish-under-settler-terror-a-journey-through-an-abandoned-land/0000019a-ce25-dcd7-a3be-de3d4df30000",
-      "image": "https://img.haarets.co.il/bs/0000019a-ce25-dcd7-a3be-de3d4c940000/9b/c0/d26ae1404a9296fab99665d8ef5b/63937192.JPG?height=81",
-      "published_at": "2025-11-29T06:37:38.000Z",
-      "summary": "Violent settlers are rapidly erecting new outposts and relentlessly harassing Wadi Qelt residents. After another family fled last week, only a handful of residents remain, living under constant threat"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Poll finds most Americans strongly attached to Jewish identity and Israel view incoming New York Mayor Zohran Mamdani as antisemitic",
-      "url": "https://www.haaretz.com/us-news/2025-11-29/ty-article/.premium/majority-of-american-jews-apprehensive-about-incoming-ny-mayor-mamdani-new-poll-finds/0000019a-ce12-d360-a5bb-ff1b9cb10000",
-      "image": "https://img.haarets.co.il/bs/0000019a-ce2f-dcd7-a3be-de3fd6f00000/ee/c4/c1005f794a61830191f582ee4ce3/899182.jpg?height=81",
-      "published_at": "2025-11-29T06:06:53.000Z",
-      "summary": "The poll, released by the Jewish People Policy Institute, found that two-thirds of American Jews identified as 'connected Jews' believe Mamdani's election will make Jews feel less safe, while a third feel 'hopeful about the 34-year-old mayor-elect"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Lebanese army making 'tremendous efforts,' general says as 74 Hezbollah tunnels found in three months",
-      "url": "https://www.haaretz.com/middle-east-news/2025-11-29/ty-article/lebanese-army-making-tremendous-efforts-general-says-as-74-hezbollah-tunnels-found/0000019a-cda3-d824-ad9e-efff340c0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-cddc-dcd7-a3be-dffda5450000/28/cc/6a86b97a42b6bb71cfaef4bb1a05/941594.jpg?height=81",
-      "published_at": "2025-11-29T04:46:29.000Z",
-      "summary": "Israel has carried out almost daily airstrikes since the November 2024 cease-fire, mainly targeting Hezbollah members, but 127 civilians have also been killed, according to the office of the UN High Commissioner for Human Rights"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
