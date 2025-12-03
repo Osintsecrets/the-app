@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-03T00:43:56.340Z",
+  "generated_at": "2025-12-03T02:28:50.955Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Solidarity Film Festival focuses on human rights",
+      "url": "https://www.jpost.com/israel-news/culture/article-878952",
+      "image": null,
+      "published_at": "2025-12-03T03:51:01.000Z",
+      "summary": "For more information, go to the festival website at https://www.solidaritytlveng.org/"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,9 +25,49 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
+      "title": "Kremlin signals no breakthrough after Ukraine talks with US",
+      "url": "https://www.bbc.com/news/articles/cwyv0ex7v8ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74ad/live/c6b78df0-cfaf-11f0-b476-4d01662cfb69.jpg",
+      "published_at": "2025-12-03T01:57:20.000Z",
+      "summary": "Five hours of talks between Putin and US officials were “constructive”, Kremlin officials say, but “a lot of work lies ahead”. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump and Lula hold phone call to discuss US tariffs on Brazil, sanctions",
+      "url": "https://www.aljazeera.com/news/2025/12/3/trump-and-lula-hold-phone-call-to-discuss-us-tariffs-on-brazil-sanctions?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-03T01:20:09.000Z",
+      "summary": "US president has warmed to Brazil&#039;s left-wing leader since imposing 50 percent tariffs on the South American country."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia-Ukraine war: List of key events, day 1,378",
+      "url": "https://www.aljazeera.com/news/2025/12/3/russia-ukraine-war-list-of-key-events-day-1378?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-03T01:18:36.000Z",
+      "summary": "These are the key developments from day 1,378 of Russia’s war on Ukraine."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US Justice Department seeks to dismiss lawsuit over Maurene Comey’s firing",
+      "url": "https://www.aljazeera.com/news/2025/12/3/us-justice-department-seeks-to-dismiss-lawsuit-over-maurene-comeys-firing?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-03T00:54:34.000Z",
+      "summary": "Comey alleges that the Trump administration fired her for political reasons, including her family ties to James Comey."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
       "title": "Cyclone catastrophe in Sri Lanka awakens volunteer spirit",
       "url": "https://www.bbc.com/news/articles/c058n10727po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e98/live/a328d3d0-cf5f-11f0-a892-01d657345866.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9a7/live/eae8bde0-cfe4-11f0-a892-01d657345866.jpg",
       "published_at": "2025-12-03T00:34:05.000Z",
       "summary": "Fishing boats deliver relief supplies to flooded suburbs as community kitchens churn out food aid."
     },
@@ -140,16 +190,6 @@
       "image": null,
       "published_at": "2025-12-02T22:56:11.000Z",
       "summary": "בצה\"ל דרוכים לקראת ממצאי החקירה המחודשת של תחקירי חטיבת המבצעים. אחד האירועים שנבדקים: חיל האוויר התבקש להסיט אש לכיוון המכשול בגבול עזה כדי לעצור את זרם המחבלים, אך הביצוע התעכב שעות ארוכות"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Putin hosts Trump negotiators at Kremlin for 'constructive' Ukraine talks",
-      "url": "https://www.bbc.com/news/articles/cwyv0ex7v8ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74ad/live/c6b78df0-cfaf-11f0-b476-4d01662cfb69.jpg",
-      "published_at": "2025-12-02T22:53:16.000Z",
-      "summary": "Kremlin officials described the five hours of talks as \"constructive\" - but said \"a lot of work lies ahead\"."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1002,16 +1042,6 @@
       "summary": "Agreement signed at British Ambassador’s residence advancing AI collaboration between Israel, the UK, and Abraham Accords nations"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Ex-EU top diplomat Mogherini detained in Belgium fraud case: Reports",
-      "url": "https://www.aljazeera.com/news/2025/12/2/ex-eu-top-diplomat-mogherini-detained-in-belgium-fraud-case-reports?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-02T17:03:16.000Z",
-      "summary": "Mogherini is reported to be among three in custody for suspected fraud involving an EU-funded training programme."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1020,26 +1050,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca2/live/3919b6d0-cf82-11f0-8c06-f5d460985095.jpg",
       "published_at": "2025-12-02T17:00:23.000Z",
       "summary": "While many Ukrainians believe they have sacrificed too much for their country to lose territory to Russia, others are desperate for the war to end."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Barcelona vs Atletico Madrid 3-1: La Liga – as it happened",
-      "url": "https://www.aljazeera.com/sports/liveblog/2025/12/2/live-barcelona-vs-atletico-madrid-la-liga?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-02T17:00:00.000Z",
-      "summary": "All the updates as Barca beat fellow title contenders Atletico at Camp Nou to go four points clear at top of La Liga."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump’s Military Moves & Claims on Venezuela",
-      "url": "https://www.aljazeera.com/video/fact-check/2025/12/2/trumps-military-moves-claims-on-venezuela?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-02T16:57:25.000Z",
-      "summary": "Conflicting US claims on Venezuela are escalating fast - from “closed” airspace to defending deadly vessel strikes. "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1540,16 +1550,6 @@
       "image": null,
       "published_at": "2025-12-02T01:40:10.000Z",
       "summary": "Former hostage Alon Ohel describes threats, sexual harassment, starvation, and surgery without anesthesia during months in Hamas captivity."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF kills terrorist crossing Gaza's Yellow Line",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-876897",
-      "image": null,
-      "published_at": "2025-12-01T23:40:39.000Z",
-      "summary": "The terrorist posed an immediate threat to IDF soldiers, the military said."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
