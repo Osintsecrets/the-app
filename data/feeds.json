@@ -1,6 +1,36 @@
 {
-  "generated_at": "2025-12-03T19:09:32.977Z",
+  "generated_at": "2025-12-03T19:34:17.163Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Stop wasting the world's time, Ukraine tells Putin after US talks in Moscow",
+      "url": "https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/d98db3f0-d07c-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-12-03T19:25:30.000Z",
+      "summary": "Ukrainian Foreign Minister Andrii Sybiha‎ spoke after high-stakes talks on ending the war failed to produce tangible results."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הסירוב של לוין והמגעים החשאיים: מאחורי הקלעים של קביעת המנדט לחקר 7/10",
+      "url": "https://www.ynet.co.il/news/article/r1ro6jc1111x",
+      "image": null,
+      "published_at": "2025-12-03T19:10:37.000Z",
+      "summary": "בסביבת נתניהו טוענים כי על אף שהתנגד לבקשת השר לוותר על הובלת הוועדה שתחליט כיצד ייחקר המחדל, כעת הוא שואף להוביל את הדיונים בעצמו - כפי שנחשף ב-ynet. באופוזיציה תקפו אחרי הפרסום, אך בימין מנסים לגשש אחר ח\"כים שיסייעו לממשלה ב\"ריכוך\" הסוגיה. האפשרויות של רה\"מ - והביקורת"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Casket with apparent hostage&#8217;s body returned to Israel, as final 2 families await ID",
+      "url": "https://www.timesofisrael.com/casket-with-apparent-hostages-body-returned-to-israel-as-final-2-families-await-id/",
+      "image": null,
+      "published_at": "2025-12-03T19:06:36.000Z",
+      "summary": "Forensic testing underway to determine if remains belong to Ran Gvili or Sudthisak Rinthalak; Hamas, PIJ say body was found in northern Gaza earlier Wednesday\nThe post Casket with apparent hostage&#8217;s body returned to Israel, as final 2 families await ID appeared first on The Times of Israel.\n"
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -10,6 +40,26 @@
       "image": null,
       "published_at": "2025-12-03T19:05:16.000Z",
       "summary": "נתניהו ממשיך בניסיונותיו להאיץ את התהליך כדי להשאיר כמה שפחות זמן לסערה ציבורית סביב חוק הפטור מגיוס. הייעוץ המשפטי הבהיר כי \"בליץ\" לא אפשרי. במסר לחרדים הדגיש ביסמוט: \"לשים את כל העריקים בכלא? לא אתן\""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Five IDF soldiers wounded in clash with militants emerging from tunnel in Gaza's Rafah",
+      "url": "https://www.haaretz.com/israel-news/2025-12-03/ty-article/.premium/five-idf-soldiers-wounded-in-clash-with-militants-emerging-from-tunnel-in-gazas-rafah/0000019a-e576-de8e-a99b-f7feccf80000",
+      "image": "https://img.haarets.co.il/bs/0000019a-e588-de8e-a99b-f79a40640000/8c/cb/c007644c4dbe821a5338647474f5/648716-2.jpg?height=81",
+      "published_at": "2025-12-03T19:03:01.000Z",
+      "summary": "Netanyahu accused Hamas of violating the cease-fire and vowed to retaliate over the clash. According to Palestinian reports, the IDF struck the area with an attack helicopter and artillery"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "‘Collective punishment’: Family home of suspect demolished in West Bank",
+      "url": "https://www.aljazeera.com/news/2025/12/3/collective-punishment-family-home-of-suspect-demolished-in-west-bank?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-03T18:55:56.000Z",
+      "summary": "Apartment building belonging to the family of bombing suspect Abdul Karim Sanoubar demolished by Israel on Tuesday. "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -39,7 +89,7 @@
       "url": "https://www.ynet.co.il/news/article/bkbaqgabbe",
       "image": null,
       "published_at": "2025-12-03T18:37:35.000Z",
-      "summary": "בחודש יולי הטביעו החות'ים את ספינת המשא היוונית Eternity C, ורק כעת שחררו את 11 אנשי הצוות שנחטפו - תשעה מהפיליפינים, ושניים מרוסיה והודו. בשבי הם אולצו \"להודות\" בהפרת \"המצור על ישראל\" ולהתנצל בפני הפלסטינים, וכעת עם שחרורם בעקבות תיווך עומאני קיבלו באופן ציני \"תעודות\" משוביהם"
+      "summary": "בחודש יולי הטביעו החות'ים את ספינת המשא היוונית Eternity C, ורק כעת שחררו את 11 אנשי הצוות שנחטפו - תשעה מהפיליפינים, ושניים מרוסיה והודו. בשבי הם אולצו \"להודות\" בהפרת \"המצור על ישראל\" ולהתנצל בפני הפלסטינים, וכעת עם שחרורם בעקבות תיווך עומאני קיבלו באופן ציני תעודות משוביהם"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -592,16 +642,6 @@
       "summary": "Hamas and Islamic Jihad members say remains recovered in northern Gaza are that of another Israeli captive."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Israeli teen indicted on terror charges for allegedly planning ISIS-inspired bombing",
-      "url": "https://www.timesofisrael.com/israeli-teen-indicted-on-terror-charges-for-allegedly-planning-isis-inspired-bombing/",
-      "image": null,
-      "published_at": "2025-12-03T14:42:56.000Z",
-      "summary": "Prosecutors allege that 18-year-old from Negev tried to build IEDs, plotted to attack IDF soldiers at Beersheba bus station, after being radicalized by ISIS and Hamas online\nThe post Israeli teen indicted on terror charges for allegedly planning ISIS-inspired bombing appeared first on The Times of I"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -832,16 +872,6 @@
       "summary": "אחרי שפנתה לבית המשפט להאריך את מעצרה של ד\"ר יולנדה יבור - המשטרה חזרה בה וביקשה לשחררה למעצר בית. יבור, שפרסמה פוסט בוטה בגנות רה\"מ, פתחה בשביתת רעב לאחר שנעצרה. ביהמ\"ש אסר עליה להשתמש באינטרנט וברשתות החברתיות"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "‘Closing the tap’: EU agrees on deal to end Russian gas imports by 2027",
-      "url": "https://www.aljazeera.com/news/2025/12/3/eu-agrees-deal-to-end-russian-gas-purchases-by-2027?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-03T12:32:16.000Z",
-      "summary": "Deal on delayed date a step towards cutting Russia&#039;s funding for its war in Ukraine."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -880,16 +910,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3510/live/dc90d820-cf87-11f0-9fb5-5f3a3703a365.jpg",
       "published_at": "2025-12-03T12:00:42.000Z",
       "summary": "The inquiry centres on allegations of favouritism in EU funding for a training programme at a school headed by Federica Mogherini."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "נתניהו אישר יציאת עזתים דרך מעבר רפיח, מצרים: \"פתיחה תהיה רק לשני הכיוונים\"",
-      "url": "https://www.ynet.co.il/news/article/sytusp6bwg",
-      "image": null,
-      "published_at": "2025-12-03T11:54:02.000Z",
-      "summary": "מאז כניסת הפסקת האש לתוקף סירבה ישראל לפתוח את המעבר למצרים לאור העיכוב בהחזרת החללים החטופים. יומיים אחרי השיחה עם טראמפ, נמסר כי התקבלה החלטה על פתיחת המעבר - לצד אחד בלבד. במצרים הכחישו: \"אם יושג הסכם, המעבר ייפתח לשני הכיוונים - בהתאם לתוכניתו של טראמפ\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2330,16 +2350,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-d580-dcd7-a3be-dfb9931a0007/6a/19/03147be14b958fc97afe16afe5c9/373383.jpg?height=81",
       "published_at": "2025-11-30T17:39:34.000Z",
       "summary": "The accuser, an unauthorized resident, claims Israeli musician and songwriter Doron Medalie forced a sexual act on him after impairing his ability to resist. Medalie claims in response that he is under a campaign of defamation and lies, and pledged to cooperate if an investigation is opened"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Palestinian-American teen Mohammed Zaher Ibrahim freed after nine months in Israeli detention without trial",
-      "url": "https://www.haaretz.com/israel-news/2025-11-30/ty-article/palestinian-american-teen-freed-after-nine-months-in-israeli-detention-without-trial/0000019a-d54a-db55-a7bb-fdde31b00000",
-      "image": "https://img.haarets.co.il/bs/0000019a-d56f-dfc2-af9f-d76fc7ed0000/3c/8c/4110fb104c4f970f4c629e15671a/545927.jpg?height=81",
-      "published_at": "2025-11-30T17:38:08.000Z",
-      "summary": "Last month, a group of U.S. Senators and House members pressed the Trump administration to secure Mohammed Zaher Ibrahim's release. He reportedly suffered from double-digit weight loss and developed scabies while being held by Israel"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
