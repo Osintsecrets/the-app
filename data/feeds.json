@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-03T10:45:40.304Z",
+  "generated_at": "2025-12-03T11:08:58.683Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -32,6 +32,26 @@
       "summary": "Benjamin Netanyahu's trial returns to Case 4000, in which the PM is accused of advancing regulatory benefits worth hundreds of millions of shekels to Shaul Elovitch in exchange for favorable coverage"
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Donald Trump’s attendance at FIFA World Cup 2026 draw confirmed",
+      "url": "https://www.aljazeera.com/sports/2025/12/3/donald-trumps-attendance-at-fifa-world-cup-2026-draw-confirmed?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-03T10:47:41.000Z",
+      "summary": "US President Donald Trump will play a key part in one of the highest-profile World Cup draws in FIFA history."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הג'יהאד האיסלאמי: איתרנו חלל חטוף בחיפושים בצפון הרצועה",
+      "url": "https://www.ynet.co.il/news/article/skn37ctbwe",
+      "image": null,
+      "published_at": "2025-12-03T10:46:56.000Z",
+      "summary": "בצל הודעת ארגון הטרור, מחמאס נמסר כי החלל החטוף יועבר לישראל ב-17:00. לפי דיווחים פלסטיניים, הוא אותר בבית לאהיה - לא רחוק מהגבול עם ישראל"
+    },
+    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -40,6 +60,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a6b/live/73d580c0-cfa9-11f0-8c06-f5d460985095.jpg",
       "published_at": "2025-12-03T10:44:00.000Z",
       "summary": "The military has taken over but some say the overthrow of the president was not what it seemed."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "India scraps order to pre-install state-run cyber safety app on smartphones",
+      "url": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e3/live/fa766250-d032-11f0-be7e-2de49272c144.jpg",
+      "published_at": "2025-12-03T10:39:33.000Z",
+      "summary": "The order to make the registration mandatory had led to a major backlash from several cyber experts. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -250,6 +280,16 @@
       "image": null,
       "published_at": "2025-12-03T08:30:20.000Z",
       "summary": "Al Jazeera documented Palestinian families attempting to access their fields amid settler attacks."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Australia is banning social media for kids under 16. How will it work?",
+      "url": "https://www.bbc.com/news/articles/cwyp9d3ddqyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5105/live/5217d720-c5d7-11f0-82c9-1574c476e20e.jpg",
+      "published_at": "2025-12-03T08:26:05.000Z",
+      "summary": "The world-first law aims to reduce the risks children face online, but critics fear it may not work."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -715,7 +755,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israel to open Rafah border crossing in coming days for Palestinians to leave Gaza",
+      "title": "Islamic Jihad says it found body of hostage in Gaza; Hamas to hand over remains",
       "url": "https://www.haaretz.com/israel-news/2025-12-03/ty-article-live/reports-palestinian-journalist-killed-in-israeli-attack-in-gaza-strip/0000019a-e218-de1a-a7bb-ebdb69c90000",
       "image": "https://img.haarets.co.il/bs/0000019a-e16a-dece-a9da-e7fe488c0001/75/a5/066e31ee4ef887d104efff8173eb/979683.jpg?height=81",
       "published_at": "2025-12-03T02:52:47.000Z",
@@ -972,16 +1012,6 @@
       "summary": ""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Barcelona extend lead at top of La Liga with 3-1 win over Atletico Madrid",
-      "url": "https://www.aljazeera.com/sports/2025/12/2/barcelona-extend-lead-at-top-of-la-liga-with-3-1-win-over-atletico-madrid?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-02T22:33:45.000Z",
-      "summary": "Barca recover from a goal down to win, with strikes from Raphinha, Dani Olmo and Ferran Torres."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1040,16 +1070,6 @@
       "image": null,
       "published_at": "2025-12-02T22:07:00.000Z",
       "summary": "עונת הציד לערעור השיטה ופגיעה בשומרי הסף בשיאה, ונראה שתמשיך עד הבחירות. הכל כדי להבטיח את שרידות המשטר, כולל הבקשה מהנשיא להשתמש לרעה בסמכותו"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ארה\"ב מנסה להציל את ההסכם בצפון - אבל לישראל ברור: \"הולכים להסלמה, נחליט מתי\"",
-      "url": "https://www.ynet.co.il/news/article/sktc43hw11x",
-      "image": null,
-      "published_at": "2025-12-02T22:06:19.000Z",
-      "summary": "מאמץ אחרון למנוע את קריסת הפסקת האש: ישראל הסכימה לא לתקוף בלבנון עד תום ביקור האפיפיור, אבל בצל סירוב חיזבאללה להתפרק מנשקו מבהיר בכיר ישראלי כי \"אין טעם להמשיך בהסכם\". שליחת טראמפ תגיע לביירות, אחרי שראש אמ\"ן הציג לה מידע על התעצמות חיזבאללה"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
