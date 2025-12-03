@@ -1,6 +1,36 @@
 {
-  "generated_at": "2025-12-03T23:07:32.510Z",
+  "generated_at": "2025-12-03T23:34:04.530Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Drunk raccoon found passed out on liquor store floor after breaking in",
+      "url": "https://www.bbc.com/news/articles/cy8jnxxm70jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0811/live/fda48f70-d040-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-12-03T23:28:26.000Z",
+      "summary": "The intoxicated animal suffered no injuries and was released back into the wild by animal protection once sober. "
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli lawmakers hear testimonies of ritualistic sexual abuse, allegations against former MK",
+      "url": "https://www.haaretz.com/israel-news/2025-12-04/ty-article/.premium/knesset-hears-testimonies-of-ritualistic-sexual-abuse-allegations-against-former-mk/0000019a-e675-dc6c-a3ff-e6fd0d670000",
+      "image": "https://img.haarets.co.il/bs/0000019a-e677-de8e-a99b-f6ff94e50001/44/08/34040288422788a60c1c173b1419/984711.jpg?height=81",
+      "published_at": "2025-12-03T23:22:59.000Z",
+      "summary": "Several women told the Committee for the Advancement of Women's Status that they were sexually assaulted and tortured during religious ceremonies. 'I was forced to perform horrific acts, all in the presence of very important people, physicians and rabbis,' said one of them. A report prepared ahead o"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הקרע האירופי, והשלום שיחכה: \"פוטין דוהר קדימה - בלי בלמים, בלי הגה ובלי רוורס\"",
+      "url": "https://www.ynet.co.il/news/article/h1ynowazbl",
+      "image": null,
+      "published_at": "2025-12-03T23:17:06.000Z",
+      "summary": "הפסגה בין נשיא רוסיה לשליחי טראמפ הסתיימה \"בלי פשרה\" ועם הצהרות ריקות על מפגש \"פרודוקטיבי\" - ובמערב בטוחים שפוטין לא מתכוון לנצור אש: \"הנעלם הגדול - האם סימני מצוקה כלכליים ישנו את חישוביו\". קרע בין בלגיה לאיחוד האירופי, סביב שאלת השימוש ב-200 מיליארד אירו של נכסים רוסיים מוקפאים - שרובם מוחזקים בבל"
+    },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
@@ -282,16 +312,6 @@
       "summary": "קרן \"הינד רג'אב\" ייחסה לשניים פשעי מלחמה שבוצעו לטענתה במבצע \"עופרת יצוקה\", אז כיהנו בתפקיד רשמי. בנוסף, טענה כי היו מעורבים ולכל הפחות ידעו על פשעים שבוצעו מאז 7 באוקטובר בעזה - ולכן יש להביאם לחקירה"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הקרע האירופי, והשלום שיחכה: \"פוטין דוהר קדימה - בלי בלמים, בלי הגה ובלי רוורס\"",
-      "url": "https://www.ynet.co.il/news/article/h1ynowazbl",
-      "image": null,
-      "published_at": "2025-12-03T21:03:57.000Z",
-      "summary": "הפסגה בין נשיא רוסיה לשליחי טראמפ הסתיימה \"בלי פשרה\" ועם הצהרות ריקות על מפגש \"פרודוקטיבי\" - ובמערב בטוחים שפוטין לא מתכוון לנצור אש: \"הנעלם הגדול - האם סימני מצוקה כלכליים ישנו את חישוביו\". קרע בין בלגיה לאיחוד האירופי, סביב שאלת השימוש ב-200 מיליארד אירו של נכסים רוסיים מוקפאים - שרובם מוחזקים בבל"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -385,11 +405,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "5 soldiers wounded, one seriously, in attack on troops in Rafah; PM vows response",
+      "title": "5 soldiers hurt, one seriously, in attack on troops in Rafah; IDF strikes in Khan Younis",
       "url": "https://www.timesofisrael.com/5-soldiers-wounded-one-seriously-in-attack-on-troops-in-rafah-pm-vows-response/",
       "image": null,
       "published_at": "2025-12-03T20:12:52.000Z",
-      "summary": "Netanyahu says Israel 'will not tolerate attacks on IDF soldiers' during ceasefire; gunfight erupted after soldiers encountered terror operatives emerging from tunnel\nThe post 5 soldiers wounded, one seriously, in attack on troops in Rafah; PM vows response appeared first on The Times of Israel.\n"
+      "summary": "Gunfight erupted after troops encountered gunmen emerging from tunnel; Palestinians report 6 killed in retaliatory airstrike that military says targeted terror operative\nThe post 5 soldiers hurt, one seriously, in attack on troops in Rafah; IDF strikes in Khan Younis appeared first on The Times of I"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1030,16 +1050,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-e418-d27b-a99e-f69f07720002/ac/9e/6a0846b4440c89ebf839c2f45729/whatsapp-image-2025-12-02-at-21-21-15.jpeg?height=81",
       "published_at": "2025-12-03T12:57:19.000Z",
       "summary": "Citing the need for 'clear and deterrent punishment,' the court has prevented Maha Igbaria from practicing law for the coming year. She argues that the ruling is politically motivated and plans to appeal"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Drunk raccoon found passed out on liquor store floor after breaking in",
-      "url": "https://www.bbc.com/news/articles/cy8jnxxm70jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0811/live/fda48f70-d040-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-03T12:24:01.000Z",
-      "summary": "The intoxicated animal suffered no injuries and was released back into the wild by animal protection once sober. "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2320,16 +2330,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-db9a-dcce-adff-fffe686d0000/3d/fe/12b9f217412ba3615772b8fc5a2c/920542.jpg?height=81",
       "published_at": "2025-12-01T05:02:47.000Z",
       "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Internal probe finds Israel's Shin Bet unaware of Nova Festival near Gaza border ahead of Oct. 7, 2023",
-      "url": "https://www.haaretz.com/israel-news/2025-12-01/ty-article/.premium/shin-bet-unaware-of-massive-festival-near-border-on-oct-7-probe-finds/0000019a-d694-dcd7-a3be-debd46660000",
-      "image": "https://img.haarets.co.il/bs/0000019a-d76b-db2f-afdf-f77b36130001/d4/78/389604a0468080a4d269e346e79c/379725.jpg?height=81",
-      "published_at": "2025-12-01T04:04:49.000Z",
-      "summary": "The Shin Bet's internal probe reveals the agency had no knowledge of the Nova festival near the Gaza border, where 378 civilians and security personnel were killed and 44 abducted, as failures in communication with police and the IDF left officials unaware of the mass gathering"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
