@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-04T05:10:14.300Z",
+  "generated_at": "2025-12-04T05:40:35.016Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Israel identifies hostage remains as Thai national",
+      "url": "https://www.bbc.com/news/articles/cd6x2j4g3z7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bff1/live/66a2f9c0-d060-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-12-04T05:25:21.000Z",
+      "summary": "The remains, which Hamas and Palestinian Islamic Jihad say were found in northern Gaza, will be taken to Tel Aviv for forensic tests."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US will expand social media, work history vetting for H-1B visas",
+      "url": "https://www.aljazeera.com/news/2025/12/4/us-will-expand-social-media-work-history-vetting-for-h-1b-visas?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-04T05:22:25.000Z",
+      "summary": "Past work in content moderation or in tackling misinformation and disinformation could be grounds for rejection."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"כמוהו רואים רק בסרטים\": הקרב האחרון של רן - וההמתנה לשובו בקיבוץ שעליו הגן",
+      "url": "https://www.ynet.co.il/news/article/yokra14601323",
+      "image": null,
+      "published_at": "2025-12-04T05:22:11.000Z",
+      "summary": "ריצ'רד ושי לחמו ב-7/10 לצידו של לוחם היס\"מ רן גואילי בקיבוץ עלומים, ושחזרו את רגעי הגבורה: \"היה עם כתף שבורה - אבל נלחם כמו אריה. במקום החטיפה מצאו 14 גופות מחבלים\". בקיבוץ הקימו פינת הנצחה לזכרו: \"אנחנו חיים בזכותו ובזכות שאר הלוחמים שקפצו באותה שבת. שחס ושלום לא יהיה הדר גולדין 2\""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Trump says next phase of his Gaza plan will soon commence amid concern it&#8217;s stalling",
+      "url": "https://www.timesofisrael.com/trump-says-next-phase-of-his-gaza-plan-will-soon-commence-amid-concern-its-stalling/",
+      "image": null,
+      "published_at": "2025-12-04T05:09:40.000Z",
+      "summary": "2 weeks out since passage of UN Security Council resolution that was supposed to build on ceasefire, president insists 2nd phase pertaining to postwar Gaza management will happen \nThe post Trump says next phase of his Gaza plan will soon commence amid concern it&#8217;s stalling appeared first on Th"
+    },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
@@ -95,11 +135,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "חזר לבית הספר של בנו שנרצח סתם ברחוב, עם ילקוט על הגב: \"חובה להמשיך את דרכו\"",
+      "title": "חזר לבית הספר של בנו שנרצח ברחוב, עם ילקוט על הגב: \"חובה להמשיך את דרכו\"",
       "url": "https://www.ynet.co.il/news/article/yokra14601773",
       "image": null,
       "published_at": "2025-12-04T03:54:07.000Z",
-      "summary": "נביל ספייה בן ה-16 בסך הכול יצא להליכה אחרי שלמד כל היום למבחן בביולוגיה - ונרצח בדם קר בכפר יאסיף. שבוע אחרי, אביו חזר לבית הספר שבו למד בנו - וישב בכיסאו: \"חייבים לפעול למגר את הפשיעה ולמנוע את הקורבן הבא\". אימו: \"הוא נישק אותי, אמר שתכף יחזור - ולעולם לא ישוב. הייתי רוצה שידפוק לי בדלת\""
+      "summary": "נביל ספייה בן ה-16 בסך הכול יצא להליכה אחרי שלמד כל היום למבחן בביולוגיה - ונרצח בדם קר בכפר יאסיף. שבוע אחרי, אביו חזר לבית הספר שבו למד - וישב בכיסאו: \"חייבים למנוע את הקורבן הבא\". אימו: \"הוא נישק אותי, אמר שתכף יחזור - ולעולם לא ישוב. הייתי רוצה שידפוק לי בדלת\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -130,16 +170,6 @@
       "image": null,
       "published_at": "2025-12-04T03:53:49.000Z",
       "summary": "ראשי הרשויות של אזורי העימות חברו יחדיו ודורשים פגישה דחופה עם רה\"מ, במטרה להבטיח שהכספים שהובטחו להם לא יקוצצו ב-2026. ברקע: חשיפת ynet על הכוונה להעביר מיליארד שקל שהובטחו לצפון לטובת פיתוח יישובים דרוזיים. \"מכה נוספת לאזורים שנשאו כבר את עיקר הנטל הביטחוני, החברתי והכלכלי\" "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"כמו רני רואים רק בסרטים\": חבריו של החלל החטוף משחזרים את הקרב האחרון",
-      "url": "https://www.ynet.co.il/news/article/yokra14601323",
-      "image": null,
-      "published_at": "2025-12-04T03:53:43.000Z",
-      "summary": "ריצ'רד ושי לחמו ב-7/10 לצידו של לוחם היס\"מ רן גואילי בקיבוץ עלומים, וכל דיווח על חטוף נוסף שאמור להגיע מטלטל אותם. \"יש לנו תקווה שיאמרו לנו יום אחד שהוא עדיין חי. אם מישהו יכול לשרוד דבר כזה - זה רק הוא\", אמרו. הם שחזרו את הרגעים האחרונים לפני חטיפתו: \"הוא היה עם כתף שבורה, אבל נלחם כמו אריה\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -205,11 +235,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Netanyahu doubles down on assertion that he&#8217;ll visit NYC once Mamdani becomes mayor",
+      "title": "Netanyahu doubles down on assertion he&#8217;ll visit NYC once Mamdani becomes mayor",
       "url": "https://www.timesofisrael.com/netanyahu-doubles-down-on-assertion-that-hell-visit-a-mamdani-led-new-york-city/",
       "image": null,
       "published_at": "2025-12-04T02:25:28.000Z",
-      "summary": "PM says he's open to speaking with mayor-elect if latter agrees to recognize Israel as Jewish state, declines to say when he'll retire, insists he enjoys widespread public support\nThe post Netanyahu doubles down on assertion that he&#8217;ll visit NYC once Mamdani becomes mayor appeared first on The"
+      "summary": "PM says he's open to speaking with mayor-elect if latter agrees to recognize Israel as Jewish state, declines to say when he'll retire, insists he enjoys widespread public support\nThe post Netanyahu doubles down on assertion he&#8217;ll visit NYC once Mamdani becomes mayor appeared first on The Time"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -309,7 +339,7 @@
       "url": "https://www.ynet.co.il/news/article/hjsqserzbe",
       "image": null,
       "published_at": "2025-12-03T22:45:03.000Z",
-      "summary": "חרף הסדקים בקואליציה, נתניהו ממשיך בניסיונותיו להאיץ את תהליך חקיקת הפטור מגיוס כדי להשאיר כמה שפחות זמן לסערה ציבורית. הייעוץ המשפטי הבהיר כי \"בליץ\" לא אפשרי. במסר לחרדים הדגיש ביסמוט: \"לשים את כל העריקים בכלא? לא אתן\""
+      "summary": "חרף הסדקים בקואליציה, נתניהו ממשיך בניסיונותיו להאיץ את תהליך חקיקת הפטור מגיוס כדי להשאיר כמה שפחות זמן לסערה ציבורית. הייעוץ המשפטי הבהיר כי \"בליץ\" לא אפשרי. במסר לחרדים הדגיש ביסמוט: \"לשים את כולם בכלא? לא אתן\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -802,16 +832,6 @@
       "summary": "ישראל זקוקה לשלטון יציב בדמשק, שמסוגל למנוע את הברחות האמל\"ח לחיזבאללה ואת פעילות החוליות הפלסטיניות שמופעלות על ידי איראן - אך מדיניותה הנוכחית רק מגבירה את חוסר היציבות של השלטון וחותרת תחת מטרותיה שלה"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "High Court once again strikes down Levin&#8217;s pick to oversee Sde Teiman leak investigation",
-      "url": "https://www.timesofisrael.com/high-court-once-again-strikes-down-levins-pick-to-oversee-sde-teiman-leak-investigation/",
-      "image": null,
-      "published_at": "2025-12-03T18:48:16.000Z",
-      "summary": "In unanimous decision, court rules Levin's appointee invalid since he is not a senior public official, as required by court in order to avoid politicization of criminal prosections\nThe post High Court once again strikes down Levin&#8217;s pick to oversee Sde Teiman leak investigation appeared first "
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -860,16 +880,6 @@
       "image": null,
       "published_at": "2025-12-03T18:13:27.000Z",
       "summary": "What it took to release a Palestinian-American teen from an Israeli prison. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Yemen’s Houthis release 9 mariners held since July ship attack",
-      "url": "https://www.aljazeera.com/news/2025/12/3/yemens-houthis-release-9-mariners-held-since-july-ship-attack?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-03T17:49:35.000Z",
-      "summary": "The Philippines says it expected nine Filipino mariners held by the Houthis since July attack to be released in Yemen."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -970,16 +980,6 @@
       "image": null,
       "published_at": "2025-12-03T16:49:41.000Z",
       "summary": "תיאורים קשים: בתחקיר נרחב של CNN נטען כי צה\"ל הפר את החוק הבינ\"ל בכך שלא סימן נקודות שבהן נקברו עזתים שנורו מאש הכוחות, כשלעיתים אף נותרו בשטח במשך ימים. \"לראות כמות כזו של גופות, כשכלבים אוכלים אותן ומשחקים עם העצמות - זה נורא\", אמר לוחם צה\"ל ששוחח עם הרשת האמריקנית "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Israel receives coffin that Palestinian groups say contains Gaza hostage's body",
-      "url": "https://www.bbc.com/news/articles/cd6x2j4g3z7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bff1/live/66a2f9c0-d060-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-03T16:43:34.000Z",
-      "summary": "The remains, which Hamas and Palestinian Islamic Jihad say were found in northern Gaza, will be taken to Tel Aviv for forensic tests."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
