@@ -1,6 +1,36 @@
 {
-  "generated_at": "2025-12-04T06:15:05.519Z",
+  "generated_at": "2025-12-04T06:50:39.373Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump to host signing of peace deal between leaders of DR Congo and Rwanda",
+      "url": "https://www.bbc.com/news/articles/cjrjn88jqn4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1c8/live/f005eb50-d056-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-12-04T06:45:38.000Z",
+      "summary": "The US president hopes that a peace deal will pave the way for greater American investment in the resource-rich region. "
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "After vitriolic synagogue protest, NY Jewish leaders call to &#8216;stand up as proud Jews&#8217;",
+      "url": "https://www.timesofisrael.com/after-vitriolic-synagogue-protest-ny-jewish-leaders-call-to-stand-up-as-proud-jews/",
+      "image": null,
+      "published_at": "2025-12-04T06:37:34.000Z",
+      "summary": "Coalition of Jewish groups to hold solidarity rally at Manhattan's Park East Synagogue, as state lawmakers push bill to ban demonstrations adjacent to houses of worship\nThe post After vitriolic synagogue protest, NY Jewish leaders call to &#8216;stand up as proud Jews&#8217; appeared first on The Ti"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Body of Thai national Sudthisak Rinthalak, murdered on Oct. 7, returned to Israel",
+      "url": "https://www.haaretz.com/israel-news/2025-12-04/ty-article/.premium/body-of-thai-national-sudthisak-rinthalak-murdered-on-oct-7-returned-to-israel/0000019a-e7bf-d0ea-afff-ffff80120000",
+      "image": "https://img.haarets.co.il/bs/0000019a-e7cb-d0ea-afff-ffcbad8c0001/7c/21/24affee74dc7a136d8b330d0def8/522171.jpg?height=81",
+      "published_at": "2025-12-04T06:18:38.000Z",
+      "summary": "Israel says the 42-year-old agricultural worker was killed and abducted from Kibbutz Be'eri and held by Palestinian Islamic Jihad, as the last missing hostage, Ran Gvili, remains in Gaza"
+    },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
@@ -10,6 +40,16 @@
       "image": null,
       "published_at": "2025-12-04T06:07:36.000Z",
       "summary": "Billionaire says work with documentary about Nova music festival massacre led her to see that Israeli production company is aligned with family foundation to combat antisemitism\nThe post Media mogul Shari Redstone&#8217;s new venture seeks to tell authentic stories about Israel appeared first on The"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Most Germans, French see ‘high risk’ of war with Russia, survey shows",
+      "url": "https://www.aljazeera.com/news/2025/12/4/most-germans-french-see-high-risk-of-war-with-russia-survey-shows?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-04T06:04:07.000Z",
+      "summary": "Just over half of citizens across nine European countries believe there is a high risk of a conflict, French poll finds."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -109,7 +149,7 @@
       "url": "https://www.ynet.co.il/news/article/r16000trbbg",
       "image": null,
       "published_at": "2025-12-04T04:33:35.000Z",
-      "summary": "במשך חצי שנה לא ידעה משפחתו של סותטיסאק רינטלאק, אזרח תאילנד שעבד במטעים של קיבוץ בארי ונחטף ב-7/10, מה עלה בגורלו. אמו אמרה ל-ynet רק השבוע: \"אני רוצה את הבן שלי - כמה שיותר מהר\". אתמול הוא הושב לישראל אחרי 789 ימים. ברצועה נותר החטוף האחרון - רס\"ל רן גואילי"
+      "summary": "במשך חצי שנה לא ידעה משפחתו של סותטיסאק רינטלאק, אזרח תאילנד שעבד במטעים בעוטף עזה ונחטף ב-7/10, מה עלה בגורלו. אמו אמרה ל-ynet רק השבוע: \"אני רוצה את הבן שלי - כמה שיותר מהר\". אתמול הוא הושב לישראל אחרי 789 ימים. ברצועה נותר החטוף האחרון - רס\"ל רן גואילי"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -189,7 +229,7 @@
       "url": "https://www.ynet.co.il/news/article/yokra14601855",
       "image": null,
       "published_at": "2025-12-04T03:53:56.000Z",
-      "summary": "הם חזרו לצפון בתקווה שהאזור יקבל דחיפה קדימה מהממשלה אחרי המלחמה, אך המציאות טפחה על פניהם - ולפי מחקר חדש 83% מהצעירים היהודים שוקלים לעזוב. \"הפכנו ל'ערבה הצפונית' - מקום נטוש שלא מתייחסים אליו ברצינות\", אמרה נוי שחזרה לקריית שמונה. הקושי המרכזי: מחסור חמור במקומות עבודה"
+      "summary": "הם חזרו לצפון בתקווה שהאזור יקבל דחיפה קדימה מהממשלה אחרי המלחמה, אך המציאות טפחה על פניהם - ולפי מחקר חדש רוב הצעירים היהודים שוקלים לעזוב. \"הפכנו ל'ערבה הצפונית' - מקום נטוש שלא לוקחים ברצינות\", אמרה נוי שחזרה לק\"ש. הקושי המרכזי - והדרך לשגשוג: \"חייבים עוגן תעסוקתי איכותי\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -490,6 +530,16 @@
       "image": "https://img.haarets.co.il/bs/0000019a-e3c1-dece-a9da-e7d777860000/96/07/05d4a4f949b0b87fb9a7c03407f8/973020.jpg?height=81",
       "published_at": "2025-12-03T22:12:22.000Z",
       "summary": ""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Five killed in Israeli air strikes on tents near Khan Younis, medics say",
+      "url": "https://www.bbc.com/news/articles/cnv21m0zpjmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/241e/live/a82ae070-d087-11f0-9508-4b2ee64d533f.jpg",
+      "published_at": "2025-12-03T22:09:36.000Z",
+      "summary": "Rescue workers say they recovered bodies from a camp for displaced people. The IDF says it \"struck a Hamas terrorist\"."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -852,16 +902,6 @@
       "summary": "Electrical failures due to ageing infrastructure, hurricanes and a struggling economy have prompted widespread protests."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "UN chief calls Israel&#8217;s conduct throughout Gaza war &#8216;fundamentally wrong&#8217;",
-      "url": "https://www.timesofisrael.com/un-chief-calls-israels-conduct-throughout-gaza-war-fundamentally-wrong/",
-      "image": null,
-      "published_at": "2025-12-03T19:40:08.000Z",
-      "summary": "'Objective was to destroy Hamas. Gaza is destroyed, but Hamas is not yet destroyed,' Guterres tells Reuters event, claims 'strong reasons to believe' war crimes have been committed\nThe post UN chief calls Israel&#8217;s conduct throughout Gaza war &#8216;fundamentally wrong&#8217; appeared first on "
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -940,16 +980,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-e54c-d0ea-afff-ff4f50040000/bf/32/b8f694294cfab75a407106e63bed/707164.jpg?height=81",
       "published_at": "2025-12-03T18:17:25.000Z",
       "summary": "The policy, apparently in place for over two years, came to light after an Israeli charity was denied a record attempt. Guinness is open to reconsidering applications in partnership with a UN aid agency and said the policy is subject to monthly reviews"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Why did it take months to free a US teen from Israeli prison?",
-      "url": "https://www.aljazeera.com/video/the-take-2/2025/12/3/aje-onl-pal_mohammedibrahim_v4-031225?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-03T18:13:27.000Z",
-      "summary": "What it took to release a Palestinian-American teen from an Israeli prison. "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -2320,16 +2350,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-d916-d824-ad9e-fb7fa8c10000/2a/e8/d41ab0d84e1791a4f6f9a17afc7d/304731-2.jpg?height=81",
       "published_at": "2025-12-01T11:28:33.000Z",
       "summary": "Anyone who has read the court transcripts understands that no power can save Benjamin Netanyahu from conviction on at least some of the charges. But the pardon request submitted to President Herzog contains no hint of this, and appears to be the most brazen request ever submitted"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Netanyahu didn't request a pardon; he is extorting Israel and its president through threats",
-      "url": "https://www.haaretz.com/israel-news/2025-12-01/ty-article/.premium/netanyahu-has-not-requested-a-pardon-he-is-extorting-israel-and-its-president-via-threats/0000019a-d65a-db2f-afdf-f67a55dc0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-d8c7-dcd7-a3be-daffc1e10005/1d/6f/083600774451b85e3bded1e07605/926393-2.jpg?height=81",
-      "published_at": "2025-12-01T10:56:59.000Z",
-      "summary": "A pardon on the terms Netanyahu is demanding would be a death blow to the judicial system and the rule of law, and would confirm his claim that a vengeful 'deep state' fabricated a case against him"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
