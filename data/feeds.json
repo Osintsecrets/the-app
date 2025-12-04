@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-04T13:51:26.228Z",
+  "generated_at": "2025-12-04T14:10:48.274Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -40,6 +40,26 @@
       "image": null,
       "published_at": "2025-12-04T14:03:00.000Z",
       "summary": "Benny Gantz unveiled an education plan to scrap 12th grade, shift matriculation exams to 11th, mandate core studies, and roll out free schooling from birth within five years"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "רכב עלה באש באיילון דרום: שיבושים קשים באזור ת\"א, תאונה גם בראשון לציון",
+      "url": "https://www.ynet.co.il/news/article/bj88qzkzwg",
+      "image": null,
+      "published_at": "2025-12-04T14:01:39.000Z",
+      "summary": "לוחמי אש הוקפצו לכבות את המונית שבערה בין מחלף רוקח למחלף ההלכה. כמעט במקביל, רוכב אופנוע נפצע קשה בתאונה במחלף משה דיין"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Netanyahu says he will look for Palestinians 'fighting Hamas' to take control of Gaza",
+      "url": "https://www.haaretz.com/israel-news/2025-12-04/ty-article/.premium/netanyahu-says-he-will-look-for-palestinians-fighting-hamas-to-take-control-of-gaza/0000019a-e94b-dc6c-a3ff-edcfc3c70000",
+      "image": "https://img.haarets.co.il/bs/0000019a-e98f-db35-afbf-ebdfb8da0000/db/76/08f1a28f47fdb2c6f9e24c9677bd/995914-1.jpg?height=81",
+      "published_at": "2025-12-04T13:57:21.000Z",
+      "summary": "In a Wednesday night interview at the New York Times DealBook Summit, Netanyahu criticized the Palestinian Authority for being 'corrupt', and said he had no intention to retire from political life in Israel, since 'history is calling' him"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -119,7 +139,7 @@
       "url": "https://www.ynet.co.il/news/article/hjzoryyzwg",
       "image": null,
       "published_at": "2025-12-04T13:21:00.000Z",
-      "summary": "\"התקפי, תחבולני, רציני להחריד\": מינוי המזכיר הצבאי לראש המוסד לא התקבל בהפתעה בקרב עובדי הארגון, אך מבקריו טוענים כי \"לאומץ שלו מתלווים 97% טיפשות\". מנגד, מכריו של האלוף אומרים כי הוא האדם הנכון לתפקיד וכי \"הרוסית שלו היא יתרון משמעותי\". הטענה ל\"ריאיון\" אצל רעיית רה\"מ - והצפי לגל עזיבות"
+      "summary": "\"התקפי, תחבולני, רציני להחריד\": מינוי המזכיר הצבאי לראש המוסד לא התקבל בהפתעה בקרב עובדי הארגון, אך מבקריו טוענים כי \"הוא מאוד לא מתאים לתפקיד\". מנגד, מכריו של האלוף אומרים כי הוא האדם הנכון וכי \"הרוסית שלו היא יתרון משמעותי\". הטענה ל\"ריאיון\" אצל רעיית רה\"מ - והצפי לגל עזיבות"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -175,7 +195,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "J'lem municipality sponsors religious Zionist events prominently starring Bezalel Smotrich",
+      "title": "Jerusalem sponsors religious Zionist events prominently starring Bezalel Smotrich",
       "url": "https://www.haaretz.com/israel-news/2025-12-04/ty-article/.premium/jlem-municipality-sponsors-religious-zionist-events-prominently-starring-bezalel-smotrich/0000019a-e8a9-db35-afbf-ebfd0ed70000",
       "image": "https://img.haarets.co.il/bs/0000019a-e8ae-d0ea-afff-faef7b690006/e7/63/926977e8454cbe191fff81d60481/296299.jpg?height=81",
       "published_at": "2025-12-04T12:55:53.000Z",
@@ -245,7 +265,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הנער שהופעל על ידי גופמן תוקף: \"הרס את חיי והפקיר. מינויו - סכנה לביטחון המדינה\"",
+      "title": "הנער שראש המוסד המיועד הפעיל: \"הרס לי את החיים - והפקיר אותי\"",
       "url": "https://www.ynet.co.il/news/article/rklpdxjgwe",
       "image": null,
       "published_at": "2025-12-04T12:26:33.000Z",
@@ -830,16 +850,6 @@
       "image": null,
       "published_at": "2025-12-04T07:50:00.000Z",
       "summary": "Southern Lebanon&#039;s Jbaa, Mahrouna towns come under Israeli air attack, with the army threatening more areas."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"מי שייגע בטיילת מת, אני גומר אותו שם\": האיום של הבסטיונר על ראש העיר | האזינו",
-      "url": "https://www.ynet.co.il/news/article/hjji00o0zzx",
-      "image": null,
-      "published_at": "2025-12-04T07:37:25.000Z",
-      "summary": "בעל דוכן בטיילת טבריה איים על יוסי נבעה בטלפון, ונעצר לאחר שהתפרץ למשרדי העירייה: \"תהיה לך קדנציה שחורה, אעשה לך טרור\". הרקע: עבודות השיפוץ שיזם ראש העיר בטיילת, בעלות עשרות מיליוני שקלים: \"הדוכנים הפכו למטרד, נבנה טיילת יפה ומושכת\""
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkveHBw",
@@ -2320,16 +2330,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-da9a-dbc7-a1fb-fedb95cd0007/ba/d6/37adcea04291b6bb2748f1e7819d/972739.jpg?height=81",
       "published_at": "2025-12-01T16:17:33.000Z",
       "summary": "Supreme Court President Isaac Amit canceled Monday's hearing on petitions against the government's dismissal of the attorney general due to the absence of a government representative"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Right-wing pundit Amit Segal: Ex-hostage Tsurkov 'should do some soul-searching about the price her stupid adventures cost Israel'",
-      "url": "https://www.haaretz.com/israel-news/2025-12-01/ty-article/.premium/right-wing-journalist-amit-segal-accuses-released-iraq-captive-of-hating-israel/0000019a-da10-db00-adba-df3511920000",
-      "image": "https://img.haarets.co.il/bs/0000019a-da2d-db2e-a9de-fb2d66630000/31/ee/d9e0eabf4f8292c80fa8cf9d99fe/754589.jpg?height=81",
-      "published_at": "2025-12-01T15:59:33.000Z",
-      "summary": "The Israeli right-wing pundit blasted Tsurkov, who returned to Israel after over two years in captivity in Iraq, over her criticism of his channel's reporting of the killing of two Palestinian children in Gaza. Tsurkov responded: If you're interested in living under a regime that doesn't allow criti"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
