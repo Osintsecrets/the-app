@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-04T11:09:01.648Z",
+  "generated_at": "2025-12-04T11:36:57.159Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Tiberias man, upset about promenade renovations, threatens to kill mayor, construction workers",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-879170",
+      "image": null,
+      "published_at": "2025-12-04T13:26:36.000Z",
+      "summary": "The suspect was reportedly upset about construction that is currently underway on the long-neglected, dilapidated Yigal Alon Promenade. "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -12,14 +22,34 @@
       "summary": "Gofman is set to replace the current Mossad chief, David Barnea, in June of next year."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israel says Palestinian groups returned body of Thai hostage held in Gaza",
-      "url": "https://www.bbc.com/news/articles/cd6x2j4g3z7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac3f/live/daf7fe70-d0e1-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-04T11:02:24.000Z",
-      "summary": "The remains of agricultural worker Suthisak Rintalak were recovered by Hamas and Palestinian Islamic Jihad in northern Gaza."
+      "title": "Israel's public defender: Palestinian security prisoners suffering severe hunger since Oct. 7",
+      "url": "https://www.haaretz.com/israel-news/2025-12-04/ty-article/.premium/israels-public-defender-palestinian-prisoners-suffering-severe-hunger-since-oct-7/0000019a-e86b-db35-afbf-eb7f5c490000",
+      "image": "https://img.haarets.co.il/bs/0000019a-e874-dc6c-a3ff-ecfdb26b0001/a2/ba/508571224336b976366ca266dbe9/202197-2.jpg?height=81",
+      "published_at": "2025-12-04T11:31:07.000Z",
+      "summary": "According to a new report from the Public Defender's Office, Palestinian security prisoners experienced severe overcrowding and were underfed since the beginning of the Israel-Gaza war, and prisons did not rectify the situation after High Court decisions"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvWmxs",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Help War-Devastated Families in Israel&#8217;s North - Sponsored Content",
+      "url": "https://toi.li/ZllmV6",
+      "image": null,
+      "published_at": "2025-12-04T11:28:51.000Z",
+      "summary": "We are receiving thousands of requests for basic food supplies from families in Israel’s north and we are on the ground helping these people right now.\nThe post Help War-Devastated Families in Israel&#8217;s North appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Is it really impossible for Israelis to get through the month?",
+      "url": "https://www.haaretz.com/israel-news/2025-12-04/ty-article/.premium/is-it-really-impossible-for-israelis-to-get-through-the-month/0000019a-e90c-dc6c-a3ff-ed8dc1ca0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-e90c-dc6c-a3ff-ed8dbfb80000/d1/6c/eef8453843c7a716c7ed2e11613b/64015914.JPG?height=81",
+      "published_at": "2025-12-04T11:27:01.000Z",
+      "summary": "Yes and no. The cost of living is high, but incomes have risen sharply. Oddly enough, it's the affluent who kvetch the most about affordability"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -28,8 +58,48 @@
       "title": "Trump to host signing of peace deal between leaders of DR Congo and Rwanda",
       "url": "https://www.bbc.com/news/articles/cjrjn88jqn4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8940/live/41c12420-d0ff-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-12-04T10:57:12.000Z",
+      "published_at": "2025-12-04T11:17:34.000Z",
       "summary": "The US president hopes that a peace deal will pave the way for greater American investment in the resource-rich region. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Putin says Russia ready to take Ukraine’s eastern Donbas region ‘by force’",
+      "url": "https://www.aljazeera.com/news/2025/12/4/putin-vows-russia-is-ready-to-take-ukraines-donbas-by-force?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-04T11:12:53.000Z",
+      "summary": "Comments to Indian media seem to contradict Trump report that negotiators got the impression he wanted to &#039;make a deal&#039;."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "The age of unipolar diplomacy is coming to an end",
+      "url": "https://www.aljazeera.com/opinions/2025/12/4/the-age-of-unipolar-diplomacy-is-coming-to-an-end?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-04T11:10:55.000Z",
+      "summary": "Gaza has exposed the limits of US power and opened space for new centres of global diplomacy."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Letters From A Palestinian Prisoner",
+      "url": "https://www.aljazeera.com/video/al-jazeera-world/2025/12/4/letters-from-a-palestinian-prisoner?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-04T11:10:38.000Z",
+      "summary": "Mohammed and his daughter confront the emotional scars of his activism and Israeli imprisonment that kept them apart. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Israel says Palestinian groups returned body of Thai hostage held in Gaza",
+      "url": "https://www.bbc.com/news/articles/cd6x2j4g3z7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac3f/live/daf7fe70-d0e1-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-12-04T11:02:24.000Z",
+      "summary": "The remains of agricultural worker Suthisak Rintalak were recovered by Hamas and Palestinian Islamic Jihad in northern Gaza."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -95,7 +165,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "At the Nova massacre site, freed Gaza hostage Edan Alexander vows to 'give hell' to Hamas",
+      "title": "Freed Gaza hostage Edan Alexander vows to 'give hell' to Hamas at Nova massacre site",
       "url": "https://www.jpost.com/israel-news/article-879145",
       "image": null,
       "published_at": "2025-12-04T10:39:10.000Z",
@@ -782,16 +852,6 @@
       "summary": "Singh had appealed against a guilty verdict of lying to a parliamentary committee in 2021."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Venezuela’s Maduro confirms ‘cordial’ call with Trump amid tensions with US",
-      "url": "https://www.aljazeera.com/news/2025/12/4/venezuelas-maduro-confirms-cordial-call-with-trump-amid-tensions-with-us?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-04T03:08:39.000Z",
-      "summary": "Venezuelan leader expresses hope phone call marks beginning of &#039;respectful dialogue&#039; between Washington and Caracas."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -812,16 +872,6 @@
       "summary": ""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Russia-Ukraine war: List of key events, day 1,379",
-      "url": "https://www.aljazeera.com/news/2025/12/4/russia-ukraine-war-list-of-key-events-day-1379?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-04T02:29:52.000Z",
-      "summary": "These are the key developments from day 1,379 of Russia’s war on Ukraine."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -830,16 +880,6 @@
       "image": null,
       "published_at": "2025-12-04T02:25:28.000Z",
       "summary": "PM says he's open to speaking with mayor-elect if latter agrees to recognize Israel as Jewish state, declines to say when he'll retire, insists he enjoys widespread public support\nThe post Netanyahu doubles down on assertion he&#8217;ll visit NYC once Mamdani becomes mayor appeared first on The Time"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Who is Kevin Hassett, Trump’s expected pick to lead the Federal Reserve?",
-      "url": "https://www.aljazeera.com/economy/2025/12/4/who-is-kevin-hassett-trumps-expected-pick-to-lead-the-federal-reserve?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-04T02:13:39.000Z",
-      "summary": "Trump&#039;s top economic adviser is odds-on favourite to lead the Fed amid concerns over the central bank&#039;s independence."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1040,16 +1080,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-e60f-d0ea-afff-fe4f7c0b0001/c2/0a/433fc4ec4f23b7338b2c26a5f0d9/696578.jpg?height=81",
       "published_at": "2025-12-03T21:50:23.000Z",
       "summary": "Since the end of the 12-day war with Israel, the number of executions in Iran has reached new highs. At least 256 prisoners were executed in November alone, as the government signals that internal dissent will not be tolerated amid ongoing threats from Israel and the U.S."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Pentagon watchdog: Hegseth writing on Signal about strike on Houthis endangered US staff",
-      "url": "https://www.timesofisrael.com/pentagon-watchdog-hegseth-writing-on-signal-about-strike-on-houthis-endangered-us-staff/",
-      "image": null,
-      "published_at": "2025-12-03T21:39:51.000Z",
-      "summary": "At the same time, inspector general notes defense secretary has ability to declassify material and does not find he did so improperly\nThe post Pentagon watchdog: Hegseth writing on Signal about strike on Houthis endangered US staff appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1680,16 +1710,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9a7/live/eae8bde0-cfe4-11f0-a892-01d657345866.jpg",
       "published_at": "2025-12-03T00:34:05.000Z",
       "summary": "Fishing boats deliver relief supplies to flooded suburbs as community kitchens churn out food aid."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "WATCH: Bat Yam mayor warns residents against Iranian intelligence recruitment attempts",
-      "url": "https://www.jpost.com/israel-news/article-879005",
-      "image": null,
-      "published_at": "2025-12-02T23:37:45.000Z",
-      "summary": "Iran is targeting Bat Yam residents for recruitment, Mayor Tzvika Brot said, urging locals to report any suspicious outreach before causing “irreversible harm.”"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2330,26 +2350,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-d98b-dadd-a3de-d9ff9e3f0001/be/ec/66353a1047efa7a3120728d623d4/63969777.JPG?height=81",
       "published_at": "2025-12-01T13:43:53.000Z",
       "summary": "Beirut understands well the meaning of Israel's threat to expand the fighting. The question is whether Israel recognizes the consequences"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "23 Arab-Israeli crime family members arrested in major raid after undercover investigation",
-      "url": "https://www.haaretz.com/israel-news/2025-12-01/ty-article/.premium/23-members-of-arab-israeli-crime-families-arrested-after-undercover-investigation/0000019a-d95f-d437-a7ff-fdff0c840000",
-      "image": "https://img.haarets.co.il/bs/0000019a-d9b3-dcd7-a3be-dbbbb4e00000/f8/c3/ef9d2df846f09ed99a4bbc81a6e8/whatsapp-image-2025-12-01-at-05-36-42.jpeg?height=81",
-      "published_at": "2025-12-01T13:39:05.000Z",
-      "summary": "The arrests of members of the Abu Latif and Hariri organizations follow a year-long undercover investigation, the police said, carried out with the help of a state witness nicknamed 'the Prince,' who infiltrated the crime organizations for more than a year"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "'We ask for peace': Pope Leo visits conflict-ridden Lebanon",
-      "url": "https://www.haaretz.com/middle-east-news/2025-12-01/ty-article/we-ask-for-peace-pope-leo-visits-conflict-ridden-lebanon/0000019a-d9a9-db55-a7bb-fdfdbbff0000",
-      "image": "https://img.haarets.co.il/bs/00000196-c8e1-dce0-abfe-fffddd000000/36/de/ba84ba3d40f1886dc1e07e43473e/653486.jpg?height=81",
-      "published_at": "2025-12-01T13:36:03.000Z",
-      "summary": "After visiting Turkey, Pope Leo continues to Lebanon, warmly received in Beirut as 'a visit of hope.' During his three-day trip, he visited holy sites sacred to both Muslims and Christians, including the Tomb of St. Charbel Makhlouf and the Shrine of Our Lady of Lebanon, urging hope, love, and respe"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
