@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-05T15:41:31.030Z",
+  "generated_at": "2025-12-05T16:11:20.671Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF identifies and kills terrorist approaching forces in northern Gaza",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-879351",
+      "image": null,
+      "published_at": "2025-12-05T17:54:32.000Z",
+      "summary": "One other terrorist identified by the IDF accompanied him as the two approached Israeli forces, the military added. The other terrorist survived the strike, which was carried out by the IAF."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -30,6 +40,56 @@
       "image": null,
       "published_at": "2025-12-05T15:49:45.000Z",
       "summary": "The operation was conducted with the IDF's Menashe Brigade and Samaria Brigade in collaboration with the Shin Bet, Border Police, and the Air Force."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Anti-Israel boycotts might hurt Eurovision budget but not the show, Austrian host says",
+      "url": "https://www.timesofisrael.com/anti-israel-boycotts-might-hurt-eurovision-budget-but-not-the-show-austrian-host-says/",
+      "image": null,
+      "published_at": "2025-12-05T15:47:46.000Z",
+      "summary": "Netherlands, Slovenia, Ireland and Spain have until mid-December to reconsider, says head of public broadcaster; Belgium confirms participation\nThe post Anti-Israel boycotts might hurt Eurovision budget but not the show, Austrian host says appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Cabinet approves 2026 state budget, overcoming defense spending rifts",
+      "url": "https://www.timesofisrael.com/cabinet-approves-2026-state-budget-overcoming-defense-spending-rifts/",
+      "image": null,
+      "published_at": "2025-12-05T15:47:42.000Z",
+      "summary": "Lapid says budget benefits 'crooks and draft dodgers,' as bill moves onto first plenary reading; PM says government 'will live out its days,' no early election\nThe post Cabinet approves 2026 state budget, overcoming defense spending rifts appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Germany votes to bring back voluntary military service programme for 18-year-olds",
+      "url": "https://www.bbc.com/news/articles/ckg9drg8pg1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/165e/live/0fe7b770-d1c2-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-12-05T15:43:16.000Z",
+      "summary": "The shift in its approach to its military follows a push to create Europe's strongest conventional army."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "היכונו למהפך: הגשם חוזר - והדרך לאילת עשויה להיחסם",
+      "url": "https://www.ynet.co.il/news/article/bks111oegwe",
+      "image": null,
+      "published_at": "2025-12-05T15:39:26.000Z",
+      "summary": "החל ממחר בבוקר צפויים גשמים שילכו ויתחזקו ברחבי הארץ, והטמפרטורות ירדו בהתאם. בנחלי הדרום והמזרח קיים חשש משיטפונות, המשטרה נערכת לחסימת כביש 90: \"תכננו מראש את הנסיעה\". התחזית המלאה - ושיאנית החום היום"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "British soldiers accused of more abuses in Kenya: What we know",
+      "url": "https://www.aljazeera.com/news/2025/12/5/british-soldiers-accused-of-more-abuses-in-kenya-what-we-know?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-05T15:30:50.000Z",
+      "summary": "British soldiers training in Kenya abused women and caused environmental destruction for years, parliament has said."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -615,16 +675,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Germany votes to bring back voluntary military service programme for 18-year-olds",
-      "url": "https://www.bbc.com/news/articles/ckg9drg8pg1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/165e/live/0fe7b770-d1c2-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-05T10:34:35.000Z",
-      "summary": "The shift in its approach to its military follows a push to create Europe's strongest conventional army."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Kenya signs landmark health deal with US despite data fears ",
       "url": "https://www.bbc.com/news/articles/c0r9vq5vv4no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8893/live/0b7c9720-d1ac-11f0-83cd-5b415fb0080a.jpg",
@@ -805,21 +855,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Israel sets military budget at $34bn as it keeps attacking Gaza",
+      "title": "LIVE: Israel attacks Gaza with artillery and air strikes despite ceasefire",
       "url": "https://www.aljazeera.com/news/liveblog/2025/12/5/live-israel-sets-military-budget-at-34bn-keeps-attacking-gaza?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-05T08:15:02.000Z",
-      "summary": "People in the enclave fear the resumption of the full-scale genocidal war as Israeli ceasefire violations persist."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israel “art-washing its war crimes” through Eurovision",
-      "url": "https://www.aljazeera.com/video/quotable/2025/12/5/israel-art-washing-its-war-crimes-through-eurovision?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-05T08:14:40.000Z",
-      "summary": "Dorien Ballout on the boycott by the Netherlands and other countries of Eurovision 2026 after Israel allowed to compete."
+      "summary": "Helicopter gunship and artillery fire hit major cities in north and south Gaza as Israeli violations continue."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1110,16 +1150,6 @@
       "image": null,
       "published_at": "2025-12-05T02:56:42.000Z",
       "summary": "Officials in the Gaza border councils warned that “such a move will directly harm the ability to rehabilitate and develop the region after the events of October 7.\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ארבע הטעויות של תומכי חוק ביסמוט",
-      "url": "https://www.ynet.co.il/news/article/hy27gwkfwx",
-      "image": null,
-      "published_at": "2025-12-05T02:35:00.000Z",
-      "summary": "ברגע שייווצרו מסגרות נורמליות, מותאמות וראויות, אין שום סיבה שלא יהיו מהחרדים חיילים מעולים, גם אם ההתחלה תבוא מכוח חוק ולא רק מרצון אישי"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1650,16 +1680,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-e8f5-de8e-a99b-faffc90d0001/e8/bd/0eef874a4f478f37b35ab1139a32/263656.jpg?height=81",
       "published_at": "2025-12-04T12:09:38.000Z",
       "summary": "Israel has delayed deciding whether to extend the protection status granted after Russia's invasion of Ukraine in 2022, despite the fact that many refugees have no home to return to. Several human rights organizations have asked the government to extend the protection status"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Netanyahu taps military secretary Roman Gofman as next Mossad chief in surprise move",
-      "url": "https://www.jpost.com/israel-news/article-879162",
-      "image": null,
-      "published_at": "2025-12-04T12:02:09.000Z",
-      "summary": "PM's appointment comes as a surprise as he overlooks leading candidate 'A' • Mossad sources highly circumspect regarding what to expect during Gofman's term"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
