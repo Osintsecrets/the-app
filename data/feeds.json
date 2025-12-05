@@ -1,6 +1,76 @@
 {
-  "generated_at": "2025-12-05T19:32:20.123Z",
+  "generated_at": "2025-12-05T20:10:31.884Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US Supreme Court agrees to hear case challenging birthright citizenship",
+      "url": "https://www.bbc.com/news/articles/c208j0wrzrvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12a7/live/f7be8d50-c937-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-12-05T20:05:50.000Z",
+      "summary": "Donald Trump's controversial executive order to end birthright citizenship had been rejected by lower courts."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "FIFA chief awards ally Trump the body&#8217;s inaugural peace prize after Nobel miss",
+      "url": "https://www.timesofisrael.com/fifa-chief-awards-ally-trump-the-bodys-inaugural-peace-prize-after-nobel-miss/",
+      "image": null,
+      "published_at": "2025-12-05T20:03:00.000Z",
+      "summary": "Gianni Infantino gives president 'beautiful medal,' gold trophy and certificate hailing work to 'promote peace and unity around the world' at 2026 World Cup draw\nThe post FIFA chief awards ally Trump the body&#8217;s inaugural peace prize after Nobel miss appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Antisemitic attacker sentenced to 2 years in prison for 2021 beating in Times Square",
+      "url": "https://www.timesofisrael.com/antisemitic-attacker-sentenced-to-2-years-in-prison-for-2021-beating-in-times-square/",
+      "image": null,
+      "published_at": "2025-12-05T20:01:24.000Z",
+      "summary": "Salem Seleiman pleads guilty to hate crime for violent attack on Joey Borgen, a Jewish man attending a pro-Israel rally\nThe post Antisemitic attacker sentenced to 2 years in prison for 2021 beating in Times Square appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Lebanese PM tells UN team country will need back-up force once UNIFIL&#8217;s term ends",
+      "url": "https://www.timesofisrael.com/lebanese-pm-tells-un-team-country-will-need-back-up-force-once-unifils-term-ends/",
+      "image": null,
+      "published_at": "2025-12-05T20:01:18.000Z",
+      "summary": "Peacekeepers' term ends next year after decades; with Israel saying it failed in its mission to monitor border area to prevent Hezbollah build-up\nThe post Lebanese PM tells UN team country will need back-up force once UNIFIL&#8217;s term ends appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "World Cup 2026: Small nations Big Dreams",
+      "url": "https://www.aljazeera.com/video/game-theory/2025/12/5/world-cup-2026-small-nations-big-dreams?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-05T19:56:24.000Z",
+      "summary": "Tiny populations. Brutal logistics. And political turmoil. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Authorities arrest man suspected of planting pipe bombs in Washington, DC",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/authorities-arrest-man-suspected-of-planting-pipe-bombs-in-washington-dc?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-05T19:55:11.000Z",
+      "summary": "US officials have arrested a man suspected of planting pipe bombs the night before the January 6 Capitol insurrection."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "יוחאי ז\"ל זינק על רימון שלא התפוצץ, חיסל מחבל בידיים והבין: \"זה קרב עד המוות\"",
+      "url": "https://www.ynet.co.il/news/article/bjhpgavzbl",
+      "image": null,
+      "published_at": "2025-12-05T19:27:36.000Z",
+      "summary": "בבוקר 7/10 סגן יוחאי דוכן, מ\"מ בגולני, התעורר ורץ בבוקסר למיגונית עם וסט ומכשיר קשר. \"כך הבין את גודל הכאוס\", מספר אחיו. דקות אחרי שהנחה את חייליו לעלות על ציוד, הם כבר הותקלו וחטפו אש נ\"ט ומקלעים. מהחמ\"ל יצא לגיחות, הכווין זיק וטנקים, הסתער על מחבל בידיים חשופות - ולחם עד הכדור האחרון"
+    },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
@@ -30,16 +100,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ef79-d0ea-afff-ff7bf66a0000/3e/a2/7310c71f4270a5c907ffb09c9ea8/463837.jpg?height=81",
       "published_at": "2025-12-05T19:10:23.000Z",
       "summary": "If the prime minister admits guilt, drops the attempt to weaken the judiciary and backs the forming of a state commission of inquiry, is that a good deal? No. If he stays in power, he will reach for further tools to consolidate his rule"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US Supreme Court agrees to hear case challenging birthright citizenship",
-      "url": "https://www.bbc.com/news/articles/c208j0wrzrvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12a7/live/f7be8d50-c937-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-05T19:05:44.000Z",
-      "summary": "Donald Trump's controversial executive order to end birthright citizenship had been rejected by lower courts."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -592,16 +652,6 @@
       "summary": "Revolutionary Guards Navy conducts exercises that state TV says aim to warn enemies that 'any miscalculation would meet a decisive response'\nThe post Iran launches massive missiles during naval drill near Strait of Hormuz appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "US raid allegedly killed Syrian undercover agent instead of ISIS official",
-      "url": "https://www.timesofisrael.com/us-raid-allegedly-killed-syrian-undercover-agent-instead-of-isis-official/",
-      "image": null,
-      "published_at": "2025-12-05T12:47:19.000Z",
-      "summary": "Death of Khaled al-Masoud, who spied on ISIS for Syrian government, could harm efforts to combat terror group, says expert; victim's mother demands accountability for son's killers\nThe post US raid allegedly killed Syrian undercover agent instead of ISIS official appeared first on The Times of Israe"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -702,16 +752,6 @@
       "summary": "Effi Lifshitz, who has worked in and documented America's fabled film industry, talks about the turn it's taking in the 'post-liberal' era"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "The next threat to Israel at Eurovision is coming from inside the house",
-      "url": "https://www.timesofisrael.com/the-next-threat-to-israel-at-eurovision-is-coming-from-inside-the-house/",
-      "image": null,
-      "published_at": "2025-12-05T11:58:23.000Z",
-      "summary": "As many Israelis celebrate the EBU decision allowing them to stay in the contest, coalition lawmakers are pushing public broadcasting reforms that would render Israel ineligible\nThe post The next threat to Israel at Eurovision is coming from inside the house appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -760,16 +800,6 @@
       "image": null,
       "published_at": "2025-12-05T11:44:55.000Z",
       "summary": "Head coach Ghalenoei is part of the delegation attending the draw despite saying they would boycott it over visa issues."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Son of Chabad rabbi in Australia convicted of child sex abuse in long-running scandal",
-      "url": "https://www.timesofisrael.com/son-of-chabad-rabbi-in-australia-convicted-of-child-sex-abuse-in-long-running-scandal/",
-      "image": null,
-      "published_at": "2025-12-05T11:39:05.000Z",
-      "summary": "Two years after extradition from US, Velvel Serebryanski found guilty on 4 charges; jury decision marks 'closing of a long and painful circle,' says victim Manny Waks\nThe post Son of Chabad rabbi in Australia convicted of child sex abuse in long-running scandal appeared first on The Times of Israel."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -832,16 +862,6 @@
       "summary": "The US president hopes that a peace deal will pave the way for greater American investment in the resource-rich region. "
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "MF Husain was forced into exile; now his work finds permanent home in Qatar",
-      "url": "https://www.aljazeera.com/features/2025/12/5/mf-husain-was-forced-into-exile-now-his-work-finds-permanent-home-in-qatar?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-05T10:49:07.000Z",
-      "summary": "Qatar opens Lawh Wa Qalam museum dedicated to India&#039;s most famous painter, who was hounded into exile by Hindu right. "
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -880,16 +900,6 @@
       "image": null,
       "published_at": "2025-12-05T10:10:45.000Z",
       "summary": "כשלוחמי המילואים שירתו ברצועת הביטחון בדרום לבנון, הרב\"ט בן ה-19 עוד לא נולד. אבל בשבוע שעבר הוא היה לצידם בחילופי האש בבית ג'ן - ותיעד את המבצע המסוכן. \"הרובה היה הנשק הטקטי שלי, והמצלמה הנשק האסטרטגי\", סיפר. \"הבנתי מהר שאני באירוע היסטורי\". ס' מחפ\"ק המג\"ד: \"הוא נתן קנה ודילג איתנו במקצועיות תחת אש"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Putin and Modi discuss trade and peace at summit talks in India",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/5/putin-and-modi-discuss-trade-and-peace-at-summit-talks-in-india?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-05T09:58:49.000Z",
-      "summary": "India’s Prime Minister Narendra Modi welcomed Russian President Vladimir Putin as talks began on boosting trade."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1190,16 +1200,6 @@
       "image": null,
       "published_at": "2025-12-05T04:00:00.000Z",
       "summary": "גל ניצלה מעוקץ של 300 אלף שקלים, אחרי שהייתה \"3 דקות\" מלמכור את רכב השטח שלה לבת אל מויאל ומחמוד כנעאן. הפעולות שעשתה הביאו \"ראיית זהב\" למשטרה, שלכדה את השניים אחרי 28 תלונות - אך חשוד נוסף עדיין נמלט: \"הם נכנסו לאנשים ללב\". וגם: האינסטלטור שהצליח להחזיר את הרכב ברגע האחרון, הנכה שנותר חסר כל, העימו"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "התחזית: התחממות - לקראת גל חורפי וגשמים ברוב הארץ",
-      "url": "https://www.ynet.co.il/news/article/nr9cy90vv",
-      "image": null,
-      "published_at": "2025-12-05T03:40:30.000Z",
-      "summary": "מזג האוויר ייעשה היום חם מהרגיל עד שרבי וייתכן אובך, לצד גשם מקומי קל מהצהריים במזרח הארץ. ממחר: ירידה בטמפרטורות, גשמים ברוב האזורים שילוו בסופות רעמים וחשש כבד משיטפונות בנחלי הנגב והמזרח. ההתקררות תימשך בראשון, אז הגשם ייפסק בהדרגה. בשני צפויה ירידה נוספת בטמפרטורות"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
