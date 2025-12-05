@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-05T09:12:09.716Z",
+  "generated_at": "2025-12-05T09:39:22.906Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Ex-MAG Tomer-Yerushali released from Ichilov Hospital after nearly a month",
+      "url": "https://www.jpost.com/israel-news/article-879333",
+      "image": null,
+      "published_at": "2025-12-05T11:22:30.000Z",
+      "summary": "She is expected to be summoned for questioning in the near future. "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,36 @@
       "image": null,
       "published_at": "2025-12-05T09:19:08.000Z",
       "summary": "\"Those who preach or encourage refusal will not serve in the IDF and will not be promoted to any position,\" Katz said.  "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "India travel chaos worsens as IndiGo cancels hundreds of flights",
+      "url": "https://www.bbc.com/news/articles/clyz18z1gk0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a520/live/fe6a6440-d1b0-11f0-83cd-5b415fb0080a.jpg",
+      "published_at": "2025-12-05T09:15:16.000Z",
+      "summary": "IndiGo, India's largest carrier, has said operations will return to full normalcy only by 10 February."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "שירת 700 ימים, גופמן המליץ לקדמו: האל\"מ שכ\"ץ פסל את מינויו זומן לרמטכ\"ל",
+      "url": "https://www.ynet.co.il/news/article/rjzq3fefzx",
+      "image": null,
+      "published_at": "2025-12-05T09:09:41.000Z",
+      "summary": "לאחר ששר הביטחון פסל את מינויו בטענה שקרא לסרבנות, זומן גרמן גילטמן לשיחת בירור אצל אייל זמיר. הוא אמר למקורביו: \"לא תמכתי בסרבנות ואני מתנגד לה\". הוא נחשב למקורב למזכיר הצבאי של רה\"מ - שכעת הוא גם ראש המוסד המיועד. הוא קיבל תמיכה מקיר לקיר, אך בכירים בצה\"ל טוענים: לא ידענו על עברו"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Current and former High Court justices warn of the judicial coup, Netanyahu's authoritarian takeover",
+      "url": "https://www.haaretz.com/israel-news/2025-12-05/ty-article/.premium/current-and-former-high-court-presidents-warn-of-the-judicial-coup-authoritarian-takeover/0000019a-ecfb-db35-afbf-efffd6d80000",
+      "image": "https://img.haarets.co.il/bs/0000019a-ecfe-dc6c-a3ff-ecffc46e0000/a2/14/4f7e9bed44d9a2fb4a9104c705a4/006151.jpg?height=81",
+      "published_at": "2025-12-05T09:09:10.000Z",
+      "summary": "At a Haifa conference on public law and democracy, Supreme Court President Isaac Amit said that his ostracization by the Justice Minister Yariv Levin was a boycott of the judiciary as a whole, while former High Court President Aharon Barak said that 'the Prime Minister is ruling the country by himse"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -40,16 +80,6 @@
       "image": null,
       "published_at": "2025-12-05T08:50:34.000Z",
       "summary": "Initial IDF assessments indicate that the second Turgeman committee's findings are likely to cause a shakeup within the defense sector, given their critical assessment of the Oct. 7 events. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "India travel chaos worsens as IndiGo cancels hundreds of flights",
-      "url": "https://www.bbc.com/news/articles/clyz18z1gk0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a520/live/fe6a6440-d1b0-11f0-83cd-5b415fb0080a.jpg",
-      "published_at": "2025-12-05T08:31:53.000Z",
-      "summary": "IndiGo, India's largest carrier, has said operations will return to full normalcy only by 10 February."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -912,16 +942,6 @@
       "summary": "שנה בדיוק אחרי נפילתו של הנשיא אסד,  עיר הבירה של סוריה מזועזעת ומבולבלת. ההרס ניכר בכל פינה, תומכי ומתנגדי המשטר המודח נאלצים לחיות זה לצד זה ו–90 אחוז מתושביה נמצאים מתחת לקו העוני. שליחת \"ידיעות אחרונות\" ו\"לה רפובליקה\" סיירה בין חורבות העיר, ראתה מכוניות מזראטי מול שכונות מתפוררות ושמעה מהתושבים "
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"אנחנו  מנסים להיכנס  לראש של המחבל. באיזה נתיב הייתי רץ, איפה מתחבא. בסוף נגיע\": גששי החטיבה הצפונית של עזה מדברים",
-      "url": "https://www.ynet.co.il/news/article/yokra14596229",
-      "image": null,
-      "published_at": "2025-12-04T22:00:00.000Z",
-      "summary": "לפי כיווני העקבות בחול הם יודעים אם הנוח'בה  שהלך כאן היה מוכן להיתקלות. גלגל של רכב מעיד על פיר של מנהרה. בלוק חדש בקיר של בית מתריע על מטען. בסיור מיוחד עם גששי החטיבה הצפונית של עזה, הם חוזרים לימי הלחימה - לסימנים שזיהו בזמן אמת והצילו לוחמים מצלף או מטען, לתקרית שבסופה הגיעו לגופתו של סינוואר ו"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1135,9 +1155,9 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Trump hosts signing of peace deal between leaders of DR Congo and Rwanda",
+      "title": "Trump hails 'historic' peace deal between DR Congo and Rwanda",
       "url": "https://www.bbc.com/news/articles/cjrjn88jqn4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8940/live/41c12420-d0ff-11f0-a892-01d657345866.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b085/live/807e2890-d1b6-11f0-9fb5-5f3a3703a365.jpg",
       "published_at": "2025-12-04T19:17:49.000Z",
       "summary": "The US president hopes that a peace deal will pave the way for greater American investment in the resource-rich region. "
     },
@@ -1742,16 +1762,6 @@
       "summary": "A joint report by 12 Israeli human rights organizations documents rising fatalities, mass displacement, settlement expansion and harsh military policies have turned 'extreme practices to become operational and policy norms' across Gaza, the West Bank and East Jerusalem"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Digital attention exercises reduce soldiers’ PTSD risk, study shows",
-      "url": "https://www.jpost.com/israel-news/article-879115",
-      "image": null,
-      "published_at": "2025-12-03T21:32:38.000Z",
-      "summary": "In two years of war, more than 3,700 Israeli soldiers have been diagnosed with PTSD, while another 9,000 have applied for recognition."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -2330,16 +2340,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-de74-d92a-a9df-ff75a08d0000/7c/fe/ac5a7d9c4e4583f8d05d261dbc21/299784.jpg?height=81",
       "published_at": "2025-12-02T13:34:50.000Z",
       "summary": "The project invites soldiers and the Israeli public to visit archaeological sites and outposts in Palestinian Authority-controlled areas, blending travel recommendations with political and religious narratives. The IDF says the videos aim to 'strengthen the connection to the area'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Thailand's air force to purchase Israeli air defense system in $107 million deal",
-      "url": "https://www.haaretz.com/israel-news/security-aviation/2025-12-02/ty-article/.premium/thailands-air-force-to-purchase-israeli-air-defense-system-in-107-million-deal/0000019a-dedd-d6ad-a9fe-dfff34800000",
-      "image": "https://img.haarets.co.il/bs/0000019a-dee0-db4d-a99b-def8fa9e0005/85/54/dc49615746f39a5174d9802fab25/331651-2.jpg?height=81",
-      "published_at": "2025-12-02T13:20:07.000Z",
-      "summary": "The Barak MX air defense system, which can intercept threats such as aircraft, drones, cruise missiles and ballistic missiles at ranges of up to 150 kilometers, will be purchased from Israel Aerospace Industries to protect the Royal Thai Air Force's bases"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
