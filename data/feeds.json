@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-05T05:10:27.865Z",
+  "generated_at": "2025-12-05T05:40:21.081Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israel sets 2026 defense budget at NIS 112 b., Defense Ministry announces",
+      "url": "https://www.jpost.com/israel-news/article-879313",
+      "image": null,
+      "published_at": "2025-12-05T07:19:28.000Z",
+      "summary": "The Defense Ministry announced Israel's 2026 defense budget on Friday."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,26 @@
       "image": null,
       "published_at": "2025-12-05T05:54:47.000Z",
       "summary": "Elmakayes was 17 when Shin Bet detained him for over a year after intelligence officers from the IDF's 210th Division, then headed by Gofman, passed him classified information to publish on Telegram."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia continues tech crackdown by blocking Snapchat, FaceTime access",
+      "url": "https://www.aljazeera.com/news/2025/12/5/russia-continues-tech-crackdown-by-blocking-snapchat-facetime-access?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-05T05:26:44.000Z",
+      "summary": "Russian internet regulator Roskomnadzor accused both platforms of being used &#039;to organise and carry out terrorist acts&#039;."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
+      "url": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250a/live/20ea1aa0-d199-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-12-05T05:16:49.000Z",
+      "summary": "The Russian leader's comments come as US and Ukrainian negotiators are due to hold a new round of talks."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -199,7 +229,7 @@
       "url": "https://www.ynet.co.il/news/article/sjgcqp1z11l",
       "image": null,
       "published_at": "2025-12-05T03:08:34.000Z",
-      "summary": "שני כלי רכב היו מעורבים בתאונה הקשה בצומת כפר חסידים בכביש 70, שבה נהרג צעיר כבן 20. שלושה אחרים נפצעו קשה, בן 17 וצעיר נוסף במצב בינוני. הכביש נחסם לצפון, חובש מד\"א סיפר על ההרוג: \"הוא שכב בין השיחים, אחרי מעקה הבטיחות, לצד רכב עם פגיעות פח קשות מאוד\""
+      "summary": "שני כלי רכב היו מעורבים בתאונה הקשה בצומת כפר חסידים בכביש 70, שבה נהרג צעיר בן 23. שלושה אחרים נפצעו קשה, בן 17 וצעיר נוסף במצב בינוני. הכביש נחסם לצפון, חובש מד\"א סיפר על ההרוג: \"הוא שכב בין השיחים, אחרי מעקה הבטיחות, לצד רכב עם פגיעות פח קשות מאוד\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -390,16 +420,6 @@
       "image": "https://img.haarets.co.il/bs/0000018e-e64f-db5b-afbe-ffdf9a130000/3e/de/af7dd138483dad5a75b23c745e2d/591580.webp?height=81",
       "published_at": "2025-12-04T22:22:43.000Z",
       "summary": "Low-cost aviation giant will resume flights to Israel from London, Amsterdam and Rome"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
-      "url": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b94/live/99846e30-d12a-11f0-9d18-614b3678ebf8.jpg",
-      "published_at": "2025-12-04T22:20:21.000Z",
-      "summary": "The Russian leader's comments come as US and Ukrainian negotiators are due to hold a new round of talks."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1030,16 +1050,6 @@
       "image": null,
       "published_at": "2025-12-04T18:02:34.000Z",
       "summary": "Raids lead to arrest of Palestinians, as Israeli violence surges across northern occupied West Bank. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Russia’s Putin found ‘morally responsible’ for nerve agent death in UK",
-      "url": "https://www.aljazeera.com/news/2025/12/4/russias-putin-found-morally-responsible-for-nerve-agent-death-in-uk?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-04T17:25:33.000Z",
-      "summary": "Dawn Sturgess, 44, was unwittingly caught up in an assassination attempt against the former Russian spy Sergei Skripal. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1810,16 +1820,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-e5df-d044-adda-f5ffc4960007/39/6e/549bde51484db1837a6aa1981419/capture.JPG?height=81",
       "published_at": "2025-12-03T19:03:01.000Z",
       "summary": "The IDF targeted a Hamas commander after five Israeli soldiers were wounded by militants emerging from a tunnel in Rafah earlier Wednesday. According to Palestinian reports, the IDF struck displaced persons' tents in Khan Yunis amid a series of attacks across the enclave"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Nearly quarter of Israeli public would consider moving overseas, IDI survey reveals",
-      "url": "https://www.jpost.com/israel-news/article-879085",
-      "image": null,
-      "published_at": "2025-12-03T18:37:34.000Z",
-      "summary": "The margin becomes even bigger with secular Jews, with 39% considering departing Israel, a number higher than the one registered among religious Jews."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
