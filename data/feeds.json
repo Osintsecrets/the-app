@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-06T06:46:15.187Z",
+  "generated_at": "2025-12-06T07:08:38.825Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "The woman behind Melabev: Leah Abramowitz, powerhouse Israeli who transformed eldercare",
+      "url": "https://www.jpost.com/israel-news/article-879198",
+      "image": null,
+      "published_at": "2025-12-06T09:05:28.000Z",
+      "summary": "The Magazine recently met with Leah Abramowitz at her home to talk about her life since retiring from Melabev in 2008."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Grapevine: Happy 80th, dear Dorraine!",
+      "url": "https://www.jpost.com/israel-news/article-879209",
+      "image": null,
+      "published_at": "2025-12-06T08:51:01.000Z",
+      "summary": "Movers and shakers in Israeli society."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Muslim countries voice concern over Israel's 'one-way' opening of Gaza's Rafah border crossing",
+      "url": "https://www.haaretz.com/gaza/2025-12-06/ty-article/.premium/muslim-countries-voice-concern-over-israels-one-way-opening-of-gazas-rafah-crossing/0000019a-f257-dc6c-a3ff-f6df9c470000",
+      "image": "https://img.haarets.co.il/bs/0000019a-f269-d9c0-adda-f7ff909f0000/fa/46/efaf70a841439f6e5cdfb82d3e7f/990732.jpg?height=81",
+      "published_at": "2025-12-06T07:05:18.000Z",
+      "summary": "The Saudi Foreign Ministry published the joint statement on X, claiming that Israel's policy aims to push Palestinians toward displacement into Egypt via the Israeli-controlled border crossing, urging adherence to the U.S. cease-fire plan"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "The Reel Schmooze: Scarlett Johansson&#8217;s &#8216;Eleanor the Great&#8217; lives up to its name",
+      "url": "https://www.timesofisrael.com/the-reel-schmooze-scarlett-johanssons-eleanor-the-great-lives-up-to-its-name/",
+      "image": null,
+      "published_at": "2025-12-06T07:01:57.000Z",
+      "summary": "This week, ToI's film reviewer Jordan Hoffman and host Amanda Borschel-Dan on the popular Jewish actor's directorial debut in a film starring June Squibb, plus an independent documentary\nThe post The Reel Schmooze: Scarlett Johansson&#8217;s &#8216;Eleanor the Great&#8217; lives up to its name appea"
+    },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
@@ -10,6 +50,16 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ee62-db35-afbf-ef7ef9580000/1c/e5/2d9d3af146ce8388802d0625efd3/64000006.JPG?height=81",
       "published_at": "2025-12-06T06:42:59.000Z",
       "summary": "History reminds us that wars and conflicts often end in surprising ways"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Arab, Muslim nations reject Israeli exit-only plan for Gaza Rafah crossing",
+      "url": "https://www.aljazeera.com/news/2025/12/6/arab-muslim-nations-reject-israels-exit-only-plan-for-rafah-crossing?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-06T06:38:23.000Z",
+      "summary": "Ministers slam Israeli breach of truce plan, which ultimately aims to  &#039;displace Palestinian people from their land&#039;."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -632,16 +682,6 @@
       "summary": "Orbach, 45, leaves behind a wife and five children. His eldest daughter's wedding was scheduled two weeks ahead of the accident."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Two teens accused of assaulting two Arab public workers in Jerusalem",
-      "url": "https://www.timesofisrael.com/two-teens-accused-of-assaulting-two-arab-public-workers-in-jerusalem/",
-      "image": null,
-      "published_at": "2025-12-05T18:20:55.000Z",
-      "summary": "Sanitation worker suffered fractured rib and broken teeth, bus driver had arm broken in attacks by assailants riding around Ramot neighborhood on electric bike, police say\nThe post Two teens accused of assaulting two Arab public workers in Jerusalem appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -700,16 +740,6 @@
       "image": null,
       "published_at": "2025-12-05T17:50:00.000Z",
       "summary": "במסמך מטלטל על פני 9 עמודים, הרמטכ\"ל דרש לראשונה לתחקר את חלקו של הדרג המדיני בקונספציה שהובילה לטבח, רמז שמסקנות אישיות והדחות לא יהיו רק בצה\"ל, וקבע שממצאי התחקירים יגיעו אליו בלבד - והשימוש בהם יהיה רק לשיקול דעתו. בכירים בצה\"ל: על ועדת החקירה זמיר לא יוותר"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Fighting flares in DR Congo within hours of Trump’s peace deal ceremony",
-      "url": "https://www.aljazeera.com/news/2025/12/5/fighting-flares-in-dr-congo-within-hours-of-trumps-peace-deal-ceremony?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-05T17:41:42.000Z",
-      "summary": "The Rwandan-backed M23 rebel group and government forces have traded blame for the renewed fighting. "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1732,26 +1762,6 @@
       "summary": "Palestinians are clearing rubble from archaeological sites, but restoration is hampered by Israeli restrictions on building materials."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel's High Court to revisit Sde Teiman leak probe, putting pressure on Yariv Levin's authority",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-879196",
-      "image": null,
-      "published_at": "2025-12-04T14:28:17.000Z",
-      "summary": "Supreme Court President Isaac Amit wrote that the hearing will focus on two issues: The scope of the justice minister’s legal appointment powers, and whether a conflict-of-interest is applicable."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israeli forces strike Hezbollah targets across southern Lebanon",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-879192",
-      "image": null,
-      "published_at": "2025-12-04T14:25:32.000Z",
-      "summary": "The notice pertained to the villages of Jibaa and Mahrouna. It stated that residents were required to evacuate to a distance of at least 300 meters from the designated target areas. "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2409,16 +2419,6 @@
       "url": "https://www.haaretz.com/opinion/2025-12-03/ty-article-opinion/.premium/israels-economic-elite-still-second-class-citizens-as-long-as-the-haredim-dodge-the-draft/0000019a-e06f-df29-abdf-fcff1dbc0000",
       "image": "https://img.haarets.co.il/bs/0000019a-da35-dcce-adff-ff7546990001/25/08/e2eed4a8474d928444eff8ae44fe/whatsapp-image-2025-12-01-at-10-03-16-5.jpg?height=81",
       "published_at": "2025-12-02T22:36:44.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "A pardon for Netanyahu means no state commission of inquiry into October 7",
-      "url": "https://www.haaretz.com/opinion/2025-12-03/ty-article-opinion/.premium/a-pardon-for-netanyahu-means-no-state-commission-of-inquiry-into-october-7/0000019a-e06d-dece-a9da-e7ff12b20000",
-      "image": "https://img.haarets.co.il/bs/00000184-70b6-d7c6-a5ce-f4b66dd20001/53/90/33d7791243ed82d900581d587e23/whatsapp-image-2022-11-13-bibi-herz.jpeg?height=81",
-      "published_at": "2025-12-02T22:34:32.000Z",
       "summary": ""
     },
     {
