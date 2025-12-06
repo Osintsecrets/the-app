@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-06T21:07:28.153Z",
+  "generated_at": "2025-12-06T21:32:57.279Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -10,6 +10,56 @@
       "image": null,
       "published_at": "2025-12-06T21:30:33.000Z",
       "summary": "A vehicle accelerated towards a group of soldiers. Troops shot at the attackers, killing both of them. "
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Ex-IDF chief: Netanyahu's Mossad chief pick is 'reward for loyalty' over experience",
+      "url": "https://www.haaretz.com/israel-news/2025-12-06/ty-article/.premium/ex-idf-chief-netanyahus-mossad-chief-pick-is-reward-for-loyalty-over-experience/0000019a-f559-d5a6-af9a-f77f30900000",
+      "image": "https://img.haarets.co.il/bs/00000197-82cc-de6d-a3b7-f3ced9340000/1e/3d/0b2c7cb24295a909ce5728ba87a2/064386.jpg?height=81",
+      "published_at": "2025-12-06T21:24:12.000Z",
+      "summary": "Gadi Eisenkot criticized Netanyahu for appointing his top military aide, who lacks Mossad experience; unlike other senior roles, the Mossad chief's appointment doesn't need government approval and will be signed immediately if endorsed by the appointments panel"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"רני הוא ה-גיבור, מגן מולדת\": המפגש של הורי החלל החטוף עם חבריו - והקריאה לציבור",
+      "url": "https://www.ynet.co.il/news/article/b1zq8xfmzg",
+      "image": null,
+      "published_at": "2025-12-06T21:20:53.000Z",
+      "summary": "בבוקר 7/10 נלחם רס\"ב עידן אברהמי במרחק של 500 מטרים בלבד מרן גואילי, וככל שחולף הזמן הוא מגלה עוד ועוד פרטים על הגבורה העילאית של חברו. \"הוא קידם עצמו לחזית לבד - ומשך אש לכיוונו כדי לעזור לנו\", סיפר. הוריו של רן ביקשו מהציבור להמשיך במאבק לשחרורו: \"72 שעות הפכו לחודשיים. אסור לוותר עליו\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"שיח משתלח. דה-לגיטימציה. הידרדרות מסוכנת\": מתקפת הנגד של נשיאי העליון",
+      "url": "https://www.ynet.co.il/news/article/hj0g9ymgwl",
+      "image": null,
+      "published_at": "2025-12-06T21:18:51.000Z",
+      "summary": "יצחק עמית אמר כי \"מטוס הדמוקרטיה במערבולת מטלטלת\". לפי אהרן ברק, \"ראש הממשלה שולט הלכה למעשה לבד במדינה\". אסתר חיות דיברה על \"שחיקה מתמדת של הממלכתיות\". ועוזי פוגלמן ציין \"כרסום מתמשך במעמד עובדי הציבור\". האזהרות של נשיאי העליון, והתגובה של שר המשפטים לוין"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Bethlehem lights up Christmas tree amid hopes for economic recovery",
+      "url": "https://www.aljazeera.com/news/2025/12/6/bethlehem-lights-up-christmas-tree-amid-hopes-for-economic-recovery?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-06T21:18:14.000Z",
+      "summary": "Palestinians hope first Christmas tree lighting ceremony in three years will encourage tourists to return to the city. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israeli drone chases and kills elderly woman in Gaza as attacks continue",
+      "url": "https://www.aljazeera.com/news/2025/12/6/israeli-drone-chases-and-kills-elderly-woman-in-gaza-as-attacks-continue?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-06T20:55:42.000Z",
+      "summary": "At least seven Palestinians killed in Israeli attacks as military pushes deeper beyond truce demarcation line."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -119,7 +169,7 @@
       "url": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1230/live/b8babfd0-d2dc-11f0-a892-01d657345866.jpg",
       "published_at": "2025-12-06T20:18:07.000Z",
-      "summary": "The Ukrainian president says he is \"determined\" to continue working with US, as Russian strikes continue."
+      "summary": "The Ukrainian leader says he is \"determined\" to continue working with US, as Russian strikes continue."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -215,7 +265,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "ניסיון דריסה בחברון: שני מחבלים חוסלו, ישראלי נפצע קל",
+      "title": "צה\"ל הודיע על \"חיסול שני מחבלים\" שניסו לדרוס בחברון - וחזר בו: \"אחד בלתי מעורב\"",
       "url": "https://www.ynet.co.il/news/article/b1bxfwzzbg",
       "image": null,
       "published_at": "2025-12-06T19:24:38.000Z",
@@ -699,7 +749,7 @@
       "url": "https://www.aljazeera.com/sports/liveblog/2025/12/6/live-real-betis-vs-barcelona-la-liga?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-06T14:30:37.000Z",
-      "summary": "All our updates, with full post-match coverage and interviews, followin our text commentary stream of the La Liga match."
+      "summary": "All our updates, with full post-match coverage, interviews and text commentary of the La Liga match."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -942,16 +992,6 @@
       "summary": "עשרות פעילים ואוהדים של ארגון הטרור התימני גילו בתקופה האחרונה בהפתעה שהעמודים שלהם הועלמו. החשוד המיידי הוא חשבון אנונימי, שלועג להם ומטריל אותם. משרד ההסברה החות'י משוכנע: \"זה קמפיין של ישראל וארה\"ב\". אחד הקורבנות הוא קומיקאי עם מיליוני עוקבים שהבטיח: \"נפתח ערוצים חדשים\""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המסר הישראלי החריג ללבנון - על שלום ב-2026",
-      "url": "https://www.ynet.co.il/news/article/rjg00no11mwe",
-      "image": null,
-      "published_at": "2025-12-06T09:35:02.000Z",
-      "summary": "\"אנחנו רוצים לחיות איתכם בשלום ובהרמוניה, אין לנו עניין באדמה שלכם - אלא רק בביטחון שלנו\". במילים אלה פנה שגריר ישראל בארה\"ב, יחיאל לייטר, לאזרחים הלבנונים - ואיחל שבשנה הבאה תצטרף ארצם ל\"הסכמי אברהם\""
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -960,16 +1000,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c186/live/8b28ec90-d25a-11f0-a3ed-031197c916c2.jpg",
       "published_at": "2025-12-06T08:23:37.000Z",
       "summary": "Both sides accuse the other of starting the overnight fighting and breaching a fragile ceasefire agreed in October."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אם גיוס - אז לכולם",
-      "url": "https://www.ynet.co.il/news/article/yokra14602521",
-      "image": null,
-      "published_at": "2025-12-06T08:06:09.000Z",
-      "summary": "בדיון הסוער בשאלת גיוס החרדים כל הצדדים צודקים וגם טועים. במקום ויכוח פוליטי על יעדי גיוס, הגיע הזמן לנורמת שירות כללית לכל אזרחי המדינה, חרדים וערבים כאחד, עם מגוון מסלולים ותגמול תואם תרומה"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -982,16 +1012,6 @@
       "summary": "The IAEA has found a drone degraded the shield in February, in a strike Ukraine has accused Russia of carrying out."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Heavy rains hamper recovery as death toll from floods in Asia exceeds 1,750",
-      "url": "https://www.aljazeera.com/news/2025/12/6/heavy-rains-hamper-recovery-as-death-toll-from-floods-in-asia-exceeds-1750?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-06T07:24:17.000Z",
-      "summary": "Hundreds more people are still missing as intensive rains pose new dangers in Indonesia and Sri Lanka."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1000,16 +1020,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-f269-d9c0-adda-f7ff909f0000/fa/46/efaf70a841439f6e5cdfb82d3e7f/990732.jpg?height=81",
       "published_at": "2025-12-06T07:05:18.000Z",
       "summary": "The Saudi Foreign Ministry published the joint statement on X, claiming that Israel's policy aims to push Palestinians toward displacement into Egypt via the Israeli-controlled border crossing, urging adherence to the U.S. cease-fire plan"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Thousands protest in Berlin against new German military conscription bill",
-      "url": "https://www.aljazeera.com/news/2025/12/6/thousands-protest-in-berlin-against-new-german-military-conscription-bill?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-06T06:49:54.000Z",
-      "summary": "Politicians approve the controversial law after months of heated debate, amid fears over a potential war with Russia."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2310,16 +2320,6 @@
       "image": null,
       "published_at": "2025-12-03T09:33:14.000Z",
       "summary": "Attacks by a jihadist group on fuel convoys bound for Bamako, the capital of Mali, have destroyed more than 130 tankers since September, a Bellingcat investigation has found.&#160; The systematic attacks by Jama’at Nusrat al-Islam wal-Muslimin (JNIM) have brought Bamako and other regions of the West"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Netanyahu sends envoy to Lebanon for talks on bilateral ties under U.S. pressure",
-      "url": "https://www.haaretz.com/israel-news/2025-12-03/ty-article/netanyahu-to-send-envoy-to-lebanon-for-talks-on-bilateral-ties-under-u-s-pressure/0000019a-e383-deb1-a7fb-ebcbba9b0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-e34c-de7d-a59e-fb4eb47f0001/ba/5b/0de7da71416990efc99caa9b6bf2/769735.jpg?height=81",
-      "published_at": "2025-12-03T09:23:08.000Z",
-      "summary": "According to Netanyahu's office, the move marks the first attempt to establish a foundation for economic relations and cooperation between Israel and Lebanon, which do not have diplomatic ties"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
