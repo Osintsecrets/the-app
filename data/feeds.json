@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-06T17:07:24.758Z",
+  "generated_at": "2025-12-06T17:35:06.266Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF, police arrest eleven for criminal, terror-related activity over weekend",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-879410",
+      "image": null,
+      "published_at": "2025-12-06T19:28:28.000Z",
+      "summary": "Two were arrested for terror-related activity in the West Bank, while nine were arrested for criminal activity in Umm al-Fahm."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -30,6 +40,26 @@
       "image": null,
       "published_at": "2025-12-06T17:40:16.000Z",
       "summary": "The city's northern exit to Ramon Airport and Be'er Ora settlement will be open, however, for those wishing to reach those areas."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Jaiswal ton, Kohli’s form help India beat South Africa in ODI series",
+      "url": "https://www.aljazeera.com/sports/2025/12/6/jaiswal-ton-kohlis-form-help-india-beat-south-africa-in-odi-series?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-06T17:20:09.000Z",
+      "summary": "Kohli wins player of the series award as India win by 9 wickets and 10 overs to spare in the third ODI of the series."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "לראשונה מהפסקת האש ובקשת החנינה: נתניהו אמור להשיב לשאלות במסיבת עיתונאים",
+      "url": "https://www.ynet.co.il/news/article/b1cazkmfbx",
+      "image": null,
+      "published_at": "2025-12-06T17:07:58.000Z",
+      "summary": "רה\"מ ייפגש מחר עם קנצלר גרמניה, ולפי לוח הזמנים הרשמי יקיים איתו מסיבת עיתונאים. אם אכן כך יקרה, הוא ישיב לשאלות במסיבת עיתונאים לראשונה מאז הפסקת האש במלחמה מול חמאס, בקשת החנינה שהגיש והפצת חוק הפטור"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -199,7 +229,7 @@
       "url": "https://www.ynet.co.il/news/article/ln3y4rco7",
       "image": null,
       "published_at": "2025-12-06T15:10:56.000Z",
-      "summary": "תיעודים מרהיבים מהערבה, מאילת ניתן לצאת רק לשדה התעופה: שיטפונות בנחלים בדרום, בלוטן וקטורת שבערבה ירדו 27 מ\"מ תוך שעות בודדות - יותר מהכמות הממוצעת לכל עונת החורף. גשמים והצפות באילת, ברד ביטבתה, מטיילים חולצו. צפו במכ\"ם, וזו התחזית להמשך"
+      "summary": "תיעודים מרהיבים מהערבה, מאילת ניתן לצאת רק לשדה התעופה: שיטפונות בנחלים בדרום, בלוטן וקטורה שבערבה ירדו 27 מ\"מ תוך שעות בודדות - יותר מהכמות הממוצעת לכל עונת החורף. גשמים והצפות באילת, ברד ביטבתה, מטיילים חולצו. צפו במכ\"ם, וזו התחזית להמשך"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -792,16 +822,6 @@
       "summary": "Equipment on the tarmac at Brazil’s São Paulo airport caught fire, with the blaze rapidly surrounding a plane and forcing the evacuation of 169 passengers."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Australia sanctions Afghan Taliban officials over women’s rights abuses",
-      "url": "https://www.aljazeera.com/news/2025/12/6/australia-sanctions-afghan-taliban-officials-over-womens-rights-abuses?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-06T04:18:38.000Z",
-      "summary": "Canberra said the Taliban officials are guilty of oppressing women and girls, as well as &#039;undermining good governance&#039;."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1080,16 +1100,6 @@
       "image": null,
       "published_at": "2025-12-05T18:33:43.000Z",
       "summary": "Orbach, 45, leaves behind a wife and five children. His eldest daughter's wedding was scheduled two weeks ahead of the accident."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "מפגן הכוח של היורש של אבו שבאב: \"נדבוק בתוכניתו עם יותר נחישות\" | תיעוד",
-      "url": "https://www.ynet.co.il/news/article/skuomqggwg",
-      "image": null,
-      "published_at": "2025-12-05T17:58:30.000Z",
-      "summary": "רסאן אל-דהייני, שהיה סגנו של מנהיג המיליציה, נכנס לנעליו ותועד עם החמושים באזור רפיח. \"נילחם עד אחרון הטרוריסטים, חמאס יראו את הפנים האמיתיות שהיו צריכים לראות מזמן\", אמר ל-ynet. גם מנהיג המיליציה בצפון הרצועה הבטיח להמשיך בפרויקט: \"את הרעיון של אבו שבאב אי אפשר להרוג\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1650,16 +1660,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e1f/live/f593fba0-d0cb-11f0-8c06-f5d460985095.jpg",
       "published_at": "2025-12-04T19:01:02.000Z",
       "summary": "Australia is banning social media for everyone under 16 from December 10. The BBC spoke to two teenage content creators about how this might change their lives."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF Chief Zamir appoints new head for probe into intel failures for 'Walls of Jericho' Hamas plot",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-879242",
-      "image": null,
-      "published_at": "2025-12-04T18:48:02.000Z",
-      "summary": "\"We are moving into the next phase regarding the inquiries of October 7th, the phase of integrating the lessons into the IDF’s work plan and implementing them,\" Zamir said in the release.  "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
