@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-07T08:41:22.466Z",
+  "generated_at": "2025-12-07T09:09:29.471Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "החשד - עובד הניקיון עמד מאחורי רכב המחבל ונפגע. בתו: \"הוא הלך סתם\"",
+      "url": "https://www.ynet.co.il/news/article/sjfscsmgze",
+      "image": null,
+      "published_at": "2025-12-07T09:01:26.000Z",
+      "summary": "זיאד אבו דאוד (53) נורה למוות כשעשה את דרכו הביתה מעבודתו בעיריית חברון. הוא נפגע מירי לוחמי צה\"ל, לעבר מחבל שהאיץ לעברם עם מכוניתו. בתו ל-ynet: \"אנחנו רחוקים מבעיות. דבר לא מצדיק את זה\". צה\"ל: \"האירוע מתוחקר\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"כמות גשם שלא ידענו\": המאגר השחון שהתמלא, והכבישים שעוד חסומים בערבה",
+      "url": "https://www.ynet.co.il/news/article/hyiuznmg11e",
+      "image": null,
+      "published_at": "2025-12-07T08:49:52.000Z",
+      "summary": "בשיחה עם אולפן ynet, סיפר ראש העיר אילת על \"הבוקר שאחרי\" מערכת הגשמים שפקדה את הדרום: \"כשמדובר על כמויות גשם של שנה שלמה ב-3 שעות, זה חריג ביותר. היינו נצורים\". המשטרה עדכנה על פתיחת מקטע בכביש 90, נותרו חסימות בכבישים אחרים. השיטפונות שזרמו למאגר נקרות - והתחזית להמשך"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Soldiers appear on Benin state television announcing apparent coup",
+      "url": "https://www.aljazeera.com/news/2025/12/7/soldiers-appear-on-benin-state-television-announcing-apparent-coup?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-07T08:47:27.000Z",
+      "summary": "This is a breaking news story."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Week in Pictures: Syria salutes year of al-Assad fall, Sudan’s suffering",
+      "url": "https://www.aljazeera.com/gallery/2025/12/7/week-in-pictures-syria-salutes-year-of-al-assad-fall-sudans-suffering?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-07T08:39:30.000Z",
+      "summary": "A global roundup of some of last week’s events."
+    },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
@@ -75,11 +115,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "בגלל \"פגישה מדינית דחופה\": בוטל דיון העדות של נתניהו מחר",
+      "title": "בגלל פגישה עם שגריר ארה\"ב באו\"ם: בוטל דיון העדות של נתניהו מחר",
       "url": "https://www.ynet.co.il/news/article/hkpq11hzgbl",
       "image": null,
       "published_at": "2025-12-07T07:51:46.000Z",
-      "summary": "סנגורו של ראש הממשלה העביר לבית המשפט במעטפה סגורה פירוט על אודות הפגישה שתחל ב-11:30. הוא הוסיף כי נתניהו לא יוכל להתייצב גם אחר כך, בשל דיון 40 חתימות בכנסת"
+      "summary": "סנגורו של ראש הממשלה העביר לבית המשפט במעטפה סגורה פירוט על אודות הפגישה, שהוגדרה \"מדינית ודחופה\" ואמורה להתחיל ב-11:30. הוא הוסיף כי נתניהו לא יוכל להתייצב גם אחר כך, בשל דיון 40 חתימות בכנסת"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -105,7 +145,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Yan upsets Dvalishvili to capture bantamweight championship at UFC 323",
+      "title": "Yan upsets Dvalishvili to capture bantamweight title at UFC 323",
       "url": "https://www.aljazeera.com/sports/2025/12/7/yan-upsets-dvalishvili-to-capture-bantamweight-championship-at-ufc-323?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-07T07:37:35.000Z",
@@ -1052,16 +1092,6 @@
       "summary": "Images appeared online of unveiled women competing in the race on Friday."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "What message does Putin’s visit to India send?",
-      "url": "https://www.aljazeera.com/video/inside-story/2025/12/6/what-message-does-putins-visit-to-india-send?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-06T18:32:55.000Z",
-      "summary": "Talks held on trade as Washington wants New Delhi to stop buying Russian oil."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1122,16 +1152,6 @@
       "summary": "שוב חילופי מהלומות בין ראשי מערכת הביטחון. \"צה\"ל כפוף להחלטות הדרג המדיני, תפקידי לוודא שהוא מבצע את ההחלטות שהתקבלו\", תקף שר הביטחון את זמיר. אל\"מ במיל' גרמן גילטמן, שהסיר את מועמדותו, תקף את כ\"ץ: \"זו לא החלטה מקצועית. אני לא הולך לשום מקום, אמשיך לשמש כרמ\"ט אוגדה. מעולם לא קראתי לסרבנות\""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בקרב על התודעה, כסף לא מספיק",
-      "url": "https://www.ynet.co.il/news/article/hksxykzg11l",
-      "image": null,
-      "published_at": "2025-12-06T17:49:32.000Z",
-      "summary": "מותר לברך על תוספת התקציב לטובת \"המערכה על התודעה והסברת ישראל בעולם\", אבל האתגרים הישראלים בעולמות התודעה לא נובעים בהכרח ממחסור בתקציב - אלא בגלל אי-סדר, היעדר ארגון והיעדר מדיניות תודעה לאומית"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1152,16 +1172,6 @@
       "summary": "The U.S. suggests that Europe is being enfeebled by its immigration policies, declining birthrates, 'censorship of free speech and suppression of political opposition' and a 'loss of national identities and self-confidence,' saying it 'will be unrecognizable in 20 years or less'"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המפץ הגדול, אצלכם בטלוויזיה",
-      "url": "https://www.ynet.co.il/news/article/rkyulhbfzl",
-      "image": null,
-      "published_at": "2025-12-06T17:34:04.000Z",
-      "summary": "ברכישת וורנר בראדרס על ידי נטפליקס יש הכל פרט להפתעה - התחרות בעולם הסטרימינג לא הייתה יכולה להמשיך. עכשיו השאלה היא האם התחזיות השחורות של הפוליטיקאים והבמאים יתממשו, והמהלך אכן יוביל לסופו של עידן"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1170,16 +1180,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9efc/live/0ab890e0-d2ca-11f0-8515-51d0ca44214c.jpg",
       "published_at": "2025-12-06T17:20:51.000Z",
       "summary": "Andrew Wolfe, 24, is expected to remain in acute care with a head wound for a few more weeks, his family says."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Jaiswal ton, Kohli’s form help India beat South Africa in ODI series",
-      "url": "https://www.aljazeera.com/sports/2025/12/6/jaiswal-ton-kohlis-form-help-india-beat-south-africa-in-odi-series?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-06T17:20:09.000Z",
-      "summary": "Kohli wins player of the series award as India win by 9 wickets and 10 overs to spare in the third ODI of the series."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
