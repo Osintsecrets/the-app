@@ -1,6 +1,86 @@
 {
-  "generated_at": "2025-12-07T09:09:29.471Z",
+  "generated_at": "2025-12-07T09:35:41.546Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Netanyahu trial: Court cancels Monday hearing due to ‘urgent diplomatic meeting’",
+      "url": "https://www.jpost.com/israel-news/benjamin-netanyahu/article-879457",
+      "image": null,
+      "published_at": "2025-12-07T11:33:11.000Z",
+      "summary": "As a result, Netanyahu is now set to testify only on Tuesday and Wednesday, from 9:30 a.m. to 2 p.m. - a shortened schedule confirmed by the court."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "New Mossad head Gofman engages in firefight with terrorists on Oct. 7, security footage reveals",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-879450",
+      "image": null,
+      "published_at": "2025-12-07T11:25:24.000Z",
+      "summary": "Gofman was later hit by gunfire, wounded, and evacuated to Barzilai Medical Center in Ashkelon for further treatment."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "יועז הנדל: אם נתניהו לא אשם - שיוכיח את חפותו. הוא מסיט את הדיון מחוק נוראי",
+      "url": "https://www.ynet.co.il/news/article/hyhiu2mfwx",
+      "image": null,
+      "published_at": "2025-12-07T09:22:15.000Z",
+      "summary": "בריאיון לאולפן ynet השר לשעבר הצטרף לביקורת שנשמעה גם מתוך הקואליציה על החנינה לנתניהו: \"כולנו מתעסקים בזה במקום בחוק שיביא לצבא קטן יותר\". על כ\"ץ: \"הוא מתעסק בשטויות\". וגם על האופוזיציה יש לו ביקורת: \"אחרי הבחירות הם ימסמסו את גיוס החרדים\""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Greece approves purchase of rocket systems from Israel's Elbit Systems",
+      "url": "https://www.haaretz.com/israel-news/security-aviation/2025-12-07/ty-article/.premium/greece-approves-purchase-of-rocket-systems-from-israeli-elbit-systems/0000019a-f80a-d7e6-afdf-fbce8ba70000",
+      "image": "https://img.haarets.co.il/bs/0000019a-f80e-d23a-a19e-fc5e99d90000/cf/6c/ba9030734c6590bc0b75147b36dd/013330-1.jpg?height=81",
+      "published_at": "2025-12-07T09:18:59.000Z",
+      "summary": "The Greek parliament approved a 650 million euro purchase of rockets from Israel, as part of a broader effort to modernize its military and maintain defensive capabilities against neighboring Turkey"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Soldiers in Benin say they have seized power from President Talon",
+      "url": "https://www.bbc.com/news/articles/c62v7n9wzkyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8db/live/23b1f160-7bc6-11ef-84ec-b7c3b5e6690e.jpg",
+      "published_at": "2025-12-07T09:11:43.000Z",
+      "summary": "A message from the French embassy in Benin said gunfire had been reported near the residence of the president."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "“World attention needs to be on Sudan now”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/12/7/aje-onl-qt_carl-skau-071225?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-07T09:10:34.000Z",
+      "summary": "Carl Skau, from WFP, talks about the limitations &amp; concerns they have in providing desperately needed aid in Sudan."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Benin coup attempt live: Soldiers on state TV claim to have toppled Talon",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/12/7/benin-attempt-coup-live-soldiers-on-state-tv-claim-to-have-toppled-talon?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-07T09:09:40.000Z",
+      "summary": "Group of soldiers announce the removal of President Patrice Talon and all state institutions."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Senior Saudi diplomat: It&#8217;s Israel, not PA , that most needs reform to secure peace",
+      "url": "https://www.timesofisrael.com/senior-saudi-diplomat-its-israel-not-pa-that-most-needs-reform-to-secure-peace/",
+      "image": null,
+      "published_at": "2025-12-07T09:09:07.000Z",
+      "summary": "Manal Radwan says Palestinian Authority is already working on reforms, but Israeli government opposes two-state solution, incites against Palestinians, Arabs and Muslims\nThe post Senior Saudi diplomat: It&#8217;s Israel, not PA , that most needs reform to secure peace appeared first on The Times of "
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -10,6 +90,16 @@
       "image": null,
       "published_at": "2025-12-07T09:01:26.000Z",
       "summary": "זיאד אבו דאוד (53) נורה למוות כשעשה את דרכו הביתה מעבודתו בעיריית חברון. הוא נפגע מירי לוחמי צה\"ל, לעבר מחבל שהאיץ לעברם עם מכוניתו. בתו ל-ynet: \"אנחנו רחוקים מבעיות. דבר לא מצדיק את זה\". צה\"ל: \"האירוע מתוחקר\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Tailors and corner stores: The hustles helping prisoners survive",
+      "url": "https://www.aljazeera.com/features/2025/12/7/tailors-and-corner-stores-the-hustles-helping-prisoners-survive?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-07T08:58:03.000Z",
+      "summary": "Inside the New Jersey State Prison, a dual economy thrives underground.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -29,7 +119,7 @@
       "url": "https://www.aljazeera.com/news/2025/12/7/soldiers-appear-on-benin-state-television-announcing-apparent-coup?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-07T08:47:27.000Z",
-      "summary": "This is a breaking news story."
+      "summary": "Soldiers calling themselves the &#039;Military Committee for Refoundation&#039; said they had ousted President Patrice Talon."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -525,7 +615,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "IDF: Palestinian bystander killed after attempted ramming attack in West Bank's Hebron",
+      "title": "German Chancellor Merz meets Netanyahu, visits Yad Vashem during first state visit to Israel",
       "url": "https://www.haaretz.com/israel-news/2025-12-07/ty-article-live/idf-palestinian-bystander-killed-after-attempted-ramming-attack-in-west-banks-hebron/0000019a-f6c7-d23a-a19e-fed7c4390005",
       "image": "https://img.haarets.co.il/bs/0000019a-f58b-d7e6-afdf-f7cf76ca0001/1e/f8/32f51f4f43e6860c43e35bee233f/8888-1.webp?height=81",
       "published_at": "2025-12-07T03:13:17.000Z",
@@ -902,16 +992,6 @@
       "summary": "Katz said the IDF is subordinate to decisions of the political echelon, headed by the prime minister, and that the defense minister’s role is to ensure those decisions are implemented."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Torres hits Barcelona hat-trick against Real Betis in La Liga goalfest",
-      "url": "https://www.aljazeera.com/sports/2025/12/6/torres-hits-barcelona-hat-trick-against-real-betis-in-la-liga-goalfest?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-06T20:28:18.000Z",
-      "summary": "Barcelona extend their lead at the top of La Liga to four points but Real Betis give defending champions a late scare."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -952,16 +1032,6 @@
       "summary": "Merz will also meet with Prime Minister Netanyahu on Sunday morning, before visiting Yad Vashem Holocaust Memorial later in the day."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "What’s the full match schedule of the FIFA World Cup 2026?",
-      "url": "https://www.aljazeera.com/sports/2025/12/6/full-match-schedule-of-the-fifa-world-cup-2026-dates-start-times-stadiums?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-06T19:59:45.000Z",
-      "summary": "Dates, start times and venues for all 104 matches at the 48-team tournament in Canada, Mexico and the United States."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -990,16 +1060,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b51/live/60a0b550-d2d4-11f0-8515-51d0ca44214c.jpg",
       "published_at": "2025-12-06T19:32:41.000Z",
       "summary": "At the same time, the Trump administration is  withdrawing free entry on Martin Luther King Jr Day and Juneteenth."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Mahmood Mamdani on Zohran’s rise, colonialism, and US political change",
-      "url": "https://www.aljazeera.com/video/upfront/2025/12/6/mahmood-mamdani-on-zohrans-rise-colonialism-and-us-political-change?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-06T19:30:00.000Z",
-      "summary": "Mahmood Mamdani on exile from Uganda, Idi Amin, and what Zohran’s rise says about politics in the US."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1122,16 +1182,6 @@
       "summary": "The series is named for the phrase that signifies that a missile attack is imminent in Israel, and it dramatizes true stories of ordinary people in extraordinary circumstances on October 7."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Hezbollah won’t give up its weapons without a decision from Iran &#8212; Lebanese FM",
-      "url": "https://www.timesofisrael.com/hezbollah-wont-give-up-its-weapons-without-a-decision-from-iran-lebanese-fm/",
-      "image": null,
-      "published_at": "2025-12-06T18:01:42.000Z",
-      "summary": "Youssef Rajji says terror group is 'rebuilding itself in many ways' and seeking to 'regain its power internally,' confirms speaking about disarmament with his Iranian counterpart\nThe post Hezbollah won’t give up its weapons without a decision from Iran &#8212; Lebanese FM appeared first on The Times"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1140,16 +1190,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2683/live/2f0cc1e0-d2ee-11f0-89fa-a93c99686164.jpg",
       "published_at": "2025-12-06T17:59:05.000Z",
       "summary": "Drone strikes on a town in South Kordofan on Thursday are said to have killed at least 50 people.  "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "כ\"ץ שוב נגד הרמטכ\"ל: \"יצא לסבב מינויים בניגוד לפנייתי\". האל\"מ שנפסל: \"זו החלטה פוליטית\"",
-      "url": "https://www.ynet.co.il/news/article/sksqt1mgwe",
-      "image": null,
-      "published_at": "2025-12-06T17:54:20.000Z",
-      "summary": "שוב חילופי מהלומות בין ראשי מערכת הביטחון. \"צה\"ל כפוף להחלטות הדרג המדיני, תפקידי לוודא שהוא מבצע את ההחלטות שהתקבלו\", תקף שר הביטחון את זמיר. אל\"מ במיל' גרמן גילטמן, שהסיר את מועמדותו, תקף את כ\"ץ: \"זו לא החלטה מקצועית. אני לא הולך לשום מקום, אמשיך לשמש כרמ\"ט אוגדה. מעולם לא קראתי לסרבנות\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1335,26 +1375,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "US panel votes to end recommending hepatitis B vaccine for all newborns",
-      "url": "https://www.bbc.com/news/articles/cwypwznx9kqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28bb/live/08bf9300-d1f9-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-12-06T02:57:36.000Z",
-      "summary": "Trump, who called the decision \"very good\", has directed the health department to look into making more changes to childhood vaccinations."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Legendary architect Frank Gehry dies aged 96 ",
-      "url": "https://www.bbc.com/news/articles/c5y2p22z9gno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76dd/live/c8a4d930-d287-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-06T02:04:36.000Z",
-      "summary": "Frank Gehry was acclaimed for his love of jagged angles and use of industrial materials."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Lured by lucrative job offers and sent to fight for Russia - Kenyans want their sons back",
       "url": "https://www.bbc.com/news/articles/c20gn2d51l1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f8/live/3a778300-d1fc-11f0-a892-01d657345866.jpg",
@@ -1412,26 +1432,6 @@
       "summary": "At least seven deputies and a skilled trapper were needed to remove the 14ft (4.2m) reptile, which was later released at an alligator farm."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "North American leaders take stage together for the first time",
-      "url": "https://www.bbc.com/news/articles/cz7nlp8l4j0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ead/live/4d713270-d20c-11f0-936b-f537e2f59ee5.jpg",
-      "published_at": "2025-12-05T22:52:09.000Z",
-      "summary": "The World Cup draw marked the first time that Mexican President Claudia Sheinbaum has met Trump, and the trio briefly discussed trade. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Five takeaways from the blockbuster Netflix-Warner Brothers deal",
-      "url": "https://www.bbc.com/news/articles/cx25039ddlro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e389/live/fdb48020-d210-11f0-bd15-e5c6de83b2f6.jpg",
-      "published_at": "2025-12-05T22:51:50.000Z",
-      "summary": "It might seem like a simple merger deal, but it's got all the ingredients of a Hollywood drama.\n\n"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1440,26 +1440,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-f0a4-de8e-a99b-f2be3be30000/12/c8/97ebf0d5408a85a2669ceb636681/044280.jpg?height=81",
       "published_at": "2025-12-05T22:41:14.000Z",
       "summary": "Columbia University has opened a $21 million claims process for Jewish and Israeli employees facing discrimination, part of a settlement that reinstated $400 million in federal funding. The move follows Trump administration penalties over the university's handling of pro-Palestinian protests and all"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US Supreme Court agrees to hear case challenging birthright citizenship",
-      "url": "https://www.bbc.com/news/articles/c208j0wrzrvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12a7/live/f7be8d50-c937-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-05T21:54:01.000Z",
-      "summary": "Donald Trump's controversial executive order to end birthright citizenship had been rejected by lower courts."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Meghan reaches out to estranged father after amputation reports, spokesman says",
-      "url": "https://www.bbc.com/news/articles/c0je4v8j0vzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f01/live/36e37940-d21c-11f0-be90-7bfb24e8b1c8.jpg",
-      "published_at": "2025-12-05T21:29:42.000Z",
-      "summary": "Thomas Markle is reported to be seriously ill in hospital in the Philippines."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1740,26 +1720,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ece0-dc6c-a3ff-ecedd6d20004/20/68/eed10b0d492eae7ff742b9a9a939/005267.jpg?height=81",
       "published_at": "2025-12-05T08:08:26.000Z",
       "summary": "After the Hamas attack, Tomas Adzgauskas fought in the Gaza Strip and was discharged in April 2024. Haaretz has identified 15 soldiers who died by suicide since the war began, due to mental health issues linked to their military service"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Religious Zionist Party crosses threshold with four seats as coalition bloc climbs to 53 - poll",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-879315",
-      "image": null,
-      "published_at": "2025-12-05T08:03:20.000Z",
-      "summary": "The poll shows the coalition bloc rising to 53 seats, up four from the previous survey, driven by Religious Zionism’s gains. The opposition bloc gained 57 seats."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel approves 2026 state budget incl. NIS 112 b. designated for defense spending",
-      "url": "https://www.jpost.com/israel-news/article-879313",
-      "image": null,
-      "published_at": "2025-12-05T07:19:28.000Z",
-      "summary": "Opposition leader and Yesh Atid chair Yair Lapid said the government is approving \"a budget of corruption and draft-dodging.\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2340,16 +2300,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-e54c-d0ea-afff-ff4f50040000/bf/32/b8f694294cfab75a407106e63bed/707164.jpg?height=81",
       "published_at": "2025-12-03T18:17:25.000Z",
       "summary": "The policy, apparently in place for over two years, came to light after an Israeli charity was denied a record attempt. Guinness is open to reconsidering applications in partnership with a UN aid agency and said the policy is subject to monthly reviews"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "'In a league of its own': Tel Aviv leads Middle East in OnlyFans spending, 19th in world",
-      "url": "https://www.haaretz.com/israel-news/2025-12-03/ty-article/.premium/in-a-league-of-its-own-tel-aviv-leads-middle-east-in-onlyfans-spending-19th-in-world/0000019a-e4cd-d044-adda-f5ff6b4d0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-e4e5-d044-adda-f5f7aa840000/16/47/1e324be840eca8a50a45d37d0a30/274478.jpg?height=81",
-      "published_at": "2025-12-03T17:21:43.000Z",
-      "summary": "The report says Tel Aviv is the Middle East's 'hyper-liberal anomaly,' spending much more than other cities in the region per capita, and even ranking higher than Chicago"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
