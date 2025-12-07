@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-07T07:09:10.552Z",
+  "generated_at": "2025-12-07T07:32:46.870Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -10,6 +10,46 @@
       "image": null,
       "published_at": "2025-12-07T08:24:47.000Z",
       "summary": "The arrests followed a weeks-long undercover investigation that gathered evidence of a coordinated plan by organized groups of fans, according to police."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ukrainian city hit by 'massive' strike as peace talks in US conclude",
+      "url": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1230/live/b8babfd0-d2dc-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-12-07T07:17:21.000Z",
+      "summary": "Russia carried out strikes on Kremenchuk, while its defence ministry said it had shot down 77 Ukrainian drones in several locations. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Bethlehem Christmas tree illuminated for first time since Gaza war began",
+      "url": "https://www.bbc.com/news/videos/cjezyy2402po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/910b/live/28f85ff0-d33c-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-12-07T07:13:42.000Z",
+      "summary": "Hundreds gathered in Manger Square to bask in the festivities that included music, dancing and Santas bearing sweet treats."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "תוכנית טראמפ גרסת חמאס: הנשק לא יימסר, כוח בינלאומי בגבול - ולא בעזה",
+      "url": "https://www.ynet.co.il/news/article/hypnrtgfzg",
+      "image": null,
+      "published_at": "2025-12-07T07:13:32.000Z",
+      "summary": "התבטאויות בכירי מועצת ההנהגה של ארגון הטרור מצביעות כי הוא לא מתכנן לזנוח את הנשק, או לאפשר לכוח בינלאומי להיכנס לעזה - בניגוד לתוכנית טראמפ. בארה\"ב שוקלים תוכנית חלופית - שתשאיר לחמאס שליטה בחלקים גדולים. צפי לחיפושים מחודשים אחר רן גואילי בעיר עזה"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "What has Germany’s position been on Israel’s genocide in Gaza?",
+      "url": "https://www.aljazeera.com/news/2025/12/7/what-has-germanys-position-been-on-israels-genocide-in-gaza?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-07T07:00:53.000Z",
+      "summary": "Germany is Israel’s second-largest arms supplier, fifth-largest export partner, and one of its staunchest supporters.\n"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -80,16 +120,6 @@
       "image": null,
       "published_at": "2025-12-07T05:41:37.000Z",
       "summary": "Syrians gathered to celebrate days before the December 8 anniversary, which will mark the day the capital was liberated."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Ukrainian city hit by 'massive' strike as peace talks in US conclude",
-      "url": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1230/live/b8babfd0-d2dc-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-12-07T05:32:09.000Z",
-      "summary": "Russia carried out strikes on Kremenchuk, while its defence ministry said it had shot down 77 Ukrainian drones in several locations. "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1102,16 +1132,6 @@
       "summary": "In Guadalajara, the road to the World Cup is paved with erasure of the missing. "
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ראש ממשלת לבנון מתחייב: \"השלמת פירוק הנשק מדרום לליטני - עד סוף השנה\"",
-      "url": "https://www.ynet.co.il/news/article/syzskabgze",
-      "image": null,
-      "published_at": "2025-12-06T15:55:04.000Z",
-      "summary": "ימים אחרי הפגישה ההיסטורית של גורמים ישראליים בא-נאקורה, ראש ממשלת לבנון נואף סלאם אמר בריאיון כי כל הנשק של חיזבאללה בדרום המדינה יפורק - תוך פחות מחודש. על המו\"מ עם ישראל: \"הוא עלה לרמה גבוהה יותר מהצבאית\", שיתוף פעולה כלכלי? \"עדיין לא - רק אחרי הסכם שלום\""
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1170,16 +1190,6 @@
       "image": null,
       "published_at": "2025-12-06T14:52:57.000Z",
       "summary": "Qatar and Egypt call for the immediate withdrawal of Israeli troops and deployment of an international military force."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Real Betis vs Barcelona 3-5: La Liga – as it happened",
-      "url": "https://www.aljazeera.com/sports/liveblog/2025/12/6/live-real-betis-vs-barcelona-la-liga?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-06T14:30:37.000Z",
-      "summary": "All our updates, with full post-match coverage, interviews and text commentary of the La Liga match."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2172,16 +2182,6 @@
       "summary": "Several women told the Committee for the Advancement of Women's Status that they were sexually assaulted and tortured during religious ceremonies. 'I was forced to perform horrific acts, all in the presence of very important people, physicians and rabbis,' said one of them. A report prepared ahead o"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Watch: What Tennessee's special election means for the Republican party",
-      "url": "https://www.bbc.com/news/videos/c8dy1egqzv1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0725/live/38c91000-d099-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-03T22:44:12.000Z",
-      "summary": "Republican Matt Van Epps won, but his margin of victory was less than half of what it was just over a year ago for President Trump in the same district."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2260,16 +2260,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-e5aa-de8e-a99b-f7ba1a530001/9c/d1/5ca9afec492a8e6423c3bf4bcd31/970337.jpg?height=81",
       "published_at": "2025-12-03T21:39:47.000Z",
       "summary": "A joint report by 12 Israeli human rights organizations documents rising fatalities, mass displacement, settlement expansion and harsh military policies have turned 'extreme practices to become operational and policy norms' across Gaza, the West Bank and East Jerusalem"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Watch: Newly released video shows Jeffrey Epstein's private island home",
-      "url": "https://www.bbc.com/news/videos/ce3wv50dvkwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c02/live/9aac8b90-d10b-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-03T21:23:14.000Z",
-      "summary": "Democrats released a new tranche of materials obtained through a subpoena to the US Virgin Islands, where the residence is located."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2360,16 +2350,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-e530-de8e-a99b-f7ba65a50001/b6/bb/52eb51514a379e08440a680f5a38/827489.jpg?height=81",
       "published_at": "2025-12-03T17:12:42.000Z",
       "summary": "The Israeli government's respect for the rule of law is nonexistent, but it is still Benjamin Netanyahu who makes the greatest mockery of it. The prime minister's request to end his trial is only the most outlandish part of his government's efforts to undermine Israel's institutions, legal norms and"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Steve Rosenberg: Putin showing no signs of compromise",
-      "url": "https://www.bbc.com/news/videos/c9971x8e8jmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21cf/live/0f04d1a0-d03a-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-03T11:27:24.000Z",
-      "summary": "The BBC's Russia Editor shares his analysis after five hours of peace talks between the Russians and the US."
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
