@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-07T22:07:54.414Z",
+  "generated_at": "2025-12-07T22:37:42.393Z",
   "items": [
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Olive harvest season in West Bank shows IDF's submissiveness to Jewish terror",
+      "url": "https://www.haaretz.com/opinion/2025-12-08/ty-article-opinion/.premium/olive-harvest-season-in-west-bank-shows-idfs-submissiveness-toward-jewish-terror/0000019a-fa18-d161-a3bb-fe9af49d0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-1b01-d77b-a3ff-3fe199c90001/66/12/de5ed1bf46dcb059ff4c2ae04679/499652.jpg?height=81",
+      "published_at": "2025-12-07T22:30:33.000Z",
+      "summary": ""
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -12,6 +22,16 @@
       "summary": "The actions of the suspects \"endangered the civilians who were driving along the route,\" the IDF said."
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Haaretz Cartoon",
+      "url": "https://www.haaretz.com/opinion/daily-cartoon/2025-12-08/ty-article-opinion/haaretz-cartoon/0000019a-fae2-d676-adff-fae2d5530000",
+      "image": "https://img.haarets.co.il/bs/0000019a-fae4-d82e-a9da-fbffba790001/b8/af/ad5090ce49a2b4f18d6a4e576006/amos-biderman-cartoon-sunday.png?height=81",
+      "published_at": "2025-12-07T22:20:13.000Z",
+      "summary": ""
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -20,6 +40,76 @@
       "image": null,
       "published_at": "2025-12-07T22:19:54.000Z",
       "summary": "The 2026 budget passed its first test, yet the battles over defense, taxes, and reforms expose a government more focused on managing crises than shaping policy."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Syria: One year after al-Assad",
+      "url": "https://www.aljazeera.com/video/inside-story/2025/12/7/syria-one-year-after-al-assad?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-07T22:14:31.000Z",
+      "summary": "What kind of Syria is the new government trying to build? And what challenges is it facing?"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Hamas and Israel move towards phase two of US-backed Gaza plan",
+      "url": "https://www.aljazeera.com/news/2025/12/7/hamas-and-israel-move-towards-phase-two-of-us-backed-gaza-plan?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-07T22:10:07.000Z",
+      "summary": "Israeli military claims yellow line is &#039;new border&#039; as questions remain over role of stabilisation force in Gaza."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Netanyahu and his government pin the blame for October 7 on those who fought for Israel's democracy",
+      "url": "https://www.haaretz.com/opinion/editorial/2025-12-08/ty-article-opinion/netanyahu-govt-pins-the-blame-for-oct-7-on-those-who-fought-for-israels-democracy/0000019a-fa96-d82e-a9da-fbbfa2460000",
+      "image": "https://img.haarets.co.il/bs/0000019a-ede0-dc6c-a3ff-eded7ad30001/ae/e8/a1c982c545e0aff24e46b81d5f21/screenshot-2025-12-05-113817.png?height=81",
+      "published_at": "2025-12-07T22:05:28.000Z",
+      "summary": "A direct line runs from the refusal to establish a state commission of inquiry to the political purge from the IDF of members of the protest movement: the government's effort to create an alternative narrative for the October 7 massacre"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "כולם יודעים מי האשם המרכזי. גם הוא",
+      "url": "https://www.ynet.co.il/news/article/yokra14605007",
+      "image": null,
+      "published_at": "2025-12-07T22:05:00.000Z",
+      "summary": "נתניהו טעה בדיוק כמו רבים אחרים, אך הוא היחיד שמסרב בתוקף להודות שהיה לו חלק עצום, ראשי, מוביל, בכישלון הנורא הזה. בינתיים כולם שילמו את המחיר: כל המעורבים בעצם פוטרו או התפטרו, מלבדו"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "לכ\"ץ לא אכפת: הוא משרת בצבא הפריימריז",
+      "url": "https://www.ynet.co.il/news/article/yokra14605108",
+      "image": null,
+      "published_at": "2025-12-07T22:04:00.000Z",
+      "summary": "שר ביטחון אחר היה מעמיד עצמו בראש המאבק לגיוס אמת. שר ביטחון אחר היה מחזק את הצבא, לא נלחם בו. שר ביטחון אחר היה הולך לראש הממשלה ודופק על השולחן. לא ישראל כ\"ץ. הדבר עלול לסכן את ביטחון המדינה"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אהרן ברק חזר אל יסודות הדמוקרטיה - כזו שבה העם הוא הריבון",
+      "url": "https://www.ynet.co.il/news/article/yokra14605397",
+      "image": null,
+      "published_at": "2025-12-07T22:04:00.000Z",
+      "summary": "השופט הוכיח בנאומו השבוע שהוא לא מבין שדמוקרטיה יוצרים לא בבתי המשפט, אלא ברשתות החברתיות. תרבות דמוקרטית אינה מושגת בכפייה"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אייל זמיר הוא רמטכ\"ל צולע",
+      "url": "https://www.ynet.co.il/news/article/yokra14605116",
+      "image": null,
+      "published_at": "2025-12-07T22:03:00.000Z",
+      "summary": "זמיר, שאנשיו מתדרכים שהוא בכלל עשה טובה כשהסכים להתמנות, יכול לבוא בטענות רק לעצמו: אתה לא הולך לישון עם שר כמו ישראל כ\"ץ וקם בבוקר בלי צחנה של עסקנות בריונית ורמה אישית נחותה"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -309,7 +399,7 @@
       "url": "https://www.timesofisrael.com/2011-murderer-of-hasidic-boy-in-brooklyn-dies-in-prison/",
       "image": null,
       "published_at": "2025-12-07T18:46:21.000Z",
-      "summary": "Levi Aron was serving 40 years to life in prison for killing 8-year-old Yehuda 'Leiby' Kletzky in Borough Park 14 years ago\nThe post 2011 murderer of Hasidic boy in Brooklyn dies in prison appeared first on The Times of Israel.\n"
+      "summary": "Levi Aron was serving 40 years to life for killing 8-year-old Yehuda 'Leiby' Kletzky in Borough Park 14 years ago\nThe post 2011 murderer of Hasidic boy in Brooklyn dies in prison appeared first on The Times of Israel.\n"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -545,7 +635,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Real Madrid vs Celta Vigo – La Liga",
+      "title": "Real Madrid vs Celta Vigo 0-2: La Liga",
       "url": "https://www.aljazeera.com/sports/liveblog/2025/12/7/live-real-madrid-vs-celta-vigo-la-liga?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-07T17:00:56.000Z",
@@ -709,7 +799,7 @@
       "url": "https://www.timesofisrael.com/qatari-pm-says-he-wont-write-a-check-to-rebuild-what-israel-destroyed-in-gaza/",
       "image": null,
       "published_at": "2025-12-07T15:18:57.000Z",
-      "summary": "In onstage interview with Tucker Carlson, Al Thani claims some people are putting in 'a lot of effort to sabotage the relationship between Qatar and the United States'\nThe post Qatari PM says he won&#8217;t write a check to rebuild what Israel destroyed in Gaza appeared first on The Times of Israel."
+      "summary": "In onstage Doha interview with Tucker Carlson, Al Thani claims some people are putting in 'a lot of effort to sabotage the relationship between Qatar and the United States'\nThe post Qatari PM says he won&#8217;t write a check to rebuild what Israel destroyed in Gaza appeared first on The Times of Is"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -872,26 +962,6 @@
       "summary": "Scholar says that abandoning the Palestinian struggle now would repeat the very failures that enabled Israel’s genocide."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "קנצלר גרמניה הזמין את לפיד לברלין, והפר את ההבטחה: \"ביקור נתניהו לא על הפרק\"",
-      "url": "https://www.ynet.co.il/news/article/sk5pkwxf11x",
-      "image": null,
-      "published_at": "2025-12-07T13:58:48.000Z",
-      "summary": "הקנצלר פרידריך מרץ נפגש עם ראש האופוזיציה והזמין אותו לביקור בגרמניה, זמן קצר לאחר שהצהיר במסיבת עיתונאים משותפת עם רה\"מ כי \"כשיגיע הזמן אזמין את נתניהו\" - בצל צו המעצר נגדו מביה\"ד הבינלאומי בהאג. בעבר מרץ נשמע אחרת"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "מפת המיליציות שפועלות לצד ישראל בעזה - והאיום על חמאס: \"לא יהיו רחמים\"",
-      "url": "https://www.ynet.co.il/news/article/h1i9d0zzbg",
-      "image": null,
-      "published_at": "2025-12-07T13:42:11.000Z",
-      "summary": "יאסר אבו שבאב נהרג בעקבות מחלוקת בתוך המיליציה שהנהיג בדרום הרצועה, אך מותו לא עוצר את מחליפו ואת מנהיגי החמולות הנוספות מלהגשים את מטרתם: להפיל את שלטון חמאס ולרדוף את אנשיו \"עד יומם האחרון\". מפת המיליציות, והמאבק על השליטה בשטחים"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -920,16 +990,6 @@
       "image": null,
       "published_at": "2025-12-07T13:31:03.000Z",
       "summary": "The community I grew up in near Bethlehem is being squeezed out by Israeli settlers."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אש מעל הרקדנית - ואז בהלה: 25 נספו בשריפה במועדון בגואה | תיעוד",
-      "url": "https://www.ynet.co.il/news/article/ry4dr1qmwe",
-      "image": null,
-      "published_at": "2025-12-07T13:30:57.000Z",
-      "summary": "הודו: 25 נהרגו בשריפה במועדון לילה באתר התיירות הפופולרי, תיירים שניסו לברוח נלכדו במטבח. בתיעוד יוצא דופן נראה רגע התלקחות הלהבות, ממש מעל רקדנית וחברי להקה - שבמשך שניות ארוכות ממשיכים להופיע ולא שמים לב לאש"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -970,16 +1030,6 @@
       "image": null,
       "published_at": "2025-12-07T13:09:29.000Z",
       "summary": "More than 2,000 flights cancelled, stranding thousands of passengers, as government intervenes to address the crisis."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בן צבי לא חלם על וילה בקיסריה שתתוחזק על חשבון המדינה",
-      "url": "https://www.ynet.co.il/news/article/s1ft9xqfbe",
-      "image": null,
-      "published_at": "2025-12-07T13:06:05.000Z",
-      "summary": "פעם היו מנהיגים לישראל. איפה ההתנהגות של גולדה מאיר, יצחק שמיר ויצחק רבין, ואיפה ההתנהגות של מנהיגנו אנו?"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1160,26 +1210,6 @@
       "image": null,
       "published_at": "2025-12-07T10:21:42.000Z",
       "summary": "“[German Chancellor’s visit to Israel] signals it’s business as usual again.”"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Western media coverage of Gaza erases Palestinians from the story",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2025/12/7/western-media-coverage-of-gaza-erases-palestinians-from-the-story?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-07T10:00:24.000Z",
-      "summary": "How language on covering Gaza deletes Palestinians from view and turns Israel’s genocidal war into a one-sided narrative"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Australia dominate England to win second Test in Brisbane",
-      "url": "https://www.aljazeera.com/sports/2025/12/7/australia-dominate-england-to-win-second-test-in-brisbane?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-07T09:57:18.000Z",
-      "summary": "Australia take a stranglehold of cricket&#039;s oldest test series with a decisive eight-wicket victory at The Gabba."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2280,36 +2310,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-e8c9-d0ea-afff-facbc1db0000/e7/e5/45e95d62420cb5ac756a5d9b3160/whatsapp-image-2025-12-04-at-11-54-07.jpg?height=81",
       "published_at": "2025-12-04T10:36:56.000Z",
       "summary": "Gofman, Haaretz revealed in 2024, authorized the leak of confidential information to a 17-year-old Israeli teenager for an influence operation for which the teenager was later arrested. Outgoing Mossad chief Barnea is the last defense official remaining from Oct. 7"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Two arrested in protest outside L.A. synagogue featuring Israeli defense firm",
-      "url": "https://www.haaretz.com/us-news/2025-12-04/ty-article/two-arrested-in-protest-outside-l-a-synagogue-featuring-israeli-defense-firm/0000019a-e80d-dac6-a1ff-fbed4bc90000",
-      "image": "https://img.haarets.co.il/bs/00000190-2b3e-d95e-a3ff-effe84590001/47/a2/03ed446943e3b0fab5d53403f7dd/57146871.JPG?height=81",
-      "published_at": "2025-12-04T08:20:33.000Z",
-      "summary": "Police arrested two people for battery and vandalism as protesters targeted speakers from Israel's police and Elbit Systems. Mayor Karen Bass and the synagogue's rabbi condemned the demonstration as antisemitic, calling it 'a disturbing outbreak of hate'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Body of Thai national Sudthisak Rinthalak, murdered on Oct. 7, returned to Israel",
-      "url": "https://www.haaretz.com/israel-news/2025-12-04/ty-article/.premium/body-of-thai-national-sudthisak-rinthalak-murdered-on-oct-7-returned-to-israel/0000019a-e7bf-d0ea-afff-ffff80120000",
-      "image": "https://img.haarets.co.il/bs/0000019a-e7cb-d0ea-afff-ffcbad8c0001/7c/21/24affee74dc7a136d8b330d0def8/522171.jpg?height=81",
-      "published_at": "2025-12-04T06:18:38.000Z",
-      "summary": "Israel says the 42-year-old agricultural worker was killed and abducted from Kibbutz Be'eri and held by Palestinian Islamic Jihad, as the last missing hostage, Ran Gvili, remains in Gaza"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Trump hits the brakes in Lebanon and Israel will have to give diplomacy a chance",
-      "url": "https://www.haaretz.com/israel-news/2025-12-04/ty-article/.premium/trump-applies-the-brakes-in-lebanon-and-israel-will-have-to-give-diplomacy-a-chance/0000019a-e65c-d0ea-afff-fe5fce3f0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-e671-dc6c-a3ff-e6fd28480000/81/f2/a77ad9704955b8165bdf805c0d5f/941505.jpg?height=81",
-      "published_at": "2025-12-04T04:01:07.000Z",
-      "summary": "The Arab countries, especially Saudi Arabia, Egypt and Qatar, pressured Washington to urge Israel to retract its threats of renewed war with Hezbollah and begin negotiations with the Lebanese government. The talks could lead to Israel's withdrawal from the five posts it holds across the border"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
