@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-07T06:45:49.671Z",
+  "generated_at": "2025-12-07T07:09:10.552Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -10,6 +10,16 @@
       "image": null,
       "published_at": "2025-12-07T08:24:47.000Z",
       "summary": "The arrests followed a weeks-long undercover investigation that gathered evidence of a coordinated plan by organized groups of fans, according to police."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Hong Kong votes in election as city mourns deadly fire",
+      "url": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e876/live/2001c660-d1ad-11f0-83cd-5b415fb0080a.jpg",
+      "published_at": "2025-12-07T06:45:47.000Z",
+      "summary": "The Legislative Council election is seen as a test of public sentiment following a deadly fire."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -185,7 +195,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "יתקשה לשבת עם נתניהו - ויאתגר גם את שותפיו: קווי היסוד החדשים של ליברמן",
+      "title": "לא יישב עם נתניהו - ויאתגר גם את שותפיו: קווי היסוד החדשים של ליברמן",
       "url": "https://www.ynet.co.il/news/article/yokra14603691",
       "image": null,
       "published_at": "2025-12-07T04:43:07.000Z",
@@ -199,7 +209,7 @@
       "url": "https://www.ynet.co.il/news/article/yokra14603892",
       "image": null,
       "published_at": "2025-12-07T04:40:41.000Z",
-      "summary": "רה\"מ יוצא לקרב טיהור במפלגתו כדי להשתלט על תפקידי מבקר הפנים ונשיאות בית הדין. \"אנחנו דורשים משילות - אבל אפילו אצלנו במפלגה אין כזו\", הסביר מקורב לנתניהו. במרכז הביקורת על המכהנים הנוכחיים בתפקיד: \"עצמאות יתר\""
+      "summary": "פרסום ראשון: רה\"מ יוצא לקרב טיהור במפלגתו כדי להשתלט על תפקידי מבקר הפנים ונשיאות בית הדין. \"אנחנו דורשים משילות - אבל אפילו אצלנו במפלגה אין כזו\", הסביר מקורב לנתניהו. במרכז הביקורת על המכהנים הנוכחיים בתפקיד: \"עצמאות יתר\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -450,16 +460,6 @@
       "image": null,
       "published_at": "2025-12-07T00:50:24.000Z",
       "summary": "Real Madrid ended a three-game winless La Liga run in Bilbao on Wednesday, but Celta are enjoying life on the road."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Hong Kong to vote in election as city mourns deadly fire",
-      "url": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e876/live/2001c660-d1ad-11f0-83cd-5b415fb0080a.jpg",
-      "published_at": "2025-12-07T00:40:41.000Z",
-      "summary": "The Legislative Council election is seen as a test of public sentiment following a deadly fire that angered some."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
