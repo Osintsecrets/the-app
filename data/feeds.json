@@ -1,6 +1,66 @@
 {
-  "generated_at": "2025-12-07T22:37:42.393Z",
+  "generated_at": "2025-12-07T23:07:53.068Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Death of Venezuelan opposition figure in custody 'vile', US says",
+      "url": "https://www.bbc.com/news/articles/czj0m2evm40o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed40/live/5700ce50-d3b4-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-12-07T22:56:47.000Z",
+      "summary": "Alfredo Díaz, 56, died in prison cell on Saturday, human rights groups say, prompting opposition outcry."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "השרים חגגו בירוחם, ביסמוט על הפטור: \"הכי חכם וצודק שהיה במדינה\" | צפו",
+      "url": "https://www.ynet.co.il/news/article/rjqmhimfwl",
+      "image": null,
+      "published_at": "2025-12-07T22:55:04.000Z",
+      "summary": "יו\"ר ועדת חוץ וביטחון הגיע למסיבת הניצחון של ראש מועצת ירוחם, ואמר כי חוק ההשתמטות \"עושה היסטוריה\". בצל הביקורות גם בקרב הממשלה, שרת התחבורה רגב גיבתה: \"אתה יושב וחוטף, אבל מעביר את זה נפלא\". היא התייחסה גם לבקשת החנינה של נתניהו, ותקפה: \"מי שתפר את התיקים - יעמוד למשפט\""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Hamas ready to discuss &#8216;freezing or storing&#8217; its weapons, says terror group official",
+      "url": "https://www.timesofisrael.com/hamas-ready-to-discuss-freezing-or-storing-its-weapons-says-terror-group-official/",
+      "image": null,
+      "published_at": "2025-12-07T22:53:30.000Z",
+      "summary": "Bassem Naim says Hamas hopes to 'avoid any further clashes,' but that Trump's peace plan, which mandates the group's disarmament, needs 'a lot of clarifications'\nThe post Hamas ready to discuss &#8216;freezing or storing&#8217; its weapons, says terror group official appeared first on The Times of I"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "No apartheid? Watch Israel's news channels and see how they mock Palestinians to the ground",
+      "url": "https://www.haaretz.com/opinion/2025-12-08/ty-article-opinion/.premium/no-apartheid-watch-israels-news-channels-and-see-how-they-mock-palestinians/0000019a-fa18-d82e-a9da-fb3f1be00000",
+      "image": "https://img.haarets.co.il/bs/00000198-e6d5-d91d-af9b-e7ff44440005/ed/98/02c91d344f8d8cde5bf1c0503cc6/capture.PNG?height=81",
+      "published_at": "2025-12-07T22:49:30.000Z",
+      "summary": "Every Arab who is invited to a television studio takes the entrance exam, or 'the test of condemnation': Does the guest condemn (fill in the blank: the latest terrorist attack or inflammatory remarks by an Arab personality, here or abroad)?"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "התוכנית הטורקית-קטארית שישראל מנסה לסכל, והנתון: \"75% בעזה לא רוצים חמאס\"",
+      "url": "https://www.ynet.co.il/news/article/syunjwmfbl",
+      "image": null,
+      "published_at": "2025-12-07T22:43:07.000Z",
+      "summary": "אחרי שיוחזר החלל החטוף האחרון, תצטרך ישראל לעבור לשלב ב' - אך על הפרק לא מעט מחלוקות: קטאר וטורקיה רוצות למנוע את פירוק חמאס מנשק, ואנקרה זוכה לגיבוי מגורמים בממשל טראמפ שמעוניינים שתהיה נוכחת ברצועה. גם הרכב הכוח הבינלאומי רחוק מסיכום. הנקודות המרכזיות שיעלו בפגישת נתניהו-טראמפ"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Real Madrid implode as Celta Vigo earn shock 2-0 win at the Bernabeu",
+      "url": "https://www.aljazeera.com/sports/2025/12/7/real-madrid-implode-as-celta-vigo-earn-shock-2-0-win-at-the-bernabeu?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-07T22:42:18.000Z",
+      "summary": "Substitute Williot Swedberg scores brace to defeat Real Madrid, who ended game with nine players after two red cards."
+    },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
@@ -152,16 +212,6 @@
       "summary": "Notably, Germany opposed various sanctions proposals in the EU. It is one of the few countries Israel can count on to at least abstain from one-sided UN General Assembly resolutions."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "התוכנית הטורקית-קטארית שישראל מנסה לסכל, והנתון: \"75% בעזה לא רוצים חמאס\"",
-      "url": "https://www.ynet.co.il/news/article/syunjwmfbl",
-      "image": null,
-      "published_at": "2025-12-07T21:13:10.000Z",
-      "summary": "אחרי שיוחזר החלל החטוף האחרון, תצטרך ישראל לעבור לשלב ב' - אך על הפרק לא מעט מחלוקות: קטאר וטורקיה רוצות למנוע את פירוק חמאס מנשק, ואנקרה זוכה לגיבוי מגורמים בממשל טראמפ שמעוניינים שתהיה נוכחת ברצועה. גם הרכב הכוח הבינלאומי רחוק מסיכום. הנקודות המרכזיות שיעלו בפגישת נתניהו-טראמפ"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -210,16 +260,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-fa47-d2e4-a1ff-ffe71ddd0001/7c/4a/cfadfdd94316b88463533bb9ab0f/g7ux-gpxsaaaenm.jpg?height=81",
       "published_at": "2025-12-07T20:36:52.000Z",
       "summary": "Back from a weeklong Israeli tour, King Dalindyebo blasted the ANC for condemning Israel without seeing it firsthand, calling Hamas 'a club of criminals' and praising Israel's restraint in Gaza– a stark counterpoint to South Africa's recent accusations of genocide and diplomatic tensions"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "השרים חגגו בירוחם, ביסמוט על הפטור: \"הכי חכם וצודק שהיה במדינה\" | צפו",
-      "url": "https://www.ynet.co.il/news/article/rjqmhimfwl",
-      "image": null,
-      "published_at": "2025-12-07T20:35:56.000Z",
-      "summary": "יו\"ר ועדת חוץ וביטחון הגיע למסיבת הניצחון של ראש מועצת ירוחם, ואמר כי חוק ההשתמטות \"עושה היסטוריה\". בצל הביקורות גם בקרב הממשלה, שרת התחבורה גיבתה: \"אתה יושב וחוטף, אבל מעביר את זה נפלא\". היא התייחסה גם לבקשת החנינה של נתניהו, ותקפה: \"מי שתפר את התיקים - יעמוד למשפט\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -635,11 +675,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Real Madrid vs Celta Vigo 0-2: La Liga",
+      "title": "Real Madrid vs Celta Vigo 0-2: La Liga – as it happened",
       "url": "https://www.aljazeera.com/sports/liveblog/2025/12/7/live-real-madrid-vs-celta-vigo-la-liga?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-07T17:00:56.000Z",
-      "summary": "Follow the build-up, analysis and live text commentary of the game as Madrid host Celta Vigo at the Santiago Bernabeu."
+      "summary": "All the updates as Swedberg scores twice for Celta Vigo to leave Real Madrid four points off La Liga leaders Barcelona."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1042,16 +1082,6 @@
       "summary": "Tarantino has been quoted as saying, \"I love it [in Israel]. If I didn't love it, I wouldn't be there.\""
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Turkish, Egyptian FMs say Israel breaching ceasefire daily; Ankara urges US to step in",
-      "url": "https://www.timesofisrael.com/turkish-egyptian-fms-say-israel-breaching-ceasefire-daily-ankara-urges-us-to-step-in/",
-      "image": null,
-      "published_at": "2025-12-07T12:47:56.000Z",
-      "summary": "At Doha diplomatic meet, Fidan says Indonesia, Azerbaijan, others want to see Ankara join international force despite Israeli veto; Abdelatty urges deployment of peacekeepers ASAP\nThe post Turkish, Egyptian FMs say Israel breaching ceasefire daily; Ankara urges US to step in appeared first on The Ti"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1200,16 +1230,6 @@
       "image": null,
       "published_at": "2025-12-07T10:22:35.000Z",
       "summary": "Bethlehem has lit its Christmas tree for the first time since Israel began its genocide on Palestinians in Gaza."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "German chancellor “signals business as usual” on Israel trip",
-      "url": "https://www.aljazeera.com/video/quotable/2025/12/7/aje-onl-renewildangel_qt-071225?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-07T10:21:42.000Z",
-      "summary": "“[German Chancellor’s visit to Israel] signals it’s business as usual again.”"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2300,16 +2320,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-e570-d044-adda-f577933d0000/a2/8f/c8b7f3ee451bb9d5c2efc0a2a4f5/63973777.JPG?height=81",
       "published_at": "2025-12-04T10:41:37.000Z",
       "summary": "For two years, the northern Israeli community of Metula was a ghost town. Now, as reconstruction is proceeding apace, business owners are optimistic and want to bring their town back to life. However, the influx of religious families has sparked concerns about the town's secular identity"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Netanyahu picks new Mossad chief: His military secretary, Roman Gofman",
-      "url": "https://www.haaretz.com/israel-news/2025-12-04/ty-article/.premium/netanyahu-names-military-secretary-roman-gofman-as-new-mossad-chief/0000019a-e8d1-dac6-a1ff-fbf934c00000",
-      "image": "https://img.haarets.co.il/bs/0000019a-e8c9-d0ea-afff-facbc1db0000/e7/e5/45e95d62420cb5ac756a5d9b3160/whatsapp-image-2025-12-04-at-11-54-07.jpg?height=81",
-      "published_at": "2025-12-04T10:36:56.000Z",
-      "summary": "Gofman, Haaretz revealed in 2024, authorized the leak of confidential information to a 17-year-old Israeli teenager for an influence operation for which the teenager was later arrested. Outgoing Mossad chief Barnea is the last defense official remaining from Oct. 7"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
