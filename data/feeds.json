@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-07T08:11:27.352Z",
+  "generated_at": "2025-12-07T08:41:22.466Z",
   "items": [
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Bethlehem’s Christmas tree lights up after two years of darkness",
+      "url": "https://www.aljazeera.com/news/2025/12/7/bethlehems-christmas-tree-lights-up-after-two-years-of-darkness?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-07T08:33:11.000Z",
+      "summary": "Bethlehem lights tree after two years, mixing hope with sorrow amid Gaza war and economic hardship from Israeli siege."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,36 @@
       "image": null,
       "published_at": "2025-12-07T08:24:47.000Z",
       "summary": "The arrests followed a weeks-long undercover investigation that gathered evidence of a coordinated plan by organized groups of fans, according to police."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Staff and tourists among 25 killed in Goa nightclub fire",
+      "url": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c5/live/41f760e0-d324-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-12-07T08:22:36.000Z",
+      "summary": "Officials believe a gas canister explosion triggered the fire which tore through the busy nightlife venue."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Resurgent neo-Nazis march against multiculturalism in Sweden’s capital",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/7/resurgent-neo-nazis-march-against-multiculturalism-in-swedens-capital?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-07T08:14:19.000Z",
+      "summary": "A neo-Nazi march has been held in Sweden’s capital for the first time in 15 years."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "החור בכיפת צ'רנוביל, ותעלומת הכטב\"מים מעל בסיס הצוללות הגרעיניות",
+      "url": "https://www.ynet.co.il/news/article/by7dccfmzl",
+      "image": null,
+      "published_at": "2025-12-07T08:08:08.000Z",
+      "summary": "סוכנות הגרעין הבינלאומית הודיעה כי עקב מתקפת כטב\"ם בתחילת השנה נגרם נזק משמעותי למעטפת ההגנה של הכור בצ'רנוביל, וכעת זו כבר לא יכולה למלא את תפקידה: מניעת דליפה רדיואקטיבית. \"בוצע תיקון מוגבל, אבל דרוש שיפוץ מקיף\", נמסר. מתקפות כטב\"מים בשמי אוקראינה ורוסיה, תקרית חריגה בצרפת: 5 כטב\"מים תועדו מעל בסי"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -330,16 +370,6 @@
       "image": null,
       "published_at": "2025-12-07T04:40:41.000Z",
       "summary": "פרסום ראשון: רה\"מ יוצא לקרב טיהור במפלגתו כדי להשתלט על תפקידי מבקר הפנים ונשיאות בית הדין. \"אנחנו דורשים משילות - אבל אפילו אצלנו במפלגה אין כזו\", הסביר מקורב לנתניהו. במרכז הביקורת על המכהנים הנוכחיים בתפקיד: \"עצמאות יתר\""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Staff and tourists among 25 killed in Goa nightclub fire",
-      "url": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c5/live/41f760e0-d324-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-12-07T04:23:22.000Z",
-      "summary": "Officials believe a gas canister explosion triggered the fire which tore through the busy nightlife venue."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1152,26 +1182,6 @@
       "summary": "Kohli wins player of the series award as India win by 9 wickets and 10 overs to spare in the third ODI of the series."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "לראשונה מהפסקת האש ובקשת החנינה: נתניהו אמור להשיב לשאלות במסיבת עיתונאים",
-      "url": "https://www.ynet.co.il/news/article/b1cazkmfbx",
-      "image": null,
-      "published_at": "2025-12-06T17:07:58.000Z",
-      "summary": "רה\"מ ייפגש מחר עם קנצלר גרמניה, ולפי לוח הזמנים הרשמי יקיים איתו מסיבת עיתונאים. אם אכן כך יקרה, הוא ישיב לשאלות במסיבת עיתונאים לראשונה מאז הפסקת האש במלחמה מול חמאס, בקשת החנינה שהגיש והפצת חוק הפטור. בינתיים, מרץ נפגש עם הרצוג: \"רוצים להיות מעורבים יותר ביום שאחרי בעזה\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
-      "url": "https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-06T16:44:07.000Z",
-      "summary": "Syrian president says Israel uses pretexts to justify militarism and divert attention from Gaza massacres."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1180,16 +1190,6 @@
       "image": null,
       "published_at": "2025-12-06T16:24:10.000Z",
       "summary": "The Coordinator for Hostages and Missing Persons Gal Hirsch left for Cairo for talks on Gvili's return, as well as advancement to the second phase of the hostage and ceasefire deal."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "World Cup 2026: Re-disappearing Mexico’s disappeared",
-      "url": "https://www.aljazeera.com/opinions/2025/12/6/world-cup-2026-re-disappearing-mexicos-disappeared?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-06T15:59:41.000Z",
-      "summary": "In Guadalajara, the road to the World Cup is paved with erasure of the missing. "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
