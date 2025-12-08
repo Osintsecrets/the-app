@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-08T10:45:17.542Z",
+  "generated_at": "2025-12-08T11:09:02.989Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "'Recording has to stop here': US base in Israel under surveillance - Guardian",
+      "url": "https://www.jpost.com/israel-news/article-879603",
+      "image": null,
+      "published_at": "2025-12-08T13:01:42.000Z",
+      "summary": "Staff have allegedly been instructed to avoid sharing sensitive information in the CMCC, over fears that Jerusalem is collecting the data and would later exploit the information."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -42,10 +52,40 @@
       "summary": "Mike Waltz crossed into Israel for his first visit as the US Ambassador to the UN, following his visit to Jordan."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הטייק האוף הציני של השר בן גביר",
+      "url": "https://www.ynet.co.il/news/article/bktq274z11l",
+      "image": null,
+      "published_at": "2025-12-08T10:53:58.000Z",
+      "summary": " מי שנעדר מהרחובות, מהעצרת, מהמשפחות, מהמחויבות - פתאום מצמיד סיכה, ונדמה לרגע שהוא אפילו הפך אותה. ואף יותר מזה: הסיכה, במקרה או שבמכוון, הצבע הבוהק שמסמל מצוקה, אחריות וכאב לאומי - נראית עליו כמו אביזר שאינו שייך לסיפור שהוא מעולם לא היה חלק ממנו"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "One hundred abducted schoolchildren released in Nigeria",
+      "url": "https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae37/live/ea35e150-d405-11f0-be97-4b9f7a1a7a49.jpg",
+      "published_at": "2025-12-08T10:52:23.000Z",
+      "summary": "Details of the release of the schoolchildren are still unclear and 165 people remain unaccounted for."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אלו שזינקו, אלו שבירידה: שמות התינוקות הכי נפוצים | חפשו את השם שלכם ברשימה",
+      "url": "https://www.ynet.co.il/news/article/bjuoh11eg11x",
+      "image": null,
+      "published_at": "2025-12-08T10:50:34.000Z",
+      "summary": "אליה בעלייה, מוחמד בירידה - ועדיין ראשון: לפי נתוני הלמ\"ס 2,257 בנים נקראו מוחמד ב-2024, אריאל במקום השני הכללי. בקרב הבנים היהודים השם הנפוץ ביותר הוא דוד. אביגיל ראשונה אצל הבנות, אבל באשכולות החברתיים-כלכליים הנמוכים השם כלל לא בצמרת. וגם: הירידה הגדולה של בארי, אחרי 7 באוקטובר"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Hezbollah ‘double agents’ infiltrated Lebanese army, Intelligence Ministry sources claim",
+      "title": "Lebanese army compromised by Hezbollah 'double agents,' Intelligence Ministry sources claim",
       "url": "https://www.jpost.com/israel-news/defense-news/article-879582",
       "image": null,
       "published_at": "2025-12-08T10:44:54.000Z",
@@ -55,7 +95,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "President Herzog criticizes New York mayor-elect Mamdani, warns of rising antisemitism",
+      "title": "President Herzog challenges Mamdani's views on Jewish homeland rights",
       "url": "https://www.jpost.com/israel-news/article-879581",
       "image": null,
       "published_at": "2025-12-08T10:42:46.000Z",
@@ -75,7 +115,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Hamas, Red Cross resume search for final Israeli hostage Ran Gvili - report",
+      "title": "Last Israeli hostage: Ran Gvili's rescue mission reignited",
       "url": "https://www.jpost.com/israel-news/defense-news/article-879579",
       "image": null,
       "published_at": "2025-12-08T10:41:59.000Z",
@@ -255,11 +295,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "\"אפשר גם גרדום או כיסא חשמלי\": סיכת \"עונש מוות למחבלים\" על חולצת בן גביר",
+      "title": "\"אפשר גם גרדום או כיסא חשמלי\": סיכת חבל תלייה על חולצת בן גביר",
       "url": "https://www.ynet.co.il/news/article/bjr00fmvmbl",
       "image": null,
       "published_at": "2025-12-08T09:20:12.000Z",
-      "summary": "חברי עוצמה יהודית הגיעו לדיון בוועדה לביטחון לאומי עם סיכות חבל תלייה. \"כמובן שיש עוד אפשרויות\", אמר בן גביר. \"קיבלתי 100 פניות מרופאים שאמרו 'רק תגיד מתי'\". ח\"כ מירב בן ארי: \"הזיות נכנסו לבית הנבחרים\""
+      "summary": "חברי עוצמה יהודית הגיעו לדיון בוועדה לביטחון לאומי עם סיכות חבל תלייה. \"כמובן שיש עוד אפשרויות\", אמר בן גביר. \"קיבלתי 100 פניות מרופאים שאמרו 'רק תגיד מתי'\". ח\"כ מירב בן ארי: \"הזיות נכנסו לבית הנבחרים\". בניגוד לעמדת השר: בשב\"כ לא תומכים בעונש מוות אוטומטי"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -370,16 +410,6 @@
       "image": null,
       "published_at": "2025-12-08T08:30:11.000Z",
       "summary": "Defense Ministry says 22,000 wounded soldiers treated since Oct. 7, 2023, some 58% of whom are contending with PTSD or other mental health disorders\nThe post Over half of soldiers treated in rehab centers have mental health issues, stats show appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "One hundred abducted schoolchildren released in Nigeria",
-      "url": "https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae37/live/ea35e150-d405-11f0-be97-4b9f7a1a7a49.jpg",
-      "published_at": "2025-12-08T08:27:57.000Z",
-      "summary": "Details of the release of the schoolchildren are still unclear and 165 people remain unaccounted for."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1192,16 +1222,6 @@
       "summary": "PA Prime Minister Mohammad Mustafa says Netanyahu's policies seek to undermine the PA and expand settlements, aiming 'to eventually convince the rest of the world there's no place for a state.' He warned that financial pressure, raids, and settler violence are making life unbearable"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "העובדים הערבים טוענים: מכים אותנו בגלל טיקטוק",
-      "url": "https://www.ynet.co.il/news/article/rykhqumfwg",
-      "image": null,
-      "published_at": "2025-12-07T19:54:34.000Z",
-      "summary": "חליל, עובד התברואה שהוכה בשכונת רמות בי-ם לפי החשד רק בגלל שהוא ערבי, שחזר את התקיפה הקשה. נער וצעיר התנפלו עליו באגרופים ובעיטות בזמן שעבד, ואחד מהם צילם: \"שברו לי שתי צלעות ושיניים\". מוחמד, נהג אוטובוס שהותקף בידי אותם חשודים, סיפר: \"אחד מהם פתח את המצלמה וצילם. זה הפך לטרנד\""
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1230,16 +1250,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-fa19-d82e-a9da-fb3f11b70000/7b/53/640a5a2948228aae91896c273fa9/043084.jpg?height=81",
       "published_at": "2025-12-07T19:17:30.000Z",
       "summary": "Bassem Naim told AP that Hamas retains its 'right to resist' but added that the group is prepared to lay down its arms as part of a process aimed at establishing a Palestinian state. He provided few details on how this would work, but suggested the possibility of a long-term truce of five to ten yea"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "נתניהו: \"את המשימה העיקרית הכוח הבינלאומי בעזה לא יוכל לעשות\"",
-      "url": "https://www.ynet.co.il/news/article/bysdv7xfwx",
-      "image": null,
-      "published_at": "2025-12-07T19:14:10.000Z",
-      "summary": "על רקע הקושי של האמריקנים לגייס מדינות לכוח הייצוב הבינלאומי שאמור לפעול ברצועה, הודה נתניהו כי יש \"משימות שהכוח כלל לא יכול לעשות\". הוא אמר שידבר על המעבר לשלב הבא עם טראמפ במפגש בין השניים בסוף החודש: \"עוברים לפירוק מנשק ופירוז\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1380,16 +1390,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-f946-d2e4-a1ff-ffe6e8440001/f7/21/053bfe0c4df09466019b0701b25b/capture.PNG?height=81",
       "published_at": "2025-12-07T17:26:42.000Z",
       "summary": "Carlson intensified internal GOP divisions over Israel policy and signaled a personal commitment to Qatar by announcing plans to buy property there. His critics accuse him of being a 'Qatari agent,' while Carlson and his supporters argue he's voicing valid critiques of Israel"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Merz visit to Israel shows bilateral relations remain strong, former amb. to Germany tells 'Post'",
-      "url": "https://www.jpost.com/israel-news/article-879508",
-      "image": null,
-      "published_at": "2025-12-07T17:15:02.000Z",
-      "summary": "“Since 2008, when Angela Merkel visited Israel and spoke of Germany’s commitment to Israel’s security and survival, it has become not just about a commitment of Germany to Israel,\" but to both sides."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
