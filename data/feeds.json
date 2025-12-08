@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-08T04:49:53.890Z",
+  "generated_at": "2025-12-08T05:12:23.518Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -42,24 +42,54 @@
       "summary": "Police in the Lachish district began a search operation after IDF forces in the area failed to prevent the infiltration."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "התחזית: סיכוי לגשמים מקומיים ביומיים הקרובים - לקראת מזג אוויר סוער מרביעי ",
-      "url": "https://www.ynet.co.il/news/article/hgsm0o9sd",
+      "title": "Israel's top court rules Law of Return not applicable for children whose father converted after birth",
+      "url": "https://www.haaretz.com/israel-news/2025-12-08/ty-article/.premium/court-rules-law-of-return-not-applicable-for-children-whose-father-converted-after-birth/0000019a-faa1-d676-adff-faa319810000",
+      "image": "https://img.haarets.co.il/bs/0000019a-fc26-d193-a1be-ffa71e9a0001/b7/42/07d8aa154da0a4fd1b1b8c0e692c/832716.jpg?height=81",
+      "published_at": "2025-12-08T04:58:31.000Z",
+      "summary": "In the ruling, reversed from a previous ruling in June 2024, a majority of six out of seven justices ruled it is possible that the children can receive Israeli citizenship under the auspices of other law, but not under the Law of Return"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "WFP says six million starving in Sudan",
+      "url": "https://www.aljazeera.com/video/quotable/2025/12/8/wfp-says-six-million-starving-in-sudan?traffic_source=rss",
       "image": null,
-      "published_at": "2025-12-08T04:21:37.000Z",
-      "summary": "היום ומחר ייתכן שיירדו גשמים מקומיים, והחל מיום רביעי יתחיל לרדת גשם מלווה בסופות רעמים בצפון ובמרכז, שיתפשט בהדרגה עד צפון הנגב. חשש להצפות במישור החוף ובשפלה, ולשיטפונות בבקעת הירדן, מדבר יהודה וים המלח"
+      "published_at": "2025-12-08T04:37:04.000Z",
+      "summary": "Carl Skau, deputy executive director at the World Food Programme, talks limitations concerns in Sudan"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "‘Stop killing us’: Huge crowds rally in Brazil, decrying rise in femicide",
+      "url": "https://www.aljazeera.com/news/2025/12/8/stop-killing-us-huge-crowds-rally-in-brazil-decrying-rise-in-femicide?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-08T04:35:04.000Z",
+      "summary": "Demonstrators march in Rio de Janeiro, Sao Paulo and other cities, calling for an end to femicide, rape and misogyny."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "\"בכל יום יש את הפחד של מה יהיה מחר\": הדוח העגום על \"העניים החדשים\" | כל הנתונים",
+      "title": "חורף אמיתי בדרך: מזג האוויר הסוער שמתקרב - וכמה גשם צפוי לרדת השבוע",
+      "url": "https://www.ynet.co.il/news/article/hgsm0o9sd",
+      "image": null,
+      "published_at": "2025-12-08T04:21:37.000Z",
+      "summary": "היום ומחר צפויים גשמים מקומיים, מיום רביעי - שינוי משמעותי: אז יחל לרדת גשם מלווה בסופות רעמים בצפון ובמרכז, ינשבו רוחות עזות והטמפרטורות יצנחו. חשש להצפות בחוף ושיטפונות בדרום. בחלק מהאזורים צפויים יותר מ-100 מ\"מ גשם. התחזית המלאה ומפת המשקעים"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"בכל יום יש את הפחד של מה יהיה מחר\": הדוח העגום על \"העניים החדשים\" ",
       "url": "https://www.ynet.co.il/news/article/yokra14604689",
       "image": null,
       "published_at": "2025-12-08T04:00:17.000Z",
-      "summary": "בצל הזינוק ביוקר המחיה, יותר ויותר משקי בית נאבקים לשרוד כלכלית. דוח של ארגון \"לתת\" משרטט את קו העוני בישראל, ומדגיש משפחות שבהן שני ההורים עובדים - אבל מתקשות לספק את צרכי המחיה הבסיסיים. \"דרוש מענה ממשלתי מקיף לפני שאנחנו הופכים ל'סופר-ספרטה'\", אומר מנכ\"ל הארגון. הדוח המלא"
+      "summary": "בצל הזינוק ביוקר המחיה, יותר ויותר משקי בית נאבקים לשרוד. דוח של ארגון \"לתת\" משרטט את קו העוני בישראל, ומדגיש משפחות שבהן שני ההורים עובדים - אבל מתקשות לספק את צורכי המחיה הבסיסיים. \"דרוש מענה ממשלתי מקיף לפני שאנחנו הופכים ל'סופר-ספרטה'\", אומר מנכ\"ל הארגון. הנתונים המלאים"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -169,7 +199,7 @@
       "url": "https://www.aljazeera.com/news/2025/12/8/thailand-launches-air-raids-along-border-with-cambodia-after-deadly-clashes?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-08T02:14:04.000Z",
-      "summary": "Thai Army says Cambodian forces fired on its troops, killing one and wounding four others. "
+      "summary": "Thailand, Cambodia trade blame for clashes that killed one Thai soldier and injured four others. "
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -225,11 +255,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "7 מאבטחים נעצרו בחשד שסייעו להבריח שב\"חים תמורת כסף: \"מעלו בתפקידם\"",
+      "title": "מאבטחים נעצרו בחשד שסייעו להבריח מאות שב\"חים תמורת כסף: \"מעלו בתפקידם\"",
       "url": "https://www.ynet.co.il/news/article/s1snoyxfzx",
       "image": null,
       "published_at": "2025-12-07T23:49:04.000Z",
-      "summary": "המעצרים בוצעו לאחר שמועצת גבעת זאב ביקשה מהמשטרה לחקור חשד ולפיו המאבטחים, שעובדים בחברת פרטית המספקת שירותים ליישוב, סייעו להבריח ולהעסיק שוהים בלתי-חוקיים בתמורה לכסף. \"הם סיכנו תושבים. האמון שלנו במערך האבטחה הוא בסיסי וכל פגיעה בו היא בלתי נסלחת\", אמר ראש המועצה"
+      "summary": "5 מאבטחים מחברה פרטית ושני תושבי השטחים נעצרו לאחר שמועצת גבעת זאב ביקשה מהמשטרה לחקור חשד ולפיו הם סייעו להבריח ולהעסיק מאות פלסטינים שוהים בלתי-חוקיים בשטח ישראל. \"הם סיכנו את ביטחון התושבים. האמון שלנו במערך האבטחה הוא בסיסי וכל פגיעה בו בלתי נסלחת\", אמר ראש המועצה"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1230,26 +1260,6 @@
       "image": null,
       "published_at": "2025-12-07T13:00:56.000Z",
       "summary": "Tarantino has been quoted as saying, \"I love it [in Israel]. If I didn't love it, I wouldn't be there.\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Sudan must expel foreign-backed fighters, justice minister tells Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/7/sudan-must-expel-foreign-backed-fighters-justice-minister-tells-al-jazeera?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-07T12:47:29.000Z",
-      "summary": "External support for armed groups and mercenaries is the main obstacle to peace, says Sudan&#039;s justice minister."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Child mortality rates affected by “cuts to aid budgets”",
-      "url": "https://www.aljazeera.com/video/quotable/2025/12/7/child-mortality-rates-affected-by-cuts-to-aid?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-07T12:43:00.000Z",
-      "summary": " “Kids&#039; deaths are often even greater than the adult deaths.”"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2310,16 +2320,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-e89d-dc6c-a3ff-ec9da5c70000/ce/a5/d1f456e64e0b82ed7418b674b453/993826.jpg?height=81",
       "published_at": "2025-12-04T13:06:00.000Z",
       "summary": "Initially purchased in September 2023, Germany purchased the Israeli defense system as part of a broader effort to strengthen NATO and European air defense efforts amid the Russia-Ukraine war"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Jerusalem sponsors religious Zionist events prominently starring Bezalel Smotrich",
-      "url": "https://www.haaretz.com/israel-news/2025-12-04/ty-article/.premium/jlem-municipality-sponsors-religious-zionist-events-prominently-starring-bezalel-smotrich/0000019a-e8a9-db35-afbf-ebfd0ed70000",
-      "image": "https://img.haarets.co.il/bs/0000019a-e8ae-d0ea-afff-faef7b690006/e7/63/926977e8454cbe191fff81d60481/296299.jpg?height=81",
-      "published_at": "2025-12-04T12:55:53.000Z",
-      "summary": "While municipality events were previously attended by an array of government representatives, recent events demonstrate Jerusalem municipality's preferential funding of the national-religious sector, and its rising star, the Israeli Finance Minister"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
