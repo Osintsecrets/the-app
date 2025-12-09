@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-09T17:11:29.373Z",
+  "generated_at": "2025-12-09T17:40:33.098Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Bridges of Hope",
+      "url": "https://www.jpost.com/israel-news/culture/article-879783",
+      "image": null,
+      "published_at": "2025-12-09T19:31:21.000Z",
+      "summary": "The Jewish Agency marks 30 years of partnership between the Chicago Jewish community and Kiryat Gat, Lachish, and Shafir"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -12,6 +22,56 @@
       "summary": "Police are also looking into whether or not the remains belong to a Jerusalem resident who was reported missing earlier this week, according to Israel's public broadcaster KAN News. "
     },
     {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Hamas official says Gaza truce can&#8217;t move to phase two due to Israeli ‘violations’",
+      "url": "https://www.timesofisrael.com/hamas-official-says-gaza-truce-cant-move-to-phase-two-due-to-israeli-violations/",
+      "image": null,
+      "published_at": "2025-12-09T17:33:56.000Z",
+      "summary": "Husam Badran calls on Israel to 'complete the implementation of the first phase,' open Rafah crossing; Israel has demanded terror group return last deceased hostage and disarm\nThe post Hamas official says Gaza truce can&#8217;t move to phase two due to Israeli ‘violations’ appeared first on The Time"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "סיירת חרדית ראשונה בצה״ל: לוחמה בטרור, פשיטות - ותורה",
+      "url": "https://www.ynet.co.il/news/article/ryv0tprfzl",
+      "image": null,
+      "published_at": "2025-12-09T17:31:00.000Z",
+      "summary": "לאחר הקמת חטיבת החשמונאים לחרדים, בצבא מקימים את ״סיירת החשמונאים״ שתתמקד בלוחמה בטרור ובפעילות בשטחי אויב. את הכשרת הלוחמים יובילו יוצאי קומנדו ויחידות עילית, האימונים ישולבו עם לימוד תורה ותפילות"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Jakarta office fire kills at least 22, police confirm",
+      "url": "https://www.bbc.com/news/articles/cwyp98vxk78o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6d3/live/8ebbeed0-d501-11f0-8c06-f5d460985095.png",
+      "published_at": "2025-12-09T17:28:31.000Z",
+      "summary": "The blaze in the Indonesian capital breaks out as office workers take their lunch break."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"גוררת רגליים, אסון מירון חסר תקדים בהיקפו\": הנזיפה של הנציב ביועמ\"שית",
+      "url": "https://www.ynet.co.il/news/article/r1l7warm11g",
+      "image": null,
+      "published_at": "2025-12-09T17:22:47.000Z",
+      "summary": "פרסום ראשון: מנחם פינקלשטיין, נציב התלונות על הפרקליטים, הפציר בבהרב-מיארה לקבל החלטה אם לחדש את החקירה נגד המעורבים באסון שבו קיפחו את חייהם 45 איש. \"החלטה לא נראית באופק, האסון מחייב טיפול נוקב\""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israel to open Jordan-West Bank border crossing to humanitarian aid under U.S. pressure",
+      "url": "https://www.haaretz.com/israel-news/2025-12-09/ty-article/.premium/israel-to-open-jordan-west-bank-border-crossing-to-humanitarian-aid-under-u-s-pressure/0000019b-03ae-d868-affb-5bff44c40000",
+      "image": "https://img.haarets.co.il/bs/0000019b-03c3-d868-affb-5bfb1e570006/52/0f/e9ac8b9f4b00821e29b309eb347d/305980.jpg?height=81",
+      "published_at": "2025-12-09T17:14:46.000Z",
+      "summary": "The crossing was closed in September after a Jordanian truck driver delivering aid to Gaza killed two IDF soldiers. A day after Netanyahu met with the U.S. Ambassador to the UN, a defense official said it will be reopened and allow the transit of aid between Jordan, the West Bank and Gaza"
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -20,6 +80,16 @@
       "image": "https://img.haarets.co.il/bs/0000019a-fe2c-d161-a3bb-feae6a2f0001/33/91/c9845ed1407cbc03c2f3440191bf/021677.jpg?height=81",
       "published_at": "2025-12-09T17:02:36.000Z",
       "summary": "An estimated 1,000 pastors and Christian influencers spent a week in Israel on an all-expenses-paid trip financed by the Foreign Ministry. Their itinerary included a communal prayer with the Western Wall rabbi and a warning delivered to the U.S. administration to lay off the settlements"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "LIVE: Inter Milan vs Liverpool – UEFA Champions League",
+      "url": "https://www.aljazeera.com/sports/liveblog/2025/12/9/live-inter-milan-vs-liverpool-uefa-champions-league?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T17:00:00.000Z",
+      "summary": "Follow the build-up, analysis and live text commentary as Inter host Liverpool for league-phase game at the San Siro."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -75,6 +145,16 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
+      "title": "UK’s MI5 protected IRA agent who committed murders, police report finds",
+      "url": "https://www.aljazeera.com/news/2025/12/9/uks-mi5-protected-ira-agent-who-committed-murders-police-report-finds?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T16:49:19.000Z",
+      "summary": "British security services allowed a top spy in the IRA to continue committing serious crimes, police report finds."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
       "title": "‘They broke his neck’: Families of Syria’s disappeared still seek closure",
       "url": "https://www.aljazeera.com/features/longform/2025/12/9/they-broke-his-neck-families-of-syrias-disappeared-still-seek-closure?traffic_source=rss",
       "image": null,
@@ -115,7 +195,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "אז למה קוראים לה \"ביירון\": הסופה - וההסבר",
+      "title": "אז למה קוראים לה \"ביירון\": הסערה - וההסבר",
       "url": "https://www.ynet.co.il/news/article/skz1r3bmwl",
       "image": null,
       "published_at": "2025-12-09T16:31:47.000Z",
@@ -535,11 +615,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Gaza’s displaced brace for winter storm as Israel kills one",
+      "title": "LIVE: Hamas says no Gaza truce phase two while Israel continues violations",
       "url": "https://www.aljazeera.com/news/liveblog/2025/12/9/live-gazas-displaced-brace-for-winter-storm-as-israel-kills-one?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-09T14:05:02.000Z",
-      "summary": "Authorities warn incoming storm will affect hundreds of thousands living in tents, makeshift shelters in the Gaza Strip."
+      "summary": "Official urges mediators to stop Israeli attacks, numbering 738 since ceasefire began, Gaza authorities say."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -852,16 +932,6 @@
       "summary": "18-year-old Awis Himan told the daily Al-Quds that he was assaulted by settlers near his home, abducted to a nearby outpost and severely beaten by IDF soldiers. He was later questioned by the Shin Bet security service and released the next day"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "RSF’s oilfield takeover “geopolitical push” on South Sudan",
-      "url": "https://www.aljazeera.com/video/quotable/2025/12/9/aje-onl-qt-ahmed-ibrahim-091225?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-09T11:41:58.000Z",
-      "summary": "“The RSF’s push for the oil refinery … it’s a geopolitical push to pressure South Sudan.&quot;"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -870,16 +940,6 @@
       "image": null,
       "published_at": "2025-12-09T11:39:15.000Z",
       "summary": "3 חודשים אחרי הפיגוע שבו מחבל ירדני במשאית סיוע רצח ביריות את סא\"ל במיל' יצחק הרוש וסמל אורן הרשקו, מעבר אלנבי ייפתח למעבר סחורות מירדן בהנחיית הממשלה. הבדיקות הביטחוניות החדשות, והבטחת הגורמים המדיניים: \"הירדנים השלימו את כל השינויים הביטחוניים שדרשנו - ומעבר לכך\""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Jakarta office fire kills at least 22, police confirm",
-      "url": "https://www.bbc.com/news/articles/cwyp98vxk78o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5ef/live/987b8e90-d4ec-11f0-9abd-ef7d7ff2dab9.jpg",
-      "published_at": "2025-12-09T11:33:31.000Z",
-      "summary": "The blaze in the Indonesian capital breaks out as office workers take their lunch break."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -900,16 +960,6 @@
       "image": null,
       "published_at": "2025-12-09T11:29:37.000Z",
       "summary": "אחרי שהפעילות המרכזית להשבת החלל החטוף האחרון עברה מעצרות במוצ\"ש לעריכת קבלות שבת, החל הפינוי של כיכר החטופים. בשלב זה מיצבים כמו הפסנתר של אלון אהל יישארו, ובעיריית ת\"א-יפו לא ידונו בשינוי שם הכיכר עד שרן גואילי ישוב: \"כשיגיע הזמן - נידרש לאופי ההנצחה והשימוש בה\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "‘I belong in my own country’: Syrians celebrate a year after al-Assad",
-      "url": "https://www.aljazeera.com/news/2025/12/9/i-belong-in-my-own-country-syrians-celebrate-a-year-after-al-assad?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-09T11:22:43.000Z",
-      "summary": "Al Jazeera speaks to Syrians as they celebrate one year since the fall of longtime ruler Bashar al-Assad."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -970,16 +1020,6 @@
       "image": null,
       "published_at": "2025-12-09T10:59:00.000Z",
       "summary": "בסוף שנת 2024 נשארו בישראל כ-19,600 מסתננים ועוד כ-7,100 ילדים שנולדו להם, רובם מאריתריאה (77.9%) ומסודן (11.7%). ב-2024 נכנסו לארץ יותר עובדים מהודו מאשר מתאילנד. והיכן רובם מתגוררים? "
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Likud MK threatens deputy attorney general in heated Knesset panel meeting",
-      "url": "https://www.timesofisrael.com/likud-mk-threatens-deputy-attorney-general-in-heated-knesset-panel-meeting/",
-      "image": null,
-      "published_at": "2025-12-09T10:40:25.000Z",
-      "summary": "Moshe Saada warns Gil Limon he could face same fate as former military advocate general caught in scandal, tells him to 'shut up,' drawing outrage from opposition\nThe post Likud MK threatens deputy attorney general in heated Knesset panel meeting appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1060,26 +1100,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-01ef-dfc3-ad9b-a7fffade0001/70/35/abd914eb4170acce0212115f5956/298443.jpg?height=81",
       "published_at": "2025-12-09T09:52:13.000Z",
       "summary": "Speaking to the Kan public broadcaster, an IDF officer highlighted the army's shift from a policy of 'turning a blind eye' to illegal settlers' outposts in the West Bank, to fully coordinating and ordering settler farms to be established near Palestinian villages"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "יוקר המחיה? הקואליציה חוזרת לקדם את השוואת שכר חברי הכנסת לשכר השופטים",
-      "url": "https://www.ynet.co.il/news/article/bj11snvhfbx",
-      "image": null,
-      "published_at": "2025-12-09T09:36:45.000Z",
-      "summary": "פרסום ראשון: אחרי ההחרמה הממושכת של החרדים בגלל אי קידומו של חוק הפטור מגיוס, תשוב הקואליציה לקדם הצבעות על חוקים שונים. ל-ynet נודע כי ביום רביעי תהיה הצבעה על הצעת החוק של ח\"כ בוארון מהליכוד להשוואת השכר לזה של השופטים"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "החקירה תימשך חודשים: הבקשה להרחיק את בר דוד מההסתדרות",
-      "url": "https://www.ynet.co.il/news/article/sjmp6hsfbx",
-      "image": null,
-      "published_at": "2025-12-09T09:26:27.000Z",
-      "summary": "המשטרה הגישה בקשת איסור עיסוק לשלושה חודשים לבית המשפט לקראת שחרורם ממעצר בית של יו\"ר ההסתדרות ושל סוכן הביטוח עזרא גבאי, החשודים בשוחד בפרשת \"יד לוחצת יד\". בשלב זה בהסתדרות לא עוסקים בשאלה מי ייקח חלק מסמכויות בר-דוד, וצפויים לאשר את תקציב הארגון"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1640,16 +1660,6 @@
       "image": "https://gif.haarets.co.il/bs/0000019a-f8ee-d2e4-a1ff-ffeea42c0001/45/5d/311424054fbcaa989462f8cfc410/culture-roundup-07-12-25-homepage.gif?height=81",
       "published_at": "2025-12-08T15:58:16.000Z",
       "summary": "Also coming up: The Association for LGBTQ Equality in Israel marks the death of rocker Corinne Allal, whose music became the soundtrack for secular, queer Israel, and the Rubin Museum reopens after war damage with an exhibition of paintings by Menashe Kadishman"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Benjamin Netanyahu, US President Trump to meet on Dec. 29, PMO confirms",
-      "url": "https://www.jpost.com/israel-news/article-879627",
-      "image": null,
-      "published_at": "2025-12-08T15:51:47.000Z",
-      "summary": "The Prime Minister's Office confirmed that Benjamin Netanyahu and US President Donald Trump will hold a meeting on December 29."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2400,16 +2410,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-f37f-d0ea-afff-fb7f7baf0000/52/df/48ad537744b79fb2f18530f1d0f0/026010-2.jpg?height=81",
       "published_at": "2025-12-06T11:54:05.000Z",
       "summary": "Turkey's Foreign Minister and Qatar's Prime Minister said during the Doha Forum conference that there's still a 'big question' over the formation of an international security force for Gaza and that peace in the region could only take place with the eventual establishment of a Palestinian state"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Ex-Israeli Supreme Court President: Judiciary under 'systematic delegitimization campaign'",
-      "url": "https://www.haaretz.com/israel-news/2025-12-06/ty-article/.premium/ex-pmo-legal-adviser-netanyahus-govt-reshapes-civil-service-to-attend-those-in-power/0000019a-f324-dc6c-a3ff-f7ad5fa30000",
-      "image": "https://img.haarets.co.il/bs/0000019a-f407-d0ea-afff-fe4f73700007/66/d0/33f56a6746798c16e9a0d2e7d70b/546944.jpg?height=81",
-      "published_at": "2025-12-06T10:54:41.000Z",
-      "summary": "Former President Esther Hayut warned against the 'constant erosion of statesmanship and a dangerous retreat from the rules of the democratic game.' A former legal adviser to the Prime Minister's Office said that Netanyahu's government is reshaping Israel's civil service 'to attend to those in power'"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
