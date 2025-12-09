@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-09T10:45:49.345Z",
+  "generated_at": "2025-12-09T11:08:50.089Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israeli forces foil terror network, seize rockets and explosives in Tulkarm",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-879718",
+      "image": null,
+      "published_at": "2025-12-09T12:58:07.000Z",
+      "summary": "The discovery follows a lengthy investigation that revealed the involvement of several individuals in recent assaults, including attacks on military vehicles that injured soldiers."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -20,6 +30,36 @@
       "image": null,
       "published_at": "2025-12-09T11:03:50.000Z",
       "summary": "Bennett addressed the current attempt by the government to pass a law which critics say will only moderately increase haredi service in the IDF, at the Cyber Week conference at Tel Aviv University."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Nasa astronaut and cosmonauts return to Earth after 245 days in space",
+      "url": "https://www.bbc.com/news/videos/c93n0939q5yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3aa/live/c8783b00-d4e4-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-12-09T11:02:15.000Z",
+      "summary": "Nasa's Jonny Kim and cosmonauts Sergey Ryzhikov and Alexey Zubritsky have touched down in Earth after 245 days on the ISS."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הלמ\"ס חושף: כמה מסתננים נותרו בישראל - ומאיפה מגיעים העובדים החוקיים",
+      "url": "https://www.ynet.co.il/news/article/hjxpy00bm11l",
+      "image": null,
+      "published_at": "2025-12-09T10:59:00.000Z",
+      "summary": "בסוף שנת 2024 נשארו בישראל כ-19,600 מסתננים ועוד כ-7,100 ילדים שנולדו להם, רובם מאריתריאה (77.9%) ומסודן (11.7%). ב-2024 נכנסו לארץ יותר עובדים מהודו מאשר מתאילנד. והיכן רובם מתגוררים? "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "DRC accuses Rwanda of peace deal violations as M23 advances in the east",
+      "url": "https://www.aljazeera.com/news/2025/12/9/drc-accuses-rwanda-of-peace-deal-violations-as-m23-advances-in-the-east?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T10:46:58.000Z",
+      "summary": "DRC President Tshisekedi alleges Rwanda has violated newly signed accord as M23 reportedly advances towards Uvira."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -60,6 +100,26 @@
       "image": null,
       "published_at": "2025-12-09T10:29:08.000Z",
       "summary": "בוועדת חוץ וביטחון אמר גדי איזנקוט כי לא יוותר על חוק גיוס \"גם אם המשמעות היא ללכת לסיבוב בחירות נוסף\". לדבריו, \"אנחנו נהיה בשגרת חירום להרבה מאוד שנים בעתיד הנראה לעין\". איציק סעידיאן הטיח בח\"כים: \"בושה לראות אתכם\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Florida lists Muslim rights group CAIR a ‘terror organisation’",
+      "url": "https://www.aljazeera.com/news/2025/12/9/florida-lists-muslim-rights-group-cair-a-terror?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T10:28:36.000Z",
+      "summary": "The move follows a listing by Texas last month. The NGO calls the designation &#039;unconstitutional&#039; and &#039;defamatory&#039;."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Millions of people in post-Assad Syria are still displaced",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/millions-of-people-in-post-assad-syria-are-still-displaced?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T10:28:24.000Z",
+      "summary": "As refugees return to Syria, millions in the country remain displaced. Al Jazeera’s Osama Bin Javaid visited Atmeh Camp."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -105,7 +165,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "New Israeli cyber chief Karadi: Iran has attacked every citizen in Israel multiple times",
+      "title": "Iran has attacked every Israeli citizen multiple times, new cyber chief Yossi Karadi says",
       "url": "https://www.jpost.com/israel-news/defense-news/article-879689",
       "image": null,
       "published_at": "2025-12-09T10:12:19.000Z",
@@ -140,16 +200,6 @@
       "image": null,
       "published_at": "2025-12-09T09:58:20.000Z",
       "summary": "Professional Turkish players Mert Hakan Yandas and Metehan Baltacı have been arrested following a betting investigation."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Nasa astronaut and Roscosmos cosmonauts return to Earth",
-      "url": "https://www.bbc.com/news/videos/c93n0939q5yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3aa/live/c8783b00-d4e4-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-09T09:53:47.000Z",
-      "summary": "Nasa's Jonny Kim and cosmonauts Sergey Ryzhikov and Alexey Zubritsky have touched down in Earth after 245 days on the ISS."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -732,16 +782,6 @@
       "summary": ""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israel launches new wave of air attacks on Lebanon, straining fragile truce",
-      "url": "https://www.aljazeera.com/news/2025/12/9/israel-launches-new-wave-of-air-attacks-on-lebanon-straining-fragile-truce?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-09T03:46:05.000Z",
-      "summary": "Israel says it struck Hezbollah sites in southern Lebanon, adding pressure to a US-brokered ceasefire."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -750,16 +790,6 @@
       "image": null,
       "published_at": "2025-12-09T03:23:18.000Z",
       "summary": "מושל פלורידה רון דסנטיס הודיע כי ההחלטה להגדיר את התנועה האיסלאמיסטית כארגון טרור נכנסה לתוקף באופן מיידי: \"הם קשורים לחמאס, ננקוט בכל האמצעים החוקיים כדי למנוע פעילות בלתי חוקית שלה\". טקסס הייתה הראשונה לעשות זאת, נשיא ארה\"ב הנחה את ממשלו להגדיר סניפים של התנועה כארגוני טרור "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump clears way for sale of powerful Nvidia H200 chips to China",
-      "url": "https://www.aljazeera.com/economy/2025/12/9/trump-clears-way-for-sale-of-powerful-nvidia-h200-chips-to-china?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-09T03:18:52.000Z",
-      "summary": "Trump says chipmaker will be allowed to export to &#039;approved customers&#039;, in shift away from Washington&#039;s export controls."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -780,16 +810,6 @@
       "image": null,
       "published_at": "2025-12-09T03:00:00.000Z",
       "summary": "מאז 7 באוקטובר, חוק הגיוס הפך להיות אחד הנושאים הכי רגישים במערכת הפוליטית שמאיימים על יציבות הממשלה, דווקא בשנת בחירות. החוק בגרסתו הנוכחית מעורר התנגדות - גם בתוך הקואליציה - ונתניהו נדרש לתמרן בין דרישות החרדים, לבין הלך הרוח הציבורי. במקביל, סוגיית החנינה עלולה להיות זו שתכריע האם נתניהו ישלם מח"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Ukraine’s allies say efforts to end Russia’s war at ‘critical moment’",
-      "url": "https://www.aljazeera.com/news/2025/12/9/ukraines-allies-say-efforts-to-end-russias-war-at-critical-moment?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-09T02:58:03.000Z",
-      "summary": "Zelenskyy says European allies ready to share their response to Trump&#039;s peace plan with US on Tuesday."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1130,16 +1150,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b22/live/864c04a0-d426-11f0-93c0-4fd4a05b7c18.jpg",
       "published_at": "2025-12-08T20:34:33.000Z",
       "summary": "Details of the release of the schoolchildren are still unclear and 165 people remain unaccounted for."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "איום העבר של קיש לא לשרת ופניית הח\"כ: \"יימנע ממנו להופיע בפני תלמידים?\"",
-      "url": "https://www.ynet.co.il/news/article/sj3wmsvgwx",
-      "image": null,
-      "published_at": "2025-12-08T20:21:19.000Z",
-      "summary": "הארכיון זוכר: ברשת פורסם סרטון של יואב קיש מ-2014, שבו מחה על היעדר השוויון בנטל ואיים להפסיק לשרת במילואים. הרקע: החלטתו למנוע מ\"אחים לנשק\" להיכנס לבתי הספר בגלל \"תמיכה בסרבנות\" במחאה נגד הממשלה. ח\"כ קריב פנה למנכ\"ל משרד החינוך"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1520,16 +1530,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebbe/live/e74a8590-d423-11f0-b53c-99fcb1366f6e.jpg",
       "published_at": "2025-12-08T12:19:21.000Z",
       "summary": "The EU regulator had fined the social media platform over its \"deceptive\" blue tick badges."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Minister Eliyahu Launches National Appreciation Week for IDF Wounded",
-      "url": "https://www.jpost.com/israel-news/culture/article-879591",
-      "image": null,
-      "published_at": "2025-12-08T12:04:51.000Z",
-      "summary": "Reunion with paratrooper Liran Baruch highlights the legacy and sacrifice of Israel’s wounded heroes"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
