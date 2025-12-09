@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-09T15:41:08.189Z",
+  "generated_at": "2025-12-09T16:12:34.337Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -9,7 +9,7 @@
       "url": "https://www.jpost.com/israel-news/article-879767",
       "image": null,
       "published_at": "2025-12-09T16:59:54.000Z",
-      "summary": "“If we do not investigate the entire system,\" Bar said during the conference, \"We are condemning ourselves to the next October 7.”"
+      "summary": "“If we do not investigate the entire system, we are condemning ourselves to the next October 7,\" Bar said during the conference."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -32,6 +32,16 @@
       "summary": "Border Police and IDF units evacuated four illegal outposts in Gush Etzion, Samaria, and Binyamin, following PM Netanyahu’s directive to clear 14 such sites across the West Bank."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump criticises 'decaying' European countries and 'weak' leaders",
+      "url": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df8a/live/623e1270-d515-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-12-09T16:11:46.000Z",
+      "summary": "The US president says European countries have failed to control migration or take decisive action to end Ukraine's war with Russia."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -40,6 +50,56 @@
       "image": null,
       "published_at": "2025-12-09T16:10:01.000Z",
       "summary": "This marks the fourth meeting between the two, the most recent of which was during Rubio's visit to Israel in October."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "What U.S. aid buys: Israel's American-made war machines shopping list",
+      "url": "https://www.haaretz.com/israel-news/security-aviation/2025-12-09/ty-article-magazine/.premium/what-u-s-aid-buys-israels-american-made-war-machines-shopping-list/0000019b-02b5-d0bf-a7fb-fbbd4fc00000",
+      "image": "https://img.haarets.co.il/bs/0000019b-02b6-d868-affb-5aff00b30000/85/b0/5e8f888f4b478bba8820163a1926/hp-collage2.jpg?height=81",
+      "published_at": "2025-12-09T16:01:28.000Z",
+      "summary": "With the aid agreement expiring soon, pressure is mounting from both the American left and the Trump-aligned right to scale back subsidies for Israel, even as Israel enters negotiations highly dependent on U.S.-built aircraft, munitions and defense infrastructure"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ארבעה גוונים של ביביזם",
+      "url": "https://www.ynet.co.il/news/article/hkuxahsgbl",
+      "image": null,
+      "published_at": "2025-12-09T15:52:17.000Z",
+      "summary": "כנגד ארבעה דגמי ביביזם דיברתי: הצנון, האיטרייה הפושרת, הסוכרזית והמסטיק. מי מתאים לאיזה תפקיד?"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Hamas source to ToI: We&#8217;ll hold talks on disarming, but we can&#8217;t be forced to give up guns",
+      "url": "https://www.timesofisrael.com/hamas-source-to-toi-well-hold-talks-on-disarming-but-we-cant-be-forced-to-give-up-guns/",
+      "image": null,
+      "published_at": "2025-12-09T15:48:31.000Z",
+      "summary": "In rare engagement with Israeli media, source in terror group argues weapons are used to 'liberate' Palestinians from Israeli rule, and therefore can't be ceded until statehood secured\nThe post Hamas source to ToI: We&#8217;ll hold talks on disarming, but we can&#8217;t be forced to give up guns app"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "תעלומה ליד בית גוברין: גופה אותרה בבור עמוק, החשד - רצח",
+      "url": "https://www.ynet.co.il/news/article/hy0alnsgbe",
+      "image": null,
+      "published_at": "2025-12-09T15:47:41.000Z",
+      "summary": "במהלך חיפושים אחר נעדר בן 29 מירושלים ליד היישוב כפר זוהרים אותרה גופה בבור בעומק של יותר מ-10 מטרים. כוחות מז\"פ ירדו לבור כדי לא לשבש ראיות, הגופה תישלח לאבו כביר, הוצא צו איסור פרסום - ולפי החקירה החשד הוא לרצח"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "The fight to save the Haifa protest that's become an Israeli anti-government symbol",
+      "url": "https://www.haaretz.com/israel-news/2025-12-09/ty-article-magazine/.premium/the-fight-to-save-the-haifa-protest-thats-become-an-israeli-anti-government-symbol/0000019a-fd79-d193-a1be-fff905920000",
+      "image": "https://img.haarets.co.il/bs/0000019a-fd7a-d161-a3bb-fffa58a20001/a1/34/bb3f12f74328b94f3c00580315bd/whatsapp-image-2025-12-06-at-19-14-49-1.jpg?height=81",
+      "published_at": "2025-12-09T15:46:09.000Z",
+      "summary": "Haifa's Horev Center, a symbol of Israeli resistance since 2020, faces a ban on demonstrations"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -52,6 +112,16 @@
       "summary": "Sébastien Lecornu faces a vital test to his premiership over the social security budget bill."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "טראמפ מאשר מכירת שבבים לסין, אבל זו לא מתנה, זו רצועה קצרה...",
+      "url": "https://www.ynet.co.il/news/article/skkyzthfbl",
+      "image": null,
+      "published_at": "2025-12-09T15:39:03.000Z",
+      "summary": "סין לא רק נשארת תלויה בארצות הברית, היא גם מממנת את תעשיית השבבים האמריקאית. כל משלוח H200 שמגיע לסין מייצר הכנסות שמנותבות להקמת מפעלי ייצור בתוך ארה\"ב, לחיזוק שרשראות אספקה ולבניית היתרון של המערב"
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -60,16 +130,6 @@
       "image": null,
       "published_at": "2025-12-09T15:33:13.000Z",
       "summary": "Office workers were seen climbing down ladders to escape a deadly fire in Indonesia’s capital Jakarta."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump criticises 'weak' European leaders over Ukraine and immigration",
-      "url": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a34e/live/7843f270-d50f-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-12-09T15:30:21.000Z",
-      "summary": "In his latest public criticism of Europe, the US president claims countries are \"decaying\"."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -190,16 +250,6 @@
       "image": null,
       "published_at": "2025-12-09T14:40:54.000Z",
       "summary": "The PMO dismissed reports of a Syria deal being refused, clarifying that while there were contacts under US auspices, they never progressed to any agreement or understanding."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "תעלומה ליד בית גוברין: גופה אותרה בבור עמוק",
-      "url": "https://www.ynet.co.il/news/article/hy0alnsgbe",
-      "image": null,
-      "published_at": "2025-12-09T14:30:33.000Z",
-      "summary": "במהלך חיפושים אחר נעדר ליד היישוב כפר זוהרים אותרה גופה בבור בעומק של לפחות 10 מטרים. היא תישלח למכון לרפואה משפטית. בדירה באשקלון אותרה בת 33 ללא רוח חיים, מחקירת המשטרה עולה כי אין חשד לפלילים"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -825,11 +875,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "IDF strikes responsible for nearly half of journalists killed over the past year, report finds",
+      "title": "Report finds Israeli attack in Gaza responsible for nearly half of journalists killed worldwide in 2025",
       "url": "https://www.haaretz.com/gaza/2025-12-09/ty-article/.premium/isreal-responsible-for-nearly-half-of-journalists-killed-over-the-past-year-report-finds/0000019b-028c-da20-a5bb-469c7c1f0000",
       "image": "https://img.haarets.co.il/bs/0000019b-0291-d4b0-af9b-7fd123f70000/3f/5e/7a39627b43e18398f63610a04502/698760.jpg?height=81",
       "published_at": "2025-12-09T10:31:33.000Z",
-      "summary": "The Gaza Strip remained the world's most dangerous region for reporters in the past 12 months, where 29 journalists were killed by Israeli fire, the press watchdog Reporters Without Borders said"
+      "summary": "The Gaza Strip was the world's deadliest place for journalists over the past year, with 29 killed by Israeli fire, Reporters Without Borders said. Worldwide, 67 journalists were killed during the period"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -922,16 +972,6 @@
       "summary": "המשטרה הגישה בקשת איסור עיסוק לשלושה חודשים לבית המשפט לקראת שחרורם ממעצר בית של יו\"ר ההסתדרות ושל סוכן הביטוח עזרא גבאי, החשודים בשוחד בפרשת \"יד לוחצת יד\". בשלב זה בהסתדרות לא עוסקים בשאלה מי ייקח חלק מסמכויות בר-דוד, וצפויים לאשר את תקציב הארגון"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Former hostage point man says Hamas faces &#8216;objective&#8217; hurdles in search for last body",
-      "url": "https://www.timesofisrael.com/former-hostage-point-man-says-hamas-faces-objective-hurdles-in-search-for-last-body/",
-      "image": null,
-      "published_at": "2025-12-09T09:19:23.000Z",
-      "summary": "Nitzan Alon reveals soldier Tamir Nimrodi was first captive to be accidentally killed by IDF inside Gaza, says influence of hostage rallies less 'dramatic' than people thought\nThe post Former hostage point man says Hamas faces &#8216;objective&#8217; hurdles in search for last body appeared first on"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1000,26 +1040,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-01c8-dfc3-ad9b-a7f9bdab0001/d5/71/ffd5c19e40e6b863d47fc28acaa8/057503.jpg?height=81",
       "published_at": "2025-12-09T08:16:52.000Z",
       "summary": "Villagers said that the settlers killed one of the donkeys after Israeli forces, who arrived an hour and a half after the incident, left the scene shortly after. 'People are very afraid now; they saw what was done to the donkey,' one resident said"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"תגמור כמו הפצ\"רית\": האיום על נציג היועמ\"שית בכנסת - והמהומה",
-      "url": "https://www.ynet.co.il/news/article/s1lonlsmwl",
-      "image": null,
-      "published_at": "2025-12-09T07:56:00.000Z",
-      "summary": "דיון סוער בוועדת החוקה - שם דנים בפיצול תפקיד היועץ המשפטי לממשלה. \"במקום שלך ישבו עם חיוך גם סגן הפצ\"ר, הפצ\"רית - ואתה יודע איפה הם היום\", הטיח ח\"כ סעדה במשנה ליועמ\"שית - והורה לו: \"כשאני מדבר אתה תשתוק\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"הפושעים לא דופקים חשבון\": אלמונים ירו לעבר מיניבוס ובו ילדים עם צרכים מיוחדים",
-      "url": "https://www.ynet.co.il/news/article/b1ryarrzbl",
-      "image": null,
-      "published_at": "2025-12-09T07:53:09.000Z",
-      "summary": "לזירה בשפרעם הגיעו שוטרים שפתחו בחקירת האירוע, שהסתיים עם נזק - אך ללא נפגעים. המיניבוס שייך ככל הנראה לחברה שסבלה לאחרונה מהצתות של אוטובוסים. תושבת העיר: \"חשבתי שיורים עליי וברחתי, החיים הפכו להיות מפחידים\". בחברה הערבית נרצחו השנה 241 בני אדם, מתוכם 17 ילדים ונערים"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2410,26 +2430,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd99/live/ffc28a10-d288-11f0-8c06-f5d460985095.jpg",
       "published_at": "2025-12-05T20:26:35.000Z",
       "summary": "As one of architecture's most provocative and creative forces, Frank Gehry was behind intriguing buildings the world over."
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "A 'conditional pardon' for Netanyahu? Israel's president better say no",
-      "url": "https://www.haaretz.com/opinion/2025-12-05/ty-article-opinion/.premium/a-conditional-pardon-for-netanyahu-israels-president-better-say-no/0000019a-ef70-dc6c-a3ff-effd6e390000",
-      "image": "https://img.haarets.co.il/bs/0000019a-ef79-d0ea-afff-ff7bf66a0000/3e/a2/7310c71f4270a5c907ffb09c9ea8/463837.jpg?height=81",
-      "published_at": "2025-12-05T19:10:23.000Z",
-      "summary": "If the prime minister admits guilt, drops the attempt to weaken the judiciary and backs the forming of a state commission of inquiry, is that a good deal? No. If he stays in power, he will reach for further tools to consolidate his rule"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "France reportedly seeks to extend UNIFIL mandate in Lebanon, expand its authority",
-      "url": "https://www.haaretz.com/middle-east-news/2025-12-05/ty-article/.premium/france-reportedly-seeks-to-extend-unifil-mandate-in-lebanon-expand-its-authority/0000019a-efac-db35-afbf-effcbb260000",
-      "image": "https://img.haarets.co.il/bs/0000019a-efb9-db35-afbf-effd45b80003/46/04/d61d225346d09d9cf21b37d41038/006281.jpg?height=81",
-      "published_at": "2025-12-05T19:04:49.000Z",
-      "summary": "The French initiative aims to expand UNIFIL's authority to monitor both the Lebanese-Israeli and Lebanese-Syrian borders, with discussions also considering U.K. involvement in border monitoring infrastructure, according to a report by a Hezbollah-affiliated Lebanese news outlet"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
