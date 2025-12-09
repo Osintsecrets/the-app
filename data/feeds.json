@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-09T08:14:19.580Z",
+  "generated_at": "2025-12-09T08:48:36.258Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Netanyahu trial: Hearing opens in Tel Aviv, questioning continues on Case 4000",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-879690",
+      "image": null,
+      "published_at": "2025-12-09T10:25:08.000Z",
+      "summary": "Netanyahu was indicted in 2020 on the charges of bribery, fraud, and breach of trust in three separate cases: 1000, 2000, and 4000. "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,56 @@
       "image": null,
       "published_at": "2025-12-09T10:12:19.000Z",
       "summary": "Tehran hacked into parking and other road cameras to \"track the movements of Israeli VIPs, with the aim of building operations to target and harm them,\" Karadi said."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Kibbutz Be&#8217;eri votes to demolish all buildings damaged on October 7, bar one",
+      "url": "https://www.timesofisrael.com/kibbutz-beeri-votes-to-demolish-all-buildings-damaged-on-october-7-bar-one/",
+      "image": null,
+      "published_at": "2025-12-09T08:34:02.000Z",
+      "summary": "After months of debate, community decides to preserve one house for testimony; community director, says, 'We rebuild, remember, commemorate —  and continue to live'\nThe post Kibbutz Be&#8217;eri votes to demolish all buildings damaged on October 7, bar one appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "גבר נהרג בנפילה מגובה בשרון, נבדק אם עסק בקטיף קלמנטינות",
+      "url": "https://www.ynet.co.il/news/article/h1ibeisfwe",
+      "image": null,
+      "published_at": "2025-12-09T08:24:51.000Z",
+      "summary": "צוות מד\"א שאיתר את האיש, כבן 70, מחוסר הכרה ועם חבלת ראש ביישוב פרדסיה קבע את מותו בזירה"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli settlers slaughter a donkey they stole from a Palestinian child in the West Bank",
+      "url": "https://www.haaretz.com/israel-news/2025-12-09/ty-article/.premium/israeli-settlers-slaughter-a-donkey-the-stole-from-a-palestinian-child-in-the-west-bank/0000019b-01c8-dfc3-ad9b-a7f9bc770000",
+      "image": "https://img.haarets.co.il/bs/0000019b-01c8-dfc3-ad9b-a7f9bdab0001/d5/71/ffd5c19e40e6b863d47fc28acaa8/057503.jpg?height=81",
+      "published_at": "2025-12-09T08:16:52.000Z",
+      "summary": "Villagers said that the settlers killed one of the donkeys after Israeli forces, who arrived an hour and a half after the incident, left the scene shortly after. 'People are very afraid now; they saw what was done to the donkey,' one resident said"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Death roll rises as renewed hostilities flare along Thai-Cambodia border",
+      "url": "https://www.aljazeera.com/news/2025/12/9/death-roll-rises-as-renewed-hostilities-flare-along-thai-cambodia-border?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T08:12:43.000Z",
+      "summary": "Both sides have decided to continue the fighting, as the Thai navy launches an operation to expel Cambodian troops."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Record numbers of Ukrainians desert army amid losses to Russia",
+      "url": "https://www.aljazeera.com/news/2025/12/9/record-numbers-of-ukrainians-desert-army-amid-losses-to-russia?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T08:10:12.000Z",
+      "summary": "Thousands of soldiers have fled the army despite the threat of jail or social isolation."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -22,10 +82,20 @@
       "summary": "“There is low intensity crimes of vengeance because people know their tormentors.”"
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Why are Thailand and Cambodia fighting at the border?",
+      "url": "https://www.bbc.com/news/articles/cdjxje2pje1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfaa/live/53d6fa40-6877-11f0-af20-030418be2ca5.jpg",
+      "published_at": "2025-12-09T07:58:35.000Z",
+      "summary": "The roots of the South East Asian neighbours' dispute go back more than a century."
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "ח\"כ מהליכוד איים על נציג היועמ\"שית: \"אתה תגמור כמו הפצ\"רית\"",
+      "title": "\"תגמור כמו הפצ\"רית\": האיום על נציג היועמ\"שית בכנסת - והמהומה | שידור ישיר",
       "url": "https://www.ynet.co.il/news/article/s1lonlsmwl",
       "image": null,
       "published_at": "2025-12-09T07:56:00.000Z",
@@ -375,7 +445,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Gaza remains deadliest region for journalists in past 12 months, report finds",
+      "title": "Israeli forces raid two Palestinian universities in the West Bank, reports say",
       "url": "https://www.haaretz.com/israel-news/2025-12-09/ty-article-live/idf-hits-several-hezbollah-targets-across-southern-lebanon/0000019b-0138-de33-a59f-fbf913f50000",
       "image": "https://img.haarets.co.il/bs/0000019b-0074-dfc3-ad9b-a77d34670001/06/65/1215bfd34c0eaaf9bebbce527a41/2025-12-08t120216z-522104810-rc2qbia9fqk7-rtrmadp-3-israel-palestinians-last-hostage-personal.JPG?height=81",
       "published_at": "2025-12-09T03:52:06.000Z",
@@ -727,7 +797,7 @@
       "topic": "News",
       "title": "Australia's social media ban for children has left big tech scrambling",
       "url": "https://www.bbc.com/news/articles/ce86381p70eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128d/live/c5d18d60-d4d6-11f0-9fb5-5f3a3703a365.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1596/live/3d6ef900-d4d9-11f0-8c06-f5d460985095.jpg",
       "published_at": "2025-12-08T22:28:38.000Z",
       "summary": "The policy is the culmination of years of pressure on firms over online safety."
     },
@@ -750,16 +820,6 @@
       "image": null,
       "published_at": "2025-12-08T22:19:37.000Z",
       "summary": "Sa'ar expected to meet with Bolivia's foreign, finance ministers in DC to sign agreement negotiated after Latin American country elected first right-wing president in two decades\nThe post Israel announces it will renew ties with Bolivia, two years after Gaza war rupture appeared first on The Times o"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Cal State investigating professor seen coaching class to oppose antisemitism bill",
-      "url": "https://www.timesofisrael.com/cal-state-investigating-professor-seen-coaching-class-to-oppose-antisemitism-bill/",
-      "image": null,
-      "published_at": "2025-12-08T22:14:49.000Z",
-      "summary": "Video shows Melina Abdullah, a prominent activist instructor at the LA university, telling students Israeli interests have subverted Congress, discussing violent revolution in US\nThe post Cal State investigating professor seen coaching class to oppose antisemitism bill appeared first on The Times of"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -910,26 +970,6 @@
       "image": null,
       "published_at": "2025-12-08T20:45:21.000Z",
       "summary": "The Palestinian Civil Defence exhumed the bodies of more than 150 people who were quickly buried at al-Shifa Hospital. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump announces $12bn package to aid farmers hurt by his tariffs",
-      "url": "https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-08T20:41:34.000Z",
-      "summary": "Farmers have been dogged by trade wars that have seen reduced purchases and increased prices on seeds and fertiliser. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-08T20:38:35.000Z",
-      "summary": "UN chief Antonio Guterres condemned Israel’s raid on the East Jerusalem compound of UN Palestinian refugee agency UNRWA."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1282,16 +1322,6 @@
       "summary": "Nigeria sent fighter jets to help oust the mutineers from the national broadcaster and a military camp."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "קרע במחנה האנטי-חות'י בתימן: שליחי האמירויות כבשו שטחים מנאמני סעודיה",
-      "url": "https://www.ynet.co.il/news/article/by6w6u4f11l",
-      "image": null,
-      "published_at": "2025-12-08T15:27:44.000Z",
-      "summary": "ארצו של בן סלמאן הובילה את הקואליציה שיצאה ב-2015 למתקפה על החות'ים וכללה גם את האמירויות, אבל כעת, כשהמורדים הפרו-איראנים שולטים בצנעא והממשלה התימנית נצורה בדרום, מוצאות עצמן השתיים משני צדי המתרס: בני חסותה של האמירויות מה-STC יצאו למסע כיבושים, סילקו את שותפיה של ריאד משדות נפט, וחולמים להקים מח"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1450,16 +1480,6 @@
       "image": null,
       "published_at": "2025-12-08T11:07:08.000Z",
       "summary": "Mike Waltz crossed into Israel for his first visit as the US Ambassador to the UN, following his visit to Jordan."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Hezbollah 'double agents' infiltrated Lebanese army, IDF's Intelligence Directorate fears",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-879582",
-      "image": null,
-      "published_at": "2025-12-08T10:44:54.000Z",
-      "summary": "Sources in the Intelligence Directorate asserted that Hezbollah succeeded in sending its agents into positions where they can influence public policy and threaten the government."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2440,16 +2460,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-edfa-d0ea-afff-fffb9d650000/b4/b6/be14aab64c4cb0b9cfad2b63ed60/430241.jpg?height=81",
       "published_at": "2025-12-05T12:40:04.000Z",
       "summary": "Opposition parties would win 69 seats if an election were held on the day the poll was conducted, while Likud remains the largest party with 25 projected seats. Far-right Religious Zionism party would win four seats, after previously failing to clear the electoral threshold"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "'Qatar is gaining a foothold in Hollywood – and with it, influence over the U.S.'",
-      "url": "https://www.haaretz.com/israel-news/2025-12-05/ty-article-magazine/.highlight/qatar-is-gaining-a-foothold-in-hollywood-and-with-it-influence-over-the-u-s/0000019a-eb41-dc6c-a3ff-efcd299b0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-eb42-d0ea-afff-fb4b853e0006/d5/02/44776bd54116aff794a817de73ad/63909737.JPG?height=81",
-      "published_at": "2025-12-05T11:58:55.000Z",
-      "summary": "Effi Lifshitz, who has worked in and documented America's fabled film industry, talks about the turn it's taking in the 'post-liberal' era"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
