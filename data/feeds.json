@@ -1,6 +1,86 @@
 {
-  "generated_at": "2025-12-09T00:44:18.957Z",
+  "generated_at": "2025-12-09T02:29:16.984Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Watch: Nasa astronaut and cosmonauts begin voyage back to Earth",
+      "url": "https://www.bbc.com/news/videos/c93n0939q5yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1383/live/654940f0-d4a4-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-12-09T02:19:19.000Z",
+      "summary": "Jonny Kim, along with Russian cosmonauts Sergey Ryzhikov and Alexey Zubritsky, will touchdown in Kazakhstan after 245 days on the ISS."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Agent-tracking app ICEBlock sues Trump administration in free speech fight",
+      "url": "https://www.aljazeera.com/news/2025/12/9/agent-tracking-app-iceblock-sues-trump-administration-in-free-speech-fight?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T01:53:05.000Z",
+      "summary": "The Trump administration has accused ICEBlock of making federal agents vulnerable to attack and called for its removal."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia-Ukraine war: List of key events, day 1,384",
+      "url": "https://www.aljazeera.com/news/2025/12/9/russia-ukraine-war-list-of-key-events-day-1384?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T01:49:09.000Z",
+      "summary": "These are the key developments from day 1,384 of Russia’s war on Ukraine."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Prominent NY rabbi: Mamdani understood Jewish community fissures better than we did",
+      "url": "https://www.timesofisrael.com/prominent-ny-rabbi-mamdani-understood-jewish-community-fissures-better-than-we-did/",
+      "image": null,
+      "published_at": "2025-12-09T01:41:31.000Z",
+      "summary": "At assembly for American Zionist Movement, Rabbi Elliot Cosgrove calls for 'a new chapter of American Zionism' that welcomes a diversity of viewpoints\nThe post Prominent NY rabbi: Mamdani understood Jewish community fissures better than we did appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Dozens injured after magnitude 7.5 quake strikes northern Japan",
+      "url": "https://www.bbc.com/news/articles/c7091k5pg31o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc83/live/bec8ccb0-d49d-11f0-b551-c948c3e8b5a0.jpg",
+      "published_at": "2025-12-09T01:38:00.000Z",
+      "summary": "Authorities have warned that a stronger tremor could occur in the coming days.  "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump slaps Mexico with 5 percent tariff over violations of water treaty",
+      "url": "https://www.aljazeera.com/news/2025/12/9/trump-slaps-mexico-with-5-percent-tariff-over-violations-of-water-treaty?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T01:37:56.000Z",
+      "summary": "Leaders on both sides of the border have faced pressure from farmers and ranchers to secure more water for their farms."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Paramount challenges Netflix bid to buy Warner Bros., with help from Jared Kushner",
+      "url": "https://www.timesofisrael.com/paramount-challenges-netflix-bid-to-buy-warner-bros-with-help-from-jared-kushner/",
+      "image": null,
+      "published_at": "2025-12-09T01:15:08.000Z",
+      "summary": "Also putting up cash for takeover offer are sovereign wealth companies from Saudi Arabia, Qatar and Abu Dhabi, and fellow Trump ally Larry Ellison, whose son runs Paramount\nThe post Paramount challenges Netflix bid to buy Warner Bros., with help from Jared Kushner appeared first on The Times of Isra"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Deri: Shas won&#8217;t support 2026 budget until Haredi kids get food-stamp funds",
+      "url": "https://www.timesofisrael.com/deri-shas-wont-support-2026-budget-until-haredi-kids-get-food-stamp-funds/",
+      "image": null,
+      "published_at": "2025-12-09T00:53:46.000Z",
+      "summary": "Ultra-Orthodox party head accuses Finance Ministry of altering criteria to exclude ultra-Orthodox; $86 million were promised to the party in 2025 as part of coalition agreement\nThe post Deri: Shas won&#8217;t support 2026 budget until Haredi kids get food-stamp funds appeared first on The Times of I"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -195,11 +275,11 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "How Australia found itself battling big tech over social media for children",
+      "title": "Australia's social media ban for children has left big tech scrambling",
       "url": "https://www.bbc.com/news/articles/ce86381p70eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e1d/live/fcf22b70-d48a-11f0-a892-01d657345866.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9973/live/efe61210-d49a-11f0-a892-01d657345866.jpg",
       "published_at": "2025-12-08T22:28:38.000Z",
-      "summary": "Australia's policy is the culmination of years of pressure on tech companies over online safety, experts say."
+      "summary": "The policy is the culmination of years of pressure on firms over online safety."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -272,6 +352,16 @@
       "summary": "Speaking in Rome at a conference for PM Giorgia Meloni's party, former hostage Rom Braslavski described the “horror” he witnessed on October 7 and the torture he endured in Gaza captivity."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"היינו תחת זכוכית מגדלת - ויום אחד זה נפסק\": ביקור במאחז שמגלם את השינוי של יו\"ש ",
+      "url": "https://www.ynet.co.il/news/article/yokra14606240",
+      "image": null,
+      "published_at": "2025-12-08T22:00:00.000Z",
+      "summary": "לפחות 10 פינויים עברו במאחז נחלת צבי בחודשיים שלפני הבחירות האחרונות, אלא שמאז כניסת הממשלה הנוכחית למשרדים הם בונים בראש שקט. \"כל הזמן היו מסתובבים פה פקחים וחיילים\", מספרים שם על אותה תקופה. כך נראה  השינוי שמובילים סמוטריץ' וסטרוק, והחשש של הפלסטינים: \"סיפוח דה פקטו\""
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -309,7 +399,7 @@
       "url": "https://www.aljazeera.com/news/2025/12/8/acting-us-attorney-alina-habba-resigns-new-jersey-post-amid-controversy?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-08T21:44:00.000Z",
-      "summary": "A federal appeals court this month upheld Habba&#039;s &#039;disqualification&#039; as US attorney, despite Trump&#039;s attacks on judges."
+      "summary": "A federal appeals court this month upheld Habba&#039;s disqualification as US attorney, despite Trump&#039;s attacks on judges."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -320,16 +410,6 @@
       "image": null,
       "published_at": "2025-12-08T21:41:56.000Z",
       "summary": "Netanyahu says his corruption trial endangers Israel and demands a pardon. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Major earthquake strikes Japan's north-east coast",
-      "url": "https://www.bbc.com/news/articles/c7091k5pg31o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81cc/live/5aeab5a0-d457-11f0-9aed-598bbb04d197.jpg",
-      "published_at": "2025-12-08T21:35:21.000Z",
-      "summary": "The magnitude 7.6 tremor prompts orders to evacuate residents."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -782,26 +862,6 @@
       "summary": "One year after Assad’s fall, Syrians are clinging to fragile hope and rebuilding not just cities, but trust."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Far-right MKs sport noose-shaped pins at hearing on controversial death penalty bill",
-      "url": "https://www.timesofisrael.com/far-right-mks-sport-noose-shaped-pins-to-hearing-on-controversial-death-penalty-bill/",
-      "image": null,
-      "published_at": "2025-12-08T17:17:35.000Z",
-      "summary": "Ben Gvir draws condemnation after display at Knesset meeting; MKs pushing bill mandating capital punishment are told its language may not be constitutional\nThe post Far-right MKs sport noose-shaped pins at hearing on controversial death penalty bill appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Trump to host Netanyahu on December 29 for talks on advancing Gaza plan",
-      "url": "https://www.timesofisrael.com/netanyahu-to-meet-trump-december-29-for-talks-on-advancing-gaza-plan/",
-      "image": null,
-      "published_at": "2025-12-08T17:13:28.000Z",
-      "summary": "PM's fifth US meeting with president this year to reportedly take place in Florida; his US trip may extend over week; US's UN envoy Waltz discusses need for 'stability' in West Bank with Jordan's king\nThe post Trump to host Netanyahu on December 29 for talks on advancing Gaza plan appeared first on "
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -922,16 +982,6 @@
       "summary": "The Prime Minister's Office confirmed that Benjamin Netanyahu and US President Donald Trump will hold a meeting on December 29."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Police raid UNRWA offices in East Jerusalem, raise Israeli flag over compound",
-      "url": "https://www.timesofisrael.com/police-raid-unrwa-offices-in-east-jerusalem-raise-israeli-flag-over-compound/",
-      "image": null,
-      "published_at": "2025-12-08T15:44:31.000Z",
-      "summary": "Authorities say they seized assets over debts related to unpaid municipal taxes, but UNRWA says it's exempt from local levies under a UN convention ratified by Israel\nThe post Police raid UNRWA offices in East Jerusalem, raise Israeli flag over compound appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1030,36 +1080,6 @@
       "image": null,
       "published_at": "2025-12-08T15:24:17.000Z",
       "summary": "\"We're at the last stretch, and we have to be strong, for Rani, for us, and for Israel. Without Rani, our country can't heal,\" Talik Gvili told Reuters."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Memories of liberation and hope for the future: A Damascene’s story",
-      "url": "https://www.aljazeera.com/features/2025/12/8/memories-of-liberation-and-hope-for-the-future-a-damascenes-story?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-08T15:22:14.000Z",
-      "summary": "When al-Assad fell, Mohamad Yamen finally felt free. On the first anniversary, he speaks of his hopes for the future."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Inter Milan vs Liverpool: Champions League – Salah, team, start and lineups",
-      "url": "https://www.aljazeera.com/sports/2025/12/8/inter-milan-vs-liverpool-champions-league-salah-team-start-and-lineups?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-08T15:16:20.000Z",
-      "summary": "Inter host a Liverpool team in turmoil after star Mo Salah said he was being scapegoated by the club for its poor form."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Salvadoran attorney forced into exile by home raid",
-      "url": "https://www.aljazeera.com/video/unmute/2025/12/8/salvadoran-attorney-forced-into-exile-by-home-raid?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-08T15:15:43.000Z",
-      "summary": "Salvadoran attorney forced into exile by home raid"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1300,16 +1320,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebbe/live/e74a8590-d423-11f0-b53c-99fcb1366f6e.jpg",
       "published_at": "2025-12-08T12:19:21.000Z",
       "summary": "The EU regulator had fined the social media platform over its \"deceptive\" blue tick badges."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הכתה את בנה התינוק - ותיעדה: \"אמא שלך מרביצה לך בעזה?\" | האישום המזעזע",
-      "url": "https://www.ynet.co.il/news/article/hjpvu44fbx",
-      "image": null,
-      "published_at": "2025-12-08T12:16:31.000Z",
-      "summary": "אישום הוגש נגד אישה ממזרח ירושלים שהתעללה ב-6 ילדיה, אחרי שאב המשפחה דיווח למשטרה על מכות ואיומי רצח שספגו ילדיו - והיא נעצרה. אחד הילדים קיבל אגרוף לפנים, האם תיעדה את האלימות: \"איפה הרווחה?\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
