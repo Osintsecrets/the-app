@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-12-09T14:11:17.074Z",
+  "generated_at": "2025-12-09T14:45:01.723Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Eight New Olim Celebrate Their First Hanukkah as Israelis",
+      "url": "https://www.jpost.com/israel-news/culture/article-879747",
+      "image": null,
+      "published_at": "2025-12-09T16:29:27.000Z",
+      "summary": "The holiday of light takes on new meaning for new immigrants building a home in Israel"
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Border Police, IDF evacuate four illegal outposts across West Bank",
+      "url": "https://www.jpost.com/israel-news/article-879750",
+      "image": null,
+      "published_at": "2025-12-09T16:27:08.000Z",
+      "summary": "Border Police and IDF units evacuated four illegal outposts in Gush Etzion, Samaria, and Binyamin, following PM Netanyahu’s directive to clear 14 such sites across the West Bank."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -22,14 +42,94 @@
       "summary": "The PMO dismissed reports of a Syria deal being refused, clarifying that while there were contacts under US auspices, they never progressed to any agreement or understanding."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בת 33 נמצאה ללא רוח חיים באשקלון",
+      "url": "https://www.ynet.co.il/news/article/hy0alnsgbe",
+      "image": null,
+      "published_at": "2025-12-09T14:30:33.000Z",
+      "summary": ""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Sacked agents sue FBI, saying they were punished for taking the knee",
+      "url": "https://www.bbc.com/news/articles/cjezd4ednn3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f94/live/dc5523e0-d507-11f0-bca9-0ba5af666dd6.jpg",
+      "published_at": "2025-12-09T14:28:47.000Z",
+      "summary": "The group say adopting a gesture used by protesters helped to defuse tensions during a 2020 demonstration."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "How did China’s trade surplus hit $1 trillion?",
+      "url": "https://www.aljazeera.com/news/2025/12/9/how-did-chinas-trade-surplus-hit-1-trillion?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T14:28:39.000Z",
+      "summary": "Donald Trump’s trade tariffs have failed to hold back China&#039;s export dominance, which scaled new heights in November."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "European basketball returns to Israel nearly 800 days after the Gaza war began",
+      "url": "https://www.haaretz.com/israel-news/sports/2025-12-09/ty-article-magazine/.premium/european-basketball-returns-to-israel-nearly-800-days-after-the-gaza-war-began/0000019b-02dc-d0bf-a7fb-fbdd61700000",
+      "image": "https://img.haarets.co.il/bs/0000019b-02fa-d153-abbf-eeff0c140007/bb/25/984bafb84481b5adaccc00eeef84/559308.jpg?height=81",
+      "published_at": "2025-12-09T14:22:43.000Z",
+      "summary": "On Tuesday, Hapoel Jerusalem will face Hamburg, and on Thursday, Maccabi will meet French side Villeurbanne, much like before the war. Next Tuesday, Hapoel Tel Aviv will take on Red Star Belgrade. European basketball is returning to Israel after its post-October 7 hiatus, but the revival remains fra"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "A coup too far: Why Benin's rebel soldiers failed where others in the region succeeded",
+      "url": "https://www.bbc.com/news/articles/c9vj7xjxwypo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7617/live/a4a4a5b0-d502-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-12-09T14:20:38.000Z",
+      "summary": "Plotters misjudged the national mood and Benin's neighbours learnt from past errors, says analyst Paul Melly."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "I Love You More: The Search for a Father in Syria’s Lost Memories",
+      "url": "https://www.aljazeera.com/video/digidocs/2025/12/9/aje-onl-digidocs_iloveyoumore-091225?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T14:17:14.000Z",
+      "summary": "Against Syria’s war, director Nour Alkheder seeks her father in her memories, rebuilding fragments of an uprooted life."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Who are the groups controlling Yemen?",
+      "url": "https://www.aljazeera.com/news/2025/12/9/who-are-the-groups-controlling-yemen?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T14:16:11.000Z",
+      "summary": "The Southern Transitional Council says it now controls eight governorates in southern Yemen."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Israel to reopen Allenby Crossing to Jordan for transfer of goods to West Bank, Gaza",
+      "title": "Israel to reopen Allenby Crossing for transfer of goods from Jordan to Gaza, West Bank",
       "url": "https://www.jpost.com/israel-news/article-879737",
       "image": null,
       "published_at": "2025-12-09T14:13:36.000Z",
       "summary": "According to the source, necessary security upgrades at the crossing have been completed on both the Israeli and Jordanian sides."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "חצי שנת מאסר לאיש חמאס על הסתה ואיומים לרצח ראש מועצת שומרון",
+      "url": "https://www.ynet.co.il/news/article/bkz3ypvgwg",
+      "image": null,
+      "published_at": "2025-12-09T14:12:03.000Z",
+      "summary": "המחבל, תושב קוסרה שליד שכם, כבר שוחרר למרות גזר הדין, מכיוון שנעצר עוד במרץ. ראש המועצה דגן: \"צריכים לדעת שכל מי שמסית, מאיים או מנסה לרצוח יהודי, מדינת ישראל תפעל נגדו בכל הנחישות\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -42,10 +142,40 @@
       "summary": "Brazilian officials say thieves held up a security guard and an elderly couple before making off with the artworks on foot in São Paulo."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Is family still the foundation of society, or is it time to redefine it?",
+      "url": "https://www.aljazeera.com/video/doha-debates/2025/12/9/is-family-still-the-foundation-of-society-or-is-it-time-to-redefine-it?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T14:07:28.000Z",
+      "summary": "As families evolve, people worldwide are questioning what family means and whether traditional models still fit today."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "עצים ועמודים עלולים לקרוס, סכנת הצפה בחניון | כך תכינו את הבית ל\"ביירון\" - ואיך לנהוג בכביש",
+      "url": "https://www.ynet.co.il/news/article/s1pbilsfbl",
+      "image": null,
+      "published_at": "2025-12-09T14:07:19.000Z",
+      "summary": "הגשמים יתחזקו היום, ושיא הסערה יגיע בלילה שבין רביעי לחמישי. בעיריות החלו להתכונן לבואה של \"ביירון\", אך התריעו: \"אף מערכת ניקוז בארץ לא תוכל לעמוד בזה באופן מושלם\". צעדי הבטיחות שיש לנקוט - והתחזית להמשך השבוע"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "LIVE: Gaza’s displaced brace for winter storm as Israel kills one",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/12/9/live-gazas-displaced-brace-for-winter-storm-as-israel-kills-one?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-09T14:05:02.000Z",
+      "summary": "Authorities warn incoming storm will affect hundreds of thousands living in tents, makeshift shelters in the Gaza Strip."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Israel, Thailand mourn together as slain Thai hostage returns home in touching ceremony",
+      "title": "Israel, Thailand mourn together as slain Thai hostage Rinthalak returns home in touching ceremony",
       "url": "https://www.jpost.com/israel-news/article-879735",
       "image": null,
       "published_at": "2025-12-09T13:52:17.000Z",
@@ -295,7 +425,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Why is IndiGo airline cancelling thousands of flights?",
+      "title": "Thousands of travellers stranded in India as IndiGo airline cancels flights",
       "url": "https://www.aljazeera.com/video/newsfeed/2025/12/9/why-is-indigo-airline-cancelling-thousands-of-flights?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-09T12:02:57.000Z",
@@ -662,26 +792,6 @@
       "summary": "Israeli forces in Gaza were responsible for 40 percent of journalist deaths, and jailed huge numbers also."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "How much money will it take to rebuild Syria?",
-      "url": "https://www.aljazeera.com/video/money-works/2025/12/9/how-much-money-will-it-take-to-rebuild-syria?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-09T10:06:13.000Z",
-      "summary": "Now one year after the fall of al-Assad, how much will it cost to rebuild the country?"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Turkiye jails footballers Baltaci, Yandas pending trial in betting probe",
-      "url": "https://www.aljazeera.com/sports/2025/12/9/turkiye-jails-footballers-baltaci-yandas-pending-trial-in-betting-probe?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-09T09:58:20.000Z",
-      "summary": "Professional Turkish players Mert Hakan Yandas and Metehan Baltacı have been arrested following a betting investigation."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -700,36 +810,6 @@
       "image": null,
       "published_at": "2025-12-09T09:36:45.000Z",
       "summary": "פרסום ראשון: אחרי ההחרמה הממושכת של החרדים בגלל אי קידומו של חוק הפטור מגיוס, תשוב הקואליציה לקדם הצבעות על חוקים שונים. ל-ynet נודע כי ביום רביעי תהיה הצבעה על הצעת החוק של ח\"כ בוארון מהליכוד להשוואת השכר לזה של השופטים"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Australia’s social media ban",
-      "url": "https://www.aljazeera.com/video/digital-dilemma/2025/12/9/australias-social-media-ban?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-09T09:29:50.000Z",
-      "summary": "Al Jazeera&#039;s Linh Nguyen breaks down Australia&#039;s social media ban."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israel attacked Syria more than 600 times over the past year",
-      "url": "https://www.aljazeera.com/news/2025/12/9/israel-attacked-syria-more-than-600-times-over-the-past-year?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-09T09:28:21.000Z",
-      "summary": "In the last year, Israel averaged nearly two daily attacks on Syria and grabbed more land in the occupied Golan Heights."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "2025 on track to tie for second hottest year on record, EU monitor says",
-      "url": "https://www.aljazeera.com/news/2025/12/9/2025-on-track-to-tie-for-second-hottest-year-on-record-eu-monitor-says?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-09T09:26:31.000Z",
-      "summary": "This year &#039;virtually certain&#039; to end up second or third warmest on record, Copernicus Climate Change Service says."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -755,11 +835,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Former U.K. Prime Minister Tony Blair became a frequent visitor to Netanyahu's office during the Gaza war",
+      "title": "Tony Blair became a frequent visitor to Netanyahu's office during the Gaza war",
       "url": "https://www.haaretz.com/israel-news/2025-12-09/ty-article/.premium/ex-u-k-pm-tony-blair-became-a-frequent-visitor-to-netanyahus-office-during-the-gaza-war/0000019b-0222-dfc3-ad9b-a77b04dc0000",
       "image": "https://img.haarets.co.il/bs/0000019b-023a-de33-a59f-fafbb1f00000/78/a7/4acadfa245a6821395dba1de6a05/436382.jpg?height=81",
       "published_at": "2025-12-09T09:19:15.000Z",
-      "summary": "Blair is seen as a key figure in advancing international 'day after' plans for Gaza, though several sources say he was pushed aside amid Egyptian opposition. Egyptian billionaire Naguib Sawiris, floated as a possible candidate for a Gaza council, visited Israel this week"
+      "summary": "The former British prime minister is seen as a key figure in advancing international 'day after' plans for Gaza, though several sources say he was pushed aside amid Egyptian opposition. Egyptian billionaire Naguib Sawiris, floated as a possible candidate for a Gaza council, visited Israel this week"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -799,7 +879,7 @@
       "url": "https://www.ynet.co.il/news/article/h17kkdhmze",
       "image": null,
       "published_at": "2025-12-09T08:58:17.000Z",
-      "summary": "10 חודשים לפני הבחירות לכנסת ה-26, מבקר המדינה אנגלמן הניף דגל אדום וקרא לממשלה בכנס סייבר להיערך לאפשרות של פגיעה חיצונית בהליך: \"צריך להתעשת ולשפר מוכנות. יש היערכות לקויה להשפעות זרות\""
+      "summary": "10 חודשים לפני הבחירות לכנסת ה-26, מבקר המדינה אנגלמן הניף דגל אדום וקרא לממשלה בכנס סייבר להיערך לאפשרות של פגיעה חיצונית בהליך: \"צריך להתעשת ולשפר מוכנות. יש היערכות לקויה להשפעות זרות\". בנט: ההחלטה הראשונה - ביטול חוק ההשתמטות"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -940,36 +1020,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5763/live/ba249f60-d4a5-11f0-9fb5-5f3a3703a365.jpg",
       "published_at": "2025-12-09T05:14:59.000Z",
       "summary": "Indian authorities confirmed the two brothers boarded a flight to Phuket in Thailand shortly after the incident."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "השופטים חייבים לפסוק כשהם רואים לנגד עיניהם פנים זועמות",
-      "url": "https://www.ynet.co.il/news/article/yokra14606453",
-      "image": null,
-      "published_at": "2025-12-09T05:10:24.000Z",
-      "summary": "המגננה שאליה נכנסה המערכת הביאה אותה להתרחק מכל מי שסירב לומר אמן אחר כל החלטותיה ולסמן את המוחים נגדה באולם כציבור מוסת ומאורגן"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "עם מי תישאר, שר ההשתמטות?",
-      "url": "https://www.ynet.co.il/news/article/yokra14606534",
-      "image": null,
-      "published_at": "2025-12-09T05:05:09.000Z",
-      "summary": "אין צורך להסכים עם כל מילה שהוציא מהפה כל פעיל ב\"אחים לנשק\", אבל בכל מה שקשור לאהבת ישראל, להתנדבות, להתנגדות להשתמטות – הם חלק מהרוב. כך שלא נגד גילטמן יוצא השר כ\"ץ, אלא נגד רוב מוחלט של המשרתים"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בין אושוויץ לבארי",
-      "url": "https://www.ynet.co.il/news/article/yokra14606923",
-      "image": null,
-      "published_at": "2025-12-09T04:59:02.000Z",
-      "summary": "יישובים בעל כורחם הופכים למוקד מחלוקת בין הנצחה לתקומה. ההבנה הזו ממחישה את הצורך בתפקוד יעיל יותר של המדינה בשימור המורשת הלאומית"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1535,16 +1585,6 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Mother of last Israeli hostage in Gaza: Peace plan cannot proceed until Ran Gvili is home",
-      "url": "https://www.jpost.com/israel-news/article-879622",
-      "image": null,
-      "published_at": "2025-12-08T15:24:17.000Z",
-      "summary": "\"We're at the last stretch, and we have to be strong, for Rani, for us, and for Israel. Without Rani, our country can't heal,\" Talik Gvili told Reuters."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
       "title": "Israel Katz approves IDF chief's appointments, holds off General Staff approvals amid public spat",
       "url": "https://www.jpost.com/israel-news/defense-news/article-879623",
       "image": null,
@@ -1560,16 +1600,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-fdba-d161-a3bb-ffba83e40000/b0/43/d628be864db5ae095920521df9a2/053757.jpg?height=81",
       "published_at": "2025-12-08T15:08:38.000Z",
       "summary": "StopAntisemitism, an organization that claims to represent Jews, blacklisted beloved educator Ms. Rachel because she sees Palestinians as humans. Her absurd nomination, at a time when antisemitism is rising, reflects how compassion itself is being demonized"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israeli star Yam Madar shines as Hapoel Tel Aviv wins in Israeli basketball action",
-      "url": "https://www.jpost.com/israel-news/sports/article-879620",
-      "image": null,
-      "published_at": "2025-12-08T14:35:46.000Z",
-      "summary": "Hapoel Tel Aviv rides Madar’s return • Walker, Maccabi TA cruise • Jerusalem escapes Kiryat Ata"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1690,16 +1720,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42e5/live/70c7e010-d4e2-11f0-9fb5-5f3a3703a365.jpg",
       "published_at": "2025-12-08T07:08:13.000Z",
       "summary": "The half-buried body of 24-year-old Toyah Cordingley was discovered by her father in October 2018."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Japan protests after Chinese fighter jets lock radar on Japanese planes",
-      "url": "https://www.bbc.com/news/articles/c5yqe197ypno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecfa/live/b2ab4a60-d3ef-11f0-a491-cd2872d4d993.jpg",
-      "published_at": "2025-12-08T07:03:46.000Z",
-      "summary": "Tokyo has vowed a 'calm and resolute' response as tensions with Beijing continue to escalate."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2420,16 +2440,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca4a/live/f2ec4ad0-d1f5-11f0-9fb5-5f3a3703a365.jpg",
       "published_at": "2025-12-05T19:02:48.000Z",
       "summary": "Designer Nerida Hansen admits failing customers who ordered textiles worth thousands of dollars from her businesses."
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israeli cabinet passes 2026 budget, boosts defense spending through ministry cuts and deficit hike",
-      "url": "https://www.haaretz.com/israel-news/2025-12-05/ty-article/.premium/cabinet-passes-2026-budget-boosts-defense-spending-through-ministry-cuts-and-deficit-hike/0000019a-ee96-dc6c-a3ff-ee9f1b360000",
-      "image": "https://img.haarets.co.il/bs/0000019a-ed24-dc6c-a3ff-edad589b0001/ef/9a/fddf028a4a6d956659e43ba29eaa/003671.jpg?height=81",
-      "published_at": "2025-12-05T16:30:48.000Z",
-      "summary": "Cabinet approval of the budget is only the first step toward enactment, after which Finance Ministry officials will draft it into a bill for an initial Knesset vote by mid-January, with failure to pass it by the March 31 deadline resulting in the Knesset's dissolution"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
