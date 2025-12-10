@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-12-10T17:43:02.067Z",
+  "generated_at": "2025-12-10T18:15:06.927Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Mossad Chief Barnea announces new deputy director with approval from Prime Minister Netanyahu",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-879945",
+      "image": null,
+      "published_at": "2025-12-10T19:51:55.000Z",
+      "summary": "Prime Minister Benjamin Netanyahu approved the appointment of A., a candidate with 20 years of experience at the agency, as the new deputy director for the Mossad."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF declares curfew, all army activities reduced to essentials only ahead of Storm Byron",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-879944",
+      "image": null,
+      "published_at": "2025-12-10T19:45:39.000Z",
+      "summary": "The new orders reduced all military activities to essential-only status, prohibiting troops from leaving the base to go home for the weekend and any naval exercises during the storm."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -32,6 +52,66 @@
       "summary": "\"An initial inspection conducted indicates that the ship was not in distress but merely lost contact,\" the Transportation Ministry said in a statement."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Iceland becomes fifth country to boycott Eurovision",
+      "url": "https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58e/live/cf008100-d5e1-11f0-b1c1-a1fc4155147e.png",
+      "published_at": "2025-12-10T18:13:02.000Z",
+      "summary": "Iceland joins Spain, Ireland, Slovenia and the Netherlands in saying it will boycott the 2026 contest."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "UN rights office in ‘survival mode’ amid deep funding cuts",
+      "url": "https://www.aljazeera.com/news/2025/12/10/un-rights-office-in-survival-mode-amid-deep-funding-cuts?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-10T17:59:05.000Z",
+      "summary": "The United Nations High Commissioner for Human Rights said the shortfall has already led to 300 job losses."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "תושב רמלה נורה למוות בשטחי הרשות הפלסטינית, הרקע פלילי",
+      "url": "https://www.ynet.co.il/news/article/syntyvvfzl",
+      "image": null,
+      "published_at": "2025-12-10T17:55:24.000Z",
+      "summary": "ענאן אבו רקיק נרצח בקלקיליה, המשטרה הפלסטינית חוקרת את המקרה. הרקע: ככל הנראה פלילי"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US federal judge halts Trump’s National Guard operations in California",
+      "url": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-10T17:49:35.000Z",
+      "summary": "California Governor Newsom celebrates court victory against Trump’s extended National Guard presence in Los Angeles."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הטלטלה במוסד: א' לא פורש, ויכהן כסגן המועמד החיצוני שנתניהו הנחית",
+      "url": "https://www.ynet.co.il/news/article/byfxw4vmzx",
+      "image": null,
+      "published_at": "2025-12-10T17:49:20.000Z",
+      "summary": "א', בכיר במוסד שהיה המועמד המוביל בתוך הארגון להחליף את דוד ברנע, ימונה לסגנו של ראש הארגון שנתניהו הנחית מבחוץ - מזכירו הצבאי אלוף רומן גופמן"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ukraine at critical moment, European leaders say after Trump call",
+      "url": "https://www.bbc.com/news/articles/c5y20p7xweko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/babc/live/6b869110-d5ea-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-12-10T17:45:14.000Z",
+      "summary": "\"Intensive work\" is continuing, the leaders of Britain, France and Germany say after a joint call with Donald Trump."
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -39,7 +119,7 @@
       "url": "https://www.aljazeera.com/video/2025/12/10/watch-palestine-prepare-for-historic-fifa-arab-cup-clash-with-saudi-arabia?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-10T17:37:07.000Z",
-      "summary": "Palestine face Saudi Arabia in the quarterfinals of the FIFA Arab Cup, the first time the former have reached this stage"
+      "summary": "Palestine face Saudi Arabia in the FIFA Arab Cup quarterfinals, the first time the former have reached this stage."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -87,7 +167,7 @@
       "topic": "News",
       "title": "Nobel Peace Prize winner's daughter accepts award on her behalf",
       "url": "https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c9c/live/0899efd0-d5ad-11f0-aaf9-cfb9de77e0db.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afcc/live/be771d30-d5f0-11f0-8c06-f5d460985095.jpg",
       "published_at": "2025-12-10T17:27:49.000Z",
       "summary": "Venezuelan opposition leader María Corina Machado, who lives in hiding, is reportedly on her way to Oslo."
     },
@@ -192,16 +272,6 @@
       "summary": "Follow the build-up, analysis and live text commentary of the game as Madrid host City at the Santiago Bernabeu Stadium."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Iceland becomes fifth country to boycott Eurovision",
-      "url": "https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58e/live/cf008100-d5e1-11f0-b1c1-a1fc4155147e.png",
-      "published_at": "2025-12-10T16:58:59.000Z",
-      "summary": "Iceland joins Spain, Ireland, Slovenia and the Netherlands in saying it will boycott the 2026 contest."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -292,16 +362,6 @@
       "summary": "The Gaza ceasefire agreement is preparing to enter phase two, even as the first phase fell short of its promises."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Ukraine 'ready for elections' if partners guarantee security, Zelensky says",
-      "url": "https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70b/live/0d0ede80-d59f-11f0-bb2f-35f722db3215.jpg",
-      "published_at": "2025-12-10T16:26:50.000Z",
-      "summary": "He was speaking after US President Donald Trump repeated claims Kyiv was \"using war\" to avoid elections. "
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -345,11 +405,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "העדות הקשה של הנערה הדרוזית שנאנסה בידי מחבל דאעש בסוריה: \"גרר אותי על המקפיא\"",
+      "title": "העדות הקשה של הנערה הדרוזית שנאנסה בידי ג'יהאדיסטים בסוריה: \"גרר אותי על המקפיא\"",
       "url": "https://www.ynet.co.il/news/article/sy6nxn8zwl",
       "image": null,
       "published_at": "2025-12-10T16:01:16.000Z",
-      "summary": "באירוע שנערך במטה האו\"ם בשווייץ, הוקרנה עדותה של בת 14 ממחוז א-סווידא שסיפרה על רגע האימה שבו נאנסה במהלך הטבח בדרוזים - בחסות אנשי א-שרע: \"היו בבית יותר מ-20 מחבלים, הם איימו על המשפחה שלי\". גם הנערה היזידית שנחטפה לעזה מעיראק דיברה, מנהיג העדה הדרוזית בישראל: \"העולם שתק\""
+      "summary": "באירוע שנערך במטה האו\"ם בשווייץ, הוקרנה עדותה של בת 14 ממחוז א-סווידא שסיפרה על רגע האימה שבו נאנסה במהלך הטבח - בידי אנשי א-שרע ומחבל דאעש: \"היו בבית יותר מ-20 מחבלים, איימו על המשפחה שלי\". גם הנערה היזידית שנחטפה לעזה מעיראק דיברה, מנהיג העדה הדרוזית בישראל: \"העולם שתק\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -992,16 +1052,6 @@
       "summary": "Assistant-Chief Meni Benjamin allegedly maintained personal contact with Salam without reporting the relationship to the proper authorities and is also suspected of sharing police information"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Video: Brazil lawmaker stages protest in chamber over Bolsonaro",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/brazil-lawmaker-stages-protest-in-chamber-over-bolsonaro?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-10T11:33:36.000Z",
-      "summary": "A Brazilian lawmaker was removed from Congress by police on Tuesday as he staged a protest against a bill."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1010,16 +1060,6 @@
       "image": null,
       "published_at": "2025-12-10T11:23:51.000Z",
       "summary": "תקלה טכנית במערכת מיון המזוודות בטרמינל 3 גרמה לעיכובים, והביאה את רשות שדות התעופה להפעיל \"מתכונת חלופית\". למייל האדום של ynet סיפרו גולשים: \"אין קבלת נוסעים באף אחת מהחברות\". התקלה תוקנה אחרי כשעתיים: \"חזרנו לפעילות מלאה ושגרתית\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Climate change will make the world “much nastier place”",
-      "url": "https://www.aljazeera.com/video/quotable/2025/12/10/climate-change-will-make-the-world-much-nastier?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-10T11:21:47.000Z",
-      "summary": "“The cost of action is far less than the cost of inaction.” "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1162,16 +1202,6 @@
       "summary": "משמר בתי המשפט ביקש להוציא מהאולם הורים שכולים שהגיעו לדיון. הם דחו את הטענות שהניפו שלט, ובסופו של דבר לא הוצאו. אשל אמר לשופטים: \"אין לנו כוח נפשי לפרובוקציות, באנו להסתכל לאדוני בעיניים\". השופטים לפרקליטות והמשטרה: מסרו לנו מסמכים פנימיים על אישור היועמ\"ש לחקירת תיק 1000"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "מינוי יאיר נכשל, ונתניהו מקדם: ג'וב יוקרתי למקורבת לרעייתו במוסדות הלאומיים",
-      "url": "https://www.ynet.co.il/news/article/bjhn5jlzwg",
-      "image": null,
-      "published_at": "2025-12-10T08:51:43.000Z",
-      "summary": "פרסום ראשון: נתניהו מקדם ליו\"ר קרן היסוד את שפרה שחר, מנכ\"לית עמותה למען חיילי צה\"ל. המינוי מעורר התנגדות מצד גורמים במוסד שעוסקים בגיוס כספים: \"אין לה מוכרות בעולם, אנשי העסקים בקרן כבר בלמו את מינויה בעבר\""
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1180,16 +1210,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-03a4-dda6-a7fb-37e54aca0001/b1/a1/26f73d524107a83d92988a41d803/754590.jpg?height=81",
       "published_at": "2025-12-10T08:48:45.000Z",
       "summary": ""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "החשד: מפקד להב 433 שיתף את ראש העיר לשעבר במידע בזמן החקירה - וניסה להסיט אותה",
-      "url": "https://www.ynet.co.il/news/article/hj09asimzx",
-      "image": null,
-      "published_at": "2025-12-10T08:29:32.000Z",
-      "summary": "שעות אחרי מעצר ראש העיר נצרת לשעבר ובכירי ארגון הפשע בכרי, חשפה מח\"ש את החשדות נגד ניצב מני בנימין. סנגורו: \"הטענות מופרכות ומביכות\". המשטרה פשטה על העירייה"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1610,26 +1630,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-044e-df61-a7fb-4cdf1cb70001/7e/7c/8618329e433789cb75bdd1bda5c7/064150.jpg?height=81",
       "published_at": "2025-12-09T20:04:14.000Z",
       "summary": "The Israeli officer killed in the 2014 Gaza war and held in the enclave until last month; in an IDF tour for journalists, army officials tried to frame his return as a military achievement, even though it was secured through an agreement with Hamas"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Revised haredi draft bill 'historic mistake,' security threat, Eisenkot warns Knesset panel",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-879788",
-      "image": null,
-      "published_at": "2025-12-09T19:58:48.000Z",
-      "summary": "Additionally, former prime minister Naftali Bennett said if elected, he would cancel the government's haredi IDF exemption bill."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Gideon Sa'ar 'laughs off' Mamadani's threat to arrest Netanyahu in 'New York Post' interview",
-      "url": "https://www.jpost.com/israel-news/article-879785",
-      "image": null,
-      "published_at": "2025-12-09T19:40:06.000Z",
-      "summary": " Sa'ar also slammed Hamas's refusal to disarm and lay down its weapons in accordance with the US-backed Gaza peace deal."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
