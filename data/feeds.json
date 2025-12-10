@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-12-10T20:11:23.375Z",
+  "generated_at": "2025-12-10T20:44:04.303Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Several Israelis attempt to cross into Gaza, escorted back to Israel by IDF",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-879961",
+      "image": null,
+      "published_at": "2025-12-10T22:23:35.000Z",
+      "summary": "The people were under constant observation while inside Gaza, the IDF assured. The suspects were then handed over to the Israel Police for processing. "
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "80 km. on foot: Sharren Haskel’s three-day march in protest of haredi draft bill - interview",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-879960",
+      "image": null,
+      "published_at": "2025-12-10T22:09:32.000Z",
+      "summary": "“I couldn’t just sit there and continue to argue and see they’re not changing their minds,” Haskel told the Post about the marathon discussions on the bill taking place in the Knesset."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -29,7 +49,57 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-879949",
       "image": null,
       "published_at": "2025-12-10T20:48:05.000Z",
-      "summary": "The mission allegedly didn't manage to lead to the actual identification of Mengistu, nor to Hamas' preparations for an attack, sources familiar with the matter told KAN."
+      "summary": "The mission reportedly failed to identify Mengistu, and also did not detect Hamas' preparations for an attack, sources familiar with the matter told KAN."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"ביירון\" מגיעה לשיא: כמויות הגשם, מוקדי הסופה - ומה צפוי הלאה",
+      "url": "https://www.ynet.co.il/news/article/sjv4ghpfbg",
+      "image": null,
+      "published_at": "2025-12-10T20:33:25.000Z",
+      "summary": "עד מחר בערב צפויה הסערה \"ביירון\" להביא בין 100 ל-150 מ\"מ גשם במישור החוף הדרומי ובשפלה, השיא: בשעות היום. בת\"א נמדדו במהלך היממה האחרונה כ-55 מ\"מ, בזכרון יעקב כמעט 50, באשדוד כ-33. בשישי מזג האוויר אמור להתייצב, עד אז הודיעו בצה\"ל על עוצר יציאות. התיעודים מרחבי הארץ - ומכ\"ם המשקעים"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "IDF goes into lockdown, limits activities as Storm Byron washes over Israel",
+      "url": "https://www.timesofisrael.com/idf-goes-into-lockdown-limits-activities-as-storm-byron-washes-over-israel/",
+      "image": null,
+      "published_at": "2025-12-10T20:26:49.000Z",
+      "summary": "Israel Meteorological Service issues red warning for central, southern coastal region as storm due to intensify overnight; conditions in Gaza worsen as thousands of tents flooded\nThe post IDF goes into lockdown, limits activities as Storm Byron washes over Israel appeared first on The Times of Israe"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "עם \"סירות מתאבדות\": אוקראינה הפציצה שוב מכלית נפט רוסית | תיעוד",
+      "url": "https://www.ynet.co.il/news/article/rji2zbdzwg",
+      "image": null,
+      "published_at": "2025-12-10T20:26:19.000Z",
+      "summary": "ספינה מ\"צי הצללים\" של מוסקבה הושבתה אחרי שהותקפה במים הכלכליים של אוקראינה בים השחור - במתקפה השלישית מסוגה בתוך שבועיים. \"נמשיך לפעול כדי להפחית את ההכנסות של הרוסים מנפט\", אמרו בקייב. האירוע תועד במצלמות כלי השיט הבלתי מאוישים שתקפו. פוטין איים - ולעג: \"אלו מתקפות פיראטיות\""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israel isn't prepared to deal with electoral influence campaigns. Chaos will ensue",
+      "url": "https://www.haaretz.com/israel-news/2025-12-10/ty-article-magazine/.premium/israel-isnt-prepared-to-deal-with-electoral-influence-campaigns-chaos-will-ensue/0000019b-089f-df61-a7fb-489fa6f00000",
+      "image": "https://img.haarets.co.il/bs/0000019b-08a9-d2fe-a3df-49bbe19e0001/ed/13/4ba48fb348349c64e5f7a24d8a15/273257.jpg?height=81",
+      "published_at": "2025-12-10T20:18:59.000Z",
+      "summary": "There is no country in the world without online influence campaigns, and Israel is not doing enough to address domestic influence actors. With the government going full steam ahead with the judicial coup, there is little chance any 2026 electoral result will go uncontested"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "יד ביד עם אבו מאזן: המתקפה של מנהיג ספרד - שדורש \"פיצויים לקורבנות רצח העם\"",
+      "url": "https://www.ynet.co.il/news/article/rji7rrvzzl",
+      "image": null,
+      "published_at": "2025-12-10T20:08:19.000Z",
+      "summary": "פדרו סנצ'ס העניק כבוד מלכים ליו\"ר הרשות הפלסטינית בארמון מונקלואה שבמדריד, וצעד עמו בידיים שלובות: \"פלסטין - מדינה אחות\". את ישראל שב והאשים ברצח עם, והבטיח ש\"האחראים יישאו באחריות, במוקדם ובמאוחר\". כך הגיבו בירושלים"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -40,6 +110,16 @@
       "image": null,
       "published_at": "2025-12-10T19:59:32.000Z",
       "summary": "Reversing his earlier decision, district judge cites transparency act relating to disgraced financier as intending to make material public, cautions to preserve victim privacy\nThe post Justice Department can unseal Epstein&#8217;s 2019 sex trafficking case records: judge appeared first on The Times "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump administration seizes oil tanker off Venezuela coast: Reports",
+      "url": "https://www.aljazeera.com/news/2025/12/10/trump-admin-seizes-oil-tanker-off-venezuela-coast-reports?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-10T19:55:41.000Z",
+      "summary": "This is a breaking news story."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -72,6 +152,16 @@
       "summary": "The new orders reduced all military activities to essential-only status, prohibiting troops from leaving the base to go home for the weekend and any naval exercises during the storm."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Oldest evidence of deliberate fire use found in England",
+      "url": "https://www.aljazeera.com/news/2025/12/10/oldest-evidence-of-deliberate-fire-use-found-in-england?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-10T19:44:30.000Z",
+      "summary": "Experts suggest humans made fire 350,000 years earlier than previously thought, scientists say."
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -79,7 +169,7 @@
       "url": "https://www.ynet.co.il/news/article/s1hzxzpfwe",
       "image": null,
       "published_at": "2025-12-10T19:43:27.000Z",
-      "summary": "גבול השלום וההברחות עם ירדן נתפס במשך שנים כגזרה משנית, אך מתקפת הפתע של חמאס ב-7/10 שינתה את התפיסה מקצה לקצה - ובישראל מזהים איום איראני בגבול המזרחי. כעת, נפרסים כוחות צה\"ל מחדש באזור, מאיישים מוצבים שננטשו בעבר - ומקימים 5 חטיבות של מילואימניקים מבוגרים שנקראו להתנדב"
+      "summary": "גבול השלום וההברחות עם ירדן נתפס במשך שנים כגזרה משנית, אך מתקפת הפתע של חמאס ב-7/10 שינתה את התפיסה מקצה לקצה - ובישראל מזהים איום איראני בגבול המזרחי. כעת נפרסים כוחות צה\"ל מחדש באזור, מאיישים מוצבים שננטשו בעבר - ומקימים 5 חטיבות של מילואימניקים מבוגרים שנקראו להתנדב"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -242,6 +332,16 @@
       "summary": "Smotrich says units in Hashmonaim, Beitar Illit, and Givat Ze'ev part of 'strategic move' to bolster settlements; Palestinian Authority says policy 'aims to ignite the region'\nThe post Israel approves construction of 764 houses in three West Bank settlements appeared first on The Times of Israel.\n"
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Sarkozy releases prison diaries about his 20 days behind bars",
+      "url": "https://www.bbc.com/news/articles/c8r30py751mo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b4a/live/9e7c17e0-d5f2-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-12-10T18:43:10.000Z",
+      "summary": "The former French president was jailed for taking part in an election campaign funding conspiracy."
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -265,7 +365,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Iceland to join boycott of Eurovision in protest at Israel’s involvement",
+      "title": "Iceland joins boycott of Eurovision 2026 in protest at Israel’s involvement",
       "url": "https://www.aljazeera.com/news/2025/12/10/iceland-to-join-boycott-of-eurovision-in-protest-at-israels-involvement?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-10T18:35:32.000Z",
@@ -762,16 +862,6 @@
       "summary": "Chile’s Palestino FC, where football, identity and resistance unite in a powerful act of Palestinian representation."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvMDV0",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "To Pardon, or Not to Pardon? - Sponsored Content",
-      "url": "https://toi.li/05tijh",
-      "image": null,
-      "published_at": "2025-12-10T15:34:03.000Z",
-      "summary": "As President Herzog weighs whether to pardon Prime Minister Netanyahu, Israel stands at a juncture between justice and stability. \nThe post To Pardon, or Not to Pardon? appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1002,26 +1092,6 @@
       "summary": "Former player Tatjana Haenni is named the new chief executive, making her the first female boss in the Bundesliga."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Removing Blair from Gaza’s TPC is necessary correction of historic mistake",
-      "url": "https://www.aljazeera.com/opinions/2025/12/10/removing-blair-from-gazas-tpc-is-necessary-correction-of-historic-mistake-2?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-10T12:51:44.000Z",
-      "summary": "Tony Blair’s anticipated role quickly emerged as a source of deep concern for many stakeholders."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Hamas leader abroad says Palestinians in Gaza must be given chance to heal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/hamas-leader-says-palestinians-in-gaza-must-be-given-chance-to-heal?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-10T12:49:04.000Z",
-      "summary": "Head of Hamas Abroad, Khaled Meshaal, tells Al Jazeera that Palestinians must heal from Israel&#039;s genocide."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1192,16 +1262,6 @@
       "summary": "תקלה טכנית במערכת מיון המזוודות בטרמינל 3 גרמה לעיכובים, והביאה את רשות שדות התעופה להפעיל \"מתכונת חלופית\". למייל האדום של ynet סיפרו גולשים: \"אין קבלת נוסעים באף אחת מהחברות\". התקלה תוקנה אחרי כשעתיים: \"חזרנו לפעילות מלאה ושגרתית\""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "גבר נהרג בפיצוץ רכב בצומת נהלל. החשד - הוביל מטען חבלה: \"החריד את האזור\"",
-      "url": "https://www.ynet.co.il/news/article/r1apurlgwx",
-      "image": null,
-      "published_at": "2025-12-10T11:19:00.000Z",
-      "summary": "ברכב שהתפוצץ בכביש 73 אותרה גופת גבר. שני עוברי אורח נפגעו קלות - ולא נזקקו לטיפול. \"זה היה מפחיד מאוד - חריג בעמק\", אמרה ל-ynet תושבת נהלל. במשטרה מעריכים: תושב האזור הוביל מטען חבלה - שהתפוצץ באופן לא צפוי"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1210,16 +1270,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-4ee6-d2eb-afda-cee725830000/16/be/793ada6f4a6b98b1bddfbdfdaa03/996613.jpg?height=81",
       "published_at": "2025-12-10T11:15:26.000Z",
       "summary": "As a clinical psychologist who treats shell-shocked and an author whose novels have been translated into dozens of languages, Ayelet Gunder-Goshen clearly articulates the moral conflict of life in Israel"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"חייב לדווח על חברות עם יעד משטרתי\": האזנות הסתר, גרסת מפקד להב - והפשיטה בעירייה",
-      "url": "https://www.ynet.co.il/news/article/r100nfpizbg",
-      "image": null,
-      "published_at": "2025-12-10T11:13:43.000Z",
-      "summary": "שוטרים פשטו על בניין העירייה בנצרת ופרצו את דלת המשרד הנעולה של מנהל האכיפה והשיטור. החשד נגד מפקד להב 433 ששיתף את ראש העיר לשעבר במידע עלה בחקירה הסמויה - אך בינתיים לא הוכח שנתן אזהרה מראש לחברו. מקורבים למני בנימין: הם הכירו באופן טבעי כשהיה מפקד תחנה בעיר, לפני שנפתחה חקירה"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1260,16 +1310,6 @@
       "image": null,
       "published_at": "2025-12-10T11:04:09.000Z",
       "summary": "Approximately 1 million eligible voters in Israel are immigrants from the former Soviet Union, part of a wider Russian-speaking community that comprises roughly 15% of the population."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אושר בטרומית: לוין ימנה \"תובע מיוחד\" לחקירת היועמ\"שית, שכר הח\"כים יושווה לשופטים",
-      "url": "https://www.ynet.co.il/news/article/hklse0igwg",
-      "image": null,
-      "published_at": "2025-12-10T11:02:18.000Z",
-      "summary": "הכנסת אישרה בקריאה טרומית את שתי הצעות החוק של הקואליציה. האחת קובעת כי שר המשפטים יוכל למנות תובע שיחקור את היועמ\"שית או את פרקליט המדינה, השנייה - שנחשפה ב-ynet - מעוררת סערה בגלל שני התרחישים שהיא עשויה להביא: הורדת שכר השופטים - או העלאת זה של הח\"כים"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1432,16 +1472,6 @@
       "summary": "His groundbreaking field research was instrumental in banning the international ivory trade and protecting elephants from poachers."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Man who grabbed Ariana Grande kicked out of Lady Gaga concert",
-      "url": "https://www.bbc.com/news/articles/cx2e0n3p9vvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07f/live/dbe63200-d5a2-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-12-10T03:03:53.000Z",
-      "summary": "The incident in Australia comes after the man was jailed for nine days and deported from Singapore for public nuisance."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1502,16 +1532,6 @@
       "summary": "The mastiff mix from Oklahoma City broke the previous record with his tongue measuring in at 7.83in (19.89cm)."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "In the eye of Storm Byron: Israeli, Cypriot, Greek authorities continue search for missing yacht",
-      "url": "https://www.jpost.com/environment-and-climate-change/article-879804",
-      "image": null,
-      "published_at": "2025-12-09T23:34:08.000Z",
-      "summary": "There were five people aboard the vessel, and their current condition remains unknown."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1520,16 +1540,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-f8bc-d2e4-a1ff-ffbcd10b0005/21/3f/5bf3a988413f9d764c430ccc6beb/922284.jpg?height=81",
       "published_at": "2025-12-09T22:42:18.000Z",
       "summary": "The full text of the legislation, which has been unveiled in the Knesset, calls for a new five-member committee to appoint the head of the Police Internal Investigations Department – with three of them appointed by the justice minister or his director general"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "‘This is significant’: Danon says Waltz’s Israel visit reflects Washington’s commitment to region",
-      "url": "https://www.jpost.com/israel-news/article-879797",
-      "image": null,
-      "published_at": "2025-12-09T22:23:25.000Z",
-      "summary": "“Ambassador Waltz chose Israel and Jordan in order to better understand the on-the-ground realities."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2462,16 +2472,6 @@
       "summary": "According to the Health Ministry, the flu is spreading earlier and more aggressively this year than in previous seasons. Many infants and toddlers have been hospitalized with flu-related complications"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "The first Israeli filmmaker to see an Arab as a human worthy of being a protagonist",
-      "url": "https://www.haaretz.com/opinion/2025-12-08/ty-article-opinion/.premium/the-first-israeli-filmmaker-to-see-an-arab-as-a-human-worthy-of-being-a-protagonist/0000019a-fa17-d161-a3bb-fe9769d50000",
-      "image": "https://img.haarets.co.il/bs/0000019a-fa17-d161-a3bb-fe9767b60000/25/95/b407ac9642a3be390f56039dbc92/64046969.JPG?height=81",
-      "published_at": "2025-12-07T23:18:23.000Z",
-      "summary": "Ram Loevy became the clear voice of the Israeli conscience and a guiding light for many filmmakers in Israel. His point of departure was always to scrutinize the tragedy we have created, which has been part of our experience from the very beginning"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -2490,16 +2490,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04c2/live/083382f0-d2e6-11f0-a892-01d657345866.jpg",
       "published_at": "2025-12-06T15:08:31.000Z",
       "summary": "For the past two years all public Christmas celebrations have been cancelled in Bethlehem in the occupied West Bank."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Lured by lucrative job offers and sent to fight for Russia - Kenyans want their sons back",
-      "url": "https://www.bbc.com/news/articles/c20gn2d51l1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f8/live/3a778300-d1fc-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-12-06T00:57:01.000Z",
-      "summary": "Kenyan families whose sons have been duped into fighting for Russia demand they be brought home."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
