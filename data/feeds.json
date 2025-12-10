@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-10T10:11:33.329Z",
+  "generated_at": "2025-12-10T10:46:17.137Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Katz, Zamir strike new partial deal on October 7 probes, top IDF appointments",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-879862",
+      "image": null,
+      "published_at": "2025-12-10T12:43:50.000Z",
+      "summary": "The largest remaining issues are the fate of Tishler and the next Air Force chief, as well as the next defense attache in Washington."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -52,14 +62,34 @@
       "summary": "Approximately 1 million eligible voters in Israel are immigrants from the former Soviet Union, part of a wider Russian-speaking community that comprises roughly 15% of the population."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
       "topic": "News",
-      "title": "Katz meets Zamir, appears to fold on demand for new IDF probes into Oct. 7",
-      "url": "https://www.timesofisrael.com/katz-meets-zamir-appears-to-fold-on-demand-for-new-idf-probes-into-oct-7/",
+      "title": "Trump vows to make US affordable again, as Americans feel the pinch",
+      "url": "https://www.bbc.com/news/articles/ckgl63lrpkmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d2e/live/94a4e5d0-d575-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-12-10T10:37:41.000Z",
+      "summary": "The president says he is focused on \"making America affordable again\", as cost of living becomes a campaign issue."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Gunfire as rebels target key DR Congo city despite Trump peace deal",
+      "url": "https://www.bbc.com/news/articles/cly59283d7ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f879/live/9fbd2730-d5a1-11f0-bb2f-35f722db3215.jpg",
+      "published_at": "2025-12-10T10:26:34.000Z",
+      "summary": "Schools and shops remain closed in Uvira amid fears that rebels have seized some administrative buildings."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Mohamed Salah: Egypt teammates rally behind unsettled teammate before AFCON",
+      "url": "https://www.aljazeera.com/sports/2025/12/10/mohamed-salah-egypt-teammates-rally-behind-unsettled-teammate-before-afcon?traffic_source=rss",
       "image": null,
-      "published_at": "2025-12-10T09:50:10.000Z",
-      "summary": "Defense establishment comptroller will 'observe' military's 'supplementary investigations,' not conduct full independent review\nThe post Katz meets Zamir, appears to fold on demand for new IDF probes into Oct. 7 appeared first on The Times of Israel.\n"
+      "published_at": "2025-12-10T10:24:34.000Z",
+      "summary": "Salah&#039;s relationship with Liverpool is strained, but the disgruntled star will be welcomed by Egypt teammates for AFCON."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -68,8 +98,38 @@
       "title": "Ukraine 'ready for elections' if partners guarantee security, Zelensky says",
       "url": "https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70b/live/0d0ede80-d59f-11f0-bb2f-35f722db3215.jpg",
-      "published_at": "2025-12-10T09:42:20.000Z",
+      "published_at": "2025-12-10T10:21:14.000Z",
       "summary": "He was speaking after US President Donald Trump repeated claims Kyiv was \"using war\" to avoid elections. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Palestine is on a historic run in the Arab Cup, amidst Gaza devastation",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/palestine-is-on-a-historic-run-in-the-arab-cup-amidst-gaza-devastation?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-10T10:19:04.000Z",
+      "summary": "Palestine has made history in the Arab Cup, reaching the quarterfinals for the first time. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "DRC fighting forces 200,000 people to flee as M23 advances, dozens killed",
+      "url": "https://www.aljazeera.com/news/2025/12/10/drc-fighting-pushes-200000-people-to-flee-as-m23-advance-dozens-killed?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-10T10:18:04.000Z",
+      "summary": "As rebels push into Uvira, soldiers flee towards neighbouring Burundi, alongside thousands of civilians."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Katz meets Zamir, appears to fold on demand for new IDF probes into Oct. 7",
+      "url": "https://www.timesofisrael.com/katz-meets-zamir-appears-to-fold-on-demand-for-new-idf-probes-into-oct-7/",
+      "image": null,
+      "published_at": "2025-12-10T09:50:10.000Z",
+      "summary": "Defense establishment comptroller will 'observe' military's 'supplementary investigations,' not conduct full independent review\nThe post Katz meets Zamir, appears to fold on demand for new IDF probes into Oct. 7 appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -159,7 +219,7 @@
       "url": "https://www.ynet.co.il/news/article/hyxgv2lzzl",
       "image": null,
       "published_at": "2025-12-10T09:03:13.000Z",
-      "summary": "משמר בתי המשפט ביקש להוציא מהאולם הורים שכולים שהגיעו לדיון. הם דחו את הטענות שהניפו שלט, ובסופו של דבר לא הוצאו. \"אין לנו כוחות נפשיים לפרובוקציות, באנו להסתכל לאדוני בעיניים\", אמר אשל לשופטים"
+      "summary": "משמר בתי המשפט ביקש להוציא מהאולם הורים שכולים שהגיעו לדיון. הם דחו את הטענות שהניפו שלט, ובסופו של דבר לא הוצאו. אשל אמר לשופטים: \"אין לנו כוח נפשי לפרובוקציות, באנו להסתכל לאדוני בעיניים\". השופטים לפרקליטות והמשטרה: מסרו לנו מסמכים פנימיים על אישור היועמ\"ש לחקירת תיק 1000"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -407,7 +467,7 @@
       "topic": "News",
       "title": "French far-right leader tells BBC he shares US warnings on Europe 'for most part'",
       "url": "https://www.bbc.com/news/articles/cz7nrze7g8wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e03/live/7600b6c0-d59f-11f0-a892-01d657345866.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf34/live/a493ccd0-d5b2-11f0-9fb5-5f3a3703a365.jpg",
       "published_at": "2025-12-10T06:00:08.000Z",
       "summary": "The US's new National Security Strategy suggests Europe is facing \"civilisational erasure\"."
     },
@@ -655,16 +715,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Trump touts upbeat message on economy as Americans feel the pinch",
-      "url": "https://www.bbc.com/news/articles/ckgl63lrpkmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d2e/live/94a4e5d0-d575-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-10T03:09:33.000Z",
-      "summary": "The president says he is focused on \"making America affordable again\", as cost of living becomes a campaign issue."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Man who grabbed Ariana Grande kicked out of Lady Gaga concert",
       "url": "https://www.bbc.com/news/articles/cx2e0n3p9vvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07f/live/dbe63200-d5a2-11f0-9fb5-5f3a3703a365.jpg",
@@ -705,9 +755,9 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israeli forces detain dozens of Palestinians in overnight West Bank raids, reports say",
+      "title": "'You owe us answers': Oct. 7 parents confront Netanyahu at his trial, demand state inquiry",
       "url": "https://www.haaretz.com/israel-news/2025-12-10/ty-article-live/israels-shin-bet-chief-on-october-7-state-inquiry-is-only-way-to-probe-hamas-attack/0000019b-0584-d868-affb-5dfd8e3d0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-0736-d999-ad9f-87bf4a5f0000/11/99/314f61154d8ba441b3f9b2bec0d1/853603-2.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-0781-df61-a7fb-4f977d4e0001/b1/85/f78648254f00a5bb00810b6a98c9/eshel.jpeg?height=81",
       "published_at": "2025-12-10T02:57:10.000Z",
       "summary": ""
     },
@@ -910,36 +960,6 @@
       "image": null,
       "published_at": "2025-12-09T23:04:30.000Z",
       "summary": "According to Palestinian Health Ministry in Gaza, Israeli attacks during ceasefire have killed at least 377 people."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Is Tanzania heading for deeper upheaval?",
-      "url": "https://www.aljazeera.com/video/inside-story/2025/12/9/is-tanzania-heading-for-deeper-upheaval?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-09T23:01:40.000Z",
-      "summary": "The Tanzanian government has cancelled Tuesday&#039;s Independence Day events as protesters called for a day of action."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Liverpool snatch win at Inter Milan with late penalty from Szoboszlai",
-      "url": "https://www.aljazeera.com/sports/2025/12/9/liverpool-snatch-win-at-inter-milan-with-late-penalty-from-szoboszlai?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-09T22:50:03.000Z",
-      "summary": "Liverpool shrug off absence of Mohamed Salah as Dominik Szoboszlai scores 88th-minute penalty winner."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Muslim group CAIR to sue Florida Governor Ron DeSantis over ‘terror’ label",
-      "url": "https://www.aljazeera.com/news/2025/12/9/muslim-group-cair-to-sue-florida-governor-ron-desantis-over-terror-label?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-09T22:49:14.000Z",
-      "summary": "CAIR says Florida governor&#039;s decree will not affect the group&#039;s work but could fuel Islamophobia and bigotry across US."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1329,7 +1349,7 @@
       "url": "https://www.haaretz.com/israel-news/2025-12-09/ty-article-magazine/.premium/emergency-conference-of-israeli-journalists-sounds-alarm-on-govt-threats-to-press-freedom/0000019b-03eb-d153-abbf-efef9a4c0000",
       "image": "https://img.haarets.co.il/bs/0000019b-0466-d153-abbf-ec67916f0000/32/08/402d69124b279c999f1e5064210b/063968-2.jpg?height=81",
       "published_at": "2025-12-09T18:55:53.000Z",
-      "summary": "Hundreds gather for conference entitled 'Without Free Media, There is No Democracy,' where speakers warn of a government intent on 'silencing, shutting people up, drafting laws that shut down media outlets.'"
+      "summary": "Hundreds gathered for conference entitled 'Without Free Media, There is No Democracy,' where speakers warn of an Israeli government intent on 'silencing, shutting people up, drafting laws that shut down media outlets'"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1652,16 +1672,6 @@
       "summary": "It is examining whether the tech giant did not offer \"appropriate compensation\" to web publishers."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israeli forces foil terror network, seize rockets and explosives in Tulkarm",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-879718",
-      "image": null,
-      "published_at": "2025-12-09T12:58:07.000Z",
-      "summary": "The discovery follows a lengthy investigation that revealed the involvement of several individuals in recent assaults, including attacks on military vehicles that injured soldiers."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1790,16 +1800,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-01c8-dfc3-ad9b-a7f9bdab0001/d5/71/ffd5c19e40e6b863d47fc28acaa8/057503.jpg?height=81",
       "published_at": "2025-12-09T08:16:52.000Z",
       "summary": "Villagers said that the settlers killed one of the donkeys after Israeli forces, who arrived an hour and a half after the incident, left the scene shortly after. 'People are very afraid now; they saw what was done to the donkey,' one resident said"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Goa nightclub owners fled to Thailand hours after deadly fire, police say",
-      "url": "https://www.bbc.com/news/articles/c23e7p40y04o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5763/live/ba249f60-d4a5-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-12-09T05:14:59.000Z",
-      "summary": "Indian authorities confirmed the two brothers boarded a flight to Phuket in Thailand shortly after the incident."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
