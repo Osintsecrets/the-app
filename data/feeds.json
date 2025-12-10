@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-10T05:12:04.822Z",
+  "generated_at": "2025-12-10T05:41:56.720Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israel, Bolivia renew diplomatic relations after years of estrangement following Gaza war",
+      "url": "https://www.jpost.com/israel-news/article-879824",
+      "image": null,
+      "published_at": "2025-12-10T07:19:46.000Z",
+      "summary": "Foreign Minister Gideon Sa'ar and Bolivia's Finance and Economy Minister José Gabriel Espinosa signed the agreement to renew diplomatic relations during a meeting in Washington."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,46 @@
       "image": null,
       "published_at": "2025-12-10T05:38:04.000Z",
       "summary": "Performances, children’s shows, and family tours are among the highlights of the National Library’s Hanukkah activities."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Helen Nash, kosher cookbook author and NYC philanthropist, dies at 89",
+      "url": "https://www.timesofisrael.com/helen-nash-kosher-cookbook-author-and-nyc-philanthropist-dies-at-89/",
+      "image": null,
+      "published_at": "2025-12-10T05:37:12.000Z",
+      "summary": "In her three cookbooks, Nash redefined modern kosher cooking by incorporating global flavors\nThe post Helen Nash, kosher cookbook author and NYC philanthropist, dies at 89 appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "נותק הקשר עם יאכטה ישראלית שיצאה מאשדוד, חיפושים בים הסוער: \"כל שעה חשובה\"",
+      "url": "https://www.ynet.co.il/news/article/r1xlmfif11e",
+      "image": null,
+      "published_at": "2025-12-10T05:22:32.000Z",
+      "summary": "כוחות מישראל, יוון וקפריסין משתתפים בסריקות אחר היאכטה, שיצאה מאשדוד כשעליה שני זוגות ישראלים בשנות ה-50 לחייהם. הקשר עימה נותק לא הרחק מקפריסין, ובזמן הסופה \"ביירון\". בקפריסין הודו: \"זה מרוץ נגד איתני הטבע\""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Sperm from donor with cancer-causing gene was used to conceive almost 200 children",
+      "url": "https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906d/live/ff8d66c0-d4ed-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-12-10T05:06:53.000Z",
+      "summary": "Some children have already died and only a minority who inherit the mutation will escape cancer in their lifetimes."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Zelenskyy says Ukraine ready to hold polls if US, allies ensure security",
+      "url": "https://www.aljazeera.com/news/2025/12/10/zelenskyy-says-ukraine-ready-to-hold-polls-if-us-allies-ensure-security?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-10T05:02:12.000Z",
+      "summary": "Ukrainian leader responds to US President Trump&#039;s suggestion that he is using the war as an excuse to avoid elections."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -59,7 +109,7 @@
       "url": "https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5bf/live/a7d6d590-d580-11f0-9fb5-5f3a3703a365.jpg",
       "published_at": "2025-12-10T04:38:55.000Z",
-      "summary": "Teenagers affected by Australia's under 16 social media showed the BBC what happened when they tried to access their accounts."
+      "summary": "Teenagers affected by Australia's under-16 social media ban showed the BBC what happened when they tried to access their accounts."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -215,9 +265,9 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israel's Shin Bet chief on October 7: State inquiry is 'only way' to probe Hamas attack",
+      "title": "Israel and Bolivia renew diplomatic ties two years after Gaza war feud",
       "url": "https://www.haaretz.com/israel-news/2025-12-10/ty-article-live/israels-shin-bet-chief-on-october-7-state-inquiry-is-only-way-to-probe-hamas-attack/0000019b-0584-d868-affb-5dfd8e3d0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-0571-dda6-a7fb-3571a7fa0001/bc/a5/272120fe4b438067d8c4c6db5eae/dec-10-1.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-069f-dda6-a7fb-36df6ff10001/75/39/a1a9509d4c04b40a29a514bc1a54/image-2025-12-09-205757657.png?height=81",
       "published_at": "2025-12-10T02:57:10.000Z",
       "summary": ""
     },
@@ -629,7 +679,7 @@
       "url": "https://www.ynet.co.il/news/article/yokra14608400",
       "image": null,
       "published_at": "2025-12-09T22:03:00.000Z",
-      "summary": "משבר חוק הגיוס יוכרע בידי הציונות הדתית - המגזר והמפלגה. עכשיו זה הזמן שלנו לדאוג שהוא יקבל את התוכן הראוי לו, ואם לאו, אין חוק"
+      "summary": "משבר חוק הגיוס יוכרע בידי הציונות הדתית - המגזר. עכשיו זה הזמן שלנו לדאוג שהוא יקבל את התוכן הראוי לו, ואם לאו, אין חוק"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -710,16 +760,6 @@
       "image": null,
       "published_at": "2025-12-09T21:28:25.000Z",
       "summary": "VP of litigation helping 200 American-Israeli victims of Oct. 7 sue four terror-supporting nations in US courts: 'This is the most impactful thing that ADL has ever worked on'\nThe post ADL&#8217;s James Pasch: Taking on the Axis of Evil through lawfare appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "נותק הקשר עם יאכטה ישראלית שיצאה מאשדוד, חיפושים נרחבים בים הסוער",
-      "url": "https://www.ynet.co.il/news/article/r1xlmfif11e",
-      "image": null,
-      "published_at": "2025-12-09T21:27:23.000Z",
-      "summary": "כוחות מישראל, יוון וקפריסין משתתפים בסריקות אחר היאכטה, שיצאה מאשדוד כשעליה 4 בני אדם. הקשר עימה נותק לא הרחק מקפריסין, ובזמן הסופה \"ביירון\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -972,16 +1012,6 @@
       "summary": "Newly published footage shows Bashar Assad mocking impoverished Syrians, loyal soldiers and even Vladimir Putin's appearance. Citizens who outlived the regime weren't surprised: 'Anyone who still thinks he cared about Syria should watch those clips'"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Over quarter of families suffer from food insecurity, as living costs jump &#8211; study",
-      "url": "https://www.timesofisrael.com/over-quarter-of-families-suffer-from-food-insecurity-as-living-costs-jump-study/",
-      "image": null,
-      "published_at": "2025-12-09T19:32:14.000Z",
-      "summary": "Latet charity says 867,256 families in Israel, including 1.2 million children, struggle to get proper nutrition, as economic war toll and rise in cost of living squeeze incomes\nThe post Over quarter of families suffer from food insecurity, as living costs jump &#8211; study appeared first on The Tim"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1030,16 +1060,6 @@
       "image": null,
       "published_at": "2025-12-09T19:11:54.000Z",
       "summary": "The institute said the press conference was cancelled as Venezuela opposition leader Machado’s whereabouts are unknown."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Real Madrid vs Man City: Champions League preview – teams, start, lineups",
-      "url": "https://www.aljazeera.com/sports/2025/12/9/real-madrid-vs-man-city-champions-league-preview-teams-start-lineups?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-09T19:11:41.000Z",
-      "summary": "Pressure mounting on Real coach as Manchester City visit in the league phase of the UEFA Champions League on Wednesday."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1752,16 +1772,6 @@
       "summary": "Authorities have warned that a stronger tremor could occur in the coming days.  "
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF hits Hezbollah training sites in southern Lebanon overnight",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-879671",
-      "image": null,
-      "published_at": "2025-12-09T00:36:44.000Z",
-      "summary": "“The IDF recently attacked, under the leadership of the Northern Command and through the Air Force, infrastructures of the Hezbollah terrorist organization in several areas in southern Lebanon.”"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1880,16 +1890,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ffb2-d4b0-af9b-fff25ba80001/fd/f9/889c00994937bcb7d2e8fa45d08b/056840.jpg?height=81",
       "published_at": "2025-12-08T21:18:50.000Z",
       "summary": "The meeting was scheduled several weeks ago, before Netanyahu submitted his pardon request, and was originally intended to address the judicial overhaul. However, it is now expected to also focus on the pardon, with sources saying Herzog will try to soften the activists' opposition"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Paramount launches rival bid for Warner Bros Discovery",
-      "url": "https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c613/live/f00f5680-d44e-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-12-08T21:14:41.000Z",
-      "summary": "The Hollywood battle to buy Warner Bros Discovery is shaping up to be a blockbuster. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
