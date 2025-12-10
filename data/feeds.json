@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T16:13:55.547Z",
+  "generated_at": "2025-12-10T16:48:49.566Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "New IDF Chief Lawyer Maj.-Gen. Offir visits Gaza front lines for legal assessment",
+      "title": "New IDF chief lawyer Maj.-Gen. Offir visits Gaza front lines for legal assessment",
       "url": "https://www.jpost.com/israel-news/defense-news/article-879898",
       "image": null,
       "published_at": "2025-12-10T17:33:53.000Z",
@@ -45,11 +45,91 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
+      "title": "Iceland becomes fifth country to boycott Eurovision",
+      "url": "https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58e/live/cf008100-d5e1-11f0-b1c1-a1fc4155147e.png",
+      "published_at": "2025-12-10T16:38:08.000Z",
+      "summary": "Iceland joins Spain, Ireland, Slovenia and the Netherlands in saying it will boycott the 2026 contest."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US judge blocks Trump's National Guard deployment in Los Angeles",
+      "url": "https://www.bbc.com/news/articles/c0r9p1yr1y7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4bc/live/888d4fe0-d5d8-11f0-b33e-1f14457e259b.jpg",
+      "published_at": "2025-12-10T16:35:49.000Z",
+      "summary": "The judge has ordered control of the the troops, which were deployed in June, to be returned to California's governor."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Are Israel, Hamas entering the second phase of Gaza ceasefire?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/are-israel-hamas-entering-the-second-phase-of-gaza-ceasefire?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-10T16:32:02.000Z",
+      "summary": "The Gaza ceasefire agreement is preparing to enter phase two, even as the first phase fell short of its promises."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ukraine 'ready for elections' if partners guarantee security, Zelensky says",
+      "url": "https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70b/live/0d0ede80-d59f-11f0-bb2f-35f722db3215.jpg",
+      "published_at": "2025-12-10T16:26:50.000Z",
+      "summary": "He was speaking after US President Donald Trump repeated claims Kyiv was \"using war\" to avoid elections. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Judge rules Epstein grand jury records from 2019 case can be released",
+      "url": "https://www.bbc.com/news/articles/clyz2vyzek9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a4d/live/f91e4f80-d5dc-11f0-9712-5f1572eb598c.jpg",
+      "published_at": "2025-12-10T16:15:23.000Z",
+      "summary": "A federal judge says materials from the investigation can be unsealed because of a new law passed by Congress last month."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Jewish students singled out, scapegoated: Columbia releases last antisemitism report",
+      "url": "https://www.timesofisrael.com/jewish-students-singled-out-scapegoated-columbia-releases-last-antisemitism-report/",
+      "image": null,
+      "published_at": "2025-12-10T16:15:19.000Z",
+      "summary": "Antisemitism Task Force says university's Middle East studies lacks faculty who are not 'explicitly anti-Zionist,' seeks to balance free speech with protection for Jews\nThe post Jewish students singled out, scapegoated: Columbia releases last antisemitism report appeared first on The Times of Israel"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Columbia must add Middle East faculty who are 'not explicitly anti-Zionist,' antisemitism task force urges",
+      "url": "https://www.haaretz.com/us-news/2025-12-10/ty-article/columbia-must-add-middle-east-faculty-who-are-not-explicitly-anti-zionist/0000019b-08e6-df61-a7fb-48f765360000",
+      "image": "https://img.haarets.co.il/bs/0000018e-05b2-d6be-afff-45f39bb50000/03/40/a2479f5c4f45bb0bbcfbd7217511/613928.jpg?height=81",
+      "published_at": "2025-12-10T16:15:03.000Z",
+      "summary": "After paying the Trump administration over $220 million to settle antisemitism investigations and the resignation of its interim president, Columbia students reported a dearth of courses and professors who aren't openly anti-Zionist"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
       "title": "Nobel Peace Prize winner's daughter accepts award on her behalf",
       "url": "https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c9c/live/0899efd0-d5ad-11f0-aaf9-cfb9de77e0db.jpg",
       "published_at": "2025-12-10T16:12:07.000Z",
       "summary": "Venezuelan opposition leader María Corina Machado, who lives in hiding, is reportedly on her way to Oslo."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Zelenskyy warns Russia, China stepping up military-industrial cooperation",
+      "url": "https://www.aljazeera.com/news/2025/12/10/zelenskyy-warns-russia-china-stepping-up-military-industrial-cooperation?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-10T16:08:08.000Z",
+      "summary": "A new report by Ukraine&#039;s foreign intelligence has warned of intensifying ties between the strategic partners."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -82,16 +162,6 @@
       "summary": "The fire-makers of Suffolk may have been early Neanderthals, and the archaeologists believe they have the smoking match to show intentionality"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Ukraine 'ready for elections' if partners guarantee security, Zelensky says",
-      "url": "https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70b/live/0d0ede80-d59f-11f0-bb2f-35f722db3215.jpg",
-      "published_at": "2025-12-10T15:57:42.000Z",
-      "summary": "He was speaking after US President Donald Trump repeated claims Kyiv was \"using war\" to avoid elections. "
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -99,7 +169,7 @@
       "url": "https://www.ynet.co.il/news/article/s1jl8gvzbe",
       "image": null,
       "published_at": "2025-12-10T15:55:14.000Z",
-      "summary": "אחרי יממה של חיפושים, בקפריסין עדכנו כי נוצר קשר עם הישראלים שעל היאכטה שהפליגה מאשדוד ועלה חשש שאולי נסחפה בעקבות הסופה ביירון. \"היאכטה עושה כעת את דרכה חזרה ארצה\""
+      "summary": "אחרי יממה של חיפושים, בקפריסין עדכנו כי נוצר קשר עם הישראלים שעל היאכטה שהפליגה מאשדוד, ועלה חשש שאולי נסחפה בעקבות הסופה ביירון. \"היאכטה עושה כעת את דרכה חזרה ארצה\""
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -112,24 +182,34 @@
       "summary": "Police operation to stem lawlessness after complaints from residents of Jewish towns in northern Negev draws fire for using harsh West Bank-style tactics against Arab citizens\nThe post Cracking down on Bedouin crime, Ben Gvir accused of punishing victims to please base appeared first on The Times of"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Judge rules Epstein grand jury records from 2019 case can be released",
-      "url": "https://www.bbc.com/news/articles/clyz2vyzek9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a4d/live/f91e4f80-d5dc-11f0-9712-5f1572eb598c.jpg",
-      "published_at": "2025-12-10T15:52:03.000Z",
-      "summary": "A federal judge says materials from the investigation can be unsealed because of a new law passed by Congress last month."
+      "title": "Trump’s $12bn aid package: Are tariffs bleeding US farmers?",
+      "url": "https://www.aljazeera.com/economy/2025/12/10/trumps-12bn-aid-package-are-tariffs-bleeding-us-farmers?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-10T15:52:18.000Z",
+      "summary": "Trump says funds will be made available from tariff revenues and promises trade policies will make US farmers &#039;strong’."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "US judge blocks Trump's National Guard deployment in Los Angeles",
-      "url": "https://www.bbc.com/news/articles/c0r9p1yr1y7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4bc/live/888d4fe0-d5d8-11f0-b33e-1f14457e259b.jpg",
-      "published_at": "2025-12-10T15:46:21.000Z",
-      "summary": "The judge has ordered control of the the troops, which were deployed in June, to be returned to California's governor."
+      "title": "Families shelter in makeshift tents after floods ravage Indonesia’s Sumatra",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/families-shelter-in-makeshift-tents-after-floods-ravage-indonesias-sumatra?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-10T15:49:39.000Z",
+      "summary": "People are relying on plastic sheets as makeshift shelters after devastating flooding flattened homes in Indonesia."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Could Ukraine hold a presidential election right now, as Trump demands?",
+      "url": "https://www.aljazeera.com/features/2025/12/10/could-ukraine-hold-a-presidential-election-right-now-as-trump-demands?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-10T15:46:49.000Z",
+      "summary": "What are the practicalities of holding an election in wartime?"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -205,7 +285,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Herzog reportedly drew up legal opinion for Netanayhu's pardon before his presidency",
+      "title": "Herzog reportedly drew up legal opinion for Netanyahu's pardon before his presidency",
       "url": "https://www.haaretz.com/israel-news/2025-12-10/ty-article/herzog-reportedly-drew-up-legal-opinion-for-netanayhus-pardon-before-his-presidency/0000019b-0876-d153-abbf-ec770edc0000",
       "image": "https://img.haarets.co.il/bs/0000019b-0894-d999-ad9f-8fbf221a0000/93/53/0f6d21374d048bbe13c48169adcb/282707.jpg?height=81",
       "published_at": "2025-12-10T15:19:23.000Z",
@@ -219,7 +299,7 @@
       "url": "https://www.ynet.co.il/news/article/b1kq3wwmzg",
       "image": null,
       "published_at": "2025-12-10T15:17:56.000Z",
-      "summary": "ראש עיר לשעבר ואנשי עסקים בכירים נעצרו הבוקר במסגרת פרשת \"מבוך הכסף\" בנצרת - וכעת מתברר שבחשד לשחיתות שם מעורב גם ניצב-משנה ועוד שני שוטרים. הם נחקרו ושוחררו תחת תנאי הרחקה מתחנת המשטרה ומהעיר כולה"
+      "summary": "ראש עיר לשעבר ואנשי עסקים בכירים נעצרו הבוקר במסגרת פרשת \"מבוך הכסף\" בנצרת - וכעת מתברר שבחשד לשחיתות שם מעורבים גם ניצב-משנה ועוד שני שוטרים. הם נחקרו, ושוחררו תחת תנאי הרחקה מתחנת המשטרה ומהעיר כולה"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -782,16 +862,6 @@
       "summary": "A Brazilian lawmaker was removed from Congress by police on Tuesday as he staged a protest against a bill."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "As Storm Byron bears down on Israel, authorities warn of unprecedented rain",
-      "url": "https://www.timesofisrael.com/as-storm-byron-bears-down-on-israel-authorities-warn-of-unprecedented-rain/",
-      "image": null,
-      "published_at": "2025-12-10T11:30:33.000Z",
-      "summary": "Army sends soldiers on southern bases to weekend furlough early to ensure safe travel; search underway for 4 Israelis on yacht that dropped out of contact en route to Cyprus\nThe post As Storm Byron bears down on Israel, authorities warn of unprecedented rain appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -942,26 +1012,6 @@
       "summary": "Salah&#039;s relationship with Liverpool is strained, but the disgruntled star will be welcomed by Egypt teammates for AFCON."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Palestine is on a historic run in the Arab Cup, amidst Gaza devastation",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/10/palestine-is-on-a-historic-run-in-the-arab-cup-amidst-gaza-devastation?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-10T10:19:04.000Z",
-      "summary": "Palestine has made history in the Arab Cup, reaching the quarterfinals for the first time. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "DRC fighting forces 200,000 people to flee as M23 advances, dozens killed",
-      "url": "https://www.aljazeera.com/news/2025/12/10/drc-fighting-pushes-200000-people-to-flee-as-m23-advance-dozens-killed?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-10T10:18:04.000Z",
-      "summary": "As rebels push into Uvira, soldiers flee towards neighbouring Burundi, alongside thousands of civilians."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -982,16 +1032,6 @@
       "summary": "הנשיא לשעבר החל לרצות מאסר של 27 שנים אחרי שהורשע בניסיון הפיכה, אך תומכיו בקונגרס מקדמים חוק שיקצץ את העונש לשנתיים בלבד. גורלו של בולסונרו מפלג את ברזיל, מחוקק מהשמאל סירב להתפנות מכיסא יו\"ר המליאה והורחק. בנו של בולסונרו הכריז שירוץ לנשיאות - ויפרוש בתמורה לחנינה לאביו"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament",
-      "url": "https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-10T09:31:59.000Z",
-      "summary": "Khaled Meshaal says surrendering weapons will &#039;remove the soul&#039; from the Palestinian group as ceasefire momentum slips."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1010,16 +1050,6 @@
       "image": null,
       "published_at": "2025-12-10T09:27:19.000Z",
       "summary": "בצל כלילת חלופת השירות האזרחי-ביטחוני בהצעת חוק הגיוס, רח\"ט תכנון ומנהל כוח האדם שי טייב התריע בוועדת החוץ והביטחון כי \"יש צורך קבוע בתוספת כוח אדם לוחם כדי לשמור על גמישות מבצעית ולהפחית את השחיקה\". הניציים מקרב החרדים מחריפים טון: \"גזירת הגיוס - תקדים מסוכן\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "At least 19 dead in collapse of two buildings in Morocco’s Fes: State media",
-      "url": "https://www.aljazeera.com/news/2025/12/10/at-least-19-killed-in-collapse-of-two-buildings-in-fes-morocco?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-10T09:26:20.000Z",
-      "summary": "The death toll from the destruction of the buildings includes several children."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1050,16 +1080,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-03a4-dda6-a7fb-37e54aca0001/b1/a1/26f73d524107a83d92988a41d803/754590.jpg?height=81",
       "published_at": "2025-12-10T08:48:45.000Z",
       "summary": ""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "‘Possible rise in maternal deaths’: How USAID cuts strand Malawi’s mothers",
-      "url": "https://www.aljazeera.com/features/2025/12/10/possible-rise-in-maternal-deaths-how-usaid-cuts-strand-malawis-mothers?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-10T08:44:46.000Z",
-      "summary": "As remote health posts are disrupted or closed, communities and medics say women are not getting the care they need."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1265,9 +1285,9 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Search underway for Israeli yacht that lost contact in Mediterranean; four missing",
+      "title": "Report: Israeli foreign minister says disagreements with Syria over security deal have widened",
       "url": "https://www.haaretz.com/israel-news/2025-12-10/ty-article-live/israels-shin-bet-chief-on-october-7-state-inquiry-is-only-way-to-probe-hamas-attack/0000019b-0584-d868-affb-5dfd8e3d0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-0860-df61-a7fb-48f7485b0000/2c/5a/16ea194d49319375382a05fb5565/072581-2.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-0907-dda6-a7fb-3d479df60001/8c/c7/f6982b8446948b0bee56b3ab9252/939438-1.jpg?height=81",
       "published_at": "2025-12-10T02:57:10.000Z",
       "summary": ""
     },
@@ -2440,16 +2460,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-f943-d2e4-a1ff-ffe3cc480000/d7/04/efe5558e4857a2f43195290434d5/687667-2.jpg?height=81",
       "published_at": "2025-12-07T20:08:52.000Z",
       "summary": "During the recent olive harvest in the West Bank, a surge in settler violence, the most severe since 2006, has disrupted Palestinian farmers' access to their lands, particularly in Area B, which is legally under Palestinian civilian control"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Palestinian prime minister warns Israel is making West Bank 'unlivable' for Palestinians",
-      "url": "https://www.haaretz.com/israel-news/2025-12-07/ty-article/palestinian-prime-minister-warns-israel-is-making-west-bank-unlivable-for-palestinians/0000019a-f98a-d2e4-a1ff-ffaaaa670000",
-      "image": "https://img.haarets.co.il/bs/0000019a-f9b5-d193-a1be-fbb5e02d0000/77/07/7646bb1c4600a024a454bf3603a0/893100.jpg?height=81",
-      "published_at": "2025-12-07T20:02:59.000Z",
-      "summary": "PA Prime Minister Mohammad Mustafa says Netanyahu's policies seek to undermine the PA and expand settlements, aiming 'to eventually convince the rest of the world there's no place for a state.' He warned that financial pressure, raids, and settler violence are making life unbearable"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
