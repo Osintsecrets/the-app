@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-12-11T05:12:51.636Z",
+  "generated_at": "2025-12-11T05:42:59.144Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אירוע חריג ברחובות: זיהה פורצים ברכבו וירה, שב\"ח נפצע קשה וחברו נעצר",
+      "url": "https://www.ynet.co.il/news/article/sytfucpm11e",
+      "image": null,
+      "published_at": "2025-12-11T05:35:00.000Z",
+      "summary": "תושה רחובות, בשנות ה-60 לחייו, הבחין בפורצים ואמר למשטרה כי ירה לעברם לאחר שחש בסכנה. אחד מהם ניסה להימלט ונעצר, האחר נפצע ופונה לבי\"ח"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "LIVE: Heavy rains, flooding as Storm Byron batters war-torn Gaza",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/12/11/live-heavy-rains-flooding-as-storm-byron-batters-war-torn-gaza?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-11T05:31:29.000Z",
+      "summary": "Storm threatens hundreds of thousands of displaced people left homeless in Gaza due to Israel&#039;s war on territory. "
+    },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
@@ -645,21 +665,21 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הזנחת התחבורה הציבורית ביישובים הערביים: \"40 אלף תושבים בעיר, קו אחד\"",
-      "url": "https://www.ynet.co.il/news/article/yokra14608922",
+      "title": "\"כוחות נופחו, בזבוז עצום\": מאחורי פניית הפרסה של צה\"ל, בקרב על תקציב הביטחון",
+      "url": "https://www.ynet.co.il/news/article/yokra14609513",
       "image": null,
       "published_at": "2025-12-10T22:00:00.000Z",
-      "summary": "מחסור עצום בקווי אוטובוסים, היעדר כבישים בינעירוניים ופנימיים ואפס תחנות רכבת. הפערים העצומים בין התחבורה הציבורית בציבור הערבי לעומת היהודי גורמים לתלות מוחלטת ברכב הפרטי - וגם להרבה יותר הרוגים בתאונות דרכים. עמותת \"סיכוי-אופוק\": \"התשתית מזעזעת\" "
+      "summary": "לקראת ההחלטה על תקציב הביטחון, הרמטכ\"ל הציג צרכים חסרי תקדים - כ-60 אלף חיילי מילואים בכל רגע, והכפלת הכוחות ברוב הגזרות. אלא שברגע אחד צה\"ל חזר בו, והסכים לחיתוך שליש מכוח האדם הנדרש. קצין ממערך המילואים טוען: \"אלופים לקחו מילואימניקים כנהגים, כוחות נופחו באופן חסר פרופורציה, אולי בקיצוץ הזה הצבא מ"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "\"עיוותים שגובלים בפלילים\": מה עומד מאחורי השינוי הפתאומי בתקציב הביטחון?",
-      "url": "https://www.ynet.co.il/news/article/yokra14609513",
+      "title": "הזנחת התחבורה הציבורית ביישובים הערביים: \"40 אלף תושבים בעיר, קו אחד\"",
+      "url": "https://www.ynet.co.il/news/article/yokra14608922",
       "image": null,
       "published_at": "2025-12-10T22:00:00.000Z",
-      "summary": "בצה\"ל הסכימו לחתוך בכשליש את כמות חיילי המילואים שתכננו לזמן - אך לא הסבירו את ההתקפלות. האפשרויות נעות מ\"הסכמה שבקריצה\" עם האוצר על היכולת לחרוג מהמסגרת, עד לכוונה לסגת מאחת הזירות, וגם - מדיניות תקנים נוקשה יותר. \"אלופים לקחו מילואימניקים כנהגים. זה יצא משליטה\", העידו בצבא"
+      "summary": "מחסור עצום בקווי אוטובוסים, היעדר כבישים בינעירוניים ופנימיים ואפס תחנות רכבת. הפערים העצומים בין התחבורה הציבורית בציבור הערבי לעומת היהודי גורמים לתלות מוחלטת ברכב הפרטי - וגם להרבה יותר הרוגים בתאונות דרכים. עמותת \"סיכוי-אופוק\": \"התשתית מזעזעת\" "
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1062,16 +1082,6 @@
       "summary": "IOC currently has no universal rule in place for the participation of transgender athletes at the Olympic Games."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US general highlights ‘close cooperation’ with Syria against ISIL threats",
-      "url": "https://www.aljazeera.com/news/2025/12/10/us-general-highlights-close-cooperation-with-syria-against-isil-threats?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-10T18:21:06.000Z",
-      "summary": "US military&#039;s Central Command chief says there have been &#039;multiple instances of collaboration&#039; with Syria against ISIL."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1310,16 +1320,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-0894-d999-ad9f-8fbf221a0000/93/53/0f6d21374d048bbe13c48169adcb/282707.jpg?height=81",
       "published_at": "2025-12-10T15:19:23.000Z",
       "summary": "A former associate of President Issac Herzog told Channel 12 News that he requested the legal opinion out of political considerations, not professional ones, as part of a deal to receive Netanyahu and the Likud's support during the presidential election"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "קצין בכיר במשטרה נחקר בחשד ל\"קשרים פסולים עם עבריינים\" | כל הפרטים",
-      "url": "https://www.ynet.co.il/news/article/b1kq3wwmzg",
-      "image": null,
-      "published_at": "2025-12-10T15:17:56.000Z",
-      "summary": "ראש עיר לשעבר ואנשי עסקים בכירים נעצרו הבוקר במסגרת פרשת \"מבוך הכסף\" בנצרת - וכעת מתברר שבחשד לשחיתות שם מעורבים גם ניצב-משנה ועוד שני שוטרים. הם נחקרו, ושוחררו תחת תנאי הרחקה מתחנת המשטרה ומהעיר כולה"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
