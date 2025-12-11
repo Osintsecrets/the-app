@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-11T20:11:45.131Z",
+  "generated_at": "2025-12-11T20:40:09.289Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Ex-IDF air defense chief: Arrow-3 protecting Germany defies imagination after Holocaust",
+      "url": "https://www.jpost.com/israel-news/article-880106",
+      "image": null,
+      "published_at": "2025-12-11T22:22:36.000Z",
+      "summary": "Ran Kochav recounts to the Jerusalem Post his time as Arrow commander and the technology's role in making history."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -22,6 +32,16 @@
       "summary": "Legal expert Shlomit Ravitsky Tur-Paz warns that Israel’s draft bill for the Haredi community may entrench societal divisions and worsen long-term challenges for the economy and military."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "באיחור של שנתיים: \"דוח הזוועות\" של אמנסטי על חמאס",
+      "url": "https://www.ynet.co.il/news/article/byb600cozzl",
+      "image": null,
+      "published_at": "2025-12-11T20:31:55.000Z",
+      "summary": "ארגון \"אמנסטי אינטרנשיונל\", שלאורך המלחמה תקף את ישראל בחריפות וקבע כי היא מבצעת רצח עם בעזה, הכיר בדוח חדש כי המחבלים והאזרחים שפלשו לעוטף ב-7/10 אשמים ב\"רצח, אונס והשמדה\". משרד החוץ: \"הדוח לא משקף את היקף הזוועות, אך אפילו ארגון מוטה לא יכל בסוף להתעלם מהמפלצתיות של חמאס\""
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -32,6 +52,46 @@
       "summary": "The IDF received over 100 reports about the vehicle, which was spotted driving through floodwaters near the Beit Zayit Dam. "
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Case closed against officers who fatally shot Israeli Arab man after he attacked police",
+      "url": "https://www.haaretz.com/israel-news/2025-12-11/ty-article/.premium/case-closed-against-officers-who-fatally-shot-israeli-arab-man-after-he-attacked-police/0000019b-0ecc-dda6-a7fb-3ecd176c0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-0efd-d999-ad9f-8fff5e510001/d7/b8/37898d00412f88ad099d11eaa49f/047524.jpg?height=81",
+      "published_at": "2025-12-11T20:15:30.000Z",
+      "summary": "In February of last year, policemen shot and killed Morshad Abd al-Hai, a resident of central Israel's Tira, after he resisted arrest. The Justice Ministry notified his family last week that there was no evidentiary basis for criminal proceedings against the officers involved"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump’s maritime policy",
+      "url": "https://www.aljazeera.com/video/compare-contrast/2025/12/11/trumps-maritime-policy?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-11T20:15:02.000Z",
+      "summary": "We compare and contrast the US Coast Guard’s seizure of a Venezuelan oil tanker with US condemnation of maritime piracy."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia’s Putin affirms support for Venezuela after US seizes oil tanker",
+      "url": "https://www.aljazeera.com/news/2025/12/11/russias-putin-affirms-support-for-venezuela-after-us-seizes-oil-tanker?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-11T20:12:51.000Z",
+      "summary": "Venezuela&#039;s allies have gained new prominence amid US pressure campaign and military build-up. "
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "New video appears to undermine Israeli account for IDF shooting of Palestinian man in West Bank",
+      "url": "https://www.haaretz.com/israel-news/2025-12-11/ty-article/new-video-appears-to-undermine-israeli-account-of-idf-shooting-of-palestinian-in-west-bank/0000019b-0ef9-d999-ad9f-8fff4b740000",
+      "image": "https://img.haarets.co.il/bs/0000019b-0efa-d868-affb-5efbc9350001/97/31/09e3b3bf413b8e5795a30620a9b4/543254.jpg?height=81",
+      "published_at": "2025-12-11T20:11:13.000Z",
+      "summary": "The Israeli military said on Saturday that Ahmed Khalil al-Rajabi tried to run over troops stationed in the city center in an attempted ramming attack, but new footage shows al-Rajabi fleeing from soldiers advancing toward him, one of them pointing his gun at the vehicle"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -40,6 +100,26 @@
       "image": null,
       "published_at": "2025-12-11T20:10:01.000Z",
       "summary": "The IDF chief made his mark on increased readiness, from more troops on the border, to more tanks, to less holiday vacations."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Thailand PM moves to dissolve parliament, paving way for election",
+      "url": "https://www.aljazeera.com/news/2025/12/11/thailand-pm-moves-to-dissolve-parliament-paving-way-for-election?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-11T20:01:51.000Z",
+      "summary": "A legislative impasse and border fighting force Thailand into an early election under mounting public pressure."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Who was Israel-backed Gaza militia leader Yasser Abu Shabab?",
+      "url": "https://www.aljazeera.com/video/the-take-2/2025/12/11/aje-onl-aj_tt_pal_abushabab_av_v2-111225?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-11T19:54:47.000Z",
+      "summary": "Palestinians in Gaza celebrated after Israeli-backed militia leader Yasser Abu Shabab was killed."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -225,11 +305,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "ארה\"ב דרשה, ישראל תפנה את ההריסות מעזה - ותשלם מיליארדים",
+      "title": "ארה\"ב דורשת שישראל תפנה את ההריסות מעזה, ההתחלה - ברפיח",
       "url": "https://www.ynet.co.il/news/article/sjyidudfbl",
       "image": null,
       "published_at": "2025-12-11T18:25:37.000Z",
-      "summary": "חשיפה: את האחריות הפיזית והכלכלית לפינוי ההרס העצום שנותר ברצועת עזה אחרי שנתיים של לחימה קיבלה עליה ישראל, והעלות ענקית. בעולם הערבי סירבו, ובקטאר הצהירו פומבית: \"לא נחתום על הצ'ק\". וגם: אלו המחלוקות בין ישראל לאמריקנים - לקראת פגישת טראמפ-נתניהו בסוף החודש"
+      "summary": "חשיפה: האחריות הפיזית והכלכלית לפינוי ההרס העצום שנותר ברצועת עזה אחרי שנתיים של לחימה הוטלה על ישראל, בעלות של מיליארדי שקלים. בעולם הערבי סירבו לממן בעצמם, ובקטאר הצהירו פומבית: \"לא נחתום על הצ'ק\". וגם: אלו המחלוקות בין ישראל לארה\"ב - לקראת פגישת טראמפ-נתניהו בסוף החודש"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1032,16 +1112,6 @@
       "summary": "צעיר מזרזיר נעצר בחשד שחצה את הגבול הסורי במעבר קוניטרה, בטענה שהוא משרת ביחידה המודיעינית המיוחדת. החשוד יישאר במעצר עד מחר, סנגורו: \"הוא לא הפריע לאף אחד, רק ביקש לצאת עקב מצבו הנפשי\""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israeli right-wing TV show mocks Gaza ‘drowning’ in winter storm",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/israeli-right-wing-tv-show-mocks-gaza-drowning-in-winter-storm?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-11T12:47:39.000Z",
-      "summary": "A broadcast on Israel’s right-wing Channel 14 openly celebrated a severe winter storm that’s hitting Gaza."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1070,36 +1140,6 @@
       "image": null,
       "published_at": "2025-12-11T12:44:12.000Z",
       "summary": "So much has happened since Oslo, and the past two years in particular. We partnered with SAPIR Journal to host a debate about the future of the two-state solution.\nThe post Is there a future for the two-state solution? appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "The battle for Pokrovsk is about more than gaining territory",
-      "url": "https://www.aljazeera.com/video/project-force-2/2025/12/11/the-battle-for-pokrovsk-is-about-more-than-gaining-territory?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-11T12:42:49.000Z",
-      "summary": "AJ defence editor @alexgatopoulos explains how Russia has changed tactics to adjust to new technology on the battlefield"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Over 400 civilians killed in eastern DR Congo as US peace deal falters",
-      "url": "https://www.aljazeera.com/news/2025/12/11/over-400-civilians-killed-in-eastern-dr-congo-as-us-peace-deal-falters?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-11T12:36:33.000Z",
-      "summary": "Government says victims killed by rebels included women and children, accusing Rwanda of breaching a recent truce deal."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Why are Israeli lawmakers wearing gold nooses?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/aje-onl-pp-ben-gvir-noose-111225?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-11T12:29:56.000Z",
-      "summary": "Israel&#039;s national security minister wants the power to hang Palestinian detainees accused of terrorism."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1310,16 +1350,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-0c95-df61-a7fb-4c9746fc0001/6f/d9/08ef3db841fa8f62c3738129f49a/077105.jpg?height=81",
       "published_at": "2025-12-11T09:28:40.000Z",
       "summary": "The South American nation restored ties after a new center-right government replaced socialist and Israel critic Evo Morales. Netanyahu invited right-wing President Rodrigo Paz to visit Israel, with an Israeli diplomat noting, '2026 will likely be a year of opportunity for Israel' in the region"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "תיעוד מדהים ממפל סער, ואיפה ירדו יותר מ-200 מ\"מ גשם?",
-      "url": "https://www.ynet.co.il/news/article/rjjny0wfbx",
-      "image": null,
-      "published_at": "2025-12-11T08:59:54.000Z",
-      "summary": "צפו במכ\"ם: גשמים כבדים במרכז, הם צפויים להימשך לפחות עד הערב. שיא הגשם הלילה וביומיים האחרונים - בעין כרמל שליד עתלית. גם בחיפה, בזכרון יעקב ובנהריה ירדו יותר מ-100 מ\"מ גשם מתחילת המערכת. צפו בתמונות מפסגת החרמון המושלגת, ומהרגע שמפל סער החל לזרום בעוצמה"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1690,16 +1720,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-096c-dda6-a7fb-3d6de6ce0001/bb/9e/07757a144fb89b102cd7db8811c3/pzapsf3-e1664449199543-1320x880.webp?height=81",
       "published_at": "2025-12-10T19:04:43.000Z",
       "summary": "From light weapons to aerial defense systems, the Thai army is equipped with many munitions made by Israel's defense industry, along with other advanced systems made in China and the West. This gives Thailand a strong advantage over Cambodia, on land in the air and at sea"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israeli yacht lost at sea made contact with authorities, sailing home ahead of Storm Byron",
-      "url": "https://www.jpost.com/israel-news/article-879941",
-      "image": null,
-      "published_at": "2025-12-10T19:03:26.000Z",
-      "summary": "\"An initial inspection conducted indicates that the ship was not in distress but merely lost contact,\" the Transportation Ministry said in a statement."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2280,26 +2300,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-0291-d4b0-af9b-7fd123f70000/3f/5e/7a39627b43e18398f63610a04502/698760.jpg?height=81",
       "published_at": "2025-12-09T10:31:33.000Z",
       "summary": "The Gaza Strip was the world's deadliest place for journalists over the past year, with 29 killed by Israeli fire, Reporters Without Borders said. Worldwide, 67 journalists were killed during the period"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Report: IDF actively supports construction of settler outposts and farms in West Bank",
-      "url": "https://www.haaretz.com/west-bank/2025-12-09/ty-article/report-idf-supporting-construction-of-israeli-settler-outposts-and-farms-in-west-bank/0000019b-01ef-dfc3-ad9b-a7fff9540000",
-      "image": "https://img.haarets.co.il/bs/0000019b-01ef-dfc3-ad9b-a7fffade0001/70/35/abd914eb4170acce0212115f5956/298443.jpg?height=81",
-      "published_at": "2025-12-09T09:52:13.000Z",
-      "summary": "Speaking to the Kan public broadcaster, an IDF officer highlighted the army's shift from a policy of 'turning a blind eye' to illegal settlers' outposts in the West Bank, to fully coordinating and ordering settler farms to be established near Palestinian villages"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Tony Blair became a frequent visitor to Netanyahu's office during the Gaza war",
-      "url": "https://www.haaretz.com/israel-news/2025-12-09/ty-article/.premium/ex-u-k-pm-tony-blair-became-a-frequent-visitor-to-netanyahus-office-during-the-gaza-war/0000019b-0222-dfc3-ad9b-a77b04dc0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-023a-de33-a59f-fafbb1f00000/78/a7/4acadfa245a6821395dba1de6a05/436382.jpg?height=81",
-      "published_at": "2025-12-09T09:19:15.000Z",
-      "summary": "The former British prime minister is seen as a key figure in advancing international 'day after' plans for Gaza, though several sources say he was pushed aside amid Egyptian opposition. Egyptian billionaire Naguib Sawiris, floated as a possible candidate for a Gaza council, visited Israel this week"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
