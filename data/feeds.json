@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-11T05:42:59.144Z",
+  "generated_at": "2025-12-11T06:15:50.169Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Panic in France as children fall victim to lethal violence of Marseille drug gangs",
+      "url": "https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/764d/live/64500af0-d443-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-12-11T06:03:16.000Z",
+      "summary": "The number of teenagers involved in the drugs trade has quadrupled in eight years, the government says."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "עודף נהגים לאלופים, צוותים מנופחים לתא\"לים: בזבוזי כוח האדם בצה\"ל - וההתקפלות מול האוצר",
+      "url": "https://www.ynet.co.il/news/article/yokra14609513",
+      "image": null,
+      "published_at": "2025-12-11T05:51:09.000Z",
+      "summary": "לקראת ההחלטה על תקציב הביטחון, הרמטכ\"ל הציג צרכים חסרי תקדים - כ-60 אלף חיילי מילואים בכל רגע, והכפלת הכוחות ברוב הגזרות. אלא שברגע אחד צה\"ל חזר בו, והסכים לחיתוך שליש מכוח האדם הנדרש. קצין ממערך המילואים טוען: \"אלופים לקחו מילואימניקים כנהגים, כוחות נופחו באופן חסר פרופורציה, אולי בקיצוץ הזה הצבא מ"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Cross-border fighting between Thailand, Cambodia enters fourth day",
+      "url": "https://www.aljazeera.com/news/2025/12/11/cross-border-fighting-between-thailand-cambodia-enters-fourth-day?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-11T05:47:13.000Z",
+      "summary": "Both sides have accused each other of violating international law as they await a promised phone call from Donald Trump."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Mexico approves up to 50% tariffs on China and other countries",
+      "url": "https://www.bbc.com/news/articles/c36z43ll06zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc3/live/b3355300-d641-11f0-b082-afabb5dc1c21.jpg",
+      "published_at": "2025-12-11T05:44:21.000Z",
+      "summary": "The levies are set to take effect on 1 January and will apply to goods like cars, clothing and appliances."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -9,7 +49,7 @@
       "url": "https://www.ynet.co.il/news/article/sytfucpm11e",
       "image": null,
       "published_at": "2025-12-11T05:35:00.000Z",
-      "summary": "תושה רחובות, בשנות ה-60 לחייו, הבחין בפורצים ואמר למשטרה כי ירה לעברם לאחר שחש בסכנה. אחד מהם ניסה להימלט ונעצר, האחר נפצע ופונה לבי\"ח"
+      "summary": "תושב רחובות, בשנות ה-60 לחייו, הבחין בפורצים ואמר למשטרה כי ירה לעברם לאחר שחש בסכנה. אחד מהם ניסה להימלט ונעצר, האחר נפצע ופונה לבי\"ח"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -30,16 +70,6 @@
       "image": null,
       "published_at": "2025-12-11T04:52:59.000Z",
       "summary": "Network's new editor Bari Weiss touts Tony Dokoupil, who faced internal pushback from staff who felt he has pro-Israel bias, as 'the person to win back lost trust in the media'\nThe post CBS News journalist who defended Israel in interview with Ta-Nehisi Coates to be top anchor appeared first on The "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Mexico approves up to 50% tariffs on China and other countries",
-      "url": "https://www.bbc.com/news/articles/c36z43ll06zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc3/live/b3355300-d641-11f0-b082-afabb5dc1c21.jpg",
-      "published_at": "2025-12-11T04:52:52.000Z",
-      "summary": "The levies are set to take effect on 1 January and will apply to goods like cars, clothing and appliances."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -665,16 +695,6 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "\"כוחות נופחו, בזבוז עצום\": מאחורי פניית הפרסה של צה\"ל, בקרב על תקציב הביטחון",
-      "url": "https://www.ynet.co.il/news/article/yokra14609513",
-      "image": null,
-      "published_at": "2025-12-10T22:00:00.000Z",
-      "summary": "לקראת ההחלטה על תקציב הביטחון, הרמטכ\"ל הציג צרכים חסרי תקדים - כ-60 אלף חיילי מילואים בכל רגע, והכפלת הכוחות ברוב הגזרות. אלא שברגע אחד צה\"ל חזר בו, והסכים לחיתוך שליש מכוח האדם הנדרש. קצין ממערך המילואים טוען: \"אלופים לקחו מילואימניקים כנהגים, כוחות נופחו באופן חסר פרופורציה, אולי בקיצוץ הזה הצבא מ"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "הזנחת התחבורה הציבורית ביישובים הערביים: \"40 אלף תושבים בעיר, קו אחד\"",
       "url": "https://www.ynet.co.il/news/article/yokra14608922",
       "image": null,
@@ -1070,16 +1090,6 @@
       "image": null,
       "published_at": "2025-12-10T18:31:22.000Z",
       "summary": "בחוות דעת מקיפה ותקיפה במיוחד גורסת בהרב-מיארה כי חוק הפטור מגיוס בגרסתו הנוכחית לא עומד ב\"אמות המידה החוקתיות\" - וכי הוא דורש שינוי מקיף. \"נדרש לקבוע סנקציות אישיות, אפקטיביות ומיידיות לאכיפת חובת הגיוס באופן שוויוני\". יו\"ר ועדת חו\"ב ביסמוט: \"ניסיון יפה, עו\"ד מיארה\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Olympics decision on gender eligibility to come in early 2026",
-      "url": "https://www.aljazeera.com/sports/2025/12/10/olympics-decision-on-gender-eligibility-to-come-in-early-2026?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-10T18:23:17.000Z",
-      "summary": "IOC currently has no universal rule in place for the participation of transgender athletes at the Olympic Games."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
