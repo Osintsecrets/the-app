@@ -1,15 +1,25 @@
 {
-  "generated_at": "2025-12-11T10:46:03.014Z",
+  "generated_at": "2025-12-11T11:09:14.947Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Kisch announces cell phone ban for Israeli students on school property, starting February",
+      "title": "Gotliv accuses Shin Bet official of meeting with Hamas commander before Oct. 7 massacre",
+      "url": "https://www.jpost.com/israel-news/article-879991",
+      "image": null,
+      "published_at": "2025-12-11T12:47:23.000Z",
+      "summary": "MK Gotliv accuses Shin Bet's Ronen Bar of sending a subordinate \"to the Erez Crossing on the night of October 6 at around 10 p.m. to meet with [Hamas] Az-Adin al-Haddad.\""
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israel to ban student use of cell phones on school property, starting February",
       "url": "https://www.jpost.com/israel-news/article-880011",
       "image": null,
       "published_at": "2025-12-11T12:26:55.000Z",
-      "summary": "Education Minister Yoav Kisch's announcement comes following data showing some 60% of Israeli teenagers are addicted to using their phones, reports show."
+      "summary": "“We are allowing children to return and truly meet each other, reduce external distractions, and expand the human and natural connection between students, without screens,” Kisch said."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -20,6 +30,36 @@
       "image": null,
       "published_at": "2025-12-11T11:27:40.000Z",
       "summary": "A month of reservist service costs about NIS 38,000 ($11,700), while conscripting young Haredim is far cheaper and may even encourage them to join the workforce."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Severe disruption hits Portugal in first general strike for 12 years",
+      "url": "https://www.bbc.com/news/articles/cdxwrvl1734o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/892a/live/ac7c48b0-d5f7-11f0-bffa-33f15bc19d02.jpg",
+      "published_at": "2025-12-11T10:50:14.000Z",
+      "summary": "PM Luís Montenegro appears to have been taken aback by the strength of feeling against his government's labour reforms."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Hanukkah recipes | When Churro meets Sufganiya: A spicy holiday twist on two classics",
+      "url": "https://www.haaretz.com/food/2025-12-11/ty-article-magazine/.premium/hanukkah-recipe-when-churro-meets-sufganiya-a-spicy-holiday-twist-on-two-classics/0000019b-0861-dda6-a7fb-3c61618c0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-0869-df61-a7fb-48ff9a1c0001/28/62/121ffc094fbcad2dbb4ff2c42fb8/994340.jpg?height=81",
+      "published_at": "2025-12-11T10:47:53.000Z",
+      "summary": "This fried pastry is a cross between a Hanukkah doughnut – sufganiya in Hebrew – and a Spanish-style churro, with spices that impart a surprising aroma and flavor with every bite. It's perfect with special dips or sprinkled with powdered sugar"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "גשמים עזים בגוש דן ובכרמל, והצפות: עדכונים שוטפים מהשיא של \"ביירון\"",
+      "url": "https://www.ynet.co.il/news/article/b1k5yzufwl",
+      "image": null,
+      "published_at": "2025-12-11T10:45:29.000Z",
+      "summary": "צפו במכ\"ם, ובנקודות האדומות לאורך החוף: גשמים בעוצמה חזקה החלו לרדת בצהריים, בראשון לציון נמדדו 40 מ\"מ תוך שעתיים. הצפות בת\"א וברחובות. הגשמים יתפשטו גם לפנים הארץ, צפויים שיטפונות באזור ים המלח. כמה גשם ירד ליד הבית שלכם - ואיפה נמדדו יותר מ-200 מ\"מ מתחילת המערכת?"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -205,7 +245,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "תיעוד מדהים ממפל סער, ואיפה ירדו יותר מ-200 מ\"מ גשם? עדכונים שוטפים מ\"ביירון\"",
+      "title": "תיעוד מדהים ממפל סער, ואיפה ירדו יותר מ-200 מ\"מ גשם?",
       "url": "https://www.ynet.co.il/news/article/rjjny0wfbx",
       "image": null,
       "published_at": "2025-12-11T08:59:54.000Z",
@@ -785,16 +825,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Portugal braced for mass disruption in first general strike for 12 years",
-      "url": "https://www.bbc.com/news/articles/cdxwrvl1734o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/892a/live/ac7c48b0-d5f7-11f0-bffa-33f15bc19d02.jpg",
-      "published_at": "2025-12-11T00:24:49.000Z",
-      "summary": "PM Luís Montenegro appears to have been taken aback by the strength of feeling against his government's labour reforms."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "The Swiss city that lets you pay for most things with bitcoin",
       "url": "https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d0/live/73a6a430-cf8b-11f0-a892-01d657345866.jpg",
@@ -1262,16 +1292,6 @@
       "summary": "If the court does not act on U.S. demands, including dropping investigations of Israeli leaders over the Gaza war and formally ending a probe of U.S. troops over their actions in Afghanistan, Washington may penalize ICC officials and sanction the court itself, an official said"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "היועמ\"שית: חוק הפטור מגיוס לא חוקתי, נותן מענה לצורכי הישיבות - ולא לביטחון",
-      "url": "https://www.ynet.co.il/news/article/bygxn4pzwx",
-      "image": null,
-      "published_at": "2025-12-10T18:31:22.000Z",
-      "summary": "בחוות דעת מקיפה ותקיפה במיוחד גורסת בהרב-מיארה כי חוק הפטור מגיוס בגרסתו הנוכחית לא עומד ב\"אמות המידה החוקתיות\" - וכי הוא דורש שינוי מקיף. \"נדרש לקבוע סנקציות אישיות, אפקטיביות ומיידיות לאכיפת חובת הגיוס באופן שוויוני\". יו\"ר ועדת חו\"ב ביסמוט: \"ניסיון יפה, עו\"ד מיארה\""
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1560,16 +1580,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-0827-dda6-a7fb-3c67e6190000/96/fd/0ea2fe634c4ba44c790609f6bff1/062451.jpg?height=81",
       "published_at": "2025-12-10T12:14:51.000Z",
       "summary": "Because Palestinian banks can access the global financial system only via Israeli institutions, defense officials warn that severing ties – long used as political leverage – risks destabilizing the Palestinian Authority and undermining oversight of terror financing"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Larnaca flight rerouted over Beirut due to Storm Byron lands safely in Tel Aviv",
-      "url": "https://www.jpost.com/israel-news/article-879853",
-      "image": null,
-      "published_at": "2025-12-10T12:04:54.000Z",
-      "summary": "The aircraft landed safely at Ben-Gurion Airport approximately 30 minutes later than scheduled."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2400,16 +2410,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-fe49-deef-a3ff-fe4944100001/7b/ea/47ecdf2c472e9bd14e7c694a6b79/238300.jpg?height=81",
       "published_at": "2025-12-08T15:27:33.000Z",
       "summary": "From protests to displacement to personal loss, 'Local Testimony' at Tel Aviv's Eretz Israel Museum reveals the people behind the headlines"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "This is the 'crime' that got Ms. Rachel nominated for 'Antisemite of the Year'",
-      "url": "https://www.haaretz.com/opinion/2025-12-08/ty-article-opinion/.premium/this-is-the-crime-that-got-ms-rachel-nominated-for-antisemite-of-the-year/0000019a-fd98-de90-adfa-ff981c090000",
-      "image": "https://img.haarets.co.il/bs/0000019a-fdba-d161-a3bb-ffba83e40000/b0/43/d628be864db5ae095920521df9a2/053757.jpg?height=81",
-      "published_at": "2025-12-08T15:08:38.000Z",
-      "summary": "StopAntisemitism, an organization that claims to represent Jews, blacklisted beloved educator Ms. Rachel because she sees Palestinians as humans. Her absurd nomination, at a time when antisemitism is rising, reflects how compassion itself is being demonized"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
