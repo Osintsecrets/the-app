@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-11T06:53:12.544Z",
+  "generated_at": "2025-12-11T07:15:18.580Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Shares in AI giant Oracle fall after revenue results ramp up bubble fears",
+      "url": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d362/live/44b7dad0-d621-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-12-11T07:08:49.000Z",
+      "summary": "The cloud computing giant's revenue miss renews questions about its financial health."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"ביירון\" מגיעה לעזה: \"אלפי אוהלים הוצפו. במצב הזה - נמות תוך ימים\" | תיעוד",
+      "url": "https://www.ynet.co.il/news/article/b10r00mvfbl",
+      "image": null,
+      "published_at": "2025-12-11T07:08:36.000Z",
+      "summary": "רחובות הוצפו, אלפי אוהלים קרסו, וברצועה מנסים להתמודד עם הסופה - כמעט ללא חשמל, גז או מחסה. \"אנשים עומדים במים קפואים ואין להם לאן ללכת\", אמר דובר ההגנה האזרחית. ראשי עיר הזהירו מ\"מצב קטסטרופלי\", ובסרטונים שהופצו נראה כאוס: \"ילדים רועדים, אימהות ישנות על רצפת בוץ. אל תתנו לנו להיעלם\""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US seizes oil tanker off the coast of Venezuela, Trump says",
+      "url": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164b/live/5b26b3d0-d631-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-12-11T07:08:35.000Z",
+      "summary": "Venezuela condemns the operation as an act of \"international piracy\", vowing never to be an \"oil colony\"."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הביקור החשאי בישראל - שצפוי להכעיס את סין",
+      "url": "https://www.ynet.co.il/news/article/bk00gry00g11l",
+      "image": null,
+      "published_at": "2025-12-11T06:59:28.000Z",
+      "summary": "דיווח: סגן שר החוץ של טייוואן ערך ביקור נדיר בישראל, על רקע הידוק היחסים וחשיפת מערכת הגנה אווירית שמבוססת בחלקה על מערכות ישראליות. בשבוע שעבר סין הגיבה בחריפות בעקבות הצטרפות ישראלית חריגה להצהרה נגדה"
+    },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
@@ -135,21 +175,11 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Shares in AI giant Oracle fall after revenue results ramp up bubble fears",
-      "url": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d362/live/44b7dad0-d621-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-12-11T03:52:00.000Z",
-      "summary": "The cloud computing giant's revenue miss renews questions about its financial health."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Venezuelan opposition leader makes first public appearance after months in hiding",
+      "title": "Venezuelan Nobel winner emerges to collect prize in Oslo after months in hiding",
       "url": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4167/live/ce0e8d00-d63b-11f0-a892-01d657345866.jpg",
       "published_at": "2025-12-11T03:36:40.000Z",
-      "summary": "Nobel Peace Prize winner María Corina Machado, who has been in hiding since January, speaks to the BBC in Oslo after her secretive journey."
+      "summary": "María Corina Machado, who has been in hiding since January, speaks to the BBC in Oslo after her secret journey from her home country."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -172,24 +202,14 @@
       "summary": "Avi Marciano said that rather than treat his daughter Noa for her wounds, a doctor at al-Shifa hospital killed her. He was sent a video of her last moments. "
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US seizes oil tanker off the coast of Venezuela, Trump says",
-      "url": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164b/live/5b26b3d0-d631-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-12-11T03:30:51.000Z",
-      "summary": "Venezuela condemns the operation as an act of \"international piracy\", vowing never to be an \"oil colony\"."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Sources: U.S. weighs hitting UN Palestinian refugee agency with terrorism-related sanctions",
+      "title": "Trump administration weighs hitting UNRWA with terrorism-related sanctions",
       "url": "https://www.haaretz.com/us-news/2025-12-11/ty-article/sources-u-s-weighs-hitting-un-palestinian-refugee-agency-with-terror-related-sanctions/0000019b-0b6a-dda6-a7fb-3f6bd8670000",
       "image": "https://img.haarets.co.il/bs/0000019a-fd24-d193-a1be-ffa5928c0000/6b/8f/a48c43be41edbe14f6b4fa7f1fb8/241314-1.jpg?height=81",
       "published_at": "2025-12-11T03:28:07.000Z",
-      "summary": "Trump-appointed State Department officials are pushing UNRWA sanctions, but career staff are raising alarms: 'UNRWA is an indispensable, neutral, humanitarian actor,' the agency said, warning that a terrorist designation could devastate aid to millions of Palestinian refugees"
+      "summary": "Trump-appointed State Department officials are pushing UNRWA sanctions, but career staff are raising alarms: 'UNRWA is an indispensable, neutral, humanitarian actor,' warning that a terrorist designation could devastate aid to millions of Palestinians"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -235,7 +255,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "For first time, Amnesty accuses Hamas of 'crimes against humanity' on and after October 7",
+      "title": "Trump says he'll name members of Gaza Board Of Peace 'early next year'",
       "url": "https://www.haaretz.com/israel-news/2025-12-11/ty-article-live/for-first-time-amnesty-accuses-hamas-of-crimes-against-humanity-on-and-after-october-7/0000019b-0b4b-d153-abbf-ef6f0f370000",
       "image": "https://img.haarets.co.il/bs/0000019a-fa1c-d161-a3bb-fe9e3fd50000/2f/24/b1add94a443e906741119433816d/993124.jpg?height=81",
       "published_at": "2025-12-11T02:50:15.000Z",
@@ -315,11 +335,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "In first, Amnesty accuses Hamas of crimes against humanity during Oct. 7 attack and Gaza war",
+      "title": "Eyeing defense cooperation, Taiwan’s deputy FM made secret trip to Israel recently",
       "url": "https://www.timesofisrael.com/liveblog-december-11-2025/",
       "image": null,
       "published_at": "2025-12-11T01:16:09.000Z",
-      "summary": "Rights group says other Palestinian terror groups also guilty of war crimes * Senior Hamas leader denounces International Stabilization Force in Gaza as ‘occupation’\nThe post In first, Amnesty accuses Hamas of crimes against humanity during Oct. 7 attack and Gaza war appeared first on The Times of I"
+      "summary": "In first, Amnesty accuses Hamas of crimes against humanity during Oct. 7 attack and Gaza war * Senior Hamas leader denounces International Stabilization Force in Gaza as ‘occupation’\nThe post Eyeing defense cooperation, Taiwan’s deputy FM made secret trip to Israel recently appeared first on The Tim"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1292,16 +1312,6 @@
       "summary": "על-רקע התנגדות השר סופר וח\"כים מהציונות הדתית לנוסח המוצע, דנו אנשי המפלגה בסוגיה השנויה במחלוקת עם שורת רבנים. כמה רבנים תמכו בחוק מחשש לפירוק הממשלה, אחרים התנגדו בטענה שצריך לגייס הרבה יותר חרדים. הסיעה הודיעה כי לא התקבלה הכרעה: \"נצביע רק על חוק שיביא לגיוס אמיתי\""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "העדות הקשה של הנערה הדרוזית שנאנסה בידי ג'יהאדיסטים בסוריה: \"גרר אותי על המקפיא\"",
-      "url": "https://www.ynet.co.il/news/article/sy6nxn8zwl",
-      "image": null,
-      "published_at": "2025-12-10T16:01:16.000Z",
-      "summary": "באירוע שנערך במטה האו\"ם בשווייץ, הוקרנה עדותה של בת 14 ממחוז א-סווידא שסיפרה על רגע האימה שבו נאנסה במהלך הטבח - בידי אנשי א-שרע ומחבל דאעש: \"היו בבית יותר מ-20 מחבלים, איימו על המשפחה שלי\". גם הנערה היזידית שנחטפה לעזה מעיראק דיברה, מנהיג העדה הדרוזית בישראל: \"העולם שתק\""
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1310,16 +1320,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-07c7-d153-abbf-efe77c670001/ed/2b/6cd7a60b45998eb5224771a65ce4/072614.jpg?height=81",
       "published_at": "2025-12-10T16:00:34.000Z",
       "summary": "The fire-makers of Suffolk may have been early Neanderthals, and the archaeologists believe they have the smoking match to show intentionality"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"אין מצוקה\": חודש הקשר עם היאכטה הישראלית שנעלמה בים",
-      "url": "https://www.ynet.co.il/news/article/s1jl8gvzbe",
-      "image": null,
-      "published_at": "2025-12-10T15:55:14.000Z",
-      "summary": "אחרי יממה של חיפושים, בקפריסין עדכנו כי נוצר קשר עם הישראלים שעל היאכטה שהפליגה מאשדוד, ועלה חשש שאולי נסחפה בעקבות הסופה ביירון. \"היאכטה עושה כעת את דרכה חזרה ארצה\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
