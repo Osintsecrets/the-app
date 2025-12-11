@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-11T02:46:00.024Z",
+  "generated_at": "2025-12-11T03:51:02.830Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Venezuelan opposition leader makes first public appearance after months in hiding",
+      "url": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4167/live/ce0e8d00-d63b-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-12-11T03:36:40.000Z",
+      "summary": "Nobel Peace Prize winner María Corina Machado, who has been in hiding since January, speaks to the BBC in Oslo after her secretive journey."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -12,6 +22,36 @@
       "summary": "Avi Marciano said that rather than treat his daughter Noa for her wounds, a doctor at al-Shifa hospital killed her. He was sent a video of her last moments. "
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US seizes oil tanker off the coast of Venezuela, Trump says",
+      "url": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164b/live/5b26b3d0-d631-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-12-11T03:30:51.000Z",
+      "summary": "Venezuela condemns the operation as an act of \"international piracy\", vowing never to be an \"oil colony\"."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Sources: U.S. weighs hitting UN Palestinian refugee agency with terrorism-related sanctions",
+      "url": "https://www.haaretz.com/us-news/2025-12-11/ty-article/sources-u-s-weighs-hitting-un-palestinian-refugee-agency-with-terror-related-sanctions/0000019b-0b6a-dda6-a7fb-3f6bd8670000",
+      "image": "https://img.haarets.co.il/bs/0000019a-fd24-d193-a1be-ffa5928c0000/6b/8f/a48c43be41edbe14f6b4fa7f1fb8/241314-1.jpg?height=81",
+      "published_at": "2025-12-11T03:28:07.000Z",
+      "summary": "Some career State Dept officials concerned on legal, humanitarian grounds"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Ukraine reports large Russian mechanised assault in battle for Pokrovsk",
+      "url": "https://www.aljazeera.com/news/2025/12/11/ukraine-reports-large-russian-mechanised-assault-in-battle-for-pokrovsk?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-11T03:22:35.000Z",
+      "summary": "Russia has claimed to be in full control of Pokrovsk but Ukrainian forces say they still control northern part of city."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -20,6 +60,46 @@
       "image": null,
       "published_at": "2025-12-11T03:21:45.000Z",
       "summary": "Freed hostages Gali and Ziv Berman return to the Festigal stage after 738 days in captivity, honoring fellow hostages and expressing hope for Ran Gvili's return."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Displaced Gaza families struggle as winter storm hits",
+      "url": "https://www.aljazeera.com/news/2025/12/11/displaced-gaza-families-struggle-as-winter-storm-hits?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-11T03:17:14.000Z",
+      "summary": "Families face flooded tents, sewage, extreme overcrowding, and deepening hardship amid ongoing displacement."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "US considers hitting UNRWA with terrorism-related sanctions",
+      "url": "https://www.timesofisrael.com/us-considers-hitting-unrwa-with-terrorism-related-sanctions/",
+      "image": null,
+      "published_at": "2025-12-11T03:13:19.000Z",
+      "summary": "State Department official says 'everything on the table' but no final decision made, slams the UN agency as a 'corrupt organization with a proven track record of aiding and abetting terrorists'\nThe post US considers hitting UNRWA with terrorism-related sanctions appeared first on The Times of Israel"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "For first time, Amnesty accuses Hamas of 'crimes against humanity' on and after October 7",
+      "url": "https://www.haaretz.com/israel-news/2025-12-11/ty-article-live/for-first-time-amnesty-accuses-hamas-of-crimes-against-humanity-on-and-after-october-7/0000019b-0b4b-d153-abbf-ef6f0f370000",
+      "image": "https://img.haarets.co.il/bs/0000019a-fa1c-d161-a3bb-fe9e3fd50000/2f/24/b1add94a443e906741119433816d/993124.jpg?height=81",
+      "published_at": "2025-12-11T02:50:15.000Z",
+      "summary": ""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Big tech bets big on AI - but can India keep pace in the global race?",
+      "url": "https://www.bbc.com/news/articles/cd74gjw1j11o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc0f/live/54434780-d0ec-11f0-b0cc-cf4d0e5d41e2.jpg",
+      "published_at": "2025-12-11T02:46:08.000Z",
+      "summary": "Experts have called India a hedge against AI - reflecting the absence of Indian companies in the global boom."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -52,16 +132,6 @@
       "summary": "Prime Minister Netanyahu spoke with Bolivian President Paz after the renewal of diplomatic ties, emphasizing security cooperation and boosting tourism between the nations."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Venezuelan opposition leader makes first public appearance after months in hiding",
-      "url": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9477/live/b15f62e0-d633-11f0-9e2b-cbd0f61470f5.jpg",
-      "published_at": "2025-12-11T02:30:19.000Z",
-      "summary": " Nobel Peace Prize winner María Corina Machado, who has been in hiding since January, arrives in Oslo after a secretive journey."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -80,16 +150,6 @@
       "image": null,
       "published_at": "2025-12-11T01:59:12.000Z",
       "summary": "Ad campaigns by Israel's Foreign Ministry and the AJC call for remains of the slain police officer to immediately be returned from Gaza\nThe post Times Square digital billboards call for release of final Hamas hostage Ran Gvili appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US seizes oil tanker off the coast of Venezuela, Trump says",
-      "url": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164b/live/5b26b3d0-d631-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-12-11T01:46:54.000Z",
-      "summary": "Venezuela condemns the operation as an act of \"international piracy\", vowing never to be an \"oil colony\"."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -115,11 +175,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "US considers hitting UNRWA with terrorism-related sanctions",
+      "title": "In first, Amnesty accuses Hamas of crimes against humanity during Oct. 7 attack and Gaza war",
       "url": "https://www.timesofisrael.com/liveblog-december-11-2025/",
       "image": null,
       "published_at": "2025-12-11T01:16:09.000Z",
-      "summary": "In first, Amnesty accuses Hamas and other terror groups of crimes against humanity during Oct. 7 attack and subsequent Gaza war * Senior Hamas leader denounces stabilization force as ‘occupation’\nThe post US considers hitting UNRWA with terrorism-related sanctions appeared first on The Times of Isra"
+      "summary": "Rights group says other Palestinian terror groups also guilty of war crimes * Senior Hamas leader denounces International Stabilization Force in Gaza as ‘occupation’\nThe post In first, Amnesty accuses Hamas of crimes against humanity during Oct. 7 attack and Gaza war appeared first on The Times of I"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -812,16 +872,6 @@
       "summary": "Country's RUV broadcaster says allowing Israel to stay in contest has 'caused disunity' as it follows Spain, Ireland, Slovenia and Netherlands in withdrawing\nThe post Iceland becomes fifth country to quit Eurovision in protest of Israel&#8217;s inclusion appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Visiting US envoy Waltz: News &#8216;upcoming&#8217; on phase 2 of Gaza plan, Hamas &#8216;has to go&#8217;",
-      "url": "https://www.timesofisrael.com/visiting-us-envoy-says-announcements-upcoming-on-phase-2-of-gaza-plan-hamas-has-to-go/",
-      "image": null,
-      "published_at": "2025-12-10T19:21:55.000Z",
-      "summary": "Source says Washington to unveil key Gaza Board of Peace at month's end'; Gaza authorities report 3 killed in Jabalia, including 16-year-old; IDF says it shot terror operative\nThe post Visiting US envoy Waltz: News &#8216;upcoming&#8217; on phase 2 of Gaza plan, Hamas &#8216;has to go&#8217; appeare"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1012,16 +1062,6 @@
       "summary": "הבכיר במוסד שהיה המועמד המוביל בתוך הארגון להחליף את ברנע - ימונה לסגנו של ראש ארגון הביון שנתניהו הנחית מבחוץ, מזכירו הצבאי אלוף רומן גופמן. הבחירה בגופמן נתפסה כמהלך מטלטל - וכעת הדגישו בסביבת נתניהו: \"מינויו של א׳ לסגן היא כחלק מהאמון שיש לרה\"מ במוסד ובהמשכיות פעילותו ההתקפית\""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "WATCH: Palestine prepare for historic FIFA Arab Cup clash with Saudi Arabia",
-      "url": "https://www.aljazeera.com/video/2025/12/10/watch-palestine-prepare-for-historic-fifa-arab-cup-clash-with-saudi-arabia?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-10T17:37:07.000Z",
-      "summary": "Palestine face Saudi Arabia in the FIFA Arab Cup quarterfinals, the first time the former have reached this stage."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1130,16 +1170,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f879/live/9fbd2730-d5a1-11f0-bb2f-35f722db3215.jpg",
       "published_at": "2025-12-10T17:04:17.000Z",
       "summary": "Terrified residents say heavy artillery and gunfire has hit Uvira, the gateway to Burundi."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Real Madrid vs Manchester City 1-2: UEFA Champions League – as it happened",
-      "url": "https://www.aljazeera.com/sports/liveblog/2025/12/10/live-real-madrid-vs-manchester-city-uefa-champions-league?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-10T17:00:00.000Z",
-      "summary": "All the updates as Real Madrid fall to a 2-1 defeat to Manchester City at the Santiago Bernabeu Stadium."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -2452,26 +2482,6 @@
       "summary": "Sophie von der Tann, the German public broadcaster's correspondent in Tel Aviv, has been subjected to what colleagues and press freedom advocates say is a 'pattern' of pressure put on journalists covering Israel's war in Gaza – spearheaded by Israel's ambassador to Germany"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "'Pile of bodies in a dumpster': Freed hostage Rom Braslavski recounts Oct. 7 kidnapping",
-      "url": "https://www.haaretz.com/israel-news/2025-12-08/ty-article/.premium/pile-of-bodies-in-a-dumpster-freed-hostage-rom-braslavski-recounts-oct-7-kidnapping/0000019a-fd43-de90-adfa-ff5b581b0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-fd5c-d2e4-a1ff-fffc00960000/4f/f1/50fc41314706b84c95315bbde40c/964646-1.jpg?height=81",
-      "published_at": "2025-12-08T10:03:18.000Z",
-      "summary": "Braslavski, who was released from captivity in October as part of the U.S.-brokered deal to end the Gaza war, described the aftermath he witnessed of the mass murder on October 7. Last month, he described his struggle with PTSD, saying he has 'around 10 panic attacks a day'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israeli forces raid inactive UNRWA offices in East Jerusalem with debt collectors after ban",
-      "url": "https://www.haaretz.com/israel-news/2025-12-08/ty-article/.premium/israeli-forces-raid-inactive-unrwa-offices-in-east-jerusalem-after-ban/0000019a-fcff-de90-adfa-feff21160000",
-      "image": "https://img.haarets.co.il/bs/0000019a-fd1d-d2e4-a1ff-ffbd61990000/2a/99/798dfd90407d83b7f1b59a3e18b0/052942.jpg?height=81",
-      "published_at": "2025-12-08T09:12:42.000Z",
-      "summary": "Israel Police said the officers who raided the headquarters were bailiffs carrying out a debt foreclosure order. The UNRWA offices in East Jerusalem have been inactive since 2024, when the Knesset approved bills banning the organization's activities in Israel"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -2530,16 +2540,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04c2/live/083382f0-d2e6-11f0-a892-01d657345866.jpg",
       "published_at": "2025-12-06T15:08:31.000Z",
       "summary": "For the past two years all public Christmas celebrations have been cancelled in Bethlehem in the occupied West Bank."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "From leaning glass tower to golden fish sculpture - Frank Gehry's most iconic work",
-      "url": "https://www.bbc.com/news/articles/c0qlgx275jqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd99/live/ffc28a10-d288-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-05T20:26:35.000Z",
-      "summary": "As one of architecture's most provocative and creative forces, Frank Gehry was behind intriguing buildings the world over."
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
