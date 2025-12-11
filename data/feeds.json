@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-11T21:10:54.053Z",
+  "generated_at": "2025-12-11T21:38:19.822Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israel agrees to fund Gaza reconstruction 'for time being' at US demand - Ynet",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-880108",
+      "image": null,
+      "published_at": "2025-12-11T23:30:59.000Z",
+      "summary": "The estimated cost to repair the destruction from two years of fighting, bombing, and bulldozing is in the billions."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -19,7 +29,7 @@
       "url": "https://www.jpost.com/israel-news/article-880106",
       "image": null,
       "published_at": "2025-12-11T22:22:36.000Z",
-      "summary": "Ran Kochav recounts to the Jerusalem Post his time as Arrow commander and the technology's role in making history."
+      "summary": "Ran Kochav recounts to The Jerusalem Post his time as Arrow commander and the technology's role in making history."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -30,6 +40,26 @@
       "image": null,
       "published_at": "2025-12-11T21:29:17.000Z",
       "summary": "Head of Taiwan’s Mission in Israel Ya-Ping (Abby) Lee reaffirmed her support for the Jewish state during the visit."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "A pardon for Netanyahu is career suicide for Herzog – and he's not suicidal",
+      "url": "https://www.haaretz.com/opinion/2025-12-11/ty-article-opinion/.premium/a-pardon-for-netanyahu-is-career-suicide-for-herzog-and-hes-not-suicidal/0000019b-0f17-dda6-a7fb-3f57b2390000",
+      "image": "https://img.haarets.co.il/bs/0000019b-08f6-dba2-a3bf-28f631570000/ce/14/7fa8a8c44624a7730e499f7f1363/973279-4.jpg?height=81",
+      "published_at": "2025-12-11T21:27:48.000Z",
+      "summary": "It's possible that the Israeli president wants to pardon Netanyahu, maybe even without a promise that he'll retire from politics. But it's hard to see Herzog daring to do that, as a huge majority of the political community from which he comes is opposed to such a step"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli society is blind to its own poor – it will end up not seeing at all",
+      "url": "https://www.haaretz.com/opinion/2025-12-11/ty-article-opinion/.premium/israeli-society-is-blind-to-its-own-poor-it-will-end-up-not-seeing-at-all/0000019b-0ec7-d153-abbf-eee70cac0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-0f0c-d153-abbf-ef2f2b790002/74/55/2fe1e1294c0e99526b42b1e55182/capture.PNG?height=81",
+      "published_at": "2025-12-11T21:23:41.000Z",
+      "summary": "People who have learned to turn their gazes away from the pain of people far away ultimately turn their gazes away even from the pain of those closest to them"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -45,6 +75,36 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
+      "title": "Israel's top court ignored Ben-Gvir's history. They must fix their mistake by ousting him",
+      "url": "https://www.haaretz.com/opinion/editorial/2025-12-11/ty-article-opinion/the-top-court-made-a-mistake-by-ignoring-ben-gvirs-history-they-can-now-fix-it/0000019b-0ec8-d999-ad9f-8fef22720000",
+      "image": "https://img.haarets.co.il/bs/00000184-00e6-d2db-ad96-4cf755a90000/52/eb/7bfd6ad44558ab031788a1d45c4b/653289.jpg?height=81",
+      "published_at": "2025-12-11T21:21:35.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Haaretz Cartoon",
+      "url": "https://www.haaretz.com/opinion/daily-cartoon/2025-12-11/ty-article-opinion/haaretz-cartoon/0000019b-0f3c-df61-a7fb-4fbfbc4e0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-0f3d-df61-a7fb-4fbf781d0001/10/44/e0f88a6643beb238d440fb6c892e/image-2025-12-11-130749432.png?height=81",
+      "published_at": "2025-12-11T21:09:36.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "משחקים, מסתפרים, מתחבקים, מדברים, סובלים, חיים: התיעודים של 6 החטופים",
+      "url": "https://www.ynet.co.il/news/article/skuqknomzg",
+      "image": null,
+      "published_at": "2025-12-11T21:05:02.000Z",
+      "summary": "\"חמאס צילם את הסרטונים מתוך מזימה לפרסם תעמולה, אך האנושיות של ששת הגיבורים קורנת מהצילומים הללו. היא חזקה יותר מכל ארגון טרור\". התיעודים שפרסם מטה החטופים, ובהם נראים הרש גולדברג-פולין, עדן ירושלמי, אורי דנינו, אלכס לובנוב, אלמוג סרוסי וכרמל גת במנהרות חמאס "
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
       "title": "Hebrew University student union election board disqualifies left-affiliated candidates",
       "url": "https://www.haaretz.com/israel-news/2025-12-11/ty-article/.premium/hebrew-university-student-union-election-board-disqualifies-left-affiliated-candidates/0000019b-0efa-dda6-a7fb-3efb07db0000",
       "image": "https://img.haarets.co.il/bs/0000019b-0f0e-df61-a7fb-4f9f1d410007/0a/35/601c151049238488f8cd5be64482/379559.jpg?height=81",
@@ -55,11 +115,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "השיא מאחורינו: הנתונים מ\"ביירון\", המכ\"ם והתחזית - לקראת סיום",
+      "title": "חיפושים נרחבים אחר נעדר בירקון: שיאניות הגשם, וההמשך של \"ביירון\" - לקראת סיום",
       "url": "https://www.ynet.co.il/news/article/rkzlziom11x",
       "image": null,
       "published_at": "2025-12-11T20:54:23.000Z",
-      "summary": "200 מ\"מ באזור עתלית, 150 באזור חיפה - ויותר מ-100 במרכז: סערת הגשמים \"ביירון\" שהביאה איתה כמויות גדולות של ממטרים תמשיך ללוות אותנו עד מחר. ראשון לציון כבשה את ראש הטבלה ביום השיא, ומה קרה בכינרת? כל הנתונים מצפון ועד דרום, ה\"אזהרה הכתומה\" - ומתי צפוי הגשם שוב לחזור"
+      "summary": "200 מ\"מ באזור עתלית, 150 באזור חיפה - ויותר מ-100 במרכז: סערת הגשמים \"ביירון\" שהביאה איתה כמויות גדולות של ממטרים תמשיך ללוות אותנו עד מחר. ראשון לציון כבשה את ראש הטבלה ביום השיא, בירקון מחפשים אחר בן 19 מבני ברק. כל הנתונים מצפון ועד דרום, ה\"אזהרה הכתומה\" - ומתי צפוי הגשם לחזור"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1352,16 +1412,6 @@
       "summary": "במגזין ה\"אטלנטיק\" פורסם סיפורו הבלתי נתפס של מוחמד חוסיין טג'יק, סוכן מודיעין איראני שחוסל ב-2016 - ככל הנראה על ידי אביו שמקורב למשטר. לפי הפרסום, בין השאר סייע טג'יק לישראל וארה\"ב לחסל את בכיר חיזבאללה עימאד מורנייה בדמשק, ולגלות את מתקן העשרת האורניום התת-קרקעי בפורדו"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"יחס משפיל\": העיכוב בנתב\"ג - ותגובת הנגד של המדינה האפריקנית",
-      "url": "https://www.ynet.co.il/news/article/rj7e00bogbe",
-      "image": null,
-      "published_at": "2025-12-11T09:36:29.000Z",
-      "summary": "ימים ספורים לאחר ששבעה אזרחי גאנה עוכבו בנתב\"ג, בהם ארבעה חברי משלחת פרלמנטרית ושלושה שגורשו מישראל, החליטו במדינה האפריקנית לגרש בתגובה 3 ישראלים. \"זו תגובה ליחס לא הומני שעברו אזרחינו על ידי הרשויות בישראל\", מסר משרד החוץ של גאנה, שזימן לשיחה את ממלא מקום שגריר ישראל באקרה"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1690,16 +1740,6 @@
       "image": null,
       "published_at": "2025-12-10T19:51:55.000Z",
       "summary": "Prime Minister Benjamin Netanyahu approved the appointment of A., a candidate with 20 years of experience at the agency, as the new deputy director for the Mossad."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF declares curfew, all army activities reduced to essentials only ahead of Storm Byron",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-879944",
-      "image": null,
-      "published_at": "2025-12-10T19:45:39.000Z",
-      "summary": "The new orders reduced all military activities to essential-only status, prohibiting troops from leaving the base to go home for the weekend and any naval exercises during the storm."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2242,16 +2282,6 @@
       "summary": "Haifa's Horev Center, a symbol of Israeli resistance since 2020, faces a ban on demonstrations"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "European basketball returns to Israel nearly 800 days after the Gaza war began",
-      "url": "https://www.haaretz.com/israel-news/sports/2025-12-09/ty-article-magazine/.premium/european-basketball-returns-to-israel-nearly-800-days-after-the-gaza-war-began/0000019b-02dc-d0bf-a7fb-fbdd61700000",
-      "image": "https://img.haarets.co.il/bs/0000019b-02fa-d153-abbf-eeff0c140007/bb/25/984bafb84481b5adaccc00eeef84/559308.jpg?height=81",
-      "published_at": "2025-12-09T14:22:43.000Z",
-      "summary": "On Tuesday, Hapoel Jerusalem will face Hamburg, and on Thursday, Maccabi will meet French side Villeurbanne, much like before the war. Next Tuesday, Hapoel Tel Aviv will take on Red Star Belgrade. European basketball is returning to Israel after its post-October 7 hiatus, but the revival remains fra"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -2260,36 +2290,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77b6/live/ba19e800-d508-11f0-9fb5-5f3a3703a365.jpg",
       "published_at": "2025-12-09T14:10:05.000Z",
       "summary": "Brazilian officials say thieves held up a security guard and an elderly couple before making off with the artworks, including some by the famed French artist Henri Matisse."
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Likud MK slams Israel's AG at Knesset, says she is 'both a suspect and a felon'",
-      "url": "https://www.haaretz.com/israel-news/2025-12-09/ty-article/.premium/likud-mk-slams-israels-ag-at-knesset-says-she-is-both-a-suspect-and-a-felon/0000019b-02dc-d0bf-a7fb-fbddbdf50000",
-      "image": "https://img.haarets.co.il/bs/0000019b-0323-d6f7-a5fb-f7bb5d6c0000/82/20/717006f444cdb0a67b90415f3f87/991035.jpg?height=81",
-      "published_at": "2025-12-09T13:29:26.000Z",
-      "summary": "In a heated committee session concerning the government's intention to split the role of the attorney general, MK Moshe Saadsa also confronted Deputy Attorney General Gil Limon, accusing him of acting as a member of a crime family"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "One year after Assad: Is authoritarianism creeping back into Syria under Trump's watch?",
-      "url": "https://www.haaretz.com/middle-east-news/2025-12-09/ty-article/.premium/with-syria-still-in-pieces-al-sharaa-attempts-to-rebuild-the-nation-under-trumps-watch/0000019b-027d-deef-a3ff-d67d3ca70000",
-      "image": "https://img.haarets.co.il/bs/0000019b-02d4-d3d0-a7fb-37dfb3a30000/ab/92/dab1719e4ee69fe76d875ca00b87/055501-2.jpg?height=81",
-      "published_at": "2025-12-09T12:41:50.000Z",
-      "summary": "Journalists and academics who recently visited Syria expressed that they are impressed by the broad freedom of expression. While President al-Sharaa seems unlikely to repeat the vicious tyranny of his predecessor, reconciliation, personal security, and justice for minorities still appear to be dista"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Report: Palestinian wounded by settlers in West Bank, questioned by Shin Bet, released with no charges",
-      "url": "https://www.haaretz.com/west-bank/2025-12-09/ty-article/.premium/report-palestinian-wounded-by-settlers-questioned-by-shin-bet-released-with-no-charges/0000019b-0290-da91-adbf-62b119740000",
-      "image": "https://img.haarets.co.il/bs/0000019b-02c5-d153-abbf-eee7fb1b0000/36/83/c0e4508449cfaff9a2e725836ad3/042631.jpg?height=81",
-      "published_at": "2025-12-09T11:42:03.000Z",
-      "summary": "18-year-old Awis Himan told the daily Al-Quds that he was assaulted by settlers near his home, abducted to a nearby outpost and severely beaten by IDF soldiers. He was later questioned by the Shin Bet security service and released the next day"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
