@@ -1,15 +1,55 @@
 {
-  "generated_at": "2025-12-11T13:10:10.128Z",
+  "generated_at": "2025-12-11T13:53:26.120Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Herzog demands MQG head retract claims linking him to alleged Netanyahu pardon deal",
+      "title": "Gazan artists, potters create their own materials from ashes, process trauma through creativity",
+      "url": "https://www.jpost.com/israel-news/culture/article-880042",
+      "image": null,
+      "published_at": "2025-12-11T15:42:13.000Z",
+      "summary": "Potter Jafar Atallah and artist Nada Rajab are carving out their own beacons of resilience using nothing but earth, pigment, and human connection."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israel marks national day of commemoration for Yemenite Jewish aliyah",
+      "url": "https://www.jpost.com/israel-news/culture/article-880036",
+      "image": null,
+      "published_at": "2025-12-11T15:08:46.000Z",
+      "summary": "Education Ministry officials promised that, in addition to creating educational resources, the ministry is “trying to instill in teachers sensitivity to the different ethnic backgrounds.\""
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israeli NGO must retract claim on secret Netanyahu pardon deal, Herzog demands",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-880020",
       "image": null,
       "published_at": "2025-12-11T15:02:56.000Z",
       "summary": "The President’s Residence unequivocally denied any connection between Herzog and the memorandum. Officials told reporters that Herzog did not know the document until the media contacted him."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'Architects of AI' named Time Magazine's Person of the Year",
+      "url": "https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c264/live/8a003d90-d698-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-12-11T13:52:11.000Z",
+      "summary": "Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Daily Briefing Dec. 11: Day 797 &#8212; Final Columbia antisemitism report reveals classroom aggressions",
+      "url": "https://www.timesofisrael.com/daily-briefing-dec-11-day-797-final-columbia-antisemitism-report-reveals-classroom-aggressions/",
+      "image": null,
+      "published_at": "2025-12-11T13:44:34.000Z",
+      "summary": "NY correspondent Luke Tress discusses the final task force report on the campus that spawned student encampments during the Hamas war, and antisemitism and anti-Zionism at 2 California colleges\nThe post Daily Briefing Dec. 11: Day 797 &#8212; Final Columbia antisemitism report reveals classroom aggr"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -22,10 +62,70 @@
       "summary": "\"If Israel deports 10 Ghanaians, we will deport 10. 20, we'll deport 20. 50 we'll deport 50. We are not going to accept this,\" said FM Okudzeto Ablakwa."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Poland arrests Russian archaeologist wanted in Ukraine",
+      "url": "https://www.bbc.com/news/articles/clydz0j1yego?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b26/live/c0f7b7e0-d690-11f0-9184-a796dfacc4c9.jpg",
+      "published_at": "2025-12-11T13:41:23.000Z",
+      "summary": "The allegations against the suspect includes the illegal excavation of an ancient city in Crimea."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "The new life of convicted Palestinian terrorist Basem Khandakji as a celebrated novelist",
+      "url": "https://www.haaretz.com/life/2025-12-11/ty-article-magazine/.premium/the-new-life-of-convicted-palestinian-terrorist-basem-khandakji-as-a-celebrated-novelist/0000019a-f8a6-d82e-a9da-f9bf1b180000",
+      "image": "https://img.haarets.co.il/bs/0000019a-f8a7-d82e-a9da-f9bfb6660001/ed/fe/0f81a4de4b56846b1851a4da8764/63986223.JPG?height=81",
+      "published_at": "2025-12-11T13:31:45.000Z",
+      "summary": "Hailed across the Arab world and condemned in Israel, novelist Basem Khandakji - who was convicted in the 2004 Carmel Market bombing in Tel Aviv - enjoys a new chapter in Egypt and vows 'to expose the true face of Zionist literature'"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Venezuela’s crisis is not an oil grab but a power grab",
+      "url": "https://www.aljazeera.com/opinions/2025/12/11/venezuelas-crisis-is-not-an-oil-grab-but-a-power-grab?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-11T13:29:31.000Z",
+      "summary": "Trump has manufactured the Venezuela crisis, not to grab more oil but to expand his executive power."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Unknown alphabet in Dead Sea Scrolls has been cracked, scholar says",
+      "url": "https://www.haaretz.com/archaeology/2025-12-11/ty-article-magazine/unknown-alphabet-in-dead-sea-scrolls-has-been-cracked-scholar-says/0000019b-0d44-df61-a7fb-4dd7f07b0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-0d44-df61-a7fb-4dd7ee960000/de/e0/0fcab2d74c66a24cd139ca0081e0/64097562.JPG?height=81",
+      "published_at": "2025-12-11T13:27:19.000Z",
+      "summary": "Cryptic B was considered impenetrable because there's so little material. Then, Emmanuel Oliveiro, a scholar in the Netherlands, noticed what looked like the word 'Yisrael'"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Austria bans headscarves in schools for under-14s",
+      "url": "https://www.bbc.com/news/articles/cn4djk0jj4xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0a2/live/682afe30-d693-11f0-ba25-9df42b9cffb2.jpg",
+      "published_at": "2025-12-11T13:15:47.000Z",
+      "summary": "A similar ban for girls under 10 was struck down by the Constitutional Court for specifically targeting Muslims."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "AG likely to back Ben-Gvir dismissal after Netanyahu refuses to act on 'political' police control",
+      "url": "https://www.haaretz.com/israel-news/2025-12-11/ty-article/.premium/ag-likely-to-back-ben-gvir-dismissal-after-pm-refuses-to-act-on-political-police-control/0000019b-0d7a-db05-afbb-cfff7cdf0000",
+      "image": "https://img.haarets.co.il/bs/00000197-a805-d32c-a5df-fa6fb2600001/49/23/06d717c84287a8643b470772b4d3/480283.jpg?height=81",
+      "published_at": "2025-12-11T13:13:32.000Z",
+      "summary": "The attorney general will respond to the High Court next week on petitions seeking the far-right minister's dismissal. Netanyahu rejected her request to stop Ben-Gvir from controlling the police, while petitioners say his removal is needed over ongoing violations of police independence and politiciz"
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הצפות ענק ביבנה, בשיא של \"ביירון\": מכוניות \"טבעו\", סופרמרקט הפך לבריכה, עץ קרס בבי\"ס",
+      "title": "יבנה הוצפה, בשיא של \"ביירון\": מכוניות \"טבעו\", סופרמרקט הפך לבריכה, עץ קרס בבי\"ס",
       "url": "https://www.ynet.co.il/news/article/b1k5yzufwl",
       "image": null,
       "published_at": "2025-12-11T13:06:19.000Z",
@@ -45,7 +145,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "תיעוד מדהים: קפץ לצניחה חופשית - ונתלה מכנף המטוס",
+      "title": "אימה בשחקים: קפץ לצניחה חופשית - ונתלה מכנף המטוס | צפו",
       "url": "https://www.ynet.co.il/news/article/rybupvomwx",
       "image": null,
       "published_at": "2025-12-11T13:02:04.000Z",
@@ -165,11 +265,11 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Venezuelan Nobel winner tells BBC she knows 'risks' of Oslo trip",
+      "title": "Venezuelan Nobel winner tells BBC she knows 'risks' of Oslo trip after months in hiding",
       "url": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c1e/live/346013e0-d668-11f0-a892-01d657345866.jpg",
       "published_at": "2025-12-11T12:28:56.000Z",
-      "summary": "María Corina Machado, who has been in hiding for months, speaks about her secret journey to Norway from her home country."
+      "summary": "María Corina Machado, who has been threatened by her home country's government, speaks about her secret journey to Norway."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -229,7 +329,7 @@
       "url": "https://www.ynet.co.il/news/article/b1f11nvogbg",
       "image": null,
       "published_at": "2025-12-11T12:10:45.000Z",
-      "summary": "רה\"מ מתבצר בעמדתו נגד ועדת חקירה ממלכתית, ותקף את מה שכינה \"מסע לחצים מאורגן\" - אחרי אמירתו של רונן בר. \"הם לא יכתיבו לנו, זה ניגוד אינטרסים ברור\", אמר נתניהט. לפיד: \"אין ניגוד עניינים ברור יותר מראש ממשלת 7/10 ושריו\". איזנקוט: \"נתניהו יודע את האמת ומפחד\". גנץ: \"הגמל לא רואה את הדבשת\" "
+      "summary": "רה\"מ מתבצר בעמדתו נגד ועדת חקירה ממלכתית, ותקף את מה שכינה \"מסע לחצים מאורגן\" - אחרי אמירתו של רונן בר. \"הם לא יכתיבו לנו, זה ניגוד אינטרסים ברור\", אמר נתניהו. לפיד: \"אין ניגוד עניינים ברור יותר מראש ממשלת 7/10 ושריו\". איזנקוט: \"נתניהו יודע את האמת ומפחד\". גנץ: \"הגמל לא רואה את הדבשת\" "
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvazI4",
@@ -270,6 +370,16 @@
       "image": null,
       "published_at": "2025-12-11T12:00:00.000Z",
       "summary": "האמירה שלשכת ראש הממשלה \"קיבלה את המלצות ודרכי הפעולה שהציעו צה\"ל ומערכת הביטחון\" אינה פוטרת את הדרג המדיני מאחריות. תפקידו של הדרג המדיני הוא לקבל החלטה אסטרטגית מעל המלצות הדרג המבצעי, ולהנחות את המערכת בהתאם לתפיסת ביטחון לאומי ברורה"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "What we know about US seizure of oil tanker off Venezuela",
+      "url": "https://www.bbc.com/news/articles/cwyp7rkkgvdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f7/live/007355a0-d67d-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-12-11T11:34:28.000Z",
+      "summary": "The US seizure of a crude oil ship is the latest in a series of escalations in the Trump administration's pressure campaign on Venezuela. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -335,6 +445,16 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
+      "title": "Pakistan's military sentences its former spy chief to 14 years in jail ",
+      "url": "https://www.bbc.com/news/articles/cwyv5q7d72lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e661/live/0cb09730-d676-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-12-11T11:00:09.000Z",
+      "summary": "Faiz Hameed led Pakistan's ISI intelligence agency during the tenure of now-jailed former PM Imran Khan."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
       "title": "Severe disruption hits Portugal in first general strike for 12 years",
       "url": "https://www.bbc.com/news/articles/cdxwrvl1734o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/892a/live/ac7c48b0-d5f7-11f0-bffa-33f15bc19d02.jpg",
@@ -369,7 +489,7 @@
       "url": "https://www.haaretz.com/gaza/2025-12-11/ty-article/.premium/not-a-natural-disaster-storm-byron-floods-gaza-heightening-fears-of-disease-and-death/0000019b-0bea-dda6-a7fb-3feba8e90000",
       "image": "https://img.haarets.co.il/bs/0000019b-0ce8-d153-abbf-ecef6b090000/bc/22/6bfda31b421e94fa22d5973702bc/074159.jpg?height=81",
       "published_at": "2025-12-11T10:33:36.000Z",
-      "summary": "Despite the Israel-Hamas cease-fire taking effect in October, thousands still live in makeshift tents with little protection from the rain. Displaced persons' camps are flooded with garbage and sewage, increasing the risk of infectious diseases"
+      "summary": "Despite the Israel-Hamas cease-fire taking effect in October, thousands in Gaza still live in makeshift tents with little protection from the rain. Displaced persons' camps are flooded with garbage and sewage, increasing the risk of infectious diseases"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -405,11 +525,11 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Storm Byron wreaks havoc on Israel amid heavy flooding as supermarkets, roads overflow",
+      "title": "Dozens rescued in severe flooding as Storm Byron wreaks havoc on Israel",
       "url": "https://www.jpost.com/israel-news/article-879990",
       "image": null,
       "published_at": "2025-12-11T10:17:04.000Z",
-      "summary": "At least 14 Israelis were rescued from vehicles stuck in eight severe flooding hotspots across Yavne, according to the Fire and Rescue Service."
+      "summary": "At least 14 Israelis rescued from vehicles across Yavne • Two students injured as tree collapses at Rishon Lezion school • Netanya man found dead with severe hypothermia"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -425,11 +545,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Man found dead of suspected hypothermia, 14 rescued from vehicles, amid winter storm",
+      "title": "Man found dead, 14 rescued from trapped vehicles amid winter storm",
       "url": "https://www.timesofisrael.com/man-found-dead-of-suspected-hypothermia-amid-winter-storm/",
       "image": null,
       "published_at": "2025-12-11T10:10:22.000Z",
-      "summary": "Rescue services say 53-year-old found lifeless in Netanya home; flood warnings remain in place throughout much of the country as rainfall continues, snow falls on Mount Hermon\nThe post Man found dead of suspected hypothermia, 14 rescued from vehicles, amid winter storm appeared first on The Times of"
+      "summary": "Rescue services say 53-year-old found lifeless in Netanya home likely died of hypothermia; two girls lightly hurt by falling tree at school, taken to hospital\nThe post Man found dead, 14 rescued from trapped vehicles amid winter storm appeared first on The Times of Israel.\n"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvVW9G",
@@ -732,16 +852,6 @@
       "summary": "Give a meaningful gift that deepens your loved one’s connection to the Jewish homeland and strengthens its economy. Lock in  competitive rates with an investment that reflects your values.\nThe post Hanukkah is right around the corner appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Bolivia arrests ex-President Luis Arce in corruption investigation",
-      "url": "https://www.aljazeera.com/news/2025/12/11/bolivia-arrests-ex-president-luis-arce-in-corruption-investigation?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-11T07:10:06.000Z",
-      "summary": "Arce is in custody as part of a probe into alleged financial misconduct while he was economy minister, government says."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -760,16 +870,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d06c/live/d39b0dc0-d64f-11f0-913a-f5408f7a593b.jpg",
       "published_at": "2025-12-11T06:45:03.000Z",
       "summary": "Brothers Gaurav and Saurabh Luthra fled to Phuket, shortly after the incident last week."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Several Israeli settlers enter Gaza, try to plant trees before being detained by IDF",
-      "url": "https://www.timesofisrael.com/several-israeli-settlers-enter-gaza-try-to-plant-trees-before-being-detained-by-idf/",
-      "image": null,
-      "published_at": "2025-12-11T06:40:14.000Z",
-      "summary": "Army says all suspects captured, handed over to police; 'We came to plant for the Jewish settlement in Gaza. All of the land of Israel is ours,' activist says in social media clip\nThe post Several Israeli settlers enter Gaza, try to plant trees before being detained by IDF appeared first on The Time"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1510,26 +1610,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7de/live/b5cb5180-d5d0-11f0-ae19-ef278771bbc7.jpg",
       "published_at": "2025-12-10T13:15:42.000Z",
       "summary": "The two four-storey buildings that came down in Fez contained eight families, state media report."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Baggage breakdown at Israel's Ben-Gurion Airport disrupts check-in, slows flights",
-      "url": "https://www.jpost.com/israel-news/article-879867",
-      "image": null,
-      "published_at": "2025-12-10T13:04:48.000Z",
-      "summary": "Israel Airports Authority says the disruption is not linked to Storm Byron; travelers asked to be patient as technicians work to restore service on Wednesday."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Bereaved families confront Netanyahu in court, demand for state commission of inquiry into Oct. 7",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-879865",
-      "image": null,
-      "published_at": "2025-12-10T12:58:12.000Z",
-      "summary": "The emotional exchange briefly disrupted the hearing in Netanyahu’s criminal trial and underscored the growing public pressure on the government to authorize an independent investigation."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2362,16 +2442,6 @@
       "summary": "According to the new rules, fans, players and clubs could face fines, bans and even relegation for repeated offenses. 'Those who want the outcome to be decided only on the pitch must also behave accordingly in the stands,' football association head said"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Ireland's three-time Eurovision winner backs country's withdrawal over Israel",
-      "url": "https://www.haaretz.com/world-news/europe/2025-12-08/ty-article/.premium/irelands-three-time-eurovision-winner-backs-countrys-withdrawal-over-israel/0000019a-fe9c-deef-a3ff-fe9c56f50000",
-      "image": "https://img.haarets.co.il/bs/0000019a-fea4-de33-a59e-fef5756f0000/92/8b/84e57f1d44ea940a8f7cccb6cb49/865242.jpg?height=81",
-      "published_at": "2025-12-08T17:45:01.000Z",
-      "summary": "Speaking to Irish radio, singer Johnny Logan said Israel should have been removed  just as Russia was, warning that allowing Israel to participate tells viewers to 'turn a blind eye' and 'forget everything'"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -2380,26 +2450,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bec7/live/b70a9eb0-d464-11f0-b331-5f24a4a7069f.jpg",
       "published_at": "2025-12-08T17:01:30.000Z",
       "summary": "Europe's leaders are trying to avoid alienating Donald Trump while fighting for Ukrainian sovereignty and future continental stability."
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Does a Jewish film festival have to be a Holocaust film festival?",
-      "url": "https://www.haaretz.com/life/2025-12-08/ty-article-magazine/.premium/does-a-jewish-film-festival-have-to-be-a-holocaust-film-festival/0000019a-f8ae-d193-a1be-fbafe6060000",
-      "image": "https://gif.haarets.co.il/bs/0000019a-f8ee-d2e4-a1ff-ffeea42c0001/45/5d/311424054fbcaa989462f8cfc410/culture-roundup-07-12-25-homepage.gif?height=81",
-      "published_at": "2025-12-08T15:58:16.000Z",
-      "summary": "Also coming up: The Association for LGBTQ Equality in Israel marks the death of rocker Corinne Allal, whose music became the soundtrack for secular, queer Israel, and the Rubin Museum reopens after war damage with an exhibition of paintings by Menashe Kadishman"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Netanyahu to meet Trump in U.S. on December 29, PM's office says",
-      "url": "https://www.haaretz.com/israel-news/2025-12-08/ty-article/.premium/netanyahu-to-meet-trump-in-u-s-on-december-29-pms-office-says/0000019a-fe60-d4b0-af9b-ff706d8e0000",
-      "image": "https://img.haarets.co.il/bs/0000019a-fe60-dfc3-ad9b-ff79e7860001/06/3b/fcd535904399a97ba3bee9f876b9/826737.jpg?height=81",
-      "published_at": "2025-12-08T15:42:35.000Z",
-      "summary": "It has not been announced whether the two will meet at the White House or in Trump's Mar-A-Lago club. Trump invited Netanyahu during a phone conversation last week, which, according to Israel's Channel 12, also dealt with Netanyahu's pardon request"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
