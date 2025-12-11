@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-11T19:37:31.566Z",
+  "generated_at": "2025-12-11T20:11:45.131Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -42,6 +42,56 @@
       "summary": "The IDF chief made his mark on increased readiness, from more troops on the border, to more tanks, to less holiday vacations."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "צה\"ל הכריז על חיסול מחבל שניסה לדרוס, תיעוד חדש מעמיד את הגרסה בספק",
+      "url": "https://www.ynet.co.il/news/article/byqrsq00mbx",
+      "image": null,
+      "published_at": "2025-12-11T19:54:40.000Z",
+      "summary": "הפלסטינים פרסמו תיעוד חדש ממה שהגדירו בצה\"ל ניסיון פיגוע דריסה: הנהג עוצר אחרי עיקול, נוסע אחורה - ואז נשמעים קולות ירי מצד החיילים - שעמדו מאחורי בטונדות. באירוע נהרג גם עובד ניקיון בעיריית חברון - שהוגדר באיחור כ\"בלתי-מעורב\" על ידי הצבא. תושבים בחברון: החיילים לא היו בסכנת חיים"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Failure of rival health bills underscores impasse in US politics",
+      "url": "https://www.aljazeera.com/economy/2025/12/11/failure-of-rival-health-bills-underscores-impasse-in-us-politics?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-11T19:52:23.000Z",
+      "summary": "Democrats voted down a Republican bill that would have provided limited relief for out-of-pocket healthcare costs."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הודח מפקד הטייסת שאישר לפרחי הטיס לשתות אלכוהול: \"אירועים חריגים\"",
+      "url": "https://www.ynet.co.il/news/article/s1zdsc00mwg",
+      "image": null,
+      "published_at": "2025-12-11T19:36:03.000Z",
+      "summary": "הקצין, טייס מנוסה בדרגת רב-סרן שלחם בכל הזירות, הודח אחרי שאישר לחניכי קורס טיס 191 לשתות אלכוהול במלון - מה שהחל שרשרת אירועים חריגה בחיל האוויר, שבמהלכה סיפרו חלקם לקרוביהם על מה שעברו בסדנת השבי"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "במטה החברה בארה\"ב: נועה ארגמני ואביתנן אור נפגשו עם מנכ\"ל אנבידיה",
+      "url": "https://www.ynet.co.il/news/article/bkkn9500g11l",
+      "image": null,
+      "published_at": "2025-12-11T19:35:32.000Z",
+      "summary": "המפגש אורגן על ידי עמית קריג, סגן נשיא בכיר ומנהל מרכז הפיתוח של ענקית השבבים בישראל. צוות ההנהלה הישראלי, שנמצא בימים אלה בארה\"ב, השתתף גם הוא באירוע המרגש"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "'Is there a Jew who Tucker doesn't hate?' The America First love fest with left-wing anti-Israel critics goes up a gear",
+      "url": "https://www.haaretz.com/us-news/2025-12-11/ty-article/.premium/the-america-first-love-fest-with-left-wing-anti-israel-critics-goes-up-a-gear/0000019b-0dcd-d868-affb-5dfda8050000",
+      "image": "https://img.haarets.co.il/bs/0000019b-0dff-d868-affb-5dff252c0000/41/98/19668ad3479181118e8a02ce8781/645962.jpg?height=81",
+      "published_at": "2025-12-11T19:30:16.000Z",
+      "summary": "Right-wing pundit Tucker Carlson bonds with UN special rapporteur Francesca Albanese, Rep. Marjorie Taylor Greene meets with pro-Palestinian Code Pink activists: The GOP split over Israel and antisemitism is now creating a swathe of unlikely bedfellows, much to the chagrin of AIPAC and pro-Israel Re"
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -62,10 +112,20 @@
       "summary": "Ukraine's president says territory and control of the Zaporizhzhia nuclear power remain unresolved issues in a peace plan."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Can India balance its ties between Russia and the US?",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2025/12/11/can-india-balance-its-ties-between-russia-and-the-us?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-11T19:20:30.000Z",
+      "summary": "New Delhi is deepening economic ties with Moscow, despite pressure from Washington."
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Ultra-orthodox, anti-Zionist sect welcomes New York's Zohran Mamdani to annual celebration event",
+      "title": "Ultra-Orthodox, anti-Zionist sect welcomes New York's Zohran Mamdani to annual celebration event",
       "url": "https://www.haaretz.com/israel-news/2025-12-11/ty-article/.premium/ultra-orthodox-sect-welcomes-new-yorks-zohran-mamdani-to-annual-celebration-event/0000019b-0e1a-d153-abbf-ee3fda4f0000",
       "image": "https://img.haarets.co.il/bs/0000019b-0ed3-d999-ad9f-8fff53b20001/cf/24/f5a9c1c043f4a0db2c75488a35dd/whatsapp-image-2025-12-11-at-9-09-40-pm.jpeg?height=81",
       "published_at": "2025-12-11T19:13:46.000Z",
@@ -1072,16 +1132,6 @@
       "summary": "דיווח: סגן שר החוץ של טייוואן ערך ביקור נדיר בישראל, על רקע הידוק היחסים וחשיפת מערכת הגנה אווירית שמבוססת בחלקה על מערכות ישראליות - ואחרי ביקור חשאי אחר, של סגן שר ההגנה. שגרירות סין בתגובה חריפה: \"קוראים לישראל לתקן את הפעולות השגויות\""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Myanmar junta’s air attack on hospital kills dozens of people",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/myanmar-juntas-air-attack-on-hospital-kills-dozens-of-people?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-11T12:21:41.000Z",
-      "summary": "An air attack by Myanmar’s military government has hit a hospital in Rakhine state, killing at least 30 people. "
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -1090,16 +1140,6 @@
       "image": null,
       "published_at": "2025-12-11T12:19:57.000Z",
       "summary": "Education Minister Yoav Kisch says move is designed to foster 'a healthy and safe educational climate'\nThe post Cellphones to be banned from elementary schools nationwide starting February appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Zelenskyy rallies key allies as Ukraine faces Russian and US pressure",
-      "url": "https://www.aljazeera.com/news/2025/12/11/zelenskyy-rallies-key-allies-as-ukraine-faces-russian-and-us-pressure?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-11T12:13:17.000Z",
-      "summary": "Ukrainian leader holds urgent talks with &#039;coalition of the willing&#039; as pressure mounts over territorial concessions."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1302,26 +1342,6 @@
       "summary": "The junta has stepped up bombardments by air in an attempt to reclaim territory from ethnic armies."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "מחקר חשף: רוב ה\"עיתונאים\" שנהרגו במלחמה בעזה - פעילי טרור",
-      "url": "https://www.ynet.co.il/news/article/ryfavjozbx",
-      "image": null,
-      "published_at": "2025-12-11T08:05:35.000Z",
-      "summary": "מחקר חדש של מרכז המידע למודיעין ולטרור מצא כי בין 266 ההרוגים הפלסטינים שהוגדרו כעיתונאים או אנשי תקשורת - היו לפחות 157 פעילים או מזוהים עם ארגוני הטרור, רובם אנשי חמאס והג'יהאד האיסלאמי. \"חמאס רואה בעיתונאים חלק חשוב במערכת התעמולה, המאבק על התודעה וההסתה\", הדגישו במרכז"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בעקבות הפרסום ב-ynet: ההנחיה שתתקן את העוול להורים שכולים עובדי מדינה",
-      "url": "https://www.ynet.co.il/news/article/yokra14609595",
-      "image": null,
-      "published_at": "2025-12-11T08:03:56.000Z",
-      "summary": "אחרי הפרסום ב-ynet ו\"ידיעות אחרונות\" על כך שגם שכרם של עובדי מדינה שכולים מקוצץ כדי לסייע בגירעון שגרמה המלחמה, הנחה נציג שירות המדינה: עובד מדינה ששכל קרוב משפחה מדרגה ראשונה במלחמה יקבל תוספת של שבעה ימי היעדרות בשנה - במשך חמש השנים הבאות"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1330,16 +1350,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-0851-dc4e-addb-2cf3a2940001/52/d3/cd7ee70045fe978542ee2c56cd39/293047.jpg?height=81",
       "published_at": "2025-12-11T08:02:02.000Z",
       "summary": "By supporting despicable laws enshrining their exemption from army service, the political leaders of Israel's million-strong ultra-Orthodox community are betraying a core tenet of mutual responsibility. But the real reason for their indifference to the rest of the Jewish world isn't about theology a"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "עם פאה, תחפושת - ומטוסי קרב באוויר: כך נמלטה כלת פרס נובל לשלום מוונצואלה",
-      "url": "https://www.ynet.co.il/news/article/hyzexyofzx",
-      "image": null,
-      "published_at": "2025-12-11T07:43:48.000Z",
-      "summary": "מריה קורינה מצ'אדו הגיעה לאוסלו בצל הסכנה לחייה מצד משטר מדורו, והופיעה בפומבי לראשונה מאז ינואר. היא נופפה לתומכיה מהמלון, שרה איתם את ההמנון, חיבקה אנשים - והבטיחה: \"אחזור לוונצואלה\". ברקע הסלמת הקמפיין האמריקני נגד קראקס, היא ברחה ממדינתה במבצע נועז ומורכב, שתכנונו ארך כחודשיים"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2290,16 +2300,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-023a-de33-a59f-fafbb1f00000/78/a7/4acadfa245a6821395dba1de6a05/436382.jpg?height=81",
       "published_at": "2025-12-09T09:19:15.000Z",
       "summary": "The former British prime minister is seen as a key figure in advancing international 'day after' plans for Gaza, though several sources say he was pushed aside amid Egyptian opposition. Egyptian billionaire Naguib Sawiris, floated as a possible candidate for a Gaza council, visited Israel this week"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israeli settlers slaughter a donkey they stole from a Palestinian child in the West Bank",
-      "url": "https://www.haaretz.com/israel-news/2025-12-09/ty-article/.premium/israeli-settlers-slaughter-a-donkey-the-stole-from-a-palestinian-child-in-the-west-bank/0000019b-01c8-dfc3-ad9b-a7f9bc770000",
-      "image": "https://img.haarets.co.il/bs/0000019b-01c8-dfc3-ad9b-a7f9bdab0001/d5/71/ffd5c19e40e6b863d47fc28acaa8/057503.jpg?height=81",
-      "published_at": "2025-12-09T08:16:52.000Z",
-      "summary": "Villagers said that the settlers killed one of the donkeys after Israeli forces, who arrived an hour and a half after the incident, left the scene shortly after. 'People are very afraid now; they saw what was done to the donkey,' one resident said"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
