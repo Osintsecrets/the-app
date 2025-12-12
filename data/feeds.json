@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-12T21:08:08.719Z",
+  "generated_at": "2025-12-12T21:35:39.015Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -22,6 +22,36 @@
       "summary": "The conference will take place on December 16, and representatives from more than 25 countries are expected to attend."
     },
     {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Israel said to give mediators a list of terrorists who know where Ran Gvili is buried",
+      "url": "https://www.timesofisrael.com/israel-said-to-give-mediators-a-list-of-terrorists-who-know-where-ran-gvili-is-buried/",
+      "image": null,
+      "published_at": "2025-12-12T21:29:42.000Z",
+      "summary": "Names of Palestinian Islamic Jihad operatives, maps reportedly passed to negotiators as official says last captive could potentially be returned 'within a short time'\nThe post Israel said to give mediators a list of terrorists who know where Ran Gvili is buried appeared first on The Times of Israel."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Turkish car ferry damaged in strike at Ukrainian port",
+      "url": "https://www.bbc.com/news/articles/c5yjj2epvlro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8696/live/ce6cdd80-d797-11f0-a26d-bf334594d69a.jpg",
+      "published_at": "2025-12-12T21:06:30.000Z",
+      "summary": "Ukraine's president has blamed Russia for the attack as Turkey called for a suspension of strikes on shipping and ports. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israel approves 19 new West Bank settlements in major annexation push",
+      "url": "https://www.aljazeera.com/news/2025/12/12/israel-approves-19-new-west-bank-settlements-in-major-annexation-push?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-12T20:54:59.000Z",
+      "summary": "Palestinian officials warn Israel’s new settlement plan accelerates annexation, deepens violence across occupied area."
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -29,7 +59,7 @@
       "url": "https://www.ynet.co.il/news/article/bjsgqjcgze",
       "image": null,
       "published_at": "2025-12-12T20:52:06.000Z",
-      "summary": "טראמפ נכנע ללחץ ואישר לפרסם את מסמכי החקירה של חברו לשעבר עד 19 בדצמבר, וכדי להגביר את הלחץ שזה יקרה פרסמו הדמוקרטים תמונות חדשות מעיזבונו של אפשטיין. באחת מהן נראה טראמפ מוקף ב-6 נשים, באחרת אריזת קונדומים ב\"4.50 דולר\" עם איור שלו: \"אני ענק!\". עוד בתמונות: סטיב באנון, ביל קלינטון וביל גייטס. הבית ה"
+      "summary": "טראמפ נכנע ללחץ ואישר לפרסם את מסמכי החקירה של חברו לשעבר עד 19 בדצמבר, וכדי להגביר את הלחץ שזה יקרה פרסמו הדמוקרטים תמונות חדשות מעיזבונו של הפדופיל. באחת מהן נראה הנשיא מוקף ב-6 נשים, באחרת אריזת קונדומים ב-\"4.50 דולר\" עם איור שלו: \"אני ענק!\". עוד בתמונות: סטיב באנון, ביל קלינטון וביל גייטס. הבית "
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -632,16 +662,6 @@
       "summary": "No comment from COGAT; Hamas civil agency reports 11 deaths related to Storm Byron, including baby and young girl from cold and others from building collapses\nThe post UN: Gaza-bound shelter materials refused entry, leaving displaced masses exposed appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Refugees describe neighbours killed as M23 cements control of key DRC city",
-      "url": "https://www.aljazeera.com/news/2025/12/12/refugees-describe-neighbours-killed-as-m23-cements-control-of-key-drc-city?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-12T14:36:28.000Z",
-      "summary": "As M23 rebels capture strategic city Uvira despite Trump peace deal, displaced families recount chaos and death."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -830,16 +850,6 @@
       "image": null,
       "published_at": "2025-12-12T12:20:42.000Z",
       "summary": "Lebanese state media says about a dozen sites targeted, including some north of the Litani River; no casualties reported\nThe post IDF says it struck Hezbollah training facility, other sites in south Lebanon appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "ICC officials confront curbs to travel, finances in face of sweeping US sanctions",
-      "url": "https://www.timesofisrael.com/icc-officials-confront-curbs-to-travel-finances-in-face-of-sweeping-us-sanctions/",
-      "image": null,
-      "published_at": "2025-12-12T12:18:12.000Z",
-      "summary": "Sanctioned staff lose access to credit cards, emails, travel visas and Amazon's Alexa over court's warrants for PM, Gallant, and US officials; Canadian judge says officials 'undeterred'\nThe post ICC officials confront curbs to travel, finances in face of sweeping US sanctions appeared first on The T"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1270,16 +1280,6 @@
       "image": null,
       "published_at": "2025-12-11T23:54:40.000Z",
       "summary": "The footage, obtained by the IDF, shows the six hostages, Carmel Gat, Eden Yerushalmi, Hersh Goldberg-Polin, Ori Danino, Alexander Lobanov, and Almog Sarusi, who were murdered by Hamas in 2024."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US sanctions six more ships after seizing oil tanker off Venezuela",
-      "url": "https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d916/live/fd039eb0-d74a-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-12-11T23:40:28.000Z",
-      "summary": "The White House plans to move the tanker to a US port and seize the oil on board, a move Caracas has labelled as an act of \"international piracy\"."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
