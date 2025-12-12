@@ -1,15 +1,55 @@
 {
-  "generated_at": "2025-12-12T18:50:18.426Z",
+  "generated_at": "2025-12-12T19:08:41.111Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"הנחיית הסמארטפונים\" של קיש - כבר מיושמת בבתי ספר: \"מודעים מזמן לסכנות\"",
+      "url": "https://www.ynet.co.il/news/article/hjobacom11e",
+      "image": null,
+      "published_at": "2025-12-12T18:49:14.000Z",
+      "summary": "שר החינוך הודיע על איסור שימוש בסמארטפונים בבתי ספר יסודיים, אך גם לפני למנהלים הייתה סמכות להחליט - ורבים מהם כבר אסרו זאת. \"החלטה מעולה באיחור של עשור, מעודדים הורים לתת טלפון רק בסיום היסודי\", אמר מורה מפתח תקווה. מנהלת מנוף הגליל דאגה לפני 5 שנים שהמכשירים יישארו בחוץ: \"לא תמיד היה קל\""
+    },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "EU backs indefinite freeze on Russia's frozen cash ahead of big loan plan for Ukraine",
+      "title": "EU backs indefinite freeze on Russia's frozen cash ahead of loan plan for Ukraine",
       "url": "https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c2/live/208d5190-d760-11f0-b252-db9838d38426.jpg",
       "published_at": "2025-12-12T18:46:20.000Z",
       "summary": "After almost four years of Russia's full-scale war, Kyiv is running out of cash, and needs an estimated €135.7bn over the next two years."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Eurovision winner Nemo returns trophy in protest over Israel’s inclusion",
+      "url": "https://www.aljazeera.com/news/2025/12/12/eurovision-winner-nemo-returns-trophy-in-protest-over-israels?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-12T18:37:53.000Z",
+      "summary": "Singer&#039;s statement follows walkout by 5 countries after organisers cleared Israel to participate in next year&#039;s contest."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Who will win the Warner Bros battle – Netflix or Paramount?",
+      "url": "https://www.aljazeera.com/video/the-take-2/2025/12/12/aje-onl-aj_tt_glb_netflix_av-121225?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-12T18:34:21.000Z",
+      "summary": "How the acquisition of the legendary Hollywood studio Warner Bros could reshape the media landscape."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Preservationists sue to halt Trump’s White House ballroom construction",
+      "url": "https://www.aljazeera.com/news/2025/12/12/preservationists-sue-to-halt-trumps-white-house-ballroom-construction?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-12T18:34:20.000Z",
+      "summary": "Trump has championed 90,000-square-foot addition, as critics say his has circumvented legally required approvals."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -37,7 +77,7 @@
       "topic": "News",
       "title": "Eritrea quits regional bloc as tensions rise with Ethiopia",
       "url": "https://www.bbc.com/news/articles/cly555k8de3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c869/live/54da6fc0-d781-11f0-a8dc-93c15fe68710.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c8/live/3a86c730-d78c-11f0-b0ee-a9375724f730.jpg",
       "published_at": "2025-12-12T18:18:30.000Z",
       "summary": "Eritrea says it has been targetted by Igad and that the bloc is failing its founding principles."
     },
@@ -662,16 +702,6 @@
       "summary": "Lebanese state media says about a dozen sites targeted, including some north of the Litani River; no casualties reported\nThe post IDF says it struck Hezbollah training facility, other sites in south Lebanon appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Newly released video shows Israeli captives inside Gaza tunnel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/12/newly-released-video-shows-israeli-captives-inside-gaza-tunnel?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-12T12:19:51.000Z",
-      "summary": "Israeli media has released what it says is video of 6 Israeli captives held in a tunnel in Gaza before they were killed."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -692,16 +722,6 @@
       "summary": "The Social Equality minister used a letter written to police by the Arab mayors' council head expressing general support in the fight against Arab community crime as evidence that Arab leaders supported her diverting funds to the Shin Bet to combat crime"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Ongoing Taliban-Olympic talks hope to prompt Afghan women’s rights U-turn",
-      "url": "https://www.aljazeera.com/sports/2025/12/12/afghans-olympic-hope-for-taliban-dialogue-to-spark-womens-rights-u-turn?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-12T11:56:50.000Z",
-      "summary": "Girls in Afghanistan are banned from schools and sport beyond the age of 12 but IOC member has hope for Taliban talks."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -710,16 +730,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b793/live/b08aed70-d747-11f0-a0e7-5f6021480149.jpg",
       "published_at": "2025-12-12T11:47:29.000Z",
       "summary": "He is accused of using romance scams to defraud $8m, with the profits flaunted on Instagram."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israel bombards areas across southern Lebanon in latest truce violation",
-      "url": "https://www.aljazeera.com/news/2025/12/12/israel-bombards-areas-across-southern-lebanon-in-latest-truce-violation?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-12T11:41:10.000Z",
-      "summary": "Raids hit hills and valleys as Israeli military keeps up pressure, it says, to force Hezbollah to disarm."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1220,16 +1230,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-0d21-d999-ad9f-8faf63200007/d8/af/1c62f5054dc7b7e0b5d366e04c75/672406.jpg?height=81",
       "published_at": "2025-12-11T23:07:13.000Z",
       "summary": "With thousands of members, a quarter-million social media followers, and a spot on TIME's list of emerging leaders, 'Standing Together' co-founder Alon Lee-Green is charting a new course for Israel's fractured political opposition"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "גל האנטישמיות והאנטי־ישראליות הוא קמפיין סדור ומהונדס של מדינה ",
-      "url": "https://www.ynet.co.il/news/article/hyzxcloz11e",
-      "image": null,
-      "published_at": "2025-12-11T22:58:00.000Z",
-      "summary": "פרסום ראשון: במערכת הביטחון סבורים שחלק גדול מגל האנטישמיות והאנטי־ישראליות הוא קמפיין סדור, מהונדס ורחב היקף של מדינה או מעצמה | המלחמה הקרה: נציגי ישראל וקטאר נפגשו השבוע בחירוק שיניים, בהוראת ממשל טראמפ. הערכה - אל־ג'זירה וגם נוכחות אנשי חמאס בדוחא עלו בדיון | האמיר, ואמא שלו: מומחה אמריקאי אומר "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
