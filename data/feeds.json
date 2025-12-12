@@ -1,6 +1,76 @@
 {
-  "generated_at": "2025-12-12T19:33:57.710Z",
+  "generated_at": "2025-12-12T20:10:37.602Z",
   "items": [
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Ex-ICC prosecutor says UK threatened to defund court over Netanyahu arrest warrant",
+      "url": "https://www.timesofisrael.com/ex-icc-prosecutor-says-uk-threatened-to-defund-court-over-netanyahu-arrest-warrant/",
+      "image": null,
+      "published_at": "2025-12-12T20:02:34.000Z",
+      "summary": "Khan says unnamed British official warned London could cut funding, quit the Roman Statute if warrants against Israeli prime minister, defense minister moved forward\nThe post Ex-ICC prosecutor says UK threatened to defund court over Netanyahu arrest warrant appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בית של בן 100 הוצף באשקלון - המטפלת חולצה ב\"מים קפואים\" | סיכום ה\"סופה\" - ומה צפוי בהמשך",
+      "url": "https://www.ynet.co.il/news/article/hjqfojkmwe",
+      "image": null,
+      "published_at": "2025-12-12T19:56:59.000Z",
+      "summary": "\"ביירון\" הביאה בימים בודדים כמות גשם חריגה ובשורת מוקדים ירדו יותר מ-50% מהממוצע השנתי. בערים היו הצפות, בדרום שיטפונות -אך בשירות המטאורולוגי מסבירים: מדובר בהפסד למשק המים. ביתו של יוסף הוצף: \"כוחות החילוץ לא הגיעו, נכנסנו למים בגובה מטר ברחוב שהפך לנהר\". וגם: התחזית למערכת הבאה"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Sissi not planning to meet PM and won’t without changes in conduct toward Egypt &#8211; official",
+      "url": "https://www.timesofisrael.com/sissi-not-planning-to-meet-pm-and-wont-without-changes-in-conduct-toward-egypt-official/",
+      "image": null,
+      "published_at": "2025-12-12T19:56:32.000Z",
+      "summary": "Official says unresolved disputes over Gaza, Rafah Crossing and security make summit with Netanyahu unlikely despite interest from Jerusalem, Washington\nThe post Sissi not planning to meet PM and won’t without changes in conduct toward Egypt &#8211; official appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Kilmar Abrego Garcia relieved to not be arrested after US court hearing",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/12/kilmar-abrego-garcia-relieved-to-not-be-arrested-after-us-court-hearing?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-12T19:36:03.000Z",
+      "summary": "Kilmar Abrego Garcia walked out of a US courthouse without being arrested by immigration authorities."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "How does sectarianism impact daily life in Lebanon?",
+      "url": "https://www.aljazeera.com/video/the-stream/2025/12/12/how-does-sectarianism-impact-daily-life-in-lebanon?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-12T19:30:00.000Z",
+      "summary": "We look at the sectarianism that persists in Lebanon, undermining the country&#039;s unity."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Fourteen Palestinians, including children, die in Gaza amid Storm Byron",
+      "url": "https://www.aljazeera.com/news/2025/12/12/fourteen-palestinians-including-children-die-in-gaza-amid-storm-byron?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-12T19:28:54.000Z",
+      "summary": "Desperate Gaza families already displaced by Israel’s war face deadly collapses and freezing conditions as storm hits."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Farmers call for French blockades over cow disease cull",
+      "url": "https://www.bbc.com/news/articles/cm211xz0vl8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b38f/live/a3c8fba0-d787-11f0-b0ee-a9375724f730.jpg",
+      "published_at": "2025-12-12T19:20:39.000Z",
+      "summary": "Farmers have staged protests in several parts of France in recent days after vets culled a herd suffering from the disease."
+    },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
@@ -572,16 +642,6 @@
       "summary": "בישראל מזהים מאמץ גלובלי להגביר טינה כלפי ישראלים ויהודים - וסבורים שרק גורמים מדינתיים מסוגלים לבצע זאת באורח שנראה מתואם. בירושלים אין ודאות כי קטאר עומדת מאחורי הקמפיין, אבל חושדים כי דוחא קיבלה החלטה ברורה: \"להחריב את יחסי ישראל וממשל טראמפ\". הטור המלא - היום ב\"ידיעות אחרונות\""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "A ‘fearful’ country? Crime concerns grip Chile ahead of presidential race",
-      "url": "https://www.aljazeera.com/news/longform/2025/12/12/a-fearful-country-crime-concerns-grip-chile-ahead-of-presidential-run-off?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-12T13:40:36.000Z",
-      "summary": "Far-right candidate Jose Antonio Kast and leftist leader Jeannette Jara have made combatting crime key to their agendas."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -602,16 +662,6 @@
       "summary": "José Antonio Kast, son of a Nazi party member, is frontrunner in fierce campaign against communist Jeannette Jara, an outspoken critic of Trump, Maduro, and Israel's war in Gaza\nThe post Chileans polarized ahead of presidential election as far-right candidate poised to prevail appeared first on The "
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US slaps sanctions on Maduro family, Venezuelan tankers: What we know",
-      "url": "https://www.aljazeera.com/news/2025/12/12/us-slaps-sanctions-on-maduro-family-venezuelan-tankers-what-we-know?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-12T13:20:14.000Z",
-      "summary": "US President Trump imposes new sanctions on Maduro family members as he ups pressure to oust Venezuelan president."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -620,16 +670,6 @@
       "image": null,
       "published_at": "2025-12-12T13:05:17.000Z",
       "summary": "ריאד סלאם מדיר חנא שבגליל התחתון יצא מביתו לאחר שזיהה מיידי אבנים - ונרצח. מתחילת השנה נרצחו 245 בחברה הערבית, אף יותר מבשנה הראשונה לכהונת בן גביר - ויותר מפי 2 ביחס ל-2022. סבו של הנרצח: \"ריאד היה ילד טוב, רצחו אותו בדם קר. בן גביר, תפסיק להתעסק בהריסות בתים, תטפל בפשיעה\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Al Jazeera crew takes cover from Thailand-Cambodia artillery duel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/12/al-jazeera-crew-takes-cover-from-thailand-cambodia-artillery-duel?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-12T12:59:58.000Z",
-      "summary": "Rob McBride and his crew were filming with the Thai military near the Cambodian border when an artillery duel broke out."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -812,16 +852,6 @@
       "summary": "The singer met met families and victims of the Southport stabbing attack, backstage during her Eras tour last year."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "&#8216;I want to fix the IDF&#8217;: Noam Tibon on the impact of Oct. 7 and what he plans to do in Knesset",
-      "url": "https://www.timesofisrael.com/i-want-to-fix-the-idf-noam-tibon-on-the-impact-of-oct-7-and-what-he-plans-to-do-in-knesset/",
-      "image": null,
-      "published_at": "2025-12-12T10:00:53.000Z",
-      "summary": "Retired general who rescued his family from Hamas details plans for assertive defense policy, calls to expand the army's ground forces and end what he sees as its politicization\nThe post &#8216;I want to fix the IDF&#8217;: Noam Tibon on the impact of Oct. 7 and what he plans to do in Knesset appear"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -900,16 +930,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfa7/live/2657e330-d768-11f0-8c06-f5d460985095.jpg",
       "published_at": "2025-12-12T08:00:34.000Z",
       "summary": "Backstage footage shows the singer in tears after meeting survivors of the attack during her world tour."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Geminid meteor shower set to light up sky during weekend peak",
-      "url": "https://www.bbc.com/news/articles/cwyvkkxxj42o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02e7/live/f0007320-d432-11f0-8642-e5058b210012.jpg",
-      "published_at": "2025-12-12T07:37:51.000Z",
-      "summary": "The meteor shower peaks this weekend with dark skies giving the UK a good chance of seeing them, weather-permitting "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1090,16 +1110,6 @@
       "image": null,
       "published_at": "2025-12-12T02:21:08.000Z",
       "summary": "US lawmakers accuse Israel of failing to investigate the October 2023 attack on journalists in Lebanon, which killed Reuters reporter Issam Abdallah and wounded others."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "תביעה חריגה נגד ChatGPT: \"תידלק הזיות ופרנויה - והוביל את הבן לרצוח את אימו\"",
-      "url": "https://www.ynet.co.il/news/article/h1dxer00zzg",
-      "image": null,
-      "published_at": "2025-12-12T02:12:47.000Z",
-      "summary": "בני משפחתה של סוזן תבעו את OpenAI ומייקרוסופט, לאחר שבנה רצח אותה בביתם שבקונטיקט - והתאבד. \"הצ'אט הגביר אצלו הזיות פרנואידיות - ואת החשד שלו באימו\", נכתב בתביעה. לדבריהם הבן שוחח חודשים עם הבוט, \"שקיבל בלהט כל מחשבה ואישר את פחדיו\", מהחברה נמסר: \"קורע לב, פועלים לשפר את המודל\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
