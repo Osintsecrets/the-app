@@ -1,6 +1,36 @@
 {
-  "generated_at": "2025-12-12T14:10:02.270Z",
+  "generated_at": "2025-12-12T14:38:52.321Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "כלים שמייצרים עבורנו מילים עלולים להפוך אותנו לבינוניים?",
+      "url": "https://www.ynet.co.il/news/article/r1umioyzbl",
+      "image": null,
+      "published_at": "2025-12-12T14:31:39.000Z",
+      "summary": "שנים שמענו את המשפט \"לחשוב מחוץ לקופסה\" בהקשר של יצירתיות וחדשנות. והנה הגענו לרגע שבו האנושות המציאה את הקופסה המשוכללת ביותר בהיסטוריה: הבינה המלאכותית"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Disguises, freezing waves, and a special forces veteran: Inside rescue to sneak Nobel winner out of Venezuela",
+      "url": "https://www.bbc.com/news/articles/c4g990exxq4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ec6/live/3014ca30-d75b-11f0-a892-01d657345866.jpg",
+      "published_at": "2025-12-12T14:27:32.000Z",
+      "summary": "The man who led the operation says María Corina Machado crossed “very rough seas” in “pitch-black darkness”."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Gaza rescuers pull bodies from another collapsed house amid severe storm",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/12/gaza-rescuers-pull-bodies-from-another-collapsed-house-amid-severe-storm?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-12T14:05:59.000Z",
+      "summary": "Rescuers pulled bodies from under the rubble of a collapsed house in Gaza’s Beit Lahiya after heavy rain and winds."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -39,7 +69,7 @@
       "url": "https://www.timesofisrael.com/in-an-ancient-oasis-in-bukhara-a-tiny-jewish-community-relies-on-its-muslim-neighbors/",
       "image": null,
       "published_at": "2025-12-12T13:50:56.000Z",
-      "summary": "Once a highly influential Jewish hub on Central Asia's Silk Road, the urban center is now home to just several hundred Jews, who despite a lack of antisemitism struggle to keep tradition alive \nThe post In an ancient oasis in Bukhara, a tiny Jewish community relies on its Muslim neighbors appeared f"
+      "summary": "Once an influential Jewish hub on Central Asia's Silk Road, urban center in Uzbekistan is now home to just several hundred Jews, unthreatened by antisemitism, struggling to keep tradition alive \nThe post In an ancient oasis in Bukhara, a tiny Jewish community relies on its Muslim neighbors appeared "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -89,7 +119,7 @@
       "url": "https://www.timesofisrael.com/chileans-polarized-ahead-of-presidential-election-as-far-right-candidate-poised-to-prevail/",
       "image": null,
       "published_at": "2025-12-12T13:24:56.000Z",
-      "summary": "Openly communist candidate Jeannette Jara, who has floated suspending relations with Israel, faces José Antonio Kast, the son of a Nazi party member, in fierce campaign\nThe post Chileans polarized ahead of presidential election as far-right candidate poised to prevail appeared first on The Times of "
+      "summary": "José Antonio Kast, son of a Nazi party member, is frontrunner in fierce campaign against communist Jeannette Jara, an outspoken critic of Trump, Maduro, and Israel's war in Gaza\nThe post Chileans polarized ahead of presidential election as far-right candidate poised to prevail appeared first on The "
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -130,16 +160,6 @@
       "image": null,
       "published_at": "2025-12-12T12:59:58.000Z",
       "summary": "Rob McBride and his crew were filming with the Thai military near the Cambodian border when an artillery duel broke out."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Disguises, freezing waves, and a special forces veteran: Inside rescue to sneak Nobel winner out of Venezuela",
-      "url": "https://www.bbc.com/news/articles/c4g990exxq4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ec6/live/3014ca30-d75b-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-12-12T12:51:09.000Z",
-      "summary": "The man who led the operation says María Corina Machado crossed “very rough seas” in “pitch-black darkness”."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -285,7 +305,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Afghan’s Olympic hope for Taliban talks to prompt women’s rights U-turn",
+      "title": "Ongoing Taliban-Olympic talks hope to prompt Afghan women’s rights U-turn",
       "url": "https://www.aljazeera.com/sports/2025/12/12/afghans-olympic-hope-for-taliban-dialogue-to-spark-womens-rights-u-turn?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-12T11:56:50.000Z",
@@ -315,7 +335,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Liverpool boss Slot to meet Salah amid transfer tension",
+      "title": "Liverpool’s Slot to meet Mohamed Salah amid Saudi transfer talk",
       "url": "https://www.aljazeera.com/sports/2025/12/12/liverpool-boss-slot-to-meet-salah-amid-transfer-tension?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-12T11:31:45.000Z",
@@ -607,7 +627,7 @@
       "topic": "News",
       "title": "Taylor Swift shown breaking down in tears after she met UK attack families",
       "url": "https://www.bbc.com/news/articles/czxgnqx1yplo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f37/live/a20d35f0-d747-11f0-a892-01d657345866.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfa7/live/2657e330-d768-11f0-8c06-f5d460985095.jpg",
       "published_at": "2025-12-12T08:00:34.000Z",
       "summary": "Backstage footage shows the singer in tears after meeting survivors of the attack during her world tour."
     },
@@ -720,16 +740,6 @@
       "image": null,
       "published_at": "2025-12-12T06:43:20.000Z",
       "summary": "Argamani detailed how every effort was made in coordination and with direct support from Huang, who “personally accompanied the family and called repeatedly to ask how they were doing.”"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US sanctions family of Venezuela’s Maduro, 6 oil tankers in new crackdown",
-      "url": "https://www.aljazeera.com/news/2025/12/12/us-sanctions-family-of-venezuelas-maduro-6-oil-tankers-in-new-crackdown?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-12T06:34:38.000Z",
-      "summary": "Vessels targeted by the US are supertankers that recently loaded crude oil in Venezuela."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1200,16 +1210,6 @@
       "image": null,
       "published_at": "2025-12-11T22:00:00.000Z",
       "summary": "100 אלף בדואים חיים בכפרים לא מוכרים בנגב, ותחת ממשלת הימין הקיצוני נשברו שם שיאי הריסת מבנים. כ–20 אלף איש הפכו למחוסרי בית, דרי סוכות ובקתות, והמדינה אומרת להם: קודם תלכו מכאן, אחר כך נסתדר | \"אתה מכיר יהודי שהמדינה הורסת לו את הבית בלי לדאוג לפתרון?\" שואל תאופיק אבו–עדואן, תושב הכפר אל–סר הממתין "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "סנ\"צ מנחם רוסק היה בטוח שיש מי שמשתיק את האמת על גורלו של יוזף מנגלה. והוא צדק",
-      "url": "https://www.ynet.co.il/news/article/yokra14607546",
-      "image": null,
-      "published_at": "2025-12-11T22:00:00.000Z",
-      "summary": "סנ\"צ מנחם רוסק, השוטר שהקדיש את חייו לרדיפה אחרי נאצים, היה משוכנע: מישהו רוצה להשתיק את האמת על גורלו של יוזף מנגלה. המסמכים שנחשפו בתחילת החודש בארגנטינה, שלפיהם הרשויות ידעו היכן נמצא מלאך המוות מאושוויץ אך לא עשו דבר, הם סגירת מעגל שמגיעה 18 שנה אחרי מותו של רוסק, שנפטר בתחושת עוול ואכזבה עצומה."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
