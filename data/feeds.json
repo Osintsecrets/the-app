@@ -1,6 +1,76 @@
 {
-  "generated_at": "2025-12-12T09:14:22.027Z",
+  "generated_at": "2025-12-12T09:43:02.272Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Hezbollah terrorists increasingly approach northern border, soldiers critique IDF response",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-880154",
+      "image": null,
+      "published_at": "2025-12-12T11:32:18.000Z",
+      "summary": "According to soldiers, Hezbollah members have been seen approaching IDF forces while carrying hoes or performing tasks in the fields. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בירקון מחפשים את הנעדר עם מסוק ורחפן: כמה גשם ירד ב\"ביירון\" - ואיפה המצב עדיין עגום",
+      "url": "https://www.ynet.co.il/news/article/bkzo9rkgwe",
+      "image": null,
+      "published_at": "2025-12-12T09:31:02.000Z",
+      "summary": "אליהו אבא שאול, בן 19 מבני ברק, טרם אותר. המחפשים משתמשים בסירות וקיאקים, וגם סורקים רגלית בתוואי הנחל. ברוב ערי החוף ירדו יותר מ-100 מ\"מ, ובאזורים נרחבים כמות הגשם שירדה השנה כפולה מהממוצע לתקופה זו. אבל דווקא בצפון לא ירד גשם רב, והכינרת עמוק מתחת לקו האדום. כל הנתונים"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Why is Trump demanding travellers’ social media handles; how will it work?",
+      "url": "https://www.aljazeera.com/news/2025/12/12/why-is-trump-demanding-travellers-social-media-handles-how-will-it-work?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-12T09:22:08.000Z",
+      "summary": "Visitors from &#039;visa waiver&#039; countries will have to provide a five-year social media history to enter the US."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "סיור סוריאליסטי בסוריה עם האוגדונר שמעדיף מצב ביטחוני רועש ולא שקט מסוכן",
+      "url": "https://www.ynet.co.il/news/article/yokra14607257",
+      "image": null,
+      "published_at": "2025-12-12T09:12:20.000Z",
+      "summary": "הנוף לצד הכבישים המובילים ממעבר הגבול עד לקוניטרה החדשה ירוק ופסטורלי, אבל השלווה בגולן הסורי יכולה להתנפץ ברגע | ימים אחדים לאחר התקרית שבה נפצעו שישה לוחמי צה\"ל בפעילות בבית ג'ן, יצא דובי איכנולד יחד עם הפרשן הצבאי רון בן ישי ותא\"ל יאיר פלאי לגיחה בעומק השטח, פגש מילואימניקים שכותבים מחדש את \"שיר "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Gaza storms a “terrible situation” for Palestinians",
+      "url": "https://www.aljazeera.com/video/quotable/2025/12/12/gaza-storms-a-terrible-situation-for-palestinians?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-12T09:08:56.000Z",
+      "summary": "Jonathan Crickx on how the intense storms battering Gaza are deepening an already dire humanitarian crisis."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "About 200 West African soldiers in Benin for 'clean-up' after failed coup",
+      "url": "https://www.bbc.com/news/articles/cx2pp7y2jdyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd69/live/bfa77470-d730-11f0-829f-936f46ecb9a2.jpg",
+      "published_at": "2025-12-12T09:02:20.000Z",
+      "summary": "This is the first time that officials have said how many foreign soldiers were deployed to help thwart the mutiny."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Fans slam FIFA, demand halt to ‘extortionate’ 2026 World Cup ticket sales",
+      "url": "https://www.aljazeera.com/news/2025/12/12/fans-slam-fifa-demand-halt-to-extortionate-2026-world-cup-ticket-sales?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-12T09:02:18.000Z",
+      "summary": "Supporter groups say soaring prices threaten to turn 2026 tournament into &#039;Corporate Games&#039;."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -75,7 +145,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: At least 10 people die in Gaza in past 24 hours amid storm",
+      "title": "LIVE: More than 10 people die in Gaza in past 24 hours amid storm",
       "url": "https://www.aljazeera.com/news/liveblog/2025/12/12/live-at-least-10-people-die-in-gaza-in-past-24-hours-amid-storm?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-12T07:44:41.000Z",
@@ -235,11 +305,11 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Flood misery for Gazans awaiting next stage of peace plan",
+      "title": "Trump's Gaza peace plan struggles to progress as Israel and Hamas face tough choices",
       "url": "https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48cf/live/9b017dc0-d6bb-11f0-9d57-f5bf64d847f4.jpg",
       "published_at": "2025-12-12T05:43:02.000Z",
-      "summary": "Gazans in tents have been hit by heavy rain as failure to find last Israeli hostage risks derailing peace plan."
+      "summary": "Getting both sides to move onto the second stage is a huge challenge for Washington, as Gazans continue to suffer the longer it takes."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -480,16 +550,6 @@
       "image": null,
       "published_at": "2025-12-12T02:04:31.000Z",
       "summary": "Rare, unheard recordings collected by Claude Lanzmann for his monumental film 'Shoah' feature testimonies that still demand to be heard - and now can be, at the New York Historical\nThe post A timely New York exhibition immerses listeners in voices from the Holocaust appeared first on The Times of Is"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Thousands ready to evacuate as flooding hits Pacific Northwest",
-      "url": "https://www.bbc.com/news/articles/ce91dergm00o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/018d/live/fb49ee90-d68b-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-12-12T02:02:01.000Z",
-      "summary": "Several days of heavy rain have swollen a number of rivers causing major flooding in parts of Canada and the US."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -872,16 +932,6 @@
       "summary": ""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Zelenskyy says US seeking ‘free economic zone’ in eastern Ukraine",
-      "url": "https://www.aljazeera.com/news/2025/12/11/zelenskyy-talks-security-with-us-as-it-pushes-for-free-economic?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-11T22:08:52.000Z",
-      "summary": "Ukraine leader says US wants zone as buffer between armies, underlining that referendum needed for any land schemes."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -900,16 +950,6 @@
       "image": null,
       "published_at": "2025-12-11T22:01:00.000Z",
       "summary": "את \"הקופסאות הכתומות\" יחליפו מצלמות שימנעו מהנהגים להאט רק לפניהן, ניידות תנועה ייצאו למבצעים ממוקדים ושבע עבירות מסכנות חיים יביאו לענישה תקדימית - עד החרמת הרכב במקום. התוכנית החדשה למאבק בקטל בכבישים מבטיחה לבלום את הזינוק בהרוגים בתאונות הדרכים - אך האם כולה תתממש?"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "סיור סוריאליסטי בסוריה עם האוגדונר שמעדיף מצב ביטחוני רועש ולא שקט מסוכן",
-      "url": "https://www.ynet.co.il/news/article/yokra14607257",
-      "image": null,
-      "published_at": "2025-12-11T22:00:00.000Z",
-      "summary": "הנוף לצד הכבישים המובילים ממעבר הגבול עד לקוניטרה החדשה ירוק ופסטורלי, אבל השלווה בגולן הסורי יכולה להתנפץ ברגע | ימים אחדים לאחר התקרית שבה נפצעו שישה לוחמי צה\"ל בפעילות בבית ג'ן, יצא דובי איכנולד יחד עם הפרשן הצבאי רון בן ישי ותא\"ל יאיר פלאי לגיחה בעומק השטח, פגש מילואימניקים שכותבים מחדש את \"שיר "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1012,16 +1052,6 @@
       "summary": "מנועי הצמיחה שיצרו את \"אומת הסטארט-אפ\" לא יספיקו כדי לעמוד ביעד חדש של צמיחה כוללת, מהירה ומואצת, והכפלת התמ\"ג של ישראל בעשור הקרוב - יעד שאליו אנו נדרשים נוכח האתגרים הדמוגרפיים, הביטחוניים, הכלכליים והניהוליים "
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Paramount’s Warner Bros Discovery bid faces conflict of interest concerns",
-      "url": "https://www.aljazeera.com/economy/2025/12/11/paramounts-warner-bros-discovery-bid-faces-conflict-of-interest-concerns?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-11T21:36:54.000Z",
-      "summary": "Experts are worried that Paramount-Skydance might undercut the editorial independence of CNN, among other issues. "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1102,16 +1132,6 @@
       "summary": "The committee, citing technical issues, blocked eight candidates nominated by Arab-Jewish groups, and a candidate from a group that called for barring the 'Ben-Gvir police' from campus was temporarily blocked. Haaretz learned that the union received over 500 complaints about students who couldn't vo"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Gaza’s camps brace for floods as Israel blocks key shelter supplies",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/11/gazas-camps-brace-for-floods-as-israel-blocks-key-shelter-supplies?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-11T20:43:13.000Z",
-      "summary": "Storm Byron is set to hit Gaza as nearly 1.5 million Palestinians shelter in flood-prone camps with little protection."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -1190,16 +1210,6 @@
       "image": null,
       "published_at": "2025-12-11T19:54:40.000Z",
       "summary": "הפלסטינים פרסמו תיעוד חדש ממה שהגדירו בצה\"ל ניסיון פיגוע דריסה: הנהג עוצר אחרי עיקול, נוסע אחורה - ואז נשמעים קולות ירי מצד החיילים - שעמדו מאחורי בטונדות. באירוע נהרג גם עובד ניקיון בעיריית חברון - שהוגדר באיחור כ\"בלתי-מעורב\" על ידי הצבא. תושבים בחברון: החיילים לא היו בסכנת חיים"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הודח מפקד הטייסת שאישר לפרחי הטיס לשתות אלכוהול: \"אירועים חריגים\"",
-      "url": "https://www.ynet.co.il/news/article/s1zdsc00mwg",
-      "image": null,
-      "published_at": "2025-12-11T19:36:03.000Z",
-      "summary": "הקצין, טייס מנוסה בדרגת רב-סרן שלחם בכל הזירות, הודח אחרי שאישר לחניכי קורס טיס 191 לשתות אלכוהול במלון - מה שהחל שרשרת אירועים חריגה בחיל האוויר, שבמהלכה סיפרו חלקם לקרוביהם על מה שעברו בסדנת השבי"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1312,16 +1322,6 @@
       "summary": "Democratic lawmakers held a press conference alongside an American journalist wounded by the IDF in Lebanon in October 2023 to demand that Israel take responsibility for targeting reporters during combat operations, saying that efforts to get answers have 'been stonewalled at every turn'"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Ethiopia arrests 'indecently' dressed social media stars after awards ceremony",
-      "url": "https://www.bbc.com/news/articles/c23e1jld9p7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a91/live/c550fce0-d6b1-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-12-11T17:40:51.000Z",
-      "summary": "Adonay Berhane, Wongelawit Gebre Endrias and four others are accused by police of undermining public morality."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1390,6 +1390,16 @@
       "image": null,
       "published_at": "2025-12-11T16:47:12.000Z",
       "summary": "Defense Minister Katz proposes closing Army Radio after 75 years, citing its shift from military service. The plan sparks legal challenges and raises concerns over press freedom."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Venezuelan Nobel winner tells BBC people risked their lives for her to come to Oslo",
+      "url": "https://www.bbc.com/news/videos/ce91de8x9p1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a164/live/aca667e0-d6a5-11f0-8c06-f5d460985095.jpg",
+      "published_at": "2025-12-11T16:42:12.000Z",
+      "summary": "The Venezuelan opposition leader talked about she escaped Venezuela after months in hiding."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1575,31 +1585,11 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Pakistan's military sentences its former spy chief to 14 years in jail ",
-      "url": "https://www.bbc.com/news/articles/cwyv5q7d72lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e661/live/0cb09730-d676-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-11T14:03:25.000Z",
-      "summary": "Faiz Hameed led Pakistan's ISI intelligence agency during the tenure of now-jailed former PM Imran Khan."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Three things to know after US seizes Venezuelan oil tanker",
       "url": "https://www.bbc.com/news/videos/c1w9lxw58jjo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a22/live/fec63220-d68d-11f0-9fb5-5f3a3703a365.jpg",
       "published_at": "2025-12-11T13:59:17.000Z",
       "summary": "The BBC's Ione Wells looks at how the incident marks a sharp escalation in an increasingly tense relationship between both countries."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "'Architects of AI' named Time Magazine's Person of the Year",
-      "url": "https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dfe/live/91345900-d69a-11f0-8c06-f5d460985095.jpg",
-      "published_at": "2025-12-11T13:52:11.000Z",
-      "summary": "Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1620,16 +1610,6 @@
       "image": null,
       "published_at": "2025-12-11T13:43:25.000Z",
       "summary": "\"If Israel deports 10 Ghanaians, we will deport 10. 20, we'll deport 20. 50 we'll deport 50. We are not going to accept this,\" said FM Okudzeto Ablakwa."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Poland arrests Russian archaeologist wanted in Ukraine",
-      "url": "https://www.bbc.com/news/articles/clydz0j1yego?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b26/live/c0f7b7e0-d690-11f0-9184-a796dfacc4c9.jpg",
-      "published_at": "2025-12-11T13:41:23.000Z",
-      "summary": "The allegations against the suspect includes the illegal excavation of an ancient city in Crimea."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1702,16 +1682,6 @@
       "summary": "María Corina Machado, who has been threatened by her home country's government, speaks about her secret journey to Norway."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel to ban student use of cell phones on elementary school property, starting February",
-      "url": "https://www.jpost.com/israel-news/article-880011",
-      "image": null,
-      "published_at": "2025-12-11T12:26:55.000Z",
-      "summary": "“We are allowing children to return and truly meet each other, reduce external distractions, and expand the human and natural connection between students, without screens,” Kisch said."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1772,16 +1742,6 @@
       "summary": "Taiwan has few official diplomatic ties worldwide due to pressure from China. Sources told Reuters that this month's visit to Israel by the senior deputy foreign minister occurred, with both countries declining to comment"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "More than 30 dead after Myanmar military air strike hits hospital",
-      "url": "https://www.bbc.com/news/articles/cqxq3lg2gwxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f8/live/e0ded1c0-d667-11f0-91f5-0bd827601511.jpg",
-      "published_at": "2025-12-11T08:12:36.000Z",
-      "summary": "The junta has stepped up bombardments by air in an attempt to reclaim territory from ethnic armies."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1820,16 +1780,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-0a9a-d868-affb-5afb83620001/4a/4d/4a1866924eadb290403ad928f539/075736.jpg?height=81",
       "published_at": "2025-12-11T02:50:15.000Z",
       "summary": ""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Indigenous deaths in custody in Australia hit highest level since 1980",
-      "url": "https://www.bbc.com/news/articles/ckgkykywp58o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e2f/live/648a4bb0-d62e-11f0-9fec-27e01454e9c2.jpg",
-      "published_at": "2025-12-11T01:28:01.000Z",
-      "summary": "New figures show that 33 of the 113 deaths in custody between last July and this June were Indigenous"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2150,16 +2100,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-f8bc-d2e4-a1ff-ffbcd10b0005/21/3f/5bf3a988413f9d764c430ccc6beb/922284.jpg?height=81",
       "published_at": "2025-12-09T22:42:18.000Z",
       "summary": "The full text of the legislation, which has been unveiled in the Knesset, calls for a new five-member committee to appoint the head of the Police Internal Investigations Department – with three of them appointed by the justice minister or his director general"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "'What's your name?' - Moment police confront Luigi Mangione at McDonald's",
-      "url": "https://www.bbc.com/news/videos/cx2px9x20exo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2f3/live/a127ed50-d54a-11f0-a892-01d657345866.jpg",
-      "published_at": "2025-12-09T22:18:12.000Z",
-      "summary": "Prosecutors have released bodycam footage showing the initial interaction between officers and the suspected CEO killer."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
