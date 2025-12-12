@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-12T15:10:51.598Z",
+  "generated_at": "2025-12-12T15:41:02.735Z",
   "items": [
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Father of last hostage Ran Gvili: &#8216;Hard for me to accept condolences until I see his body&#8217;",
+      "url": "https://www.timesofisrael.com/father-of-last-hostage-ran-gvili-hard-for-me-to-accept-condolences-until-i-see-his-body/",
+      "image": null,
+      "published_at": "2025-12-12T15:29:40.000Z",
+      "summary": "'He didn’t think twice, he went and fought,' says Itzik Gvili as family holds Kabbalat Shabbat gathering in Hostages Square; father of Itay Chen calls for state commission of inquiry\nThe post Father of last hostage Ran Gvili: &#8216;Hard for me to accept condolences until I see his body&#8217; appea"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ביבי, בן גביר ובצלאל - שיקום עזה בע\"מ",
+      "url": "https://www.ynet.co.il/news/article/rjpgxnkmbg",
+      "image": null,
+      "published_at": "2025-12-12T15:28:34.000Z",
+      "summary": "בעדר כבשים יש משכוכית, זו הכבשה שהולכת בראש העדר ואחריה שאר הכבשים. ומי הוא שמוליך את מצעד ההתבהמוּת במדינה? זה מי שמינה לשר בכיר את מוביל מצעד \"הבהמות\" נגד להט\"בים, זה שמינה רכיכות לשרים"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "EU looks set to indefinitely freeze hundreds of billions in Russian funds",
+      "url": "https://www.aljazeera.com/news/2025/12/12/eu-looks-set-to-indefinitely-freeze-hundreds-of-billions-in-russian-funds?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-12T15:21:30.000Z",
+      "summary": "The anticipated move, slammed by Hungary, is a key step in a plan to use the funds to underwrite a loan to Ukraine."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Suryakumar and Gill backed to regain India mojo for T20 World Cup",
+      "url": "https://www.aljazeera.com/sports/2025/12/12/suryakumar-and-gill-backed-to-regain-india-mojo-for-t20-world-cup?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-12T15:00:07.000Z",
+      "summary": "India will defend their T20 World Cup title at the 2026 edition starting February, but form eludes captain and deputy."
+    },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
@@ -25,11 +65,11 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Germany accuses Russia of 2024 cyber-attack and disinformation",
+      "title": "Germany accuses Russia of air traffic control cyber-attack",
       "url": "https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9023/live/e3bec6b0-d758-11f0-845f-035d2c9c25f7.jpg",
       "published_at": "2025-12-12T14:53:09.000Z",
-      "summary": "The Russian ambassador is summoned over a cyber attack on air traffic control and attempted electoral interference. "
+      "summary": "The Russian ambassador is summoned over a cyber-attack on air traffic control and attempted electoral interference. "
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -682,16 +722,6 @@
       "summary": "Palestine’s record-breaking run in the Arab Cup has come to an end after a quarter-final loss against Saudi Arabia."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "LIVE: At least 14 people die in Gaza in past 24 hours amid storm",
-      "url": "https://www.aljazeera.com/news/liveblog/2025/12/12/live-at-least-10-people-die-in-gaza-in-past-24-hours-amid-storm?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-12T07:44:41.000Z",
-      "summary": "Storm Byron has caused a number of houses, walls and tents to collapse across the war-ravaged Gaza Strip."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -720,16 +750,6 @@
       "image": null,
       "published_at": "2025-12-12T07:32:29.000Z",
       "summary": "אירלנד מקדמת חוק שיטיל הגבלות על מסחר עם חברות שפועלות בהתנחלויות - ועורר את זעמן של ישראל וארה\"ב. שר אירי אמר לרויטרס שהחוק יהיה \"מצומצם\" ויכלול רק הגבלות על ייבוא סחורות, ולא איסור על מתן שירותים, ודחה את הטענות לאנטישמיות: \"אנחנו מודעים לתרומה של העם היהודי\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Rights group accuses RSF of systematic sexual violence in Sudan’s civil war",
-      "url": "https://www.aljazeera.com/news/2025/12/12/rights-group-accuses-rsf-of-systematic-sexual-violence-in-sudans-civil-war?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-12T07:31:47.000Z",
-      "summary": "Report finds paramilitary group responsible for vast majority of attacks as conflict devastates civilian population."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -880,16 +900,6 @@
       "image": null,
       "published_at": "2025-12-12T03:39:05.000Z",
       "summary": "סופות רעמים ושיטפונות עדיין ייתכנו בשעות הבוקר, אך החל מהצהריים הגשמים ייחלשו. הצעיר מבני ברק עדיין נעדר, בבית שקמה אנשים נלכדו בבתיהם עקב ההצפות ו-7 פונו במצב קל עד בינוני. ה\"אזהרה הכתומה\" - עד 10:00. טפטופים ייתכנו הערב ומחר, בתחילת השבוע יבש - ומתי צפוי הגשם לחזור?"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Wildlife smuggling, poison, rabies rise in 2025, alongside uptick in nature visits",
-      "url": "https://www.timesofisrael.com/wildlife-smuggling-poison-rabies-rise-in-2025-alongside-uptick-in-nature-visits/",
-      "image": null,
-      "published_at": "2025-12-12T03:29:35.000Z",
-      "summary": "In annual review, Israel Nature and Parks Authority says public returning to reserves, parks, after October 7, 2023, but calls for better management after 15 hikers die\nThe post Wildlife smuggling, poison, rabies rise in 2025, alongside uptick in nature visits appeared first on The Times of Israel.\n"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1210,16 +1220,6 @@
       "image": null,
       "published_at": "2025-12-11T22:00:00.000Z",
       "summary": "כשהגיעו מפאתי חאן–יונס אל שער הכניסה לישראל אחרי צעידה של קילומטר וחצי, אחרי שנתיים בתוך הרצועה, אחרי שאיבדו שני מפקדי פלוגה ‑ לוחמי החוד בגדוד הנח\"ל 932 הביטו אחורה, אל הארץ הארורה ההיא, אולי בפעם האחרונה. ואולי לא | ליאור בן עמי, שהיה איתם ברפיח ביוני 2024 ופגש את רס\"ן דביר רווח ז\"ל, הצטרף אליהם ש"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "תחת ההריסות: כך קוברת המדינה את בעיית הבדואים",
-      "url": "https://www.ynet.co.il/news/article/yokra14608737",
-      "image": null,
-      "published_at": "2025-12-11T22:00:00.000Z",
-      "summary": "100 אלף בדואים חיים בכפרים לא מוכרים בנגב, ותחת ממשלת הימין הקיצוני נשברו שם שיאי הריסת מבנים. כ–20 אלף איש הפכו למחוסרי בית, דרי סוכות ובקתות, והמדינה אומרת להם: קודם תלכו מכאן, אחר כך נסתדר | \"אתה מכיר יהודי שהמדינה הורסת לו את הבית בלי לדאוג לפתרון?\" שואל תאופיק אבו–עדואן, תושב הכפר אל–סר הממתין "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
