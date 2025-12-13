@@ -1,6 +1,36 @@
 {
-  "generated_at": "2025-12-13T02:26:07.313Z",
+  "generated_at": "2025-12-13T03:34:52.417Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Thailand-Cambodia fighting continues after Trump says countries agree to ceasefire",
+      "url": "https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc2/live/e4293590-d78a-11f0-b0ee-a9375724f730.jpg",
+      "published_at": "2025-12-13T03:11:57.000Z",
+      "summary": "Thai PM says he told US president a ceasefire is only possible after Cambodia had withdrawn all its forces."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "ISF will not fight Hamas, say US officials, who still seek to deploy force next month",
+      "url": "https://www.timesofisrael.com/isf-will-not-fight-hamas-say-us-officials-who-still-seek-to-deploy-force-next-month/",
+      "image": null,
+      "published_at": "2025-12-13T02:33:39.000Z",
+      "summary": "US military to host conference in Doha next week to discuss plans for International Stabilization Force, though it remains unclear how Hamas will be disarmed\nThe post ISF will not fight Hamas, say US officials, who still seek to deploy force next month appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "German police open investigation into Maccabi Tel Aviv fans over alleged hate chants",
+      "url": "https://www.haaretz.com/world-news/europe/2025-12-13/ty-article/.premium/german-police-open-investigation-into-maccabi-tel-aviv-fans-over-alleged-hate-chants/0000019b-1417-d93d-a5fb-365faf520000",
+      "image": "https://img.haarets.co.il/bs/0000019b-1581-d93d-a5fb-37dbca640000/b0/44/4deefc0e40acadca21f6d7894d92/088552.jpg?height=81",
+      "published_at": "2025-12-13T02:28:14.000Z",
+      "summary": "According to a report in Bild, Stuttgart police are examining suspicions that Maccabi fans sang offensive chants, including chants targeting Palestinians"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -22,6 +52,16 @@
       "summary": "The photos, which do not imply wrongdoing, are part of a trove of images the House Oversight Committee received from Epstein's estate."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "From booze to black belts: Virginia's drunk raccoon suspected in karate shop break-in",
+      "url": "https://www.bbc.com/news/articles/c5y2271q20lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea16/live/b7ab3ee0-d7ae-11f0-aae2-2191c0e48a3b.jpg",
+      "published_at": "2025-12-13T02:11:25.000Z",
+      "summary": "The \"trashed panda\" is also suspected of burglarising snacks from the Department of Motor Vehicles."
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -35,11 +75,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Cambodia claims Thailand still bombing hours after Trump ceasefire call",
+      "title": "Thailand says attacks on Cambodia to continue despite Trump ceasefire claim",
       "url": "https://www.aljazeera.com/news/2025/12/13/cambodia-claims-thailand-still-bombing-hours-after-trump-ceasefire-call?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-13T01:39:34.000Z",
-      "summary": "Cambodia&#039;s Ministry of Defence said Thai F-16 fighter jets continued to bomb targets inside country."
+      "summary": "Cambodia&#039;s Ministry of Defence said Thai F-16 jets continued to bomb targets inside country after Trump announced truce."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -140,6 +180,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25ea/live/ffbb1840-d673-11f0-9fb5-5f3a3703a365.jpg",
       "published_at": "2025-12-13T00:05:31.000Z",
       "summary": "The man behind the \"You Can't See Me\" catchphrase is fighting one last time on Saturday night. But who is he, really?"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ukraine's health supplies hit in series of Russian strikes on medical warehouses",
+      "url": "https://www.bbc.com/news/articles/cqlkk9qk7vyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b415/live/794394e0-d790-11f0-aae2-2191c0e48a3b.jpg",
+      "published_at": "2025-12-13T00:05:21.000Z",
+      "summary": "Warehouses supplying the vast majority of Ukraine's pharmacies have been destroyed over recent months."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -360,16 +410,6 @@
       "image": null,
       "published_at": "2025-12-12T20:18:13.000Z",
       "summary": "Pictures from estate of convicted sex offender also show him with Steve Bannon, Larry Summers, Woody Allen, Andrew Mountbatten-Windsor, Alan Dershowitz and Richard Branson\nThe post Democrats release new cache of Epstein photos featuring Trump, Clinton, Gates appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Thailand and Cambodia agree to halt fighting, Trump says",
-      "url": "https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc2/live/e4293590-d78a-11f0-b0ee-a9375724f730.jpg",
-      "published_at": "2025-12-12T20:16:53.000Z",
-      "summary": "The leaders of the two countries have not commented on Trump's announcement which follows days of hostilities."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -672,16 +712,6 @@
       "summary": "CST files police complaint over graphics fusing Nazi symbols, Jewish imagery on eyes of global politicians alongside images of Gaza; venue says it condemns antisemitism; band defends 'art'\nThe post Primal Scream concert visuals combine swastikas and Stars of David, sparking outrage appeared first on"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Iran &#8216;violently&#8217; arrested Nobel-prize winning activist Narges Mohammadi, supporters say",
-      "url": "https://www.timesofisrael.com/iran-violently-arrested-nobel-prize-winning-activist-narges-mohammadi-supporters-say/",
-      "image": null,
-      "published_at": "2025-12-12T17:00:10.000Z",
-      "summary": "Activist, on leave from prison, detained at memorial for lawyer whose death NGO says 'had very serious suspicion of state murder'; footage shows her addressing mourners without headscarf\nThe post Iran &#8216;violently&#8217; arrested Nobel-prize winning activist Narges Mohammadi, supporters say appe"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -790,16 +820,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-0db7-d999-ad9f-8fbfdc000007/e9/1e/6a904df84c76ab9550908f1ee5db/whatsapp-image-2025-12-11-at-15-20-28.jpeg?height=81",
       "published_at": "2025-12-12T14:54:22.000Z",
       "summary": "The climate is changing, reshaping our landscape, our economy, and our way of life, creating new risks and intensifying old ones. We must plan for this change, strengthen our emergency and rescue services, and stop wasting resources on West Bank settlements and on blind vengeance in Gaza"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "RSF commander linked by BBC Verify to Sudan massacre sanctioned in UK",
-      "url": "https://www.bbc.com/news/articles/c0jeeq6xnvpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf3/live/880acb90-d75b-11f0-a892-01d657345866.png",
-      "published_at": "2025-12-12T14:32:30.000Z",
-      "summary": "The UK accuses Al-Fateh Abdullah Idris, also known as Abu Lulu, of committing acts of violence against civilians. "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1300,16 +1320,6 @@
       "image": null,
       "published_at": "2025-12-12T00:40:59.000Z",
       "summary": "Leichman, who grew up on Kibbutz Gezer, had just wrapped up a season as assistant pitching coach for the Miami Marlins when he received the news on Saturday."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Reddit launches High Court challenge to Australia's social media ban for kids",
-      "url": "https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae49/live/09c5cae0-d748-11f0-9fb5-5f3a3703a365.jpg",
-      "published_at": "2025-12-12T00:02:02.000Z",
-      "summary": "It said the landmark policy has serious implications for Australians' privacy and political rights."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2290,16 +2300,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-043e-dda6-a7fb-347f67010000/04/ab/149252464ddabeecaa4b597fd01a/053240.jpg?height=81",
       "published_at": "2025-12-09T21:51:27.000Z",
       "summary": "If Israel still wants to see itself as a country that sanctifies life, it must throw the noose pin and the worldview it represents into the dustbin of history"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "From Gaza to Israel's streets: once annihilation is normalized, no one is safe",
-      "url": "https://www.haaretz.com/opinion/2025-12-09/ty-article-opinion/.premium/from-gaza-to-israels-streets-once-annihilation-is-normalized-no-one-is-safe/0000019b-0464-d868-affb-5cfdd5870000",
-      "image": "https://img.haarets.co.il/bs/00000198-0ca4-d274-a39b-ffaccca30000/de/cb/404f55c94a7a8d7cb7756620a148/031612.jpg?height=81",
-      "published_at": "2025-12-09T21:38:31.000Z",
-      "summary": "Netanyahu's coalition has embraced the logic of erasing opponents – first Palestinians, now parts of Jewish Israeli society"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
