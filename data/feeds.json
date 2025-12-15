@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-15T07:41:14.181Z",
+  "generated_at": "2025-12-15T08:16:31.846Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Adding Light",
+      "url": "https://www.jpost.com/israel-news/culture/article-880295",
+      "image": null,
+      "published_at": "2025-12-15T09:52:12.000Z",
+      "summary": "Every day of the year, Magen David Adom teams save lives, provide medical care, ease pain, and add light - these stories about their work is a little light which dispels much darkness"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הגם אתה, גדי?",
+      "url": "https://www.ynet.co.il/news/article/yokra14613017",
+      "image": null,
+      "published_at": "2025-12-15T08:08:29.000Z",
+      "summary": "המחשבה כאילו ניתן להישען על ממשלת 58 מלמדת שאין באמת שום תוכנית רצינית לרה-ארגון של הזירה תחת חזון אמיץ ומקורי, אלא ניסיון מיוזע לקנות עוד ועוד זמן, עד שמשהו יקרה"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces",
+      "url": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4d/live/51cf24a0-d97b-11f0-b916-c59dd4378137.jpg",
+      "published_at": "2025-12-15T08:03:55.000Z",
+      "summary": "The 78-year-old UK citizen was convicted of lobbying foreign governments to impose sanctions on HK and China."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims? ",
+      "url": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3370/live/3dc35500-d983-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2025-12-15T07:59:36.000Z",
+      "summary": "Authorities say two rabbis, a Holocaust survivor and a 10-year-old girl were among the victims."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +50,76 @@
       "image": null,
       "published_at": "2025-12-15T07:56:48.000Z",
       "summary": "The guidelines caution against attending unsecured public events and remind Israelis to remain vigilant and report suspicious individuals to local security authorities."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "What we know so far about the Brown University shooting",
+      "url": "https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0f7/live/22331630-d8bc-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2025-12-15T07:53:19.000Z",
+      "summary": "The identities of those killed or injured have not yet been released, but the university said all the victims were students."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "יו\"ר הפרלמנט של פרגוואי יגיע למשפט נתניהו: \"יהיה מביך אם לא נוכל להיפגש\"",
+      "url": "https://www.ynet.co.il/news/article/hkjz94pf11g",
+      "image": null,
+      "published_at": "2025-12-15T07:49:06.000Z",
+      "summary": "ראול לאטורה המבקר בישראל ייפגש עם רה\"מ בבית המשפט בתל אביב - וצפוי להיכנס לאולם העדות, אחרי שהשופטים דחו את הבקשה לבטל את הדיון. \"אני לא מעל החוק, אבל גם לא מתחתיו\", אמר נתניהו. \"לא מכיר מקרה שמישהו מעיד 3 פעמים בשבוע. דוד ביטן מגיע פעמיים\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "טראמפ למד את הלקח שגנץ כבר למד ושהרצוג עוד ילמד",
+      "url": "https://www.ynet.co.il/news/article/yokra14613509",
+      "image": null,
+      "published_at": "2025-12-15T07:48:34.000Z",
+      "summary": "נשיא ארה\"ב ציפה לעבור בימים אלה לשלב השני בעזה והפרטים לא חשובים לו. כל מי שהתמחה בנתניהו יודע שהסכמים שחותמים איתו חייבים להתחיל בשלב השני שלהם - אחרת לא יגיעו לשם. כדאי שנתניהו יצטייד במעיל חם לקראת נסיעתו לוושינגטון: קר שם בחוץ"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Hong Kong’s top court convicts Jimmy Lai on conspiracy charges",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/15/hong-kongs-top-court-convicts-jimmy-lai-on-conspiracy-charges?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-15T07:41:02.000Z",
+      "summary": "Hong Kong&#039;s highest court has found Jimmy Lai guilty of sedition and conspiring to collude with foreign powers."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "LeBron James rallies Lakers to comeback victory over Suns in NBA",
+      "url": "https://www.aljazeera.com/sports/2025/12/15/lebron-james-rallies-lakers-to-comeback-victory-over-suns-in-nba?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-15T07:37:14.000Z",
+      "summary": "James steered the Los Angeles Lakers to a narrow victory over the Phoenix Suns after blowing a 20-point lead."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Hollywood director-actor Rob Reiner and wife found dead at LA home",
+      "url": "https://www.aljazeera.com/news/2025/12/15/hollywood-director-actor-rob-reiner-and-wife-found-dead-at-la-home-reports?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-15T07:35:46.000Z",
+      "summary": "Los Angeles mayor pays tribute to Reiner&#039;s &#039;creative work and advocacy fighting for social and economic justice&#039;."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בן לאב נאצי, תומך בדיקטטור פינושה: איש הימין הקיצוני נבחר לנשיא צ'ילה",
+      "url": "https://www.ynet.co.il/news/article/bkiovn6gbl",
+      "image": null,
+      "published_at": "2025-12-15T07:35:25.000Z",
+      "summary": "חוזה אנטוניו קאסט יהיה המנהיג הקיצוני ביותר של צ'ילה מאז סיום הדיקטטורה ב-1990. קאסט תומך בגלוי ברודן המנוח פינושה, מתנגד להפלות גם במקרה של אונס, מעריץ את טראמפ והבטיח לגרש מאות אלפי מהגרים. ניצחונו צפוי לשפר את היחסים עם ישראל - שהידרדרו בכהונת הנשיא היוצא, איש השמאל גבריאל בוריץ'"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -32,6 +142,16 @@
       "summary": "The Israeli was taken to the hospital in moderate to severe condition, Magen David Adom stated."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Patrick Mahomes suffers knee injury in Chiefs’ game against Chargers",
+      "url": "https://www.aljazeera.com/sports/2025/12/15/patrick-mahomes-suffers-knee-injury-in-chiefs-game-against-chargers?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-15T07:18:25.000Z",
+      "summary": "Superstar quarterback expected to undergo surgery in the coming days and is out until the next NFL season."
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -52,34 +172,14 @@
       "summary": "פחות מיממה אחרי ביטול הפיטורים שלה בידי בג\"ץ, פנתה גלי בהרב-מיארה למזכיר הממשלה בבקשה לקיים פגישת עבודה עם נתניהו. מטרת הפגישה, ניסיון של הרגע האחרון לתאם עמדות לטובת גיבוש תשובת המדינה על העתירות נגד כהונת בן גביר כשר לביטחון לאומי"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims? ",
-      "url": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3370/live/3dc35500-d983-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2025-12-15T06:51:01.000Z",
-      "summary": "Authorities say two rabbis, a Holocaust survivor and a 10-year-old girl were among the victims."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces",
-      "url": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4d/live/51cf24a0-d97b-11f0-b916-c59dd4378137.jpg",
-      "published_at": "2025-12-15T06:41:42.000Z",
-      "summary": "The 78-year-old UK citizen was convicted of lobbying foreign governments to impose sanctions on HK and China."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "פעוט חרדי אותר בחניון במחסום קלנדיה ליד רמאללה, המשטרה מחפשת את הוריו",
+      "title": "פעוט חרדי אותר במחסום קלנדיה ליד רמאללה: \"לא ירד מהאוטובוס\"",
       "url": "https://www.ynet.co.il/news/article/s1llh7azzg",
       "image": null,
       "published_at": "2025-12-15T06:37:47.000Z",
-      "summary": "פעוט כבן 3 הועבר לתחנת המשטרה אחרי שאותר במסוף אוטובוסים בקלנדיה בשעת לילה מאוחרת. לפעוט כיפה ופאות והוא דובר יידיש בלבד, ניסיונות לדלות ממנו פרטים נוספים לא צלחו"
+      "summary": "בן 3 הועבר למשטרה אחרי שנמצא במסוף אוטובוסים במעבר קלנדיה בשעת לילה מאוחרת, ושעות לאחר מכן אותרו הוריו. המשפחה הייתה באזכרה והפעוט לא ירד מהאוטובוס יחד איתה, והם מפנים אצבע מאשימה לנהג: \"נתן לו להסתובב לבד ולא דיווח\". קצין חקירות ומודיעין תחנת שפט ל-ynet: \"לא הצלחנו לדובב אותו\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -310,16 +410,6 @@
       "image": null,
       "published_at": "2025-12-15T01:54:44.000Z",
       "summary": "שעות אחרי הפיגוע בסידני, מאות פרו-פלסטינים הגיעו לכיכר המוזיאונים בבירת הולנד, שם נערך באולם קונצרטים אירוע חנוכה בהשתתפות החזן הצבאי הראשי. חלקם טיפסו מעל המחסומים, השליכו רימוני עשן והתעמתו עם שוטרים. קליפורניה: ירי לעבר בית של יהודים שהיה מכוסה בקישוטים לרגל החג"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "What we know so far about the Brown University shooting",
-      "url": "https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0f7/live/22331630-d8bc-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2025-12-15T01:00:11.000Z",
-      "summary": "The identities of those killed or injured have not yet been released, but the university said all the victims were students."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -677,9 +767,9 @@
       "topic": "News",
       "title": "The victims of the Bondi Beach Hanukkah celebration shooting",
       "url": "https://www.haaretz.com/world-news/asia-and-australia/2025-12-14/ty-article/.premium/these-are-the-victims-of-the-bondi-beach-hanukkah-celebration-shooting/0000019b-1e3b-d964-a59f-3f7babfd0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-1e8f-dda6-a7fb-3ecff9520000/1f/c2/fe1746e4455d9f9473bd5f0a6c1b/123292.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-20f4-d0fb-a9df-6efda7b20000/d9/a5/55dd6bc14f7e8fc13c2d18890519/129594.jpg?height=81",
       "published_at": "2025-12-14T19:16:58.000Z",
-      "summary": "At least 15 people were killed in a fatal shooting attack during a Hanukkah celebration at Bondi Beach, Sydney"
+      "summary": "At least 15 people were killed in the fatal terrorist shooting attack during a Hanukkah celebration at Bondi Beach, Sydney. The attack is the deadliest mass shooting incident in Australia since 1996"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1002,26 +1092,6 @@
       "summary": "Eyewitnesses to the deadly shooting at a Hanukkah celebration in Sydney described scenes of terror as gunmen opened fire. One witness told Haaretz he 'immediately understood' the Jewish event was the target, as others spoke of bodies on the ground, nonstop gunfire and families fleeing in panic"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"הנר הזה מוקדש לרן\": הטקס בבית הנשיא, עם משפחת גואילי ושורדי שבי",
-      "url": "https://www.ynet.co.il/news/article/r1336rhfbe",
-      "image": null,
-      "published_at": "2025-12-14T15:42:41.000Z",
-      "summary": "בני משפחתו של החלל החטוף רן גואילי - שמוחזק בעזה כבר 800 ימים - התארחו יחד עם שורדי שבי להדלקת נר ראשון של חנוכה בבית נשיא המדינה הרצוג. \"לא ננוח ולא נרפה עד שרני ישוב הביתה\", הדגיש הנשיא. אמו של רן הודתה למשפחות, והוסיפה: \"אל תפסיקו. עד שרני חוזר\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "זה הרב שנרצח בסידני, והאזהרה שלו לפני הטבח לרה\"מ האוסטרלי: \"אל תבגוד בעם היהודי\" ",
-      "url": "https://www.ynet.co.il/news/article/bj0yyl2fwx",
-      "image": null,
-      "published_at": "2025-12-14T15:17:25.000Z",
-      "summary": "הרב אלי שלנגר, שליח חב\"ד בסידני מאז 2008, הוא אחד מ-11 קורבנות הטבח בחוף בונדיי - שם נערכה חגיגת חנוכה שהיה ממארגניה. הוא הותיר אחריו 5 ילדים, בהם תינוק שאותו תועד נושא רק לפני כמה שבועות בברית המילה. \"הוא עבד מכל הלב\", ספדו לו חבריו, שסיפרו על פועלו: \"תרם תפילין אחרי אסון מירון, הנציח את 7/10\""
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1102,16 +1172,6 @@
       "summary": "The court ruled that prosecutors had failed to prove beyond a reasonable doubt that he intentionally caused the minor's death, but found him criminally responsible for her fatal end."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אחרי ארבעה ימים: הנעדר מבני ברק אותר ללא רוח חיים סמוך לירקון",
-      "url": "https://www.ynet.co.il/news/article/skl2yrhfzx",
-      "image": null,
-      "published_at": "2025-12-14T13:51:34.000Z",
-      "summary": "בתום מאמצי חיפוש נרחבים, אליהו אבא שאול, תלמיד ישיבה בן 19 שנעלם מאז שיצא מבית הוריו על אופניים ביום רביעי האחרון, אותר ללא רוח חיים סמוך לנחל הירקון. הוא יובא למנוחות הערב בבית העלמין הר הזיתים בירושלים"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1132,16 +1192,6 @@
       "summary": "Civil defence crews in Gaza try to rescue people trapped under war-damaged buildings that have collapsed from heavy rain"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Sudan’s el-Fasher has symbolism that hasn’t died",
-      "url": "https://www.aljazeera.com/news/2025/12/14/sudans-el-fasher-has-symbolism-that-hasnt-died?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-14T13:42:55.000Z",
-      "summary": "North Darfur capital fell to Rapid Support Forces yet remains a political and spiritual city that cannot be overlooked."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1152,16 +1202,6 @@
       "summary": "According to residents, the Israeli settler attack against a village near Jericho focused on a building where foreign activists had been wounded in November"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump vows to retaliate after US citizens killed in Syria",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/trump-vows-to-retaliate-after-us-citizens-killed-in-syria?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-14T13:40:30.000Z",
-      "summary": "Donald Trump has vowed retaliation against ISIL after an ambush near Palmyra in central Syria killed three US citizens. "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1170,36 +1210,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-0d58-df61-a7fb-4ddf13820001/21/4b/a36cdaac473dbf2500d813432f7c/754589-2.jpg?height=81",
       "published_at": "2025-12-14T13:35:06.000Z",
       "summary": "Elizabeth Tsurkov was kidnapped in March 2023 and held in captivity in Iraq until September. Read her full Haaretz Podcast interview about the shock of returning to a post-October 7 Israel and sparring with right wing pundit Amit Segal – plus her analyses of Iraq, Syria and Gaza"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אגדת יער על פירוק שיטתי של מוסדות מדינה",
-      "url": "https://www.ynet.co.il/news/article/rjssyvnzbl",
-      "image": null,
-      "published_at": "2025-12-14T13:23:55.000Z",
-      "summary": "חנוכה לא היה חג של אור גדול. לא זרקור שמאיר הכול בבת אחת. בסיפור חנוכה כל אחד הוא אור קטן. לא מספיק לגרש את החושך, אבל מספיק כדי לראות קצת יותר ברור"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Australian PM declares Sydney shooting a ‘terrorist’ attack targeting Jews",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/14/australian-pm-declares-sydney-shooting-a-terrorist-attack-targeting-jews?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-14T13:22:10.000Z",
-      "summary": "Australian Prime Minister Anthony Albanese has declared the shooting at Sydney’s Bondi Beach a &#039;terrorist&#039; attack."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Why the Thailand-Cambodia ceasefire is failing",
-      "url": "https://www.aljazeera.com/opinions/2025/12/14/why-the-thailand-cambodia-ceasefire-is-failing?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-14T13:15:57.000Z",
-      "summary": "The truce did not address the root cause of the conflict. A new initiative with a clear enforcement mechanism is needed."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1700,16 +1710,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/327e/live/3b560e90-d80f-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2025-12-13T11:20:50.000Z",
       "summary": "Thousands of adoring supporters had paid up to 12,000 rupees (£100; $133) to catch a glimpse of the football star."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Former Gaza hostage Rom Braslavski meets with Italian PM Giorgia Meloni",
-      "url": "https://www.jpost.com/israel-news/article-880206",
-      "image": null,
-      "published_at": "2025-12-13T09:42:11.000Z",
-      "summary": "\"I went to work as a security guard at a party and look what happened to me - my life was ruined,\" he said. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
