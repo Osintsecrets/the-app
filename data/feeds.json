@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-15T05:45:05.054Z",
+  "generated_at": "2025-12-15T06:17:21.611Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Gov't issues warnings for Israelis abroad to avoid unsecured public events after Sydney massacre",
+      "url": "https://www.jpost.com/israel-news/article-880326",
+      "image": null,
+      "published_at": "2025-12-15T07:56:48.000Z",
+      "summary": "The guidelines caution against attending unsecured public events and remind Israelis to remain vigilant and report suspicious individuals to local security authorities."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -9,13 +19,63 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-880325",
       "image": null,
       "published_at": "2025-12-15T07:19:39.000Z",
-      "summary": "No injuries were reported."
+      "summary": "The Israeli was taken to the hospital in moderate to severe condition, Magen David Adom stated."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Hollywood director Rob Reiner and wife Michele found dead in LA home",
+      "url": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e453/live/cf9107e0-d968-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2025-12-15T06:11:24.000Z",
+      "summary": "He directed classic films including The Princess Bride, This is Spinal Tap and When Harry Met Sally."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "לימודי קוראן ודגל דאעש: אלו המחבלים מסידני | תיעוד חדש, מטרים מזירת הטבח",
+      "url": "https://www.ynet.co.il/news/article/sjo1fg6gzl",
+      "image": null,
+      "published_at": "2025-12-15T06:01:40.000Z",
+      "summary": "האב שחוסל סג'יד קיבל ויזת סטודנט ב-1998, בנו נביד נולד באוסטרליה - ולמד קוראן וערבית במוסד בסידני: \"אמר לנו שהוא הולך עם אביו לדוג ולשחות\". מסעדות יהודיות החליטו לא לפתוח את שעריהן, ישראלי שגר בסידני: \"הבועה התפוצצה, מניח שנקדים את החזרה לארץ\". אלו הנרצחים שפורסמו שמותיהם"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Legendary director-actor Rob Reiner found dead with wife, homicide suspected",
+      "url": "https://www.timesofisrael.com/legendary-director-actor-rob-reiner-found-dead-with-wife-homicide-suspected/",
+      "image": null,
+      "published_at": "2025-12-15T06:01:29.000Z",
+      "summary": "Son of comedy legend Carl Reiner, Jewish filmmaker directed 'When Harry Met Sally,' 'The Princess Bride,' and 'This is Spinal Tap'; family member questioned by investigators\nThe post Legendary director-actor Rob Reiner found dead with wife, homicide suspected appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvaHJK",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "The Maccabees Won. Did We? - Sponsored Content",
+      "url": "https://toi.li/hrJZSK",
+      "image": null,
+      "published_at": "2025-12-15T06:00:02.000Z",
+      "summary": "Defeat our enemies by saving families in the North from economic collapse after war. Every child we feed for Chanukah is another victory for Israel! \nThe post The Maccabees Won. Did We? appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Australian officials questioned on guns, anti-Semitism over Bondi shooting",
+      "title": "Bondi Beach shooting live: Australia to discuss gun laws after 15 killed",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/12/15/australia-to-discuss-gun-laws-after-15-killed-in-sydney-shooting?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-15T05:35:40.000Z",
+      "summary": "Australia&#039;s PM says gun laws will be discussed by the national cabinet today after deadly shooting in Sydney."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Questions linger about gun reform, anti-Semitism after Bondi Beach shooting",
       "url": "https://www.aljazeera.com/news/2025/12/15/australian-officials-questioned-on-guns-anti-semitism-over-bondi-shooting?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-15T05:33:23.000Z",
@@ -45,11 +105,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "נער נחשד כמחבל בכניסה ליישוב בשומרון - ונורה: הפרטים בבדיקה",
+      "title": "לוחם ואזרח ירו על חשוד כמחבל בתחנת דלק קדומים: הפצוע - יהודי, מצבו קשה",
       "url": "https://www.ynet.co.il/news/article/rkspdgpmbe",
       "image": null,
       "published_at": "2025-12-15T05:24:01.000Z",
-      "summary": "הכוחות חשדו בנער כבן 16 שהגיע ליישוב במטרה לבצע פיגוע דקירה. הוא נורה ופונה לבית החולים במצב בינוני-קשה. הנסיבות נמצאות בבדיקה"
+      "summary": "השניים חשדו בצעיר כבן 20 הלוקה בנפשו שהגיע ליישוב שבשומרון במטרה לבצע פיגוע דקירה נגד כוחות צה\"ל. הוא נורה ופונה לבית החולים במצב קשה. הנסיבות נמצאות בבדיקה"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -205,11 +265,21 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "IDF says it killed Hezbollah militant who 'activated agents' in Lebanese security systems",
+      "title": "IDF shoots, wounds 'suspicious' Israeli near West Bank settlement",
       "url": "https://www.haaretz.com/israel-news/2025-12-15/ty-article-live/far-right-candidate-jose-antonio-kast-wins-chiles-presidential-election/0000019b-1f5f-d058-a7fb-1fff7c220000",
-      "image": "https://img.haarets.co.il/bs/0000019b-206b-d93d-a5fb-327b93a30000/a8/22/1453a5b5459aaf5a8d0d018c6a60/005379.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-20a2-d964-a59f-3de2cc210001/eb/27/b4187805495faf9569a39a01c978/194836.jpg?height=81",
       "published_at": "2025-12-15T00:28:41.000Z",
       "summary": ""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Chile elects far-right José Antonio Kast as next president",
+      "url": "https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e136/live/2fdd79e0-d945-11f0-a3ee-1fa9ed21642f.jpg",
+      "published_at": "2025-12-15T00:15:01.000Z",
+      "summary": "Many believe Kast will be the most right-wing president since Augusto Pinochet, who oversaw a 17-year dictatorship in Chile from 1973."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -742,16 +812,6 @@
       "summary": "הממשלה קיבלה את הצעת בן גביר וגולן להעברת כספים רבים מהתוכנית למגזר הערבי שקודמה בממשלה הקודמת לעבר \"חיזוק יכולות האכיפה והמודיעין\" של המשטרה, שב\"כ ושב\"ס. \"לא יעזרו מתקני ספורט ותרבות, לא בניית כיכר ולא חלוקת פיצות במתנ\"ס - כשאנשים מתים\", אמרה השרה לשוויון חברתי"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Global condemnations pour in after Jews gunned down at Bondi Beach Hanukkah event",
-      "url": "https://www.timesofisrael.com/global-condemnation-pours-in-after-jews-gunned-down-at-bondi-beach-hanukkah-event/",
-      "image": null,
-      "published_at": "2025-12-14T17:08:59.000Z",
-      "summary": "Trump denounces 'purely antisemitic attack'; King Charles says Hanukkah story is proof that light 'will always triumph,' as leaders note deliberate timing of murderous attack\nThe post Global condemnations pour in after Jews gunned down at Bondi Beach Hanukkah event appeared first on The Times of Isr"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -800,16 +860,6 @@
       "image": null,
       "published_at": "2025-12-14T16:28:33.000Z",
       "summary": "President Isaac Herzog paused a ceremony honoring lone immigrants to condemn the Hanukkah attack in Sydney and urge Australia to take stronger action against rising antisemitism."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Israeli cyber startup Armis nears deal to be sold to ServiceNow for up to $7b &#8212; report",
-      "url": "https://www.timesofisrael.com/israeli-cyber-startup-armis-nears-deal-to-be-sold-to-servicenow-for-up-to-7b-report/",
-      "image": null,
-      "published_at": "2025-12-14T16:25:23.000Z",
-      "summary": "Founded in 2016, Armis has a cyberthreat exposure management platform that protects firms from risks as they connect all sorts of devices to their systems\nThe post Israeli cyber startup Armis nears deal to be sold to ServiceNow for up to $7b &#8212; report appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -865,11 +915,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "‘Hero’ bystander tackles gunman at Australia’s deadly Bondi Beach shooting",
+      "title": "‘Hero’ bystander tackles gunman at Australia’s Bondi Beach shooting",
       "url": "https://www.aljazeera.com/news/2025/12/14/hero-bystander-tackles-attacker-at-australia-jewish-festival-shooting?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-14T15:48:35.000Z",
-      "summary": "Officials and social media users hailed bystander Ahmed al Ahmed for disarming one of the shooters in a viral video."
+      "summary": "Officials and social media users hailed bystander Ahmed al-Ahmed for disarming one of the attackers in a viral video."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1012,6 +1062,16 @@
       "summary": "Civil defence crews in Gaza try to rescue people trapped under war-damaged buildings that have collapsed from heavy rain"
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Sudan’s el-Fasher has symbolism that hasn’t died",
+      "url": "https://www.aljazeera.com/news/2025/12/14/sudans-el-fasher-has-symbolism-that-hasnt-died?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-14T13:42:55.000Z",
+      "summary": "North Darfur capital fell to Rapid Support Forces yet remains a political and spiritual city that cannot be overlooked."
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1092,16 +1152,6 @@
       "summary": "במשטרה מעריכים כי חקירת פרשת הפצ״רית נמצאת בישורת האחרונה, לאחר שפעולות חקירה חיזקו את החשד כי סגנה של יפעת תומר-ירושלמי ידע שהיא זו שעומדת מאחורי הדלפת הסרטון משדה תימן. בימים הקרובים צפוי ניצב בועז בלט להעביר למפכ\"ל את ממצאי החקירה - שנוהלה בלי פרקליט מלווה"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Angry fans vandalise India stadium after Messi’s early departure",
-      "url": "https://www.aljazeera.com/gallery/2025/12/14/angry-fans-vandalise-india-stadium-after-messis-early-departure?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-14T13:06:08.000Z",
-      "summary": "Lionel Messi’s so-called GOAT Tour starts with chaos in Kolkata, but he wins the hearts of his fans in Hyderabad."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1142,16 +1192,6 @@
       "summary": "The Australian PM said that 'an attack on Jewish Australians is an attack on every Australian,' promising that his government will eradicate such 'hate, violence and terrorism'"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Deadly mass shooting at Sydney’s Bondi Beach stuns Australia",
-      "url": "https://www.aljazeera.com/gallery/2025/12/14/deadly-mass-shooting-at-sydneys-bondi-beach-stuns-australia?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-14T12:41:44.000Z",
-      "summary": "The shooting at Bondi Beach declared as a &#039;terrorist incident&#039; after at least 11 people killed and 29 injured."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1170,16 +1210,6 @@
       "image": null,
       "published_at": "2025-12-14T12:09:59.000Z",
       "summary": "The court ruled that the decision was procedurally flawed and legally untenable, and that both the revision of the term-ending process and the subsequent dismissal were void. "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "פיגוע נגד יהודים באוסטרליה: לפחות 11 נרצחו בחגיגות חנוכה ליד החוף בסידני",
-      "url": "https://www.ynet.co.il/news/article/sy7gbehfzx",
-      "image": null,
-      "published_at": "2025-12-14T11:56:02.000Z",
-      "summary": "שני מחבלים לובשי שחורים פתחו באש מגשר לעבר מאות מחברי הקהילה היהודית שהגיעו למסיבת \"חנוכה ליד הים\" של חב\"ד בבונדיי ביץ'. הם ירו דקות ארוכות, בין הנרצחים: שליח חב\"ד אלי שלנגר וילד יהודי. חיים ליוי, שחגג שם עם אשתו וילדיו: \"שמענו פיצוצים, השארנו הכול וברחנו. בקושי הייתה אבטחה, למשטרה לקח רבע שעה להגיע"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1640,16 +1670,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/327e/live/3b560e90-d80f-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2025-12-13T11:20:50.000Z",
       "summary": "Thousands of adoring supporters had paid up to 12,000 rupees (£100; $133) to catch a glimpse of the football star."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Police arrest suspect over double murder of mother, son in Yokne’am Illit",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-880205",
-      "image": null,
-      "published_at": "2025-12-13T11:16:23.000Z",
-      "summary": "The suspect, whose name is under a gag order, is believed to have killed a mother and her son in their apartment in Yokne’am Illit."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
