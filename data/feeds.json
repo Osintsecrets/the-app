@@ -1,6 +1,36 @@
 {
-  "generated_at": "2025-12-16T20:11:40.155Z",
+  "generated_at": "2025-12-16T20:42:10.158Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Futsal’s ‘Shefel Cup’ returns to Jaffa Port",
+      "url": "https://www.jpost.com/israel-news/sports/article-880502",
+      "image": null,
+      "published_at": "2025-12-16T22:28:12.000Z",
+      "summary": "Futsal is a variant of association soccer played between two teams of five players each on a court smaller than a soccer pitch."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Police probe possible link between Haymanot Kasau’s case and attempted abduction in Beersheba",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-880500",
+      "image": null,
+      "published_at": "2025-12-16T22:19:12.000Z",
+      "summary": "Footage obtained by Walla shows a man arriving at the home of a young girl in Beersheba, later reportedly identified as a close friend of the missing Kasau."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Last-minute soccer drama, big wins shake up table",
+      "url": "https://www.jpost.com/israel-news/sports/article-880499",
+      "image": null,
+      "published_at": "2025-12-16T22:13:18.000Z",
+      "summary": "Beitar Jerusalem edges Bnei Sakhnin to keep pace with Hapoel Beersheba, Maccabi Tel Aviv and Hapoel Petah Tikvah draw"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,11 +45,71 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Police arrests Hilltop Youth for 'racist attack' on pregnant Arab woman, family in Jaffa - KAN",
+      "title": "Police arrest Hilltop Youth for 'racist attack' on pregnant Arab woman, family in Jaffa - KAN",
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-880488",
       "image": null,
       "published_at": "2025-12-16T21:21:09.000Z",
       "summary": "According to initial reports, KAN explained, the Hilltop Youth assaulted the woman while she sat in her car with her family, spraying them with pepper spray while shouting \"dirty Arab.\""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Leading Australian rabbi implores Israeli government to tone down its rhetoric over Bondi terror attack",
+      "url": "https://www.haaretz.com/israel-news/2025-12-16/ty-article/.premium/leading-australian-rabbi-implores-israel-to-tone-down-its-rhetoric-over-terror-attack/0000019b-27dd-dc39-abbb-ffffa1fb0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-27f9-d60f-a5db-6fff89370001/39/81/7c63121941ceaae67b4de7c7511f/138860.jpg?height=81",
+      "published_at": "2025-12-16T20:26:44.000Z",
+      "summary": "Rabbi Benjamin Elton, the spiritual leader of the oldest synagogue in Sydney, told a Knesset committee that he would encourage Israeli leaders to 'have confidence in the Jewish institutions in Australia, to listen to their analyses, and listen to their advice'"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "In a cynical industry, Rob Reiner’s films taught us the power of sincerity",
+      "url": "https://www.timesofisrael.com/in-a-cynical-industry-rob-reiners-films-taught-us-the-power-of-sincerity/",
+      "image": null,
+      "published_at": "2025-12-16T20:25:58.000Z",
+      "summary": "From romcoms to mockumentaries, the slain director's films were earnest and humane, exploring what people mean to each other and making viewers laugh along the way\nThe post In a cynical industry, Rob Reiner’s films taught us the power of sincerity appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Iran says dual national held on spy charges since June war with Israel is Swedish",
+      "url": "https://www.timesofisrael.com/iran-says-dual-national-held-on-spy-charges-since-june-war-with-israel-is-swedish/",
+      "image": null,
+      "published_at": "2025-12-16T20:17:36.000Z",
+      "summary": "Tehran has given few details on espionage trial; others accused of working with Mossad have been executed; Swede is accused of meeting Israeli agents in 6 European countries\nThe post Iran says dual national held on spy charges since June war with Israel is Swedish appeared first on The Times of Isra"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli Prison Service warns of rising risk from Palestinian prisoners left out of Hamas deal",
+      "url": "https://www.haaretz.com/israel-news/2025-12-16/ty-article/.premium/israeli-prison-service-warns-palestinian-prisoners-left-out-of-hamas-deal-pose-risk/0000019b-2884-d60f-a5db-698e12fd0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-288b-d8f0-a9db-6dffe2cc0001/89/c8/78ae35c94b00b2597e3754a940c3/309234.jpg?height=81",
+      "published_at": "2025-12-16T20:12:06.000Z",
+      "summary": "'We are facing a situation in the prisons,' the prison chief said during a Knesset committee hearing. Without specifying the possible scenarios that could arise, he added that many prisoners now held in Israeli facilities are 'terrorists with proven operational capabilities'"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Second doctor sentenced in Matthew Perry overdose death",
+      "url": "https://www.bbc.com/news/articles/cj691n02g8ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a99/live/7987bd80-d495-11f0-ba46-91bf0b0f4f07.jpg",
+      "published_at": "2025-12-16T20:10:45.000Z",
+      "summary": "Dr Mark Chavez, one of five people who pleaded guilty in the Friends star's death, was sentenced to eight months of home detention."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Dashcam footage captures moment couple tries to stop Bondi shooter",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/dashcam-footage-captures-moment-couple-tries-to-stop-bondi-shooter?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-16T20:07:22.000Z",
+      "summary": "Dashcam video shows a couple trying to stop a gunman during the Bondi Beach attack in Australia."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -42,6 +132,26 @@
       "summary": "Annis Makki, 40, Mohamed Hadi, 33, accused of training in Lebanon; force says arrests were made following work with 'overseas' colleagues, no threat assessed to wider public\nThe post UK police charge two with belonging to Hezbollah, attending terrorism training appeared first on The Times of Israel."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US Muslim group sues Florida’s DeSantis over ‘terrorism’ designation",
+      "url": "https://www.aljazeera.com/news/2025/12/16/us-muslim-group-sues-floridas-desantis-over-terrorism-designation?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-16T19:57:15.000Z",
+      "summary": "CAIR lawsuit says the Republican governor is targeting the civil rights group to suppress its advocacy for Palestine."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Will the Bondi Beach shooting change Australia’s gun laws?",
+      "url": "https://www.aljazeera.com/video/the-take-2/2025/12/16/aje-onl-aus_sydneyshooting_av_v2-161225?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-16T19:53:51.000Z",
+      "summary": "A mass shooting at a Hanukkah celebration shocked Australia. How did it become the deadliest attack in decades?"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -60,6 +170,16 @@
       "image": null,
       "published_at": "2025-12-16T19:52:21.000Z",
       "summary": "הלוחם פונה במצב קשה לבית חולים אחרי שנפגע מירי, ושם מת מפצעיו. הודעה נמסרה למשפחתו, בצבא אמרו כי בסיום החקירה - הממצאים יועברו לפרקליטות הצבאית"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Palestinians mourn teenager killed by Israeli troops in occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/palestinians-mourn-teenager-killed-by-israeli-troops-in-occupied-west-bank?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-16T19:48:54.000Z",
+      "summary": "Mourners crowded the streets of Tuqu in the occupied West Bank to say goodbye to 16-year-old Ammar Sabah."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -812,26 +932,6 @@
       "summary": "As Zini saw it, the price of future danger from releasing security prisoners and allowing Hamas to continue armed outweighed the price of losing the remaining hostages."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Levin asks court to appoint his original choice for Sde Teiman leak probe supervisor",
-      "url": "https://www.timesofisrael.com/levin-asks-court-to-appoint-his-original-choice-for-sde-teiman-leak-probe-supervisor/",
-      "image": null,
-      "published_at": "2025-12-16T14:28:41.000Z",
-      "summary": "Justice minister says he can't find a willing candidate who meets High Court's criteria, after judges rejected Asher Kula; watchdog groups accuse Levin of picking a fight\nThe post Levin asks court to appoint his original choice for Sde Teiman leak probe supervisor appeared first on The Times of Isra"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Brought together by war, defense-tech partnerships put startups on front lines",
-      "url": "https://www.timesofisrael.com/brought-together-by-war-defense-tech-partnerships-put-startups-on-front-lines/",
-      "image": null,
-      "published_at": "2025-12-16T14:20:24.000Z",
-      "summary": "At Tel Aviv expo, investors and foreign officials take notice as the IDF increasingly looks to cutting-edge commercial outfits for dual-use tech and battlefield solutions\nThe post Brought together by war, defense-tech partnerships put startups on front lines appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -952,36 +1052,6 @@
       "summary": "Igor Rogov, who lives in Poland, has reportedly admitted some allegations in a case that may impact Russian visa rules."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Winter storms plague Palestinians left in desperate need of aid by Gaza war",
-      "url": "https://www.aljazeera.com/gallery/2025/12/16/winter-storms-plague-palestinians-left-in-desperate-need-of-aid-by-gaza-war?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-16T13:50:39.000Z",
-      "summary": "Floods in Gaza devastate tents and homes, worsening crisis for displaced Palestinians amid aid restrictions. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Is the nation-state still a meaningful foundation of who we are?",
-      "url": "https://www.aljazeera.com/video/doha-debates/2025/12/16/is-the-nation-state-still-a-meaningful-foundation-of-who-we-are?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-16T13:48:47.000Z",
-      "summary": "Is the nation-state still a meaningful foundation of For more than  we are?"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Comparing criticism of Israel & anti-semitism “dishonest conflation”",
-      "url": "https://www.aljazeera.com/video/quotable/2025/12/16/comparing-criticism-of-israel-anti-semitism-dishonest-conflation?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-16T13:41:54.000Z",
-      "summary": "“Because Israel&#039;s a self-described Jewish state does not mean that it provides security and safety.”"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -990,16 +1060,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-26ae-d60f-a5db-6fae65c80001/6a/6b/a61410ac40229a82685b09712e89/135257.jpg?height=81",
       "published_at": "2025-12-16T13:41:47.000Z",
       "summary": "Efforts to contextualize or rationalize the devastating antisemitic violence in Australia are futile so long as irrational hatreds exist. Eternal vigilance will always be the price of Jewish life – in Israel and the Diaspora"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Europe establishes Ukraine reparations commission amid push to end war",
-      "url": "https://www.aljazeera.com/news/2025/12/16/europe-establishes-ukraine-reparations-commission-amid-push-to-end-war?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-16T13:41:16.000Z",
-      "summary": "The International Claims Commission is tasked with assessing reparation claims and determining amounts to be paid."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1562,16 +1622,6 @@
       "summary": "The problem for Israel is that ceasefires on two borders are not bringing calm. Israeli leaders and officials appear to think that new rounds of conflict are only a matter of time."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Trump looking into whether Israel violated ceasefire by killing Hamas leader",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-880379",
-      "image": null,
-      "published_at": "2025-12-15T18:15:31.000Z",
-      "summary": "Sa’ad, the former deputy commander of Hamas's military wing and one of the architects of Hamas’s October 7 attacks, was killed in an Israeli strike over the weekend."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1622,16 +1672,6 @@
       "summary": "The terror attack at Bondi Beach on Sunday was not the first directed at the Chabad Lubavitch movement and its institutions. As the movement has expanded its reach, it has also enhanced its exposure to attacks"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Diaspora Minister Chikli visits Chabad security hub en route to Sydney after Hanukkah attack",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-880378",
-      "image": null,
-      "published_at": "2025-12-15T16:48:57.000Z",
-      "summary": "The visit came hours after gunmen opened fire at a Hanukkah gathering in Sydney, killing at least 15 people, including Chabad of Bondi emissary Rabbi Eli Schlanger."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1640,16 +1680,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-214b-d0fb-a9df-6fcf867d0001/b0/aa/b3fb0f7644978b14e7d74ad6256b/ebb1e35e-7315-45d6-ad77-a4826ea2e3d9.jfif?height=81",
       "published_at": "2025-12-15T16:42:40.000Z",
       "summary": "At the start of the hearing, Netanyahu said he had requested a full cancellation, citing 'something big in South America.' Before adjourning, he asked to shorten the session by an hour to prepare for a meeting with Trump's special envoy to Syria"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "State indicts Tel Aviv man with rape after alleged drugging at Bat Yam event",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-880375",
-      "image": null,
-      "published_at": "2025-12-15T16:29:27.000Z",
-      "summary": "Prosecutors allege Zainab raped the complainant by vaginal penetration while exploiting the fact that her senses were “blurred” by substances and she was unable to give free consent. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2362,16 +2392,6 @@
       "summary": "While in Tel Aviv thousands called to establish a state commission of inquiry for October 7, in Jerusalem, protesters demanded the president refuse to pardon Netanyahu. In the south, people gathered to call for the return of the last hostage in Gaza, Ran Gvili"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "'I hid in trash cans and garbage rooms': Unhoused people in Tel Aviv struggle to survive inclement weather",
-      "url": "https://www.haaretz.com/israel-news/2025-12-13/ty-article-magazine/.premium/i-hid-in-trash-cans-unhoused-people-in-tel-aviv-struggle-to-survive-inclement-weather/0000019b-1917-d964-a59f-3d77500f0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-1922-d0fb-a9df-7fef02ea0001/39/d2/a78ada38435aa71203cc60d889b0/079268-2.jpg?height=81",
-      "published_at": "2025-12-13T20:07:20.000Z",
-      "summary": "While some unhoused Israelis search for shelter in the street, others do so in temporary shelters. 'Anything that affects an ordinary person affects unhoused people tenfold. They're extremely susceptible to the cold,' says a doctor who volunteers in an NGO operating in the Tel Aviv area"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -2380,16 +2400,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b896/live/f987f380-d85d-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2025-12-13T20:06:27.000Z",
       "summary": "Southern & Eastern Europe correspondent Sarah Rainsford reports from Lithuania, where some of the released prisoners were taken."
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Sources: Italy tells U.S. it commits to sending troops to the Gaza stabilization force",
-      "url": "https://www.haaretz.com/gaza/2025-12-13/ty-article/.premium/sources-italy-tells-u-s-it-commits-to-sending-troops-to-the-gaza-stabilization-force/0000019b-18e9-d0fb-a9df-7eed7c270000",
-      "image": "https://img.haarets.co.il/bs/0000019b-18fb-d93d-a5fb-3afb39280000/42/95/522804b34e9f8eaa53f3cfdfe9bb/107663-2.jpg?height=81",
-      "published_at": "2025-12-13T19:52:11.000Z",
-      "summary": "Italy is the only country so far to make such a commitment. Indonesia previously said it would participate in the stabilization force, but only with medical and construction teams. Turkey, which periodically announces its intention to participate, faces strong objections by Israel"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
