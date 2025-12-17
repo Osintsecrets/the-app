@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-17T23:09:28.035Z",
+  "generated_at": "2025-12-17T23:38:03.816Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -15,11 +15,71 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
+      "title": "Haaretz Cartoon",
+      "url": "https://www.haaretz.com/opinion/daily-cartoon/2025-12-18/ty-article-opinion/haaretz-cartoon/0000019b-2e9c-d8f0-a9db-6ffc6c290000",
+      "image": "https://img.haarets.co.il/bs/0000019b-2e9c-d932-a7bf-6fbdf5420001/e4/53/ff969ee54196a8e569e6bc5a44a7/image-2025-12-17-152013864.png?height=81",
+      "published_at": "2025-12-17T23:22:50.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Dershowitz says he told Trump that US Constitution not clear if he can serve third term",
+      "url": "https://www.timesofisrael.com/liveblog-december-18-2025/",
+      "image": null,
+      "published_at": "2025-12-17T23:17:03.000Z",
+      "summary": "Lawyer confirms speaking to Miriam Adelson, after she said at White House Hanukkah party that he told her Trump could run again * Bennett admits hackers accessed his Telegram account, says phone not breached\nThe post Dershowitz says he told Trump that US Constitution not clear if he can serve third "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Live: Trump to highlight achievements amid Venezuela, economic tensions",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/12/17/live-trump-to-highlight-achievements-amid-venezuela-economic-tensions?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-17T23:00:54.000Z",
+      "summary": "Trump is also set to preview his 2026 priorities during Oval Office &#039;address to the nation&#039;."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Lula threatens to walk away if further delays to EU-Mercosur trade deal",
+      "url": "https://www.aljazeera.com/news/2025/12/17/brazil-threatens-to-walk-away-if-further-delays-to-eu-mercosur-trade-deal?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-17T22:58:43.000Z",
+      "summary": "Brazilian president says it is now or never after Italy joins France in saying it is not ready to sign trade deal."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Republicans defy House leadership to force vote on healthcare subsidies",
+      "url": "https://www.aljazeera.com/news/2025/12/17/republicans-defy-house-leadership-to-force-vote-on-healthcare-subsidies?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-17T22:58:05.000Z",
+      "summary": "Democrats push vote on extension of healthcare subsidies that millions of people rely on for coverage. "
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
       "title": "How the IDF finally closed case of soldier's death in archaeological excursion to Lebanon",
       "url": "https://www.haaretz.com/israel-news/2025-12-18/ty-article/.premium/how-the-idf-finally-closed-case-of-soldiers-death-in-archaeological-excursion-to-lebanon/0000019b-2df3-d932-a7bf-6ff3e68b0000",
       "image": "https://img.haarets.co.il/bs/00000194-0479-d7d6-a7d7-b4fb89b10000/76/04/0e28c73349be84d83409dfc17ae7/59878102.JPG?height=81",
       "published_at": "2025-12-17T22:55:12.000Z",
       "summary": "The IDF said that the decision was taken after late evidence by the force commander that 'could be collected earlier,' even though he was questioned three times. 'Gur was killed twice, no soil was placed on his grave, but lies and mortar,' his grandfather accused"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Winter storms worsen Gaza humanitarian crisis as UN says aid still blocked",
+      "url": "https://www.aljazeera.com/news/2025/12/17/winter-storms-worsen-gaza-humanitarian-crisis-as-un-says-aid-still-blocked?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-17T22:53:04.000Z",
+      "summary": "The roof of a war-damaged family home collapses during winter storm in Gaza City’s Shati refugee camp."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -69,7 +129,7 @@
       "url": "https://www.ynet.co.il/news/article/sj9c0je7zg",
       "image": null,
       "published_at": "2025-12-17T22:43:04.000Z",
-      "summary": "תושב טמרה בשנות ה-30 לחייו נורה למוות בביתו. הרקע לאירוע הוא פלילי והמשטרה פתחה בחקירה. מתחילת השנה נרצחו 247 בני אדם בחברה הערבית"
+      "summary": "תושב טמרה בן 43 נורה למוות בביתו שבגליל התחתון. הרקע לאירוע הוא פלילי והמשטרה פתחה בחקירה. מתחילת השנה נרצחו 247 בני אדם בחברה הערבית"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -240,6 +300,16 @@
       "image": null,
       "published_at": "2025-12-17T22:04:00.000Z",
       "summary": "כך הפך עוד דיון על תנאי מעצר לרגע מכריע בתיקים שמסעירים את המדינה, כשהשופט רומז לאכיפה בררנית ומשגר את הפרקליטות לנסח את כתב האישום מחדש. וכך, כפי שמגלה מקור בכיר בעולם האכיפה והתביעה, עושים גורמי החקירה הכל על מנת שלא להגיע למצב שבו הם יהיו חייבים לחקור את נתניהו תחת אזהרה"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "תוכנית מחיקת הרישום הפלילי  של צה\"ל: גם חיילי מילואים יוכלו לקבל חנינה מהנשיא",
+      "url": "https://www.ynet.co.il/news/article/yokra14615544",
+      "image": null,
+      "published_at": "2025-12-17T22:00:00.000Z",
+      "summary": "בצה\"ל מרחיבים את מסלול מחיקת הרישום הפלילי למשרתים, שהצטמצמה עקב המלחמה. עכשיו גם אלפי חיילי מילואים שהורשעו יוכלו לקבל חנינה מנשיא המדינה, בסיוע חיל החינוך: \"התנאי הראשון הוא לקיחת אחריות, אבל צריך גם להוכיח זאת במעשים\". ב-98% מהמקרים הנשיא מקבל את המלצות הצבא"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -812,16 +882,6 @@
       "summary": "Fears are growing in Latin America over a US military build-up in the Caribbean, as Washington expands airstrikes."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Israeli-founded cyber unicorn Cyera said to raise $400m, soaring to $9 billion valuation",
-      "url": "https://www.timesofisrael.com/israeli-founded-cyber-unicorn-cyera-said-to-raise-400m-soaring-to-9-billion-valuation/",
-      "image": null,
-      "published_at": "2025-12-17T16:47:02.000Z",
-      "summary": "The investment led by US alternative asset manager Blackstone comes six months after the previous round, when the Israeli data security startup was valued at $6 billion\nThe post Israeli-founded cyber unicorn Cyera said to raise $400m, soaring to $9 billion valuation appeared first on The Times of Is"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -952,16 +1012,6 @@
       "summary": "פריצת דרך בחקירה? הוארך מעצרו של בן 63 מבאר שבע שחשוד בניסיון חטיפת ילדה - וכעת ניתן לומר שהוא חשוד גם בחטיפת היימנוט קסאו. השופטת: \"יש חשד סביר נגדו בשני המקרים\". טענת האליבי שלו: \"במועד היעלמות היימנוט כבר מזמן לא הייתי במרכז הקליטה בצפת, אלא בבאר שבע\""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Susie Wiles: What top Trump aide said in her Vanity Fair interview",
-      "url": "https://www.aljazeera.com/news/2025/12/17/susie-wiles-what-top-trump-aide-said-in-her-vanity-fair-interview?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-17T15:36:14.000Z",
-      "summary": "US president&#039;s chief of staff describes Trump as having &#039;alcoholic&#039;s personality&#039; and calls Elon Musk &#039;odd, odd duck&#039;."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -982,16 +1032,6 @@
       "summary": "The Nato chief said it was thanks to Donald Trump that the alliance is \"stronger than it ever was\". "
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Afghanistan under Taliban a “society of gender apartheid”",
-      "url": "https://www.aljazeera.com/video/quotable/2025/12/17/afghanistan-under-taliban-a-society-of-gender?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-17T15:23:48.000Z",
-      "summary": "&quot;The Taliban now post guards at UN offices to prevent women from going to their jobs.&quot;"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1010,26 +1050,6 @@
       "image": null,
       "published_at": "2025-12-17T15:05:54.000Z",
       "summary": "פרופ' נונו לוריירו, מדען בכיר באוניברסיטה במסצ'וסטס, נורה למוות בביתו. שכנה שלו תיארה: \"שמעתי 3 רעשים חזקים וחששתי שזה ירי, מרגיש שזה קורה כל הזמן\". בישראל סברו תחילה שיש קשר בין היותו פרו-ישראלי לרצח, אבל במוסד האקדמי היה מי שהבהירו: \"הוא לא עסק בישראל ואין הוכחות שהיה יהודי\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "What are things like for women, 15 years after the Arab Spring?",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2025/12/17/what-are-things-like-for-women-15-years-after-the-arab-spring?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-17T14:52:39.000Z",
-      "summary": "Fifteen years after the Arab Spring, the women who lit the spark still struggle for influence, equality and protection"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Will Europe use frozen Russian assets to fund Ukraine’s war efforts?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/17/will-europe-use-frozen-russian-assets-to-fund-ukraines-war-efforts?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-17T14:47:31.000Z",
-      "summary": "The decision would be crucial for Ukraine&#039;s war efforts and a test of European resolve. "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1100,16 +1120,6 @@
       "image": null,
       "published_at": "2025-12-17T13:56:21.000Z",
       "summary": "מיס פינלנד ל-2025 עוררה זעם במזרח כשפרסמה תמונה שלה מותחת את קצות העיניים, מעשה בעל קונוטציות גזעניות, וכתבה \"אוכלת עם סיני\". גם ביפן זעמו, חברות פיניות נפגעו, והיא טענה: \"סתם כאב לי הראש, זאת חברה כתבה\". אחרי שהתואר נשלל ממנה התגייסו למענה חברי פרלמנט מהימין ופרסמו חיקוי דומה, רה\"מ אורפו נאלץ להתנצ"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "נתלה על הקרון במשך 20 דקות: נוסע סמוי הסתנן בת\"א לרכבת מטען | צפו ",
-      "url": "https://www.ynet.co.il/news/article/r1spzneqwl",
-      "image": null,
-      "published_at": "2025-12-17T13:52:50.000Z",
-      "summary": "מצלמות הבקרה תיעדו נוסע סמוי שוכב על רכבת מטען, אליה הסתנן בסבידור מרכז. צוותי הביטחון איתרו אותו במצלמות והורידו אותו בתחנה אחרת"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2320,16 +2330,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-1e7e-d964-a59f-3f7e65180001/9f/de/df3285264b549dca2abe22552c90/115891.jpg?height=81",
       "published_at": "2025-12-15T09:42:12.000Z",
       "summary": "The far-right committee chairman said that 'foreign broadcasters that wish Israel ill' should be treated 'just like any other enemy,' regardless of whether there is a state of emergency. The Knesset's legal counsel deemed the bill unconstitutional, despite the majority vote in its favor"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Rare discovery: Menorah amulet from Byzantine period found in Jerusalem",
-      "url": "https://www.haaretz.com/archaeology/2025-12-15/ty-article/menorah-amulet-from-byzantine-time-found-in-ancient-jerusalem/0000019b-2137-d0fb-a9df-6fff06e80000",
-      "image": "https://img.haarets.co.il/bs/0000019b-2137-d0fb-a9df-6fff04360000/6f/d5/71f1e2d14268a112011845920117/64139658.JPG?height=81",
-      "published_at": "2025-12-15T09:31:50.000Z",
-      "summary": "The crudely fashioned, possibly homemade pendant was unearthed by the Temple Mount in a Byzantine building from 1,300 years ago, a time Jews were banned from the city"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
