@@ -1,11 +1,91 @@
 {
-  "generated_at": "2025-12-17T00:42:39.545Z",
+  "generated_at": "2025-12-17T02:29:44.910Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israeli scientists use AI to improve irrigation and spot plant stress early - study",
+      "url": "https://www.jpost.com/israel-news/article-880511",
+      "image": null,
+      "published_at": "2025-12-17T04:17:55.000Z",
+      "summary": "A Hebrew University study suggests AI tools could help growers better manage water use by predicting healthy plant behavior and flagging early signs of stress."
+    },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Trump orders ‘total’ blockade of sanctioned Venezuelan oil tankers",
+      "title": "Ex-Harvard morgue manager who stole body parts gets 8 years in prison",
+      "url": "https://www.aljazeera.com/news/2025/12/17/ex-harvard-morgue-manager-who-stole-body-parts-gets-8-years-in-prison?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-17T02:01:11.000Z",
+      "summary": "Judge sentences Harvard Medical School morgue manager for stealing organs and various body parts for sale to others. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump's chief of staff disputes Vanity Fair story in which she criticises Vance and Musk",
+      "url": "https://www.bbc.com/news/articles/c8dy532193do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/412f/live/ae7ea600-daa5-11f0-b825-331725716d67.jpg",
+      "published_at": "2025-12-17T01:48:48.000Z",
+      "summary": "In the interview, Wiles describes Donald Trump as having an \"alcoholic's personality\" and JD Vance as having been a \"conspiracy theorist\" for a decade. "
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "First funerals held for victims of Bondi Beach Hanukkah massacre: ‘Our own Oct. 7′",
+      "url": "https://www.timesofisrael.com/first-funerals-held-for-victims-of-bondi-beach-hanukkah-massacre-our-own-oct-7%e2%80%b2/",
+      "image": null,
+      "published_at": "2025-12-17T01:47:57.000Z",
+      "summary": "Father-in-law of Rabbi Eli Schlanger vows ‘to show the world’ by lighting candles at site of attack on last night of Jewish holiday; Rabbi Yaakov Levitan to be buried later Wednesday\nThe post First funerals held for victims of Bondi Beach Hanukkah massacre: ‘Our own Oct. 7′ appeared first on The Tim"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia-Ukraine war: List of key events, day 1,392",
+      "url": "https://www.aljazeera.com/news/2025/12/17/russia-ukraine-war-list-of-key-events-day-1392?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-17T01:45:29.000Z",
+      "summary": "These are the key developments from day 1,392 of Russia’s war on Ukraine."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Israel blocks Canadian MPs at West Bank crossing: Delegation sponsored by &#8216;terror entity&#8217;",
+      "url": "https://www.timesofisrael.com/israel-blocks-canadian-mps-at-west-bank-crossing-delegation-sponsored-by-terror-entity/",
+      "image": null,
+      "published_at": "2025-12-17T01:08:28.000Z",
+      "summary": "Member of PM Carney's party alleges she was shoved by border officials; Israeli Embassy in Ottawa says trip backed by subsidiary of Islamic Relief Worldwide, a designated terror organization\nThe post Israel blocks Canadian MPs at West Bank crossing: Delegation sponsored by &#8216;terror entity&#8217"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Rob and Michele Reiner's son Nick charged with murder in parents' deaths",
+      "url": "https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65d3/live/00fab7e0-dacc-11f0-aae2-2191c0e48a3b.jpg",
+      "published_at": "2025-12-17T01:00:38.000Z",
+      "summary": "Rob Reiner, the Hollywood director, and his wife Michele were both found dead with stab wounds on Sunday. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "טראמפ הכריז על ממשלת ונצואלה כארגון טרור - והורה על מצור נפט: \"מוקפת בצי ענק\"",
+      "url": "https://www.ynet.co.il/news/article/b18peukqwg",
+      "image": null,
+      "published_at": "2025-12-17T00:38:52.000Z",
+      "summary": "עליית מדרגה בקמפיין המתמשך של נשיא ארה\"ב נגד ה\"נרקו-טרוריסטים\" והנשיא מדורו. \"ההלם יהיה חסר תקדים, שיחזירו את הנפט שגנבו\", כתב טראמפ ברשת החברתית שלו - והורה על \"מצור מלא\" על מכליות שהוטלו עליהן סנקציות: \"המשטר הבלתי לגיטימי מממן את עצמו\". בוונצואלה דחו: \"איום מגוחך\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump orders ‘total’ blockade of sanctioned Venezuela oil tankers",
       "url": "https://www.aljazeera.com/news/2025/12/17/trump-orders-total-blockade-of-sanctioned-venezuelan-oil-tankers?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-17T00:11:26.000Z",
@@ -25,11 +105,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "First funerals for victims of Hanukkah attack held at Chabad of Bondi Synagogue",
+      "title": "Australian PM: Charges to be filed in ‘coming hours’ against Bondi Beach terrorist",
       "url": "https://www.timesofisrael.com/liveblog-december-17-2025/",
       "image": null,
       "published_at": "2025-12-16T23:27:45.000Z",
-      "summary": "Mourners gather in Sydney to grieve rabbis Eli Schlanger and Yaakov Levitan * Nick Reiner to be charged with two counts of first-degree murder in killing of his parents\nThe post First funerals for victims of Hanukkah attack held at Chabad of Bondi Synagogue appeared first on The Times of Israel.\n"
+      "summary": "Surviving attacker emerges from coma after he was shot by police * At White House Hanukkah party, parents of former hostage politely correct Trump after he claims no more captives left in Gaza\nThe post Australian PM: Charges to be filed in ‘coming hours’ against Bondi Beach terrorist appeared first "
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -252,14 +332,14 @@
       "summary": "בחיזבאללה מלקקים את הפצעים, ומנסים לפזר נכסים מחוץ לדאחייה לקראת הסבב הבא. בצה\"ל מזהים קושי בשכירת דירות, ובתשלום פיצויים לאלפי העקורים שעדיין לא חזרו לכפרים ההרוסים. גוברת ההערכה - פעולה ישראלית לא תתרחש לפני פסגת טראמפ-נתניהו, והאזהרה באמ\"ן: \"איראן עדיין רואה בו פרוקסי מרכזי\""
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "Rob and Michele Reiner's son Nick to face murder charges in parents' deaths",
-      "url": "https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65d3/live/00fab7e0-dacc-11f0-aae2-2191c0e48a3b.jpg",
-      "published_at": "2025-12-16T21:58:31.000Z",
-      "summary": "Rob Reiner, the Hollywood director, and his wife Michele were both found dead with stab wounds on Sunday. "
+      "title": "\"יש הטיה טבעית, מראיינים בוחרים במי שדומה להם\": מהפכת הפריפריה בצה\"ל",
+      "url": "https://www.ynet.co.il/news/article/yokra14616065",
+      "image": null,
+      "published_at": "2025-12-16T22:00:00.000Z",
+      "summary": "\"הכוח האמיתי אצל המראיינים\": לפי התוכנית, שליש מהממיינים ביחידות כמו 8200 יהיו בעצמם מהפריפריה, כשהיעד הבא: לפחות שליש מהמתקבלים גם כן מרקע מגוון – לאחר שעברו את המבחנים הראשוניים. \"יש שם אנשים מעולים, צריך לתת הזדמנות שווה\", הסבירו בצבא. זה העונש ליחידה שלא תעמוד ביעדים"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -542,16 +622,6 @@
       "summary": "Two people died and nine others were injured in the attack in Rhode Island on Saturday."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump's chief of staff disputes Vanity Fair story in which she criticises Vance and Musk",
-      "url": "https://www.bbc.com/news/articles/c8dy532193do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/412f/live/ae7ea600-daa5-11f0-b825-331725716d67.jpg",
-      "published_at": "2025-12-16T19:33:59.000Z",
-      "summary": "In the interview, Wiles describes Donald Trump as having an \"alcoholic's personality\" and JD Vance as having been a \"conspiracy theorist\" for a decade. "
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -762,26 +832,6 @@
       "summary": "The question is clear, “This isn’t a fight over budgets. It’s a fight over the lives of the people who protected all of us.”"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "JD Vance: Lowering immigration is best way to curb antisemitism in US",
-      "url": "https://www.timesofisrael.com/jd-vance-lowering-immigration-is-best-way-to-curb-antisemitism-in-us/",
-      "image": null,
-      "published_at": "2025-12-16T17:34:00.000Z",
-      "summary": "In social media thread, US vice president says multiculturalism brought people with 'ethnic grievances' to US; also stresses difference between 'not liking Israel' and antisemitism\nThe post JD Vance: Lowering immigration is best way to curb antisemitism in US appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Antisemitism tensions rise as NYC Young Republicans host white supremacists, Germany&#8217;s AfD",
-      "url": "https://www.timesofisrael.com/antisemitism-tensions-rise-as-nyc-young-republicans-host-white-supremacists-germanys-afd/",
-      "image": null,
-      "published_at": "2025-12-16T17:32:42.000Z",
-      "summary": "Jewish Republican US lawmaker Inna Vernikov turns down invitation despite 'honored guest' status, slamming the party's 'hard right wing'\nThe post Antisemitism tensions rise as NYC Young Republicans host white supremacists, Germany&#8217;s AfD appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -932,16 +982,6 @@
       "summary": "Advocacy group urges sanctions on Israel after Canadian delegation, including six lawmakers, turned back to Jordan."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Man who drove into Liverpool parade jailed for 21 years",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/16/man-who-drove-into-liverpool-parade-jailed-for-21-years?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-16T16:21:13.000Z",
-      "summary": "A British man who drove his car into a crowd of football fans in Liverpool has been sentenced to 21,5 years in prison."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -960,16 +1000,6 @@
       "image": null,
       "published_at": "2025-12-16T16:19:25.000Z",
       "summary": "Netanyahu said that the soldiers had fought a war of \"the people of culture, the people of light against the people of darkness,\" that they were winning and performing miracles through their bravery."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Top Trump aide suggests boat strikes aim to topple Venezuela’s Maduro",
-      "url": "https://www.aljazeera.com/news/2025/12/16/top-trump-aide-suggests-boat-strikes-aim-to-topple-venezuelas-maduro?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-16T16:14:10.000Z",
-      "summary": "White House&#039;s Susie wiles appears to contradict the official narrative portraying the attacks as an antidrug campaign."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1180,26 +1210,6 @@
       "image": null,
       "published_at": "2025-12-16T14:00:00.000Z",
       "summary": "התקווה היחידה שנותרה לשוחרי הדמוקרטיה בבחירות הקרובות היא הציונות הדתית השפויה, והצבעת המגזר הערבי"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אמור מעתה (שוב): דרום תימן וצפון תימן",
-      "url": "https://www.ynet.co.il/news/article/hy001wocgwx",
-      "image": null,
-      "published_at": "2025-12-16T14:00:00.000Z",
-      "summary": "מנהיג הבדלנים כבר הצהיר שמדינה עצמאית בדרום עשויה להצטרף להסכמי אברהם. אם מגמה זו תבשיל, תוכל ישראל להרוויח שותף נוסף בים האדום, מרחב קריטי למאבק בהשפעה האיראנית ולאבטחת נתיבי השיט"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "צעד לבניית אמון מול הרבנים: התאמות הגיוס לחרדים יעוגנו בפקודת מטכ\"ל",
-      "url": "https://www.ynet.co.il/news/article/rjqgcp0g11g",
-      "image": null,
-      "published_at": "2025-12-16T13:57:20.000Z",
-      "summary": "בעקבות חשש הרבנים מכך שתנאי החרדים בצה\"ל לא יחזיקו מעמד בחילופי פיקוד או שינויים, בעוד כשבועיים צפויה להיות מאושרת הפקודה שתעגן את הדברים, ובצבא מצפים כי הדבר יוכיח את הכוונה האמיתית לקיים מסגרת מותאמת עבורם. בינתיים, בוועדת חוץ וביטחון עסקו שוב בהגדרת מיהו חרדי בהתאם לנוסח הקיים"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1690,16 +1700,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff2c/live/1bfce010-d9e9-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2025-12-15T18:26:26.000Z",
       "summary": "Four people are facing conspiracy charges after they were apprehended while planning to test explosives in the desert."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel faces multiple challenges in Gaza, Lebanon, Syria for last weeks of December",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-880383",
-      "image": null,
-      "published_at": "2025-12-15T18:16:04.000Z",
-      "summary": "The problem for Israel is that ceasefires on two borders are not bringing calm. Israeli leaders and officials appear to think that new rounds of conflict are only a matter of time."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
