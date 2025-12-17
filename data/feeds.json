@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-17T05:43:15.388Z",
+  "generated_at": "2025-12-17T06:15:26.321Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Alleged Bondi gunman charged with 15 counts of murder",
+      "url": "https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+      "published_at": "2025-12-17T06:07:28.000Z",
+      "summary": "Naveed Akram, 24, faces 59 charges in total following the attack at Sydney's Bondi Beach on Sunday."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,36 @@
       "image": null,
       "published_at": "2025-12-17T06:05:17.000Z",
       "summary": "In statements, the IDF reaffirmed that troops along the Yellow Line “remain deployed in accordance with the ceasefire agreement and will continue to operate to remove any immediate threat.”"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מפקד חיל האוויר: יוחזרו לשירות הקצינים שקראו להפסקת המלחמה",
+      "url": "https://www.ynet.co.il/news/article/skjppe1mbx",
+      "image": null,
+      "published_at": "2025-12-17T05:58:10.000Z",
+      "summary": "פרסום ראשון: אלוף תומר בר החליט להחזיר את 15 קציני המילואים שהושעו לאחר שחתמו על מכתב שקורא לסיום המלחמה והחזרת החטופים, כפי שפורסם ב-ynet. \"עצימות הלחימה ירדה\", הסבירו בחיל האוויר לבג\"ץ. בתשובה נטען כי הושעו בגלל ש\"ערבבו בין המרחב האזרחי לצבאי״. הקצינים: \"ניצחון חופש הביטוי\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "עיר המנהרות בביירות: המועד המשוער לפעולת צה\"ל - וגילויים חדשים מחיסול נסראללה ",
+      "url": "https://www.ynet.co.il/news/article/yokra14615357",
+      "image": null,
+      "published_at": "2025-12-17T05:48:17.000Z",
+      "summary": "באמ\"ן מזהים שלבנונים מסרבים להשכיר דירות לחיזבאללה מחוץ לדאחייה. ארגון הטרור מתקשה לשלם שכר דירה לרבבות העקורים מהמלחמה. לפי הערכות, מבצע צה\"לי לא יתרחש לפני פגישת טראמפ-נתניהו בסוף החודש. וגם: ההתעקשות של הנגדת נ' מחטיבת המחקר שהובילה להפצצת הבונקר של המנהיג המיתולוגי"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "India’s new suicide crisis: Poll workers take lives amid voter recount rush",
+      "url": "https://www.aljazeera.com/news/2025/12/17/indias-new-suicide-crisis-poll-workers-take-lives-amid-voter-recount-rush?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-17T05:30:29.000Z",
+      "summary": "At least 33 poll officials have died since launch of criticised revision of electoral rolls, many of them by suicide."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -265,11 +305,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Australian PM: Charges to be filed in ‘coming hours’ against Bondi Beach terrorist",
+      "title": "Bondi gunman charged with 59 offenses, including terror, as 2nd funeral of victim begins",
       "url": "https://www.timesofisrael.com/liveblog-december-17-2025/",
       "image": null,
       "published_at": "2025-12-16T23:27:45.000Z",
-      "summary": "Surviving attacker emerges from coma after he was shot by police * At White House Hanukkah party, parents of former hostage politely correct Trump after he claims no more captives left in Gaza\nThe post Australian PM: Charges to be filed in ‘coming hours’ against Bondi Beach terrorist appeared first "
+      "summary": "Rabbi Yaakov Levitan being laid to rest * Attacker Naveed Akram wakes from coma after he was shot by police * At White House, former hostage's parents correct Trump after he claims no more captives left in Gaza\nThe post Bondi gunman charged with 59 offenses, including terror, as 2nd funeral of victi"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -485,17 +525,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הלקחים של חיזבאללה בדאחייה, והתופעה המפתיעה: \"הפעילים מסולקים - בלי חשש\"",
-      "url": "https://www.ynet.co.il/news/article/yokra14615357",
-      "image": null,
-      "published_at": "2025-12-16T22:00:00.000Z",
-      "summary": "בחיזבאללה מלקקים את הפצעים, ומנסים לפזר נכסים מחוץ לדאחייה לקראת הסבב הבא. בצה\"ל מזהים קושי בשכירת דירות, ובתשלום פיצויים לאלפי העקורים שעדיין לא חזרו לכפרים ההרוסים. גוברת ההערכה - פעולה ישראלית לא תתרחש לפני פסגת טראמפ-נתניהו, והאזהרה באמ\"ן: \"איראן עדיין רואה בו פרוקסי מרכזי\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"יש הטיה טבעית, מראיינים בוחרים במי שדומה להם\": מהפכת הפריפריה בצה\"ל",
+      "title": "\"מראיינים בוחרים במי שדומה להם\": מהפכת פריפריה בצה\"ל",
       "url": "https://www.ynet.co.il/news/article/yokra14616065",
       "image": null,
       "published_at": "2025-12-16T22:00:00.000Z",
@@ -1072,16 +1102,6 @@
       "summary": "Yale research lab finds evidence that Sudanese group buried, burned, and removed human remains after el-Fasher massacre."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Iran’s foreign minister says strikes won’t stop nuclear programme",
-      "url": "https://www.aljazeera.com/video/fault-lines/2025/12/16/irans-foreign-minister-says-strikes-wont-stop-nuclear-programme?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-16T16:52:32.000Z",
-      "summary": "Exclusive: Iran&#039;s foreign minister sits down with Fault Lines to discuss the nuclear standoff and diplomatic deadlock."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1180,16 +1200,6 @@
       "image": null,
       "published_at": "2025-12-16T15:49:05.000Z",
       "summary": "לאחר שנים של תלונות מצד תושבי דרום העיר על היעדר משילות, גובשה תוכנית להכנסת כוחות מג״ב ייעודיים וקבועים לשכונות הדרומיות. המטרה: ״מיגור פשיעה והגברת תחושת הביטחון בקרב התושבים״"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "יחס מדינות ערב לפיגוע באוסטרליה",
-      "url": "https://www.ynet.co.il/news/article/sk6sxly7zl",
-      "image": null,
-      "published_at": "2025-12-16T15:39:13.000Z",
-      "summary": "רק מנהיג אחד גינה בפה מלא, שאר המנהיגים  הסתפקו במשהו לקוני ללא ייחוס או התעלמו. כלי התקשורת, לעומת זאת, דיווחו לא מעט על האסון בסידני וגיבור האירוע - אחמד אל אחמד"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2210,16 +2220,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-20f4-d0fb-a9df-6efda7b20000/d9/a5/55dd6bc14f7e8fc13c2d18890519/129594.jpg?height=81",
       "published_at": "2025-12-14T19:16:58.000Z",
       "summary": "At least 15 people were killed in the terrorist shooting attack during a Hanukkah celebration in Bondi Beach. Among those killed were a Chabad emissary, a Holocaust survivor, and a 10-year-old girl"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "'Never give up': Belarusian prisoners celebrate release after US lifts sanctions",
-      "url": "https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b968/live/90df80e0-d8cc-11f0-a8dc-93c15fe68710.jpg",
-      "published_at": "2025-12-14T18:18:37.000Z",
-      "summary": "\"It's a feeling of incredible happiness,\" says political prisoner Maria Kolesnikova, freed after more than five years."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
