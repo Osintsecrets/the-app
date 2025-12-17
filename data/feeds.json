@@ -1,13 +1,23 @@
 {
-  "generated_at": "2025-12-17T06:52:25.479Z",
+  "generated_at": "2025-12-17T07:13:28.596Z",
   "items": [
+    {
+      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
+      "source": "Bellingcat",
+      "topic": "OSINT",
+      "title": "How Russia’s Invasion is Impacting Ukraine’s Youth",
+      "url": "https://www.bellingcat.com/news/2025/12/17/how-russias-invasion-is-impacting-ukraines-youth/",
+      "image": null,
+      "published_at": "2025-12-17T07:07:21.000Z",
+      "summary": "Last month, in the dead of a cold Autumn night, residents in the Ukrainian town of Balakliia were woken by the sound of two massive explosions. Social media footage showed apartments ablaze, balconies obliterated and a deep crater smouldering in a parking lot. Three people were killed and 13 injured"
+    },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
       "title": "Alleged Bondi gunman charged with 15 counts of murder",
       "url": "https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bac/live/de53f0b0-db13-11f0-aae2-2191c0e48a3b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3824/live/3a80fa20-db16-11f0-a8dc-93c15fe68710.jpg",
       "published_at": "2025-12-17T06:45:24.000Z",
       "summary": "Naveed Akram, 24, faces 59 charges in total following the attack at Sydney's Bondi Beach on Sunday."
     },
@@ -109,7 +119,7 @@
       "url": "https://www.ynet.co.il/news/article/skjppe1mbx",
       "image": null,
       "published_at": "2025-12-17T05:58:10.000Z",
-      "summary": "פרסום ראשון: אלוף תומר בר החליט להחזיר את 15 קציני המילואים שהושעו לאחר שחתמו על מכתב שקורא לסיום המלחמה והחזרת החטופים, כפי שפורסם ב-ynet. \"עצימות הלחימה ירדה\", הסבירו בחיל האוויר לבג\"ץ. בתשובה נטען כי הושעו בגלל ש\"ערבבו בין המרחב האזרחי לצבאי״. הקצינים: \"ניצחון חופש הביטוי\""
+      "summary": "פרסום ראשון: אלוף תומר בר החליט להחזיר את 15 קציני המילואים שהושעו לאחר שחתמו על מכתב שקורא לסיום המלחמה והחזרת החטופים, כפי שפורסם ב-ynet. \"עצימות הלחימה ירדה, אין מניעה לזמנם - בהתאם להחלטת מפקדיהם\", הסבירו בחיל האוויר לבג\"ץ. הקצינים: \"ניצחון חופש הביטוי\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -205,11 +215,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Arab Israeli political officials say they'll join next government if anti-Netanyahu bloc prevails",
+      "title": "Don't rule us out of anti-Netanyahu coalition after elections, Arab political leaders say",
       "url": "https://www.haaretz.com/israel-news/2025-12-17/ty-article/.premium/sources-in-arab-leadership-if-opposition-forms-next-israeli-govt-well-be-part-of-it/0000019b-290a-d5c5-a3df-bfeeb8e00000",
       "image": "https://img.haarets.co.il/bs/00000195-dd28-da7e-adb7-fdb8e3420000/fb/e9/8f37402a4616b1366b5f6d8a35d3/055029.jpg?height=81",
       "published_at": "2025-12-17T04:01:04.000Z",
-      "summary": "Gadi Eisenkot didn't cave in to the Netanyahu's campaign of intimidation and incitement - and told voters the truth: Without including Arab parties, the electoral dead-heat between the left and right blocs will go on forever"
+      "summary": "Despite calls within the opposition for a 'Zionist-only' coalition excluding Arab parties, centrist leader Gadi Eisenkot did not yield to Netanyahu's campaign of intimidation and incitement, telling voters plainly that without Arab parties, the electoral deadlock between would persist – a win for Ne"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -389,7 +399,7 @@
       "url": "https://www.timesofisrael.com/liveblog-december-17-2025/",
       "image": null,
       "published_at": "2025-12-16T23:27:45.000Z",
-      "summary": "Rabbi Yaakov Levitan being laid to rest * Attacker Naveed Akram wakes from coma after he was shot by police * At White House, former hostage's parents correct Trump after he claims no more captives left in Gaza\nThe post Bondi gunman charged with 59 offenses, including terror, as 2nd funeral of victi"
+      "summary": "Rabbi Yaakov Levitan being laid to rest * Attacker Naveed Akram wakes from coma after he was shot by police * At White House, former hostage's parents correct Trump's claim no more captives left in Gaza\nThe post Bondi gunman charged with 59 offenses, including terror, as 2nd funeral of victim begins"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -565,21 +575,21 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "האור שלנו תמיד צריך לנצח משהו",
-      "url": "https://www.ynet.co.il/news/article/yokra14616079",
-      "image": null,
-      "published_at": "2025-12-16T22:04:00.000Z",
-      "summary": "הוא לא יכול לדלוק וזהו. תמיד חייבת להיות איזושהי אפלה ברקע. בחג הזה זה הרצח באוסטרליה. ויש את המאבקים המרים בינינו, בחברה הישראלית"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "איזנקוט לא רק בעד עבאס, הוא מחרים את נתניהו",
       "url": "https://www.ynet.co.il/news/article/yokra14615639",
       "image": null,
       "published_at": "2025-12-16T22:04:00.000Z",
       "summary": "יש לשער שעל תוכנית כזו מובנית ומסודרת המציעה הקמת ממשלה של 58 מנדטים לבד, שתהיה ממשלת מעבר שכל תפקידה הוא לסלק את נתניהו ולערוך שוב בחירות – לא חשב איזנקוט לבדו"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "האור שלנו תמיד צריך לנצח משהו",
+      "url": "https://www.ynet.co.il/news/article/yokra14616079",
+      "image": null,
+      "published_at": "2025-12-16T22:04:00.000Z",
+      "summary": "הוא לא יכול לדלוק וזהו. תמיד חייבת להיות איזושהי אפלה ברקע. בחג הזה זה הרצח באוסטרליה. ויש את המאבקים המרים בינינו, בחברה הישראלית"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -2490,16 +2500,6 @@
       "image": null,
       "published_at": "2025-10-21T09:47:12.000Z",
       "summary": "To stay up to date on our latest investigations, join Bellingcat’s new WhatsApp channel here. Editor&#8217;s note: Vladislav Gillung officially changed his name to Vladislav Romanov in his twenties. Although the first recorded use of him as Romanov is from the period between 2020 and 2022, we will r"
-    },
-    {
-      "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
-      "source": "Bellingcat",
-      "topic": "OSINT",
-      "title": "Wildfires Ravage One of Africa’s Largest Nature Reserves",
-      "url": "https://www.bellingcat.com/news/2025/10/07/wildfires-ravage-one-of-africas-largest-nature-reserves/",
-      "image": null,
-      "published_at": "2025-10-07T15:39:01.000Z",
-      "summary": "Late last month, fires engulfed Namibia’s most visited wildlife reserve &#8211; Etosha National Park. An analysis of satellite imagery by Bellingcat has found that more than a third of the park was affected, impacting crucial grazing lands for endangered species, including black rhinos, giraffes and"
     },
     {
       "id": "Jerusalem Post — Breaking News-aHR0cHM6Ly93d3cuanBvc3Qu",
