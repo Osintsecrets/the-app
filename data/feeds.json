@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-18T16:50:26.290Z",
+  "generated_at": "2025-12-18T17:13:51.321Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -9,17 +9,27 @@
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-880710",
       "image": null,
       "published_at": "2025-12-18T18:40:24.000Z",
-      "summary": "\"The deal serves a strategic interest to enhance Egypt's position as the only regional center for gas trading in the Eastern Mediterranean,\" Saudi channel Asharq News reported."
+      "summary": "\"The deal serves a strategic interest to enhance Egypt's position as the only regional center for gas trading in the Eastern Mediterranean,\" official Diaa Rashwan said."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Ultra-Orthodox rioters throw stones at bus carrying soldiers during Jerusalem protest",
+      "title": "Ultra-Orthodox rioters throw stones at bus carrying IDF soldiers during Jerusalem protest",
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-880704",
       "image": null,
       "published_at": "2025-12-18T17:42:45.000Z",
       "summary": "Soldiers tried to help the police disperse the rioters, but were forced to go back inside the bus violently. The police had to use stun grenades to disperse the rioting crowd."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "צרפת: מאסר עולם ל\"ד\"ר מוות\", הרופא שהרעיל 30 מטופלים כדי להשפיל קולגות",
+      "url": "https://www.ynet.co.il/news/article/bkeegozmwg",
+      "image": null,
+      "published_at": "2025-12-18T17:03:31.000Z",
+      "summary": "הרופא המרדים פרדריק פשיה הורשע שבמשך כמעט עשור החדיר חומרים מזיקים לעירוי של מטופלים בני 4 עד 89, וכך הרג 12 בני אדם. לפי התביעה הוא רצה לגרום להם דום לב ודימומים כדי להשחיר רופאים שטיפלו בהם ושאיתם היה מסוכסך – ואז להתערב, להציל אותם ולהצטייר כגיבור: \"אחד הפושעים הגדולים בהיסטוריה\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -40,6 +50,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4f1/live/37ea5f20-dc26-11f0-89ae-89110b9e802d.jpg",
       "published_at": "2025-12-18T16:46:22.000Z",
       "summary": "The EU is deciding whether to loan tens of billions of euros of Russian money to fund Ukraine's military and economic needs."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israel-Lebanon talks: Everything you need to know",
+      "url": "https://www.aljazeera.com/news/2025/12/18/israel-lebanon-talks-everything-you-need-to-know?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-18T16:43:53.000Z",
+      "summary": "Representatives from Israel and Lebanon, as well as US, French, UN officials to meet for second meeting on ceasefire."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -155,11 +175,11 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Israeli arrested over role in weapons-smuggling network, Katz approves administrative detention",
+      "title": "For first time, Bedouin-Israeli administratively detained for drone weapons smuggling",
       "url": "https://www.jpost.com/israel-news/defense-news/article-880697",
       "image": null,
       "published_at": "2025-12-18T15:52:13.000Z",
-      "summary": "Defense Minister Israel Katz signed an order approving the use of administrative detention against the suspect, a resident of the South."
+      "summary": "Defense Minister Israel Katz approved the administrative detention despite having ended the practice for Jewish-Israelis, even for violent offenses."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -792,20 +812,10 @@
       "summary": "Hundreds of Arabic words are used in the English language today, and there are surprising stories behind them."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Widescale IDF strikes target Hezbollah training camp, terror sites across Lebanon",
-      "url": "https://www.timesofisrael.com/widescale-idf-strikes-target-hezbollah-training-camp-terror-sites-across-lebanon/",
-      "image": null,
-      "published_at": "2025-12-18T11:25:59.000Z",
-      "summary": "Beirut parliament speaker calls sortie a 'message' to mediators meeting in Paris with Lebanese military chief on disarming Iran-backed group, as ceasefire threatens to unravel\nThe post Widescale IDF strikes target Hezbollah training camp, terror sites across Lebanon appeared first on The Times of Is"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Trump announces 'warriors dividend' for troops as he defends economic record",
+      "title": "Trump announces 'warrior dividend' for troops as he defends economic record",
       "url": "https://www.bbc.com/news/articles/c8e9j84008jo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a311/live/19446ce0-dc04-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2025-12-18T11:25:12.000Z",
@@ -860,16 +870,6 @@
       "image": null,
       "published_at": "2025-12-18T11:10:52.000Z",
       "summary": "ברחובות המקושטים של ורשה רואים את פירות הנס הכלכלי של המדינה הכי צומחת באירופה. אבל בטלוויזיה מסבירים לאזרחים כיצד לרדת למקלטים, הממשלה נמצאת במסע רכש של נשק מתקדם - ולאורך הגבול עם בלארוס נערכים למנוע כל ניסיון פלישה רוסי. שליחנו מדווח מפולין, שחוששת שהיא הבאה בתור"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "What’s next for the global economy in 2026?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2025/12/18/whats-next-for-the-global-economy-in-2026?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-18T11:09:11.000Z",
-      "summary": "2025 was the year of tariffs and a global shift in economic power."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1170,16 +1170,6 @@
       "image": null,
       "published_at": "2025-12-18T06:59:49.000Z",
       "summary": "בריאיון ל\"120 ואחת\", הפודקאסט הפוליטי של ynet, מסביר שר התרבות והספורט איפה הוא מזדהה עם תפקוד האופוזיציה. על הממשלה הבאה: \"בנט, איזנקוט וגנץ יכולים להיות שותפים שלנו. יאיר גולן כנראה לא\". על המו\"מ שלו עם מנסור עבאס: \"ראש הממשלה התנגד\". על כישלון המינוי של יאיר נתניהו: \"ההסברה יכלה למתן את הפעילות ב"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "כולם חזרו? מה עומד מאחורי ה\"טעויות\" של טראמפ",
-      "url": "https://www.ynet.co.il/news/article/byp79mzxwe",
-      "image": null,
-      "published_at": "2025-12-18T06:43:25.000Z",
-      "summary": "בשתי הזדמנויות שונות חזר נשיא ארה\"ב על המסר לפיו כל החטופים חזרו - וזה לא מקרי. החיפושים אחר רן גואילי נעצרו בגלל מזג האוויר, גורם ישראלי: \"לא נוותר - זה לא אירוע טקטי\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
