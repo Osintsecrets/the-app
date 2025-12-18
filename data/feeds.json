@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-18T22:09:11.725Z",
+  "generated_at": "2025-12-18T22:40:13.502Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -25,11 +25,101 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
+      "title": "Pope Leo names Ronald Hicks next archbishop of New York",
+      "url": "https://www.bbc.com/news/articles/c8983vzg79go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f06a/live/4d3faaa0-dc5e-11f0-b1b4-f15065f62c2f.jpg",
+      "published_at": "2025-12-18T22:25:49.000Z",
+      "summary": "The 58-year-old from Chicago will replace Cardinal Timothy Dolan to lead New York's 2.5 million Catholics."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "האיראנים ניסו לפתח פצצה גרעינית בלי ביקוע / נדב איל",
+      "url": "https://www.ynet.co.il/news/article/syu9djw7zl",
+      "image": null,
+      "published_at": "2025-12-18T22:21:00.000Z",
+      "summary": "עדות מאוסטרליה: בעל המאפייה היהודי מספר כיצד עבר הטרדות ואיומים מאז 7 באוקטובר. השבוע הוא סגר את העסק | בלעדי: איראן ניסתה לפתח נשק גרעיני מדור רביעי, מבוסס היתוך טהור, שאין לאף מדינה | השאלה: לטהרן אין יכולת לייצר נשק מתוחכם כל כך, ומכאן התעלומה ‑ מדוע בכלל ניסו אחרי השקעה אדירה במסלול גרעיני \"רגיל"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מבשל עם איש עסקים, עומד לצד אהוד ברק: רגע לפני הדד-ליין - פורסמו עוד תמונות של אפשטיין",
+      "url": "https://www.ynet.co.il/news/article/s1nxe1gx11l",
+      "image": null,
+      "published_at": "2025-12-18T22:20:53.000Z",
+      "summary": "משרד המשפטים האמריקני פרסם עשרות תמונות נוספות מעִזְבונו של עבריין המין - רגע לפני שישוחררו המסמכים מ\"תיקי אפשטיין\". בכמה מהתיעודים נראים אנשים מוכרים כמו ביל גייטס, ובאחרים מופיעות נשים אחרי שפניהן הושחרו. כך נראו יחסיו עם טראמפ, שיכול למנוע פרסום של כמה מהרשומות: \"שוחחו על סקס\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "המצוד בארה\"ב נמשך: חשד לקשר בין הטבח באוניברסיטת בראון לרצח הפיזיקאי מ-MIT",
+      "url": "https://www.ynet.co.il/news/article/skdbxjg7zg",
+      "image": null,
+      "published_at": "2025-12-18T22:15:29.000Z",
+      "summary": "6 ימים אחרי שאלמוני נכנס לאודיטוריום באוניברסיטה היוקרתית ברוד איילנד, פתח באש והרג שני סטודנטים, הוא טרם נתפס, אך החוקרים סבורים שהם גילו את זהותו. יומיים אחרי הטבח נרצח ליד בוסטון פרופסור נונו לוריירו, וכעת המשטרה כבר לא שוללת קשר בין המקרים: \"מידע חדש התקבל ב-24 השעות האחרונות\""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "It isn't King Bibi, but rather Prince Netanyahu",
+      "url": "https://www.haaretz.com/opinion/2025-12-19/ty-article-opinion/.premium/netanyahu-is-the-prince/0000019b-327c-dc39-abbb-fffe33f80000",
+      "image": "https://img.haarets.co.il/bs/0000019b-333f-d60f-a5db-7b3f0c540000/27/32/79e12f554751a725c7fc05392c06/674701.jpg?height=81",
+      "published_at": "2025-12-18T22:10:50.000Z",
+      "summary": "The connection between the fox's cunning and the lion's pride explains how, even after the heartbreaking film about the six hostages, Netanyahu is still leading"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הפגישה עם הטורקים, והדיון אצל נתניהו: ארה\"ב \"מאמינה לחמאס\" ולוחצת על ישראל",
+      "url": "https://www.ynet.co.il/news/article/r1nryozqze",
+      "image": null,
+      "published_at": "2025-12-18T22:09:32.000Z",
+      "summary": "ראש הממשלה קיים דיון ביטחוני ראשון לקראת ביקורו בארה\"ב, אך וויטקוף יארח במיאמי דווקא את הטורקים כדי לדון בעתיד עזה - וטראמפ עלול לכפות את ההחלטה על ישראל. לפי הדיווחים, בבית הלבן מאמינים דווקא לחמאס, שמפר את הפסקת האש בקביעות. וגם: החשש למלחמה בלבנון שגובר"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Our first antisemitic 'Jewish president,' Donald Trump",
+      "url": "https://www.haaretz.com/opinion/2025-12-19/ty-article-opinion/.premium/our-first-antisemitic-jewish-president-donald-trump/0000019b-331c-d60f-a5db-7b1e2c610000",
+      "image": "https://img.haarets.co.il/bs/0000019b-3343-dc39-abbb-fff31c600000/bf/50/e5967e974fe889631a5dc7c35221/146823-3.jpg?height=81",
+      "published_at": "2025-12-18T22:08:24.000Z",
+      "summary": "Watching Trump's Hannukah event was, to put it mildly, like watching a sympathetic television adaptation of the forged antisemitic text about the Jewish conspiracy ruling the world – not openly, but by influencing the power hubs"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
       "title": "Ex-Nascar driver and family believed to be among seven killed in US aircrash ",
       "url": "https://www.bbc.com/news/articles/c741r9ve3z7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e64/live/f5be3270-dc5c-11f0-b1b4-f15065f62c2f.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3999/live/abd47730-dc5e-11f0-b1b4-f15065f62c2f.jpg",
       "published_at": "2025-12-18T22:06:27.000Z",
       "summary": "Officials confirm racer Greg Biffle was among those who boarded the small aircraft that crashed at a regional airport in North Carolina."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מתרחקים מהציונות - ומהמדינה",
+      "url": "https://www.ynet.co.il/news/article/yokra14618618",
+      "image": null,
+      "published_at": "2025-12-18T22:03:00.000Z",
+      "summary": "בכל הנוגע לקיום היהדות, ש\"ס פעלה מתוך רגשי נחיתות חסרי תקנה מול החרדים האשכנזים, והפכה למעשה לאנטי ציונית. השיא הגיע כששני חברי כנסת מטעם ש\"ס, לבושים בביגוד של החרדים הליטאים, באים לחזק את העריקים בכלא"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Netanyahu never cared about the hostages",
+      "url": "https://www.haaretz.com/opinion/2025-12-19/ty-article-opinion/.premium/netanyahu-never-cared-about-the-hostages/0000019b-32f5-dc39-abbb-fff71d0f0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-3303-d60f-a5db-7b0fb6790000/e6/d2/95fa88c74f2898e00e5661574fc4/296921.jpg?height=81",
+      "published_at": "2025-12-18T22:02:48.000Z",
+      "summary": ""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -40,6 +130,16 @@
       "image": null,
       "published_at": "2025-12-18T22:01:00.000Z",
       "summary": "דבורה נרצחה לעיני ילדיה. טל נשרף בעודו בחיים. אלישע נרצח במסעדה: ראש ארגון הפשע ניבי זגורי טיפח את אלו שהוציאו לפועל את תוכניתו לנקום בעדים נגדו - ולא הבינו שמדובר ב\"מלכודת דבש\". הפרקליטים העומדים מאחורי הרשעתו מספרים על \"השנאה היוקדת\" שניבטה ממנו בדיונים - והבשורה לתושבי באר שבע"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "As residents in northern Israel are protesting for a better life, Netanyahu and Smotrich are siphoning off their funds",
+      "url": "https://www.haaretz.com/opinion/editorial/2025-12-19/ty-article-opinion/netanyahu-is-siphoning-off-funds-meant-for-israeli-towns-barely-scraping-by/0000019b-32f5-d5c5-a3df-bef77ab90000",
+      "image": "https://img.haarets.co.il/bs/0000019b-331c-d932-a7bf-7f3de7d90000/50/05/ad7861b84eaa9c9a340d925ba372/141375.jpg?height=81",
+      "published_at": "2025-12-18T22:00:15.000Z",
+      "summary": ""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -122,6 +222,16 @@
       "summary": "Join a community of readers dedicated to Jewish stories. Use code HAPPYHANUKKAH at checkout for 20% off and learn more at nureads.org. \nThe post Jewish Book Council presents Nu Reads, a curated bimonthly book series appeared first on The Times of Israel.\n"
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Violence breaks out in Bangladesh after death of youth protest leader",
+      "url": "https://www.bbc.com/news/articles/c623rzzenmyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e8c/live/b3fa3080-dc5e-11f0-aae2-2191c0e48a3b.jpg",
+      "published_at": "2025-12-18T21:55:57.000Z",
+      "summary": "Sharif Osman Hadi was a prominent figure in the movement that ousted former prime minister Sheik Hasina."
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -132,14 +242,14 @@
       "summary": "A statement from the State Attorney's Office, which included an affidavit from the head of the Police Investigations Department, urged the justice minister to reconsider who prosecutes the case once the investigation ends"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "מבשל עם איש עסקים, עומד לצד אהוד ברק: רגע לפני הדד-ליין - פורסמו עוד תמונות של אפשטיין",
-      "url": "https://www.ynet.co.il/news/article/s1nxe1gx11l",
+      "title": "Instacart settles Federal Trade Commission’s claim it deceived US shoppers",
+      "url": "https://www.aljazeera.com/news/2025/12/18/instacart-settles-federal-trade-commissions-claim-it-deceived-us-shoppers?traffic_source=rss",
       "image": null,
-      "published_at": "2025-12-18T21:49:18.000Z",
-      "summary": "משרד המשפטים האמריקני פרסם עשרות תמונות נוספות מעִזְבונו של עבריין המין - רגע לפני שישוחררו המסמכים מ\"תיקי אפשטיין\". בכמה מהתיעודים נראים אנשים מוכרים כמו ביל גייטס, ובאחרים מופיעות נשים אחרי שפניהן הושחרו. כך נראו יחסיו עם טראמפ, שיכול למנוע פרסום של כמה מהרשומות: \"שוחחו על סקס\""
+      "published_at": "2025-12-18T21:54:38.000Z",
+      "summary": "The FTC had accused the grocery delivery giant of charging fees to consumers after promising &#039;free delivery&#039;."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -302,16 +412,6 @@
       "summary": "Plaques installed in US President Donald Trump’s ‘Presidential Walk of Fame’ at the White House attack his predecessors."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המצוד בארה\"ב נמשך: חשד לקשר בין הטבח באוניברסיטת בראון לרצח הפיזיקאי מ-MIT",
-      "url": "https://www.ynet.co.il/news/article/skdbxjg7zg",
-      "image": null,
-      "published_at": "2025-12-18T20:38:09.000Z",
-      "summary": "6 ימים אחרי שאלמוני נכנס לאודיטוריום באוניברסיטה היוקרתית ברוד איילנד, פתח באש והרג שני סטודנטים, הוא טרם נתפס, אך החוקרים סבורים שהם גילו את זהותו. יומיים אחרי הטבח נרצח ליד בוסטון פרופסור נונו לוריירו, וכעת המשטרה כבר לא שוללת קשר בין המקרים: \"מידע חדש התקבל ב-24 השעות האחרונות\""
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -322,6 +422,16 @@
       "summary": "Angry farmers drove their tractors into Brussels and faced tear gas from police as EU leaders debated a trade deal."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Democrats release latest batch of Epstein photos as justice department deadline looms",
+      "url": "https://www.bbc.com/news/articles/cy472pygwljo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a62c/live/d00dc7a0-dc4a-11f0-83b4-4b97b1cc3247.jpg",
+      "published_at": "2025-12-18T20:29:19.000Z",
+      "summary": "The materials include photos of women's passports, and Lolita quotes written across a woman's body. "
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -330,16 +440,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-30ca-d60f-a5db-79ce99700000/b4/c5/9b0b4f4e4ef282110278c8e6a4ad/64155526.JPG?height=81",
       "published_at": "2025-12-18T20:28:09.000Z",
       "summary": "Israelis glorify the Hasmoneans for purifying the Temple and liberating Jerusalem, but they were actually a bloodthirsty clan whose members turned on each other. The Romans put them out of everybody's misery"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הפגישה עם הטורקים, והדיון אצל נתניהו: ארה\"ב \"מאמינה לחמאס\" ולוחצת על ישראל",
-      "url": "https://www.ynet.co.il/news/article/r1nryozqze",
-      "image": null,
-      "published_at": "2025-12-18T20:24:37.000Z",
-      "summary": "ראש הממשלה קיים דיון ביטחוני ראשון לקראת ביקורו בארה\"ב, אך וויטקוף יארח במיאמי דווקא את הטורקים כדי לדון בעתיד עזה - וטראמפ עלול לכפות את ההחלטה על ישראל. לפי הדיווחים, בבית הלבן מאמינים דווקא לחמאס, שמפר את הפסקת האש בקביעות. וגם: החשש למלחמה בלבנון שגובר"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -525,7 +625,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "'A superhero': The acts of bravery as Bondi horror unfolded",
+      "title": "Bondi bravery: A 'superhero' mother and a couple who died fighting",
       "url": "https://www.bbc.com/news/articles/czxp998rd9ko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/692a/live/3eb8d760-dbda-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2025-12-18T19:10:35.000Z",
@@ -932,16 +1032,6 @@
       "summary": "The Nahala group said in a statement that \"the Israeli flag was raised for the first time since the October 7 massacre in Gaza,\" and demanded that it must only be controlled by Israeli forces."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Beijing’s reaction to US-Taiwan arms deal is “information warfare”",
-      "url": "https://www.aljazeera.com/video/quotable/2025/12/18/beijings-reaction-to-us-taiwan-arms-deal-is-information?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-18T15:27:27.000Z",
-      "summary": "&quot;All the [US] weapon systems [sold to Taiwan] … are defensive in nature.&quot;"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1172,16 +1262,6 @@
       "summary": "DR Congo's government say the announced withdrawal is intended to distract the US mediation team."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "נתניהו נתן אור ירוק: כך יועמדו לדין מחבלי הנוחבה",
-      "url": "https://www.ynet.co.il/news/article/hjex5vzxbg",
-      "image": null,
-      "published_at": "2025-12-18T12:04:23.000Z",
-      "summary": "פרסום ראשון: בוועדת החוקה צפויים להצביע בשבוע הבא על הצעת החוק של רוטמן ומלינובסקי, שתאפשר להעמיד לדין את את מבצעי טבח 7/10. לצורך ההליך יוקם בית משפט צבאי שיקבל סמכויות תקדימיות, ומשפטי המחבלים ישודרו באתר ייעודי. העבירות שבהן יואשמו הנוחבות ודינן עונש מוות - והדרישה של בן גביר שנתניהו דחה"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1250,16 +1330,6 @@
       "image": null,
       "published_at": "2025-12-18T11:18:06.000Z",
       "summary": "In the earlier attacks, including some which the IDF said were deep inside Lebanon, it struck Hezbollah rocket launch sites, weapons storage facilities, and a military training camp."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בין אורות חג המולד ל\"קיר הברזל\" נגד פוטין: פולין מבטיחה - לעולם לא נופתע שוב",
-      "url": "https://www.ynet.co.il/news/article/yokra14616740",
-      "image": null,
-      "published_at": "2025-12-18T11:10:52.000Z",
-      "summary": "ברחובות המקושטים של ורשה רואים את פירות הנס הכלכלי של המדינה הכי צומחת באירופה. אבל בטלוויזיה מסבירים לאזרחים כיצד לרדת למקלטים, הממשלה נמצאת במסע רכש של נשק מתקדם - ולאורך הגבול עם בלארוס נערכים למנוע כל ניסיון פלישה רוסי. שליחנו מדווח מפולין, שחוששת שהיא הבאה בתור"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2280,46 +2350,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-2654-d5c5-a3df-bef6a8350000/e1/de/834066da4eaf90930d516bcd846e/137741.jpg?height=81",
       "published_at": "2025-12-16T09:06:05.000Z",
       "summary": "Jewish hedge fund billionaire Bill Ackman donated $66,500 to a GoFundMe page for al Ahmed, who was recorded on Sunday crouching behind a car before jumping into action as one of the terrorists shot a firearm at the Jewish celebration at Sydney's Bondi Beach"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Trump sues the BBC for defamation over editing of January 6 speech, seeks up to $10 billion in damages",
-      "url": "https://www.haaretz.com/world-news/europe/2025-12-16/ty-article/trump-sues-the-bbc-for-defamation-seeks-up-to-10-billion-in-damages/0000019b-261a-d932-a7bf-6f3b31da0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-2628-d8f0-a9db-67fc4ca20000/c7/13/c1ad975e4d32a01267dc15e07075/911461.jpg?height=81",
-      "published_at": "2025-12-16T08:17:24.000Z",
-      "summary": "The lawsuit comes amid broader scrutiny of the BBC's editorial standards, including criticism of its Gaza documentaries"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Mass shooting at Sydney's Bondi Beach inspired by Islamic State, Australian police say",
-      "url": "https://www.haaretz.com/world-news/asia-and-australia/2025-12-16/ty-article/mass-shooting-at-sydneys-bondi-beach-inspired-by-islamic-state-australian-police-say/0000019b-25d7-dc39-abbb-fff7e0020000",
-      "image": "https://img.haarets.co.il/bs/0000019b-25f5-d932-a7bf-6ff5a2170000/c1/e8/2781f7cb4ba9bba3aaa70b154661/139303.jpg?height=81",
-      "published_at": "2025-12-16T07:27:15.000Z",
-      "summary": "A Tuesday news conference by state officials marked the first official confirmation of the suspects' suspected ideologies, with the Australian PM revealing that evidence from the scene included Islamic State flags. The New South Wales Police chief suggested a possible link between them and Muslim mi"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Two years after Gaza paramedic's death at Sde Teiman, Israel has yet to provide answers to his family",
-      "url": "https://www.haaretz.com/gaza/2025-12-16/ty-article/.premium/nearly-two-years-after-gaza-paramedics-death-at-sde-teiman-family-still-awaits-answers/0000019b-25d6-dc39-abbb-fff6d34f0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-25f6-d8f0-a9db-65fe903c0001/28/7a/d111dfae4284978659c0ba28fbdf/032584.jpg?height=81",
-      "published_at": "2025-12-16T07:15:05.000Z",
-      "summary": "The paramedic died in Israeli military custody the same day he was detained during a coordinated medical evacuation in northern Gaza. His family learned of his death only after petitioning the court, and the autopsy results remain undisclosed"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Lebanon is flexing its muscles with Iran - but war with Israel could play into Tehran's hands",
-      "url": "https://www.haaretz.com/israel-news/2025-12-16/ty-article/.premium/lebanon-flexes-its-muscles-with-iran-but-war-with-israel-could-play-into-tehrans-hands/0000019b-2447-d5c5-a3df-bee7c4d10000",
-      "image": "https://img.haarets.co.il/bs/00000197-a8ca-df96-a9d7-fbeece230001/28/9c/1285fe9b4a7bba8563237f04c0e8/202169.jpg?height=81",
-      "published_at": "2025-12-16T04:11:43.000Z",
-      "summary": "Beirut needs international support to curb Iranian efforts to maintain its presence in Lebanon while it continues to support Hezbollah. The resumption of war would free Tehran from this dilemma, as it fears the complete crushing of its regional sphere of influence"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
