@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-19T05:41:53.926Z",
+  "generated_at": "2025-12-19T06:15:37.497Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -12,6 +12,26 @@
       "summary": "Walla also learned that Shira, Ran Gvili's sister, was invited by Israeli Consul General in New York, Ofir Akunis, to light the fifth Hanukkah candle at the Consulate General. "
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "רצף התקריות והגיבוי ללוחמים: השעיה חריגה ליחידת המובחרת, וההוראה להרוג מיידי אבנים\n",
+      "url": "https://www.ynet.co.il/news/article/yokra14618247",
+      "image": null,
+      "published_at": "2025-12-19T05:59:49.000Z",
+      "summary": "תחקיר התקרית בג'נין בה הרגו לוחמי ימ\"ס שני מבוקשים בג'נין הסתיים והוצג לרמטכ\"ל: בתפקוד הכוח נמצאו ליקויים מקצועיים, טרם נקבע אם הירי היה \"לא ערכי\". בצעד חריג: פעילות היחידה נעצרה והוחזרה בימים האחרונים. הערכה: גרסת הלוחמים כי חשו סכנת חיים תתקבל. וגם: המדיניות מ-7/10 שהובילה להרג מאות מיידי אבנים"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ישראלים דרסו צעיר פלסטיני בתוך שכם | תיעוד",
+      "url": "https://www.ynet.co.il/news/article/s1sxnpgmbx",
+      "image": null,
+      "published_at": "2025-12-19T05:43:35.000Z",
+      "summary": "בצה\"ל נבדק אם חסידי ברסלב שנכנסו לקבר יוסף ללא תיאום פגעו בפלסטיני בצאתם מהמקום. על פי הדיווחים, הוא נפצע. חלק מהמעורבים נעצרו"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -20,6 +40,26 @@
       "image": null,
       "published_at": "2025-12-19T05:31:47.000Z",
       "summary": "The Maccabi Tel Aviv big man does it all. From scoring, dunking, blocking, and rebounding, the Minsk, Belarus-born Sorkin has continued to carve out a rise to the top."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Somalia’s 2026 election risks a legitimacy crisis",
+      "url": "https://www.aljazeera.com/opinions/2025/12/19/somalias-2026-election-risks-a-legitimacy-crisis?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-19T05:21:46.000Z",
+      "summary": "Unilateral reforms and elite deadlock threaten the country’s fragile settlement."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Norway’s green transition is putting Sami culture at risk",
+      "url": "https://www.aljazeera.com/opinions/2025/12/19/norways-green-transition-is-putting-sami-culture-at-risk?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-19T05:15:40.000Z",
+      "summary": "Wind farm expansion is threatening Sami land rights, livelihoods and an Indigenous way of life."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -149,7 +189,7 @@
       "url": "https://www.timesofisrael.com/in-recorded-video-rob-reiner-urges-holocaust-survivors-at-hanukkah-event-to-be-resilient/",
       "image": null,
       "published_at": "2025-12-19T03:16:03.000Z",
-      "summary": "Clip of Jewish actor, which was recorded months before his murder, aired as part of virtual ceremony featuring candle-lighting at Western Wall\nThe post In recorded video, Rob Reiner urges Holocaust survivors at Hanukkah event to be resilient appeared first on The Times of Israel.\n"
+      "summary": "Clip of Jewish actor, recorded months before his murder, aired as part of virtual ceremony featuring candle-lighting at Western Wall\nThe post In recorded video, Rob Reiner urges Holocaust survivors at Hanukkah event to be resilient appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -570,16 +610,6 @@
       "image": null,
       "published_at": "2025-12-18T22:00:00.000Z",
       "summary": "בחדר לא גדול בפיקוד דרום יושבת חוליית ניל\"י, יחידה קטנה וחשאית מאוד של אמ\"ן, שקיבלה את אחת המשימות המורכבות במלחמה: לזהות את כל המחבלים שחדרו לישראל, חטפו, רצחו, אנסו ובזזו בשבת השחורה - ולהביא לחיסולם. עכשיו סרן א' והחוקרות שלו מדברים לראשונה ומספרים  ל\"7 ימים\" איך סוכל החוטף של אבינתן אור, כיצד נה"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "רצף נפיץ בגדה: ההשעיה החריגה ליחידה המובחרת, והקריאה להרוג כל מיידה אבנים",
-      "url": "https://www.ynet.co.il/news/article/yokra14618247",
-      "image": null,
-      "published_at": "2025-12-18T22:00:00.000Z",
-      "summary": "בצה\"ל הושלם תחקיר התקרית בג'נין, במהלכה הרגו לוחמי ימ\"ס שני מבוקשים לאחר שנכנעו. בתפקוד הכוח נמצאו ליקויים מקצועיים חמורים, אך טרם נקבע אם הירי היה \"לא ערכי\". בצעד חריג: פעילות היחידה המובחרת נעצרה לשבועיים. הערכה: גרסת הלוחמים כי חשו סכנת חיים עשויה להתקבל. וגם: הגישה החדשה של אוגדת איו\"ש"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1112,16 +1142,6 @@
       "summary": "O’Neill is the first woman to lead one of the top five major oil companies. "
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Flare and fighting in Albanian parliament dispute",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/18/flare-and-fighting-in-albanian-parliament-dispute?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-18T17:22:57.000Z",
-      "summary": "There were chaotic scenes in Albania’s parliament during a vote for the country’s next human rights ombudsman."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1140,16 +1160,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-3233-d5c5-a3df-bef74df80000/96/e1/68d880d74bf6b721a0ac4aa43437/161174.jpg?height=81",
       "published_at": "2025-12-18T17:07:45.000Z",
       "summary": "A rights group requested an urgent hearing to remove a ban on a popular Hapoel Tel Aviv fan shirt that calls police and far-right activists 'scum.' Haaretz learned that Israeli authorities were unsure whether the ban could survive the petition, but police maintained the shirt is a threat to public o"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US sanctions more ICC judges, citing ruling on Israeli war crime probe",
-      "url": "https://www.aljazeera.com/news/2025/12/18/us-sanctions-more-icc-judges-citing-ruling-on-israeli-war-crime-probe?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-18T17:03:59.000Z",
-      "summary": "International court has repeatedly decried US sanctions amid its ongoing investigation into Gaza war crimes. "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1280,16 +1290,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-31f1-d60f-a5db-79fffdef0000/eb/5b/1522f3ec406a956d320b89fce2d0/053235-2.jpg?height=81",
       "published_at": "2025-12-18T14:48:29.000Z",
       "summary": "A 43-year-old man was shot dead in northern Israel, bringing the country's homicide count to 300, on track to match that of 2023, the deadliest year on record. Haaretz data shows that of the 242 homicides in the Arab community this year, only 15 percent of the investigations have been resolved"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "דאעש מברך על הפיגוע בסידני – אך לא נוטל אחריות: \"פעולה שהיא מקור לגאווה\"",
-      "url": "https://www.ynet.co.il/news/article/h1sq19zmwg",
-      "image": null,
-      "published_at": "2025-12-18T14:47:42.000Z",
-      "summary": "בדבריו הערב שיבח ארגון \"המדינה האיסלאמית\" את המחבלים סג'יד ונאביד אכרם על הטבח בבונדיי ביץ'. אף שברכבם נמצאו לפי הדיווחים דגלי דאעש הארגון אינו טוען במפורש שהפעיל אותם. בחודש שלפני הפיגוע: המחבלים השתכנו במלון עלוב ברובע החלונות האדומים של עיר סמוכה למעוז דאעש בפיליפינים, וכמעט לא יצאו מהחדר. ר\"מ או"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
