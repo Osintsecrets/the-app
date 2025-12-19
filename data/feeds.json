@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-19T19:32:36.167Z",
+  "generated_at": "2025-12-19T20:10:30.618Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Tourists to face €2 fee to get near Rome's Trevi Fountain",
+      "url": "https://www.bbc.com/news/articles/cp89p41gr06o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c952/live/b2964df0-dd12-11f0-9b65-f97847ece81a.jpg",
+      "published_at": "2025-12-19T20:05:52.000Z",
+      "summary": "Visitors who don't live in Rome will have to pay to view the Baroque monument up close from February."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,66 @@
       "image": null,
       "published_at": "2025-12-19T20:00:30.000Z",
       "summary": "The suspect in the kidnapping is an acquaintance of hers from work who traveled with her to Jericho for a social gathering."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "PA forces extract Israeli from Jericho who reported being kidnapped",
+      "url": "https://www.timesofisrael.com/pa-forces-extract-israeli-from-jericho-who-reported-being-kidnapped/",
+      "image": null,
+      "published_at": "2025-12-19T19:55:52.000Z",
+      "summary": "Reports say woman told investigators she was assaulted by group of men at an apartment in the West Bak city after she was brought there unknowingly by a work acquaintance\nThe post PA forces extract Israeli from Jericho who reported being kidnapped appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli civilian rescued from Palestinian West Bank city after suspected kidnapping and assault",
+      "url": "https://www.haaretz.com/israel-news/2025-12-19/ty-article/.premium/israeli-civilian-rescued-from-palestinian-west-bank-city-after-suspected-kidnapping/0000019b-381c-dc39-abbb-fffe51990000",
+      "image": "https://img.haarets.co.il/bs/0000019b-37fc-d60f-a5db-7ffe58800002/f6/83/da56ff754540880ac65db329c554/whatsapp-image-2025-12-19-at-20-41-45.jpeg?height=81",
+      "published_at": "2025-12-19T19:39:46.000Z",
+      "summary": "According to an initial IDF investigation, a 41-year-old woman entered the Jericho area with an Arab acquaintance, realized she was in Palestinian Authority–controlled territory and tried unsuccessfully to flee. She was then taken to an apartment in Jericho where she was assaulted, before escaping a"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "To distract from Netanyahu's trial, his defense minister will keep force-feeding the poison machine",
+      "url": "https://www.haaretz.com/israel-news/2025-12-19/ty-article/.premium/to-distract-from-netanyahus-trial-his-defense-minister-keeps-feeding-the-poison-machine/0000019b-3645-d8f0-a9db-77fda7310000",
+      "image": "https://img.haarets.co.il/bs/0000019b-3679-d932-a7bf-7f791f130001/6b/ba/8b5854394b3fa38d5c74dfe28520/056381.jpg?height=81",
+      "published_at": "2025-12-19T19:31:17.000Z",
+      "summary": "Every minute people talk about criticism of opposition group Brothers and Sisters in Arms is a minute they're not talking about Benjamin Netanyahu, Israel Katz and the other ministers who failed in the run-up to October 7"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ברוני סמים, מיליארדרים, סלבס: \"המערב הפרוע\" בחגיגת החנינות של טראמפ",
+      "url": "https://www.ynet.co.il/news/article/bya4ropfzx",
+      "image": null,
+      "published_at": "2025-12-19T19:28:27.000Z",
+      "summary": "רימית? סחרת בסמים? קיבלת שוחד? לאיש החזק בעולם יש אוזן קשבת - אם אתה חבר, מקושר או שילמת ללוביסט. בצל הלחץ שהוא מפעיל לביטול משפט נתניהו, נשיא ארה\"ב שובר שיאים בשימוש בסמכות החנינה - וכבר חילק 1,700. מתומכיו שהתפרעו בקפיטול ותקפו שוטרים, דרך מיליארדר הקריפטו שהקפיץ את ערך המטבע שהנפיקה משפחת טראמפ -"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Is Russia’s war on Ukraine coming to an end? Putin won’t say",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/is-russias-war-on-ukraine-coming-to-an-end-putin-wont-say?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-19T19:21:34.000Z",
+      "summary": "The war on Ukraine was a big topic at Vladimir Putin’s annual Q&amp;A session, but the question of its end went unanswered."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Pro-Palestinian hunger strikers face death in jail, doctors say",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/pro-palestinian-hunger-strikers-face-death-in-jail-doctors-say?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-19T19:10:53.000Z",
+      "summary": "Six British hunger strikers linked to Palestine Action are at risk of death in prison, doctors and relatives warn."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -32,6 +102,16 @@
       "summary": "גלנט, גנץ, בן גביר או גוטליב: קבוצת \"חנדלה\" קראה לעוקביה לשתף על מי היו רוצים לגלות \"מידע ונתונים חדשים לקראת חנוכה\", מבין ארבעת הפוליטיקאים שציינה. \"יום ההתחשבנות מחכה לרוצחי הילדים\", כתבו ההאקרים"
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "‘Highly speculative’ that Trump’s new fuel rules will help drivers: Experts",
+      "url": "https://www.aljazeera.com/economy/2025/12/19/highly-speculative-that-trumps-new-fuel-rules-will-help-drivers-experts?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-19T19:02:16.000Z",
+      "summary": "Proposed changes weaken climate rules and waste years of investments by car makers in EVs.\n"
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -49,7 +129,7 @@
       "url": "https://www.aljazeera.com/news/2025/12/19/rubio-says-progress-but-ways-to-go-in-efforts-to-end-russia-ukraine-war?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-19T18:45:54.000Z",
-      "summary": "US top diplomat&#039;s remarks come as Ukraine negotiators travel to US for fresh round of talks on ending the conflict."
+      "summary": "US top diplomat&#039;s remarks come as Ukraine negotiators travel to US for new round of talks on ending the conflict."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -127,7 +207,7 @@
       "topic": "News",
       "title": "Putin tells BBC Western leaders deceived Russia",
       "url": "https://www.bbc.com/news/videos/cj01pdve7rpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b8e/live/df27dc90-dd02-11f0-b67b-690eb873de1b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c73/live/4018a740-dd13-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2025-12-19T18:15:04.000Z",
       "summary": "BBC Russia editor Steve Rosenberg had the opportunity to ask Vladimir Putin about his plans for the future of the country."
     },
@@ -625,7 +705,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Israeli attack on shelter in Gaza City injures four Palestinians",
+      "title": "LIVE: Israeli attack on school-turned-shelter in Gaza City kills six people",
       "url": "https://www.aljazeera.com/news/liveblog/2025/12/19/live-gaza-ceasefire-mediators-to-hold-talks-on-second-phase?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-19T13:40:00.000Z",
@@ -680,26 +760,6 @@
       "image": null,
       "published_at": "2025-12-19T12:46:31.000Z",
       "summary": "Hadi&#039;s death has led to protests, anti-India sentiment and attacks on newspapers in Bangladesh."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "How ICE deports refugees and migrants despite years of good conduct",
-      "url": "https://www.aljazeera.com/features/2025/12/19/how-ice-deports-refugees-and-migrants-despite-years-of-good-conduct?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-19T12:38:29.000Z",
-      "summary": "The US Trump Administration says it is deporting &#039;the worst of the worst&#039; - but how true is that?"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Most Venezuelans “more concerned” about basic needs",
-      "url": "https://www.aljazeera.com/video/quotable/2025/12/19/most-venezuelans-more-concerned-about-basic-needs?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-19T12:34:42.000Z",
-      "summary": "Paul Dobson says most Venezuelans are more focused on basic needs rather than US President Donald Trump’s next move."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -760,16 +820,6 @@
       "image": null,
       "published_at": "2025-12-19T11:59:04.000Z",
       "summary": "בדוח חדש של ארגון ה-IPC מטעם האו\"ם נקבע כי בעקבות הפסקת האש כבר אין רעב ברצועה, אבל מיליוני תושבים ב\"חוסר ביטחון תזונתי חריף\". בישראל תקפו בחריפות: \"כותבי הדוח הסכימו לפגוש גורמי מקצוע רק אחרי שהוא נכתב, פעם אחר פעם הוכח שהתחזיות שלהם היו שגויות ומנותקות מהשטח\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Putin takes aim at Zelenskyy in annual Q&A, says Kyiv won’t bend on land",
-      "url": "https://www.aljazeera.com/news/2025/12/19/putin-takes-aim-at-zelenskyy-in-annual-qa-says-he-wont-negotiate-on-land?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-19T11:40:59.000Z",
-      "summary": "Russian leader underscores Kremlin&#039;s hardline stance on peace talks as Trump pushes for deal to end war."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1145,9 +1195,9 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israeli civilian rescued from Palestinian West Bank city after suspected kidnapping and assault",
+      "title": "Rubio: No peace between Israel and Gaza unless Hamas disarms",
       "url": "https://www.haaretz.com/israel-news/2025-12-19/ty-article-live/trump-says-no-meeting-scheduled-with-netanyahu-but-he-would-like-to-see-me/0000019b-3486-d8f0-a9db-75febd480000",
-      "image": "https://img.haarets.co.il/bs/0000019b-37fc-d60f-a5db-7ffe58800002/f6/83/da56ff754540880ac65db329c554/whatsapp-image-2025-12-19-at-20-41-45.jpeg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-3821-d8f0-a9db-7dfdde570000/3b/f6/912d28fb4f25b08a143c83562258/172175.jpg?height=81",
       "published_at": "2025-12-19T03:04:00.000Z",
       "summary": ""
     },
@@ -1300,16 +1350,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-3396-dc39-abbb-fff64c490001/32/e0/cc3ae8424052b06c2358805c201c/2025-12-17t181022z-1287782746-rc2giiamhqp3-rtrmadp-3-usa-new-york-mamdani.JPG?height=81",
       "published_at": "2025-12-18T22:36:30.000Z",
       "summary": "Catherine Da Costa, who had been tapped as the New York City mayor-elect's appointments chief, posted anti-Jewish comments online in 2011 and 2012"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "האיראנים ניסו לפתח פצצה גרעינית בלי ביקוע / נדב איל",
-      "url": "https://www.ynet.co.il/news/article/syu9djw7zl",
-      "image": null,
-      "published_at": "2025-12-18T22:21:00.000Z",
-      "summary": "עדות מאוסטרליה: בעל המאפייה היהודי מספר כיצד עבר הטרדות ואיומים מאז 7 באוקטובר. השבוע הוא סגר את העסק | בלעדי: איראן ניסתה לפתח נשק גרעיני מדור רביעי, מבוסס היתוך טהור, שאין לאף מדינה | השאלה: לטהרן אין יכולת לייצר נשק מתוחכם כל כך, ומכאן התעלומה ‑ מדוע בכלל ניסו אחרי השקעה אדירה במסלול גרעיני \"רגיל"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1690,16 +1730,6 @@
       "image": null,
       "published_at": "2025-12-18T14:22:48.000Z",
       "summary": "Rioters hurled stones, vandalized a police vehicle and property, and threw trash cans at officers after police tried to issue a routine parking ticket in Jerusalem. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Peter Arnett, Pulitzer-winning war reporter, dies aged 91",
-      "url": "https://www.bbc.com/news/articles/ce86j7n6d3do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e9/live/f66d1d70-dc17-11f0-aae2-2191c0e48a3b.jpg",
-      "published_at": "2025-12-18T14:07:44.000Z",
-      "summary": "He was known for covering the Vietnam and Gulf Wars - and for interviewing both Saddam Hussein and Osama bin Laden."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2360,26 +2390,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-2810-d5c5-a3df-bef637d50001/a2/56/8c4a532c4e8a84a4513ad1ff5354/568613.jpg?height=81",
       "published_at": "2025-12-16T20:02:37.000Z",
       "summary": "The U.S. bipartisan celebration of the hyper-capitalist hereditary monarchies of the Gulf states – symbolized most prominently by the rise of Qatar – signals a future in which the Gulf model goes global"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "U.K. police charge two men with belonging to Hezbollah, attending terrorism training",
-      "url": "https://www.haaretz.com/world-news/europe/2025-12-16/ty-article/u-k-police-charge-two-men-with-belonging-to-hezbollah-attending-terrorism-training/0000019b-283a-dc39-abbb-fffa18ca0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-2857-d5c5-a3df-bef7b2450000/1f/2f/afffe2b84cc592be8ba2f676985a/673052.jpg?height=81",
-      "published_at": "2025-12-16T18:48:26.000Z",
-      "summary": "One of the men was an 'an entrenched member of Hezbollah' who trained in taking hostages and the other had access to a 'wide-ranging Hezbollah network' which was linked to facilitating the acquisition of drone parts"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "IDF drops case against officer who okayed researcher's Lebanon visit where soldier was killed",
-      "url": "https://www.haaretz.com/israel-news/2025-12-16/ty-article/.premium/idf-drops-case-against-officer-who-okayed-researchers-lebanon-visit-where-soldier-killed/0000019b-284d-d8f0-a9db-6dfde8e00000",
-      "image": "https://img.haarets.co.il/bs/0000019b-2859-d8f0-a9db-6dfd98b00004/2f/5e/3a5a8c894f458265d3c56d06f7d1/collage-homepage.png?height=81",
-      "published_at": "2025-12-16T18:18:24.000Z",
-      "summary": "Col. (res.) Yoav Yarom allowed Zeev Erlich, a historian and archaeologist, to visit an ancient mosque and fortress in Lebanon in violation of regulations. Sgt. Gur Kehati and Erlich were killed by Lebanese militants during the visit"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
