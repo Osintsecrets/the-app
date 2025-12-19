@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-19T23:09:32.926Z",
+  "generated_at": "2025-12-19T23:36:15.751Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US carries out 'massive' strike against IS in Syria",
+      "url": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8838/live/42c9f050-dd2e-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2025-12-19T23:35:18.000Z",
+      "summary": "The US says it is acting in response to last week's deadly Islamic State attack on American forces in Syria."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -59,7 +69,7 @@
       "url": "https://www.timesofisrael.com/canadian-police-arrest-3-men-for-attempted-kidnappings-targeting-women-and-jews/",
       "image": null,
       "published_at": "2025-12-19T22:25:40.000Z",
-      "summary": "Armed suspects, 1 of whom charged with ISIS support, tried to force victims into vehicles; Canadian Jewish leader demands government step up protection\nThe post Canadian police arrest 3 men for attempted kidnappings targeting women and Jews appeared first on The Times of Israel.\n"
+      "summary": "Armed suspects, 1 of whom is also charged with offenses linked to ISIS support, tried to force victims into vehicles; Canadian Jewish leader demands government step up protection\nThe post Canadian police arrest 3 men for attempted kidnappings targeting women and Jews appeared first on The Times of I"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1520,16 +1530,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-30ca-d60f-a5db-79ce99700000/b4/c5/9b0b4f4e4ef282110278c8e6a4ad/64155526.JPG?height=81",
       "published_at": "2025-12-18T20:28:09.000Z",
       "summary": "Israelis glorify the Hasmoneans for purifying the Temple and liberating Jerusalem, but they were actually a bloodthirsty clan whose members turned on each other. The Romans put them out of everybody's misery"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump expands access to cannabis in a major shift in drug policy",
-      "url": "https://www.bbc.com/news/articles/cp8z684r6vlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef6c/live/cd924de0-dc2a-11f0-baba-317f14ba3c9d.jpg",
-      "published_at": "2025-12-18T20:17:30.000Z",
-      "summary": "The order to place cannabis in the same category as Tylenol with codeine marks the most significant change in US drug policy since 1971. "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
