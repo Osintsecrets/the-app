@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-12-19T20:10:30.618Z",
+  "generated_at": "2025-12-19T20:40:23.482Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Knife attacker kills three after smoke bombing Taiwan metro",
+      "url": "https://www.bbc.com/news/articles/cx251p7k23mo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f81a/live/836639c0-dced-11f0-bc51-61713ec32de7.jpg",
+      "published_at": "2025-12-19T20:33:58.000Z",
+      "summary": "The suspect's spree began at Taipei's main metro before he moved to another station nearby."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "UN chief Guterres condemns Houthi detention of 10 more UN staff in Yemen",
+      "url": "https://www.aljazeera.com/news/2025/12/19/un-chief-guterres-condemns-houthi-detention-of-10-more-un-staff-in-yemen?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-19T20:19:52.000Z",
+      "summary": "A spokesperson for Antonio Guterres calls for UN staffers&#039; immediate release, as 69 now detained in the country."
+    },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
@@ -10,6 +30,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c952/live/b2964df0-dd12-11f0-9b65-f97847ece81a.jpg",
       "published_at": "2025-12-19T20:05:52.000Z",
       "summary": "Visitors who don't live in Rome will have to pay to view the Baroque monument up close from February."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Netanyahu incapacitated? It's Israel's attorney general who has been locked out",
+      "url": "https://www.haaretz.com/opinion/2025-12-19/ty-article-opinion/.premium/netanyahu-incapacitated-its-israels-attorney-general-who-has-been-locked-out/0000019b-37dc-d932-a7bf-7ffd01e40000",
+      "image": "https://img.haarets.co.il/bs/0000019b-380e-d5c5-a3df-beeea6170001/e0/12/68a34149407292b2e64f00635807/125305.jpg?height=81",
+      "published_at": "2025-12-19T20:01:55.000Z",
+      "summary": "Netanyahu's ministers ignore her legal opinions. To them, there is no longer an attorney general, just as there is no Supreme Court president. This is an organized, well-planned, unbridled operation"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -140,16 +170,6 @@
       "image": null,
       "published_at": "2025-12-19T18:45:11.000Z",
       "summary": "Based on the number of lit candles, the incident likely occurred on Thursday."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Knife attacker kills three after smoke bombing Taiwan metro",
-      "url": "https://www.bbc.com/news/articles/cx251p7k23mo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f81a/live/836639c0-dced-11f0-bc51-61713ec32de7.jpg",
-      "published_at": "2025-12-19T18:41:15.000Z",
-      "summary": "The suspect's spree began at Taipei's main metro before he moved to another station nearby."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -752,16 +772,6 @@
       "summary": "EU leaders said the loan would be repayable only when Russia paid reparations for the war."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Who was Sharif Osman Hadi; why is Bangladesh on fire over his death?",
-      "url": "https://www.aljazeera.com/news/2025/12/19/who-was-osman-hadi-why-is-bangladesh-on-fire-over-his-death?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-19T12:46:31.000Z",
-      "summary": "Hadi&#039;s death has led to protests, anti-India sentiment and attacks on newspapers in Bangladesh."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1069,7 +1079,7 @@
       "url": "https://www.ynet.co.il/news/article/rye3jfzxzl",
       "image": null,
       "published_at": "2025-12-19T07:37:31.000Z",
-      "summary": "צילם ספינות מלחמה של ישראל וארה\"ב, תיעד את בתי הזיקוק בחיפה ונמלים בארץ - ונעצר ברמת דוד, לפני שהספיק לשלוח חומר למפעיליו. ויטלי זביאגניצב, שעבד באולם האופרה בת\"א, נאשם שקיבל כסף - והיה מודע לכך שמדובר בריגול. הוא תושאל ע\"י המשטרה - אך שוחרר, ותיעד מתקנים רגישים חודש נוסף"
+      "summary": "צילם ספינות מלחמה של ישראל וארה\"ב, תיעד את בתי הזיקוק בחיפה ונמלים בארץ - ונעצר ברמת דוד, לפני שהספיק לשלוח חומר למפעיליו. ויטלי זביאגניצב, שעבד בת\"א, נאשם שקיבל כסף - והיה מודע לכך שמדובר בריגול. הוא תושאל ע\"י המשטרה - אך שוחרר, ותיעד מתקנים רגישים חודש נוסף"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2380,16 +2390,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-288b-d8f0-a9db-6dffe2cc0001/89/c8/78ae35c94b00b2597e3754a940c3/309234.jpg?height=81",
       "published_at": "2025-12-16T20:12:06.000Z",
       "summary": "'We are facing a situation in the prisons,' the prison chief said during a Knesset committee hearing. Without specifying the possible scenarios that could arise, he added that many prisoners now held in Israeli facilities are 'terrorists with proven operational capabilities'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "From Jerusalem to D.C., the rise of Qatar is a grim marker of the death of democracy",
-      "url": "https://www.haaretz.com/middle-east-news/2025-12-16/ty-article/.premium/from-jerusalem-to-d-c-the-rise-of-qatar-is-a-grim-marker-of-the-death-of-democracy/0000019b-27fa-d5c5-a3df-bffed07a0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-2810-d5c5-a3df-bef637d50001/a2/56/8c4a532c4e8a84a4513ad1ff5354/568613.jpg?height=81",
-      "published_at": "2025-12-16T20:02:37.000Z",
-      "summary": "The U.S. bipartisan celebration of the hyper-capitalist hereditary monarchies of the Gulf states – symbolized most prominently by the rise of Qatar – signals a future in which the Gulf model goes global"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
