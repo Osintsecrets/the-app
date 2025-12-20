@@ -1,6 +1,66 @@
 {
-  "generated_at": "2025-12-20T07:08:40.396Z",
+  "generated_at": "2025-12-20T07:34:04.495Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Australian state plans to ban intifada chants after Bondi shooting",
+      "url": "https://www.bbc.com/news/articles/c14v23vppz8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2010/live/74a5ecd0-dd62-11f0-a8dc-93c15fe68710.jpg",
+      "published_at": "2025-12-20T07:20:49.000Z",
+      "summary": "New South Wales will look at passing hate speech laws after Australia's deadliest shooting in almost 30 years."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "'I live in a luxury favela run by a gang. It's tyranny, but I prefer it to Israel's so-called democracy'",
+      "url": "https://www.haaretz.com/israel-news/2025-12-20/ty-article-magazine/.highlight/i-live-in-a-luxury-favela-run-by-a-gang-i-prefer-it-to-israels-so-called-democracy/0000019b-3a5b-d5c5-a3df-beffb2390000",
+      "image": "https://img.haarets.co.il/bs/0000019b-3a5c-d5c5-a3df-befeca000000/97/dc/883b23fe464f90e5da4cb051a0c8/64084028.JPG?height=81",
+      "published_at": "2025-12-20T07:13:32.000Z",
+      "summary": "Yishai Raz lives in a Rio favela under the dictatorial rule of a gang, but to him it's paradise. 'It's safe here, because anyone who misbehaves could find themselves locked in a water tank for a night'"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הבירה - רפיח החדשה: פרויקט \"ריביירת עזה\" של וויטקוף וקושנר, עם מלונות פאר ורשתות AI",
+      "url": "https://www.ynet.co.il/news/article/s1sz7n7xbl",
+      "image": null,
+      "published_at": "2025-12-20T07:07:37.000Z",
+      "summary": "טראמפ לוחץ לעבור לשלב ב' בתוכניתו - אף שהחטוף החלל רן גואילי טרם הוחזר וחמאס מסרב להתפרק מנשקו - וכעת נחשף \"פרויקט Sunrise\" השאפתני שגיבשו יועציו: בתקופה של 10 שנים לפחות יייבנו מחדש רפיח וחאן יונס, בהמשך מחנות המרכז ואז העיר עזה, עם רכבות מהירות, רשת חשמל חכמה ו\"מרכזי תרבות\". רק אחר כך יהפכו 70% מח"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Bangladesh holds state mourning, funeral for slain uprising activist",
+      "url": "https://www.aljazeera.com/news/2025/12/20/bangladesh-holds-state-mourning-funeral-for-slain-uprising-activist?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-20T07:05:24.000Z",
+      "summary": "Police fill the streets of Dhaka ahead of Sharif Osman Hadi&#039;s funeral at Bangladesh&#039;s parliament house."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "How chess helped me understand grief",
+      "url": "https://www.aljazeera.com/opinions/2025/12/20/how-chess-helped-me-understand-grief?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-20T06:48:05.000Z",
+      "summary": "A personal reflection on loss, memory, and the quiet lessons of chess."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "UN’s top court to hold Myanmar genocide hearings in January",
+      "url": "https://www.aljazeera.com/news/2025/12/20/uns-top-court-to-hold-myanmar-genocide-hearings-in-january?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-20T06:47:43.000Z",
+      "summary": "Witnesses from Myanmar&#039;s Rohingya community will also address closed-door ICJ hearing."
+    },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
@@ -762,16 +822,6 @@
       "summary": "Damaged hanukkiahs found in Notting Hill, Muswell Hill and West Hampstead; cops probing if incidents are linked, say treating matter 'extremely seriously' following Bondi attack\nThe post London police investigating vandalism of several public menorahs as hate crimes appeared first on The Times of Is"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Rubio says ‘progress but ways to go’ in efforts to end Russia-Ukraine war",
-      "url": "https://www.aljazeera.com/news/2025/12/19/rubio-says-progress-but-ways-to-go-in-efforts-to-end-russia-ukraine-war?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-19T18:45:54.000Z",
-      "summary": "Kyiv&#039;s top negotiator says latest talks with US officials ended with both sides agreeing to continue &#039;joint work&#039;."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -780,26 +830,6 @@
       "image": null,
       "published_at": "2025-12-19T18:45:11.000Z",
       "summary": "Based on the number of lit candles, the incident likely occurred on Thursday."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Rubio: ‘Not going to have peace’ if Hamas can threaten Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/19/rubio-not-going-to-have-peace-if-hamas-can-threaten-israel?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-19T18:35:07.000Z",
-      "summary": "US Secretary of State Marco Rubio said peace will never happen if Hamas has the ability to “threaten or attack Israel.&quot;"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "India beat South Africa as warm up for T20 World Cup defence pounds forward",
-      "url": "https://www.aljazeera.com/sports/2025/12/19/india-beat-south-africa-as-warm-up-for-t20-world-cup-defence-pounds-forward?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-19T18:34:26.000Z",
-      "summary": "India&#039;s preparations for their T20 World Cup defence look daunting as South Africa swept aside in 3-1 series win."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1300,16 +1330,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab05/live/b64d99f0-dcac-11f0-a8dc-93c15fe68710.jpg",
       "published_at": "2025-12-19T07:56:38.000Z",
       "summary": "The suspect in the university shooting and the murder of an MIT professor entered the US via the scheme."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המערכת הפוליטית תקועה ב-6 באוקטובר",
-      "url": "https://www.ynet.co.il/news/article/yokra14617774",
-      "image": null,
-      "published_at": "2025-12-19T07:55:54.000Z",
-      "summary": "כדי שהכנסת תפסיק להיות גן סגור של אותם הפרצופים, עלינו לחזור לאחוז חסימה מינימלי ולאפשר לכוחות חדשים לפרוץ את המנעול"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2349,16 +2369,6 @@
       "url": "https://www.haaretz.com/opinion/editorial/2025-12-17/ty-article-opinion/free-the-palestinian-activist-who-dared-to-document-israels-crimes-in-the-west-bank/0000019b-28fc-d932-a7bf-6ffdbaae0000",
       "image": "https://img.haarets.co.il/bs/0000019b-243f-d5c5-a3df-beff020e0005/1a/7c/8f935d5a439f9e071eb1daeb5aa5/115395.jpg?height=81",
       "published_at": "2025-12-16T22:33:25.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israel's strategic arsenal is empty - but at least we got revenge on the Turks",
-      "url": "https://www.haaretz.com/opinion/2025-12-17/ty-article-opinion/.premium/israels-strategic-arsenal-is-empty-but-at-least-we-got-revenge-on-the-turks/0000019b-2878-d8f0-a9db-6dfc20d20000",
-      "image": "https://img.haarets.co.il/bs/00000199-aa1a-dc12-a5df-bb1b84d20000/15/4a/6a09a5d6462b931b71fe4ee3f33a/316506.jpg?height=81",
-      "published_at": "2025-12-16T22:22:26.000Z",
       "summary": ""
     },
     {
