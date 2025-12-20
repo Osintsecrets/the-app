@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-20T11:31:31.537Z",
+  "generated_at": "2025-12-20T12:15:39.807Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "רעולי פנים יורים בלי הפסקה - ומשליכים רימון: עוד תיעוד מטריד מהצפון",
+      "url": "https://www.ynet.co.il/news/article/hkiouxvm11x",
+      "image": null,
+      "published_at": "2025-12-20T12:00:33.000Z",
+      "summary": "רק לפני יומיים אלמונים רצחו ביריות את מחמוד אלכאוי לאחר שפרצו לביתו בטמרה. הלילה, חמושים רעולי פנים תיעדו עצמם יורים לעבר בית ביישוב באמצעות אקדח ונשק אוטומטי, כשאחד מהם גם משליך רימון לחצר. המשטרה פתחה בחקירה \"יזומה\" ודאגה לציין: \"לא התקבלה פנייה מהקורבנות\""
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,36 @@
       "image": null,
       "published_at": "2025-12-20T11:48:48.000Z",
       "summary": "At least 71 civilians were killed during Operation Narnia, a series of strikes on Iranian nuclear scientists, about which the US was informed before it began."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US carries out 'massive' strike against IS in Syria",
+      "url": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a53c/live/62703790-dd7c-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2025-12-20T11:44:36.000Z",
+      "summary": "The US says it struck dozens of targets across Syria in response to last week's deadly Islamic State attack on US forces there."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"אני רוצה למחוק את הנובה מהחיים שלי\" | השיחה עם שורדת הטבח לפני מותה",
+      "url": "https://www.ynet.co.il/news/article/yokra14614550",
+      "image": null,
+      "published_at": "2025-12-20T11:40:27.000Z",
+      "summary": "שיראל גולן, שניצלה ממסיבת הנובה, שמה קץ לחייה אחרי שניסתה לשרוד את הטראומה - בהודו, באשפוזים, ובניסיון נואש לשוב לשגרה. למרות קריאות המצוקה, היא נותרה לבד מול הכאב. שיחה שהתקיימה איתה חודשים לפני שהתאבדה וראיונות עם משפחתה חושפים את עומק המשבר של השורדים"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russian attack on Ukraine’s Odesa kills at least 8 as peace talks lumber on",
+      "url": "https://www.aljazeera.com/news/2025/12/20/russian-attack-on-ukraines-odesa-kills-at-least-8-as-peace-talks-lumber-on?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-20T11:29:33.000Z",
+      "summary": "Strikes intensify as Ukraine also hits Russian assets and US-led peace talks begin in Miami."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -170,16 +210,6 @@
       "image": null,
       "published_at": "2025-12-20T08:28:41.000Z",
       "summary": "עקיל קשאוורז בן ה-27 הורשע ב\"ריגול למען ישראל\" והוצא להורג, וברפובליקה האיסלאמית טוענים כי נתפס בעת צילום \"מפקדת דיוויזיית חיל הרגלים של אורמיה\". עוד דווח כי במלון בו שהה נמצאה \"מחברת מקודדת\", ובבדיקה בטלפון  שלו התגלו התכתבויות ברשת ו\"הודעה ממספר של המשטר הציוני\""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US carries out 'massive' strike against IS in Syria",
-      "url": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a53c/live/62703790-dd7c-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2025-12-20T08:26:54.000Z",
-      "summary": "The US says it struck dozens of targets across Syria in response to last week's deadly Islamic State attack on US forces there."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -565,7 +595,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "WSJ: U.S. will pay 20 percent of Gaza reconstruction, officials tell Qatar, UAE",
+      "title": "Report: U.S. will pay 20 percent of Gaza reconstruction, officials tell Qatar, UAE",
       "url": "https://www.haaretz.com/israel-news/2025-12-20/ty-article/wsj-u-s-will-pay-20-percent-of-gaza-reconstruction-officials-tell-qatar-uae/0000019b-390b-d60f-a5db-790f87a00000",
       "image": "https://img.haarets.co.il/bs/0000019b-3918-d8f0-a9db-7dfc27c40000/f7/f9/26f4b4f840eb8aef32ea53b3ed45/171987.jpg?height=81",
       "published_at": "2025-12-20T00:29:34.000Z",
@@ -665,11 +695,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "At least 5 ISIS members, including drone cell leader, killed in US strikes in Syria, monitor says",
+      "title": "Jordanian air force participated in strikes on ISIS targets in Syria, military confirms",
       "url": "https://www.timesofisrael.com/liveblog-december-20-2025/",
       "image": null,
       "published_at": "2025-12-19T22:54:27.000Z",
-      "summary": "Israel reportedly given heads up before US launched strikes following deadly attack on American troops * Australian PM praises ‘completely unbreakable’ Jewish community after terror attack\nThe post At least 5 ISIS members, including drone cell leader, killed in US strikes in Syria, monitor says appe"
+      "summary": "At least 5 ISIS members, including drone cell leader, killed in US-led strikes, war monitor says * New South Wales planning to ban 'globalize the intifada' chants after Bondi shooting - report\nThe post Jordanian air force participated in strikes on ISIS targets in Syria, military confirms appeared f"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -770,16 +800,6 @@
       "image": null,
       "published_at": "2025-12-19T21:42:09.000Z",
       "summary": "President Trump’s name was put on The John F. Kennedy Center for the Performing Arts."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US Justice Department begins releasing government Epstein files",
-      "url": "https://www.aljazeera.com/news/2025/12/19/us-justice-department-begins-releasing-government-epstein-files?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-19T21:16:59.000Z",
-      "summary": "While thousands of documents are expected to be made public, the release falls short of the full Epstein file."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1242,16 +1262,6 @@
       "summary": "South Africa has accused the US of employing Kenyans without work permits to process refugee applications."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "דוח האו\"ם קבע \"מצב חירום תזונתי\" בעזה, ישראל: \"עיוות, מתעלמים מאלפי משאיות\"",
-      "url": "https://www.ynet.co.il/news/article/bjb00vhfq11e",
-      "image": null,
-      "published_at": "2025-12-19T11:59:04.000Z",
-      "summary": "בדוח חדש של ארגון ה-IPC מטעם האו\"ם נקבע כי בעקבות הפסקת האש כבר אין רעב ברצועה, אבל מיליוני תושבים ב\"חוסר ביטחון תזונתי חריף\". בישראל תקפו בחריפות: \"כותבי הדוח הסכימו לפגוש גורמי מקצוע רק אחרי שהוא נכתב, פעם אחר פעם הוכח שהתחזיות שלהם היו שגויות ומנותקות מהשטח\""
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1260,16 +1270,6 @@
       "image": null,
       "published_at": "2025-12-19T11:28:30.000Z",
       "summary": "2026 Azrieli Prize winner Hana Ajiashvili reimagines a medieval riddle in “Riddle,” shaping\nhistory and personal experience into a powerful score."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "להרחיב השפעה בישראל: \"בית רוסיה\" נפתח בירושלים על-רקע שנת הבחירות",
-      "url": "https://www.ynet.co.il/news/article/h1ixa5gxbx",
-      "image": null,
-      "published_at": "2025-12-19T11:16:13.000Z",
-      "summary": "הנפת דגל הפדרציה, קישוטים לשנה החדשה, וסרט תיעודי על הנוכחות בארץ הקודש: ב\"חצר סרגיי\", שהושבה לבעלות רוסיה ב-2008, נחנך מרכז להרחבת ההשפעה בישראל. פעיל בנושא: \"מעניין שהפתיחה מתרחשת בשנת בחירות כאן\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
