@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-20T22:07:51.273Z",
+  "generated_at": "2025-12-20T22:38:14.690Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US seizes second oil tanker off Venezuela's coast ",
+      "url": "https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ab/live/12a8ded0-dded-11f0-afbd-d1ba55b6b5b2.jpg",
+      "published_at": "2025-12-20T22:10:56.000Z",
+      "summary": "The move comes after US President Donald Trump ordered a \"blockade\" of sanctioned oil tankers entering and leaving Venezuela."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,11 +25,51 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
+      "title": "מי מפחד מערבים בממשלה",
+      "url": "https://www.ynet.co.il/news/article/yokra14619423",
+      "image": null,
+      "published_at": "2025-12-20T22:05:00.000Z",
+      "summary": "המפלגות הערביות עברו את מבחן ועדת הבחירות, אבל המרכז הישראלי מחרים אותן. ועדיין, לאינטרס הלאומי והציוני עדיפה ממשלה בתמיכתן מעוד ממשלת משתמטים"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "חיזבאללה לא עוצר",
+      "url": "https://www.ynet.co.il/news/article/yokra14619068",
+      "image": null,
+      "published_at": "2025-12-20T22:05:00.000Z",
+      "summary": "לבנון תופסת מקום גבוה בהלבנת כספים ומימון טרור. מזכ\"ל חיזבאללה, נעים קאסם, הזהיר את ממשלת לבנון שלא תחלום אפילו על סגירת סניפי הארגון. קאסם מתעקש שגם אם מסתמן ניסיון להחליף את שם הארגון ל\"ג'וד\", \"נמשיך לפעול בשם המוכר לכל נזקקי לבנון, גם אם ינסו להרוס אותנו\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
       "title": "רק יום אחד של גשם בשבוע הקרוב - ותחזית אופטימית לסוף השנה",
       "url": "https://www.ynet.co.il/news/article/rk00v0054mwg",
       "image": null,
-      "published_at": "2025-12-20T21:58:21.000Z",
+      "published_at": "2025-12-20T22:04:56.000Z",
       "summary": "היום ומחר יתחמם, בשלישי צפויים גשמים מקומיים בצפון ובמרכז - והשינוי הגדול עשוי לקרות לקראת תחילת 2026, אז המודלים ארוכי הטווח צופים גשם משמעותי "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "תקלה במנגנון  עמית-טורף",
+      "url": "https://www.ynet.co.il/news/article/yokra14619061",
+      "image": null,
+      "published_at": "2025-12-20T22:04:00.000Z",
+      "summary": "אמירתו של קיסינג'ר שלפיה לישראל אין מדיניות חוץ אלא רק מדיניות פנים נכונה ביסודה, אבל מה שמתחולל מ-7 באוקטובר הוא הקצנה מדאיגה של התופעה"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "משחק מכור ואף אחד לא קם",
+      "url": "https://www.ynet.co.il/news/article/yokra14619047",
+      "image": null,
+      "published_at": "2025-12-20T22:04:00.000Z",
+      "summary": "נתניהו רצה לשתק את הרשות הפלסטינית כולה, גם בגדה. הצליח לו: הוא היה עם חמאס ויישאר עם חמאס. מי שלא רצה לדבר על היום שאחרי ידבר עם רשות שלטונית ששמה חמאס"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -200,16 +250,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-3769-d60f-a5db-7f6f38a00000/a9/5d/7895c1f44f91b0053095e351d3ff/35154.jpg?height=81",
       "published_at": "2025-12-20T19:37:26.000Z",
       "summary": "The stats bureau says 55,000 recipients of Israeli academic degrees were living overseas in 2024, with many young researchers spooked by the Gaza war and the government's judicial coup and budget cuts"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US seizes vessel off Venezuela's coast, officials say",
-      "url": "https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3ac/live/56742370-dde0-11f0-aae2-2191c0e48a3b.jpg",
-      "published_at": "2025-12-20T19:27:31.000Z",
-      "summary": "The move comes after US President Donald Trump ordered a \"blockade\" of sanctioned oil tankers entering and leaving Venezuela."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -505,11 +545,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Jordan says air force took part in US-led strikes on ISIS in Syria that killed at least 5",
+      "title": "Jordan says it took part in US-led strikes on ISIS in Syria that killed at least 5",
       "url": "https://www.timesofisrael.com/jordan-says-air-force-took-part-in-us-led-strikes-on-isis-in-syria-that-killed-at-least-5/",
       "image": null,
       "published_at": "2025-12-20T15:12:56.000Z",
-      "summary": "'Intense' air campaign lasting hours hit cells across multiple provinces; Amman says it aimed to block 'extremist organizations' from threatening region\nThe post Jordan says air force took part in US-led strikes on ISIS in Syria that killed at least 5 appeared first on The Times of Israel.\n"
+      "summary": "'Intense' air campaign lasting hours hit cells across multiple provinces; Amman says it aimed to block 'extremist organizations' from threatening region\nThe post Jordan says it took part in US-led strikes on ISIS in Syria that killed at least 5 appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -539,7 +579,7 @@
       "url": "https://www.timesofisrael.com/australian-state-to-ban-globalize-the-intifada-chant-in-wake-of-bondi-terror-attack/",
       "image": null,
       "published_at": "2025-12-20T14:40:23.000Z",
-      "summary": "Amid hate speech crackdown, PM Albanese praises ‘unbreakable’ Jewish community ahead of national memorial for 15 slain in antisemitic attack; lifeguards gather to honor victims\nThe post Australian state to ban &#8216;Globalize the intifada&#8217; chant in wake of Bondi terror attack appeared first o"
+      "summary": "Amid hate speech crackdown, PM Albanese praises ‘unbreakable’ Jewish community ahead of national memorial for 15 slain in antisemitic massacre; lifeguards gather to honor victims\nThe post Australian state to ban &#8216;Globalize the intifada&#8217; chant in wake of Bondi terror attack appeared first"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -629,7 +669,7 @@
       "url": "https://www.timesofisrael.com/maga-civil-war-over-israel-erupts-into-the-open-at-turning-point-usa-conference/",
       "image": null,
       "published_at": "2025-12-20T12:58:58.000Z",
-      "summary": "Shapiro attacks conservative leaders for not calling out conspiracy theorists; Bannon: Shapiro a 'cancer' who wants US to put Israel's interests first; Kelly: Rift revolves around Israel\nThe post MAGA civil war over Israel erupts into the open at Turning Point USA conference appeared first on The Ti"
+      "summary": "Ben Shapiro attacks conservative leaders for not calling out conspiracy theorists; Steve Bannon: Shapiro a 'cancer' who wants US to put Israel's interests first\nThe post MAGA civil war over Israel erupts into the open at Turning Point USA conference appeared first on The Times of Israel.\n"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -639,7 +679,7 @@
       "url": "https://www.timesofisrael.com/how-the-reddit-detective-agency-helped-hunt-for-brown-killer-and-blew-the-case-open/",
       "image": null,
       "published_at": "2025-12-20T12:52:19.000Z",
-      "summary": "Years after Reddit users falsely smeared Brown student as suspect in Boston marathon attack, tipster saved the day when AI-powered surveillance was of little use in early search for gunman\nThe post How the &#8216;Reddit Detective Agency&#8217; helped hunt for Brown killer and &#8216;blew the case op"
+      "summary": "Years after Reddit users falsely smeared Brown student as suspect in Boston marathon attack, tipster saved the day after AI-powered surveillance of little use in early investigation\nThe post How the &#8216;Reddit Detective Agency&#8217; helped hunt for Brown killer and &#8216;blew the case open&#821"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -719,7 +759,7 @@
       "url": "https://www.timesofisrael.com/5-said-killed-in-gaza-city-strike-idf-says-its-investigating-regrets-any-civilian-harm/",
       "image": null,
       "published_at": "2025-12-20T10:59:53.000Z",
-      "summary": "Casualties reported at school-turned-shelter in Tuffah neighborhood; Hamas says majority of victims were children; IDF says troops fired at suspects, without saying how they posed threat\nThe post 5 said killed in Gaza City strike; IDF says it’s investigating, regrets any civilian harm appeared first"
+      "summary": "Casualties reported at school-turned-shelter in Tuffah neighborhood; Hamas says most victims were children; IDF says troops fired at suspects, without saying how they posed threat\nThe post 5 said killed in Gaza City strike; IDF says it’s investigating, regrets any civilian harm appeared first on The"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -940,46 +980,6 @@
       "image": null,
       "published_at": "2025-12-20T05:02:18.000Z",
       "summary": "עליות קלות בטמפרטורות יחולו גם ביום ראשון וביום שני, אז יהפכו לגבוהות מהרגיל לעונה. ביום שלישי צפויה ירידה קלה - וגשם מקומי בצפון ובמישור החוף"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "פוליטיקה על חשבון יציבות: סין עיכבה את חידוש מנדט כוח האו\"ם בגבול עם סוריה",
-      "url": "https://www.ynet.co.il/news/article/s1dupnmm11e",
-      "image": null,
-      "published_at": "2025-12-20T04:10:18.000Z",
-      "summary": "ההחלטה המתוכננת לחידוש מנדט UNDOF לחצי שנה נוספת לא עלתה להצבעה במועצת הביטחון, לאחר שסין ביקשה במפתיע להכניס תיקון לנוסח המקורי - שאינו מקובל על ארה\"ב"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הקורונה לא פה, הטראומה עדיין כן",
-      "url": "https://www.ynet.co.il/news/article/r19ddkmqbx",
-      "image": null,
-      "published_at": "2025-12-20T04:10:00.000Z",
-      "summary": "מערכת הבריאות מנהלת את משבר השפעת והחצבת כאילו השנים 2019-2023 מעולם לא התרחשו. רק שהן כן, וההתנהלות צריכה להיות בהתאם"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ניהול מדינה בהטלת המטבע ",
-      "url": "https://www.ynet.co.il/news/article/skjjbff7bl",
-      "image": null,
-      "published_at": "2025-12-20T04:05:00.000Z",
-      "summary": "ח\"כ רוטמן העביר בקריאה טרומית הצעת תיקון לחוק, שלפיה הרכב השופטים בדיוני בג\"ץ ייקבע באופן אקראי על ידי מחשב, ללא התערבות אנושית. אם אין חשיבות לניסיון, היררכיה או מומחיות, ואין משמעות למי יושב איפה, אז אין באמת הבדל בין החוק הקיים לתיקון המוצע"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אחרי גל הביקורת: משמר החופים האמריקני שב להגדיר צלבי קרס כסמלי שנאה",
-      "url": "https://www.ynet.co.il/news/article/s1cig117mbl",
-      "image": null,
-      "published_at": "2025-12-20T04:00:00.000Z",
-      "summary": "החשיפה בחודש שעבר כי סמלים כמו צלבי קרס וחבלי תלייה יוגדרו ע\"י המשמר כ\"מעוררי מחלוקת\" בלבד עוררה ביקורת עזה בארה\"ב משני צדי המפה הפוליטית, והביאה לביטול השינוי במדיניות. סנאטורית יהודייה בירכה: \"אין מקום ל'אזורים אפורים', על חיילינו להיות מוגנים מפני הטרדות גזעניות ואנטישמיות\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
