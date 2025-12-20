@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-20T17:07:16.076Z",
+  "generated_at": "2025-12-20T17:35:49.477Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -10,6 +10,26 @@
       "image": null,
       "published_at": "2025-12-20T18:21:14.000Z",
       "summary": "One person was moderately injured in the fire, with the rest being reported as lightly injured. All were rushed to a nearby hospital."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "המערכת הפוליטית תקועה ב-6 באוקטובר",
+      "url": "https://www.ynet.co.il/news/article/yokra14617774",
+      "image": null,
+      "published_at": "2025-12-20T17:31:54.000Z",
+      "summary": "כדי שהכנסת תפסיק להיות גן סגור של אותם הפרצופים, עלינו לחזור לאחוז חסימה מינימלי ולאפשר לכוחות חדשים לפרוץ את המנעול"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "רצח כפול בנצרת: שני גברים נורו למוות",
+      "url": "https://www.ynet.co.il/news/article/sjdod8em11x",
+      "image": null,
+      "published_at": "2025-12-20T17:10:31.000Z",
+      "summary": "מספר הנרצחים בחברה הערבית ממשיך לטפס, לאחר שכבר נקבע שיא שלילי: צעיר כבן 20 וגבר כבן 50 נורו בנצרת, צוות מד\"א קבע את מותם. הרקע פלילי"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -147,7 +167,7 @@
       "topic": "News",
       "title": "Who and what are in the Epstein files?",
       "url": "https://www.bbc.com/news/articles/c8r38ne1x2mo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e46/live/7ba9ac00-ddbd-11f0-a8dc-93c15fe68710.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7752/live/e8346c00-ddc9-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2025-12-20T14:42:43.000Z",
       "summary": "High-profile figures, including Bill Clinton and Michael Jackson, can be seen in the long-awaited files. "
     },
@@ -1052,16 +1072,6 @@
       "summary": "Based on the number of lit candles, the incident likely occurred on Thursday."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "כ-2,000 ק\"מ מאוקראינה: מכלית נפט מ\"צי הצללים\" של רוסיה הופצצה מהאוויר | צפו",
-      "url": "https://www.ynet.co.il/news/article/sjbc0bxqbg",
-      "image": null,
-      "published_at": "2025-12-19T18:31:07.000Z",
-      "summary": "מכלית הנפט \"Qendil\" הותקפה בים התיכון באמצעות כטב\"מים - וניזוקה קשות. לפי הדיווחים, התקיפה אירעה מול חופי לוב, כשהמכלית עשתה דרכה מהודו לנמל אוסט-לוגה הרוסי שבים הבלטי"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1100,16 +1110,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f40d/live/4359a370-dcfd-11f0-b936-bbd75bfb2f25.jpg",
       "published_at": "2025-12-19T17:40:37.000Z",
       "summary": "The 61-year-old has been sentenced to eight-and-a-half years in prison after posting the videos online."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"אם חמאס יוכל לשגר שוב רקטות - לא יהיה שלום\": הלחץ האמריקני, והמצב הנפיץ בעזה",
-      "url": "https://www.ynet.co.il/news/article/r1p47zqm11x",
-      "image": null,
-      "published_at": "2025-12-19T17:37:08.000Z",
-      "summary": "מזכיר המדינה האמריקני רוביו ציין כי חלה התקדמות בתוכנית טראמפ לעזה, אך הבהיר כי \"יש עוד דרך לעבור\". הוא הדגיש כי המטרה ברורה - \"שחמאס לא יוכל לאיים על ישראל\", והתייחס גם לפעילות כוח הייצוב הבינלאומי ולשיקום הרצועה: \"אי-אפשר לשכנע מדינות להשקיע בעזה, אם הן מאמינות שתהיה שוב מלחמה\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
