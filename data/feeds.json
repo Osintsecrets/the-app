@@ -1,15 +1,75 @@
 {
-  "generated_at": "2025-12-21T05:40:51.417Z",
+  "generated_at": "2025-12-21T06:14:28.467Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Gunmen kill nine in South Africa tavern attack",
+      "url": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d58/live/d34f8360-de32-11f0-8900-5f79040a7816.jpg",
+      "published_at": "2025-12-21T06:10:47.000Z",
+      "summary": "Police say another 10 people were injured in the township shooting near Johannesburg, and a manhunt is under way."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "How Israel's grassroots hostage families group became a powerful international force",
+      "url": "https://www.bbc.com/news/articles/cm20ppy0rreo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48f6/live/19049120-dd2a-11f0-a8dc-93c15fe68710.jpg",
+      "published_at": "2025-12-21T06:05:14.000Z",
+      "summary": "With just one hostage left in Gaza, members of the forum reflect on its influence in Israel and abroad."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "US Epstein files full of famous names, but Trump is conspicuously missing",
+      "url": "https://www.timesofisrael.com/us-epstein-files-full-of-famous-names-but-trump-is-conspicuously-missing/",
+      "image": null,
+      "published_at": "2025-12-21T05:59:27.000Z",
+      "summary": "Former US president Bill Clinton, top celebrities seen in among thousands of images but 16 photos said abruptly pulled from DOJ webpage after release, including one of Trump\nThe post US Epstein files full of famous names, but Trump is conspicuously missing appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "South Africa shooting live: At least nine people killed near Johannesburg",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/12/21/shooting-in-south-africa-live-at-least-nine-people-killed?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-21T05:46:40.000Z",
+      "summary": "At least nine people have been killed and 10 wounded in a mass shooting in the Bekkersdal township."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Al Jazeera launches new integrative AI model, ‘The Core’",
+      "url": "https://www.aljazeera.com/news/2025/12/21/al-jazeera-launches-new-integrative-ai-model-the-core?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-21T05:30:58.000Z",
+      "summary": "Al Jazeera Media Network says initiative will shift role of AI &#039;from passive tool to active partner in journalism&#039;."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "חשד לרצח והתאבדות בבת ים: אישה נדקרה למוות בבית, גבר אותר מוטל על הכביש לצד סכין",
+      "title": "חשד לרצח והתאבדות בבת ים: אישה נדקרה למוות בדירתה - בנה אותר מוטל על הכביש לצד סכין",
       "url": "https://www.ynet.co.il/news/article/h1wzg11hmbx",
       "image": null,
       "published_at": "2025-12-21T05:22:48.000Z",
-      "summary": "האישה, כבת 70, אותרה בביתה ללא רוח חיים ועם פצעי דקירה - אחרי שגבר כבן 40 שהתגורר עמה בדירה אותר מוטל פצוע על הכביש מחוץ לכניסה לבניין בעיר, לצד סכין מגואלת בדם. מותו נקבע בבית החולים"
+      "summary": "האישה, כבת 70, אותרה בביתה ללא רוח חיים ועם פצעי דקירה - אחרי שגבר כבן 40, שלפי החשד הינו בנה והתגורר עמה, אותר מוטל פצוע על הכביש מחוץ לכניסה לבניין בעיר, לצד סכין מגואלת בדם. מותו נקבע בבית החולים"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "At least nine people killed in shooting at South Africa tavern",
+      "url": "https://www.aljazeera.com/news/2025/12/21/at-least-nine-people-killed-in-mass-shooting-in-south-africa?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-21T05:08:47.000Z",
+      "summary": "South African police say a manhunt is under way after a mass shooting killed at least nine people and injured 10."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -772,16 +832,6 @@
       "summary": "On the eve of the 2025 AFCON, football&#039;s governing body in Africa create new four-year cycle and form a Nations League."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Israeli Gefen Bitton in critical condition after confronting Bondi Beach terrorist",
-      "url": "https://www.timesofisrael.com/israeli-gefen-bitton-in-critical-condition-after-confronting-bondi-beach-terrorist/",
-      "image": null,
-      "published_at": "2025-12-20T16:42:11.000Z",
-      "summary": "Bitton was shot three times after rushing toward gunmen at Hanukkah massacre; friends later identified him in footage\nThe post Israeli Gefen Bitton in critical condition after confronting Bondi Beach terrorist appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1052,26 +1102,6 @@
       "summary": "The partial release of documents includes photos of the late sex offender's properties, audio files and redacted documents."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Netanyahu finally announces October 7 inquiry: Why are Israelis furious?",
-      "url": "https://www.aljazeera.com/news/2025/12/20/netanyahu-finally-announces-october-7-inquiry-why-are-israelis-furious?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-20T08:37:08.000Z",
-      "summary": "The Israeli prime minister will be heading the inquiry into his own government&#039;s failings ahead of the Hamas-led attack."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US pushes for ceasefire in Sudan’s civil war as Kordofan violence escalates",
-      "url": "https://www.aljazeera.com/news/2025/12/20/us-pushes-for-ceasefire-in-sudans-civil-war-as-kordofan-violence-escalates?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-20T07:25:21.000Z",
-      "summary": "Top US diplomat warns all involved will face lasting condemnation as fighting escalates in strategic central region."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1080,16 +1110,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-3a5c-d5c5-a3df-befeca000000/97/dc/883b23fe464f90e5da4cb051a0c8/64084028.JPG?height=81",
       "published_at": "2025-12-20T07:13:32.000Z",
       "summary": "Yishai Raz lives in a Rio favela under the dictatorial rule of a gang, but to him it's paradise. 'It's safe here, because anyone who misbehaves could find themselves locked in a water tank for a night'"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Bangladesh holds state mourning, funeral for slain uprising activist",
-      "url": "https://www.aljazeera.com/news/2025/12/20/bangladesh-holds-state-mourning-funeral-for-slain-uprising-activist?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-20T07:05:24.000Z",
-      "summary": "The interim government said it had arrested seven people allegedly involved in the death of a Hindu man on Thursday."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1232,16 +1252,6 @@
       "summary": "The suspect's spree began at Taipei's main metro before he moved to another station nearby."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Tourists to face €2 fee to get near Rome's Trevi Fountain",
-      "url": "https://www.bbc.com/news/articles/cp89p41gr06o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c952/live/b2964df0-dd12-11f0-9b65-f97847ece81a.jpg",
-      "published_at": "2025-12-19T20:05:52.000Z",
-      "summary": "Visitors who don't live in Rome will have to pay to view the Baroque monument up close from February."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1312,16 +1322,6 @@
       "summary": "BBC Russia editor Steve Rosenberg had the opportunity to ask Vladimir Putin about his plans for the future of the country."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Charlie Kirk's widow Erika endorses JD Vance for president",
-      "url": "https://www.bbc.com/news/articles/cp84p722m3do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b407/live/d9c7e3e0-dd0b-11f0-aae2-2191c0e48a3b.jpg",
-      "published_at": "2025-12-19T18:05:23.000Z",
-      "summary": "Conservatives traded criticims at this year's annual Turning Point USA America Fest conference."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1330,16 +1330,6 @@
       "image": null,
       "published_at": "2025-12-19T17:45:46.000Z",
       "summary": "The boy's father reportedly lives in the US, and he was boarding a flight to NYC in order to visit him, according to N12."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "German court jails man for drugging, raping and filming wife for years",
-      "url": "https://www.bbc.com/news/articles/cm21pxen1jno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f40d/live/4359a370-dcfd-11f0-b936-bbd75bfb2f25.jpg",
-      "published_at": "2025-12-19T17:40:37.000Z",
-      "summary": "The 61-year-old has been sentenced to eight-and-a-half years in prison after posting the videos online."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1382,16 +1372,6 @@
       "summary": "BBC Analysis Editor Ros Atkins examines allegations of links between the UAE and Sudan’s RSF in the civil war, as international efforts continue to seek an end to the fighting."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "French court rejects Shein website suspension over childlike sex dolls",
-      "url": "https://www.bbc.com/news/articles/c5y9x4pj54eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46fc/live/702e6780-dceb-11f0-afe3-9729680155d8.jpg",
-      "published_at": "2025-12-19T15:49:16.000Z",
-      "summary": "The fast-fashion giant welcomed the judgement and said its priority remains protecting French consumers."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1400,26 +1380,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-36fb-d8f0-a9db-77ff1b520000/32/6c/8f41cd3a4a7281cb1193cf880a78/168508.jpg?height=81",
       "published_at": "2025-12-19T15:38:09.000Z",
       "summary": "In a hastily organized event, people gathered shoulder to shoulder on Bondi's pristine crescent of sand and then formed an enormous circle in the ocean in an expression of solidarity among Sydney's residents and support for the Jewish community"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Norway's crown princess likely needs lung transplant, palace says",
-      "url": "https://www.bbc.com/news/articles/cpq4p535347o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a15/live/d053b7c0-dcee-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2025-12-19T15:33:29.000Z",
-      "summary": "Mette-Marit has pulmonary fibrosis, a disease that stiffens the lungs, making it hard to breathe."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "UN-backed experts say Gaza food supplies improving but 100,000 still in 'catastrophic conditions'",
-      "url": "https://www.bbc.com/news/articles/ckgdpz0gp3jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7654/live/fad28a70-dcc7-11f0-aae2-2191c0e48a3b.jpg",
-      "published_at": "2025-12-19T15:04:23.000Z",
-      "summary": "Israel says the report \"doesn't reflect the reality\" and ignores the volume of aid entering the Gaza Strip."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1482,16 +1442,6 @@
       "summary": "The operation to capture Imad Amahz, a key terrorist of Hezbollah's covert maritime terror network, was done by the Shayetet 13 special naval ops. unit in a city almost 140 km away from Israel."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "EU agrees €90bn loan for Ukraine but without using Russian assets",
-      "url": "https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c01b/live/b40edb10-dc8c-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2025-12-19T12:47:56.000Z",
-      "summary": "EU leaders said the loan would be repayable only when Russia paid reparations for the war."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1510,16 +1460,6 @@
       "image": null,
       "published_at": "2025-12-19T11:28:30.000Z",
       "summary": "2026 Azrieli Prize winner Hana Ajiashvili reimagines a medieval riddle in “Riddle,” shaping\nhistory and personal experience into a powerful score."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Bangladesh newspaper staff recall 'gasping for air' as offices set ablaze",
-      "url": "https://www.bbc.com/news/articles/c2462r82864o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48ff/live/c2d46f30-dcc7-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2025-12-19T10:54:05.000Z",
-      "summary": "The fresh protests are sparked by the death of one of the leaders of protests that ousted ex-PM Sheikh Hasina."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
