@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-21T10:09:15.966Z",
+  "generated_at": "2025-12-21T10:40:54.012Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "From Hamas to Hatzalah: Former hostage Bar Kuperstein inducted as EMT at United Hatzalah Miami Gala",
+      "url": "https://www.jpost.com/israel-news/culture/article-880893",
+      "image": null,
+      "published_at": "2025-12-21T12:09:16.000Z",
+      "summary": "Kuperstein formally joins United Hatzalah as a volunteer EMT to save lives in Israel"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,46 @@
       "image": null,
       "published_at": "2025-12-21T10:47:43.000Z",
       "summary": "The Ministerial Committee for Legislation will debate a bill on an inquiry on October 7, while the cabinet will decide on the closure of Army Radio on Monday. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Gunmen kill nine in South Africa tavern attack",
+      "url": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9fa/live/90276c80-de53-11f0-bcc7-8d31e34bceca.jpg",
+      "published_at": "2025-12-21T10:30:55.000Z",
+      "summary": "A further 10 people were injured in Bekkersdal after the perpetrators opened fire and \"continued to shoot randomly\"."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Police detain three Gaza residents they say entered Israel during Oct. 7 attack; security sources dispute timeline",
+      "url": "https://www.haaretz.com/israel-news/2025-12-21/ty-article/.premium/police-detain-three-gaza-residents-they-say-entered-israel-during-oct-7-attack/0000019b-404c-d759-a3bf-4afdcd660000",
+      "image": "https://img.haarets.co.il/bs/0000019b-4072-d759-a3bf-4af745390002/5b/e1/1f393e53459689bcf76123fda9fe/whatsapp-image-2025-12-21-at-10-14-22.jpeg?height=81",
+      "published_at": "2025-12-21T10:27:50.000Z",
+      "summary": "Israeli security officials said three Gaza residents detained in Rahat had been in Israel before the October 7 Hamas attack, contradicting police claims. The suspects, found with ammunition and stolen military gear, were detained during a police operation targeting weapons theft"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "נשיא דרום קוריאה רוצה לממן לגברים טיפול נגד התקרחות: \"זה עניין הישרדותי\"",
+      "url": "https://www.ynet.co.il/news/article/bjpo64sm11x",
+      "image": null,
+      "published_at": "2025-12-21T10:16:10.000Z",
+      "summary": "לי ג'אה מיונג הורה לבחון את האפשרות לצרף טיפולים נגד נשירת שיער לביטוח הבריאותי הממשלתי, בנימוק שהקרחה היא כבר לא עניין קוסמטי בלבד, אלא מקור למצוקה נפשית. תומכיו טוענים \"זה הנשיא הטוב בהיסטוריה\", מבקריו מאשימים בפופוליזם: \"מקושש קולות מצעירים, יש בעיות דחופות יותר, תשקיע כסף בסרטן\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"לא יפרו את זכויותינו\": האיום המרומז של ארדואן, ודוקטרינת \"המולדת הכחולה\" שלו",
+      "url": "https://www.ynet.co.il/news/article/bydaumrxwe",
+      "image": null,
+      "published_at": "2025-12-21T10:09:19.000Z",
+      "summary": "בטקס חניכת צוללת וכלי שיט צבאיים של חיל הים הטורקי, טען נשיא טורקיה כי ההשקעות של מדינתו בחימוש \"לא מיועדות להכנה למלחמה\". בצל המתיחות עם ישראל, יוון וקפריסין, וברקע ההצעה להקמת כוח משותף נגד אנקרה, הצהיר: \"לא רוצים סכסוכים\". השאיפות הטריטוריאליות של אנקרה - והפתרון שמכינים באזור"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -29,17 +79,17 @@
       "url": "https://www.ynet.co.il/news/article/r1jlkshmbx",
       "image": null,
       "published_at": "2025-12-21T10:02:29.000Z",
-      "summary": "נגד מאור זוהר, אחיו של הזמר אושר כהן, הוגש כתב אישום שבו נטען כי תקף את בת זוגו בחדר מדרגות ובחניה של מסעדה בירושלים - וגם את המנהל שנחלץ לעזרתה. לפי המשטרה יש תיעוד של ההשתוללות, שהייתה תחת השפעת אלכוהול "
+      "summary": "נגד מאור זוהר, אחיו של הזמר אושר כהן, הגישה המשטרה כתב אישום שבו נטען כי תקף את בת זוגו בחדר מדרגות ובחניה של מסעדה בירושלים - וגם את המנהל שנחלץ לעזרתה. עוד נכתב כי קילל אותה ואיים להרוג אותה "
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Gunmen kill nine in South Africa tavern attack",
-      "url": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d1/live/bcad5070-de45-11f0-ba97-311298abbbad.jpg",
-      "published_at": "2025-12-21T09:56:37.000Z",
-      "summary": "Police say another 10 people were injured in the township shooting near Johannesburg, and a manhunt is under way."
+      "title": "LIVE: Israel continues ceasefire violations; 1 Palestinian killed in Gaza",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/12/21/live-israel-continues-ceasefire-violations-1-palestinian-killed-in-gaza?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-21T09:57:42.000Z",
+      "summary": "One Palestinian killed by Israeli army in Gaza while two Palestinians, including a child, are shot dead in West Bank."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -549,7 +599,7 @@
       "url": "https://www.timesofisrael.com/liveblog-december-21-2025/",
       "image": null,
       "published_at": "2025-12-21T03:29:56.000Z",
-      "summary": "Jewish leader hails local officials *  Police issue hundreds of tickets in bid to stem traffic deaths * Top Catholic official in region presides over Christmas Mass in Gaza\nThe post Aussie PM booed, Ahmed al Ahmed sends message of solidarity as crowd marks week since Bondi attack appeared first on T"
+      "summary": "Ahmed al Ahmed: 'I stand with you, my brothers and sisters' * Jewish leader hails local officials * Top Catholic official in region presides over Christmas Mass in Gaza\nThe post Aussie PM booed, Ahmed al Ahmed sends message of solidarity as crowd marks week since Bondi attack appeared first on The T"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1002,16 +1052,6 @@
       "summary": "Sealing of deal postponed despite decades of preparation."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "פלסטינים שנכלאו בישראל מעידים על אונס בריאיון ל-BBC: \"רציתי למות, שהכאב ייגמר\"",
-      "url": "https://www.ynet.co.il/news/article/hycell47wx",
-      "image": null,
-      "published_at": "2025-12-20T17:43:24.000Z",
-      "summary": "בצל פרשת \"שדה תימן\" ומעצר הפצ\"רית סיפרו שני אסירים לשעבר על התעללות שיטתית שעברו, וטענו גם כי הותקפו מינית על ידי סוהרים: \"הם צחקו ונהנו מזה\". בישראל מכחישים את הטענות על עינויים של כלואים פלסטינים מאז 7/10, בשב\"ס אמרו ל-BBC: \"אנחנו פועלים בהתאם לחוק. לא מודעים לטענות שתוארו\""
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1030,16 +1070,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-3c52-d8f0-a9db-7dfe29ce0002/56/80/39a63ef04dc5930f22d7db9c1e51/whatsapp-image-2025-12-19-at-14-51-12.jpeg?height=81",
       "published_at": "2025-12-20T17:38:25.000Z",
       "summary": "The police have not determined under which law such an act is illegal, but are considering pressing the charge of damage or desecration of a place of worship, which carries a maximum penalty of three years in jail"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המערכת הפוליטית תקועה ב-6 באוקטובר",
-      "url": "https://www.ynet.co.il/news/article/yokra14617774",
-      "image": null,
-      "published_at": "2025-12-20T17:31:54.000Z",
-      "summary": "כדי שהכנסת תפסיק להיות גן סגור של אותם הפרצופים, עלינו לחזור לאחוז חסימה מינימלי ולאפשר לכוחות חדשים לפרוץ את המנעול"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1080,16 +1110,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-3b7e-d60f-a5db-7b7edf220001/5c/3c/5e3fe1da4aaa9cc54e5cf65d7b82/158544.jpg?height=81",
       "published_at": "2025-12-20T16:20:18.000Z",
       "summary": "Senior officials from France, the U.S. and Saudi Arabia discussed raising funds for the Lebanese Army and ways to ensure it actively works to disarm the organization. A conference on the issue is expected to convene in February, but behind the scenes doubts are mounting"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US aerial bombardment strikes ‘ISIS thugs’ in Syria",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/20/us-aerial-bombardment-strikes-isis-thugs-in-syria?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-20T16:17:23.000Z",
-      "summary": "The US military launched more than 70 strikes on alleged ISIL targets in Syria."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1590,16 +1610,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-02e1-dda6-a7fb-36e1ee4f0000/52/07/db2c2eff49a3b6d0d92b3d0972bd/63913114.JPG?height=81",
       "published_at": "2025-12-19T08:22:15.000Z",
       "summary": "Zionism has always preferred to focus on itself and push aside those who live alongside it. To overcome that tendency, we'll need creative techniques"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israeli civilians run over Palestinian pedestrian after illegally entering Nablus, IDF confirms",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-880766",
-      "image": null,
-      "published_at": "2025-12-19T08:19:24.000Z",
-      "summary": "The civilians fled the scene on foot, with several of them being detained later by the IDF. The military has opened an investigation into the matter."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2230,16 +2240,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-125f-df61-a7fb-5adfb96f0001/da/23/1ce64d204723a8f8a162490af2b5/280591.jpg?height=81",
       "published_at": "2025-12-17T17:03:25.000Z",
       "summary": "MK Zvi Succot, set to chair an education committee, said earlier this month that Palestinians who set fire to waste and cause widespread air pollution should be shot. MK Limor Son Har-Melech, set to chair a health committee, said, 'There is no such thing as Palestinians'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Serbian government threatens Trump Tower protesters after Kushner withdraws from development deal",
-      "url": "https://www.haaretz.com/world-news/europe/2025-12-17/ty-article/.premium/serbian-government-threatens-trump-tower-protesters-after-kushner-withdraws-from-deal/0000019b-2c77-d932-a7bf-6f77fa9f0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-2c8b-d5dd-a19f-bebb7a600001/1c/7b/a994019b42e089eb26f768362cf3/140957.jpg?height=81",
-      "published_at": "2025-12-17T16:50:47.000Z",
-      "summary": "Jared Kushner's investment firm nixxed a deal to develop a former Yugoslav military HQ into a Trump Tower hotel after Belgrade residents protested the project – and the far-right government's efforts to circumvent laws protecting the building's historical status"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
