@@ -1,6 +1,36 @@
 {
-  "generated_at": "2025-12-21T06:14:28.467Z",
+  "generated_at": "2025-12-21T06:49:07.354Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Australian PM announces intelligence review as country mourns Bondi attack",
+      "url": "https://www.bbc.com/news/articles/c5ydzl0nwqeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f372/live/d1aebac0-de29-11f0-a8dc-93c15fe68710.jpg",
+      "published_at": "2025-12-21T06:41:49.000Z",
+      "summary": "Albanese says the country must be in a position to respond to \"the rapidly changing security environment\"."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Iraq&#8217;s top judge says pro-Iran militias will coordinate with state on arms control",
+      "url": "https://www.timesofisrael.com/iraqs-top-judge-says-pro-iran-militias-will-coordinate-with-state-on-arms-control/",
+      "image": null,
+      "published_at": "2025-12-21T06:29:43.000Z",
+      "summary": "Judge says limits on use of arms to begin when need for fighting ceases, but Kataeb Hezbollah insists it will only discuss state monopoly on weapons when foreign troops leave\nThe post Iraq&#8217;s top judge says pro-Iran militias will coordinate with state on arms control appeared first on The Times"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": " \"נציף להם את הטלפונים\": הלחץ על השרים לפני ההצבעה על ועדת חקירה פוליטית ל-7/10",
+      "url": "https://www.ynet.co.il/news/article/ry2h2zsxwl",
+      "image": null,
+      "published_at": "2025-12-21T06:29:10.000Z",
+      "summary": "פרסום ראשון: משפחות מועצת אוקטובר פותחות היום בשורת מחאות לקראת ההצבעה בכנסת בקריאה טרומית על הצעת ח\"כ קלנר לוועדת חקירה פוליטית. לצד קמפיין דיגיטלי הן מתכוונות לשלוח הודעות לשרים נגד \"ועדת טיוח\", להגיע לכנסת ולהפגין מול משרד רה\"מ נתניהו - שיעמוד בראש ועדת השרים שתקבע את המנדט "
+    },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
@@ -59,7 +89,7 @@
       "url": "https://www.ynet.co.il/news/article/h1wzg11hmbx",
       "image": null,
       "published_at": "2025-12-21T05:22:48.000Z",
-      "summary": "האישה, כבת 70, אותרה בביתה ללא רוח חיים ועם פצעי דקירה - אחרי שגבר כבן 40, שלפי החשד הינו בנה והתגורר עמה, אותר מוטל פצוע על הכביש מחוץ לכניסה לבניין בעיר, לצד סכין מגואלת בדם. מותו נקבע בבית החולים"
+      "summary": "האישה, כבת 70, אותרה בביתה ללא רוח חיים ועם פצעי דקירה - אחרי שגבר כבן 40, שלפי החשד הינו בנה והתגורר עמה, אותר מוטל פצוע על הכביש מחוץ לכניסה לבניין בעיר, לצד סכין מגואלת בדם. מותו נקבע בבית החולים: החשד - הוא קפץ מהקומה השלישית"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -90,16 +120,6 @@
       "image": null,
       "published_at": "2025-12-21T04:45:51.000Z",
       "summary": "Brandon Johnson, who has called Israel's war in Gaza war 'genocidal,' fraying ties, says he's grateful for relationship with Jewish state, sends condolences over Bondi Beach attack\nThe post Progressive Chicago mayor joins Israeli consulate Hanukkah party with solidarity message appeared first on The"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Australian PM announces intelligence review as country mourns Bondi attack",
-      "url": "https://www.bbc.com/news/articles/c5ydzl0nwqeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f372/live/d1aebac0-de29-11f0-a8dc-93c15fe68710.jpg",
-      "published_at": "2025-12-21T04:43:19.000Z",
-      "summary": "Albanese says the country must be in a position to respond to \"the rapidly changing security environment\"."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvVVB4",
@@ -165,7 +185,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israel awaits Trump-Netanyahu meeting to chart next steps on Gaza",
+      "title": "Israel awaits Trump-Netanyahu meeting to chart next steps on Gaza cease-fire",
       "url": "https://www.haaretz.com/israel-news/2025-12-21/ty-article/.premium/israel-awaits-trump-netanyahu-meeting-to-chart-next-steps-on-gaza/0000019b-3dc2-d333-a19b-bfd69d290000",
       "image": "https://img.haarets.co.il/bs/0000019b-3f0c-da9d-a59b-7fff287a0007/64/72/690417e44cdd9e90772139c69638/64208919.JPG?height=81",
       "published_at": "2025-12-21T04:00:42.000Z",
@@ -175,9 +195,9 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israeli-caused hunger in Gaza was real. Whether it was a 'famine' is still in dispute",
+      "title": "Warnings of mass death from Israeli-induced famine in Gaza may have been premature, but hunger persists",
       "url": "https://www.haaretz.com/gaza/2025-12-21/ty-article/.premium/israeli-caused-hunger-in-gaza-was-real-whether-it-was-a-famine-is-still-in-dispute/0000019b-3d7a-d8f0-a9db-7dfe06d40000",
-      "image": "https://img.haarets.co.il/bs/0000019b-3e88-dc6b-a7df-bfde79c80000/c1/af/fbb32757475b9ef4022e1bdb0dd2/171250.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-3e88-dc6b-a7df-bfde78bb0001/42/61/f5c60aac4a8aa269d9c7faa6143c/177921.jpg?height=81",
       "published_at": "2025-12-21T04:00:30.000Z",
       "summary": "The Israeli government has strong arguments regarding the IPC's decision to declare a Phase 5 famine in Gaza in August. This cannot erase the cruel policy of deliberate starvation led by Netanyahu that resulted in the deaths of hundreds"
     },
@@ -195,11 +215,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "שינוי המגמה בצה\"ל, שיאפשר ללוחמים להחזיק נשק ארוך בבית: \"לקח מ-7/10\"",
+      "title": "בכספת ועם תחמושת בבית: צה\"ל מחמש 10,000 חיילי מילואים בנשק ארוך - כלקח מ-7/10",
       "url": "https://www.ynet.co.il/news/article/yokra14619075",
       "image": null,
       "published_at": "2025-12-21T03:37:20.000Z",
-      "summary": "עד 7/10 לוחמים רבים לא הורשו להחזיק נשק ארוך בביתם מחשש שייגנב, אך כעת אלפי אזרחים שנקלטים כמילואימניקים באוגדת דוד החדשה יקבלו רובה M16 לכל אורך השנה - ולא רק לתקופת המילואים. המטרה: אפשרות לקפיצה תוך שעה לכל אירוע ביטחוני מתפרץ גדול. \"אנחנו לא רוצים עוד קטסטרופה\", אמר קצין בכיר"
+      "summary": "עד 7/10 לוחמים רבים לא הורשו להחזיק נשק ארוך בביתם מחשש שייגנב, אך כעת אלפי אזרחים שנקלטים כמילואימניקים באוגדת דוד החדשה בחזית המזרחית יקבלו M16 לכל השנה - ולא רק למילואים. המטרה: אפשרות לקפיצה תוך שעה לכל אירוע ביטחוני מתפרץ גדול. \"אנחנו לא רוצים עוד קטסטרופה. אנחנו זוכרים היטב למה לקח לכוחות שש ש"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -249,7 +269,7 @@
       "url": "https://www.timesofisrael.com/light-over-darkness-australia-marks-day-of-reflection-for-bondi-hanukkah-attack-victims/",
       "image": null,
       "published_at": "2025-12-21T03:24:22.000Z",
-      "summary": "Jews and others to light candles, observe minute of silence, as tributes pour in; PM orders review of police and intel agencies, to protect a Jewish community that feels let down\nThe post &#8216;Light over darkness&#8217;: Australia marks Day of Reflection for Bondi Hanukkah attack victims appeared "
+      "summary": "Jews and others to light candles, observe minute of silence, as tributes pour in; authorities in talks with Jewish community leaders about establishing a permanent memorial\nThe post &#8216;Light over darkness&#8217;: Australia marks Day of Reflection for Bondi Hanukkah attack victims appeared first "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -742,16 +762,6 @@
       "summary": "Nawaf Salam claims first phase of ceasefire-mandated plan is nearly done, with next stage planned north of river, amid Israeli skepticism\nThe post Lebanese PM says country close to completing Hezbollah disarmament south of Litani River appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Netanyahu to present Trump with new Iran attack plans during US visit — report",
-      "url": "https://www.timesofisrael.com/netanyahu-to-present-trump-with-new-iran-attack-plans-during-us-visit-report/",
-      "image": null,
-      "published_at": "2025-12-20T18:02:28.000Z",
-      "summary": "Jerusalem concerned Tehran could rebuild nuclear program, but primarily worried about potential surge in ballistic missile production to some 3,000 a year, according to NBC\nThe post Netanyahu to present Trump with new Iran attack plans during US visit — report appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -940,16 +950,6 @@
       "image": null,
       "published_at": "2025-12-20T14:39:11.000Z",
       "summary": "שלושה צעירים חמושים ניסו לחטוף נשים בקנדה, אך עוברי אורח התערבו וסיכלו את מזימתם. הם נעצרו, ואחד מהם הואשם בעבירות טרור - כולל תמיכה בדאעש"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הגיבור הישראלי שנאבק על חייו אחרי טבח סידני, וחשיפת \"תיקי אפשטיין\" | כותרות השבת",
-      "url": "https://www.ynet.co.il/news/article/sj4kgnvqwx",
-      "image": null,
-      "published_at": "2025-12-20T14:38:16.000Z",
-      "summary": "דיווח: נתניהו יציג לטראמפ אפשרויות לתקיפות חדשות באיראן | גפן ביטון נפצע אנושות בסידני לאחר שחתר למגע מול המחבל | פורסמו מסמכים ותמונות מ\"תיקי אפשטיין\" - אבל עם השחרות רבות, ונעלם גדול | צה\"ל חילץ ישראלית ביריחו"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
