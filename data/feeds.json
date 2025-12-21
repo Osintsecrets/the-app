@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-21T23:08:54.560Z",
+  "generated_at": "2025-12-21T23:35:47.471Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -20,6 +20,26 @@
       "image": null,
       "published_at": "2025-12-22T00:29:18.000Z",
       "summary": "A child was seen extinguishing candles in Ramle; similar incidents have been reported in Tel Aviv and Beit Shemesh."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Israel said to warn US that Iran could use missile launch exercise as cover to strike",
+      "url": "https://www.timesofisrael.com/liveblog-december-22-2025/",
+      "image": null,
+      "published_at": "2025-12-21T23:26:58.000Z",
+      "summary": "Israeli source tells news site that chances of attack are under 50% 'but nobody is willing to take the risk' * Culture minister threatens to end all state funding for film industry amid awards spat\nThe post Israel said to warn US that Iran could use missile launch exercise as cover to strike appeare"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US pursuing third oil tanker linked to Venezuela, official says",
+      "url": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dac/live/280abdc0-de83-11f0-b6eb-fb9209f47010.jpg",
+      "published_at": "2025-12-21T23:19:23.000Z",
+      "summary": "The move comes days after President Donald Trump said that he was ordering a blockade of sanctioned oil tankers entering and leaving Venezuela."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -190,16 +210,6 @@
       "image": null,
       "published_at": "2025-12-21T21:30:35.000Z",
       "summary": "הטייס המתוסכל הסביר לנוסעים שהוא ימריא מנמל התעופה הבינלאומי במקסיקו סיטי רק כשיקבל את הכסף שמעסיקיו חייבים לו: \"אני מצטער, זה לא מגיע לכם\". הטייס נעל את עצמו בקוקפיט ובהמשך נעצר. הנוסעים פונו מהמטוס"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US reportedly pursuing third oil tanker linked to Venezuela",
-      "url": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dac/live/280abdc0-de83-11f0-b6eb-fb9209f47010.jpg",
-      "published_at": "2025-12-21T21:23:17.000Z",
-      "summary": "The move comes days after President Donald Trump said that he was ordering a blockade of sanctioned oil tankers entering and leaving Venezuela."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -509,7 +519,7 @@
       "url": "https://www.aljazeera.com/news/2025/12/21/eu-ukraine-have-not-improved-peace-prospects-by-altering-proposal-kremlin?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-21T17:38:13.000Z",
-      "summary": "Yury Ushakov&#039;s remarks come a day after US and Russian officials held talks on the US proposal in Florida."
+      "summary": "Putin aide Yury Ushakov&#039;s remarks come a day after US and Russian officials held talks on the US proposal in Florida."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1112,16 +1122,6 @@
       "summary": "At least 347 people have now been put to death this year, according to the UK-based campaign group Reprieve."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Daily Briefing Dec. 21: Day 807 &#8211; Rescue of Israeli from Jericho highlights PA-IDF coordination",
-      "url": "https://www.timesofisrael.com/daily-briefing-dec-21-day-807-rescue-of-israeli-from-jericho-highlights-pa-idf-coordination/",
-      "image": null,
-      "published_at": "2025-12-21T11:56:14.000Z",
-      "summary": "Military correspondent Emanuel Fabian on an unusual strike on Gaza City, conflicting reports of Hezbollah prowess along the border, and an ISIS terrorist picked up in southern Syria\nThe post Daily Briefing Dec. 21: Day 807 &#8211; Rescue of Israeli from Jericho highlights PA-IDF coordination appeare"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1225,7 +1225,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Israeli aid restrictions leave Gaza dangerously low on medicine",
+      "title": "Updates: Israeli aid restrictions leave Gaza dangerously low on medicine",
       "url": "https://www.aljazeera.com/news/liveblog/2025/12/21/live-israel-continues-ceasefire-violations-1-palestinian-killed-in-gaza?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-21T09:57:42.000Z",
