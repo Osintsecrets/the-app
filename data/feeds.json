@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-22T13:48:59.704Z",
+  "generated_at": "2025-12-22T14:10:34.023Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israeli tourism to Japan jumps sharply as yen weakens",
+      "url": "https://www.jpost.com/israel-news/article-881018",
+      "image": null,
+      "published_at": "2025-12-22T15:56:28.000Z",
+      "summary": "Israel tourism to Japan in April increased by 88% from 2024 to 2025, according to Eshet Tours VP Shirley Cohen-Orkaby."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -25,11 +35,11 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "IDF returns Israelis who illegally crossed into Syria from Golan Heights",
+      "title": "IDF returns Israelis who illegally crossed into Syria from Golan Heights, second time in two days",
       "url": "https://www.jpost.com/israel-news/article-881008",
       "image": null,
       "published_at": "2025-12-22T14:42:20.000Z",
-      "summary": "The civilians were recovered and transferred to Israel Police for further handling."
+      "summary": "The civilians were recovered and transferred to Israel Police for further handling. The same civilians attempted to cross the border yesterday, a security source noted."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -42,6 +52,26 @@
       "summary": "Nine young immigrants presented with Maor Youth Prize  for their leadership and service in communities across Israel"
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Bondi gunmen threw homemade bombs that failed to detonate, Australian police reveal in new findings",
+      "url": "https://www.haaretz.com/world-news/asia-and-australia/2025-12-22/ty-article-magazine/bondi-gunmen-threw-homemade-bombs-that-failed-to-detonate-australian-police-say/0000019b-45b2-d41d-adfb-75be01300000",
+      "image": "https://img.haarets.co.il/bs/0000019b-45b5-dac2-a9bb-e7f518e10001/ec/9b/452868094c4c9d2d1fb8f23b8009/195076.jpg?height=81",
+      "published_at": "2025-12-22T14:01:00.000Z",
+      "summary": "Police say the alleged gunmen had planned the attack for several months, training with firearms in isolated rural parts of Australia. The Sydney Morning Herald said one of the perpetrators reportedly traveled to an area in the Philippines known to have connections to ISIS-inspired terrorist organiza"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "A year post-Assad, Syrian jails are again filling up, with widespread accounts of abuse",
+      "url": "https://www.timesofisrael.com/a-year-post-assad-syrian-jails-are-again-filling-up-with-widespread-accounts-of-abuse/",
+      "image": null,
+      "published_at": "2025-12-22T13:50:24.000Z",
+      "summary": "Though the Sharaa regime vowed to shutter Assad's notorious jails, tallies show they are locking hundreds of people up without charges, overcrowding the same prisons they emptied\nThe post A year post-Assad, Syrian jails are again filling up, with widespread accounts of abuse appeared first on The Ti"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -50,6 +80,16 @@
       "image": null,
       "published_at": "2025-12-22T13:45:44.000Z",
       "summary": "Army Radio commander Tal Lev-Ram has said that he would fight the closure, which Defense Minister Israel Katz has pushed for, before the High Court of Justice."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Germany charges ex-Syrian prison guard over Assad-era abuses",
+      "url": "https://www.aljazeera.com/news/2025/12/22/germany-charges-ex-syrian-prison-guard-over-assad-era-abuses?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-22T13:37:54.000Z",
+      "summary": "Prosecutors accuse the official, named as Fahad A, of torturing dozens of prisoners in jail run by Syrian intelligence."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -785,7 +825,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Car bomb kills Russian general in Moscow",
+      "title": "Car bomb kills Russian General Fanil Sarvarov in Moscow",
       "url": "https://www.aljazeera.com/news/2025/12/22/moscow-car-bomb-kills-russian-general?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-22T07:33:58.000Z",
@@ -820,16 +860,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3127/live/b07dd0a0-def3-11f0-9aab-1554ed833d53.jpg",
       "published_at": "2025-12-22T06:14:56.000Z",
       "summary": "Civil liberties advocates say laws 'damage our democracy' while others say they scapegoat gun owners."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Updates: Thailand, Cambodia officials to meet amid border clashes",
-      "url": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-thailand-cambodia-resume-border-clashes-before-talks?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-22T05:42:07.000Z",
-      "summary": "Fighting has resumed hours before the countries&#039; foreign ministers meet in Malaysia to discuss steps to de-escalate."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -885,7 +915,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "IDF says several Israeli civilians crossed Syrian border and were retrieved by troops",
+      "title": "IDF says forces retrieved several far-right activists who crossed border into Syria",
       "url": "https://www.haaretz.com/israel-news/2025-12-22/ty-article-live/.premium/report-israel-warns-u-s-iranian-exercise-could-indicate-a-planned-attack/0000019b-4438-dbc2-adbb-cfbbed960000",
       "image": "https://img.haarets.co.il/bs/0000019b-4632-d02f-a7ff-d6fbd4030000/70/0a/4614eaba440da9b4a12b1a725591/128385-1.jpg?height=81",
       "published_at": "2025-12-22T04:12:18.000Z",
@@ -990,16 +1020,6 @@
       "image": null,
       "published_at": "2025-12-22T02:11:15.000Z",
       "summary": "The report notes that the likelihood of an attack is below 50%, but an Israeli source said that \"nobody is willing to take the risk and just say it is only an exercise.\""
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Vance: Almost no Americans are antisemitic, real issue is ‘backlash’ to US policy on Israel",
-      "url": "https://www.timesofisrael.com/vance-hits-out-at-purity-tests-refraining-from-denouncing-antisemitism-that-has-roiled-gop/",
-      "image": null,
-      "published_at": "2025-12-22T01:12:48.000Z",
-      "summary": "At Turning Point conference, Trump's VP slams 'purity tests,' says movement must be open to all who 'love America' amid growing debate on the US right over platforming antisemitism\nThe post Vance: Almost no Americans are antisemitic, real issue is ‘backlash’ to US policy on Israel appeared first on "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1560,16 +1580,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-40d7-da9d-a59b-42f7f95e0001/41/35/fe4c653e4616b3b3c09951bf04ec/833725-1.jpg?height=81",
       "published_at": "2025-12-21T13:00:45.000Z",
       "summary": "The move effectively legalizes the repopulation of four northern West Bank settlements that Israel evacuated in 2005 under the Oslo Accords. Far-right Minister Smotrich, who spearheaded the initiative, said Israel has authorized 69 new outposts over the past three years"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "From Hamas to Hatzalah: Freed hostage Bar Kupershtein inducted as EMT at United Hatzalah Miami Gala",
-      "url": "https://www.jpost.com/israel-news/culture/article-880893",
-      "image": null,
-      "published_at": "2025-12-21T12:09:16.000Z",
-      "summary": "Kupershtein formally joins United Hatzalah as a volunteer EMT to save lives in Israel"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2270,16 +2280,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-30ca-d60f-a5db-79ce99700000/b4/c5/9b0b4f4e4ef282110278c8e6a4ad/64155526.JPG?height=81",
       "published_at": "2025-12-18T20:28:09.000Z",
       "summary": "Israelis glorify the Hasmoneans for purifying the Temple and liberating Jerusalem, but they were actually a bloodthirsty clan whose members turned on each other. The Romans put them out of everybody's misery"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Egyptian President Al-Sissi set to visit U.S., may meet with Netanyahu, source says",
-      "url": "https://www.haaretz.com/middle-east-news/2025-12-18/ty-article/.premium/egyptian-president-al-sissi-set-to-visit-u-s-may-meet-with-netanyahu-source-says/0000019b-32d7-d932-a7bf-7ff785a30000",
-      "image": "https://img.haarets.co.il/bs/0000019b-32f9-d60f-a5db-7bff600a0002/ba/05/58b351794ccea1ebd65f955da44c/207214-2.jpg?height=81",
-      "published_at": "2025-12-18T19:59:17.000Z",
-      "summary": "Relations between Netanyahu and al-Sissi have deteriorated significantly since the outbreak of the war in Gaza, but the $35 billion gas deal between the countries makes such a summit possible. However, a senior Egyptian official stressed that the deal is 'purely commercial'"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
