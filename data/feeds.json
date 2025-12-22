@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-22T08:15:15.372Z",
+  "generated_at": "2025-12-22T08:49:22.380Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Likud denies Netanyahu said Gotliv is harming reelection chances, causing party damage",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-880973",
+      "image": null,
+      "published_at": "2025-12-22T10:41:03.000Z",
+      "summary": "Aides to Prime Minister Benjamin Netanyahu deny a leak claiming MK Tally Gotliv harms Likud electorally, calling it baseless. This dispute follows her interview and party debate before elections."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -12,6 +22,46 @@
       "summary": "The data points to widespread dissatisfaction and persistent managerial failures across the nine Bedouin local authorities operating in the Negev."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מטווח עם רובי ציד, פצצות - וסרטון דאעש נגד \"פשעי הציונים\" | תיעודים חדשים של המחבלים מסידני",
+      "url": "https://www.ynet.co.il/news/article/b1vzkylqzx",
+      "image": null,
+      "published_at": "2025-12-22T08:42:41.000Z",
+      "summary": "באוסטרליה חשפו פרטים חדשים על ההכנות של המחבלים סג'יד ונאביד אכרם, אב ובנו, לטבח החנוכה בבונדיי ביץ'. הם ערכו אימוני מטווח באזור מבודד באוקטובר, ואז גם צילמו סרטון שבו קראו פסוק מהקוראן לצד דגל דאעש וגינו את \"מעשי הציונים\". יומיים לפני המתקפה ערכו סיור מקדים בזירת הטבח, ובחנו את הגשר שממנו פתחו באש "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "היועמ\"שית נגד ההחלטה לסגירת גל\"צ: \"חלק ממהלך כולל, חשש לשיקולים זרים\"",
+      "url": "https://www.ynet.co.il/news/article/skxlrdlmwl",
+      "image": null,
+      "published_at": "2025-12-22T08:37:25.000Z",
+      "summary": "בחוות דעת שחיברו המשנים ליועמ\"שית נכתב כי ההצעה שיביא שר הביטחון כ\"ץ לממשלה \"לא יכולה לעמוד מבחינה משפטית\". הם טענו כי מדובר ב\"מהלך לפגיעה בשידור הציבורי ולהגבלת חופש הביטוי - וקידומה מנוגד לדין\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Thousands of Serbians protest government pressure on universities",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/thousands-of-serbians-protest-government-pressure-on-universities?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-22T08:30:29.000Z",
+      "summary": "Thousands of demonstrators in Serbia gathered in Novi Pazar on Sunday to protest government pressures on universities."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "All pupils kidnapped from Nigeria Catholic school now free - officials",
+      "url": "https://www.bbc.com/news/articles/c3d03943zg8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5248/live/a8af1220-df0d-11f0-8db4-97f4d263443d.jpg",
+      "published_at": "2025-12-22T08:18:19.000Z",
+      "summary": "The authorities confirm the remaining students abducted in Niger state last month have been released."
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -20,6 +70,16 @@
       "image": null,
       "published_at": "2025-12-22T08:08:40.000Z",
       "summary": "A statement from police, released after defendant Naveed Akram appeared in court, details how he and his father trained for the terror attack, and their 'justification' for it\nThe post Bondi gunmen threw bombs that didn&#8217;t go off, condemned &#8216;Zionists&#8217; before attack — police appeared"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Japan set to restart world’s biggest nuclear power plant",
+      "url": "https://www.aljazeera.com/news/2025/12/22/japan-set-to-restart-worlds-biggest-nuclear-power-plant?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-22T08:02:30.000Z",
+      "summary": "Kashiwazaki-Kariwa will be latest plant to restart 15 years after Fukushima disaster shut down country&#039;s nuclear energy."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -75,11 +135,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Investigators probing Ukraine link as Moscow car bomb kills Russian general",
+      "title": "Car bomb kills Russian general in Moscow",
       "url": "https://www.aljazeera.com/news/2025/12/22/moscow-car-bomb-kills-russian-general?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-22T07:33:58.000Z",
-      "summary": "Investigators say possibility that attack is linked to Ukrainian special forces is one line of inquiry."
+      "summary": "Investigators say the possibility that the attack is linked to Ukrainian special forces is one line of inquiry."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -225,7 +285,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Bone marrow bank founded by families of fallen soldiers save first lives of cancer patients",
+      "title": "Bone marrow bank founded by families of fallen soldiers saves first lives of cancer patients",
       "url": "https://www.jpost.com/israel-news/article-880956",
       "image": null,
       "published_at": "2025-12-22T04:07:33.000Z",
@@ -340,16 +400,6 @@
       "image": null,
       "published_at": "2025-12-22T02:34:34.000Z",
       "summary": "Despite constant stream of online hate, visiting creators say they receive more love than vitriol as they fight disinformation and bolster Jewish pride post-Oct. 7\nThe post Converging in the Holy Land, pro-Israel influencers brush off death threats and trolls appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Another 130 abducted schoolchildren released in Nigeria",
-      "url": "https://www.bbc.com/news/articles/c3d03943zg8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/039a/live/ca38a120-ded3-11f0-aae2-2191c0e48a3b.jpg",
-      "published_at": "2025-12-22T02:25:22.000Z",
-      "summary": "Nigerian authorities confirm the remaining students kidnapped from a Catholic school last month have been freed."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1172,16 +1222,6 @@
       "summary": "With a record deployment of emissaries, the Jewish Agency reinforces Jewish identity, communal resilience, and global solidarity at a critical moment."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "גננת מהשרון חשודה שתקפה תינוקת בת 4 חודשים: \"סובלת משבר בגולגולת\"",
-      "url": "https://www.ynet.co.il/news/article/bjvxqcbqbg",
-      "image": null,
-      "published_at": "2025-12-21T16:24:36.000Z",
-      "summary": "הגננת (27), אם לשני ילדים בעצמה, חשודה כי גרמה לשבר בגולגולת של התינוקת בזמן שטיפלה בה בפעוטון בקדימה צורן. סנגורה טען: \"אין לה קשר לחשדות, גם היא רוצה להגיע לחקר האמת\". מעצרה הוארך בארבעה ימים"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1190,16 +1230,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-41ad-d8bb-a7fb-dfbd44470000/6d/52/fa673658446ab1c706c3168de88d/303103.jpg?height=81",
       "published_at": "2025-12-21T16:14:12.000Z",
       "summary": "According to Palestinian outlets, IDF soldiers then arrested several Palestinian residents of the Kafr Qaddum area. A 22-year-old Israeli citizen was wounded by rocks thrown at the site, and he was later evacuated to a hospital"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ארה\"ב משתלטת על מכליות נפט - ונצואלה מאיימת: \"נעניש אתכם, איראן איתנו\"",
-      "url": "https://www.ynet.co.il/news/article/rjn4y9hqwx",
-      "image": null,
-      "published_at": "2025-12-21T15:55:20.000Z",
-      "summary": "ימים אחרי הכרזת טראמפ על \"מצור נפט\" בקריביים השתלטו הכוחות האמריקניים על מכלית שיצאה מוונצואלה. במדינה הלטינית כינו את ההשתלטות \"גניבה וחטיפה\", והזהירו שבעלת הברית איראן הציעה תמיכה כדי להיאבק \"בטרור הבינלאומי\" של ארה\"ב. אחר הצהריים דווח שארה\"ב נערכת לתפיסת מכלית נוספת, שלישית בתוך שבועיים. ברקע: הל"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1310,26 +1340,6 @@
       "image": null,
       "published_at": "2025-12-21T14:09:26.000Z",
       "summary": "As Gaza’s displaced Palestinians suffer from winter storms, UNICEF explains the basic needs essential to save children."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Epstein files: Whose names and photos are in the latest document drop?",
-      "url": "https://www.aljazeera.com/news/2025/12/21/epstein-files-whose-names-and-photos-are-in-the-latest-document-drop?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-21T13:51:46.000Z",
-      "summary": "The latest trove of legal documents has been heavily redacted, but several famous figures are recognisable."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Can Alliance of Sahel States find a way to curb advance of armed groups?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/21/can-alliance-of-sahel-states-find-a-way-to-curb-advance-of-armed-groups?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-21T13:46:56.000Z",
-      "summary": "Leaders from Mali, Niger and Burkina Faso are hoping to find a way to repel advancing fighters linked to al-Qaeda. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1650,16 +1660,6 @@
       "image": null,
       "published_at": "2025-12-20T20:43:02.000Z",
       "summary": "Terrorists were shot dead for hurling stones and attempting an attack with explosives in separate incidents near Jenin, in the West Bank."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF detains suspected ISIS operative in southern Syria, confiscates weapons",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-880831",
-      "image": null,
-      "published_at": "2025-12-20T19:43:50.000Z",
-      "summary": "IDF soldiers detained the man for suspected involvement in terror activities, as well as confiscated weaponry found along the border near the Golan Heights."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
