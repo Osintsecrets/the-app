@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-22T20:40:51.276Z",
+  "generated_at": "2025-12-22T21:08:13.641Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Spain's Christmas lottery sees residents of one town win 468 million euros",
+      "url": "https://www.bbc.com/news/articles/cz7ndpq42y0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a538/live/7a3dd420-df77-11f0-9ae0-035f4c136d6c.jpg",
+      "published_at": "2025-12-22T21:03:47.000Z",
+      "summary": "The town of La Bañeza, which has a population of around 11,000, was badly affected by wildfires in the summer. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Boxer Ty Mitchell tells Al Jazeera why he had to confront Tommy Robinson",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/boxer-ty-mitchell-tells-al-jazeera-why-he-had-to-confront-tommy-robinson?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-22T20:58:04.000Z",
+      "summary": "Boxer Ty Mitchell told Al Jazeera why he had to confront far-right British activist Tommy Robinson."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Haredim block traffic on Route 4 in protest of arrests of draft-dodgers",
+      "url": "https://www.timesofisrael.com/haredim-block-traffic-on-route-4-in-protest-of-arrests-of-draft-dodgers/",
+      "image": null,
+      "published_at": "2025-12-22T20:57:10.000Z",
+      "summary": "Police say protesters called them 'Nazis'; female motorist confronts Haredi crowd, prompting cries of 'Shiksa!'\nThe post Haredim block traffic on Route 4 in protest of arrests of draft-dodgers appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Canada names new ambassador to US as key trade talks loom",
+      "url": "https://www.aljazeera.com/news/2025/12/22/canada-names-new-ambassador-to-the-united-states-with-emphasis-on-trade?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-22T20:56:32.000Z",
+      "summary": "Terms of North American free trade deal set to be renegotiated in 2026 under shadow of US tariff policies."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +50,36 @@
       "image": null,
       "published_at": "2025-12-22T20:54:46.000Z",
       "summary": "Yair Lapid, who also briefly served in the role, called it the \"most serious treason case in the history of the State.”"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Fierce Trump critic George Conway to run in crowded New York Democratic congressional primary",
+      "url": "https://www.haaretz.com/us-news/2025-12-22/ty-article/.premium/fierce-trump-critic-george-conway-to-run-in-crowded-ny-democratic-congressional-primary/0000019b-4754-d034-ab9b-c7df26db0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-47bf-df6b-a7db-f7bf91870000/15/ea/137516b8488eb71fed74d0436ce0/278255.jpg?height=81",
+      "published_at": "2025-12-22T20:53:54.000Z",
+      "summary": "Conway, a former Republican, will run as a Democrat in the primary to replace retiring U.S. Rep. Jerry Nadler in what is considered the nation's most Jewish district. He has been critical of Israel and of the Biden administration's actions in the Gaza war"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Deadly clashes break out in Aleppo between Syrian army, Kurdish-led SDF",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/deadly-clashes-break-out-in-aleppo-between-syrian-army-kurdish-led-sdf?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-22T20:41:54.000Z",
+      "summary": "At least two people have been killed in clashes between government forces and the Kurdish-led Syrian Democratic Forces."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "13% of Republicans attending Turning Point USA deem Israel 'not a U.S. ally'",
+      "url": "https://www.haaretz.com/israel-news/2025-12-22/ty-article/.premium/13-of-republicans-attending-turning-point-usa-deem-israel-not-a-u-s-ally/0000019b-4790-d02f-a7ff-d7dbcf170000",
+      "image": "https://img.haarets.co.il/bs/0000019b-47a7-d02f-a7ff-d7fff7e00000/aa/1e/3c32b102471798f27e4033614075/191137.jpg?height=81",
+      "published_at": "2025-12-22T20:37:16.000Z",
+      "summary": "'Israel is an important ally, and there are things we'll certainly work on together,' Vice President JD Vance said at a conference of the movement once led by the slain Charlie Kirk, 'but we're also going to have very substantive disagreements with Israel, and that's OK'"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -49,7 +119,7 @@
       "url": "https://www.ynet.co.il/news/article/byimm7wqwl",
       "image": null,
       "published_at": "2025-12-22T20:13:24.000Z",
-      "summary": "הנאשם בפרשת קטאר-גייט טוען כי צחי ברוורמן, אחד המקורבים ביותר לנתניהו, הזעיק אותו לקריה ואמר לו שיש חקירה במחלקת ביטחון המידע: \"הוא הציג לי רשימה בחניון קומה מינוס 4, שאל אותי אם אני מזהה את אחד השמות, ואמר - 'אני יכול לכבות את זה'\". בראיון לחדשות כאן הוא סיפר כי שיתף בכך את אוריך"
+      "summary": "הנאשם בפרשת המסמכים הסודיים טוען כי צחי ברוורמן, מהמקורבים ביותר לנתניהו, הזעיק אותו לקריה ואמר לו שיש חקירה במחלקת ביטחון המידע: \"הוא הציג לי רשימה, שאל אם אני מזהה את אחד השמות, ואמר - 'אני יכול לכבות את זה'\". בראיון לכאן 11 הוא סיפר כי שיתף בכך את אוריך. נתניהו מתנער מפלדשטיין: \"שקרים\". ברוורמן: "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -117,7 +187,7 @@
       "topic": "News",
       "title": "Russia escalates attacks on key Ukrainian region of Odesa",
       "url": "https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/099a/live/59b289a0-df61-11f0-a7ad-b72dffdf9dfd.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c364/live/51386230-df76-11f0-9525-7999bb394c48.jpg",
       "published_at": "2025-12-22T19:25:23.000Z",
       "summary": "President Volodymyr Zelensky warned the attacks were an attempt by Moscow to block Ukraine's access to maritime logistics. "
     },
@@ -587,7 +657,7 @@
       "topic": "News",
       "title": "New Trump envoy says he will serve to make Greenland part of US",
       "url": "https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b728/live/7ce2a340-df54-11f0-a8dc-93c15fe68710.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaa3/live/cd87d9a0-df77-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2025-12-22T15:49:12.000Z",
       "summary": "Denmark warns Washington to respect its sovereignty, while Greenland says it will decide its own future."
     },
@@ -1032,26 +1102,6 @@
       "summary": "The bill proposal will be brought to an initial Knesset vote on Wednesday; under it, the government would have complete control over the topics being investigated, including the judiciary."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Voices of Gaza: The Great Omari Mosque’s 2,000‑year history lies in ruins",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/voices-of-gaza-the-great-omari-mosques-2000%e2%80%91year-history-lies-in-ruins?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-22T12:46:39.000Z",
-      "summary": "The Great Omari Mosque is one of Gaza City’s most significant landmarks, with origins dating back more than 2,000 years."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Syria’s government curbing once-booming Captagon industry: UN report",
-      "url": "https://www.aljazeera.com/news/2025/12/22/syrias-government-curbing-once-booming-captagon-industry-un-report?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-22T12:40:42.000Z",
-      "summary": "Authorities have shuttered drug factories that were cash pipeline for former ruler Bashar al-Assad, UN report."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1060,16 +1110,6 @@
       "image": null,
       "published_at": "2025-12-22T12:39:36.000Z",
       "summary": "פרסום ראשון: שרי האוצר והביטחון סיכמו עם פיקוד המרכז כי כבר בפורים יוכלו משפחות להתיישב בשא-נור, שפונה במסגרת ההתנתקות. את המהלך דחף סמוטריץ', אחרי שבקבינט אושרה הקמת 19 יישובים חדשים ביו\"ש"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Are US oil tanker seizures off Venezuela legal or acts of piracy?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/are-us-oil-tanker-seizures-off-venezuela-legal-or-acts-of-piracy?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-22T12:38:23.000Z",
-      "summary": "The US says it’s pursuing a third tanker off Venezuela’s coast as part of its naval blockade of Venezuelan oil."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1150,16 +1190,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-45a2-dac2-a9bb-e7e3ce5b0001/d5/fa/0c44594846f89a6eff84520e106a/158537.jpg?height=81",
       "published_at": "2025-12-22T11:31:56.000Z",
       "summary": "This is the leaders' first joint meeting since the outbreak of the Gaza war. According to a Greek news report, the three countries are initiating a joint military force against the backdrop of what an Israeli diplomatic source called Turkey's unconstructive role in the Middle East"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Former spy Jonathan Pollard: Israel sent a man to convince me to kill myself",
-      "url": "https://www.timesofisrael.com/former-spy-jonathan-pollard-israel-sent-a-man-to-convince-me-to-kill-myself/",
-      "image": null,
-      "published_at": "2025-12-22T11:06:24.000Z",
-      "summary": "In Army Radio interview, Pollard says Israeli agent told him: 'Why don't you just do the right thing and we'll bring you home, give you a nice burial on Mount Herzl'\nThe post Former spy Jonathan Pollard: Israel sent a man to convince me to kill myself appeared first on The Times of Israel.\n"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2310,26 +2340,6 @@
       "image": "https://img.haarets.co.il/bs/00000198-f5aa-d2dc-afde-fdbbf5300001/08/1a/13b752ea463d944293d00bbaf84a/362166.jpg?height=81",
       "published_at": "2025-12-19T04:01:31.000Z",
       "summary": "The U.S. president says insists that the second phase of Gaza plan is a done deal - but complains that obstacles keep piling up - and his administration fears that Israel is intentionally trying to sabotage it ■ Meanwhile, the prime minister will take off for the U.S. while all fronts - Gaza, Lebano"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israeli strike on Gaza City shelter kills five, hospital chief says; IDF: Incident under review",
-      "url": "https://www.haaretz.com/israel-news/2025-12-19/ty-article-live/trump-says-no-meeting-scheduled-with-netanyahu-but-he-would-like-to-see-me/0000019b-3486-d8f0-a9db-75febd480000",
-      "image": "https://img.haarets.co.il/bs/0000019b-397f-d932-a7bf-7f7fdec40000/01/c6/943037654e76bd5dcf4ee55e2709/171988.jpg?height=81",
-      "published_at": "2025-12-19T03:04:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "The boycott boomerang: Isolating Israeli artists strengthens the far right and abandons Palestine's natural allies",
-      "url": "https://www.haaretz.com/opinion/2025-12-19/ty-article-opinion/.premium/isolating-israeli-artists-strengthens-the-far-right-abandons-palestines-natural-allies/0000019b-327d-d932-a7bf-7f7d3f080000",
-      "image": "https://img.haarets.co.il/bs/0000019b-2262-d932-a7bf-6f630bd80000/a0/33/c187c6334c14a93b46d6f239ff89/258401.jpg?height=81",
-      "published_at": "2025-12-18T23:31:33.000Z",
-      "summary": ""
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
