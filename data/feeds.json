@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-23T21:09:08.157Z",
+  "generated_at": "2025-12-23T21:36:48.078Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israeli sports icon Avi Meller passes away at 72 after battle with cancer",
+      "url": "https://www.jpost.com/israel-news/sports/article-881173",
+      "image": null,
+      "published_at": "2025-12-23T23:32:06.000Z",
+      "summary": "One of the most veteran and recognizable broadcasters and soccer commentators in the country, Meller was regarded as one of Israel’s leading experts on world soccer."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -12,6 +22,66 @@
       "summary": "Israeli Ambassador to the UN Danny Danon told The Jerusalem Post that the figure reflects a network of UN bodies, committees, and mechanisms structurally embedded in the organization’s budget."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Libya's army chief killed in air crash in Turkey",
+      "url": "https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bb/live/8697f930-e044-11f0-a9a2-693a1a1aa5e1.jpg",
+      "published_at": "2025-12-23T21:33:42.000Z",
+      "summary": "Signal was earlier lost with a jet that took off from Ankara with Gen Mohammed Ali Ahmed al-Haddad and four others on board."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israel only knows how to demolish Palestinian homes",
+      "url": "https://www.haaretz.com/opinion/editorial/2025-12-23/ty-article-opinion/israel-only-knows-how-to-demolish-palestinian-homes/0000019b-4d05-d02f-a7ff-dddf245c0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-467f-d9e4-a3bb-cf7f61750001/1b/31/2a7978aa409aa79e436110a8cc25/196460.jpg?height=81",
+      "published_at": "2025-12-23T21:32:25.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "האות שנקלט ל-37 שניות, וה\"הברחה דרך החרמון\": בלבנון טוענים - כך נחטף הבכיר לשעבר",
+      "url": "https://www.ynet.co.il/news/article/r1qju0000mwl",
+      "image": null,
+      "published_at": "2025-12-23T21:31:46.000Z",
+      "summary": "\"סומם ונחטף לישראל, בין אם דרך האוויר ובין אם דרך הים\". בלבנון דיווחו שאחמד שוכר, קצין בכיר לשעבר, נעלם כבר לפני כשבוע - וככל שחולף הזמן כך מתחזק החשד ש\"נחטף\" בידי המוסד. אגף החקירות במדינה טען שאסף מצלמות וחשף רמזים המצביעים: \"היה קורבן למבצע מתוכנן בקפידה\". הקשר למזכ\"ל חיזבאללה שחוסל - ולהיעלמות ש"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Deputy head of Shin Bet quits amid reports of serious clashes with new chief Zini",
+      "url": "https://www.timesofisrael.com/deputy-head-of-shin-bet-quits-amid-reports-of-serious-clashes-with-new-chief-zini/",
+      "image": null,
+      "published_at": "2025-12-23T21:26:09.000Z",
+      "summary": "Resignation of the veteran security agency official comes after the former general's troubled appointment process\nThe post Deputy head of Shin Bet quits amid reports of serious clashes with new chief Zini appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Haaretz Cartoon",
+      "url": "https://www.haaretz.com/opinion/daily-cartoon/2025-12-23/ty-article-opinion/haaretz-cartoon/0000019b-4d0e-d866-abff-7f7f14980000",
+      "image": "https://img.haarets.co.il/bs/0000019b-4d0e-d2b2-affb-5f6eb5250001/31/46/5e67fc2c4f4c9488cf6e349cda72/image-2025-12-23-131317354.png?height=81",
+      "published_at": "2025-12-23T21:14:14.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Belgium joins South Africa’s genocide case against Israel at ICJ",
+      "url": "https://www.aljazeera.com/news/2025/12/23/belgium-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-23T21:11:38.000Z",
+      "summary": "Other countries, including Brazil, Colombia, Ireland, Mexico, Spain and Turkiye, have already joined case in The Hague."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -20,16 +90,6 @@
       "image": null,
       "published_at": "2025-12-23T21:09:33.000Z",
       "summary": "Bennett stated that while he would not claim Netanyahu ordered his advisers to act on behalf of Qatar, he should have \"been the first to cry out and take action\" when the affair was revealed."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Libya's army chief killed in air crash in Turkey",
-      "url": "https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d62/live/5293cc10-e03d-11f0-850a-7daea2f44dd4.jpg",
-      "published_at": "2025-12-23T21:03:01.000Z",
-      "summary": "Signal was earlier lost with a jet that took off from Ankara with Gen Mohammed Ali Ahmed al-Haddad and four others on board."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -52,14 +112,34 @@
       "summary": "יועצו לשעבר של רה\"מ טען כי בשיחת ועידה עם אוריך, נתניהו הודה לו על הפרסום ב\"בילד\", ויחד נערכו עם תגובה לשאילתה תפורה שנועדה להראות \"שהצבא מסתיר מידע מהדרג המדיני\". הוא הוסיף כי הטענה שרה\"מ נחשף למסמך בתקשורת \"היא שקר\", וסיכם: \"מה שאני עשיתי שירת את הבוס שלי. אני עמדתי במשימה שלי\""
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "How will Syria deal with its growing security challenges?",
+      "url": "https://www.aljazeera.com/video/inside-story/2025/12/23/how-will-syria-deal-with-its-growing-security-challenges?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-23T20:59:14.000Z",
+      "summary": "Renewed fighting between army and SDF highlights volatility."
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
       "title": "Lebanon denies any army link to Hezbollah after Israeli strike",
       "url": "https://www.haaretz.com/israel-news/2025-12-23/ty-article/lebanon-denies-any-army-link-to-hezbollah-after-israeli-strike/0000019b-4cee-d2b2-affb-5eee77a90000",
-      "image": null,
+      "image": "https://img.haarets.co.il/bs/0000019a-cddc-dcd7-a3be-dffd85ed0000/d9/97/8a29db744fda905deca10603bba2/941594.jpg?height=81",
       "published_at": "2025-12-23T20:56:08.000Z",
       "summary": "The Israeli military said it killed three Hezbollah militants near Sidon in southern Lebanon. 'From an initial review, it was found that one of the terrorists eliminated during the strike simultaneously served in the Lebanese intelligence unit,' the IDF said"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Venezuela passes law enacting harsh penalties for supporters of US blockade",
+      "url": "https://www.aljazeera.com/news/2025/12/23/venezuela-passes-law-enacting-harsh-penalties-for-supporters-of-us-blockade?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-23T20:53:49.000Z",
+      "summary": "Government of President Nicolas Maduro denounces US seizure of oil tankers as illegal acts of piracy. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -485,11 +565,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "בגלל משבר אמון עם דוד זיני - סגן ראש השב\"כ פורש מתפקידו",
+      "title": "חודשיים וחצי אחרי שדוד זיני נכנס לתפקיד: סגן ראש השב\"כ פורש מתפקידו",
       "url": "https://www.ynet.co.il/news/article/ryzawuu7zx",
       "image": null,
       "published_at": "2025-12-23T18:02:56.000Z",
-      "summary": "רעידת אדמה בשירות: ש' פורש אחרי 30 שנים בשב\"כ, לאחר עימות עם זיני ומשבר אמון ביניהם. בין המחלוקות: דיווח של ש' לבג\"ץ על פגישות של זיני עם איש השב\"כ שחשוד בהדלפה. \"זיני קיבל את בקשת ש' לסיים את תפקידו\", אמרו בשב\"כ"
+      "summary": "רעידת אדמה בשירות: ש' פורש אחרי 30 שנים בשב\"כ, לאחר עימות עם זיני ומשבר אמון. בין המחלוקות: דיווח של ש' לבג\"ץ על פגישות של זיני עם איש השירות שחשוד בהדלפה. \"זיני קיבל את בקשת ש' לסיים את תפקידו\", אמרו בשב\"כ"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -812,16 +892,6 @@
       "summary": "By the time the High Court hearing takes place in late January, elements of the dismantling process may already be underway."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Katz vows Israel will build settlements in northern Gaza, later walks back comments",
-      "url": "https://www.timesofisrael.com/katz-vows-israel-will-build-settlements-in-northern-gaza-later-walks-back-comments/",
-      "image": null,
-      "published_at": "2025-12-23T14:51:53.000Z",
-      "summary": "Defense minister's original remarks came in defiance of positions taken by Netanyahu and Trump; Smotrich calls on PM to push West Bank annexation at meeting with US president\nThe post Katz vows Israel will build settlements in northern Gaza, later walks back comments appeared first on The Times of I"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -892,16 +962,6 @@
       "summary": "Police arrest three people outside insurer of Israeli arms maker Elbit, including Thunberg for holding placard."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Palestine Action hunger strikers launch legal action against UK government",
-      "url": "https://www.aljazeera.com/news/2025/12/23/palestine-action-hunger-strikers-launch-legal-action-against-government?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-23T14:03:51.000Z",
-      "summary": "Lawyers of the group threaten court proceedings as top ministers refuse to meet them to discuss the protesters&#039; welfare."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -930,16 +990,6 @@
       "image": "https://img.haarets.co.il/bs/0000017f-e22c-d38f-a57f-e67e58f20000/4f/82/0d42a6ef28cad321f21501c31bd9/1976481838.jpeg?height=81",
       "published_at": "2025-12-23T13:58:24.000Z",
       "summary": "Mahmoud Hibi, an Israeli citizen from a Bedouin town in the north, is the 245th Arab citizen of Israel killed in 2025, marking an annual record for the number of murders in Israeli Arab society"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Scorching the Monk Forest: Israel’s ecocide in southern Lebanon",
-      "url": "https://www.aljazeera.com/features/2025/12/23/scorching-the-monk-forest-israels-ecocide-in-southern-lebanon?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-23T13:57:00.000Z",
-      "summary": "From white phosphorus to bulldozers, destruction of South Lebanon&#039;s woodlands shows how war was waged against ecosystem."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -980,16 +1030,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-4b51-d2b2-affb-5f7f117c0000/72/d7/4279c3d0456da5aaa085ded71b16/837524-5.jpg?height=81",
       "published_at": "2025-12-23T13:48:46.000Z",
       "summary": "Netanyahu denied the allegations against his adviser despite Urich's attorney admitting in court that his client worked for Qatar. Netanyahu aide Eli Feldstein – interviewed for the first time since allegations emerged against him – also said that the Israeli PM's chief of staff told him ahead of ti"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Why is Russia escalating attacks on Ukraine’s Odesa?",
-      "url": "https://www.aljazeera.com/news/2025/12/23/why-is-russia-escalating-attacks-on-ukraines-odesa?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-23T13:42:17.000Z",
-      "summary": "Russia is targeting ports critical for Ukrainian exports."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1362,16 +1402,6 @@
       "summary": "The Mexican Navy plane was transporting a child to the US on behalf of a charity which cares for burns victims."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בצל הצו בהאג: נחשפו עלויות הטיסות של נתניהו ב-2025",
-      "url": "https://www.ynet.co.il/news/article/ry9mmrvxwg",
-      "image": null,
-      "published_at": "2025-12-23T08:56:30.000Z",
-      "summary": "כ-42 אלף דולר לסוויטה בכינוס עצרת האו\"ם בניו יורק: רה\"מ המריא ארבע פעמים בשנה האחרונה, לחמישה יעדים - וצפוי בשבוע הבא גם להגיע לביקור נוסף בארה\"ב, הפעם בפלורידה. כמה עלתה הטיסה בכנף ציון לוושינגטון בפברואר, ומתי היה האירוח על חשבון האמריקנים? כל הנתונים"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1730,16 +1760,6 @@
       "image": null,
       "published_at": "2025-12-22T19:08:53.000Z",
       "summary": "MDA evacuated five of the wounded individuals, including two of the Palestinians, to the Shaare Zedek Medical Center and Hadassah-University Medical Center for further medical treatment."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Seven hurt in car accident on Highway 6, toddler evacuated to hospital with head injury",
-      "url": "https://www.jpost.com/israel-news/article-881032",
-      "image": null,
-      "published_at": "2025-12-22T18:56:55.000Z",
-      "summary": "MDA said paramedics treated seven injured in a Highway 6 accident, including a three year old boy taken to Rambam with a head injury."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2170,26 +2190,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-414b-d24e-a39f-cddb182a0000/40/44/07a120cc430899ec8727a984cb34/053233.jpg?height=81",
       "published_at": "2025-12-21T16:35:03.000Z",
       "summary": "The Attorney General will likely recommend National Security Minister Ben-Gvir's dismissal for his interference in police matters, but this year's record number of murders shows the need for his definitive ouster"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israel Police call memorial protest for six Gaza hostages murdered in Rafah 'political demonstration against government'",
-      "url": "https://www.haaretz.com/israel-news/2025-12-21/ty-article/.premium/israel-police-memorial-protest-for-hostages-political-demonstration-against-government/0000019b-41bd-dbc2-adbb-cbbf590a0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-4203-dedd-a59b-eaf78d1b0003/c1/86/bb31ca394698b3354b18e0d0be17/whatsapp-image-2025-12-16-at-16-50-29.jpeg?height=81",
-      "published_at": "2025-12-21T16:34:26.000Z",
-      "summary": "The police have opened an investigation after a protester lit Hannukah candles near the home of the Israeli educaiton minister and read out the names of the six hostages who were killed in a tunnel in Gaza last year"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Reports: Israeli settlers clash with Palestinians in West Bank, several wounded by IDF fire",
-      "url": "https://www.haaretz.com/israel-news/2025-12-21/ty-article/.premium/reports-israeli-settlers-clash-with-palestinians-in-west-bank-several-wounded-by-idf/0000019b-41a6-dab8-ad9f-71ae61460000",
-      "image": "https://img.haarets.co.il/bs/0000019b-41ad-d8bb-a7fb-dfbd44470000/6d/52/fa673658446ab1c706c3168de88d/303103.jpg?height=81",
-      "published_at": "2025-12-21T16:14:12.000Z",
-      "summary": "According to Palestinian outlets, IDF soldiers then arrested several Palestinian residents of the Kafr Qaddum area. A 22-year-old Israeli citizen was wounded by rocks thrown at the site, and he was later evacuated to a hospital"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
