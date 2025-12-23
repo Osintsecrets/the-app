@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-12-23T08:14:58.258Z",
+  "generated_at": "2025-12-23T08:48:32.108Z",
   "items": [
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Gaza buildings bombed by Israel become refuge for Palestinians",
+      "url": "https://www.aljazeera.com/gallery/2025/12/23/gaza-families-rebuild-lives-amidst-ruins-struggle-for-normalcy?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-23T08:32:49.000Z",
+      "summary": "Halawa family adapts to shattered surroundings, finding resilience in every corner of their damaged Gaza City residence."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israeli settlers injure Palestinians, kill livestock in OWB",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/23/israeli-settlers-injure-palestinians-kill-livestock-in-owb?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-23T08:30:55.000Z",
+      "summary": "Armed Israeli settlers attacked Palestinian property in Hebron, in the occupied West Bank, injuring three people."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -85,7 +105,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Russia-Ukraine war live: One killed in Kyiv, dozens injured across Ukraine",
+      "title": "Russia-Ukraine war live: Child among 3 killed in Russian attacks on Ukraine",
       "url": "https://www.aljazeera.com/news/liveblog/2025/12/23/russia-ukraine-war-live-2?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-23T07:41:53.000Z",
@@ -475,7 +495,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "If secular, liberal Tel Aviv must have a Chief Rabbi, if has to be someone who fits the city",
+      "title": "If secular, liberal Tel Aviv must have a chief rabbi, it has to be someone who fits the city",
       "url": "https://www.haaretz.com/opinion/2025-12-23/ty-article-opinion/.premium/if-secular-tel-aviv-must-have-a-chief-rabbi-if-has-to-be-someone-who-fits-the-city/0000019b-4774-d9e4-a3bb-cf7c8ed50000",
       "image": "https://img.haarets.co.il/bs/0000019b-4891-d9e4-a3bb-cdfd59db0000/88/27/0083a4444d3ba295150db79e1771/462395.jpg?height=81",
       "published_at": "2025-12-23T00:22:47.000Z",
@@ -1132,16 +1152,6 @@
       "summary": "דנה סילברמן סיטון, שמשרתת במילואים באוגדת עזה, הדליקה אתמול נר שמיני של חנוכה ברצועה. \"כל שונאינו יראו - וידעו שאת האור הזה אי-אפשר לכבות\""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Srebrenica: Genocide on Trial",
-      "url": "https://www.aljazeera.com/video/featured-documentaries/2025/12/22/srebrenica-genocide-on-trial?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-22T18:00:00.000Z",
-      "summary": "The horrors of the Srebrenica genocide in Bosnia and Herzegovina and the war crimes trials that gave birth to the ICC."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1150,16 +1160,6 @@
       "image": null,
       "published_at": "2025-12-22T17:59:20.000Z",
       "summary": "Israel Police said an illegal protest blocked Highway 4 near Bnei Brak on Monday afternoon, prompting closures and traffic diversions."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump pauses more offshore wind projects citing national security concerns",
-      "url": "https://www.aljazeera.com/economy/2025/12/22/trump-pauses-more-offshore-wind-projects-citing-national-security-concerns?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-22T17:56:01.000Z",
-      "summary": "The directive pausing five projects comes as the administration ramps up offshore oil and gas production."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
