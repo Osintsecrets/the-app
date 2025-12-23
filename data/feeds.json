@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-23T21:36:48.078Z",
+  "generated_at": "2025-12-23T22:09:17.979Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -12,6 +12,16 @@
       "summary": "One of the most veteran and recognizable broadcasters and soccer commentators in the country, Meller was regarded as one of Israel’s leading experts on world soccer."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump travelled on Epstein's plane more than previously thought, prosecutor says",
+      "url": "https://www.bbc.com/news/articles/c74xgp81pqgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7b/live/91abbb40-e003-11f0-a8dc-93c15fe68710.jpg",
+      "published_at": "2025-12-23T21:56:51.000Z",
+      "summary": "The US president has long denied any wrongdoing in relation to late convicted sex offender Jeffrey Epstein."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -20,6 +30,16 @@
       "image": null,
       "published_at": "2025-12-23T21:55:59.000Z",
       "summary": "Israeli Ambassador to the UN Danny Danon told The Jerusalem Post that the figure reflects a network of UN bodies, committees, and mechanisms structurally embedded in the organization’s budget."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "The mafioso logic behind Netanyahu's pardon request",
+      "url": "https://www.haaretz.com/opinion/2025-12-23/ty-article-opinion/.premium/the-mafioso-logic-behind-netanyahus-pardon-request/0000019b-4c72-d02f-a7ff-dcfb8a720000",
+      "image": "https://img.haarets.co.il/bs/0000019a-ffb2-d4b0-af9b-fff25ad20000/c3/8e/5cf577e1441d83f3329d713d2c3f/780226.jpg?height=81",
+      "published_at": "2025-12-23T21:34:41.000Z",
+      "summary": ""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -49,7 +69,7 @@
       "url": "https://www.ynet.co.il/news/article/r1qju0000mwl",
       "image": null,
       "published_at": "2025-12-23T21:31:46.000Z",
-      "summary": "\"סומם ונחטף לישראל, בין אם דרך האוויר ובין אם דרך הים\". בלבנון דיווחו שאחמד שוכר, קצין בכיר לשעבר, נעלם כבר לפני כשבוע - וככל שחולף הזמן כך מתחזק החשד ש\"נחטף\" בידי המוסד. אגף החקירות במדינה טען שאסף מצלמות וחשף רמזים המצביעים: \"היה קורבן למבצע מתוכנן בקפידה\". הקשר למזכ\"ל חיזבאללה שחוסל - ולהיעלמות ש"
+      "summary": "\"סומם ונחטף לישראל\". בלבנון דיווחו שאחמד שוכר, קצין בכיר לשעבר, נעלם כבר לפני כשבוע - וככל שחולף הזמן כך מתחזק שם החשד ש\"נחטף\" בידי המוסד. אגף החקירות במדינה טען שאסף מצלמות וחשף רמזים המצביעים: \"היה קורבן למבצע מתוכנן בקפידה\". הדיווחים השונים, הקשר למזכ\"ל חיזבאללה שחוסל - ולהיעלמות של רון ארד"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -352,16 +372,6 @@
       "summary": "המטוס הפרטי של רמטכ\"ל צבא לוב המריא מאנקרה לטריפולי, אך הקשר נותק אחרי ההמראה. \"המטוס ביקש לבצע נחיתת חירום, ואז הקשר אבד\", אמר שר הפנים הטורקי. בהמשך הודיע ראש ממשלת לוב שהרמטכ\"ל נהרג בהתרסקות"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump travelled on Epstein's plane more than previously thought, prosecutor says",
-      "url": "https://www.bbc.com/news/articles/c74xgp81pqgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7b/live/91abbb40-e003-11f0-a8dc-93c15fe68710.jpg",
-      "published_at": "2025-12-23T19:46:42.000Z",
-      "summary": "The US president has long denied any wrongdoing in relation to late convicted sex offender Jeffrey Epstein."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -385,11 +395,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Libyan army chief killed in plane crash near Turkiye’s capital Ankara",
+      "title": "Libyan army chief killed in plane crash near Turkiye’s capital, Ankara",
       "url": "https://www.aljazeera.com/news/2025/12/23/signal-lost-with-jet-carrying-libyan-army-chief-over-ankara-turkiye-says?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-23T19:28:30.000Z",
-      "summary": "Four other passengers on business flight that requested emergency landing after takeoff, Turkish interior minister says."
+      "summary": "Libya&#039;s PM confirms that four other Libyan passengers also died after the plane crashed shortly after takeoff."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -565,11 +575,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "חודשיים וחצי אחרי שדוד זיני נכנס לתפקיד: סגן ראש השב\"כ פורש מתפקידו",
+      "title": "\"משבר אמון עם זיני\": סגן ראש השב\"כ פורש מתפקידו",
       "url": "https://www.ynet.co.il/news/article/ryzawuu7zx",
       "image": null,
       "published_at": "2025-12-23T18:02:56.000Z",
-      "summary": "רעידת אדמה בשירות: ש' פורש אחרי 30 שנים בשב\"כ, לאחר עימות עם זיני ומשבר אמון. בין המחלוקות: דיווח של ש' לבג\"ץ על פגישות של זיני עם איש השירות שחשוד בהדלפה. \"זיני קיבל את בקשת ש' לסיים את תפקידו\", אמרו בשב\"כ"
+      "summary": "רעידת אדמה בשירות: ש' פורש אחרי 30 שנים, לפי גורמים ביטחוניים, לאחר עימות עם דוד זיני. בין המחלוקות: דיווח של ש' לבג\"ץ על פגישות של ראש השב\"כ עם איש השירות שחשוד בהדלפה. \"זיני קיבל את בקשת ש' לסיים את תפקידו\", אמרו בארגון"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -865,7 +875,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "\"הנשיא שלנו אוהב בנות צעירות ובשלות\": גילויים חדשים ומביכים לטראמפ בפרשת אפשטיין",
+      "title": "\"טראמפ, אפשטיין ובת 20 לבד במטוס\": הגילויים החדשים בפרשת אפשטיין",
       "url": "https://www.ynet.co.il/news/article/sk7hyfoxwx",
       "image": null,
       "published_at": "2025-12-23T15:10:12.000Z",
@@ -2180,16 +2190,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-4161-dbc2-adbb-cbf336ab0001/91/56/ba9969134ccf92221ca3f215dbd0/372630.jpg?height=81",
       "published_at": "2025-12-21T16:39:06.000Z",
       "summary": "Yonatan Shamriz, founder of the Kumu NGO which looks to help families affected by the October 7 massacre, said the absence of a state commission of inquiry 'goes against the values we grew up with'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israel's record homicide rate for 2025 proves: Ben-Gvir should be fired for incompetence",
-      "url": "https://www.haaretz.com/israel-news/2025-12-21/ty-article/.premium/israels-record-homicide-rate-for-2025-proves-ben-gvir-should-be-fired-for-incompetence/0000019b-4140-db2d-a7ff-ff7ddb8c0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-414b-d24e-a39f-cddb182a0000/40/44/07a120cc430899ec8727a984cb34/053233.jpg?height=81",
-      "published_at": "2025-12-21T16:35:03.000Z",
-      "summary": "The Attorney General will likely recommend National Security Minister Ben-Gvir's dismissal for his interference in police matters, but this year's record number of murders shows the need for his definitive ouster"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
