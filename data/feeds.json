@@ -1,15 +1,105 @@
 {
-  "generated_at": "2025-12-23T00:45:34.028Z",
+  "generated_at": "2025-12-23T02:47:36.779Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Feldstein says 'Netanyahu erased concept of responsability for October 7,' in first KAN interview",
+      "title": "Jewish settlers slaughter Palestinian livestock, assault family in West Bank, IDF reports",
+      "url": "https://www.jpost.com/israel-news/article-881054",
+      "image": null,
+      "published_at": "2025-12-23T03:54:25.000Z",
+      "summary": "According to the IDF, soldiers and police forces followed a report that \"several Israeli civilians had slaughtered livestock and vandalized Palestinian property."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Three killed in Israeli strike in southern Lebanon; IDF says it hit Hezbollah members near Sidon",
+      "url": "https://www.haaretz.com/israel-news/2025-12-23/ty-article-live/3-killed-in-israeli-strike-in-south-lebanon-idf-says-it-hit-hezbollah-members-near-sidon/0000019b-490a-d034-ab9b-c98f91950000",
+      "image": "https://img.haarets.co.il/bs/0000019b-3b7e-d60f-a5db-7b7ede580001/e6/8f/ff71dfbd4654a16ed255fd1abd13/142732.jpg?height=81",
+      "published_at": "2025-12-23T02:36:25.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אסון בטקסס: מטוס מקסיקני שהוביל מטופלים התרסק, בן שנתיים נהרג",
+      "url": "https://www.ynet.co.il/news/article/sywsp00dmzl",
+      "image": null,
+      "published_at": "2025-12-23T02:31:14.000Z",
+      "summary": "לפחות 5 בני אדם נהרגו בהתרסקות באי גלווסטון, על המטוס היו קצינים מקסיקנים וחברי עמותה שמסייעת לילדים שספגו כוויות קשות. הנסיבות נחקרות, בצל ערפל כבד שאפף את האזור "
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Feldstein says 'Netanyahu erased concept of responsibility for October 7,' in first KAN interview",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-881051",
       "image": null,
       "published_at": "2025-12-23T01:58:26.000Z",
       "summary": "Former military spokesman for the Prime Minister Eli Feldstein gave a public interview on Monday for the first time since he was accused over the Bild and Qatargate cases."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump warns Maduro not to ‘play tough’ as Russia, China back Venezuela",
+      "url": "https://www.aljazeera.com/news/2025/12/23/trump-warns-maduro-not-to-play-tough-as-china-russia-back-venezuela?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-23T01:43:53.000Z",
+      "summary": "Latest threat comes as US coastguard continues to pursue a third oil tanker off the coast of Venezuela."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US regulator approves pill form of Wegovy weight-loss drug",
+      "url": "https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af6b/live/bcb57630-df97-11f0-aae2-2191c0e48a3b.jpg",
+      "published_at": "2025-12-23T01:29:07.000Z",
+      "summary": "Wegovy becomes first pill of its kind to be approved, shifting weight-loss drugs beyond injections."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump says US is pursuing third oil tanker linked to Venezuela",
+      "url": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac01/live/e33d45f0-df40-11f0-aae2-2191c0e48a3b.jpg",
+      "published_at": "2025-12-23T01:29:03.000Z",
+      "summary": "The move comes days after the US president said that he was ordering a blockade of sanctioned oil tankers entering and leaving Venezuela."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Call of Duty co-creator Vince Zampella dies in California car crash ",
+      "url": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09cf/live/c3c06b50-df84-11f0-b89f-11674143d4d8.jpg",
+      "published_at": "2025-12-23T00:48:58.000Z",
+      "summary": "The influential video game developer died after his car crashed and caught fire on a highway in Los Angeles."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump unveils plans for 'Golden Fleet' battleships named after himself",
+      "url": "https://www.bbc.com/news/articles/c2084nq2npjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff85/live/c94254d0-df84-11f0-b89f-11674143d4d8.jpg",
+      "published_at": "2025-12-23T00:36:38.000Z",
+      "summary": "The US president has vowed to revive American shipbuilding after lagging behind China in naval capacity. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "What the underwhelming Epstein files release means for Trump and Maga",
+      "url": "https://www.bbc.com/news/articles/cy95w0x9889o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ca/live/5f75b820-df30-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2025-12-23T00:24:25.000Z",
+      "summary": "Conservative influencers were conspicuously silent following the latest release - but political danger remains for the president."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -20,6 +110,16 @@
       "image": "https://img.haarets.co.il/bs/0000019b-4891-d9e4-a3bb-cdfd59db0000/88/27/0083a4444d3ba295150db79e1771/462395.jpg?height=81",
       "published_at": "2025-12-23T00:22:47.000Z",
       "summary": ""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "The showers and baths keeping data centre tech cool",
+      "url": "https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/949d/live/c590f8c0-d032-11f0-9fb5-5f3a3703a365.jpg",
+      "published_at": "2025-12-23T00:04:45.000Z",
+      "summary": "Finding greener ways to keep giant new data centres cool is a challenge."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -42,6 +142,16 @@
       "summary": "Denmark warns Washington to respect its sovereignty, while Greenland says it will decide its own future."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "India's jobs guarantee scheme: A global model under threat? ",
+      "url": "https://www.bbc.com/news/articles/c1lr980vvjpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3919/live/1d7cf470-db6a-11f0-aae2-2191c0e48a3b.jpg",
+      "published_at": "2025-12-22T23:33:51.000Z",
+      "summary": "India’s rural jobs guarantee, a global model, faces controversy as a new law reshapes the original scheme."
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -50,6 +160,16 @@
       "image": "https://img.haarets.co.il/bs/00000195-3c41-d96e-a9d7-fdef3e7c0000/2e/b3/e45c319b4bcb86b47d5ee70f1978/60583365.JPG?height=81",
       "published_at": "2025-12-22T23:19:52.000Z",
       "summary": ""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Screams for help and panic as tourists rescued from fatal Laos ferry disaster",
+      "url": "https://www.bbc.com/news/articles/cx2gk56pd5eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/83d53af0-df2c-11f0-b6a6-1bf5f87ee304.jpg",
+      "published_at": "2025-12-22T23:19:10.000Z",
+      "summary": "People scrambled to safety as the ferry sank on the Mekong River, with a local woman and two children feared dead."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -125,7 +245,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "נורה במסעדה, לעיני אחיו: לראשונה מקום המדינה - 250 נרצחים בשנה בחברה הערבית",
+      "title": "נורה במספרה, לעיני אחיו: לראשונה מקום המדינה - 250 נרצחים בשנה בחברה הערבית",
       "url": "https://www.ynet.co.il/news/article/b1yobnpx11g",
       "image": null,
       "published_at": "2025-12-22T22:08:54.000Z",
@@ -165,21 +285,21 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "חשש אמיתי לבגידה",
-      "url": "https://www.ynet.co.il/news/article/yokra14622435",
-      "image": null,
-      "published_at": "2025-12-22T22:05:00.000Z",
-      "summary": "איך זה שיועצי נתניהו הפכו את מצרים לאויבת, לפי הוראות קטאר? איך זה שהם פעלו למען המדינה שהיא המוקד העולמי של האחים המוסלמים, בדיוק כשישראל הפכה למדינה השנואה ביותר בעולם? איזו הגדרה מתאימה למצב הזה?"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "סגירת גל\"צ - תנועת מלקחיים",
       "url": "https://www.ynet.co.il/news/article/yokra14622082",
       "image": null,
       "published_at": "2025-12-22T22:05:00.000Z",
       "summary": "אנו חוזים בתנועת מלקחיים בנושא חופש הביטוי. מצד אחד חוק התקשורת שמוביל השר קרעי (מה שווה התאגיד אם אנחנו לא שולטים בו). ומהצד השני סגירת גל\"צ שמוביל שר הביטחון כ\"ץ"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "חשש אמיתי לבגידה",
+      "url": "https://www.ynet.co.il/news/article/yokra14622435",
+      "image": null,
+      "published_at": "2025-12-22T22:05:00.000Z",
+      "summary": "איך זה שיועצי נתניהו הפכו את מצרים לאויבת, לפי הוראות קטאר? איך זה שהם פעלו למען המדינה שהיא המוקד העולמי של האחים המוסלמים, בדיוק כשישראל הפכה למדינה השנואה ביותר בעולם? איזו הגדרה מתאימה למצב הזה?"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -235,11 +355,31 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "החשש: התדרוכים סביב איראן עלולים להוביל להסלמה",
+      "title": "תדרוכים ו\"שמועות בטלגרם\": החשש לאי הבנה מול איראן - והסלמה",
       "url": "https://www.ynet.co.il/news/article/yokra14621877",
       "image": null,
       "published_at": "2025-12-22T22:00:00.000Z",
       "summary": "מאז עם כלביא, בכירים בצה\"ל מזהירים: פרסומים ישראליים על מתיחות מחודשת עלולים להתפרש בטהרן בצורה שגויה. גורמי ביטחון מעריכים שלאיראן אין אינטרס לנקום עד שתשפר יכולותיה, כשגם בישראל מנסים להפיק לקחים: \"שרפנו נגדם שלל יכולות 'בוטיק'\". שאלת הצטרפות חיזבאללה, הלחץ האמריקני - והקשר לעזה"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "צו שמונה: אנשי העיר שאיבדה תקווה נלחמים על קיומה",
+      "url": "https://www.ynet.co.il/news/article/yokra14622330",
+      "image": null,
+      "published_at": "2025-12-22T22:00:00.000Z",
+      "summary": "מאז הפסקת האש חזרו לק\"ש רק כשני שליש מהתושבים. עכשיו הם מרגישים שהמדינה שאיפשרה להם לחיות עשורים תחת איום, ושפינתה אותם מבתיהם בפתאומיות - מפקירה אותם בעיר הנטושה והחרבה. הם יצאו להפגין בדרישה להכרה ממשלתית כאזור מוכה אסון: 4 סיפורים מהעיר שלא מצליחה להשתקם"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "התנגשות הרשויות בשיאה: נקודות הרתיחה בבג\"ץ - והמחלוקות עם הממשלה",
+      "url": "https://www.ynet.co.il/news/article/yokra14622475",
+      "image": null,
+      "published_at": "2025-12-22T22:00:00.000Z",
+      "summary": "בעת ובעונה אחת דן בג\"ץ בביטולם של לא פחות מ-8 חוקים של הכנסת. כחלק מהמאבק בין המערכת הפוליטית והמשפטית, מותקפים צעדים של הקואליציה בעתירות שממתינות להכרעה. כך גם ההחלטה הטרייה על סגירת גל\"צ, שאליה עתידים להצטרף חוק הפטור מגיוס והחוק לפיצול תפקיד היועמ\"ש"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -832,16 +972,6 @@
       "summary": "Two Palestinians arrested after brawl between locals and municipal workers; residents' lawyer says talks were underway to retroactively legalize building, municipality rejects claim\nThe post Authorities tear down East Jerusalem apartment complex after years-long legal battle appeared first on The Ti"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US pursuing third oil tanker linked to Venezuela, official says",
-      "url": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac01/live/e33d45f0-df40-11f0-aae2-2191c0e48a3b.jpg",
-      "published_at": "2025-12-22T16:59:47.000Z",
-      "summary": "The move comes days after President Donald Trump said that he was ordering a blockade of sanctioned oil tankers entering and leaving Venezuela."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -952,16 +1082,6 @@
       "summary": "The conditions of the suspension include barring Bar-David from contacting individuals tied to the ongoing corruption investigation, and forcing him to keep physical distance from Histadrut bodies."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "פרו-פלסטינים שובתים רעב ו\"עומדים למות\" בכלא בבריטניה: \"זה שווה את זה\"",
-      "url": "https://www.ynet.co.il/news/article/bkr11bjdqwx",
-      "image": null,
-      "published_at": "2025-12-22T16:12:36.000Z",
-      "summary": "8 פעילי Palestine Action – ארגון אלים שהוצא אל מחוץ לחוק אחרי שגרם נזק של מיליונים בבסיס חיל האוויר הבריטי ובמפעל \"אלביט\" הישראלית – עצורים כבר 13 חודשים, והפסיקו לאכול בנובמבר בדרישה לשחררם ולסגור מפעלים שמייצרים נשק לישראל. כעת מצבם \"מידרדר\", 5 אושפזו, וממשלת סטרמר מסרבת לתחינות שתתערב: \"ביצעו עבי"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1042,16 +1162,6 @@
       "summary": "The FPA has repeatedly requested access to Gaza since June, but permission was denied by the state, citing security concerns.  "
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "חוק מח\"ש אושר לקריאה ראשונה: תחקור גם אנשי שב\"כ - באישור היועמ\"ש",
-      "url": "https://www.ynet.co.il/news/article/r12in0l7bx",
-      "image": null,
-      "published_at": "2025-12-22T15:28:56.000Z",
-      "summary": "בוועדת חוקה קודמה הצעת החוק להוצאת מח\"ש מידי הפרקליטות ולהעברתה תחת משרד המשפטים. בקואליציה מקדמים גם את החוק לפיצול תפקיד היועמ\"ש, ואומרים שיפעלו לביטול \"כפיית ייצוגו ודעותיו על השרים\""
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1100,16 +1210,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-30b1-d60f-a5db-79bf2ebf0000/f4/ef/e41f61b44d8f80fcddcfb462a936/use-in-according-to-section-27a.webp?height=81",
       "published_at": "2025-12-22T15:04:18.000Z",
       "summary": "Melbourne's Maccabi FC Caulfield announced that their 'MaccaBee' mascot will now be known as Matilda, after the parents of the youngest victim of the mass shooting urged the public to 'remember her name'"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בכנסת דנו בהעלאת התגמול לשורדי השבי, הורי חללים זעקו: \"בלי תיקון - זה סכין בלב\"",
-      "url": "https://www.ynet.co.il/news/article/rk3q23umbx",
-      "image": null,
-      "published_at": "2025-12-22T15:01:19.000Z",
-      "summary": "\"קיבלתי את בני בארון ואמרו לי 'תחזרי לעבודה מחר'\", סיפרה איילת, אמו של יונתן סמרנו שנרצח ונחטף ב-7/10, כשבוועדת העבודה והרווחה דנו בהצעת חוק להגדלת התגמול לפדויי השבי - וביקשה להיכלל בה. אבי, שבתו התצפיתנית נועה מרציאנו נחטפה ונרצחה: \"אשתי רוב הזמן במיטה, אנחנו לא מצליחים לכלכל את משפחתנו\""
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1200,16 +1300,6 @@
       "image": null,
       "published_at": "2025-12-22T14:11:46.000Z",
       "summary": "Opposition leaders echo former premier's words, after news report sheds light on Netanyahu aides' alleged work for Qatar while in Israeli premier's employ\nThe post Bennett: Qatargate is &#8216;most serious act of treason&#8217; in Israeli history, PM must resign appeared first on The Times of Israel"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Updates: Israel escalates strikes on Lebanon, displaces dozens in Jerusalem",
-      "url": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-22T14:01:08.000Z",
-      "summary": "Israeli strikes hit Sidon district; 100 Palestinians lose homes as Israel tears down residential building."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1625,16 +1715,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "'I knew something was seriously wrong - again': Bondi area reels from two deadly attacks in two years",
-      "url": "https://www.bbc.com/news/articles/cn8eknv7zkyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d3d/live/c4360ef0-df20-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2025-12-21T22:18:02.000Z",
-      "summary": "The Bondi shooting, and a deadly stabbing attack just last year, have left scores scarred and traumatised."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "In rebel-held Myanmar, civilians face devastating air strikes and a sham election",
       "url": "https://www.bbc.com/news/articles/cjrjpdz33vxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d05/live/38fbef60-df09-11f0-b67b-690eb873de1b.jpg",
@@ -1660,16 +1740,6 @@
       "image": null,
       "published_at": "2025-12-21T21:32:37.000Z",
       "summary": "The trilateral partnership took shape some 15 years ago after Israel’s ties with Turkey deteriorated, even if it was initially framed in the language of energy cooperation and regional diplomacy."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Viktor Ullmann’s 'Der Kaiser von Atlantis' as a manifesto against tyranny - review",
-      "url": "https://www.jpost.com/israel-news/culture/article-880941",
-      "image": null,
-      "published_at": "2025-12-21T20:42:34.000Z",
-      "summary": "Ullmann completed this significantly historical work in Ghetto Theresienstadt just before he was sent to his death in Auschwitz-Birkenau."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1852,16 +1922,6 @@
       "summary": "As many as 15,000 people attended the memorial ceremony at Bondi Beach in honor of the 15 people killed at the Chabad Hanukkah event in Sydney. The father of the youngest victim, 10-year-old Matilda, lit the final candle of the menorah"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Gunmen kill nine in South Africa tavern attack",
-      "url": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9fa/live/90276c80-de53-11f0-bcc7-8d31e34bceca.jpg",
-      "published_at": "2025-12-21T15:25:49.000Z",
-      "summary": "A further 10 people were injured in Bekkersdal after the perpetrators opened fire and \"continued to shoot randomly\"."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1995,16 +2055,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Survivors 'nervous and sceptical' about release of remaining Epstein files",
-      "url": "https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b67/live/30fe4b70-dde0-11f0-a8dc-93c15fe68710.jpg",
-      "published_at": "2025-12-21T07:42:39.000Z",
-      "summary": "US lawmakers who pushed for the documents to be made public have criticised the initial release as incomplete. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "How Israel's grassroots hostage families group became a powerful international force",
       "url": "https://www.bbc.com/news/articles/cm20ppy0rreo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48f6/live/19049120-dd2a-11f0-a8dc-93c15fe68710.jpg",
@@ -2052,36 +2102,6 @@
       "summary": "The Israeli government has strong arguments regarding the IPC's decision to declare a Phase 5 famine in Gaza in August. This cannot erase the cruel policy of deliberate starvation led by Netanyahu that resulted in the deaths of hundreds"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "India express train kills seven elephants crossing tracks",
-      "url": "https://www.bbc.com/news/articles/c9qe2yln2nlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be60/live/9fee9af0-de06-11f0-8f5a-eff50ed0a189.jpg",
-      "published_at": "2025-12-21T01:18:23.000Z",
-      "summary": "The collision happened early on Saturday in the north-eastern state of Assam, local officials say."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Neither Russia nor France: One West African country walks a diplomatic tightrope",
-      "url": "https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6a/live/6b239bc0-de49-11f0-92d0-0f29d96dc1dc.jpg",
-      "published_at": "2025-12-21T00:25:22.000Z",
-      "summary": "As some West African nations choose to cement old ties with France or a new ally in Russia, Togo wants both."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Why British Jews are experiencing their biggest change in 60 years",
-      "url": "https://www.bbc.com/news/articles/c5ye91zxqv5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cee0/live/4f515550-9f91-11f0-92db-77261a15b9d2.jpg",
-      "published_at": "2025-12-21T00:25:03.000Z",
-      "summary": "There have been shifts in how secure many British Jews feel - and how connected they feel to the rest of the community."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2090,16 +2110,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-3c52-d8f0-a9db-7dfe29ce0002/56/80/39a63ef04dc5930f22d7db9c1e51/whatsapp-image-2025-12-19-at-14-51-12.jpeg?height=81",
       "published_at": "2025-12-20T23:57:09.000Z",
       "summary": ""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "This billionaire tested China's limits. It cost him his freedom",
-      "url": "https://www.bbc.com/news/articles/c5yqr485d84o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9997/live/8983b1f0-dc27-11f0-89ae-89110b9e802d.png",
-      "published_at": "2025-12-20T22:58:58.000Z",
-      "summary": "Lai, who is facing life in prison, always said he owed Hong Kong, a city that had given him \"everything\". "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2340,16 +2350,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-375e-d5c5-a3df-bffe98b00001/4c/60/3c6be99e40d98cec63f1144dfc88/165136.jpg?height=81",
       "published_at": "2025-12-19T16:33:00.000Z",
       "summary": "Boris and Sofia Gurman, Edith Brutman, Boris Tetleroyd and Dan Elkayam were laid to rest on Friday, after the deadly shooting attack at a Hanukkah event that took the lives of 15 people. Tania Treitak was named as the fifteenth victim of the fatal attack"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Hundreds of surfers and swimmers paddle out from Bondi Beach in tribute to antisemitic mass shooting victims",
-      "url": "https://www.haaretz.com/world-news/asia-and-australia/2025-12-19/ty-article/.premium/hundreds-paddle-out-from-bondi-beach-in-tribute-to-antisemitic-mass-shooting-victims/0000019b-36f5-d60f-a5db-7fff81920000",
-      "image": "https://img.haarets.co.il/bs/0000019b-36fb-d8f0-a9db-77ff1b520000/32/6c/8f41cd3a4a7281cb1193cf880a78/168508.jpg?height=81",
-      "published_at": "2025-12-19T15:38:09.000Z",
-      "summary": "In a hastily organized event, people gathered shoulder to shoulder on Bondi's pristine crescent of sand and then formed an enormous circle in the ocean in an expression of solidarity among Sydney's residents and support for the Jewish community"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
