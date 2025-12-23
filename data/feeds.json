@@ -1,6 +1,36 @@
 {
-  "generated_at": "2025-12-23T05:44:29.706Z",
+  "generated_at": "2025-12-23T06:16:04.402Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'A miracle': Officer shot in head during Bondi attack home from hospital",
+      "url": "https://www.bbc.com/news/articles/cd0kxrr2jyko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379f/live/2724ffe0-dfbb-11f0-a8dc-93c15fe68710.jpg",
+      "published_at": "2025-12-23T06:06:34.000Z",
+      "summary": "The Christmas homecoming of Jack Hibbert, who was shot in the head and shoulder, is a \"miracle\", his family say."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Syrian army, Kurdish-led SDF agree to stop deadly fighting in Aleppo",
+      "url": "https://www.aljazeera.com/news/2025/12/23/syrian-army-and-kurdish-led-forces-agree-to-de-escalate-violence-in-aleppo?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-23T05:38:41.000Z",
+      "summary": "At least two people killed in clashes in northern city of Aleppo during Turkish FM Fidan&#039;s visit to Syria."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "‘We have nothing’: Endless pain for displaced civilians fleeing Sudan war",
+      "url": "https://www.aljazeera.com/news/2025/12/23/we-have-nothing-endless-pain-for-displaced-civilians-fleeing-sudan-war?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-23T05:35:47.000Z",
+      "summary": "People escaping fighting, lack of essential supplies in Heglig area faced with tough conditions in search for safety."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -165,11 +195,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Trump: Further releasing Epstein files risks harming reputations of those who ‘innocently met’ him",
+      "title": "Trump: Further release of Epstein files risks harming reputations of those who ‘innocently met’ him",
       "url": "https://www.timesofisrael.com/liveblog-december-23-2025/",
       "image": null,
       "published_at": "2025-12-23T02:55:00.000Z",
-      "summary": "Settlers filmed hurling stones at left-wing Israeli activist in West Bank * Palestinian extremists said to torch Jenin church’s Christmas tree, nativity scene\nThe post Trump: Further releasing Epstein files risks harming reputations of those who ‘innocently met’ him appeared first on The Times of Is"
+      "summary": "Settlers filmed hurling stones at left-wing Israeli activist in West Bank * Palestinian extremists said to torch Jenin church’s Christmas tree, nativity scene\nThe post Trump: Further release of Epstein files risks harming reputations of those who ‘innocently met’ him appeared first on The Times of I"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1082,16 +1112,6 @@
       "summary": "Turning Point USA&#039;s first AmericaFest without Charlie Kirk reveals ideological rifts within the conservative movement."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Ecuador soldiers sentenced to 34 years in prison for disappearing children",
-      "url": "https://www.aljazeera.com/news/2025/12/22/ecuador-soldiers-sentenced-to-34-years-in-prison-for-disappearing-children?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-22T17:28:43.000Z",
-      "summary": "Sentencing caps yearlong investigation into abuse, disappearance of four children in Guayaquil amid crime crackdown. "
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -1160,16 +1180,6 @@
       "image": null,
       "published_at": "2025-12-22T16:43:47.000Z",
       "summary": "בעקבות טענות להתערבות בנהלי עבודה ומצלמות שממוקמות סמוך לשירותים - מאות עובדים בעיריית אלעד יפתחו ב\"שביתת אזהרה\". המהלך ישבית את פעילות בתי הספר והגנים בשעות העומס. ועד העובדים: \"משבר חמור ביחסי העבודה\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Texas town battles nonstop noise from bitcoin mine",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/22/texas-town-battles-nonstop-noise-from-bitcoin-mine?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-22T16:40:08.000Z",
-      "summary": "A rural Texas community says nonstop noise from a bitcoin mine is destroying their lives."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
