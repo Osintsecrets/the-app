@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-23T15:40:51.874Z",
+  "generated_at": "2025-12-23T16:12:00.712Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -32,6 +32,16 @@
       "summary": "As Yerevan shifts toward the West and Jerusalem, Armenian organizations in Washington launch a coordinated public campaign against Israeli-Azerbaijani cooperation."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "דיווח: בלבנון חושדים שישראל \"חטפה\" בכיר צבאי לשעבר - שקשור להיעלמות של רון ארד",
+      "url": "https://www.ynet.co.il/news/article/hjgvteomwl",
+      "image": null,
+      "published_at": "2025-12-23T16:06:44.000Z",
+      "summary": ""
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -40,6 +50,46 @@
       "image": null,
       "published_at": "2025-12-23T16:00:12.000Z",
       "summary": "Israel ignoring lessons from Hamas's invasion from Gaza • IDF lookouts still stationed too close to border • Lack of coordination between Shin Bet, IDF, Israel Police regarding West Bank checkpoints"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Gazan man who prayed for death to all Jews released from UK prison",
+      "url": "https://www.timesofisrael.com/gazan-man-who-prayed-for-death-to-all-jews-released-from-uk-prison/",
+      "image": null,
+      "published_at": "2025-12-23T15:51:48.000Z",
+      "summary": "Abu Wadei, who was arrested in March for immigration offenses, left Gaza before the October 7 assault but allegedly took part in pro-Hamas activities in the years leading up to it\nThe post Gazan man who prayed for death to all Jews released from UK prison appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Three convicted for plotting ‘deadliest terror attack in UK history,’ against Jews",
+      "url": "https://www.timesofisrael.com/three-convicted-for-plotting-deadliest-terror-attack-in-uk-history-against-jews/",
+      "image": null,
+      "published_at": "2025-12-23T15:51:09.000Z",
+      "summary": "Manchester court finds ISIS-inspired would-be terrorists guilty of plotting the violence, and one more of not alerting authorities; men tried to buy weapons from undercover cop\nThe post Three convicted for plotting ‘deadliest terror attack in UK history,’ against Jews appeared first on The Times of "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Three killed after Russia launches 'massive' attack across Ukraine",
+      "url": "https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2b/live/a2f21fc0-dfef-11f0-aae2-2191c0e48a3b.jpg",
+      "published_at": "2025-12-23T15:45:07.000Z",
+      "summary": "Several regions are without power after missile and drone strikes targeted several cities. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israeli Defence Minister: ‘We will never leave Gaza’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/23/israeli-defence-minister-we-will-never-leave?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-23T15:27:07.000Z",
+      "summary": "Israeli Defence Minister Israel Katz said the Israeli military “will never leave Gaza”."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -125,7 +175,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Backlash after CBS pulls 60 Minutes report on Salvador’s CECOT prison",
+      "title": "Backlash after CBS pulls 60 Minutes report on El Salvador’s CECOT prison",
       "url": "https://www.aljazeera.com/news/2025/12/23/backlash-after-cbs-pulls-60-minutes-report-on-salvadors-cecot-prison?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-23T14:43:44.000Z",
@@ -190,16 +240,6 @@
       "image": null,
       "published_at": "2025-12-23T14:14:02.000Z",
       "summary": "Kula’s appointment was previously struck down because the law governing the Judicial Complaints Commissioner bars the officeholder from taking on any other job or occupation."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Three killed after Russia launches 'massive' attack across Ukraine",
-      "url": "https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2b/live/a2f21fc0-dfef-11f0-aae2-2191c0e48a3b.jpg",
-      "published_at": "2025-12-23T14:11:18.000Z",
-      "summary": "Several regions are without power after missile and drone strikes targeted several cities. "
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -745,7 +785,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israeli defense minister clarifies Israel doesn't intend to settle Gaza, walking back earlier claim",
+      "title": "Israeli defense minister vows building IDF settlements in Gaza, then walks it back",
       "url": "https://www.haaretz.com/israel-news/2025-12-23/ty-article/israeli-defense-minister-vows-israel-will-stay-in-gaza-permanent-idf-settlements-in-north/0000019b-4aaa-d034-ab9b-caaf74cd0001",
       "image": "https://img.haarets.co.il/bs/0000019a-b552-dd6e-a5fa-fff64b510000/1c/df/24a2aa1c4fafafe76429b64eb0de/674861.jpg?height=81",
       "published_at": "2025-12-23T10:28:15.000Z",
@@ -820,16 +860,6 @@
       "image": null,
       "published_at": "2025-12-23T09:59:53.000Z",
       "summary": "Tensions high as an end-of-year deadline to incorporate the Kurdish-led SDF into the Syrian armed forces approaches."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "A Ukraine reporter’s guide to managing wartime blackouts caused by Russia",
-      "url": "https://www.aljazeera.com/news/2025/12/23/a-ukraine-reporters-guide-to-managing-wartime-blackouts-caused-by-russia?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-23T09:52:30.000Z",
-      "summary": "Ukraine correspondent Mansur Mirovalev writes on the trials and tribulations of everyday life amid war-induced darkness."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1052,16 +1082,6 @@
       "summary": "מאז עם כלביא, בכירים בצה\"ל מזהירים: מתקפת התדרוכים הישראליים על מתיחות מחודשת עלולה להתפרש בטהרן בצורה שגויה. גורמי ביטחון מעריכים שלאיראן אין אינטרס לנקום עד שתשפר יכולותיה, כשגם בישראל מנסים להפיק לקחים: \"שרפנו נגדם שלל יכולות 'בוטיק'\". בצה\"ל מעריכים: \"חלק מהפרסומים לא נכונים; איראן משתקמת מתחילת "
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "‘They control the banks’: Pennsylvania principal to be fired over antisemitic voicemail",
-      "url": "https://www.timesofisrael.com/they-control-the-banks-pennsylvania-principal-to-be-fired-over-antisemitic-voicemail/",
-      "image": null,
-      "published_at": "2025-12-23T04:23:29.000Z",
-      "summary": "Administration moves to oust Philip Leddy, who previously served as district's DEI chair, after recording surfaces of him mocking Jewish parent in call he thought he had disconnected\nThe post ‘They control the banks’: Pennsylvania principal to be fired over antisemitic voicemail appeared first on Th"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1090,16 +1110,6 @@
       "image": null,
       "published_at": "2025-12-23T03:54:25.000Z",
       "summary": "According to the IDF, soldiers and police forces followed a report that \"several Israeli civilians had slaughtered livestock and vandalized Palestinian property."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Netanyahu uses summit of Israel, Greece, Cyprus leaders to send warning to Turkey",
-      "url": "https://www.timesofisrael.com/netanyahu-uses-summit-of-israel-greece-cyprus-leaders-to-send-warning-to-turkey/",
-      "image": null,
-      "published_at": "2025-12-23T03:41:11.000Z",
-      "summary": "Participants at trilateral Jerusalem summit agree to boost cooperation in eastern Mediterranean; PM says the three countries can defend against those trying to 'recreate empire'\nThe post Netanyahu uses summit of Israel, Greece, Cyprus leaders to send warning to Turkey appeared first on The Times of "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1280,16 +1290,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-47f7-d866-abff-7ff70d460000/ad/59/9ea2817e42379082d5c72778f67e/044318.jpg?height=81",
       "published_at": "2025-12-22T22:30:08.000Z",
       "summary": "The bill replaces temporary emergency legislation, which was originally passed to authorize the shutdown of the Qatar-based network in Israel. The new law does not require court approval to close a media outlet"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בטלפון פתאומי ובלי הסבר: ממשל טראמפ הדיח 30 שגרירים \"של ביידן\" ברחבי העולם",
-      "url": "https://www.ynet.co.il/news/article/hkpnlevq11g",
-      "image": null,
-      "published_at": "2025-12-22T22:13:37.000Z",
-      "summary": "תדהמה בוושינגטון מהצעד החריג של הממשל, שהודיע לעשרות שגרירים כי עליהם לסיים את תפקידם עד סוף ינואר, אף שרובם דיפלומטים מקצועיים - ולא מינויים פוליטיים. ביקורת קשה על טראמפ: \"מדיח שליחים מנוסים כש-80 תפקידי שגריר לא מאוישים, מוותר על מעמד ארה\"ב כמנהיגה בעולם ומוסר אותו לרוסיה וסין\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
