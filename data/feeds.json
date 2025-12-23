@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-23T18:14:30.383Z",
+  "generated_at": "2025-12-23T18:50:25.810Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Shin Bet deputy director 'S' to leave role, in blow to chief David Zini",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-881165",
+      "image": null,
+      "published_at": "2025-12-23T20:24:25.000Z",
+      "summary": "'S' previously served as the agency's acting director after the departure of former chief Ronen Bar, who promoted him to deputy chief in January. "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,11 +25,11 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "IDF rescues Israeli civilian who entered Arab village near Ramallah",
+      "title": "Israeli civilians mistakenly enter Palestinian villages in West Bank, rescued by IDF",
       "url": "https://www.jpost.com/israel-news/article-881161",
       "image": null,
       "published_at": "2025-12-23T20:08:49.000Z",
-      "summary": "After IDF forces searched the area, the forces located the civilian and safely rescued her outside the village."
+      "summary": "The military rushed forces to two locations in the West Bank to rescue Israelis who entered Area A by mistake."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -42,6 +52,26 @@
       "summary": "He cited settlement construction and administrative work as part of recent advances, adding that without a cabinet decision to apply sovereignty, Israel risks missing a “historic opportunity.”"
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Rabbi known for anti-LGBTQ and anti-Arab stances invited to speak about sexual violence prevention at Justice Ministry conference",
+      "url": "https://www.haaretz.com/israel-news/2025-12-23/ty-article/.premium/far-right-rabbi-to-address-sexual-violence-prevention-at-justice-ministry-conference/0000019b-4b7c-d2b2-affb-5f7ecfbe0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-4baa-d866-abff-7bfb450e0001/9c/bc/f126b88a4dda8bc984f5e595a9ba/556554.jpg?height=81",
+      "published_at": "2025-12-23T18:39:04.000Z",
+      "summary": "Rabbi Shmuel Eliyahu is an activist for the prevention of sexual violence in religious society. Over the years, his extensive record of extremist and racist statements includes condemnations for women singing and integrating into the army and calls for the forced transfer of Arab Israelis"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "How the Yiddish-speaking Jews of Europe had themselves a merry little Nittel Nacht",
+      "url": "https://www.timesofisrael.com/how-the-yiddish-speaking-jews-of-europe-had-themselves-a-merry-little-nittel-nacht/",
+      "image": null,
+      "published_at": "2025-12-23T18:30:54.000Z",
+      "summary": "A new book explores how, contrary to popular belief, Christmas was a festive time for Jewish men, who took time off from Torah study to play cards and games\nThe post How the Yiddish-speaking Jews of Europe had themselves a merry little Nittel Nacht appeared first on The Times of Israel.\n"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -50,6 +80,26 @@
       "image": null,
       "published_at": "2025-12-23T18:24:53.000Z",
       "summary": "Protesters also warned of the economic implications of the move for local commerce, employment, and business stability in Israel, saying that the move “will be remembered in infamy.\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בנט: \"סוכנים הושתלו בלשכת רה\"מ, ואויבנו בקטאר הצליחו\"; בליכוד התנערו - \"מעולם לא היו חלק\"",
+      "url": "https://www.ynet.co.il/news/article/rkniv8oxbx",
+      "image": null,
+      "published_at": "2025-12-23T18:20:51.000Z",
+      "summary": "ראש הממשלה לשעבר מסר הצהרה שעסקה בפרשת קטאר-גייט וטען כי יועצי נתניהו \"עובדים בחריצות כדי לקדם את האינטרס הקטארי - תוך ניצול מעמדם המיוחד כנציגי ראש הממשלה\". בליכוד ממשיכים להתעקש כי המקורבים לנתניהו מעולם לא היו חלק מהלשכה: \"עלילת דם\""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "New data reveals the astronomical cost of Netanyahu's trips abroad during Gaza war",
+      "url": "https://www.haaretz.com/israel-news/2025-12-23/ty-article/.premium/new-data-reveals-the-astronomical-cost-of-netanyahus-trips-abroad-during-gaza-war/0000019b-4b99-d02f-a7ff-dbdb6f690000",
+      "image": "https://img.haarets.co.il/bs/0000019b-4bc1-d034-ab9b-cbcf37910007/86/b7/5246c23a4ab9a07daae9d446f2d6/220274.jpg?height=81",
+      "published_at": "2025-12-23T18:13:07.000Z",
+      "summary": "According to the data, the cost of using Israel's official aircraft for a single trip to Washington in February totaled $424,000, while during Netanyahu's visit to New York in September, his suite at the Loews Regency Hotel cost Israeli taxpayers $42,000 for seven nights"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -72,6 +122,16 @@
       "summary": "Lebanese defense minister says accusation that army intelligence service member Ali Abdullah was involved with terror group is 'malicious attack,' as Hezbollah denies connection\nThe post Lebanon denies soldier killed in Israeli strike had ties to Hezbollah appeared first on The Times of Israel.\n"
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "UK police drop probe into Bob Vylan’s chants about Israeli military",
+      "url": "https://www.aljazeera.com/news/2025/12/23/uk-police-drop-probe-into-bob-vylans-chants-about-israeli-military?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-23T18:03:14.000Z",
+      "summary": "Police say there is &#039;insufficient evidence&#039; to bring charges after investigating comments made at Glastonbury festival."
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -79,7 +139,17 @@
       "url": "https://www.ynet.co.il/news/article/ryzawuu7zx",
       "image": null,
       "published_at": "2025-12-23T18:02:56.000Z",
-      "summary": ""
+      "summary": "רעידת אדמה בשירות: ש', שכיהן כממלא מקום ראש השב\"כ בעקבות התפטרותו של רונן בר, פורש אחרי 30 שנים - לאחר עימות בינו לראש השב\"כ זיני, ומשבר אמון בין השניים. בין המחלוקות: דיווח לבג\"ץ על הדלפה, והתנגדות לתקיפה בקטאר"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Jackson scores two goals as Senegal defeat Botswana at AFCON",
+      "url": "https://www.aljazeera.com/sports/2025/12/23/jackson-scores-two-goals-as-senegal-defeat-botswana-at-afcon?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-23T18:00:02.000Z",
+      "summary": "Two goals in 18 minutes from forward Nicolas Jackson set the tone for Senegal&#039;s Group D win over Botswana at AFCON 2025."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -962,16 +1032,6 @@
       "summary": "'This is the look of a system that has lost all shame' and is 'desperately clinging to its power,' justice minister fumes; court says it can choose someone if he can't\nThe post Court denies Levin&#8217;s 2nd request to let his candidate run Sde Teiman leak probe appeared first on The Times of Israel"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Daily Briefing Dec. 23: Day 809 &#8211; Saudi prince tells ToI Israel needs to start being &#8216;normal&#8217;",
-      "url": "https://www.timesofisrael.com/daily-briefing-dec-23-day-809-saudi-prince-tells-toi-israel-needs-to-start-being-normal/",
-      "image": null,
-      "published_at": "2025-12-23T11:17:11.000Z",
-      "summary": "US bureau chief Jacob Magid on his interview with Prince Turki bin Faisal, US Ambassador Huckabee's rare meetup with the PA, and why US Vice President Vance feels Americans aren't antisemitic\nThe post Daily Briefing Dec. 23: Day 809 &#8211; Saudi prince tells ToI Israel needs to start being &#8216;n"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -982,16 +1042,6 @@
       "summary": "PM Anthony Albanese said Australia’s governor general will invite President Isaac Herzog to visit, as the two discussed the Bondi Beach terror attack and rising antisemitism."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "AFCON, more than just football",
-      "url": "https://www.aljazeera.com/video/africa-now/2025/12/23/afcon-more-than-just-football?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-23T11:08:14.000Z",
-      "summary": "The Africa Cup of Nations is more than a football tournament."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1000,16 +1050,6 @@
       "image": null,
       "published_at": "2025-12-23T11:05:25.000Z",
       "summary": "רגע לפני חג המולד, מתקפת ענק של 650 כטב\"מים ו-30 טילים על ערי אוקראינה: הפסקות חשמל בקייב הקפואה, 3 נהרגו ובהם ילד בן 4. ברקע: החיסול אתמול של גנרל רוסי בפיצוץ רכב במוסקבה. NBC מדווחת על עימות בין מזכיר המדינה רוביו לשליח המיוחד וויטקוף סביב המו\"מ לסיום המלחמה, עם \"תקרית משפילה\" בפריז, והמראה מוקדמת"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Yemen’s government, Houthis agree to exchange thousands of prisoners",
-      "url": "https://www.aljazeera.com/news/2025/12/23/yemen-government-houthis-agree-to-exchange-thousands-of-prisoners?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-23T11:01:04.000Z",
-      "summary": "Nearly 3,000 detainees to be released under latest prisoner swap deal reached during talks in Oman."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1210,16 +1250,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-49f5-d034-ab9b-c9ffae100001/b1/e9/f1b0d4ad41c6b2a8255eb8b2cad3/825576.jpg?height=81",
       "published_at": "2025-12-23T06:49:29.000Z",
       "summary": "Months-long delays in a domestic tender appear to have pushed Israel toward a U.S. purchase that undercuts its effort to shift rifle production to local manufacturers and reduce reliance on imports"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "העיר שקורסת, ולאף אחד לא אכפת: \"נגמר לנו החמצן, אנחנו בהנשמה מלאכותית\"",
-      "url": "https://www.ynet.co.il/news/article/yokra14622330",
-      "image": null,
-      "published_at": "2025-12-23T06:19:32.000Z",
-      "summary": "מאז הפסקת האש חזרו לקריית שמונה רק כשני שלישים מהתושבים, שמרגישים כי המדינה מפקירה אותם בעיר הנטושה: \"כשפינוי נמשך מעל שנה - זו כבר הגירה\". כעת הם פתחו במחאה, ומקווים שהממשלה תשים לב אליהם: \"לוקחים אותנו כמובן מאליו, אולי כי יודעים שכולם פה מצביעים ליכוד\". סיפוריהם של 4 תושבים"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1690,16 +1720,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-4676-d02f-a7ff-d6ff2dd80001/e8/02/813f813f4f74befc6015f81f9d06/chevrons.jpg?height=81",
       "published_at": "2025-12-22T16:26:20.000Z",
       "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Anselm Kiefer’s ‘Ages of the World’ sculpture now on view at the Israel Museum",
-      "url": "https://www.jpost.com/israel-news/culture/article-881022",
-      "image": null,
-      "published_at": "2025-12-22T16:24:11.000Z",
-      "summary": "Installed as a permanent work, Die Erdzeitalter is intended to be an immersive encounter with Kiefer’s ongoing meditation on history, memory, and time itself."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2210,26 +2230,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-4036-da9d-a59b-42f711770000/45/1c/3480ee584cc69c4bb58f77e33bc3/847562-2.jpg?height=81",
       "published_at": "2025-12-21T09:46:41.000Z",
       "summary": "The ambassador-level post, left vacant during a surge in antisemitic incidents, was filled despite Democratic objections. Jewish groups praised the nominee's outreach to global envoys and coordinators, calling his appointment timely as threats to Jewish communities worldwide continue to rise"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Australia marks Day of Reflection for victims of deadly antisemitic Bondi shooting",
-      "url": "https://www.haaretz.com/world-news/asia-and-australia/2025-12-21/ty-article/australia-marks-day-of-reflection-for-victims-of-deadly-antisemitic-bondi-shooting/0000019b-3fef-da9d-a59b-7fff74f80000",
-      "image": "https://img.haarets.co.il/bs/0000019b-3ffc-d8f0-a9db-7ffc26340000/38/94/f541cb354207af627d4e61cfcc2c/176737.jpg?height=81",
-      "published_at": "2025-12-21T09:02:43.000Z",
-      "summary": "A moment of silence was observed in Australia on Sunday at 6:47 P.M., marking exactly one week since the Bondi Beach terror attack that took 15 lives at a Jewish festival celebrating the first night of Hanukkah"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Why is Christmas on December 25?",
-      "url": "https://www.haaretz.com/archaeology/2025-12-21/ty-article/why-is-christmas-on-december-25/0000019b-320c-dc39-abbb-fffe38e10000",
-      "image": "https://img.haarets.co.il/bs/0000019b-320c-dc39-abbb-fffe30b60000/2a/90/5797c7e547fd8374832e9b1a6d5a/64186734.JPG?height=81",
-      "published_at": "2025-12-21T08:06:07.000Z",
-      "summary": "The strange and contradictory origins of Jesus' birthday, which only emerged centuries after the event"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
