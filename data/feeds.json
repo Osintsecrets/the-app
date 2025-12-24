@@ -1,11 +1,31 @@
 {
-  "generated_at": "2025-12-24T13:05:42.933Z",
+  "generated_at": "2025-12-24T13:46:25.376Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "'Israel will respond': PMO vows reprisal for Hamas ceasefire violation after soldier wounded by IED",
+      "title": "Hapoel Tel Aviv stays atop Euroleague with road conquest of Bayern Munich",
+      "url": "https://www.jpost.com/israel-news/sports/article-881239",
+      "image": null,
+      "published_at": "2025-12-24T15:33:19.000Z",
+      "summary": "Hapoel Tel Aviv defeated Bayern Munich by ten points in the match, improving the Reds’ first-place record to 13-5 on the season."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Knesset passes preliminary vote on political probe into October 7",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-881241",
+      "image": null,
+      "published_at": "2025-12-24T15:28:34.000Z",
+      "summary": "Prime Minister Benjamin Netanyahu was not present, as he was speaking at the Israel Air Force pilot cadets ceremony."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "'Israel will respond': PMO vows reprisal for Hamas ceasefire violation after officer wounded by IED",
       "url": "https://www.jpost.com/israel-news/defense-news/article-881236",
       "image": null,
       "published_at": "2025-12-24T14:49:13.000Z",
@@ -15,7 +35,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Police arrest 5 in connection with attacking and killing Palestinian shepherd’s sheep",
+      "title": "Police arrest five in connection with attacking, killing Palestinian shepherd’s sheep",
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-881231",
       "image": null,
       "published_at": "2025-12-24T14:15:44.000Z",
@@ -30,6 +50,16 @@
       "image": null,
       "published_at": "2025-12-24T13:32:16.000Z",
       "summary": "“The presence of the attacked launch sites constitutes a violation of the understandings between Israel and Lebanon,” the military stated."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Cats, move over: Why packs of jackals are taking over Tel Aviv",
+      "url": "https://www.haaretz.com/israel-news/2025-12-24/ty-article-magazine/cats-move-over-why-packs-of-jackals-are-taking-over-tel-aviv/0000019b-5034-d02f-a7ff-d0ffc2430000",
+      "image": "https://img.haarets.co.il/bs/0000019b-5034-d02f-a7ff-d0ffc4100001/03/72/d239be7d4d4994b060b98b8dc6a2/203095.jpg?height=81",
+      "published_at": "2025-12-24T13:32:13.000Z",
+      "summary": "The number of jackals roaming Tel Aviv is estimated in the hundreds. A new pilot program aims to change cat-feeding practices to reduce access for jackals"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -52,6 +82,36 @@
       "summary": "As Jewish extremist violence escalates in Israel, a new police task force takes action. With initial signs of success, can this unit sustain its progress and curb violence in the West Bank?"
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Ties with Turkiye improve “once Libya can patch its internal differences”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/12/24/ties-with-turkiye-improve-once-libya-can-patch-its-internal?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-24T13:23:14.000Z",
+      "summary": "“This [Libyan general’s plane crash in Turkiye] will not change the broader framework of Turkiye’s role within Libya.”"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "When Santa came to Tel Aviv: How Christmas quietly won over Jewish homes",
+      "url": "https://www.haaretz.com/life/2025-12-24/ty-article-magazine/.premium/when-santa-came-to-tel-aviv-how-christmas-won-over-jewish-homes/0000019b-4fbc-d4f1-a1db-5ffd35a40000",
+      "image": "https://img.haarets.co.il/bs/0000019b-4fc1-d02f-a7ff-dfdba06d0001/51/4c/fc0ee0584a6ea4d3410cb0a02562/744940.jpg?height=81",
+      "published_at": "2025-12-24T13:13:29.000Z",
+      "summary": "From London in the 1920s to Tel Aviv a century later, Haaretz chronicles how Christmas moved from an uncomfortable curiosity to a visible, consumer-driven holiday among Jewish families"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israelis show “very widespread support for a racist state”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/12/24/israelis-show-very-widespread-support-for-a-racist?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-24T13:05:37.000Z",
+      "summary": "&quot;The idea of the liberal Zionist that you can have both failed.”"
+    },
+    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -59,17 +119,17 @@
       "url": "https://www.bbc.com/news/videos/c8dy3772m1lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ec/live/2f92f800-e0c7-11f0-a8dc-93c15fe68710.jpg",
       "published_at": "2025-12-24T12:53:11.000Z",
-      "summary": "A man and his wife in Fulton County were stopped by a sheriff while dressed as Santa and Mrs Claus. "
+      "summary": "Santa is speeding through his Christmas deliveries, but a sheriff had to stop him for \"flying a little too fast\"."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "שידור ישיר: מסדר כנפיים בבסיס חצרים ",
+      "title": "נתניהו רומז לאיראן במסדר כנפיים: \"לא מחפשים עימותים, העיניים פקוחות\"",
       "url": "https://www.ynet.co.il/news/article/hygfz8tq11e",
       "image": null,
       "published_at": "2025-12-24T12:52:08.000Z",
-      "summary": "לרגל סיום קורס טיס 191, ראש הממשלה נתניהו, הרמטכ\"ל זמיר ונשיא המדינה הרצוג הגיעו לטקס בבסיס חצרים של חיל האוויר"
+      "summary": "לרגל סיום קורס טיס 191, ראש הממשלה, הרמטכ\"ל ונשיא המדינה נואמים בטקס בבסיס חצרים של חיל האוויר. נתניהו טען כי \"אויבינו מלקקים את הפצעים אך מבקשים להתחמש מחדש. האיומים הישנים משנים צורה ואיומים חדשים נולדים\". כ\"ץ שוב התחייב: \"נהרוס את כל מנהרות הטרור בעזה\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -85,11 +145,21 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
+      "title": "Trump declared a ‘new Middle East’ – but what has changed?",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2025/12/24/trump-declared-a-new-middle-east-but-what-has?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-24T12:48:03.000Z",
+      "summary": "Chatham House director Bronwen Maddox lays out the obstacles blocking progress on Trump’s plan for a ‘new Middle East’."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
       "title": "Libyan army chief killed in plane crash: What we know so far",
       "url": "https://www.aljazeera.com/news/2025/12/24/libyan-army-chief-killed-in-plane-crash-what-we-know-so-far?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-24T12:44:01.000Z",
-      "summary": "Libya mourns military chief al-Haddad, killed in Turkish crash, prompting questions on political and military unity."
+      "summary": "Libya mourns military chief Mohammed Ali Ahmed al-Haddad, who was seen as a unifying figure amid political divisions."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -145,11 +215,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "מהומה במליאה לפני ההצבעה על ועדת החקירה הפוליטית: קריאות \"בושה\" והפניות גב",
+      "title": "אושרה בטרומית הקמת ועדת חקירה פוליטית ל-7/10, נתניהו נעדר: \"ביזיון, לא לטיוח\"",
       "url": "https://www.ynet.co.il/news/article/rkbnnxtq11e",
       "image": null,
       "published_at": "2025-12-24T12:21:45.000Z",
-      "summary": "בפתח ההצבעה בקריאה טרומית על הצעת החוק שתעקוף הקמה של ועדת חקירה ממלכתית לטבח 7 באוקטובר, מחו משפחות שכולות וחברי אופוזיציה שהפנו גב לח\"כ קלנר, יוזם החוק. רפי בן שטרית, ששכל את בנו אלרואי: ניתן גזר לכל חבר קואליציה שיצביע בעד, שפנים"
+      "summary": "בתום מהומה וחילופי האשמות בין הקואליציה לאופוזיציה, אושרה ברוב של 53 תומכים מול 48 מתנגדים ההצעה לקדם את ועדת החקירה החלופית לטבח. משפחות שכולות הפנו את גבן, חברי כנסת הביעו מחאה: \"נתניהו בורח מאחריות\". סגן השר אלמוג כהן, שהשיב בשם הממשלה, אמר בצרחות: \"חליוה, האיש שידיו מגואלות בדם, תועד משחק שש-בש\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -335,11 +405,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Chaos in Knesset as vote begins on Netanyahu-backed October 7 'cover-up' probe",
+      "title": "Knesset advances Netanyahu-backed Oct. 7 'cover-up' probe as bereaved parents shout 'shame'",
       "url": "https://www.haaretz.com/israel-news/2025-12-24/ty-article/.premium/oct-7-parents-warn-mks-backing-cover-up-probe-will-carry-a-mark-of-shame-for-life/0000019b-4f6f-d028-a9bb-5f6f967e0000",
       "image": "https://img.haarets.co.il/bs/0000019b-5064-d866-abff-7a75e6de0007/c5/ff/ced0fd4e4d98a8b27f3d5d9b5b1a/209001.jpg?height=81",
       "published_at": "2025-12-24T10:24:51.000Z",
-      "summary": "Parents whose children were killed on October 7 said lawmakers backing a 'cover-up' probe will 'carry a mark of shame for life' ahead of a parliamentary vote on a bill to establish a government-controlled inquiry into the Hamas massacre"
+      "summary": "Amid a day of protests inside the Knesset and outside ministers' homes, opposition lawmakers arrived dressed in black, and several were removed from the chamber. The bill passed its preliminary vote to establish a government-controlled political inquiry into the Hamas massacre"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -455,7 +525,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Jewish-Israeli mother and child rescued from Bethlehem after intentionally entering city",
+      "title": "Jewish-Israeli mother, child rescued from Bethlehem after intentionally entering city",
       "url": "https://www.jpost.com/israel-news/article-881192",
       "image": null,
       "published_at": "2025-12-24T09:13:42.000Z",
@@ -772,16 +842,6 @@
       "summary": "היסטוריה: אחרי שש שנות פיתוח כחול לבן, קיבל חיל התותחנים את התותח החדש - ה\"רועם\". עם גלגלים שיאפשרו תנועה מהירה ועבירות ו-3 אנשי צוות בלבד, הוא יחליף בהדרגה את התותח שנע על זחלים - ויאפשר להרחיב את גיוס הלוחמות לחיל. ירי מבצעי ראשון צפוי בשבועות הקרובים. גדוד ראשון - עד הסתיו"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "The spin and misinformation around Bondi was inevitable",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2025/12/24/the-spin-and-misinformation-around-bondi-was-inevitable?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-24T05:39:34.000Z",
-      "summary": "How the Bondi Beach tragedy set off a media chain reaction."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -830,16 +890,6 @@
       "image": null,
       "published_at": "2025-12-24T05:07:19.000Z",
       "summary": "לקח הרבה שתיקות, אבל הנה הם צועקים, ועוד יחד. ומפנימים: אם לקואליציה מותר להתכנס סביב דף מסרים של שקר, לאופוזיציה מותר סביב דף מסרים של אמת"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Venezuela warns US ‘aggression’ is first stage amid ‘continental ambitions’",
-      "url": "https://www.aljazeera.com/news/2025/12/24/venezuela-warns-us-aggression-is-first-stage-amid-continental-ambitions?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-24T04:42:32.000Z",
-      "summary": "Venezuela&#039;s UN ambassador denounces US military strikes, naval blockade at a meeting of the UN Security Council. "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -922,16 +972,6 @@
       "summary": "מאחורי \"המהפכה הארכיאולוגית\" בשטחים מסתתר מהלך שלא רק מנוגד לחוק הבינלאומי, אלא גם מדרדר את הארכיאולוגיה הישראלית כולה אל פי תהום"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US bars five Europeans over alleged efforts to ‘censor American viewpoints’",
-      "url": "https://www.aljazeera.com/news/2025/12/24/us-bars-five-europeans-over-efforts-to-censor-american-viewpoints?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-24T03:38:51.000Z",
-      "summary": "US to deny visas to an ex-EU commissioner and four others it accuses of efforts to censor speech on social media."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -947,7 +987,7 @@
       "topic": "News",
       "title": "Netanyahu minister says Qatargate should be fully investigated: 'it looks outrageous'",
       "url": "https://www.haaretz.com/israel-news/2025-12-24/ty-article-live/dozens-hurt-in-east-jerusalem-during-israel-police-and-idf-raid-red-crescent-says/0000019b-4e4e-d866-abff-7e7f43c20000",
-      "image": "https://img.haarets.co.il/bs/0000019b-4d8f-d866-abff-7fff7ff10001/7c/df/bd2e25e94429819c642c0d91cec6/2025-12-23t133747z-1302020736-rc2dmia9x8tf-rtrmadp-3-israel-palestinians-west-bank-raid.JPG?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-5083-d80e-a3bf-74b741510001/10/d4/11db8a0043caa1278933b3f5074d/064031-2.jpg?height=81",
       "published_at": "2025-12-24T03:11:14.000Z",
       "summary": ""
     },
@@ -975,11 +1015,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Bereaved families protest in Knesset ahead of vote on politically appointed Oct. 7 probe",
+      "title": "Contentious law for politically appointed Oct. 7 probe passes preliminary Knesset reading",
       "url": "https://www.timesofisrael.com/liveblog-december-24-2025/",
       "image": null,
       "published_at": "2025-12-24T02:35:47.000Z",
-      "summary": "Chikli calls for probe into Qatargate allegations, in 1st such demand from a minister * Katz approves next heads of air force, navy after months of delay amid spat with Zamir\nThe post Bereaved families protest in Knesset ahead of vote on politically appointed Oct. 7 probe appeared first on The Times"
+      "summary": "Chikli calls for probe into Qatargate allegations, in 1st such demand from a minister * Katz approves next heads of air force, navy after months of delay amid spat with Zamir\nThe post Contentious law for politically appointed Oct. 7 probe passes preliminary Knesset reading appeared first on The Time"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1440,26 +1480,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d97/live/e58720c0-e002-11f0-ab61-73a5e79bafa0.jpg",
       "published_at": "2025-12-23T15:56:57.000Z",
       "summary": "Strong consumer spending helps the US economy grow at a faster rate than expected."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel's Supreme Court to hear petitions against Army Radio's closure in January",
-      "url": "https://www.jpost.com/israel-news/article-881117",
-      "image": null,
-      "published_at": "2025-12-23T14:59:35.000Z",
-      "summary": "By the time the High Court hearing takes place in late January, elements of the dismantling process may already be underway."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel Hofsheet petitions High Court to freeze haredi national-civic service track",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-881109",
-      "image": null,
-      "published_at": "2025-12-23T14:19:19.000Z",
-      "summary": "Israel Hofsheet asked the High Court to freeze the national civic service track it says lets haredi men avoid IDF enlistment without a legal basis."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2210,26 +2230,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-422f-d8bb-a7fb-dfbfeb070000/84/ba/8abe3fb3441dbb6dbdca3e3abff5/162616.jpg?height=81",
       "published_at": "2025-12-21T19:58:19.000Z",
       "summary": "The far-right's admiration for the Netanyahu regime's blatant disregard for human rights and international norms eclipses the fascists' dislike of Jews"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Hundreds gather in Tel Aviv for Hanukkah ceremony to honor last remaining deceased hostage Ran Gvili",
-      "url": "https://www.haaretz.com/israel-news/2025-12-21/ty-article/.premium/hundreds-gather-in-tel-aviv-for-hanukkah-ceremony-to-honor-last-remaining-hostage/0000019b-4232-dab8-ad9f-723e04b90000",
-      "image": "https://img.haarets.co.il/bs/0000019b-423d-dedd-a59b-eafd2a2e0000/17/e6/318063f5457eba62ffe4bb852dbf/190009.jpg?height=81",
-      "published_at": "2025-12-21T19:05:58.000Z",
-      "summary": "Ran Gvili, who was killed fighting Hamas infiltrators on October 7, and his body was abducted to Gaza, has yet to be returned to Israel, and his relatives and other hostage families are fighting against the pressure to move on to the next stage of the cease-fire"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "The real useful idiots are those who don't dare criticize Haredi abuse of Israel's democracy",
-      "url": "https://www.haaretz.com/opinion/2025-12-21/ty-article-opinion/.premium/the-real-useful-idiots-dont-dare-criticize-haredi-abuse-of-israels-democracy/0000019b-41ec-dedd-a59b-ebfd3e2b0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-0864-d999-ad9f-8fef129d0001/88/5e/87aab0f24deb816f66b59b2611b6/290514.jpg?height=81",
-      "published_at": "2025-12-21T18:39:15.000Z",
-      "summary": "Religious Zionist lawmakers pander to Haredi politicians, letting them trample on the rule of law and the foundational concept of a shared, public and universal draft"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
