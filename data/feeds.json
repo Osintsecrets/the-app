@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-12-24T14:40:38.306Z",
+  "generated_at": "2025-12-24T15:10:08.296Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Ester Ben David’s Zionist blueprint for building a stronger state",
+      "url": "https://www.jpost.com/israel-news/culture/article-881258",
+      "image": null,
+      "published_at": "2025-12-24T17:09:10.000Z",
+      "summary": "At Zionist Investments, CEO Ester Ben David treats real estate as a national and private mission"
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Chatam: The Anglo community in Rehovot you’ve probably never heard of",
+      "url": "https://www.jpost.com/israel-news/culture/article-881255",
+      "image": null,
+      "published_at": "2025-12-24T16:56:37.000Z",
+      "summary": "Rabbi Agishtein, “Everyone compromises on something. But what we gain here – the unity, the sincerity, the sense that people really have your back – those things are priceless.”"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -42,10 +62,20 @@
       "summary": "Prime Minister Benjamin Netanyahu was not present, as he was speaking at the Israel Air Force pilot cadets ceremony."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "החותמת הסופית לתפקוד חיל האוויר ב-7/10 - והאלוף שגבר על האמברגו | המינויים שאושרו",
+      "url": "https://www.ynet.co.il/news/article/skpaurtmbe",
+      "image": null,
+      "published_at": "2025-12-24T15:01:34.000Z",
+      "summary": "אחרי שתחקיר חיל האוויר, ועדת תורג'מן וסיכום הרמטכ\"ל ניקו את תפקוד החיל בפרוץ המלחמה, גם כ\"ץ השתכנע ואישר את החלטת הרמטכ\"ל למנות את ראש המטה למפקד חיל האוויר הבא. על חיל הים יפקד הקצין שהצליח בדרכים מפותלות לחמש את צה\"ל במלחמה הארוכה ובצל החרמות"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "'Israel will respond': PMO vows reprisal for Hamas ceasefire violation after officer wounded by IED",
+      "title": "'Israel will respond': PM vows reprisal for Hamas ceasefire violation after officer wounded by IED",
       "url": "https://www.jpost.com/israel-news/defense-news/article-881236",
       "image": null,
       "published_at": "2025-12-24T14:49:13.000Z",
@@ -642,6 +672,16 @@
       "summary": "Ukraine has tried to evacuate areas of Sumy region near the Russian border, but many civilians have refused to leave."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Two police officers killed in explosion in Moscow ",
+      "url": "https://www.bbc.com/news/articles/cz68z3wn1e3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7580/live/8078e4b0-e099-11f0-8d52-c5145d57eac0.jpg",
+      "published_at": "2025-12-24T08:58:48.000Z",
+      "summary": "An explosion was detonated after police approached a 'suspicious' individual in Moscow, authorities said. "
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1052,16 +1092,6 @@
       "summary": "Some members of Israel's ruling coalition still claim that Qatargate is not affecting Netanyahu's standing, but the scandal is part of his soft underbelly on the right – alongside the Haredi draft evasion law"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "חופרים לנו בור ביו\"ש",
-      "url": "https://www.ynet.co.il/news/article/b1h1fk00m11g",
-      "image": null,
-      "published_at": "2025-12-24T03:56:00.000Z",
-      "summary": "מאחורי \"המהפכה הארכיאולוגית\" בשטחים מסתתר מהלך שלא רק מנוגד לחוק הבינלאומי, אלא גם מדרדר את הארכיאולוגיה הישראלית כולה אל פי תהום"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -1200,16 +1230,6 @@
       "image": null,
       "published_at": "2025-12-23T23:32:06.000Z",
       "summary": "One of the most veteran and recognizable broadcasters and soccer commentators in the country, Meller was regarded as one of Israel’s leading experts on world soccer."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Email by 'A' from 'Balmoral' asked Ghislaine Maxwell for 'inappropriate friends', Epstein files show",
-      "url": "https://www.bbc.com/news/articles/cm28g5exx09o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c65e/live/64d03910-e018-11f0-a378-fd9ff3d870e9.jpg",
-      "published_at": "2025-12-23T22:48:09.000Z",
-      "summary": "A newly released email sent to Ghislane Maxwell from \"A\" is among the latest set of Epstein files released by the US' House Committee on Oversight and Reform."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1472,16 +1492,6 @@
       "summary": "State Comptroller Matanyahu Englman pointed out various longstanding security flaws in the separation barrier between Israel and the West Bank, stating that they created the risk of an October 7 infiltration event, which should keep Israel's leadership 'awake at night'"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Itamar Shlesinger's remains found after two years near Ein Hod in northern Israel",
-      "url": "https://www.jpost.com/israel-news/article-881126",
-      "image": null,
-      "published_at": "2025-12-23T17:25:43.000Z",
-      "summary": "Shlesinger, a 33-year-old from Haifa, went missing on September 22, 2023, after being involved in a car accident in the Ein Hod area of the Carmel."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1500,16 +1510,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-4c07-d02f-a7ff-dcdf5f280000/74/2e/469dae1a403a9cd98d01b3117a5a/203660.jpg?height=81",
       "published_at": "2025-12-23T16:18:27.000Z",
       "summary": "Had their plans come to fruition, the gun rampage would have resulted in 'one of, if not the, deadliest terrorist attacks in U.K. history,' said a counter-terrorism police authority. European security officials caution that Islamic State and affiliate groups are once again looking to export violence"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "US accuses Israel of 'provoking' Arab nations as Katz says 'no intention' to resettle Gaza",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-881130",
-      "image": null,
-      "published_at": "2025-12-23T16:17:14.000Z",
-      "summary": "\"The more Israel provokes, the less the Arab countries want to work with them,\" US officials told The Jerusalem Post."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1810,16 +1810,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-4c8e-d866-abff-7effd3bd0000/91/0e/b975a83a46208804082126982119/aqb.PNG?height=81",
       "published_at": "2025-12-23T02:36:25.000Z",
       "summary": ""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "What Friday's underwhelming Epstein files release means for Trump and Maga",
-      "url": "https://www.bbc.com/news/articles/cy95w0x9889o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5c6/live/a05dad80-dfd4-11f0-a8dc-93c15fe68710.jpg",
-      "published_at": "2025-12-23T00:24:25.000Z",
-      "summary": "Conservative influencers were conspicuously silent following the latest release - but political danger remains for the president."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
