@@ -1,11 +1,21 @@
 {
-  "generated_at": "2025-12-24T11:36:19.046Z",
+  "generated_at": "2025-12-24T12:18:11.077Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "IDF airstrikes on Hezbollah positions in southern Lebanon as tensions escalate",
+      "title": "Police arrest 5 in connection with attacking and killing Palestinian shepherd’s sheep",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-881231",
+      "image": null,
+      "published_at": "2025-12-24T14:15:44.000Z",
+      "summary": "Footage taken after the attack showed at least one of the sheep lying dead and bloodied in the pen alongside other livestock, which were also huddled in their pen."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF strikes Hezbollah launch sites and infrastructure in southern Lebanon",
       "url": "https://www.jpost.com/israel-news/defense-news/article-881222",
       "image": null,
       "published_at": "2025-12-24T13:32:16.000Z",
@@ -35,21 +45,101 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Muslim Zionist detained at al-Aqsa Mosque over yellow hostage pin",
+      "title": "'Bitter irony': American Muslim Zionist says he was detained at al-Aqsa over hostage pin",
       "url": "https://www.jpost.com/israel-news/article-881212",
       "image": null,
       "published_at": "2025-12-24T12:26:26.000Z",
       "summary": "\"If acknowledging innocent Jewish hostages is considered 'provocation,' then we must ask ourselves: What have we done to our faith?\" Laghari said. "
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Video: India launches ‘heaviest satellite’ into orbit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/24/video-india-launches-heaviest-satellite-into-orbit?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-24T12:09:44.000Z",
+      "summary": "India has launched what it says is the heaviest satellite ever lifted from the country, using an Indian-made launcher. "
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Zamir secures Katz's approval for new IDF air force and navy chiefs after delays",
+      "title": "After standoff, Katz approves Zamir's IDF air force, navy chief appointments",
       "url": "https://www.jpost.com/israel-news/defense-news/article-881215",
       "image": null,
       "published_at": "2025-12-24T12:05:46.000Z",
       "summary": "After months of delays, IDF Chief Eyal Zamir secures Defense Minister Katz’s approval for new air force and navy chiefs amid ongoing political tensions over military appointments."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Katz okays next heads of air force, navy after months of delay amid spat with Zamir",
+      "url": "https://www.timesofisrael.com/katz-okays-next-heads-of-air-force-navy-after-months-of-delay-amid-spat-with-zamir/",
+      "image": null,
+      "published_at": "2025-12-24T12:05:27.000Z",
+      "summary": "Defense minister says IDF's probes and review by defense establishment comptroller show no issues affecting promotion of Brig. Gen. Omer Tischler and Vice Adm. Eyal Harel\nThe post Katz okays next heads of air force, navy after months of delay amid spat with Zamir appeared first on The Times of Israe"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "How extremist settlers coordinate organized violence to expel Palestinians",
+      "url": "https://www.timesofisrael.com/how-extremist-settlers-coordinate-organized-violence-to-expel-palestinians/",
+      "image": null,
+      "published_at": "2025-12-24T12:02:07.000Z",
+      "summary": "Settlers from West Bank outpost Or Meir publicize and celebrate ousting of Bedouin residents in West Bank; Musabah family describes losing everything after property torched in June\nThe post How extremist settlers coordinate organized violence to expel Palestinians appeared first on The Times of Isra"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Stokes concerned for England’s mental wellbeing on Ashes tour of Australia",
+      "url": "https://www.aljazeera.com/sports/2025/12/24/stokes-concerned-for-england-mental-well-being-on-ashes-tour-of-australia?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-24T11:57:46.000Z",
+      "summary": "The England cricket team have come in for heavy criticism of their performance and conduct on losing Ashes tour."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "UK campaigners among five denied US visas",
+      "url": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1545/live/d4822640-e0bf-11f0-aae2-2191c0e48a3b.jpg",
+      "published_at": "2025-12-24T11:53:53.000Z",
+      "summary": "The Trump administration bans five people who have called for tech regulation from entering the country. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "שופט כינה מחבל \"מנוח\" - וננזף ע\"י הנציב: \"תיאור לא ראוי למי שהורשע בטרור\"",
+      "url": "https://www.ynet.co.il/news/article/b1tszrkxzl",
+      "image": null,
+      "published_at": "2025-12-24T11:52:19.000Z",
+      "summary": "עקב תלונה שהוגשה נגד שופט שלום שפסק בסוגיית סוכת האבלים שהוקמה למען המחבל וליד דקה, נציב התלונות על השופטים אשר קולה העיר כי נוסח החלטתו \"יצר אי-נוחות ותחושת ריכוך ביחס למחבל ולמעשיו, תוך גילוי רגישות חד-צדדית לבני משפחתו\". במקביל הדגיש: \"לא מתערב בשיקול הדעת השיפוטי\""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Zelensky moves towards demilitarised zones in latest peace plan for Ukraine",
+      "url": "https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40df/live/1a904fa0-e0ab-11f0-8516-3db1ae351283.jpg",
+      "published_at": "2025-12-24T11:43:47.000Z",
+      "summary": "On the key question of Ukraine's eastern Donbas, Zelensky says a \"free economic zone\" is a potential option."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Zelenskyy unveils details of new peace plan, seeks Trump talks on territory",
+      "url": "https://www.aljazeera.com/news/2025/12/24/zelenskyy-unveils-details-of-new-peace-plan-seeks-trump-talks-on-territory?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-24T11:42:50.000Z",
+      "summary": "President says negotiators secured gains on issues like army numbers, but control of Donbas &#039;most difficult point&#039;."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -159,17 +249,7 @@
       "url": "https://www.timesofisrael.com/netanyahus-graft-trial-briefly-paused-after-his-defense-attorney-shouts-at-judges/",
       "image": null,
       "published_at": "2025-12-24T10:19:44.000Z",
-      "summary": "Argument breaks out over evidence from state witness Nir Hefetz; 'How is it relevant?' challenges PM's attorney Hadad; judge raps him for disorderly conduct\nThe post Netanyahu&#8217;s graft trial briefly paused after his defense attorney shouts at judges appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Zelensky moves towards demilitarised zones in latest peace plan for Ukraine",
-      "url": "https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40df/live/1a904fa0-e0ab-11f0-8516-3db1ae351283.jpg",
-      "published_at": "2025-12-24T10:19:21.000Z",
-      "summary": "On the key question of Ukraine's eastern Donbas, Zelensky says a \"free economic zone\" is a potential option."
+      "summary": "Argument breaks out over evidence from state witness Nir Hefetz; 'How is it relevant?' challenges PM's lawyer Hadad; judge raps him for disorderly conduct\nThe post Netanyahu&#8217;s graft trial briefly paused after his defense attorney shouts at judges appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -227,7 +307,7 @@
       "topic": "News",
       "title": "Venezuela accuses US of 'extortion' over seizure of oil tankers",
       "url": "https://www.bbc.com/news/articles/cd749gqgg11o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db3b/live/c8da8940-e0ab-11f0-8516-3db1ae351283.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c219/live/46dd06e0-e0b8-11f0-a5d4-dbc340b0ceeb.jpg",
       "published_at": "2025-12-24T09:46:14.000Z",
       "summary": "An emergency meeting of the UN Security Council was called to discuss the US seizure of two tankers."
     },
@@ -819,7 +899,7 @@
       "url": "https://www.timesofisrael.com/liveblog-december-24-2025/",
       "image": null,
       "published_at": "2025-12-24T02:35:47.000Z",
-      "summary": "Small groups of demonstrators hold signs telling coalition it can't 'bury the truth' * IDF says it targeted Hezbollah rocket launch sites, infrastructure in wave of strikes\nThe post Chikli calls for probe into Qatargate allegations, in 1st such demand from a minister appeared first on The Times of I"
+      "summary": "Bereaved father ahead of Knesset vote on Oct.7 probe: Coalition ‘desecrating the memory of the fallen’ * Katz approves next heads of air force, navy after months of delay amid spat with Zamir\nThe post Chikli calls for probe into Qatargate allegations, in 1st such demand from a minister appeared firs"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -885,7 +965,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Trump trips, a fake video and 10 possible co-conspirators - Takeaways from new Epstein files",
+      "title": "Trump trips, a fake video and 10 possible co-conspirators: Takeaways from new Epstein files",
       "url": "https://www.bbc.com/news/articles/c5yj4yvx80do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/087f/live/81fcd950-e05c-11f0-9159-192719f5c187.jpg",
       "published_at": "2025-12-24T01:08:43.000Z",
@@ -905,31 +985,11 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "US denies visas to ex-EU commissioner and others over social media rules",
-      "url": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1292/live/5259b830-e05c-11f0-bdd6-e11ea3d501a5.jpg",
-      "published_at": "2025-12-24T00:45:28.000Z",
-      "summary": "Thierry Breton, the former top tech regulator at the European Commission, says a \"witch hunt\" is taking place."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Australia to deport British man charged with displaying Nazi symbols",
       "url": "https://www.bbc.com/news/articles/cgke51rzpvro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10c7/live/ce7bd6b0-e060-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2025-12-24T00:25:04.000Z",
       "summary": "The immigration minister said the man is an unwelcome \"guest\" in Australia."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Russia-Ukraine war: List of key events, day 1,399",
-      "url": "https://www.aljazeera.com/news/2025/12/24/russia-ukraine-war-list-of-key-events-day-1399?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-24T00:20:30.000Z",
-      "summary": "These are the key developments from day 1,399 of Russia’s war on Ukraine."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1012,16 +1072,6 @@
       "summary": "A newly released email sent to Ghislane Maxwell from \"A\" is among the latest set of Epstein files released by the US' House Committee on Oversight and Reform."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Report: Israel began airdropping weapons to Syrian Druze days after Assad&#8217;s ouster",
-      "url": "https://www.timesofisrael.com/report-israel-began-airdropping-weapons-to-syrian-druze-days-after-assads-ouster/",
-      "image": null,
-      "published_at": "2025-12-23T22:35:19.000Z",
-      "summary": "Defensive equipment shipments continue, but arms deliveries tapered off as Israel sought talks with Sharaa and grew wary of Syrian Druze infighting, sources tell Washington Post\nThe post Report: Israel began airdropping weapons to Syrian Druze days after Assad&#8217;s ouster appeared first on The Ti"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1050,26 +1100,6 @@
       "image": null,
       "published_at": "2025-12-23T22:14:19.000Z",
       "summary": "המטוס הפרטי של רמטכ\"ל צבא לוב המריא מאנקרה לטריפולי, אך הקשר נותק אחרי ההמראה. \"המטוס ביקש לבצע נחיתת חירום, ואז הקשר אבד\", אמר שר הפנים הטורקי. בהמשך הודיע ראש ממשלת לוב שהרמטכ\"ל נהרג בהתרסקות"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "What are Mamdani&#8217;s policy proposals that could directly impact Jewish New Yorkers?",
-      "url": "https://www.timesofisrael.com/what-are-mamdanis-policy-proposals-that-could-directly-impact-jewish-new-yorkers/",
-      "image": null,
-      "published_at": "2025-12-23T22:13:00.000Z",
-      "summary": "New York City's incoming mayor has outlined plans that could affect the Jewish community on security, education, and the Israel parade \nThe post What are Mamdani&#8217;s policy proposals that could directly impact Jewish New Yorkers? appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"אין סיכוי לנורמליזציה עם ישראל - אנחנו במלחמה\": העמדה בלבנון, והבעיה מאיראן",
-      "url": "https://www.ynet.co.il/news/article/r1cdbiox11g",
-      "image": null,
-      "published_at": "2025-12-23T22:11:46.000Z",
-      "summary": "שר החוץ של לבנון הדגיש כי נורמליזציה לא באופק, אך הבהיר כי גם נוכחות חיזבאללה - לצד החימוש והמימון שזורמים מאיראן - לא יתקבלו. \"הביטחון דורש את פירוק זרועות הביטחון והצבא של חיזבאללה\", אמר. הוא האשים את חיזבאללה בניסיון סחיטה של הממשלה, והוסיף: \"הם מקווים לשינוי בממשל האמריקני\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1112,16 +1142,6 @@
       "summary": ""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Belgium joins South Africa’s genocide case against Israel at ICJ",
-      "url": "https://www.aljazeera.com/news/2025/12/23/belgium-joins-south-africas-genocide-case-against-israel-at-icj?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-23T21:11:38.000Z",
-      "summary": "Other countries, including Brazil, Colombia, Ireland, Mexico, Spain and Turkiye, have already joined case in The Hague."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1140,16 +1160,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-4cf8-d866-abff-7ef935c60000/ca/68/05cdb3644f719284b71bd55a67e3/760835.jpg?height=81",
       "published_at": "2025-12-23T21:00:52.000Z",
       "summary": "In a new circular, the Health Ministry introduced new restrictions on sperm donation to reduce the possibility of genetic mutations. Potential sperm donors will also be required to present thorough documentation and undergo several kinds of tests"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "How will Syria deal with its growing security challenges?",
-      "url": "https://www.aljazeera.com/video/inside-story/2025/12/23/how-will-syria-deal-with-its-growing-security-challenges?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-23T20:59:14.000Z",
-      "summary": "Renewed fighting between army and SDF highlights volatility."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1480,16 +1490,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-3c52-d8f0-a9db-7dfe29ce0002/56/80/39a63ef04dc5930f22d7db9c1e51/whatsapp-image-2025-12-19-at-14-51-12.jpeg?height=81",
       "published_at": "2025-12-23T13:53:35.000Z",
       "summary": "The 17-year-old was questioned on suspicion of desecrating a sacred object with the intent to insult a religion, punishable by up to three years in prison. According to sources close to the girl, she said she blew out the candles because she thought someone had left them burning"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "In wake of Feldstein interview, October Council, opposition MK urge probes into PMO conduct",
-      "url": "https://www.jpost.com/israel-news/article-881105",
-      "image": null,
-      "published_at": "2025-12-23T13:50:18.000Z",
-      "summary": "In an urgent letter sent to Shin Bet chief David Zini, the council said Feldstein’s remarks raised “reasonable suspicion” that senior figures in the PMO were involved in the Qatargate."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
