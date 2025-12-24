@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-24T21:08:15.919Z",
+  "generated_at": "2025-12-24T21:35:59.697Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF strikes Hezbollah terrorist in southern Lebanon",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-881299",
+      "image": null,
+      "published_at": "2025-12-24T23:11:15.000Z",
+      "summary": "The terrorist was struck near Jannata, the Israeli military confirmed."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Haaretz Cartoon",
+      "url": "https://www.haaretz.com/opinion/daily-cartoon/2025-12-24/ty-article-opinion/haaretz-cartoon/0000019b-5241-d02f-a7ff-d2db9fc20000",
+      "image": "https://img.haarets.co.il/bs/0000019b-5242-d7a5-abbb-5af743bc0001/a1/f3/ba4a9d75464fa25b13bd7ca0696b/biderman-cartoon.jpg?height=81",
+      "published_at": "2025-12-24T21:30:21.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Qatargate: Former Netanyahu campaigner asked spokesperson to look after Qatari 'friends'",
+      "url": "https://www.haaretz.com/israel-news/2025-12-24/ty-article/.premium/former-netanyahu-campaigner-asked-spokesperson-to-look-after-qatari-friends/0000019b-5164-d02f-a7ff-d1ff92940000",
+      "image": "https://img.haarets.co.il/bs/0000019b-5164-d02f-a7ff-d1ff94590001/93/64/fd73f5d04143b101acc7b43a1c6c/506874-2.jpg?height=81",
+      "published_at": "2025-12-24T21:18:04.000Z",
+      "summary": "Upon receiving a document which echoed pro-Qatar and anti-Egypt sentiments from Netanyahu ex-spokesperson Eli Feldstein, Einhorn responded: 'strong stuff.' Later in his interrogation, Einhorn said Feldstein 'screwed his life'"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "המלחמה נגמרה, השחיקה במילואים גוברת: \"רוב הצוות לא יגיע לסבב הבא\"",
+      "url": "https://www.ynet.co.il/news/article/b13fsofx11g",
+      "image": null,
+      "published_at": "2025-12-24T21:11:28.000Z",
+      "summary": "בשיחה עם ynet, סיפר לוחם בסיירת שריון על החלטתו שלא להתייצב לסבב המילואים הקרוב - ועל העייפות של חבריו לכוח. \"עשינו יותר מ-300 ימים. יש חבר'ה שפוטרו, כאלו שהמשפחה בקושי עומדת על הרגליים\", שיתף. \"ההחלטה לא באה בקלות - זה הכי חרא שיש\""
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -22,6 +62,16 @@
       "summary": "The US Department of Justice says reviewing the material could delay release by a \"few more weeks\". "
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat",
+      "url": "https://www.aljazeera.com/news/2025/12/24/israeli-forces-kill-wound-palestinians-as-netanyahu-issues-hamas-threat?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-24T20:56:04.000Z",
+      "summary": "Israeli forces breach Gaza ceasefire, killing a Palestinian and wounding six, including a child, in multiple attacks."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -30,6 +80,16 @@
       "image": null,
       "published_at": "2025-12-24T20:51:24.000Z",
       "summary": "The Defense Ministry denied the claim, saying no instruction had been issued to terminate consultant contracts at the station and that contracts would be extended until February 28, 2026"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Amad Diallo scores goal as Ivory Coast win against Mozambique at AFCON",
+      "url": "https://www.aljazeera.com/sports/2025/12/24/amad-diallo-scores-goal-as-ivory-coast-win-against-mozambique-at-afcon?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-24T20:48:22.000Z",
+      "summary": "A lone goal by the Manchester United forward is enough for Ivory Coast to successfully begin their AFCON title defence."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1242,36 +1302,6 @@
       "summary": "בנה של כלת פרס ישראל, שאיבד את שני אחיו במלחמות ישראל, קרא להרחבת שורות המשרתים ואמר בצל קידום חוק ההשתמטות לאולפן ynet: \"אני מקווה שאנחנו בדרך לתיקון, שהחרדים הקיצונים שמפגינים הם לא הרוב. הוכחנו שאפשר להילחם יחד, עכשיו המשימה היא לחיות יחד\""
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF says Hamas finance official killed in same strike as second-in-command",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-881196",
-      "image": null,
-      "published_at": "2025-12-24T10:04:03.000Z",
-      "summary": "Zaqout was responsible for recruiting and transferring tens of millions of dollars to the Qassam Brigades to support its operations against Israel."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Aid cuts push Sudan deeper into “acute hunger”",
-      "url": "https://www.aljazeera.com/video/quotable/2025/12/24/aid-cuts-push-sudan-deeper-into-acute?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-24T09:57:27.000Z",
-      "summary": "&quot;The impact of the funding cut is very clear on the humanitarian aid.&quot;"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Arab League welcomes Sudanese gov’t peace plan presented at UN",
-      "url": "https://www.aljazeera.com/news/2025/12/24/arab-league-welcomes-sudanese-govt-peace-plan-presented-at-un?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-24T09:53:25.000Z",
-      "summary": "Paramilitary RSF group rejects plan, saying that proposals for its withdrawal are &#039;closer to fantasy than to politics&#039;."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1280,16 +1310,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c219/live/46dd06e0-e0b8-11f0-a5d4-dbc340b0ceeb.jpg",
       "published_at": "2025-12-24T09:46:14.000Z",
       "summary": "An emergency meeting of the UN Security Council was called to discuss the US seizure of two tankers."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "שר הביטחון: אישרתי את מינוי המועמדים של הרמטכ\"ל למפקדי חיל האוויר וחיל הים",
-      "url": "https://www.ynet.co.il/news/article/sjfj4efxbl",
-      "image": null,
-      "published_at": "2025-12-24T09:37:24.000Z",
-      "summary": "כ\"ץ ירד מהעץ? תא\"ל עומר טישלר שהיה ראש מטה חיל האוויר ואלוף אייל הראל, שהיה ראש מספן הים, ומשמש ראש אגף התכנון, ימונו למפקדי החילות. שניהם נחשבו למועמדי הרמטכ\"ל, אך מינויים עוכב על ידי שר הביטחון במשך חודשים בעקבות כיפופי ידיים עם זמיר. כ\"ץ: \"נותר להשלים את תחקיר 'חומת יריחו'\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2190,26 +2210,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-45a0-d0fc-a7ff-f7e95fbb0000/76/5e/fe68735c4eb6a4ff16bfa3ad8ee8/276197.jpg?height=81",
       "published_at": "2025-12-22T13:02:05.000Z",
       "summary": "Alongside a decline in public trust in Israeli democracy, the report also reveals a drop in confidence in state institutions among all respondents. Meanwhile, the attorney general enjoys the trust of less than 40 percent of both Jewish and Arab respondents"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Could Umm Kulthum have been a lesbian? New film reignites long-suppressed debate",
-      "url": "https://www.haaretz.com/life/2025-12-22/ty-article-magazine/.premium/could-umm-kulthum-have-been-a-lesbian-new-film-reignites-long-suppressed-debate/0000019b-4588-d0fc-a7ff-f7e9f8060000",
-      "image": "https://img.haarets.co.il/bs/0000019b-458f-d4ce-a3df-5dafc1e50007/98/49/f3150f0246a3b6fd66dec1576451/64207076.JPG?height=81",
-      "published_at": "2025-12-22T13:00:19.000Z",
-      "summary": "The release of a new film has reopened taboo questions about the private life of Egypt's most revered cultural icon, and the limits of what can be said about her"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Netanyahu government unanimously votes to shutter Army Radio by March 1",
-      "url": "https://www.haaretz.com/israel-news/2025-12-22/ty-article/.premium/netanyahu-government-unanimously-votes-to-shutter-army-radio-by-march-1/0000019b-45df-d41d-adfb-75ff963b0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-45eb-d4ce-a3df-5deb80990001/01/24/03d49c6543ada2af6f7186efd46f/575796.jpg?height=81",
-      "published_at": "2025-12-22T12:49:57.000Z",
-      "summary": "Attorney General Gali Baharav-Miara said before the cabinet's approval that Defense Minister Israel Katz's bill cannot be advanced, with her deputies calling the move to close the popular radio station a 'profound and significant infringement on freedom of speech'"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
