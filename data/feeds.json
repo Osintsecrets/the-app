@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-24T07:40:30.481Z",
+  "generated_at": "2025-12-24T08:14:22.668Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF: Hamas military wing finance official Abdel Zaqout killed two weeks ago alongside Ra'ad Sa'ad",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-881196",
+      "image": null,
+      "published_at": "2025-12-24T10:04:03.000Z",
+      "summary": "Zaqout was responsible for recruiting and transferring tens of millions of dollars to the Qassam Brigades to support its operations against Israel."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,11 +25,41 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
+      "title": "עובדת סוציאלית גנבה תלושי מזון לנזקקים בשווי אלפי שקלים - וקנתה איתם בסופר",
+      "url": "https://www.ynet.co.il/news/article/bkrgowfmbg",
+      "image": null,
+      "published_at": "2025-12-24T08:06:43.000Z",
+      "summary": "לפי הודאתה, העובדת מחריש תכננה את הגניבה ממשרד מנהלת הלשכה והגיעה לפניה לעבודה. היא לקחה 13 תווים ובמשך חודשיים בעלה רכש איתם מוצרים בסופר. על כך נידונה לחודשיים מאסר שירוצו בעבודות שירות, השופטת: \"הסכום נגרע משולחן משפחות מעוטות יכולת. לא שוכנעתי כי חרטתה כנה\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בדרך להקדמת הבחירות? נתניהו ביקש מסביבתו להיערך לפיזור הכנסת בקרוב",
+      "url": "https://www.ynet.co.il/news/article/bjeuabkqzg",
+      "image": null,
+      "published_at": "2025-12-24T07:57:18.000Z",
+      "summary": "נתניהו מתעקש כלפי חוץ שהממשלה תשלים את ימיה. שרים בכירים שמשוחחים עימו שומעים התחייבות להעברת חוק הפטור מגיוס, אבל הקשיים מול החרדים יכולים לשנות את התמונה. בכיר בממשלה מודה: \"הליכוד נערך לפיזור הכנסת\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
       "title": "בצה\"ל מודים: עשרות מיליוני דולרים הוזרמו השנה לזרוע הצבאית של חמאס",
       "url": "https://www.ynet.co.il/news/article/hj05emkqwl",
       "image": null,
       "published_at": "2025-12-24T07:25:48.000Z",
       "summary": "יותר משנתיים מפרוץ המלחמה, ארגון הטרור מצליח לגייס עשרות מיליוני דולרים. בהודעה של דובר צה\"ל בערבית נאמר כי מאחורי גיוס הכסף עמד עבד אל-חי זקות, שחוסל בתקיפה שבה נהרג מספר 2 בחמאס-עזה ראאד סעד"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "China’s rising economic influence in the Middle East",
+      "url": "https://www.aljazeera.com/video/money-works/2025/12/24/chinas-rising-economic-influence-in-the-middle-east?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-24T07:25:29.000Z",
+      "summary": "China’s rising economic influence in the Middle East"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -135,7 +175,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "\"החקירה תהפוך לבדיחה\": משפחות שכולות מפגינות מול בתי שרים נגד ועדה פוליטית",
+      "title": "\"החקירה תהפוך לבדיחה\": משפחות שכולות הפגינו מול בתי שרים נגד ועדה פוליטית",
       "url": "https://www.ynet.co.il/news/article/byvdsefqzl",
       "image": null,
       "published_at": "2025-12-24T06:02:07.000Z",
@@ -385,11 +425,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Protests outside lawmakers&#8217; homes ahead of 1st vote on politically appointed Oct. 7 probe",
+      "title": "Protests outside ministers&#8217; homes ahead of 1st vote on politically appointed Oct. 7 probe",
       "url": "https://www.timesofisrael.com/liveblog-december-24-2025/",
       "image": null,
       "published_at": "2025-12-24T02:35:47.000Z",
-      "summary": "Small groups of demonstrators hold signs telling coalition it can't 'bury the truth' * Israeli mother, child extracted from Bethlehem after illegally entering West Bank city\nThe post Protests outside lawmakers&#8217; homes ahead of 1st vote on politically appointed Oct. 7 probe appeared first on The"
+      "summary": "Small groups of demonstrators hold signs telling coalition it can't 'bury the truth' * Israeli mother, child extracted from Bethlehem after illegally entering West Bank city\nThe post Protests outside ministers&#8217; homes ahead of 1st vote on politically appointed Oct. 7 probe appeared first on The"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -865,11 +905,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "The judicial coup is about to open a new front: stomping over women's and LGBTQ rights",
+      "title": "The judicial coup has opened a new front targeting women and LGBTQ rights",
       "url": "https://www.haaretz.com/opinion/2025-12-23/ty-article-opinion/.premium/the-judicial-coup-is-about-to-open-a-new-front-stomping-over-womens-and-lgbtq-rights/0000019b-4c72-d034-ab9b-ccff6f060000",
       "image": "https://img.haarets.co.il/bs/0000019b-4ca3-df6b-a7db-fdb737330000/df/29/f418a3d649b18e8903e5a80923ac/570942.jpg?height=81",
       "published_at": "2025-12-23T20:36:12.000Z",
-      "summary": "The appointment of religious-nationalist MK Limor Son Har-Melech as chair of the Knesset Labor, Welfare Health Committee means that the erosion of women's rights in Israel, which has been quietly taking place for several years, will now accelerate"
+      "summary": "The appointment of a religious-nationalist, far-right lawmaker as chair of the Knesset's Health Committee means that the erosion of women's rights in Israel will now accelerate"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1122,16 +1162,6 @@
       "summary": "רעידת אדמה בשירות: ש' פורש אחרי 30 שנים, לפי גורמים ביטחוניים, לאחר עימות עם דוד זיני. בין המחלוקות: דיווח של ש' לבג\"ץ על פגישות של ראש השב\"כ עם איש השירות שחשוד בהדלפה. \"זיני קיבל את בקשת ש' לסיים את תפקידו\", אמרו בארגון"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Jackson scores two goals as Senegal defeat Botswana at AFCON",
-      "url": "https://www.aljazeera.com/sports/2025/12/23/jackson-scores-two-goals-as-senegal-defeat-botswana-at-afcon?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-23T18:00:02.000Z",
-      "summary": "Two goals in 18 minutes from forward Nicolas Jackson set the tone for Senegal&#039;s Group D win over Botswana at AFCON 2025."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1202,16 +1232,6 @@
       "summary": "רופאים, כלכלנים ומהנדסים: אחרי שיחות עם הפלגים הפלסטיניים, העבירה מצרים לישראל רשימה של 80 אנשים שייקחו חלק בגוף הטכנוקרטי שינהל את הרצועה. גורם פלסטיני טען כי הם מנותקים מכל עיסוק פוליטי או פעילות חמושה, אך הדגיש: כל עוד חמאס מחזיק בנשק - הוא ינהיג בפועל"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הורשעו תומכי דאעש שתכננו מתקפת טרור בבריטניה: \"רצו לרצוח כמה שיותר יהודים\"",
-      "url": "https://www.ynet.co.il/news/article/rjecjnoxbe",
-      "image": null,
-      "published_at": "2025-12-23T16:31:46.000Z",
-      "summary": "וואליד סעדאוי ועמאר חוסיין תכננו פיגוע ירי המוני נגד הקהילה היהודית באנגליה, שסוכל אחרי יצירת קשר עם הסוכן הסמוי \"פארוק\" - שבעזרתו ניסה להבריח כלי נשק. השניים הועמדו לדין אחרי הפיגוע בבית הכנסת במנצ'סטר ביום כיפור, וכעת הורשעו - יחד עם אחיו של סעדאוי, שלא דיווח על מזימת הטרור של אחיו"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1240,16 +1260,6 @@
       "image": null,
       "published_at": "2025-12-23T16:16:04.000Z",
       "summary": "As Yerevan shifts toward the West and Jerusalem, Armenian organizations in Washington launch a coordinated public campaign against Israeli-Azerbaijani cooperation."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "דיווחים: בלבנון חושדים שהמוסד חטף בכיר צבאי לשעבר - שקשור להיעלמות של רון ארד",
-      "url": "https://www.ynet.co.il/news/article/hjgvteomwl",
-      "image": null,
-      "published_at": "2025-12-23T16:06:44.000Z",
-      "summary": "בסעודיה דיווחו כי קצין לבנוני לשעבר בשם אחמד שוכר, קרוב משפחתו של רמטכ\"ל חיזבאללה שחוסל בשנה שעברה, נחטף בידי ארגון הביון הישראלי - בשל האפשרות שהיה קשור לחטיפת הנווט הישראלי ב-1986. לפי אחד הדיווחים, במבצע השתתפו שני אזרחי שבדיה"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1670,16 +1680,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-4c8e-d866-abff-7effd3bd0000/91/0e/b975a83a46208804082126982119/aqb.PNG?height=81",
       "published_at": "2025-12-23T02:36:25.000Z",
       "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Feldstein says 'Netanyahu erased concept of responsibility for October 7,' in first KAN interview",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-881051",
-      "image": null,
-      "published_at": "2025-12-23T01:58:26.000Z",
-      "summary": "Former military spokesman for the Prime Minister Eli Feldstein gave a public interview on Monday for the first time since he was accused over the Bild and Qatargate cases."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
