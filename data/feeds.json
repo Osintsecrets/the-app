@@ -1,6 +1,66 @@
 {
-  "generated_at": "2025-12-24T06:16:17.977Z",
+  "generated_at": "2025-12-24T06:53:16.724Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "שיקלי קורא \"לחקור עד תום\" את קטאר-גייט: \"זה נראה מזעזע, אין דרך להגן\"",
+      "url": "https://www.ynet.co.il/news/article/h1heq11t711g",
+      "image": null,
+      "published_at": "2025-12-24T06:46:39.000Z",
+      "summary": "שר התפוצות אמר כי \"קטאר היא מדינת אויב מצורעת וזה פשע לעבוד איתה\", והוסיף: \"זה נראה רע מאוד\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia-Ukraine war live: Ukraine’s Zaporizhia comes under deadly attack",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/12/24/russia-ukraine-war-live-at-least-2-killed-in-ukraines-zaporizhia?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-24T06:38:44.000Z",
+      "summary": "Russian attack on Ukraine&#039;s Zaporizhia region kills at least one and injures three, according to its governor."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Three people killed in explosion in Moscow: Russian investigators",
+      "url": "https://www.aljazeera.com/news/2025/12/24/three-people-killed-in-explosion-in-moscow-russian-investigators?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-24T06:31:19.000Z",
+      "summary": "Two traffic police officers were among those killed, authorities said."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Bureaucratic blunder, not security concern, delayed Bondi terrorist&#8217;s gun license",
+      "url": "https://www.timesofisrael.com/bureaucratic-blunder-not-security-concern-delayed-bondi-terrorists-gun-license/",
+      "image": null,
+      "published_at": "2025-12-24T06:30:39.000Z",
+      "summary": "State leader says he doesn't know how Sajid Akram received permit despite son being investigated; Bondi's Jewish mayor was praised for fight against antisemitism ahead of shooting\nThe post Bureaucratic blunder, not security concern, delayed Bondi terrorist&#8217;s gun license appeared first on The T"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Shattered joy: Wedding celebrations cut short in Gaza after Israeli attack",
+      "url": "https://www.aljazeera.com/features/2025/12/24/shattered-joy-wedding-celebrations-cut-short-gaza-after-israeli-attack?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-24T06:21:46.000Z",
+      "summary": "Long-postponed wedding ended in devastation after Israeli artillery hit a building in Gaza, killing family members."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Victory against Israeli West Bank settlement offers Palestinians some hope",
+      "url": "https://www.aljazeera.com/features/2025/12/24/victory-against-israeli-west-bank-settlement-offers-palestinians-some-hope?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-24T06:11:10.000Z",
+      "summary": "Christian activist Kisiya regains access to family land after an Israeli court ruled against settlers in the West Bank."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -235,7 +295,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Report: Israeli Air Force attacks targets in Gaza City and Rafah",
+      "title": "Report: Israeli airstrikes hit Gaza City and Rafah",
       "url": "https://www.haaretz.com/israel-news/2025-12-24/ty-article-live/dozens-hurt-in-east-jerusalem-during-israel-police-and-idf-raid-red-crescent-says/0000019b-4e4e-d866-abff-7e7f43c20000",
       "image": "https://img.haarets.co.il/bs/00000194-c69e-d7dd-a7f5-e6ff226a0000/f2/23/bd30b1ef49f59d40733d86016acf/398288.jpg?height=81",
       "published_at": "2025-12-24T03:11:14.000Z",
@@ -255,21 +315,21 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Australian state passes tougher gun and anti-terror laws, bans calls to 'Globalize the intifada' after Hanukkah shooting",
+      "title": "Australian state, including Sydney, passes tougher laws on guns and protests after Bondi attack",
       "url": "https://www.haaretz.com/jewish/2025-12-24/ty-article/australian-state-passes-tougher-gun-and-anti-terror-laws-after-hanukkah-shooting/0000019b-4e32-d02f-a7ff-defbdc9d0000",
       "image": "https://img.haarets.co.il/bs/0000019b-45b5-dac2-a9bb-e7f517430001/3a/f9/cdd902024b84a2d3da6d4f8acea9/186372.jpg?height=81",
       "published_at": "2025-12-24T02:46:58.000Z",
-      "summary": "Pro-Palestine and activist groups slam 'draconian anti-protest laws' and plan legal challenge"
+      "summary": "'Sydney and New South Wales have changed forever as a result of that terrorist activity,' the state premier told reporters. Pro-Palestine and activist groups slam 'draconian anti-protest laws' and plan legal challenge"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Feldstein claims he was ‘used’ for Qatari interests, without realizing it at the time",
+      "title": "Protests outside lawmakers&#8217; homes ahead of 1st vote on politically appointed Oct 7 probe",
       "url": "https://www.timesofisrael.com/liveblog-december-24-2025/",
       "image": null,
       "published_at": "2025-12-24T02:35:47.000Z",
-      "summary": "Georgetown University appears to drop partnership with UN’s Albanese * US, Iran spar over nuclear talks at UN Security Council meeting\nThe post Feldstein claims he was ‘used’ for Qatari interests, without realizing it at the time appeared first on The Times of Israel.\n"
+      "summary": "Small groups of activists hold signs telling coalition it can't 'bury the truth' * Israeli mother, child extracted from Bethlehem after illegally entering West Bank city\nThe post Protests outside lawmakers&#8217; homes ahead of 1st vote on politically appointed Oct 7 probe appeared first on The Time"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -449,7 +509,7 @@
       "url": "https://www.ynet.co.il/news/article/yokra14618993",
       "image": null,
       "published_at": "2025-12-23T22:56:31.000Z",
-      "summary": "בבוקר 7 באוקטובר, גל דסקלו ותום יוסף התמודדו עם אלפי השיחות שזרמו למוקד - בזמן שבעליהן, יוני ואור, לחמו בשטח. השניים נפצעו קשה מאוד בשדה הקרב, המפקד שלהם, סגן ניצב איציק בוזוקשוילי ז\"ל נפל בלחימה, וגל ותום נאלצו לתמרן בין הסיוע לבני הזוג בשיקום לחזרה לעבודה. מהחדר המשותף בבית החולים, לחזרתם לשירות -"
+      "summary": "בבוקר 7 באוקטובר, תום דסקלו וגל יוסף התמודדו עם אלפי השיחות שזרמו למוקד - בזמן שבעליהן, יוני ואור, לחמו בשטח. השניים נפצעו קשה מאוד בשדה הקרב, המפקד שלהם, סגן ניצב איציק בוזוקשוילי ז\"ל נפל בלחימה, וגל ותום נאלצו לתמרן בין הסיוע לבני הזוג בשיקום לחזרה לעבודה. מהחדר המשותף בבית החולים, לחזרתם לשירות -"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -932,16 +992,6 @@
       "summary": "British punk duo led anti-Israel chant onstage at Glastonbury music festival in June, drawing condemnation from UK, US government, and a BBC apology for not cutting its broadcast\nThe post UK police drop probe into Bob Vylan over ‘death to the IDF’ chant appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Belgium joins South Africa&#8217;s genocide case against Israel",
-      "url": "https://www.timesofisrael.com/belgium-joins-south-africas-genocide-case-against-israel/",
-      "image": null,
-      "published_at": "2025-12-23T18:54:55.000Z",
-      "summary": "Brussels files declaration of intervention, joining Brazil, Colombia, Ireland, Mexico, Spain and Turkey in supporting the case against Israel at the World Court\nThe post Belgium joins South Africa&#8217;s genocide case against Israel appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1062,26 +1112,6 @@
       "summary": "The political and economic Sahel Summit is attracting an unusual group of attendees. Young people."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Newly released Epstein files spotlight Trump’s past jet trips with Maxwell",
-      "url": "https://www.aljazeera.com/news/2025/12/23/newly-released-epstein-files-spotlight-trumps-past-jet-trips-with-maxwell?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-23T17:52:59.000Z",
-      "summary": "Prosecutor&#039;s email claims Trump flew on Epstein&#039;s jet eight times in the 1990s, some with Ghislaine Maxwell on board."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "People sheltering at Sudan displacement camp say they ’pray for peace’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/23/people-sheltering-at-sudan-displacement-camp-say-they-pray-for?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-23T17:36:38.000Z",
-      "summary": "Every day, dozens of displaced people, mostly women and children, are arriving at a camp near Kosti, Sudan."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1090,16 +1120,6 @@
       "image": null,
       "published_at": "2025-12-23T17:25:43.000Z",
       "summary": "Shlesinger, a 33-year-old from Haifa, went missing on September 22, 2023, after being involved in a car accident in the Ein Hod area of the Carmel."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israeli forces demolish shops in raids near occupied East Jerusalem",
-      "url": "https://www.aljazeera.com/news/2025/12/23/israeli-forces-demolish-shops-in-raids-near-occupied-east-jerusalem?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-23T17:16:54.000Z",
-      "summary": "Commercial premises among buildings facing demolition as military incursions intensify near Qalandiya and Kafr Aqab."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1140,16 +1160,6 @@
       "image": null,
       "published_at": "2025-12-23T16:45:31.000Z",
       "summary": "רופאים, כלכלנים ומהנדסים: אחרי שיחות עם הפלגים הפלסטיניים, העבירה מצרים לישראל רשימה של 80 אנשים שייקחו חלק בגוף הטכנוקרטי שינהל את הרצועה. גורם פלסטיני טען כי הם מנותקים מכל עיסוק פוליטי או פעילות חמושה, אך הדגיש: כל עוד חמאס מחזיק בנשק - הוא ינהיג בפועל"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Pirate motorcyclists cruise Caracas to protest Trump",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/23/pirate-motorcyclists-cruise-caracas-to-protest-trump?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-23T16:42:12.000Z",
-      "summary": "Motorcyclists dressed as pirates cruised Caracas to protest US President Donald Trump&#039;s Venezuelan oil tanker seizures."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1260,16 +1270,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-4aa0-d866-abff-7af1377d0000/f8/da/2e30890246f384360b4d3cfe3170/195674-2.jpg?height=81",
       "published_at": "2025-12-23T14:45:35.000Z",
       "summary": "Field Marshal Asim Munir may win favor with Donald Trump by sending troops to Gaza, but it's a high-stakes gamble, with Islamist power centers ready to accuse him of 'appeasing' Israel"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "החשודים בתקיפת האישה ההרה ביפו שוחררו למעצר בית והורחקו מהעיר",
-      "url": "https://www.ynet.co.il/news/article/hknxvspxbe",
-      "image": null,
-      "published_at": "2025-12-23T14:20:22.000Z",
-      "summary": "3 החשודים שוחררו למעצר בית למשך 6 ימים. בהחלטתו קבע השופט כי ״קיים חשד סביר למעשים״, והורה על הרחקתם מהעיר ואיסור יצירת קשר בין המעורבים"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
