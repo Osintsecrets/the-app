@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-24T23:37:13.197Z",
+  "generated_at": "2025-12-25T00:45:36.658Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Bomb blast in packed Nigerian mosque kills five",
+      "url": "https://www.bbc.com/news/articles/c0je3v3en01o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d587/live/62ecd360-e126-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2025-12-25T00:19:53.000Z",
+      "summary": "Another 35 people were injured in the explosion during evening prayers in the city of Maiduguri, police say. "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,46 @@
       "image": null,
       "published_at": "2025-12-25T00:12:29.000Z",
       "summary": "\"Foreign governments will not restrict the right of Jews to live in the land of Israel, and any such call is morally wrong and discriminatory against Jews,\" Sa'ar said."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"נתניהו הודה שמינוי בן גביר וסמוטריץ' היה טעות\": הטענה של ראש הליגה נגד השמצה לשעבר",
+      "url": "https://www.ynet.co.il/news/article/bym1uatqwx",
+      "image": null,
+      "published_at": "2025-12-25T00:05:11.000Z",
+      "summary": "בריאיון לספר מאמרים חדש שיצא בארה״ב, טען עורך הדין היהודי-אמריקני אברהם פוקסמן כי ראש הממשלה הודה בפניו שמינוי השרים \"היה טעות\", ואף צירף תמליל של השיחה. לדבריו, נתניהו הוסיף בשיחה שהתקיימה בלשכתו בירושלים ב-2023: \"אני אתקן את זה\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Explosion rocks crowded mosque in Nigeria, killing several people: Reports",
+      "url": "https://www.aljazeera.com/news/2025/12/24/explosion-rocks-crowded-mosque-in-nigeria-killing-several-people-reports?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-24T23:57:46.000Z",
+      "summary": "The blast tore through a mosque in Maiduguri as worshippers gathered for evening prayers, witnesses say. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Democratic lawmaker sues to remove Trump's name from Kennedy Center ",
+      "url": "https://www.bbc.com/news/articles/c79x0x7v70go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b47/live/82abccd0-e0f2-11f0-a016-cd64476883b3.jpg",
+      "published_at": "2025-12-24T23:39:24.000Z",
+      "summary": "Rep Joyce Beatty, who sits on the centre's board, argues the name change is illegal because it requires approval from Congress."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Israel investing more than $100 billion into independent arms industry, Netanyahu reveals",
+      "url": "https://www.timesofisrael.com/israel-investing-more-than-100-billion-into-independent-arms-industry-netanyahu-reveals/",
+      "image": null,
+      "published_at": "2025-12-24T23:33:01.000Z",
+      "summary": "Premier says Israel will build an independent munitions industry over the next decade, 'reduce dependence on all players' after threat of arms embargoes, boycotts during Gaza war\nThe post Israel investing more than $100 billion into independent arms industry, Netanyahu reveals appeared first on The "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -85,7 +135,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Trump-backed candidate Nasry Asfura wins Honduras presidential election",
+      "title": "Trump-backed candidate wins in knife-edge Honduran election",
       "url": "https://www.bbc.com/news/articles/cyvgz1jn368o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/573d1250-e10d-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2025-12-24T22:25:29.000Z",
@@ -140,16 +190,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-51d0-d866-abff-7bf152e90000/9a/0d/801812534998b30d7b8598cede54/055474-1.jpg?height=81",
       "published_at": "2025-12-24T22:09:36.000Z",
       "summary": "Abbas is the weakest link among Israel's Arab leadership, because of both his Islamism and his desire to curry favor with the Jews. But there is not and will not be an alternative to the Netanyahu government without a partnership with the Arab parties"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Bomb blast in packed Nigerian mosque kills five",
-      "url": "https://www.bbc.com/news/articles/c0je3v3en01o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd92/live/a0bd0280-e0fb-11f0-b67b-690eb873de1b.png",
-      "published_at": "2025-12-24T22:08:27.000Z",
-      "summary": "Another 35 people were injured in the explosion during evening prayers in the city of Maiduguri, police say. "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -612,16 +652,6 @@
       "summary": "בלי א-סיסי, ובצל המתיחות עם טורקיה ואיראן: רה\"מ ונשיא ארה\"ב ייפגשו בשבוע הבא במאר א-לאגו וינסו להגיע להסכמות בשורה של נושאים, בהם מאמצי השיקום של טהרן, המעבר לשלב ב' בעזה והדד-ליין לפירוק חיזבאללה. \"הכול צריך להיסגר ביניהם\", הבהירו בישראל. הלו\"ז, הדילמות, ואם החטוף שתצטרף לפגישה"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Democratic board member muted during Kennedy Center vote sues to remove Trump's name",
-      "url": "https://www.bbc.com/news/articles/c79x0x7v70go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b47/live/82abccd0-e0f2-11f0-a016-cd64476883b3.jpg",
-      "published_at": "2025-12-24T18:11:10.000Z",
-      "summary": "US Representative Joyce Beatty claims the renaming of the venue is illegal because the change requires \"an act of Congress\"."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -920,16 +950,6 @@
       "image": null,
       "published_at": "2025-12-24T15:39:52.000Z",
       "summary": "Pianist's one-night show features him with headliner Israeli musicians\nThe post Concert of former captive Alon Ohel sells out in hours appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Israel vows response to Hamas &#8216;violations&#8217; after officer injured in Gaza blast",
-      "url": "https://www.timesofisrael.com/israel-vows-response-to-hamas-violations-after-officer-injured-in-gaza-blast/",
-      "image": null,
-      "published_at": "2025-12-24T15:39:49.000Z",
-      "summary": "Prime Minister's Office warns military will take action; IDF says top Hamas money man killed alongside terror chief in strike earlier this month\nThe post Israel vows response to Hamas &#8216;violations&#8217; after officer injured in Gaza blast appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1282,16 +1302,6 @@
       "summary": "Libya mourns military chief Mohammed Ali Ahmed al-Haddad, who was seen as a unifying figure amid political divisions."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "קצין נפצע קל ממטען ברפיח; נתניהו: חמאס ממשיך להפר את ההסכם, נגיב בהתאם",
-      "url": "https://www.ynet.co.il/news/article/hyec6it7ze",
-      "image": null,
-      "published_at": "2025-12-24T12:36:51.000Z",
-      "summary": "מטען הופעל על משוריין מסוג נמ\"ר בעת פעילות לטיהור תשתיות טרור בשכונת ג'ניינה, שנמצאת כמו כל רפיח בשליטת צה\"ל וממזרח לקו הצהוב. קצין גולני נפצע קל, נתניהו פרסם באנגלית: \"חמאס ממשיך להפר את הפסקת האש ואת תוכנית 20 הנקודות של טראמפ. יש לחייב את חמאס להסכם עליו חתמו\""
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1360,16 +1370,6 @@
       "image": null,
       "published_at": "2025-12-24T11:57:46.000Z",
       "summary": "The England cricket team have come in for heavy criticism of their performance and conduct on losing Ashes tour."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Zelenskyy unveils details of new peace plan, seeks Trump talks on territory",
-      "url": "https://www.aljazeera.com/news/2025/12/24/zelenskyy-unveils-details-of-new-peace-plan-seeks-trump-talks-on-territory?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-24T11:42:50.000Z",
-      "summary": "President says negotiators secured gains on issues like army numbers, but control of Donbas &#039;most difficult point&#039;."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
