@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-12-25T08:13:59.561Z",
+  "generated_at": "2025-12-25T08:46:58.597Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israel Police denies claims officers raided Haifa Christmas event after footage spreads online",
+      "url": "https://www.jpost.com/israel-news/article-881327",
+      "image": null,
+      "published_at": "2025-12-25T10:39:12.000Z",
+      "summary": "The Israel Police’s statement comes after outlets, including the Qatar state-run Al Jazeera, shared footage of the arrests, claiming the police had “stormed” the Christmas event."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF: Four km. of Gaza tunnels destroyed, dozens of terrorists killed over recent months",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-881324",
+      "image": null,
+      "published_at": "2025-12-25T10:12:17.000Z",
+      "summary": "IDF forces also located approximately 10 mortar bombs hidden inside a children’s blanket in a residential building in the Beit Hanoun area."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -32,6 +52,26 @@
       "summary": "The announcement gave no details on the terrorist targeted in the action."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
+      "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-25T08:23:47.000Z",
+      "summary": "Riyadh calls seizure of oil-rich provinces &#039;unjustified escalation&#039; as fragile anti-Houthi alliance shows cracks."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ניצח את נסראללה: בן הפלסטינים שקיבל את תמיכת טראמפ נבחר לנשיא",
+      "url": "https://www.ynet.co.il/news/article/bk7jtpc7ze",
+      "image": null,
+      "published_at": "2025-12-25T08:15:17.000Z",
+      "summary": "נאסרי אספורה הוכרז כזוכה בבחירות בהונדורס, בסיומה של סאגה בספירת הקולות ואחרי תקלות טכניות וטענות לזיופים. הוא גבר בפער דחוק על סלבדור נסראללה, גם הוא בן למהגרים פלסטינים, שלא מכיר בניצחונו. במהלך הבחירות קרא טראמפ להצביע לאספורה, איים להפסיק את הסיוע הכלכלי להונדורס הענייה אם לא ינצח - והואשם בהתער"
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -55,7 +95,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Sound of Israel’s bombs, drone hums drown out Christmas in Gaza",
+      "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
       "url": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-25T07:47:23.000Z",
@@ -137,7 +177,7 @@
       "topic": "News",
       "title": "Front-runner to be Bangladesh PM returns after 17 years in exile",
       "url": "https://www.bbc.com/news/articles/crk733k1k1eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdd/live/65413f50-e155-11f0-a8dc-93c15fe68710.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/40b11f80-e16d-11f0-a0bc-9fe6b7032229.jpg",
       "published_at": "2025-12-25T06:44:21.000Z",
       "summary": "Tarique Rahman, who has lived in London since 2008, arrives weeks before for pivotal elections are held.\n"
     },
@@ -292,6 +332,16 @@
       "summary": "&#039;Main reason for optimism&#039; is a belief that war in Ukraine will end in 2026 with Moscow&#039;s &#039;objectives&#039; achieved."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Waterskiing Santas and giant cuts of meat: Christmas around the world",
+      "url": "https://www.bbc.com/news/articles/ce8nep787pyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4671/live/6b0b5c90-e12d-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2025-12-25T04:23:56.000Z",
+      "summary": "From London to Bethlehem, services and festivities to mark the holiday cheer are in full swing."
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -349,7 +399,7 @@
       "url": "https://www.ynet.co.il/news/article/ngwj8hvq6",
       "image": null,
       "published_at": "2025-12-25T03:46:49.000Z",
-      "summary": "הטמפרטורות היום יהיו מעט גבוהות מהרגיל, מחר המגמה תשתנה וייתכן טפטוף. בשבת תחל המערכת המשמעותית, והגשמים יתחזקו בראשון - אז צפוי לרדת שלג בחרמון, לצד עוצמות גשם חזקות במישור החוף הדרומי. חשש לשיטפונות והצפות"
+      "summary": "הטמפרטורות היום יהיו מעט גבוהות מהרגיל, מחר המגמה תשתנה וייתכן טפטוף. בשבת תחל המערכת המשמעותית, והגשמים יתחזקו בראשון - אז צפוי לרדת שלג בחרמון, לצד עוצמות גשם חזקות במישור החוף הדרומי. חשש לשיטפונות והצפות, מנהל השירות המטאורולוגי לאולפן ynet: \"התחממות הכדור מייבשת את הצפון\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1132,16 +1182,6 @@
       "summary": "Former Man City forward Riyad Mahrez scores twice in Algeria&#039;s 3-0 win against Sudan in Group E."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Algeria declares France’s colonial rule a crime in new law",
-      "url": "https://www.aljazeera.com/news/2025/12/24/algeria-declares-frances-colonial-rule-a-crime-in-new-law?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-24T17:49:21.000Z",
-      "summary": "Algeria’s new law declares French colonial rule a crime, seeking accountability and reparations for the colonial past."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1252,16 +1292,6 @@
       "summary": "After decades of service to the state and people of Israel, Keren Hayesod has once again proven indispensable – fueling aid, resilience, and recovery efforts across Israel over the past two years\n"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "תקרית דיפלומטית בכותל: השגריר הרוסי הוזמן להדלקת נר, מקבילו האוקראיני עזב בכעס",
-      "url": "https://www.ynet.co.il/news/article/r1hpkryxzl",
-      "image": null,
-      "published_at": "2025-12-24T16:19:57.000Z",
-      "summary": "שגריר אוקראינה בישראל, שרק לאחרונה ננזף אחרי שגינה בריאיון ל-ynet את קשרי נתניהו-פוטין, נטש אירוע שיזם שר החוץ סער: \"היו צריכים להודיע מראש ששגריר רוסיה נמצא. לא היינו מזמינים נציג ישראלי לאירוע עם האיראנים בקייב\". הנוכחות הדלה בהדלקת הנרות, ותגובת משרד החוץ: \"לא הבחנו במישהו שנטש\""
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1295,16 +1325,6 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Hapoel Tel Aviv stays atop Euroleague with road conquest of Bayern Munich",
-      "url": "https://www.jpost.com/israel-news/sports/article-881239",
-      "image": null,
-      "published_at": "2025-12-24T15:33:19.000Z",
-      "summary": "Hapoel Tel Aviv defeated Bayern Munich by ten points in the match, improving the Reds’ first-place record to 13-5 on the season."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
       "title": "Knesset passes preliminary vote on political probe into October 7",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-881241",
       "image": null,
@@ -1320,16 +1340,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1545/live/d4822640-e0bf-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2025-12-24T15:09:56.000Z",
       "summary": "The Trump administration bans five people who have called for tech regulation from entering the country. "
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "'Israel will respond': PM vows reprisal for Hamas ceasefire violation after officer wounded by IED",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-881236",
-      "image": null,
-      "published_at": "2025-12-24T14:49:13.000Z",
-      "summary": "The officer sustained light injuries and was evacuated to a hospital for treatment. The IDF confirmed that his family has been notified."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1590,16 +1600,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dcc/live/6596ecd0-e00a-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2025-12-24T00:02:58.000Z",
       "summary": "Allegations of graft and political interference in the police have been aired at public hearings."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Crisis in India-Bangladesh relations spirals amid violent protests",
-      "url": "https://www.bbc.com/news/articles/c4gekjjqn1ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0163/live/8754eff0-dfe9-11f0-a8dc-93c15fe68710.jpg",
-      "published_at": "2025-12-23T23:34:35.000Z",
-      "summary": "Recent deadly protests in Bangladesh are further straining Delhi's already frayed tied with Dhaka."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
