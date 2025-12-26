@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-26T17:07:59.181Z",
+  "generated_at": "2025-12-26T17:37:40.220Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -30,6 +30,26 @@
       "image": null,
       "published_at": "2025-12-26T17:33:47.000Z",
       "summary": "The 17-year-old suspect and her 19-year-old relative were summoned for questioning at the police station on suspicion of offending religious feelings."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
+      "url": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da5/live/70bfb750-e257-11f0-adaa-4b49d24d5c3b.jpg",
+      "published_at": "2025-12-26T17:30:03.000Z",
+      "summary": "The Ukrainian leader says he will see the US president in Florida and believes \"a lot can be decided before the new year\"."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "In surprising breakthrough, scientists in Israel find cancer may help heal the failing heart",
+      "url": "https://www.timesofisrael.com/in-surprising-breakthrough-scientists-in-israel-find-cancer-may-help-heal-the-failing-heart/",
+      "image": null,
+      "published_at": "2025-12-26T17:27:09.000Z",
+      "summary": "A study by researchers at the Technion finds that injecting cancerous serum in mice decreased cardiac fibrosis, paving the way for innovative therapies\nThe post In surprising breakthrough, scientists in Israel find cancer may help heal the failing heart appeared first on The Times of Israel.\n"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -65,11 +85,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "\"מכפיל כוח נגד החות'ים\": ישראל הראשונה באו\"ם שמכירה בסומלילנד, טורקיה ומצרים כבר גינו",
+      "title": "\"מכפיל כוח נגד החות'ים\": המדינה המוסלמית שישראל מכירה בה - ותצטרף להסכמי אברהם",
       "url": "https://www.ynet.co.il/news/article/bkuixv2x11e",
       "image": null,
       "published_at": "2025-12-26T16:09:16.000Z",
-      "summary": "ישראל וסומלילנד, חבל ארץ מוסלמי שהתפצל מסומליה לפני 30 שנה, הכריזו על הכרה הדדית - וישראל היא המדינה הראשונה שחברה באו\"ם שמכירה בסומלילנד כמדינה ריבונית. ברקע - דיווחים שסומלילנד נבחנה כיעד לקליטת עזתים, והמיקום האסטרטגי שלה מול החות'ים בתימן. כך סייע המוסד מאחורי הקלעים "
+      "summary": "ישראל וסומלילנד, חבל ארץ שהתפצל מסומליה לפני 30 שנה, הכריזו על הכרה הדדית - וישראל היא הראשונה באו\"ם שמכירה בסומלילנד כמדינה ריבונית. טורקיה ומצרים מיהרו לגנות. ברקע: דיווחים שסומלילנד נבחנה כיעד לקליטת \"מיליון עזתים\", והמיקום האסטרטגי מול החות'ים. כך סייע המוסד מאחורי הקלעים "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -90,16 +110,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9531/live/c40b2e50-e255-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2025-12-26T16:00:36.000Z",
       "summary": "Police say the attacker, from the occupied West Bank, ran over at least one person before stabbing another victim several miles away."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
-      "url": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da5/live/70bfb750-e257-11f0-adaa-4b49d24d5c3b.jpg",
-      "published_at": "2025-12-26T15:49:13.000Z",
-      "summary": "The Ukrainian leader says he will see the US president in Florida and believes \"a lot can be decided before the new year\"."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -435,7 +445,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Egypt vs South Africa – AFCON 2025",
+      "title": "LIVE: Egypt vs South Africa 1-0 – AFCON 2025",
       "url": "https://www.aljazeera.com/sports/liveblog/2025/12/26/live-egypt-vs-south-africa-afcon-2025?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-26T12:01:03.000Z",
@@ -770,16 +780,6 @@
       "image": null,
       "published_at": "2025-12-26T06:37:41.000Z",
       "summary": "בעשר שכונות אירעו לפחות 10 עבירות מין לעומת שכונה אחת אשתקד, פסגת זאב בירושלים היא \"בירת\" גניבות הרכב, בהדר הכרמל שבחיפה היו כמעט פי 2 עבירות סמים מבכל שכונה אחרת. אחרי הסתרה משטרתית: נתוני הפשיעה הועברו לתנועה לחופש המידע, נותחו על ידי מדלן - ונחשפים ב-ynet. אלו 50 השכונות שבראש הרשימה המפוקפקת - ו"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Lazar Focus: Eran Ortal on where does the IDF go after October 7?",
-      "url": "https://www.timesofisrael.com/lazar-focus-eran-ortal-on-where-does-the-idf-go-after-october-7/",
-      "image": null,
-      "published_at": "2025-12-26T06:29:55.000Z",
-      "summary": "The brigadier-general (res.), a leading military theorist, says Israel needs a new strategy that employs cutting-edge technology to achieve decisive victory\nThe post Lazar Focus: Eran Ortal on where does the IDF go after October 7? appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
