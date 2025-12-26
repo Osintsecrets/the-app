@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-12-26T13:47:10.679Z",
+  "generated_at": "2025-12-26T14:09:34.785Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Private clinic employee charged after allegedly attempting to access medical records of ex-hostage",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-881474",
+      "image": null,
+      "published_at": "2025-12-26T16:04:45.000Z",
+      "summary": "The employee was said to have attempted to gain access to the private file of a former hostage despite not needing such information to perform the duties of their job."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Two people dead in stabbing, car-ramming attack in Israel",
+      "url": "https://www.aljazeera.com/news/2025/12/26/two-people-dead-in-stabbing-car-ramming-attack-in-israel?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-26T13:49:46.000Z",
+      "summary": "Attack comes a day after Israeli army reservist in civilian clothes rammed into Palestinian man praying on roadside."
+    },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
@@ -25,11 +45,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "אביב מאור ושמשון מרדכי הם הנרצחים בפיגוע המשולב בעמק",
+      "title": "50 דקות של דריסה ודקירה: אביב מאור ושמשון מרדכי הם הנרצחים בפיגוע המשולב",
       "url": "https://www.ynet.co.il/news/article/r1qgnzn7be",
       "image": null,
       "published_at": "2025-12-26T13:34:40.000Z",
-      "summary": ""
+      "summary": "הותרו לפרסום שמותיהם של שני הנרצחים בפיגוע הקשה בעמק, שהחל בבית שאן עם דריסה של נער שנפצע קל ושל שמשון מרדכי בן ה-69 שעדי ראייה סיפרו כי נגרר על ידי רכב המחבל 50 מטר, משם ברצח בדקירות של אביב מאור בת ה-19 ליד עין חרוד - והסתיים בנטרול המחבל בכניסה לעפולה, שם נפצע גבר נוסף בינוני"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -540,16 +560,6 @@
       "image": null,
       "published_at": "2025-12-26T08:42:29.000Z",
       "summary": "בעקבות מידע מודיעיני על כוונות לביצוע הפרות סדר בבתי הכלא הביטחוניים על ידי המחבל מחמוד עטאללה, פרצו לוחמות ולוחמי שב\"ס לתאו. הוא נשלח לבידוד בצינוק. היום נחשף ב-ynet כי הסוהרות שהטריד מינית יפוצו במיליונים מהמדינה"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Will the Russia-Ukraine war end in 2026?",
-      "url": "https://www.aljazeera.com/news/2025/12/26/will-the-russia-ukraine-war-end-in-2026?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-26T08:40:15.000Z",
-      "summary": "A Ukrainian serviceman, ex-military chief and analysts predict what lies ahead."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1472,16 +1482,6 @@
       "summary": "The far-right minister became the second in Netanyahu's government to call for a full probe into alleged business ties between the prime minister's aides and Qatar, saying 'corrupt officials should be pilloried and sit behind bars for many years'"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel’s aviation rebounds in 2025 with 33% increase in passengers",
-      "url": "https://www.jpost.com/israel-news/article-881357",
-      "image": null,
-      "published_at": "2025-12-25T12:34:19.000Z",
-      "summary": "Ben Gurion Airport led the resurgence, recording roughly 134,000 takeoffs and landings, up 32 percent from the previous year."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1605,21 +1605,21 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Just how much did Netanyahu know about Qatargate?",
-      "url": "https://www.haaretz.com/opinion/editorial/2025-12-25/ty-article-opinion/just-how-much-did-netanyahu-know-about-qatargate/0000019b-5240-d866-abff-7a71dd150000",
-      "image": "https://img.haarets.co.il/bs/0000019b-524d-d866-abff-7a7dbaff0000/24/70/89d33dd24c22bb8dcf8f761dccd0/913350-2.jpg?height=81",
-      "published_at": "2025-12-25T06:19:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
       "title": "When did Israeli settler attacks become official Netanyahu government policy in the West Bank?",
       "url": "https://www.haaretz.com/israel-news/2025-12-25/ty-article/.premium/settler-attacks-are-feature-of-israels-west-bank-annexation-policy-not-a-bug/0000019b-4d0c-d02f-a7ff-dddf18770000",
       "image": "https://img.haarets.co.il/bs/0000019b-4203-dbc2-adbb-cbb317580000/56/43/3730310740ff81db8cefa391f65c/978753.jpg?height=81",
       "published_at": "2025-12-25T06:19:00.000Z",
       "summary": "The events of recent days underscore how Israel exploits settler terrorism, which has long ceased to be 'isolated clashes,' to establish facts on the ground while benefiting from global indifference. When armed settlers enjoy immunity, the message to Palestinians is clear: no one will protect you"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Just how much did Netanyahu know about Qatargate?",
+      "url": "https://www.haaretz.com/opinion/editorial/2025-12-25/ty-article-opinion/just-how-much-did-netanyahu-know-about-qatargate/0000019b-5240-d866-abff-7a71dd150000",
+      "image": "https://img.haarets.co.il/bs/0000019b-524d-d866-abff-7a7dbaff0000/24/70/89d33dd24c22bb8dcf8f761dccd0/913350-2.jpg?height=81",
+      "published_at": "2025-12-25T06:19:00.000Z",
+      "summary": ""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
