@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-26T13:05:36.941Z",
+  "generated_at": "2025-12-26T13:47:10.679Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Two killed in suspected Palestinian ramming and knife attack in Israel ",
+      "url": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9531/live/c40b2e50-e255-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2025-12-26T13:45:49.000Z",
+      "summary": "Police say the attacker, from the occupied West Bank, ran over at least one person before stabbing another victim several miles away."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -9,7 +19,37 @@
       "url": "https://www.jpost.com/israel-news/article-881470",
       "image": null,
       "published_at": "2025-12-26T13:41:47.000Z",
-      "summary": "The first victim was a 68-year-old man who was run over and killed near Beit She'an. The terrorist then fled in a vehicle, exiting to stab an 18-year-old woman on Route 71, who was also killed."
+      "summary": "The first victim was Shimshon Mordechai, a 68-year-old man who was run over near Beit She'an. The terrorist then fled in a vehicle, exiting it to kill 18-year-old Aviv Maor on Route 71."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אביב מאור ושמשון מרדכי הם הנרצחים בפיגוע המשולב בעמק",
+      "url": "https://www.ynet.co.il/news/article/r1qgnzn7be",
+      "image": null,
+      "published_at": "2025-12-26T13:34:40.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "IDF strikes elite Hezbollah unit&#8217;s training site in northeastern Lebanon",
+      "url": "https://www.timesofisrael.com/idf-strikes-elite-hezbollah-units-training-site-in-northeastern-lebanon/",
+      "image": null,
+      "published_at": "2025-12-26T13:23:28.000Z",
+      "summary": "Radwan Force has been tasked with invading Israel in operation similar to Oct. 7 attacks; strikes come as US-imposed New Year's deadline for Hezbollah's disarmament looms\nThe post IDF strikes elite Hezbollah unit&#8217;s training site in northeastern Lebanon appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US launches strikes against Islamic State in Nigeria",
+      "url": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de68/live/382eb510-e20e-11f0-86ca-d5a596a95198.png",
+      "published_at": "2025-12-26T13:20:19.000Z",
+      "summary": "President Donald Trump has previously accused the Nigerian government of failing to protect Christians from jihadist groups. "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -22,24 +62,74 @@
       "summary": "Movers and shakers in Israeli society."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Two killed in suspected Palestinian ramming and knife attack in Israel ",
-      "url": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9531/live/c40b2e50-e255-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2025-12-26T13:03:18.000Z",
-      "summary": "Police say the attacker, from the occupied West Bank, ran over at least one person before stabbing another victim several miles away."
+      "title": "US bombs target ISIL in Nigeria: What’s really going on?",
+      "url": "https://www.aljazeera.com/news/2025/12/26/us-bombs-target-isil-in-nigeria-whats-really-going-on?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-26T13:16:37.000Z",
+      "summary": "Trump says strikes are related to &#039;Christian genocide&#039; but attacks on Christian farmers happened in different area."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "US launches strikes against Islamic State in Nigeria",
-      "url": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de68/live/382eb510-e20e-11f0-86ca-d5a596a95198.png",
-      "published_at": "2025-12-26T12:57:38.000Z",
-      "summary": "President Donald Trump has previously accused the Nigerian government of failing to protect Christians from jihadist groups. "
+      "title": "China sanctions 30 US firms, individuals over Taiwan weapons sales",
+      "url": "https://www.aljazeera.com/news/2025/12/26/china-sanctions-30-us-firms-individuals-over-taiwan-weapons-sales?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-26T13:09:04.000Z",
+      "summary": "Beijing urged the US to cease &#039;dangerous&#039; efforts to arm the island, which it claims as its own."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Ancient humanity, surprise us: Best archaeology stories in 2025",
+      "url": "https://www.haaretz.com/archaeology/2025-12-26/ty-article-timeline/ancient-humanity-surprise-us-best-archaeology-stories-in-2025/0000019b-5481-d1ec-a59f-f5cf88390000",
+      "image": "https://img.haarets.co.il/bs/00000196-521f-d9e7-a3df-db7f7c0d0000/1e/ea/af98ea4c45bfa2f26c12e2c2bed5/61260162.JPG?height=81",
+      "published_at": "2025-12-26T13:09:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Terrorist accused of raping guards is punished in jail for plan to instigate riot",
+      "url": "https://www.timesofisrael.com/terrorist-accused-of-raping-guards-is-punished-in-jail-for-plan-to-instigate-riot/",
+      "image": null,
+      "published_at": "2025-12-26T13:08:32.000Z",
+      "summary": "Mahmoud Atallah handcuffed on floor after female guards entered his cell, is sent to solitary confinement; Palestinian security prisoner was denied release during hostage deals\nThe post Terrorist accused of raping guards is punished in jail for plan to instigate riot appeared first on The Times of I"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "המבצע בצפון השומרון -  וההיערכות לכניסה לעיר שממנה יצא המחבל",
+      "url": "https://www.ynet.co.il/news/article/bym9x112mwg",
+      "image": null,
+      "published_at": "2025-12-26T13:07:48.000Z",
+      "summary": "צה\"ל הודיע כי כוחות מתגברים את קו התפר לאחר הפיגוע המשולב, ואחרים נערכים לכניסה לקבאטיה - משם יצא השב\"ח שרצח גבר וצעירה. כך נראתה הפעילות בקבאטיה חאחרונה, וזו ההיערכות של הפלסטינים לפשיטה קרובה"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israel's Greece-Cyprus axis can't offset Turkey's rising regional clout",
+      "url": "https://www.haaretz.com/middle-east-news/2025-12-26/ty-article/.premium/israels-greece-cyprus-axis-cant-offset-turkeys-rising-regional-clout/0000019b-59a9-d02f-a7ff-d9fb0d0d0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-59b2-df6b-a7db-fdb739030001/58/bc/99de1a84436981e3f442a5b13347/198431.jpg?height=81",
+      "published_at": "2025-12-26T13:07:22.000Z",
+      "summary": "Netanyahu's 'triple alliance' with the two Mediterranean countries is intended as a show of force against Turkey's growing influence in Syria, as well as Erdogan's personal ties to Trump and Putin. But the alliance is a feeble one, and eventually, relations with Istanbul will have to thaw"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Iran’s government budget reveals tough road ahead as currency hits new low",
+      "url": "https://www.aljazeera.com/news/2025/12/26/irans-government-budget-reveals-tough-road-ahead-as-currency-hits-new-low?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-26T12:59:03.000Z",
+      "summary": "Prices of basic items like food are only expected to grow over the coming months as Iranians get poorer."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -85,11 +175,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "האכזריות של המחבל: \"התנגש ברכב בתל יוסף, רדף אחרי הצעירה ודקר אותה\"",
+      "title": "האכזריות של המחבל: \"התנגש ברכב בתל יוסף, רדף אחרי אביב ודקר אותה\"",
       "url": "https://www.ynet.co.il/news/article/b1u0000x3711l",
       "image": null,
       "published_at": "2025-12-26T12:31:55.000Z",
-      "summary": "לאחר שדרס למוות בן 68 בבית שאן, המשיך המחבל מקבאטיה במסע ההרג באמצעות רכבו שלקח לפי החשד ממעסיקו. לאחר שהתנגש ברכב הקיבוץ שבו הייתה הצעירה וידיד שלה, הם נמלטו לכיוונים מנוגדים. הוא רדף - ורצח אותה"
+      "summary": "לאחר שדרס למוות בן 68 בבית שאן, המשיך המחבל מקבאטיה במסע ההרג באמצעות רכבו שלקח לפי החשד ממעסיקו. לאחר שהתנגש ברכב הקיבוץ שבו הייתה אביב מאור וידיד שלה, הם נמלטו לכיוונים מנוגדים. הוא רדף - ורצח אותה"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -199,7 +289,7 @@
       "url": "https://www.haaretz.com/israel-news/2025-12-26/ty-article/.premium/two-killed-in-northern-israel-in-suspected-terrorist-attack/0000019b-5a62-df6b-a7db-ff7776d90000",
       "image": "https://img.haarets.co.il/bs/0000019b-5a63-d866-abff-7a7314bc0000/da/a3/85c591eb4eb9a55f6515985a3695/whatsapp-image-2025-12-26-at-12-58-55.jpeg?height=81",
       "published_at": "2025-12-26T11:30:02.000Z",
-      "summary": "A Palestinian from the West Bank suspected of both attacks was reportedly shot and moderately wounded while fleeing by car"
+      "summary": "Israeli authorities say the attacker, a Palestinian from the West Bank, ran over a man and later stabbed an 18-year old woman. He then proceeded to a nearby town where he was ultimately shot by a security guard"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -235,7 +325,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "פיגוע משולב בצפון: מחבל דרס למוות גבר ואת אביב בת ה-19 מקיבוץ עין חרוד",
+      "title": "פיגוע משולב בצפון: מחבל דרס למוות גבר בבית שאן ואת אביב בת ה-19 מקיבוץ עין חרוד",
       "url": "https://www.ynet.co.il/news/article/syotijh711l",
       "image": null,
       "published_at": "2025-12-26T10:45:51.000Z",
@@ -460,36 +550,6 @@
       "image": null,
       "published_at": "2025-12-26T08:40:15.000Z",
       "summary": "A Ukrainian serviceman, ex-military chief and analysts predict what lies ahead."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israel killed our dreams, but its genocide could not defeat us",
-      "url": "https://www.aljazeera.com/opinions/2025/12/26/israel-killed-our-dreams-but-its-genocide-could-not-defeat-us?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-26T08:33:28.000Z",
-      "summary": "I dreamed of becoming a teaching assistant; now I am charging phones for a living. But I refuse to give up."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Bangladesh election: Why BNP leader Tarique Rahman’s return matters",
-      "url": "https://www.aljazeera.com/news/2025/12/26/why-bnp-leader-tarique-rahmans-return-to-bangladesh-matters-ahead-of-vote?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-26T08:21:13.000Z",
-      "summary": "Rahman&#039;s return will bolster the BNP, and could stabilise Bangladesh politics amid chaos and violence, say experts."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Australia lead England after 20 wickets fall at Boxing Day Ashes Test",
-      "url": "https://www.aljazeera.com/sports/2025/12/26/australia-lead-england-after-20-wickets-fall-at-boxing-day-ashes-test?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-26T08:18:31.000Z",
-      "summary": "Australia slightly ahead of England after frenetic opening day in which both teams were bowled out cheaply at the MCG."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -762,26 +822,6 @@
       "summary": "\"This country is a curse. Judaism is a curse. I am done with both of them. Or rather, they finished me,\" Maayan Agmon-Kehati wrote on social media after the probe into her son's death was closed."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Two killed in stabbing-ramming terror attack in northern Israel",
-      "url": "https://www.timesofisrael.com/liveblog-december-26-2025/",
-      "image": null,
-      "published_at": "2025-12-26T02:39:12.000Z",
-      "summary": "IDF says terrorist entered Israel illegally from Qabatiya * Katz orders military action against his home village * Former Hadash MK Issam Makhoul dies at 72\nThe post Two killed in stabbing-ramming terror attack in northern Israel appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Poll: Most Israelis say PM should stop working with close aide Urich over Qatargate",
-      "url": "https://www.timesofisrael.com/poll-most-israelis-say-pm-should-stop-working-with-close-aide-urich-over-qatargate/",
-      "image": null,
-      "published_at": "2025-12-26T01:55:41.000Z",
-      "summary": "Channel 12 survey also finds just 35% say government's politically appointed October 7 probe will arrive at the truth; opposition leads in election poll, but doesn't reach majority\nThe post Poll: Most Israelis say PM should stop working with close aide Urich over Qatargate appeared first on The Time"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -820,16 +860,6 @@
       "image": null,
       "published_at": "2025-12-26T00:45:08.000Z",
       "summary": "Former Gaza hostage Romi Gonen shares her harrowing story of sexual abuse and survival in Hamas captivity during an emotional interview on Channel 12's \"Uvda.\""
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Culture minister says October 7 probe wouldn&#8217;t point to Netanyahu as &#8216;main, only culprit&#8217;",
-      "url": "https://www.timesofisrael.com/culture-minister-says-october-7-probe-wouldnt-point-to-netanyahu-as-main-culprit/",
-      "image": null,
-      "published_at": "2025-12-26T00:10:24.000Z",
-      "summary": "Miki Zohar claims 'all Israeli citizens were complacent' ahead of Hamas-led massacre; calls actions of Qatargate suspects 'immoral' but not necessarily criminal, praises Urich\nThe post Culture minister says October 7 probe wouldn&#8217;t point to Netanyahu as &#8216;main, only culprit&#8217; appeare"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1040,36 +1070,6 @@
       "image": null,
       "published_at": "2025-12-25T22:00:00.000Z",
       "summary": "המחלקה לחקירות שוטרים עלולה להפוך לגוף מבודד, מנותק מהסמכות והגיבוי של הצמרת המשפטית המקצועית, וחשוף לשיקולים זרים של שר פוליטי: ראש מח\"ש לשעבר, אורי כרמל, מזהיר מהצעת החוק המקודמת בוועדת החוקה ומסביר מדוע החליט להיעדר מהדיון בנושא, שהתקיים השבוע בכנסת"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אצל הבוס הסודיות דווקא לא מובטחת",
-      "url": "https://www.ynet.co.il/news/article/yokra14624777",
-      "image": null,
-      "published_at": "2025-12-25T22:00:00.000Z",
-      "summary": "פרשת הבילד היא קצה הקרחון: בשנה האחרונה חשפו נתניהו ודוברים מטעמו אין ספור קטעים מפגישות עבודה עם ראשי השב\"כ והמוסד, מהערכות מצב רגישות ומדוח פנימי סודי של האלוף זיני - חומרים שכולם משרתים אותו פוליטית | אף שהחוק מגביל מאוד את סמכותו של ראש הממשלה לפרסם מידע סודי, ורק לאחר התייעצות עם אנשי מקצוע, נת"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "את אבא הם לא יכירו | בני הזוג שלהן נפלו בזמן שהן היו בהיריון. עכשיו הן מדברות ",
-      "url": "https://www.ynet.co.il/news/article/yokra14621014",
-      "image": null,
-      "published_at": "2025-12-25T22:00:00.000Z",
-      "summary": "אלה, אימרי, רומי, אליה וארי לא ילכו עם אבא לגינת השעשועים, לא ישמעו ממנו סיפור לפני השינה ולא יקבלו ממנו נשיקה בברך אם ייפלו. חמש האימהות מספרות על התחושות המעורבות בחדר הלידה, ההחלטה לגדל את ילדיהן בבית שמח, ואיך - למרות הבור שנפער - האבות עדיין נוכחים בכל רגע בחיי הפעוטות שלא זכו לפגוש"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Settler reservist rams ATV into praying Palestinian in West Bank, is detained",
-      "url": "https://www.timesofisrael.com/settler-reservist-rams-atv-into-praying-palestinian-in-west-bank-idf-launches-probe/",
-      "image": null,
-      "published_at": "2025-12-25T21:34:33.000Z",
-      "summary": "Perpetrator earlier fired gun inside village, has been sent to house arrest; five Israelis arrested for throwing stones at Palestinian house, wounding eight-month-old baby\nThe post Settler reservist rams ATV into praying Palestinian in West Bank, is detained appeared first on The Times of Israel.\n"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2220,26 +2220,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-4c32-d034-ab9b-ccbfbeb70000/21/d6/b052efba493cae64f8d4fc90013a/203009.jpg?height=81",
       "published_at": "2025-12-23T19:31:50.000Z",
       "summary": "Several liberal U.S. Jewish organizations, including J Street, condemned U.S. President Donald Trump's restriction of holders of Palestinian identity cards as counterproductive to promoting peace in the region by 'delegitimizing the Palestinian Authority at a moment when support for it is essential'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Rabbi known for anti-LGBTQ and anti-Arab stances invited to speak about sexual violence prevention at Justice Ministry conference",
-      "url": "https://www.haaretz.com/israel-news/2025-12-23/ty-article/.premium/far-right-rabbi-to-address-sexual-violence-prevention-at-justice-ministry-conference/0000019b-4b7c-d2b2-affb-5f7ecfbe0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-4baa-d866-abff-7bfb450e0001/9c/bc/f126b88a4dda8bc984f5e595a9ba/556554.jpg?height=81",
-      "published_at": "2025-12-23T18:39:04.000Z",
-      "summary": "Rabbi Shmuel Eliyahu is an activist for the prevention of sexual violence in religious society. Over the years, his extensive record of extremist and racist statements includes condemnations for women singing and integrating into the army and calls for the forced transfer of Arab Israelis"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "New data reveals the astronomical cost of Netanyahu's trips abroad during Gaza war",
-      "url": "https://www.haaretz.com/israel-news/2025-12-23/ty-article/.premium/new-data-reveals-the-astronomical-cost-of-netanyahus-trips-abroad-during-gaza-war/0000019b-4b99-d02f-a7ff-dbdb6f690000",
-      "image": "https://img.haarets.co.il/bs/0000019b-4bc1-d034-ab9b-cbcf37910007/86/b7/5246c23a4ab9a07daae9d446f2d6/220274.jpg?height=81",
-      "published_at": "2025-12-23T18:13:07.000Z",
-      "summary": "According to the data, the cost of using Israel's official aircraft for a single trip to Washington in February totaled $424,000, while during Netanyahu's visit to New York in September, his suite at the Loews Regency Hotel cost Israeli taxpayers $42,000 for seven nights"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
