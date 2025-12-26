@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-26T09:40:08.885Z",
+  "generated_at": "2025-12-26T10:10:26.936Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Terrorist rams car into IDF vehicle with four soldiers, no injuries reported",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-881461",
+      "image": null,
+      "published_at": "2025-12-26T11:56:10.000Z",
+      "summary": "A terrorism attempt was conducted south of Mount Hebron, when a terrorist rammed an IDF vehicle with their car. No injuries were reported."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,26 @@
       "image": null,
       "published_at": "2025-12-26T10:54:57.000Z",
       "summary": "The locations attacked included a combat training ground and warehouses of weaponry and terrorist infrastructure."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Mezuzahs stolen from Toronto apartment building for second time in weeks",
+      "url": "https://www.timesofisrael.com/mezuzahs-stolen-from-toronto-apartment-building-for-second-time-in-weeks/",
+      "image": null,
+      "published_at": "2025-12-26T10:04:57.000Z",
+      "summary": "One of the 3 mezuzahs belonged to Holocaust survivor; incident comes after 20 mezuzahs were stolen in same area earlier this month\nThe post Mezuzahs stolen from Toronto apartment building for second time in weeks appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "'Deradicalize Hamas, give them less dangerous weapons and turn them into police,' says French ambassador to Israel",
+      "url": "https://www.haaretz.com/israel-news/podcasts/2025-12-26/ty-article-podcast/deradicalize-hamas-give-them-less-dangerous-weapons-and-turn-them-into-police/0000019b-5521-d2b2-affb-576fed9f0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-5598-d2b2-affb-57fe36630001/2f/61/bb6315c948e48c7817ccb03aabdd/971110.jpg?height=81",
+      "published_at": "2025-12-26T10:01:53.000Z",
+      "summary": ""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -28,8 +58,68 @@
       "title": "US launches strikes against Islamic State in Nigeria",
       "url": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de68/live/382eb510-e20e-11f0-86ca-d5a596a95198.png",
-      "published_at": "2025-12-26T09:27:19.000Z",
+      "published_at": "2025-12-26T09:53:35.000Z",
       "summary": "President Donald Trump has previously accused the Nigerian government of failing to protect Christians from jihadist groups. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Zelensky hails 'new ideas' on peace after talks with US envoys",
+      "url": "https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea9/live/19e89c40-e1cf-11f0-84d1-ab457a8c9836.jpg",
+      "published_at": "2025-12-26T09:49:35.000Z",
+      "summary": "Ukraine's leader gives an upbeat assessment after discussing the plan with Steve Witkoff and Jared Kushner.\n"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "UAE welcomes Saudi efforts to support security in Yemen amid STC advance",
+      "url": "https://www.aljazeera.com/news/2025/12/26/uae-welcomes-saudi-efforts-to-support-security-in-yemen-amid-stc-advance?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-26T09:45:32.000Z",
+      "summary": "Statement comes day after Saudi Arabia told Yemeni separatists to withdraw from eastern governorates seized this month."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "European road safety body suspends Israel as traffic deaths hit 20-year high",
+      "url": "https://www.haaretz.com/israel-news/2025-12-26/ty-article/.highlight/european-road-safety-body-suspends-israel-as-traffic-deaths-hit-20-year-high/0000019b-598f-d1ec-a59f-f9cf01fb0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-5993-d866-abff-7bf302cd0001/3d/84/fdcf2cc941f0a81ca98a521bbefa/623081.jpg?height=81",
+      "published_at": "2025-12-26T09:45:22.000Z",
+      "summary": "The European organization expelled Israel from its ranks because, according to a December letter, 'actions by the current Israeli government are not deemed compatible with the principled commitment to protect human life'"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Are Christians in Israel “thriving”?",
+      "url": "https://www.aljazeera.com/video/compare-contrast/2025/12/26/are-christians-in-israel?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-26T09:43:10.000Z",
+      "summary": "Are Christians in Israel “thriving”?"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Will China come to Venezuela’s rescue?",
+      "url": "https://www.aljazeera.com/opinions/2025/12/26/will-china-come-to-venezuelas-rescue?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-26T09:38:36.000Z",
+      "summary": "Despite close ties with Caracas, Beijing is wary of getting dragged into a distant conflict. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Exiled Bangladeshi leader faces test to “prove his legitimacy”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/12/26/exiled-bangladeshi-leader-faces-test-to-prove-his?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-26T09:34:43.000Z",
+      "summary": "“[The return of the BNP’s Tarique Rahman] is a hugely monumental day for Bangladesh&#039;s transition towards democracy.”"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -285,7 +375,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "זינוק ברציחות - ובעבירות מין | נתוני הפשע נחשפים: אלו השכונות המסוכנות בארץ",
+      "title": "זינוק ברציחות - ובעבירות מין | נתוני הפשיעה נחשפים: אלו השכונות המסוכנות בארץ",
       "url": "https://www.ynet.co.il/news/article/hjfpbifqwg",
       "image": null,
       "published_at": "2025-12-26T06:37:41.000Z",
@@ -742,16 +832,6 @@
       "summary": "Eli Feldstein's Kan interview puts the pathos on full display, showing how he sacrificed everything to protect the person who he believed embodies the state of Israel: Bibi Netanyahu"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Zelensky hails 'new ideas' on peace after talks with US envoys",
-      "url": "https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea9/live/19e89c40-e1cf-11f0-84d1-ab457a8c9836.jpg",
-      "published_at": "2025-12-25T22:20:14.000Z",
-      "summary": "Ukraine's leader gives an upbeat assessment after discussing the plan with Steve Witkoff and Jared Kushner.\n"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -982,16 +1062,6 @@
       "summary": "After Haaretz reported that the Israeli military did not issue a statement on the incident – which took place on Wednesday – the IDF announced that the shooting was carried out by a civilian who was riding with an Israeli soldier in a civilian vehicle"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "‘No negotiation, no truce’ with RSF, says senior Sudan official",
-      "url": "https://www.aljazeera.com/news/2025/12/25/no-negotiation-no-truce-with-rsf-says-senior-sudan-official?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-25T20:35:30.000Z",
-      "summary": "Comments come days after PM Kamil Idris presented a plan to end the country’s nearly three-year war."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvd3Jz",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -1000,16 +1070,6 @@
       "image": null,
       "published_at": "2025-12-25T20:33:42.000Z",
       "summary": "Months of war have pushed IDF soldiers and reservist families to the edge. Rising costs, trauma, and long separations are taking a heavy toll. Your support gives them strength to go on.\nThe post Israel’s soldiers are exhausted and families are breaking. You can help. appeared first on The Times of I"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "What are the consequences of Israel’s expanding illegal settlements?",
-      "url": "https://www.aljazeera.com/video/inside-story/2025/12/25/what-are-the-consequences-of-israels-expanding-illegal-settlements?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-25T20:30:59.000Z",
-      "summary": "Israel is escalating the confiscation of Palestinian land in the occupied West Bank."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1032,26 +1092,6 @@
       "summary": "According to the source, Netanyahu's appointment of his military secretary as the next Mossad chief was a calculated move, allowing time to find an alternative if he is disqualified over his role in recruiting a teenager for an IDF influence operation who was later imprisoned for more than a year"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Scrutiny around Qatargate and Bild leak may put PM one step closer to hot seat",
-      "url": "https://www.timesofisrael.com/scrutiny-around-qatargate-and-bild-leak-may-put-pm-one-step-closer-to-hot-seat/",
-      "image": null,
-      "published_at": "2025-12-25T19:50:59.000Z",
-      "summary": "Explosive interview with ex-spokesman alongside fresh revelations revive suspicions and raise sinister questions regarding influence peddling in Netanyahu's inner circle\nThe post Scrutiny around Qatargate and Bild leak may put PM one step closer to hot seat appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Syria says senior ISIL commander killed in Damascus countryside raid",
-      "url": "https://www.aljazeera.com/news/2025/12/25/syria-says-senior-isil-commander-killed-in-damascus-countryside-raid?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-25T19:32:15.000Z",
-      "summary": "Interior Ministry says the raid killed Mohammed Shahadeh, describing him as one of ISIL’s senior commanders in Syria."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1070,16 +1110,6 @@
       "image": null,
       "published_at": "2025-12-25T19:03:24.000Z",
       "summary": "Ultra-Orthodox populations must join not just the military but the workforce if Israel wants to have a sustainable economic future, Liberman said at the Ogen Conference. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Photos: A Venezuelan family Christmas – from the US dream to poverty",
-      "url": "https://www.aljazeera.com/gallery/2025/12/25/photos-a-venezuelan-family-christmas-from-the-us-dream-to-poverty?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-25T18:59:10.000Z",
-      "summary": "More than 7.7 million Venezuelans have fled economic collapse, but many are now returning home to face bleak realities."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1530,16 +1560,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e997/live/44d2a2c0-e17a-11f0-b74d-8b6955ff49d6.jpg",
       "published_at": "2025-12-25T10:19:28.000Z",
       "summary": "Turkish authorities say firearms were seized and efforts to trace further suspected members are continuing."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Iran-linked spy suspect arrested near former Israeli prime minister’s home",
-      "url": "https://www.jpost.com/israel-news/article-881325",
-      "image": null,
-      "published_at": "2025-12-25T10:01:54.000Z",
-      "summary": "Vadim Kupriyanov, an Israeli in his 40s, was arrested in December 2025 for allegedly working with Iranian intelligence, carrying out security missions for payment over the past two months."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2250,26 +2270,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3806/live/39ea63d0-e016-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2025-12-23T16:51:40.000Z",
       "summary": "Footage captures the moment rescuers discover a survivor in the wreckage of a plane crash that killed at least 5 people, with one person still missing."
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Two men found guilty in U.K. plot to kill hundreds of Jews as fears of Islamic State terrorism grow",
-      "url": "https://www.haaretz.com/world-news/europe/2025-12-23/ty-article/two-men-guilty-in-u-k-plot-to-kill-hundreds-of-jews-as-fears-of-isis-terrorism-grow/0000019b-4bd1-d034-ab9b-cbdf74a90000",
-      "image": "https://img.haarets.co.il/bs/0000019b-4c07-d02f-a7ff-dcdf5f280000/74/2e/469dae1a403a9cd98d01b3117a5a/203660.jpg?height=81",
-      "published_at": "2025-12-23T16:18:27.000Z",
-      "summary": "Had their plans come to fruition, the gun rampage would have resulted in 'one of, if not the, deadliest terrorist attacks in U.K. history,' said a counter-terrorism police authority. European security officials caution that Islamic State and affiliate groups are once again looking to export violence"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "25-year-old Bedouin citizen of northern Israel shot two weeks ago dies of wounds",
-      "url": "https://www.haaretz.com/israel-news/2025-12-23/ty-article/.premium/25-year-old-bedouin-citizen-of-northern-israel-shot-two-weeks-ago-dies-of-wounds/0000019b-4b55-d034-ab9b-cbdff5f20000",
-      "image": "https://img.haarets.co.il/bs/0000017f-e22c-d38f-a57f-e67e58f20000/4f/82/0d42a6ef28cad321f21501c31bd9/1976481838.jpeg?height=81",
-      "published_at": "2025-12-23T13:58:24.000Z",
-      "summary": "Mahmoud Hibi, an Israeli citizen from a Bedouin town in the north, is the 245th Arab citizen of Israel killed in 2025, marking an annual record for the number of murders in Israeli Arab society"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
