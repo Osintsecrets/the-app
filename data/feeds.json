@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-27T11:32:33.399Z",
+  "generated_at": "2025-12-27T12:15:53.681Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "‘The Jerusalem Post’: 93 years of influential journalism  – Part 2",
+      "url": "https://www.jpost.com/israel-news/article-881441",
+      "image": null,
+      "published_at": "2025-12-27T13:55:51.000Z",
+      "summary": "Members of our web team discuss the articles they believe have made the strongest impact on public conversation, policy, society, and more."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Video: Nigerians in village bombed by US describe what happened",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/27/video-nigerians-in-village-bombed-by-us-describe-what-happened?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-27T12:03:16.000Z",
+      "summary": "&#039;Debris was burning’. Nigerians have described what they witnessed in US strikes on the town of Jabo."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מאז ההתנתקות ב-2005: ישראל לא החזיקה אף סוכן משמעותי בהנהגת חמאס",
+      "url": "https://www.ynet.co.il/news/article/syw9rnsmzx",
+      "image": null,
+      "published_at": "2025-12-27T11:58:51.000Z",
+      "summary": "פרסום ראשון: במערכת הביטחון מודים כי שב\"כ, יחידה 504 והמוסד לא הפעילו סוכנים מהותיים בהנהגת ארגון הטרור, הצבאית או המדינית, כ-20 שנה. כעת נחשפים פרטים חדשים על הכשל המודיעיני בשנים שקדמו ל-7/10 - ועל ניסיונות התיקון. הטור המלא: ב\"מוסף לשבת\" של \"ידיעות אחרונות\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הניסיון החדש של חמאס לעצב את נרטיב המלחמה - עם חוברת \"הישגים\"",
+      "url": "https://www.ynet.co.il/news/article/bjqfczpmbe",
+      "image": null,
+      "published_at": "2025-12-27T11:39:41.000Z",
+      "summary": "במסמך שפורסם תחת הכותרת \"מבול אל-אקצא: שנתיים של עמידה איתנה ורצון לשחרור\", מנסה חמאס להתנער ממעשי הזוועה ב-7/10 - ולאותת לפלסטינים שהוא הריבון. בזמן שארה\"ב לוחצת להתקדם לשלב ב', ובעוד שהפלסטינים מנסים להשתקם מנזקי המלחמה, נמנע הארגון מלעסוק בשאלות הקשות ובעתיד הרצועה"
+    },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
@@ -35,11 +75,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Massive Russian attack on Kyiv kills one, leaves hundreds of thousands without power",
+      "title": "Massive Russian attack on Kyiv kills one ahead of Zelensky meeting with Trump",
       "url": "https://www.timesofisrael.com/massive-russian-attack-on-kyiv-kills-one-leaves-hundreds-of-thousands-without-power/",
       "image": null,
       "published_at": "2025-12-27T11:03:30.000Z",
-      "summary": "Zelensky says missile-and-drone strike shows Moscow doesn't want to end the war, as he heads to meet with Trump Sunday to discuss latest US-brokered peace plan\nThe post Massive Russian attack on Kyiv kills one, leaves hundreds of thousands without power appeared first on The Times of Israel.\n"
+      "summary": "Zelensky says missile-and-drone strike shows Moscow doesn't want to end the war, strikes leave hundreds of thousands without power\nThe post Massive Russian attack on Kyiv kills one ahead of Zelensky meeting with Trump appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -105,11 +145,11 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks",
+      "title": "Thousands without power in Kyiv after massive Russian attack",
       "url": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5398/live/82578fc0-e30a-11f0-8357-83bb2c91d8e1.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cca8/live/9d97b1a0-e2f3-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2025-12-27T09:52:05.000Z",
-      "summary": "Poland's military says its air force took a \"preventative\" response to secure its airspace."
+      "summary": "Authorities say a third of residents in the Ukrainian capital have been left without heating in freezing weather."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -862,16 +902,6 @@
       "summary": "2025 was the year of tariffs and a global shift in economic power."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Zelenskyy to meet Trump in Florida amid diplomatic push to end war",
-      "url": "https://www.aljazeera.com/news/2025/12/26/zelenskyy-to-meet-trump-in-florida-amid-diplomatic-push-to-end-war?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-26T17:56:56.000Z",
-      "summary": "Ukrainian president highlights &#039;significant progress&#039; in talks, but Moscow says Kyiv is working to &#039;torpedo&#039; deal."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1050,26 +1080,6 @@
       "image": null,
       "published_at": "2025-12-26T12:45:00.000Z",
       "summary": "מאחורי פרשת \"קטארגייט\" ניצב איום עמוק בהרבה, מהחמורים שבאיומים האסטרטגיים על ביטחון ישראל: התפשטות שיטתית של האחים המוסלמים, הן ממניעים אידיאולוגיים, והן כחלק מאסטרטגיה פרגמטית של קטאר לצבירת השפעה אזורית ובינלאומית באמצעות מבצעי השפעה ותודעה חוצי גבולות"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "יאושגייט: איראן לא מגייסת גנרלים, אלא את החברה הישראלית",
-      "url": "https://www.ynet.co.il/news/article/bkylenj7bl",
-      "image": null,
-      "published_at": "2025-12-26T12:32:00.000Z",
-      "summary": "איראן לא מחפשת ידע - היא מחפשת סדק. והסדק הזה הוא ייאוש. כל שבוע נחשף עוד אזרח שמוכן בשביל אלף או אלפיים שקלים למכור מידע, לצלם, להעביר ולשתף פעולה. צעירים נואשים. מבוגרים שחיים על הקצה. אנשים שקופים. מי שהיה אמור לטפל בהם זו המדינה - וכשהחברה מפקירה, האויב מגייס"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "האכזריות של המחבל: \"התנגש ברכב בתל יוסף, רדף אחרי אביב ודקר אותה\"",
-      "url": "https://www.ynet.co.il/news/article/b1u0000x3711l",
-      "image": null,
-      "published_at": "2025-12-26T12:31:55.000Z",
-      "summary": "לאחר שדרס למוות בן 68 בבית שאן, המשיך המחבל מקבאטיה במסע ההרג באמצעות רכבו שלקח לפי החשד ממעסיקו. לאחר שהתנגש ברכב הקיבוץ שבו הייתה אביב מאור וידיד שלה, הם נמלטו לכיוונים מנוגדים. הוא רדף - ורצח אותה"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1460,16 +1470,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-e5d8-de8e-a99b-f7da04150000/4b/d8/7fa95db547149b0019fd51efbb26/754589.jpg?height=81",
       "published_at": "2025-12-25T19:25:20.000Z",
       "summary": "Tsurkov's sister told Channel 13's investigative program that Adam Boehler called to inform her of Elizabeth's release before she attended a meeting with Israel's hostage coordinator, who had not yet been told of the U.S.'s successful negotiations"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "PMO workers involved in Qatargate 'must sit behind bars,' Smotrich says",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-881409",
-      "image": null,
-      "published_at": "2025-12-25T18:57:28.000Z",
-      "summary": "Smotrich charged that Qatar is a state sponsor of terror, adding that Doha must be condemned for its \"responsibility for what happened on October 7.\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
