@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-12-27T04:22:12.892Z",
+  "generated_at": "2025-12-27T04:48:48.058Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
+      "url": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da5/live/70bfb750-e257-11f0-adaa-4b49d24d5c3b.jpg",
+      "published_at": "2025-12-27T04:35:03.000Z",
+      "summary": "The Ukrainian president says he will see his US counterpart in Florida, as Kyiv's mayor says Russia launched new air strikes on the capital."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Thailand and Cambodia agree on ceasefire, Cambodia Defence Ministry says",
+      "url": "https://www.aljazeera.com/news/2025/12/27/thailand-and-cambodia-agree-on-ceasefire-cambodia-defence-ministry-says?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-27T04:14:11.000Z",
+      "summary": "Agreement follows talks aimed at ending weeks of deadly clashes along the Thailand-Cambodia border."
+    },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
@@ -70,16 +90,6 @@
       "image": null,
       "published_at": "2025-12-27T02:31:37.000Z",
       "summary": "More than 40 million Americans under winter storm warnings or weather advisories as heavy snow expected."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
-      "url": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da5/live/70bfb750-e257-11f0-adaa-4b49d24d5c3b.jpg",
-      "published_at": "2025-12-27T01:54:45.000Z",
-      "summary": "The Ukrainian president says he will see his US counterpart in Florida, as Kyiv's mayor says Russia launched new air strikes on the capital."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -159,7 +169,7 @@
       "url": "https://www.timesofisrael.com/liveblog-december-27-2025/",
       "image": null,
       "published_at": "2025-12-26T23:50:40.000Z",
-      "summary": "Rubio calls for ‘restraint’ amid escalating violence in Yemen * Zelensky seeks discussion on territorial issues with Trump during meeting on Sunday\nThe post Trump says he won’t join Israel&#8217;s recognition: &#8216;Does anyone know what Somaliland is?&#8217; appeared first on The Times of Israel.\n"
+      "summary": "Zelensky seeks discussion on territorial issues with Trump during meeting on Sunday * Thailand and Cambodia reach ‘immediate’ ceasefire deal to end clashes\nThe post Trump says he won’t join Israel&#8217;s recognition: &#8216;Does anyone know what Somaliland is?&#8217; appeared first on The Times of "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -295,7 +305,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Netanyahu pushes for Iran conflict, clashing with Trump’s priorities",
+      "title": "Netanyahu pushes for more strikes on Iran, clashing with Trump’s priorities",
       "url": "https://www.aljazeera.com/news/2025/12/26/netanyahu-pushes-for-iran-conflict-clashing-with-trumps-priorities?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-26T21:06:50.000Z",
@@ -852,16 +862,6 @@
       "summary": "לאחר שדרס למוות בן 68 בבית שאן, המשיך המחבל מקבאטיה במסע ההרג באמצעות רכבו שלקח לפי החשד ממעסיקו. לאחר שהתנגש ברכב הקיבוץ שבו הייתה אביב מאור וידיד שלה, הם נמלטו לכיוונים מנוגדים. הוא רדף - ורצח אותה"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Al Jazeera witnesses fighting at Thai-Cambodia border despite talks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/26/al-jazeera-witnesses-fighting-at-thai-cambodia-border-despite-talks?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-26T12:25:03.000Z",
-      "summary": "Al Jazeera’s Assed Baig witnessed fighting at the Thai-Cambodia border despite talks taking place."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1137,7 +1137,7 @@
       "topic": "News",
       "title": "IDF preparing to demolish West Bank home of assailant in northern Israel terror rampage",
       "url": "https://www.haaretz.com/israel-news/2025-12-26/ty-article-live/idf-kills-three-palestinians-who-crossed-yellow-line-in-two-separate-gaza-incidents/0000019b-5844-d1ec-a59f-f9ce14b50000",
-      "image": "https://img.haarets.co.il/bs/0000019b-5aaf-df6b-a7db-ffbf8da60002/d0/bf/29b95edc46c087623340c8ec3018/whatsapp-image-2025-12-26-at-14-27-41-2.jpeg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-5e17-d1ec-a59f-ffdf4fa10000/b5/a5/9e80988d48e797981eead33b3ef7/216767.jpg?height=81",
       "published_at": "2025-12-26T01:37:39.000Z",
       "summary": ""
     },
