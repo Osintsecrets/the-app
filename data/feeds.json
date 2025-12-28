@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-12-28T15:37:31.088Z",
+  "generated_at": "2025-12-28T16:10:36.111Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Court clears Beersheba assault suspect of link to Haymanut Kasau disappearance, extends detention",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-881607",
+      "image": null,
+      "published_at": "2025-12-28T18:05:26.000Z",
+      "summary": "According to KAN, police no longer attribute any involvement in Kassau’s disappearance to the suspect, though the investigation into the Beersheba incident will remain under Lahav 433's authority."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Retired police officer Tzachi Havkin named as suspect in alleged Lahav 433 corruption probe",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-881605",
+      "image": null,
+      "published_at": "2025-12-28T17:47:16.000Z",
+      "summary": "The publication of Havkin’s identity was permitted following requests by major Israeli media outlets, including Walla, Channel 13, News1, and Haaretz, after months under a sweeping gag order."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -49,7 +69,67 @@
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-881593",
       "image": null,
       "published_at": "2025-12-28T16:04:45.000Z",
-      "summary": "According to the data, 252 arab citizens lost their lives in 218 incidents of violence and crime, a further increase compared to 2024, when 230 people were murdered."
+      "summary": "The report indicated that violence has become an ongoing national scourge, harming not only Arab society but Israeli society as a whole."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "היועמ\"שית: \"חשש כבד שסגירת גל\"צ - מטרה שסומנה מראש. יש להוציא צו ביניים\"",
+      "url": "https://www.ynet.co.il/news/article/rk5rzcamze",
+      "image": null,
+      "published_at": "2025-12-28T16:01:29.000Z",
+      "summary": "בחוות הדעת שהעבירה לבג\"ץ תמכה בהרב-מיארה בצו שיקפיא את החלטת הממשלה לסגור את גלי צה\"ל ב-1 במרץ, עד להכרעה בעתירות: \"הנזק שייגרם מנקיטת פעולות לסגירת התחנה הוא משמעותי ובלתי הפיך\". 3 שופטים שנחשבים ליברלים ידונו בעתירה, דוברות בתי המשפט בתגובה לטענות: \"לא הנדוס של הרכב ולא הנדוס של תוצאה\""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israel deploys Iron Beam, its first laser air defense system",
+      "url": "https://www.haaretz.com/israel-news/security-aviation/2025-12-28/ty-article/.premium/israel-deploys-first-laser-air-defense-system-iron-beam/0000019b-654c-d295-a59b-6d5efd130000",
+      "image": "https://img.haarets.co.il/bs/0000019b-654c-d295-a59b-6d5efe1b0000/27/dc/1224d5f049eb944ae691a2175e4e/or-eitan.jpeg?height=81",
+      "published_at": "2025-12-28T15:58:28.000Z",
+      "summary": "Iron Beam, which will be integrated into the Air Force, has already carried out dozens of interceptions during the war that started in October 7, 2023. It is expected to dramatically slash costs, with each interception costing only a few dollars"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Three Iranian satellites launched into orbit on Russian rocket, state media says",
+      "url": "https://www.timesofisrael.com/three-iranian-satellites-launched-into-orbit-on-russian-rocket-state-media-says/",
+      "image": null,
+      "published_at": "2025-12-28T15:52:20.000Z",
+      "summary": "In 2nd launch since July, Tehran says Paya, Kowsar and Zafar-2 satellites sent into space from Vostochny launchpad in eastern Russia\nThe post Three Iranian satellites launched into orbit on Russian rocket, state media says appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "When wearing a T-shirt in Israel is a brave political act",
+      "url": "https://www.haaretz.com/life/2025-12-28/ty-article-magazine/.premium/when-wearing-a-t-shirt-in-israel-is-a-brave-political-act/0000019b-6518-d02f-a7ff-f5db28340000",
+      "image": "https://img.haarets.co.il/bs/0000019b-655a-d347-abbf-f5da11310001/7d/d9/d7f322a94b64982731a404faf8d6/culture-roundup-12-28-25-00000.png?height=81",
+      "published_at": "2025-12-28T15:50:07.000Z",
+      "summary": "Culture of Solidarity has created politically charged merchandise to support their activity. Also this week: The Sapir Prize, the prestigious Israeli literary award, announces its shortlist; and Naomi Harris, the photographer who captures diverse American subcultures, speaks in Tel Aviv"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Jews, ping-pong and a mesmeric Timothée Chalamet: 'Marty Supreme' is one of the best films of 2025",
+      "url": "https://www.haaretz.com/life/film/2025-12-28/ty-article-magazine/.premium/jews-ping-pong-and-timothee-chalamet-marty-supreme-is-one-of-2025s-best-films/0000019b-6468-df6b-a7db-f57f9f000000",
+      "image": "https://img.haarets.co.il/bs/0000019b-6470-d866-abff-7e71c7820000/2e/a8/2a2efc734024a19ad588ac89c565/119863.jpg?height=81",
+      "published_at": "2025-12-28T15:41:49.000Z",
+      "summary": "Haaretz's film critic names the 30 best films of 2025 – including the recently released 'Marty Supreme.' For the masochists among us, some of this year's worst flicks are also still in theaters, among them 'Avatar: Fire and Ash' and 'Anaconda'"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "'Like putting out small fires in a raging inferno': An Israeli star caught between Georgia and Gaza",
+      "url": "https://www.haaretz.com/life/2025-12-28/ty-article-magazine/.premium/putting-out-fires-in-a-raging-inferno-an-israeli-star-caught-between-georgia-and-gaza/0000019b-4b6b-d2b2-affb-5f6f05380000",
+      "image": "https://img.haarets.co.il/bs/0000019b-4b76-df6b-a7db-ff771a4c0001/d3/ad/e8c797d844909ac1c409d1ba5d43/63890107.JPG?height=81",
+      "published_at": "2025-12-28T15:37:44.000Z",
+      "summary": "Winning an Ophir Award - The Israeli Oscar - for best actress was Neta Riskin's brief escape from war. In an interview, she speaks about October 7, inherited Holocaust trauma and why refusing ignorance has exacted a personal price"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -99,7 +179,7 @@
       "url": "https://www.ynet.co.il/news/article/h1w7ncrm11x",
       "image": null,
       "published_at": "2025-12-28T15:12:38.000Z",
-      "summary": "להכרה ההיסטורית של ישראל קדמו חודשים ארוכים של מגעים חשאיים, שבמסגרתם צוותים נשלחו לחבל הארץ שהתפצל מסומליה. באוקטובר אישר נתניהו את המהלך שהובילו המוסד, ש החוץ וראש המל״ל לשעבר, ההצהרה נוסחה - וההכרה הפכה רשמית אחרי שבסומלילנד נערכו לאפשרות של תקיפות מתימן"
+      "summary": "להכרה ההיסטורית של ישראל קדמו חודשים ארוכים של מגעים חשאיים, שבמסגרתם צוותים נשלחו לחבל הארץ שהתפצל מסומליה. באוקטובר אישר נתניהו את המהלך שהובילו המוסד, שר החוץ וראש המל״ל לשעבר, ההצהרה נוסחה - וההכרה הפכה רשמית אחרי שבסומלילנד נערכו לאפשרות של תקיפות מתימן"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -602,16 +682,6 @@
       "summary": "Iconic French actress abandoned the screen to campaign for animals, including controversial calls to ban Jewish and Muslim ritual slaughter; convicted 5 times of inciting racial hatred\nThe post Brigitte Bardot, sultry &#8217;60s sex symbol-turned-militant animal rights activist, dies at 91 appeared "
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Netanyahu departs for US to meet Trump on Gaza plan, Hezbollah tensions",
-      "url": "https://www.timesofisrael.com/netanyahu-departs-for-us-to-meet-trump-on-gaza-plan-hezbollah-tensions/",
-      "image": null,
-      "published_at": "2025-12-28T11:40:42.000Z",
-      "summary": "PM scheduled to meet Rubio ahead of US president on Monday, will meet Evangelical leaders at hotel on Wednesday, lawmakers and Jewish leaders at Miami synagogue\nThe post Netanyahu departs for US to meet Trump on Gaza plan, Hezbollah tensions appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -645,7 +715,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הקווים האדומים של הייעוץ המשפטי מול חוק הפטור מגיוס - והעימות הצפוי בוועדה",
+      "title": "גבולות הייעוץ מול חוק הפטור, והעדות: \"לוחם חרדי הציל את חיי בבארי\" | האזינו לקולות הקשר",
       "url": "https://www.ynet.co.il/news/article/hygryw0x11e",
       "image": null,
       "published_at": "2025-12-28T11:21:28.000Z",
@@ -1080,16 +1150,6 @@
       "image": null,
       "published_at": "2025-12-28T03:53:29.000Z",
       "summary": "יאסר הדאיה אסדי (52) עשה היסטוריה כשעלה לדרגת סגן-ניצב ומונה למפקד הגדוד הערבי-מוסלמי הראשון במג\"ב. \"זה מסר לצעירים במגזר שכדאי לתרום לחברה שבה אתה חי\", אמר. אחיו הגדול חסן היה לוחם מג\"ב שנהרג במלחמת לבנון הראשונה - והחלל היחיד של דיר אל-אסד: \"לא היה לי ספק שאמשיך את דרכו\" "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "שלג בחרמון, חילוצים בדרום, גשמים ברחבי הארץ: התיעודים, החסימות - והתחזית",
-      "url": "https://www.ynet.co.il/news/article/bygr9i6q11l",
-      "image": null,
-      "published_at": "2025-12-28T03:09:13.000Z",
-      "summary": "היום יהיה קר מהרגיל עם גשם לפרקים מהצפון עד צפון הנגב. בצהריים הגשמים ייפסקו, בלילה יתחזקו. מחר: משבי רוח של עד 100 קמ\"ש - וסכנת הצפות בנחלים במרכז. כמויות משקעים גדולות נמדדו סביב הכינרת, שלג ירד בחרמון, זוג הורים וילד נתקעו ברכב בשל שיטפון - וחולצו. שיאניות הגשם, ומה בסילבסטר?"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1642,16 +1702,6 @@
       "summary": "Netanyahu congratulated Somaliland President H.E. Abdirahman Mohamed Abdillahi and praised his leadership and commitment to security, stability, and peace. "
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Private clinic employee charged after allegedly attempting to access medical records of ex-hostage",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-881474",
-      "image": null,
-      "published_at": "2025-12-26T16:04:45.000Z",
-      "summary": "The employee was said to have attempted to gain access to the private file of a former hostage despite not needing such information to perform the duties of their job."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1660,16 +1710,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-5af9-d02f-a7ff-dafb890e0001/2a/c2/cab4d85745cca4d11dc8aceb7f7a/whatsapp-image-2025-12-26-at-15-40-42.webp?height=81",
       "published_at": "2025-12-26T15:13:40.000Z",
       "summary": "Earlier this year, reports said the U.S. and Israel held talks with Somaliland officials about possibly using its territory to resettle Palestinians. Somalia, which considers the breakaway region part of its sovereign territory, denounced Israel's move as a 'deliberate attack on its sovereignty'"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Two murdered, two wounded in combined terror attack in three sites in northern Israel",
-      "url": "https://www.jpost.com/israel-news/article-881470",
-      "image": null,
-      "published_at": "2025-12-26T13:41:47.000Z",
-      "summary": "The first victim was Shimshon Mordechai, a 68-year-old man who was run over near Beit She'an. The terrorist then fled in a vehicle, exiting it to kill 18-year-old Aviv Maor on Route 71."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2240,46 +2280,6 @@
       "image": "https://img.haarets.co.il/bs/00000194-01df-d7f1-a1b5-37dfc03b0007/2a/d7/f94856b048cea6f0a4754c0fa788/88776b03-590d-48b3-9055-074a44f060b0.jfif?height=81",
       "published_at": "2025-12-24T22:42:39.000Z",
       "summary": "The far-right national security minister and Police Commissioner Danny Levy moved to dismiss Amir Arzani after he refused to ease restrictions on Jewish worshippers at Temple Mount"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "It's time to reopen the Qatargate investigation - including 'the boss'",
-      "url": "https://www.haaretz.com/opinion/2025-12-25/ty-article-opinion/.premium/its-time-to-reopen-the-qatargate-investigation-including-the-boss/0000019b-51ca-d02f-a7ff-d1db9a920000",
-      "image": "https://img.haarets.co.il/bs/0000019b-4f3c-d034-ab9b-cfbf21d90000/76/70/4147d7cc4d8aa7d5fa0ec051d19d/201973.jpg?height=81",
-      "published_at": "2025-12-24T22:34:30.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "School for supremacy: Israeli students, welcome to Tzvi Succot's syllabus",
-      "url": "https://www.haaretz.com/opinion/2025-12-25/ty-article-opinion/.premium/school-for-supremacy-israeli-students-welcome-to-tzvi-succots-syllabus/0000019b-51c9-df6b-a7db-f5dfe7f20000",
-      "image": "https://img.haarets.co.il/bs/0000019b-4045-d759-a3bf-4af5efed0001/f7/d9/8a8ae5d34df79b3c5fa915b67a34/280589-2.jpg?height=81",
-      "published_at": "2025-12-24T22:20:11.000Z",
-      "summary": "Far-right Religious Zionism MK Tzvi Succot's education reform enables the students to observe Israel as it is: a regime based on racial supremacy and Jewish ultranationalism, in which only 'good' Arabs are entitled to political rights, and 'bad' Arabs are sent for reeducation"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israel's oppression of Palestinians is comically absurd",
-      "url": "https://www.haaretz.com/opinion/2025-12-25/ty-article-opinion/.premium/israels-oppression-of-palestinians-is-comically-absurd/0000019b-51c9-df6b-a7db-f5df69a70000",
-      "image": "https://img.haarets.co.il/bs/0000019b-522f-df6b-a7db-f73f0c1f0000/07/16/bfd93d9d4c188c938c85f3ff2d5c/198302.jpg?height=81",
-      "published_at": "2025-12-24T22:18:13.000Z",
-      "summary": "The Association for Civil Rights in Israel was given evidence of security prisoners being starved and petitioned the court to ban the practice. The State Attorney's Office responded that the prisoners were allocated less calories because of their 'sedentary lifestyle'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Does Israel's Zionist left only accept 'good Arabs' who don't talk about apartheid?",
-      "url": "https://www.haaretz.com/opinion/2025-12-25/ty-article-opinion/.premium/does-israels-zionist-left-only-accept-good-arabs-who-dont-talk-about-apartheid/0000019b-51b2-d2b2-affb-57fef98b0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-51d0-d866-abff-7bf152e90000/9a/0d/801812534998b30d7b8598cede54/055474-1.jpg?height=81",
-      "published_at": "2025-12-24T22:09:36.000Z",
-      "summary": "Abbas is the weakest link among Israel's Arab leadership, because of both his Islamism and his desire to curry favor with the Jews. But there is not and will not be an alternative to the Netanyahu government without a partnership with the Arab parties"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
