@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T04:57:49.535Z",
+  "generated_at": "2025-12-28T05:19:28.981Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -10,6 +10,16 @@
       "image": null,
       "published_at": "2025-12-28T06:46:14.000Z",
       "summary": "\"Firefighters from the Southern District are currently operating at the scene, conducting searches and working to rescue those trapped under challenging terrain conditions,\" the authority said."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הדברים הכי טובים שקרו לנו היו רק תיקון אבסורדי לדברים הכי איומים שקרו לנו",
+      "url": "https://www.ynet.co.il/news/article/yokra14622667",
+      "image": null,
+      "published_at": "2025-12-28T05:05:54.000Z",
+      "summary": "ברוכים הבאים לאבסורדיסטן, המדינה שבה השר הממונה על ביטחון האזרחים הוא עבריין מורשע שמציע להוציא להורג מחבלים שממילא בחרו למות, ולהקיף בתנינים את בתי הכלא של המחבלים שנותרו בחיים למרות רצונם למות, כי תנינים זה מה שישנה את דעתם"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -950,16 +960,6 @@
       "image": null,
       "published_at": "2025-12-27T13:01:57.000Z",
       "summary": "Abu Safia&#039;s health has deteriorated considerably since he was taken by Israeli soldiers."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"כ-2,000 בני אדם\": הדוח שחושף את ממדי ההוצאות להורג באיראן - והשיא שנשבר",
-      "url": "https://www.ynet.co.il/news/article/bygsiba7zl",
-      "image": null,
-      "published_at": "2025-12-27T12:56:42.000Z",
-      "summary": "כשברקע מלחמת 12 הימים והטענות החוזרות והנשנות של המשטר למעצר מרגלים שעבדו בעבור ישראל, בדוח של ארגון זכויות אדם שפועל מארה\"ב נכתב כי מתחילת השנה הוצאו להורג לפחות 1,922 באיראן - יותר מפי 2 מהנתון בשנה שעברה. \"מדובר בעלייה של 106%\", הוסיפו כותבי הדוח, \"כ-60 מההרוגים - נשים\""
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1975,21 +1975,21 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Just how much did Netanyahu know about Qatargate?",
-      "url": "https://www.haaretz.com/opinion/editorial/2025-12-25/ty-article-opinion/just-how-much-did-netanyahu-know-about-qatargate/0000019b-5240-d866-abff-7a71dd150000",
-      "image": "https://img.haarets.co.il/bs/0000019b-524d-d866-abff-7a7dbaff0000/24/70/89d33dd24c22bb8dcf8f761dccd0/913350-2.jpg?height=81",
-      "published_at": "2025-12-25T06:19:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
       "title": "When did Israeli settler attacks become official Netanyahu government policy in the West Bank?",
       "url": "https://www.haaretz.com/israel-news/2025-12-25/ty-article/.premium/settler-attacks-are-feature-of-israels-west-bank-annexation-policy-not-a-bug/0000019b-4d0c-d02f-a7ff-dddf18770000",
       "image": "https://img.haarets.co.il/bs/0000019b-4203-dbc2-adbb-cbb317580000/56/43/3730310740ff81db8cefa391f65c/978753.jpg?height=81",
       "published_at": "2025-12-25T06:19:00.000Z",
       "summary": "The events of recent days underscore how Israel exploits settler terrorism, which has long ceased to be 'isolated clashes,' to establish facts on the ground while benefiting from global indifference. When armed settlers enjoy immunity, the message to Palestinians is clear: no one will protect you"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Just how much did Netanyahu know about Qatargate?",
+      "url": "https://www.haaretz.com/opinion/editorial/2025-12-25/ty-article-opinion/just-how-much-did-netanyahu-know-about-qatargate/0000019b-5240-d866-abff-7a71dd150000",
+      "image": "https://img.haarets.co.il/bs/0000019b-524d-d866-abff-7a7dbaff0000/24/70/89d33dd24c22bb8dcf8f761dccd0/913350-2.jpg?height=81",
+      "published_at": "2025-12-25T06:19:00.000Z",
+      "summary": ""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
