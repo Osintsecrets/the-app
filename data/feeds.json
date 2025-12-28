@@ -1,6 +1,26 @@
 {
-  "generated_at": "2025-12-28T06:49:48.078Z",
+  "generated_at": "2025-12-28T07:10:55.506Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Netanyahu's office was warned about Feldstein before his appointment, Ben-Gvir claims",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-881538",
+      "image": null,
+      "published_at": "2025-12-28T08:53:00.000Z",
+      "summary": "Ben-Gvir claimed that a close associate contacted officials in the Prime Minister’s Office on two occasions, warning that Feldstein was unreliable."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "War-torn Myanmar voting in widely criticised 'sham' election",
+      "url": "https://www.bbc.com/news/articles/cy7vly6gm76o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd82/live/e1d0a9f0-e39b-11f0-bbc4-0be978867aed.jpg",
+      "published_at": "2025-12-28T06:49:55.000Z",
+      "summary": "Observers say the vote, accompanied by a renewed crackdown on dissent, is meant to entrench the junta's power."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -62,16 +82,6 @@
       "summary": "ברוכים הבאים לאבסורדיסטן, המדינה שבה השר הממונה על ביטחון האזרחים הוא עבריין מורשע שמציע להוציא להורג מחבלים שממילא בחרו למות, ולהקיף בתנינים את בתי הכלא של המחבלים שנותרו בחיים למרות רצונם למות, כי תנינים זה מה שישנה את דעתם"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "War-torn Myanmar voting in widely criticised 'sham' election",
-      "url": "https://www.bbc.com/news/articles/cy7vly6gm76o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd82/live/e1d0a9f0-e39b-11f0-bbc4-0be978867aed.jpg",
-      "published_at": "2025-12-28T05:00:19.000Z",
-      "summary": "Observers say the vote, accompanied by a renewed crackdown on dissent, is meant to entrench the junta's power."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -125,7 +135,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Netanyahu can't afford a clash with Trump, so he'll try to cash in by advancing U.S. Gaza deal",
+      "title": "Netanyahu can't afford a clash with Trump, so he'll promise progress on Gaza's cease-fire",
       "url": "https://www.haaretz.com/israel-news/2025-12-28/ty-article/.premium/netanyahus-upcoming-u-s-visit-leaves-little-room-for-a-clash-with-trump/0000019b-61a1-df6b-a7db-f5b79d950000",
       "image": "https://img.haarets.co.il/bs/0000019b-6202-df6b-a7db-f717adf30000/a4/14/fddab32945a7b62f7baadd446fe2/293391.jpg?height=81",
       "published_at": "2025-12-28T04:02:48.000Z",
@@ -295,11 +305,11 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Snow-capped Mount Etna erupts as skiers use its slopes",
+      "title": "Snow-capped Mount Etna erupts as skiers glide down slopes",
       "url": "https://www.bbc.com/news/videos/cz7n4px7e41o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/999d/live/9afdf7e0-e38b-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2025-12-28T01:40:21.000Z",
-      "summary": "Volcanic activity at the mountain intensified on 27 December, according to Italian scientists."
+      "summary": "Scientists say volcanic activity at the site, which frequently erupts, had intensified this week, with craters continuously emitting ash. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1622,16 +1632,6 @@
       "summary": "Former Gaza hostage Romi Gonen shares her harrowing story of sexual abuse and survival in Hamas captivity during an emotional interview on Channel 12's \"Uvda.\""
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF kills terrorists crossing Yellow Line in two separate occasions",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-881432",
-      "image": null,
-      "published_at": "2025-12-25T23:33:03.000Z",
-      "summary": "At least three terrorists attempted to cross the Yellow Line in at least two separate instances on Thursday. The IDF killed all three after identifying them."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2055,21 +2055,21 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "When did Israeli settler attacks become official Netanyahu government policy in the West Bank?",
-      "url": "https://www.haaretz.com/israel-news/2025-12-25/ty-article/.premium/settler-attacks-are-feature-of-israels-west-bank-annexation-policy-not-a-bug/0000019b-4d0c-d02f-a7ff-dddf18770000",
-      "image": "https://img.haarets.co.il/bs/0000019b-4203-dbc2-adbb-cbb317580000/56/43/3730310740ff81db8cefa391f65c/978753.jpg?height=81",
-      "published_at": "2025-12-25T06:19:00.000Z",
-      "summary": "The events of recent days underscore how Israel exploits settler terrorism, which has long ceased to be 'isolated clashes,' to establish facts on the ground while benefiting from global indifference. When armed settlers enjoy immunity, the message to Palestinians is clear: no one will protect you"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
       "title": "Just how much did Netanyahu know about Qatargate?",
       "url": "https://www.haaretz.com/opinion/editorial/2025-12-25/ty-article-opinion/just-how-much-did-netanyahu-know-about-qatargate/0000019b-5240-d866-abff-7a71dd150000",
       "image": "https://img.haarets.co.il/bs/0000019b-524d-d866-abff-7a7dbaff0000/24/70/89d33dd24c22bb8dcf8f761dccd0/913350-2.jpg?height=81",
       "published_at": "2025-12-25T06:19:00.000Z",
       "summary": ""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "When did Israeli settler attacks become official Netanyahu government policy in the West Bank?",
+      "url": "https://www.haaretz.com/israel-news/2025-12-25/ty-article/.premium/settler-attacks-are-feature-of-israels-west-bank-annexation-policy-not-a-bug/0000019b-4d0c-d02f-a7ff-dddf18770000",
+      "image": "https://img.haarets.co.il/bs/0000019b-4203-dbc2-adbb-cbb317580000/56/43/3730310740ff81db8cefa391f65c/978753.jpg?height=81",
+      "published_at": "2025-12-25T06:19:00.000Z",
+      "summary": "The events of recent days underscore how Israel exploits settler terrorism, which has long ceased to be 'isolated clashes,' to establish facts on the ground while benefiting from global indifference. When armed settlers enjoy immunity, the message to Palestinians is clear: no one will protect you"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
