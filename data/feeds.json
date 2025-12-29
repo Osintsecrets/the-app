@@ -1,11 +1,21 @@
 {
-  "generated_at": "2025-12-29T17:08:48.654Z",
+  "generated_at": "2025-12-29T17:39:31.106Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "President Herzog delivers warning to Israel's enemies during Rafael visit",
+      "title": "Netanyahu, Elon Musk discuss future of artificial intelligence in Israel in conference call",
+      "url": "https://www.jpost.com/israel-news/article-881736",
+      "image": null,
+      "published_at": "2025-12-29T19:23:56.000Z",
+      "summary": "Netanyahu and Elon Musk discussed advancing AI and autonomous vehicle cooperation in a call confirmed by the PMO, days after Musk drew criticism for a viral X post about Jews and whiteness."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "‘Do not mess with us,’ - Herzog issues stern warning to Israel's enemies",
       "url": "https://www.jpost.com/israel-news/defense-news/article-881739",
       "image": null,
       "published_at": "2025-12-29T18:51:22.000Z",
@@ -32,14 +42,64 @@
       "summary": "The judicial branch's spokesperson said Smotrich's attack on Yitzhak Amit does not amount to \"legitimate public discourse,\" in response to the finance minister."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"קריית שמונה היא השכפ\"ץ של המדינה. צריך לבנות תוכנית אמיתית, לא לזרוק כסף\"",
+      "url": "https://www.ynet.co.il/news/article/hyqgcgee11g",
+      "image": null,
+      "published_at": "2025-12-29T17:25:45.000Z",
+      "summary": "בריאיון לוועידת החינוך של ynet ו\"ידיעות אחרונות\", קראה עליזה בלוך, נשיאת יאסא וראש העיר בית שמש לשעבר, לשפר את המענה לעיר הצפונית אחרי המלחמה הארוכה עם חיזבאללה: \"התלמידים היו במקומות אחרים וראו לימודים ברמה גבוהה. הם לא שווים פחות\""
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Netanyahu meets with Rubio at Mar-a-Lago ahead of Trump meeting",
+      "title": "Netanyahu meets Rubio, Witkoff, other top US officials ahead of Trump meeting",
       "url": "https://www.jpost.com/israel-news/benjamin-netanyahu/article-881727",
       "image": null,
       "published_at": "2025-12-29T17:16:33.000Z",
       "summary": "Israel’s reluctance to move to the second stage of the US ceasefire deal with Hamas has reportedly irritated many of the White House’s advisors, sources told CNN."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Hamas confirms death of spokesperson Abu Obeida, months after IDF strike",
+      "url": "https://www.haaretz.com/gaza/2025-12-29/ty-article/.premium/hamas-confirms-death-of-spokesperson-abu-obeida-months-after-idf-strike/0000019b-6ad8-de3e-adbf-ebda2c9a0000",
+      "image": "https://img.haarets.co.il/bs/00000198-fbe1-d558-afba-ffff09890006/59/e5/c49452974147b0185f124af25016/888195.jpg?height=81",
+      "published_at": "2025-12-29T17:15:59.000Z",
+      "summary": "Abu Obeida, whose real name was Huthayfa Samir Abdallah al-Kahlout, was killed in an Israeli drone strike in Gaza City in August. Hamas said a new spokesperson for its military wing would also be called Abu Obeida, without revealing his real identity"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "IDF chief ousts senior officer over Lebanon incident that killed civilian, soldier",
+      "url": "https://www.timesofisrael.com/idf-chief-ousts-senior-officer-over-lebanon-incident-that-killed-civilian-soldier/",
+      "image": null,
+      "published_at": "2025-12-29T17:15:59.000Z",
+      "summary": "Citing 'grave operational failure,' Zamir orders severe reprimand of Col. (res.) Yoav Yarom, alongside his dismissal from reserve duty\nThe post IDF chief ousts senior officer over Lebanon incident that killed civilian, soldier appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "במוקד - שלב ב' בעזה, איראן וסוריה: מ-20:00 - פסגת טראמפ-נתניהו בפלורידה",
+      "url": "https://www.ynet.co.il/news/article/ry1xkxl4zl",
+      "image": null,
+      "published_at": "2025-12-29T17:14:35.000Z",
+      "summary": "בביקורו הקודם של רה\"מ בארה\"ב נסגר מתווה הפסקת האש בעזה. מאז שוחררו כל החטופים מלבד החלל רן גואילי, כשעל סדר היום במאר א-לאגו שלל סוגיות: התקדמות בהסכם בעזה, ההתחמשות של איראן, פירוק חיזבאללה מנשקו וגם ההסדר מול א-שרע. בינתיים, נתניהו פגש את רוביו והגסת' ושוחח עם מאסק"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "רחמים על מספר 68: הדיקטטור נפגע בהוקי קרח – והתרסק על הגב | צפו",
+      "url": "https://www.ynet.co.il/news/article/s13kxgeewg",
+      "image": null,
+      "published_at": "2025-12-29T17:13:31.000Z",
+      "summary": "נשיא בלארוס אלכסנדר לוקשנקו, ששולט בארצו כבר 31 שנה וכונה במשך שנים \"הדיקטטור האחרון באירופה\", השתתף בגיל 71 במשחק ראווה במינסק. יריב פגע בו מאחור והפיל אותו מול המצלמות, הקסדה שלראשו נחבטה במשטח. איך הגיב?"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -50,6 +110,16 @@
       "image": null,
       "published_at": "2025-12-29T17:00:30.000Z",
       "summary": "A new IDF review will examine multiple Gaza war phases since October 7, including why Hamas regrouped after invasions and how commands performed across the campaign."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Boxer Anthony Joshua injured in deadly car crash in Nigeria",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/29/boxer-anthony-joshua-injured-in-deadly-car-crash-in-nigeria?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-29T16:59:02.000Z",
+      "summary": "British boxer Anthony Joshua was injured in a car crash in Nigeria that killed two people, police say."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -95,7 +165,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "איש העסקים שמשמש \"שליח מיוחד\" של נתניהו - והמגבלות המיוחדות בפגישה עם טראמפ",
+      "title": "איש העסקים שמשמש \"שליח מיוחד\" של נתניהו - והמגבלות עליו בפגישה עם טראמפ",
       "url": "https://www.ynet.co.il/news/article/s1ha8mxebx",
       "image": null,
       "published_at": "2025-12-29T16:37:06.000Z",
@@ -955,7 +1025,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Heavy rains sweep Israel; Authorities search for man feared swept away by flood",
+      "title": "Heavy rains hit Israel; authorities search for man feared swept away by flood",
       "url": "https://www.haaretz.com/israel-news/2025-12-29/ty-article/.premium/heavy-rain-strong-winds-hit-central-israel-as-tree-falls-onto-moving-car-in-herzliya/0000019b-698f-d347-abbf-f9df60470000",
       "image": "https://img.haarets.co.il/bs/0000019b-6a66-d876-af9f-7bee85ab0000/a7/49/53c37b064606bfb78ea79d08ff2d/234432.jpg?height=81",
       "published_at": "2025-12-29T10:28:12.000Z",
@@ -970,36 +1040,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d29/live/9dad1640-dcd0-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2025-12-29T10:27:30.000Z",
       "summary": "It has been a year of multiple major conflicts - and there are geopolitical implications of unparalleled importance"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "לראשונה אחרי 25 שנה: מתפללים יוכלו לשהות בקבר יוסף גם בבוקר",
-      "url": "https://www.ynet.co.il/news/article/sjrdkcy4bg",
-      "image": null,
-      "published_at": "2025-12-29T10:26:52.000Z",
-      "summary": "פרסום ראשון: צה\"ל, שר הביטחון וח\"כ סוכות סיכמו שביקורי הלילה המאובטחים במתחם שבלב שכם יימשכו עד 8:00 בבוקר. בהמשך תיבחן האפשרות להאריך גם את השהייה ביום"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אירוע חריג בביה\"ח: רכב נגנב - כשתינוק בתוכו",
-      "url": "https://www.ynet.co.il/news/article/hyvbucjebx",
-      "image": null,
-      "published_at": "2025-12-29T10:25:57.000Z",
-      "summary": "המשטרה עצרה חשוד שגנב רכב מבית החולים הלל יפה בחדרה. מחקירה ראשונית עולה כי האם השאירה את הרכב מונע ויצאה לאסוף דבר מה, וכששבה - הוא נעלם. התינוק הוחזר למשפחתו כשהוא בריא ושלם. \"מדובר במטופל, ככל הנראה במצב פסיכוטי\", עדכן בית החולים"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "סין פתחה בתרגיל צבאי של מצור על טייוואן ומאיימת: \"נשמיד את הבדלנים!\"",
-      "url": "https://www.ynet.co.il/news/article/hjuglr14zg",
-      "image": null,
-      "published_at": "2025-12-29T10:14:38.000Z",
-      "summary": "הצבא הסיני פתח בסבב תרגילים במצר טייוואן ושלח ספינות מלחמה ומטוסי קרב. התרגילים, שכוללים ירי של אש חיה, הם הנרחבים ביותר בשנים האחרונות ומגיעים אחרי עסקת נשק ענקית בין ארה\"ב לטייוואן, שדוחה את תביעת הריבונות הסינית. \"אזהרה לבדלנים ולכוחות ההתערבות החיצונית\", אמרו בבייג'ינג. בטייוואן זיהו בתרגילים ספ"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1020,16 +1060,6 @@
       "image": null,
       "published_at": "2025-12-29T09:59:59.000Z",
       "summary": "Already through to the round of 16, Nigeria face Uganda in their final group fixture, eyeing a 100 percent record."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Pirate waste fires choke Israelis and Palestinians as ministers play game of hot potato",
-      "url": "https://www.timesofisrael.com/pirate-waste-fires-choke-israelis-and-palestinians-as-ministers-play-game-of-hot-potato/",
-      "image": null,
-      "published_at": "2025-12-29T09:54:30.000Z",
-      "summary": "Ahead of upcoming elections, lawmakers wake up to citizens' protests as Environmental and Defense ministries battle over turf and Treasury promises -- but doesn't deliver -- funds\nThe post Pirate waste fires choke Israelis and Palestinians as ministers play game of hot potato appeared first on The T"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1060,16 +1090,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-6942-d1d0-a9bf-efc30f600001/d0/17/1fc362384012804bbafb77fbc116/233962.jpg?height=81",
       "published_at": "2025-12-29T08:55:48.000Z",
       "summary": "Ritual bath found under the Western Wall Plaza by the Temple entrances contains the evidence of the violent end of the Second Temple period in Jerusalem"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Winter floods wreak havoc on Gaza displacement camps as Israel blocks aid",
-      "url": "https://www.aljazeera.com/gallery/2025/12/29/winter-floods-wreak-havoc-on-gaza-displacement-camps-as-israel-blocks-aid?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-29T08:55:38.000Z",
-      "summary": "Heavy rains flood Gaza, leaving families struggling to stay dry amid aid shortages and widespread Israeli destruction."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1430,16 +1450,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-65cc-d295-a59b-6dde98260001/9f/5e/393fc9d8474893b1519ab7ac68be/227929.jpg?height=81",
       "published_at": "2025-12-28T19:07:39.000Z",
       "summary": "Three people were arrested at the protest, led by the extremist ultra-Orthodox Jerusalem Faction, which was joined by a diverse collection of Haredi groups. In response, the faction said that 'if you arrest Torah scholars, the state will also come to a halt'"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Elkin's 'six out of 10' remark frames a broader debate on Israel's civilian reality - analysis",
-      "url": "https://www.jpost.com/israel-news/article-881616",
-      "image": null,
-      "published_at": "2025-12-28T19:03:58.000Z",
-      "summary": "From a rare ministerial assessment to debates on finance, credit, and governance, a Tel Aviv forum revealed how Israel is navigating civilian challenges that extend well beyond the battlefield."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2350,16 +2360,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-56bb-d02f-a7ff-d6fb59f60001/46/e2/04d2344f47cc84a9e14fe593a73e/popo.PNG?height=81",
       "published_at": "2025-12-25T18:57:21.000Z",
       "summary": "The Israel Police's message was unmistakable: Israel decides for Palestinians how and when to celebrate, and whether joy is permitted at all. Israel can empty holidays of substance, and then walk beside us once the optics are right"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "IDF says it downed two drones used for smuggling from Egypt into Israel",
-      "url": "https://www.haaretz.com/israel-news/2025-12-25/ty-article/.premium/idf-says-it-downed-two-drones-used-for-smuggling-from-egypt-into-israel/0000019b-56ae-d2b2-affb-56ee5ed30000",
-      "image": "https://img.haarets.co.il/bs/0000019b-56d0-df6b-a7db-f7d7adc40007/76/31/2ef395494195abad6903ae43cf0e/574232.jpg?height=81",
-      "published_at": "2025-12-25T18:53:27.000Z",
-      "summary": "An air force official described the operation as the first of its kind to use a combat helicopter. Shin Bet chief David Zini described smuggling operations as an 'ongoing catastrophe,' warning that they constitute a 'strategic threat to Israel'"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
