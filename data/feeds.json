@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T19:08:15.007Z",
+  "generated_at": "2025-12-29T19:32:34.101Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -30,6 +30,36 @@
       "image": null,
       "published_at": "2025-12-29T19:23:56.000Z",
       "summary": "Netanyahu and Elon Musk discussed advancing AI and autonomous vehicle cooperation in a call confirmed by the PMO, days after Musk drew criticism for a viral X post about Jews and whiteness."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump meets Netanyahu in Florida as focus turns to Middle East issues",
+      "url": "https://www.bbc.com/news/articles/cwypyq9dvggo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bbd/live/c0e91f10-e4cc-11f0-a8dc-93c15fe68710.jpg",
+      "published_at": "2025-12-29T19:23:40.000Z",
+      "summary": "They are set to discuss Iran, Lebanon, Syria and Gaza, where the Trump administration wants to see the ceasefire enter its second stage in January. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Ukraine denies drone attack on Putin's residence",
+      "url": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9e/live/8e2f52a0-e4cd-11f0-a8dc-93c15fe68710.jpg",
+      "published_at": "2025-12-29T19:11:02.000Z",
+      "summary": "Russia has accused Ukraine of targeting a presidential residence, which President Zelensky called \"typical Russian lies\"."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Peace hopes dented as Russia says Ukraine tried to attack Putin residence",
+      "url": "https://www.timesofisrael.com/peace-hopes-dented-as-russia-says-ukraine-tried-to-attack-putin-residence/",
+      "image": null,
+      "published_at": "2025-12-29T19:06:05.000Z",
+      "summary": "Moscow's foreign ministry claims Ukrainians fired nearly 100 drones at Novgorod region home; Kyiv calls it a lie, accuses Russians of aiming to undermine talks with US\nThe post Peace hopes dented as Russia says Ukraine tried to attack Putin residence appeared first on The Times of Israel.\n"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvSFpC",
@@ -89,7 +119,7 @@
       "url": "https://www.aljazeera.com/sports/2025/12/29/south-africa-edge-zimbabwe-3-2-to-book-afcon-2025-knockout-place?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-29T18:28:45.000Z",
-      "summary": "Meanwhile, a second-string Egypt side maintains their unbeaten record in goalless draw with Angola."
+      "summary": "Meanwhile, a second-string Egypt side maintains their unbeaten record in a goalless draw with Angola."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -120,16 +150,6 @@
       "image": null,
       "published_at": "2025-12-29T18:06:28.000Z",
       "summary": "שלוחי איראן בתימן אומרים כי \"אין ספק שהסבבים הקרובים עם האויב הישראלי\" יגיעו, ומעבירים מסר לפיו הם \"במצב גיוס ומוכנות חסרי תקדים\". בעקבות ההכרה הישראלית בסומלילנד תקף בכיר החות'ים: \"ניסיון ישראלי להשיג דריסת רגל בסומליה - כדי לפגוע באזור ולפצל את מדינותיו\""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Ukraine denies drone attack on Putin's residence",
-      "url": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9e/live/8e2f52a0-e4cd-11f0-a8dc-93c15fe68710.jpg",
-      "published_at": "2025-12-29T18:00:39.000Z",
-      "summary": "Russia has accused Ukraine of targeting a presidential residence, which President Zelensky called \"typical Russian lies\"."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -199,7 +219,7 @@
       "url": "https://www.jpost.com/israel-news/benjamin-netanyahu/article-881727",
       "image": null,
       "published_at": "2025-12-29T17:16:33.000Z",
-      "summary": "Israel’s reluctance to move to the second stage of the US ceasefire deal with Hamas has reportedly irritated many of the White House’s advisors, sources told CNN."
+      "summary": "Trump claimed he had spoken to President Herzog about pardoning Netanyahu, a claim denied by the president."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -225,11 +245,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "טראמפ: \"שיקום עזה יחל בקרוב. הנשיא אמר לי שהחנינה לביבי בדרך\"",
+      "title": "טראמפ נתן אור ירוק לתקיפה באיראן וטען: \"הנשיא אמר לי שהחנינה לביבי בדרך\"",
       "url": "https://www.ynet.co.il/news/article/ry1xkxl4zl",
       "image": null,
       "published_at": "2025-12-29T17:14:35.000Z",
-      "summary": "לצד נתניהו, חזר נשיא ארה\"ב בפתח הפסגה במאר א-לאגו על קריאתו להענקת חנינה: \"ביבי גיבור מלחמה, בלעדיו ישראל לא הייתה שורדת\". בית הנשיא: \"לא הייתה שיחה בינם מאז הגשת החנינה\". האבחנה שעשה טראמפ בין הגרעין והטילים של איראן, ותגובתו לחיילים טורקים בעזה: \"אם זה טוב - נעשה זאת\""
+      "summary": "לצד נתניהו, חזר נשיא ארה\"ב על קריאתו למתן חנינה: \"ביבי גיבור מלחמה, בלעדיו ישראל לא הייתה שורדת\". בית הנשיא: \"לא הייתה שיחה בינם מאז בקשת החנינה\". לדבריו, שיקום עזה יחל בקרוב, \"אבל חמאס חייב להתפרק מנשקו\". האבחנה שעשה בין הגרעין והטילים של איראן, ותגובתו לחיילים טורקים בעזה: \"אם זה טוב - זה טוב. זה "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -299,7 +319,7 @@
       "url": "https://www.ynet.co.il/news/article/rjpwbje4zg",
       "image": null,
       "published_at": "2025-12-29T16:43:33.000Z",
-      "summary": "שוטרים, לוחמי אש ומתנדבים סורקים בנחל חברון ובנחל באר שבע, גם בעזרת רחפנים - לאחר שאדם תועד מנסה לחלץ רכב, ואז נסחף. התיעודים מהסערה שבדרך להסתיים - והנתונים המלאים: כמה גשם ירד?"
+      "summary": "שוטרים, לוחמי אש ומתנדבים סרקו בנחל חברון, גם בעזרת רחפנים - לאחר שאדם תועד מנסה לחלץ רכב באזור מעבר מיתר - ואז נסחף. הוא טרם אותר, ובתום כמה שעות הוחלט על הפסקת החיפושים לבינתיים. וגם: התיעודים מהסערה שבדרך להסתיים,  והנתונים המלאים - כמה גשם ירד?"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -972,16 +992,6 @@
       "summary": "The Humanitarian Committee for Palestinians in Israel, which operates under the Interior Ministry, reviews residency requests based on exceptional humanitarian circumstances. In the absence of an interior minister, cases pending for over a year cannot be approved, leaving temporary residents in prol"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump to meet Netanyahu in Florida as focus turns to Middle East issues",
-      "url": "https://www.bbc.com/news/articles/cwypyq9dvggo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bbd/live/c0e91f10-e4cc-11f0-a8dc-93c15fe68710.jpg",
-      "published_at": "2025-12-29T11:52:16.000Z",
-      "summary": "They are set to discuss Iran, Lebanon, Syria and Gaza, where the Trump administration wants to see the ceasefire enter its second stage in January. "
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1000,16 +1010,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/635f/live/93f926c0-e46e-11f0-aeca-75a245093405.png",
       "published_at": "2025-12-29T11:46:34.000Z",
       "summary": "The drills come days after the US announced the sale of one of its largest weapons packages to Taiwan."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "2025 saw sharp drop in immigration to Israel even as arrivals from Western nations surged",
-      "url": "https://www.timesofisrael.com/2025-saw-sharp-drop-in-immigration-to-israel-even-as-arrivals-from-western-nations-surged/",
-      "image": null,
-      "published_at": "2025-12-29T11:44:51.000Z",
-      "summary": "Total aliya fell by a third as Russian immigration halved; French immigration rose 45% while that from North America jumped 13% amid skyrocketing antisemitism\nThe post 2025 saw sharp drop in immigration to Israel even as arrivals from Western nations surged appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
