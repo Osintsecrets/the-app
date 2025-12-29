@@ -1,6 +1,66 @@
 {
-  "generated_at": "2025-12-29T08:50:47.538Z",
+  "generated_at": "2025-12-29T09:18:24.593Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"מפל\" ברחוב בחיפה, ברד כבד בכרמיאל: התיעודים - וכמויות הגשם הגדולות ליד הכינרת",
+      "url": "https://www.ynet.co.il/news/article/hjutl21n11g",
+      "image": null,
+      "published_at": "2025-12-29T09:08:43.000Z",
+      "summary": "מזג האוויר הסוער נמשך ומגיע הבוקר לשיאו: גשם כבד יורד באזורים נרחבים בארץ, כבישים נחסמו, עצים קרסו ותועדו הצפות. בערב הגשם ייחלש. שיאניות הגשם, הנתונים - והתחזית המלאה"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Former hostage says Hamas captors staged unreleased video depicting suicide attempt",
+      "url": "https://www.haaretz.com/israel-news/2025-12-29/ty-article/.premium/former-hostage-says-hamas-captors-staged-unreleased-video-depicting-suicide-attempt/0000019b-692b-d1d0-a9bf-efeb45aa0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-6944-d1d0-a9bf-efc5c0010001/09/d8/e076c03b4592873de6a77bcfb6f0/443471.jpg?height=81",
+      "published_at": "2025-12-29T09:05:29.000Z",
+      "summary": "Hostage survivor Elkana Bohbot told Israeli news outlet Yedioth Ahronoth that his captors lied to him, telling him his mother had died and that his wife had left him. He also said he had a plan to escape, but was moved to a tunnel before he and other hostages could attempt to flee"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "War drives Israeli tech workers to seek relocation abroad, report says",
+      "url": "https://www.haaretz.com/israel-news/2025-12-29/ty-article/.premium/war-drives-israeli-tech-workers-to-seek-relocation-abroad-report-says/0000019b-6916-d347-abbf-f9d655aa0000",
+      "image": "https://img.haarets.co.il/bs/00000198-1857-dd64-abb9-ba77433b0001/95/55/b806b10c4046b14d3f702c2dfcb8/369107.jpg?height=81",
+      "published_at": "2025-12-29T08:56:34.000Z",
+      "summary": "Without active government steps to ensure regulatory and geopolitical stability, Israel risks a gradual erosion of its tech ecosystem, the Israel Advanced Technology Industries Association warned in its report"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Mikveh filled with ash from Roman destruction found in Jerusalem",
+      "url": "https://www.haaretz.com/archaeology/2025-12-29/ty-article/mikveh-filled-with-ash-from-roman-destruction-found-in-jerusalem/0000019b-693f-d347-abbf-f9ff25f60000",
+      "image": "https://img.haarets.co.il/bs/0000019b-6942-d1d0-a9bf-efc30f600001/d0/17/1fc362384012804bbafb77fbc116/233962.jpg?height=81",
+      "published_at": "2025-12-29T08:55:48.000Z",
+      "summary": "Ritual bath found under the Western Wall Plaza by the Temple entrances contains the evidence of the violent end of the Second Temple period in Jerusalem"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Winter floods wreak havoc on Gaza displacement camps as Israel blocks aid",
+      "url": "https://www.aljazeera.com/gallery/2025/12/29/winter-floods-wreak-havoc-on-gaza-displacement-camps-as-israel-blocks-aid?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-29T08:55:38.000Z",
+      "summary": "Heavy rains flood Gaza, leaving families struggling to stay dry amid aid shortages and widespread Israeli destruction."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Kosovo’s prime minister claims victory in snap election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/29/kosovos-prime-minister-claims-victory-in-snap-election?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-29T08:55:17.000Z",
+      "summary": "Kosovo’s caretaker Prime Minister Albin Kurti said he will move quickly to form a new government."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -20,6 +80,26 @@
       "image": null,
       "published_at": "2025-12-29T08:53:46.000Z",
       "summary": "The Northern District Commander, Meir Eliyahu, signed a 30-day closure order for the terrorist's place of employment in Kibbutz Mesilot in the Spring Valley on Saturday. "
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Netanyahu set to meet with Trump at Mar-a-Lago for talks on Gaza, Iran",
+      "url": "https://www.haaretz.com/israel-news/2025-12-29/ty-article/.premium/netanyahu-set-to-meet-with-trump-at-mar-a-lago-for-talks-on-gaza-iran/0000019b-66cf-d25b-a3db-fedfc3710000",
+      "image": "https://img.haarets.co.il/bs/0000019b-67f8-d295-a59b-6ffefbf80000/c1/7d/3ce48ea149f4bb1d47c7bcb38b5f/767417.jpg?height=81",
+      "published_at": "2025-12-29T08:53:43.000Z",
+      "summary": "Sources familiar with the details of the visit said they are struggling to assess whether Trump will take a friendly or hostile approach toward Netanyahu. 'With Trump, you never know,' one said"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Photos: Sporting moments of 2025 beyond the scoreboard",
+      "url": "https://www.aljazeera.com/gallery/2025/12/29/photos-sport-in-2025-beyond-the-scoreboard?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-29T08:42:35.000Z",
+      "summary": "Witness the unforgettable sporting year of 2025, where athletes conquered challenges and created cherished memories."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -92,6 +172,26 @@
       "summary": "The drills come days after the US announced the sale of one of its largest weapons packages to Taiwan."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "קרב נגד דאעש בעיירה בטורקיה: 3 שוטרים ו-6 מחבלים נהרגו ",
+      "url": "https://www.ynet.co.il/news/article/hyomwnjvzl",
+      "image": null,
+      "published_at": "2025-12-29T08:08:18.000Z",
+      "summary": "המשטרה הטורקית הסתערה הלילה על בית בעיירה יאלובה שבו הסתתרו אנשי דאעש, שפתחו באש לעבר הכוחות ופצעו שבעה שוטרים. העימות גלש לרחובות העיירה, שלושה שוטרים נורו למוות ושישה מחבלים חוסלו. בתי ספר באזור נסגרו"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "קיש: אם הרבנים לא יגידו להתגייס - לא משנה מה יהיה כתוב בחוק שנעביר",
+      "url": "https://www.ynet.co.il/news/article/syp3y2jezg",
+      "image": null,
+      "published_at": "2025-12-29T08:02:25.000Z",
+      "summary": "שר החינוך אמר בוועידת החינוך של ynet ו\"ידיעות אחרונות\" שהוא שואף להישאר בתפקיד אחרי הבחירות, אם תקודם תוכנית \"25 תלמידים בכיתה ופחות\". הוא סירב לתת ציון לתפקודו, טען ש\"אחים לנשק באים לדבר על סרבנות - ולכן הוצאתי אותם מבתי הספר\" - והודה: לא השלמנו את יעדי המלחמה"
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -102,6 +202,16 @@
       "summary": "Yemen's Houthi leader also accused Israel of threatening security in the Red Sea and the Gulf of Aden, urging Arab and Islamic states to take action. Israeli sources have warned in recent months of the diplomatic costs Israel could face as a result of recognizing Somaliland, including potential dama"
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "לראשונה בישראל: תושב הנגב הורשע בגביית פרוטקשן בלי סעיף סחיטה",
+      "url": "https://www.ynet.co.il/news/article/sk26c5k4zx",
+      "image": null,
+      "published_at": "2025-12-29T07:34:14.000Z",
+      "summary": "הפרקליטות מבקשת לגזור 36 חודשי מאסר על עבד אבו סבית מחורה, שהורשע כנאשם המרכזי בתיק גביית דמי חסות באזור התעשייה עמק שרה בבאר שבע. זאת בהתאם לתיקון החקיקה המכיר בכך שאיום בסחיטה לא נעשה באופן מפורש. שני מעורבים אחרים בפרשה, עאטף אבו סבית ובנו אוסאמה, ירצו 15 ו-12 חודשי מאסר"
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -110,6 +220,16 @@
       "image": null,
       "published_at": "2025-12-29T07:29:42.000Z",
       "summary": "The deployment comes after deadly unrest amid protests by the Alawite minority in the coastal cities."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "כ-31 שנה אחרי ההרשעה ברצח: הפרקליטות תומכת בזיכוי \"מייקל ג'קסון הישראלי\" ",
+      "url": "https://www.ynet.co.il/news/article/syxtyij4zg",
+      "image": null,
+      "published_at": "2025-12-29T07:26:24.000Z",
+      "summary": "סופיאן מסלוחי הורשע ברצח סוחר התכשיטים מנשה עטר ב-1994, ולפני חודשים בודדים ביקש משפט חוזר בטענה שמסר הודאה \"שקרית, תחת מצוקה, בידוד ותקיפה מינית\". כעת הודיעה הפרקליטות שהיא מסכימה לבקשה למשפט חוזר - ובאופן חריג, אף לזיכויו. הוא צפוי להישאר בכלא עד 2036 - בגלל הרשעה אחרת"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -132,6 +252,16 @@
       "summary": "Kim Keon-hee took more than $200,000 in bribes and illegally intervened in state affairs, South Korean prosecutors say."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הנערה נחטפה בחג המולד, אביה איתר את הטלפון והציל אותה ",
+      "url": "https://www.ynet.co.il/news/article/bjjskj1vze",
+      "image": null,
+      "published_at": "2025-12-29T07:18:04.000Z",
+      "summary": "בת 15 מטקסס נחטפה באיומי סכין כשיצאה לטייל עם הכלב. אביה מצא אותה באזור מבודד, בתוך טנדר עם גבר בעירום חלקי. הוא עזר לה לצאת מהרכב והודיע למשטרה על החטיפה. החוטף נעצר: \"פגע בילדה והרס את חג המולד\""
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -142,14 +272,24 @@
       "summary": "Victims' families renewed calls for a royal commission, saying the Australian government's response is 'not nearly enough,' while PM Albanese insisted that a faster review is needed, saying, 'We can't wait years for answers. We need to get on with any changes that are required'"
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "האזהרות נכנסו לתוקף: אלו מוקדי ההצפות והשיטפונות | צפו במכ\"ם",
+      "url": "https://www.ynet.co.il/news/article/sy0ubw1e11g",
+      "image": null,
+      "published_at": "2025-12-29T06:59:02.000Z",
+      "summary": "הגשמים התחזקו, ובשלוש שעות ירדו כ-32 מ\"מ בראשון לציון ו-30.9 בבאר יעקב. \"אזהרה אדומה\" על הצפות בשומרון, \"צהובה\" בכרמל ובחוף. ברחבי הארץ מנשבות רוחות עזות, עם משבים של יותר מ-80 קמ\"ש. בכביש 4 לדרום נחסמו נתיבים במחלף חולון. בערב הגשם ייחלש | הנתונים והתחזית המלאה"
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Seven Turkish police officers wounded in clash with ISIL fighters: Report",
+      "title": "Six ISIL fighters, 3 police officers killed in northwest Turkiye raid",
       "url": "https://www.aljazeera.com/news/2025/12/29/seven-turkish-police-officers-wounded-in-clash-with-isil-fighters-report?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-29T06:25:49.000Z",
-      "summary": "A shootout ensues after police raid a home in northwestern Yalova province, local media reports say."
+      "summary": "A shootout ensues after police raid a home in northwestern Yalova province, Turkiye&#039;s interior ministry says."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -182,6 +322,16 @@
       "summary": "Syrians in Turkey are weighing up whether it is the right time to return to their homeland."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "המהלך הנפיץ הבא: צה\"ל מתחיל לתחקר את התמרונים בעזה ובלבנון",
+      "url": "https://www.ynet.co.il/news/article/yokra14628339",
+      "image": null,
+      "published_at": "2025-12-29T05:57:01.000Z",
+      "summary": "חשיפה: מהכניסה הראשונה לעיר עזה, דרך הכיבוש המאוחר של רפיח ועד למרכבות גדעון ב', שנבלמה בהסכם עם חמאס. אחרי שהושלמו תחקירי ה-7/10, בצבא מתחילים לתחקר את הלחימה הארוכה בכל הזירות, גם בשומרון ובגולן הסורי. אלופים במיל' ימונו לצוותי בקרה - היעד להצגה: סוף 2026"
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -202,6 +352,16 @@
       "summary": "Authorities say the actions of Ahmed al Ahmed, a shop owner, saved countless lives."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הגיבור מהפיגוע בסידני שחזר לראשונה: \"קפצתי על המחבל והכיתי\"",
+      "url": "https://www.ynet.co.il/news/article/hyqte51nbx",
+      "image": null,
+      "published_at": "2025-12-29T05:37:41.000Z",
+      "summary": "אחמד אל-אחמד ממשיך להתאושש מהפציעה שספג בפיגוע בבונדיי ביץ', ובריאיון ראשון ל-CBS סיפר איך נאבק במחבל: \"לא רציתי לראות אנשים נהרגים מולי, הנשמה שלי ביקשה שאעשה את זה. הכול פעל רק כדי להציל חיי אדם. הצלתי רבים, אבל אני מצר על האובדן\""
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -212,6 +372,16 @@
       "summary": "Israel has carried out attacks in Palestine, Lebanon, Iran, Syria, Qatar and Yemen, as well as in maritime waters."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מנהל האבטחה דיווח שפלדשטיין חזר ללשכה - אך בשב\"כ הסתפקו בחידוד נהלים  ",
+      "url": "https://www.ynet.co.il/news/article/yokra14628264",
+      "image": null,
+      "published_at": "2025-12-29T05:04:27.000Z",
+      "summary": "חשיפה: אחרי שנפסל בסיווג הביטחוני ונאלץ לעזוב את לשכת רה\"מ, אלי פלדשטיין שב לעבוד בה כיועץ פרטי - ומנהל האבטחה שב והתלונן בפני שב\"כ על היעדר הסמכות מול יועצים פרטיים בלשכה. אבל בארגון לא דרשו את הרחקתו המיידית. במשרד רה\"מ סירבו להגיב. שב\"כ: \"פעלנו במסגרת סמכויותינו על פי דין\""
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -220,6 +390,26 @@
       "image": "https://img.haarets.co.il/bs/0000019b-6878-d1d0-a9bf-eef96dd30002/3a/1d/4dca567b46ec9bd5eea4841b938e/506876.jpg?height=81",
       "published_at": "2025-12-29T05:01:49.000Z",
       "summary": "He claims he would never harm Israel's security. As if deceiving the public to make it believe in the reality he created doesn't harm the country's security"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "החיבוק במרוקו לחוקרת הישראלית: \"תרמה משמעותית לדיאלוג בין האומות\"",
+      "url": "https://www.ynet.co.il/news/article/yokra14627725",
+      "image": null,
+      "published_at": "2025-12-29T05:01:17.000Z",
+      "summary": "דווקא בימים סוערים ביחסים בין העולם הערבי לישראל, \"פורום סלאם\" שפועל בחסות משרד התרבות המרוקאי יעניק פרס לעינת לוי, שמתגוררת במרוקו כבר 15 שנים: \"זה מרגש מאוד, ומשדר מסר ברור על עמדת הממשל - מדינה ערבית שרוצה לקדם יחסים עם ישראל\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הדיווח לפני פגישת טראמפ-נתניהו: \"איראן מפתחת ראשי קרב כימיים וביולוגיים\"",
+      "url": "https://www.ynet.co.il/news/article/byioqtj411e",
+      "image": null,
+      "published_at": "2025-12-29T04:55:27.000Z",
+      "summary": "הערוץ \"איראן אינטרנשיונל\", המזוהה עם האופוזיציה במדינה, דיווח מפי מקורות צבאיים לא-מזוהים כי משמרות המהפכה מפתחים ראשי קרב לא-קונבנציונליים לטילים ארוכי טווח - במקביל להעברתם למזרח איראן. \"הפעילויות הואצו מחשש לעימות ישיר עם ישראל וארה\"ב, זה גורם הרתעה משלים\", נטען"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -332,6 +522,16 @@
       "summary": "It has been a year of multiple major conflicts - and there are geopolitical implications of unparalleled importance"
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "עושים סדר בפרשת קטארגייט | עם נטעאל בנדל",
+      "url": "https://www.ynet.co.il/news/theheadline/article/rjzbykambx",
+      "image": null,
+      "published_at": "2025-12-29T03:00:00.000Z",
+      "summary": "פרשת הדלפת המסמכים לבילד הסתיימה בכתב אישום נגד הנגד ואלי פלדשטיין, אך השאלה המרכזית נותרה פתוחה: האם יונתן אוריך גם יואשם ויצורף לכתב האישום. במקביל נחקרת פרשת קטארגייט, שבמרכזה גורמים מלשכת ראש הממשלה חשודים בקידום אינטרסים של קטאר תמורת כסף. כתב המשפט של ynet נטעאל בנדל עושה סדר בהתפתחויות האחרונ"
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -390,6 +590,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b871/live/0f455470-e46f-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2025-12-29T02:15:36.000Z",
       "summary": "An investigation is under way after the train derailed as it rounded a bend near the town of Nizanda. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "שורדי השבי מתן צנגאוקר ואילנה גריצ'ווסקי התארסו: \"תמונת הניצחון\"",
+      "url": "https://www.ynet.co.il/news/article/rj2psiyezx",
+      "image": null,
+      "published_at": "2025-12-29T02:09:41.000Z",
+      "summary": "כ-3 חודשים לאחר ששוחרר מהשבי בעזה ושב לבת זוגו אילנה, מתן כרע ברך והציע לה נישואים. אילנה, ששוחררה בנובמבר 2023, הצטרפה לאימו עינב במאבק למען שחרורו. עינב פרסמה תיעוד מהצעת הנישואים, וכתבה: \"תמונת הניצחון שלי 🩵\""
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -492,6 +702,16 @@
       "summary": "A High Court order has postponed the Tel Aviv chief rabbi election after judges found procedural shortcomings in how ministry representatives were presented to the city council."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ההכרה בסומלילנד, המתיחות בין סעודיה לאמירויות - והקרב על הים האדום",
+      "url": "https://www.ynet.co.il/news/article/bkbvpaaq11e",
+      "image": null,
+      "published_at": "2025-12-28T22:36:25.000Z",
+      "summary": "המדינה שהתפצלה מסומליה לפני 34 שנה מתנהלת מאז באופן חריג כדמוקרטיה מתפקדת, וישראל הראשונה שהכירה בה רשמית. יש בה חוקה, פרלמנט, בחירות וחילופי שלטון - אבל מה שחשוב לירושלים זה שהיא קרובה לים האדום. וגם: האיום של מנהיג החות'ים, והקשר להסלמה בין סעודיה לאמירויות בדרום תימן"
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -512,6 +732,16 @@
       "summary": "Elsewhere in the Africa Cup of Nations 2025, Cameroon and Ivory coast draw 1-1, while Sudan see off Equatorial Guinea."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "החשש מכפיית שלב ב' בעזה, והאפשרות ל\"אור ירוק\" לתקיפה באיראן: מוקדי פסגת נתניהו-טראמפ",
+      "url": "https://www.ynet.co.il/news/article/hjyxicrmzx",
+      "image": null,
+      "published_at": "2025-12-28T22:15:33.000Z",
+      "summary": "בפגישה בין רה\"מ לנשיא האמריקני במאר א-לאגו ידרוש נתניהו ערבויות להחזרת החלל החטוף רן גואילי ופירוק חמאס מנשקו, ויציג מידע מודיעיני על התעצמות ארגון הטרור. הם ידונו על כוח הייצוב לעזה והקמת הגוף הטכנוקרטי, וגם על המצב בסוריה, לבנון ואיראן. וגם: הקרב על אוזנו של טראמפ, והלו\"ז המלא לביקור רה\"מ"
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -520,6 +750,26 @@
       "image": null,
       "published_at": "2025-12-28T22:10:53.000Z",
       "summary": "Any potential deployment of forces in nation near Red Sea would allow Jerusalem better access to strike Houthi sites\nThe post Houthi leader threatens to &#8216;target&#8217; any Israeli presence in Somaliland appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בחסות תרבות ההשתקה",
+      "url": "https://www.ynet.co.il/news/article/yokra14628182",
+      "image": null,
+      "published_at": "2025-12-28T22:04:00.000Z",
+      "summary": "שתי פרשיות שצפו בארה\"ב ובבריטניה מדגימות את הסכנה במדיניות שבה מתעלמים ממה שקורה, העיקר לא להיות מואשמים בגזענות"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אינטרסים אישיים על השולחן במיאמי",
+      "url": "https://www.ynet.co.il/news/article/yokra14628640",
+      "image": null,
+      "published_at": "2025-12-28T22:04:00.000Z",
+      "summary": "ארבע מערכות אינטרסים ייפגשו משני צידי השולחן במיאמי: של ישראל, של ארה\"ב, של נתניהו ושל טראמפ. כמעט כל נושא מזרח-תיכוני שיעלה על השולחן צפוי להוביל לעימות, על רקע שנת הבחירות שבפתח:  נתניהו מושך למהלכים צבאיים, ואילו טראמפ מייחל לחגיגות שלום"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -532,6 +782,46 @@
       "summary": "Defense Minister Israel Katz announced the decision to shutter the military broadcaster last week, with the closure slated to take effect in March."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "טראמפ אירח את זלנסקי, שבירך: \"שיחה נהדרת, השגנו תוצאות משמעותיות\"",
+      "url": "https://www.ynet.co.il/news/article/bk0pmyjnzx",
+      "image": null,
+      "published_at": "2025-12-28T22:03:31.000Z",
+      "summary": "נשיא ארה\"ב נפגש עם נשיא אוקראינה באחוזתו, לאחר שיחה שכינה \"פרודוקטיבית מאוד\" עם פוטין. הוא דן עם זלנסקי על תוכניתו, ולמרות שהבהיר בסיום הפסגה כי טרם הושגו סיכומים, זלנסקי הביע אופטימיות: \"הסכמנו שערובות ביטחוניות הן חיוניות\". הרקע: תקיפות רוסיות משמעותיות, ומחלוקות סביב סוגיית השטחים"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בין אמנות לתעמולה",
+      "url": "https://www.ynet.co.il/news/article/yokra14628654",
+      "image": null,
+      "published_at": "2025-12-28T22:03:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "סוס דוהר ורומס",
+      "url": "https://www.ynet.co.il/news/article/yokra14628015",
+      "image": null,
+      "published_at": "2025-12-28T22:03:00.000Z",
+      "summary": "רק על סף כניסתו של גופמן ללשכה שבה מילה אחת חורצת גורלות, צצו סימני שאלה בגודל של פיל שנמצאים שם כבר שנתיים. זוהי התפרקות טוטאלית של הנורמות"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "נהגי האוטובוסים מתריעים: \"בסוף יהיה רצח. תדאגו לנו - או שנשבות\"",
+      "url": "https://www.ynet.co.il/news/article/yokra14628281",
+      "image": null,
+      "published_at": "2025-12-28T22:00:00.000Z",
+      "summary": "גל האלימות נגד הנהגים כבר הפך לתופעה, כשצעירים עולים לאוטובוס, מתקיפים את הנהג - ומצלמים את המעשים ומפרסמים ברשת. כשמדובר בנהגים ערבים, יש נגדם התארגנויות של ממש. חקירות המשטרה נגמרות בכלום, פעמים רבות כי מדובר בקטינים . עובדי \"סופרבוס\" דורשים: \"תדאגו לביטחוננו, אנחנו על הקצה\""
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -540,6 +830,16 @@
       "image": null,
       "published_at": "2025-12-28T21:56:31.000Z",
       "summary": "British-Egyptian Alaa Abd el-Fattah, who arrived in UK after years in Egyptian prison, apologizes for posts endorsing violence after opposition figures call for his deportation\nThe post Starmer under fire for welcoming Egyptian activist who called to &#8216;kill all Zionists&#8217; appeared first on"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "דריסת נשים וירי חי: תיעוד יוצא דופן מקטטה בכפר שממזרח לירושלים",
+      "url": "https://www.ynet.co.il/news/article/sydcnzknwx",
+      "image": null,
+      "published_at": "2025-12-28T21:41:47.000Z",
+      "summary": "פצועים קל בקטטה חריגה בענאתא שכללה דריסה, ירי ותקיפה במקלות. בסכנין: ירי לעבר מרפאת שיניים, פצוע קשה מאש לעסק"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -622,6 +922,16 @@
       "summary": "“The decision is laden with errors,” Baharav-Miara said, noting that the court is expected to hear the case by the end of January."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בעקבות ויכוח בכביש 6: נהג הותקף - ונתלה על רכב נוסע עד שאיבד הכרה | תיעוד חריג",
+      "url": "https://www.ynet.co.il/news/article/sjfsyxkebl",
+      "image": null,
+      "published_at": "2025-12-28T20:02:12.000Z",
+      "summary": "שלושה ימים חלפו מאז הותקף נשאת ג'בארין במהלך נסיעה, ובעודו מתמודד עם חבלות בגופו ושבר ברגל, סיפר ל-ynet על האירוע - ועל האכזבה מהמשטרה. \"הוא זרק עליי סיגריות, וכששאלתי למה - נסע עליי והמשיך כשאני תלוי על המגבים\", סיפר. \"אם ערבי היה עושה את זה - המשטרה לא הייתה מחכה הרבה זמן\""
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -630,6 +940,16 @@
       "image": "https://img.haarets.co.il/bs/0000019b-665b-d1d0-a9bf-eedb69ce0000/ef/f9/66991390456a891400c0de092e45/990733.jpg?height=81",
       "published_at": "2025-12-28T19:59:47.000Z",
       "summary": "The plan was withdrawn following pressure from ministers Smotrich and Ben-Gvir. The crossing was to open through the framework of a cease-fire deal between Israel and Hamas"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"איש משפחה אוהב, סבא למופת\": שמשון שנרצח בפיגוע ליד ביתו הובא למנוחות",
+      "url": "https://www.ynet.co.il/news/article/sjyxko0qzx",
+      "image": null,
+      "published_at": "2025-12-28T19:39:37.000Z",
+      "summary": "מאות ליוו בדרכו האחרונה את שמשון מרדכי, שנדרס למוות שלשום בפיגוע המשולב בצפון. \"נותרנו עם שבר עמוק, לא רואה חיים בלעדיך\", ספדה לו אשתו שרה. בנו לירן תיאר דמות להערצה: \"הראית איך מתנהגים בכבוד\". בשיחה עם ynet קראו שני בניו: \"רק עונש מוות מגיע למחבל הארור\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -682,6 +1002,16 @@
       "summary": "This weekend, former hostage Romi Gonen shared her testimony of sexual assault in Hamas captivity. It had been in the minds of Israelis, informing the urgency of calls to 'bring them home' – horrors long feared but left unspoken"
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"קונספירציות שקריות\": בעלה של שקמה ברסלר תובע את טלי גוטליב ב-2.2 מיליון שקל ",
+      "url": "https://www.ynet.co.il/news/article/r1edtac711g",
+      "image": null,
+      "published_at": "2025-12-28T19:12:21.000Z",
+      "summary": "בעלה של אחת ממובילות המחאה נגד הממשלה הגיש תביעה בסך 8.3 מיליון שקלים נגד 21 איש, בהם חברת הכנסת מהליכוד, והדגיש כי הם \"פגעו אנושות בי ובמשפחתי\". לדבריו, הם הפיצו פרסומים שקריים - בהם הטענה השגויה כי שוחח עם סינוואר ותיאם איתו את הפלישה לישראל"
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -712,6 +1042,16 @@
       "summary": "In a response to the High Court, Defense Minister Katz accused Army Radio workers of presenting false claims amid legal challenges to the station’s closure."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "שכחו אותם בתחנה: חיילים נתקעו 3 שעות בלילה ברכבת הנעולה בפתח תקווה",
+      "url": "https://www.ynet.co.il/news/article/bj4honr7wx",
+      "image": null,
+      "published_at": "2025-12-28T18:54:27.000Z",
+      "summary": "3 חיילים שחזרו ברכבת בת\"א ננעלו בתחנת קריית אריה ב-1:00 בלילה - וחולצו רק לאחר כשלוש שעות. \"העובדת נעלמה. התקשרנו למשטרה, למכבי אש, לרכבת ישראל, לרכבת הקלה - כולם העבירו אותנו מאחד לשני - ואיש לא לקח אחריות\", אמרה ל-ynet אמה של אחת מהם. הרכבת הקלה: \"מתנצלים, האירוע ייבדק\""
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -720,6 +1060,26 @@
       "image": "https://img.haarets.co.il/bs/0000019a-4f9a-df58-ad9e-df9f1e4f0000/86/cb/12f5dba24c9bb10f34f52bfb8518/654788.jpg?height=81",
       "published_at": "2025-12-28T18:49:37.000Z",
       "summary": "The defamation lawsuits target several media figures for labeling Guy Peleg's report on abuse of Palestinian detainees as a 'blood libel against IDF soldiers.' Peleg says the attacks forced him to step back from hosting shows and panels and raised concerns for his safety"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "נשיא העליון עמית הוציא צו ביניים: ההחלטה לסגור את גלי צה\"ל - מוקפאת",
+      "url": "https://www.ynet.co.il/news/article/rk5rzcamze",
+      "image": null,
+      "published_at": "2025-12-28T18:27:33.000Z",
+      "summary": "לאחר שהיועמ\"שית תמכה בהקפאת החלטת הממשלה לסגור את התחנה הצבאית ב-1 במרץ, הכריע עמית וקבע כי ההליך יוקפא עד להכרעה בעתירות. \"הממשלה לא מסרה התחייבות להימנע מפעולות בלתי הפיכות\", הסביר. 3 שופטים שנחשבים ליברלים ידונו בעתירה, דוברות בתי המשפט בתגובה: \"לא הנדוס הרכב ולא תוצאה\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"איוב נפגע מירי שתי מחסניות - ולא פונה\": גרסת החשוד בהברחה על התקרית בגבול מצרים",
+      "url": "https://www.ynet.co.il/news/article/r1lub0cxbx",
+      "image": null,
+      "published_at": "2025-12-28T18:12:29.000Z",
+      "summary": "מוחמד טוחי, שנעצר בחשד להברחה בתקרית שבה נורה למוות איוב טוחי ובהמשך שוחרר, תיאר בשיחה עם ynet כי השניים עשו דרכם הביתה - \"ואז רכב אזרחי חסם אותנו\". לדבריו, בעקבות הירי נוקבו הצמיגים וזכוכיות נשברו, וכשרצו לעצור - שוב נפתחה לעברם אש. האזרח שנעצר בחשד לגרימת מותו של איוב שוחרר למעצר בית"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -760,6 +1120,16 @@
       "image": null,
       "published_at": "2025-12-28T17:47:16.000Z",
       "summary": "The publication of Havkin’s identity was permitted following requests by major Israeli media outlets, including Walla, Channel 13, News1, and Haaretz, after months under a sweeping gag order."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"רואה-יורה\" בדרך למשטרה: תשמש גם נגד שב\"חים?",
+      "url": "https://www.ynet.co.il/news/article/h1spn1k411l",
+      "image": null,
+      "published_at": "2025-12-28T17:25:04.000Z",
+      "summary": "פרסום ראשון: בעקבות עלייה בהברחות באמצעות רחפנים, החליטה המשטרה להצטייד במערכת הירי מרחוק שמשמשת את צה\"ל - ושבה פגע חמאס בתחילת טבח 7/10. במשטרה בודקים גם אפשרות להשתמש ב\"רואה-יורה\" נגד שב\"חים"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -952,16 +1322,6 @@
       "summary": "Fighting has broken out at a demonstration in the city of Latakia in Syria, killing at least three people."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Niger’s military rulers order ‘general mobilisation’ against armed groups",
-      "url": "https://www.aljazeera.com/news/2025/12/28/niger-military-rulers-order-general-mobilisation-against-armed-groups?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-28T14:23:27.000Z",
-      "summary": "Military rulers expand emergency powers, warning that people, property, and services may be requisitioned."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -970,26 +1330,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-4638-df6b-a7db-f73f9bf00001/0e/15/2e35400148bd946b0d867bdee76b/891843.jpg?height=81",
       "published_at": "2025-12-28T14:04:18.000Z",
       "summary": "American photographer Toni Frissell captured both the harsh reality of war and the beauty of humans and fahion"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "One year in Israeli detention, Dr Hussam Abu Safia’s son pleads for release",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/28/one-year-in-israeli-detention-dr-hussam-abu-safias-son-pleads-for-release?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-28T14:01:57.000Z",
-      "summary": "Israel has held Gaza doctor Hussam Abu Safia for an entire year without charge. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Syria protests updates: Deadly clashes erupt as hundreds demonstrate",
-      "url": "https://www.aljazeera.com/news/liveblog/2025/12/28/syria-protests-live-deadly-clashes-erupt-as-thousands-demonstrate?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-28T13:57:53.000Z",
-      "summary": "Hundreds of people take to the streets in Tartous and Latakia to demand the release of former soldiers. "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1980,46 +2320,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-55e0-d2b2-affb-57eeeac10000/9c/6f/3585f0f64db68d65c775fbbd9c60/311128-5.jpg?height=81",
       "published_at": "2025-12-25T15:03:37.000Z",
       "summary": "In a letter sent to the Knesset's legal adviser, Attorney General Gali Baharav-Miara warned that law enforcement officials are being summoned by MKs and told to provide information about ongoing criminal proceedings, which she says is intended 'to influence the proceedings and deter public servants "
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Neither functioning nor collapsing, Hamas reasserts control of Gaza amid fears of anarchy",
-      "url": "https://www.haaretz.com/gaza/2025-12-25/ty-article/.premium/neither-functioning-nor-collapsing-hamas-reasserts-control-of-gaza-amid-fears-of-anarchy/0000019b-5591-d866-abff-7ff138530000",
-      "image": "https://img.haarets.co.il/bs/0000019b-55b4-d2b2-affb-57fe564a0000/73/bc/0884ad3645d4890aaf2f30c5dfeb/053673.jpg?height=81",
-      "published_at": "2025-12-25T14:42:55.000Z",
-      "summary": "Even as many hold Hamas responsible for Gaza's ruin, Gazans say its limited ability to fix roads, curb looting and restrain war profiteers, alongside a quieter religious presence, is preferable to a violent vacuum"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Like Israel, South Africa's apartheid regime banned foreign journalists. It's harder to hide the truth now",
-      "url": "https://www.haaretz.com/israel-news/2025-12-25/ty-article-magazine/.highlight/like-israel-south-africa-once-banned-foreign-press-its-harder-to-hide-the-truth-now/0000019b-557a-d866-abff-7f7bb80d0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-557a-d866-abff-7f7bb6480000/88/ea/85fe05cd4c269270b105ba930051/64246796.JPG?height=81",
-      "published_at": "2025-12-25T13:47:29.000Z",
-      "summary": "In 1986, I was deported by South Africa's regime for reporting on the anti-apartheid struggle. Today, Israel's government is also trying to control what the world sees about its actions in Gaza – yet the truth has a way of breaking through"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Explained: Four bills and one new law undermining press freedom and Israel's judiciary",
-      "url": "https://www.haaretz.com/israel-news/2025-12-25/ty-article-magazine/.premium/four-bills-and-one-new-law-undermining-press-freedom-and-israels-judiciary/0000019b-50b9-d02f-a7ff-d0fb73620000",
-      "image": "https://img.haarets.co.il/bs/0000019b-5499-d866-abff-7ef919820001/5b/9a/d1f4d7c143ba9b4f9172dde790be/212096.jpg?height=81",
-      "published_at": "2025-12-25T13:46:10.000Z",
-      "summary": "Israel's most far-right government in history is pushing to overhaul Israel's media, split the attorney general's power, change investigations into police misconduct – and a death penalty bill that Israel's top civil rights group says solely targets Arabs"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "When Israeli absurdity collides with post-October 7 anxiety",
-      "url": "https://www.haaretz.com/life/2025-12-25/ty-article-review/.premium/when-israeli-absurdity-collides-with-post-october-7-anxiety/0000019b-5579-d02f-a7ff-d5fb1b320000",
-      "image": "https://img.haarets.co.il/bs/0000019b-55a2-df6b-a7db-f5b7c8440001/75/fe/c29d2372488cbd2edb5cbeb0e710/002550-2.jpg?height=81",
-      "published_at": "2025-12-25T13:22:20.000Z",
-      "summary": "Eran Kolirin's latest film, 'Some Notes on the Current Situation,' uses surreal vignettes to contrast familiar Israeli absurdity with the post-October 7 sense of exile from something that has already disappeared"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
