@@ -1,6 +1,86 @@
 {
-  "generated_at": "2025-12-30T09:43:13.771Z",
+  "generated_at": "2025-12-30T10:10:53.967Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF to recognize civilian suicides within two years of service as fallen soldiers",
+      "url": "https://www.jpost.com/israel-news/article-881777",
+      "image": null,
+      "published_at": "2025-12-30T12:00:12.000Z",
+      "summary": "There has been a spike in reservists committing suicide months after they undertook a traumatic service period in Gaza or some other front. "
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Body of young Israeli man found after being swept away by flash flood caused by heavy rains",
+      "url": "https://www.haaretz.com/israel-news/2025-12-30/ty-article/.premium/body-of-israeli-man-found-after-being-swept-away-by-flash-flood-caused-by-heavy-rains/0000019b-6e64-db5f-adfb-eef59deb0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-6e64-db5f-adfb-eef59fe20000/63/61/6f0a16604f4abc1e01adfcb0a70d/whatsapp-image-2025-12-30-at-09-20-35.jpeg?height=81",
+      "published_at": "2025-12-30T10:01:34.000Z",
+      "summary": "First responders announced the body of Tamer Nader Zaghraneh was found near southern Israel's Be'er Sheva after a day of searches. He was reportedly swept away while trying to recover a vehicle stuck in a seasonal stream known for rapid flooding"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"נספה לאחר השירות\": צה\"ל יכיר בחיילי מלחמת 7/10 שהתאבדו אחרי שחרורם - אך לא כחללים",
+      "url": "https://www.ynet.co.il/news/article/b1x4zgbvwl",
+      "image": null,
+      "published_at": "2025-12-30T10:00:16.000Z",
+      "summary": "בהמלצת ועדה מיוחדת, חייל משוחרר שהתאבד יוכר כמי ש\"נספה לאחר שירותו\", ויובא למנוחות בלוויה אזרחית עם סממנים צבאיים וליווי בשבעה. אם תיקבע זיקה בין סיבת ההתאבדות לשירות, המשפחה תקבל קצבה חודשית, ושם יקירה ייחקק בהיכל הזיכרון בהר הרצל. ההגבלה בזמן: עד שנתיים מתום המלחמה"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Two Palestinians hospitalized after masked settlers attack West Bank Bedouin village",
+      "url": "https://www.haaretz.com/west-bank/2025-12-30/ty-article/.highlight/two-palestinians-hospitalized-after-masked-settlers-attack-west-bank-bedouin-village/0000019b-6e45-de3e-adbf-ef4787c90000",
+      "image": "https://img.haarets.co.il/bs/0000019b-6e4e-de3e-adbf-ef4e954e0002/f4/4e/f3e0fd1941f99f8e4e65c7643705/whatsapp-image-2025-12-30-at-00-24-36.jpeg?height=81",
+      "published_at": "2025-12-30T09:48:31.000Z",
+      "summary": "The incident occurred in the village of Mukhmas near Ramallah. According to testimonies, the attacker emerged from a nearby settlement, threw stones, sprayed the area with pepper spray, and beat at least one person with clubs"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "טראמפ מושך זמן בעזה - ונתניהו עוד עלול לקבל את החשבון על המחמאות",
+      "url": "https://www.ynet.co.il/news/article/hj1aybz4we",
+      "image": null,
+      "published_at": "2025-12-30T09:47:01.000Z",
+      "summary": "הציפיות היו שהפסגה במאר-א-לאגו תהיה גורלית ושיהיו מחלוקות בנוגע למעבר לשלב ב' בעזה ולזירות נוספות, אך נראה שהמחלוקת היחידה הייתה התנהלות ישראל ביו\"ש. הסיבה: ארה\"ב אינה מוכנה ליישום השלב הבא בתוכנית טראמפ, שהעדיף לדבר על חנינה לרה\"מ, אולי כדי לדרוש ויתורים בהמשך"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Trump, top aides express concern over Israel&#8217;s West Bank policies in meeting with PM",
+      "url": "https://www.timesofisrael.com/trump-top-aides-express-concern-over-israels-west-bank-policies-in-meeting-with-pm/",
+      "image": null,
+      "published_at": "2025-12-30T09:46:37.000Z",
+      "summary": "Asked about settler violence, US president says he and Netanyahu don't '100%' agree on West Bank, but he believes premier will 'do the right thing'; US said fearing PA collapse\nThe post Trump, top aides express concern over Israel&#8217;s West Bank policies in meeting with PM appeared first on The T"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "איפה ירד הכי הרבה גשם בסערה, השיאניות מתחילת החורף -  והתחזית להמשך",
+      "url": "https://www.ynet.co.il/news/article/r1lqsz11nzx",
+      "image": null,
+      "published_at": "2025-12-30T09:43:57.000Z",
+      "summary": "ביישוב קדומים שבשומרון ירדו 118.9 מ\"מ של גשם בסערה האחרונה - הכי הרבה מכל מתחנות המדידה. מיד לאחר מכן נמצא היישוב נווה צוף, שגם מוביל את הטבלה מתחילת העונה החורפית, עם 0.7 מ\"מ פחות. כמה גשמים ירדו בתל אביב? באיזה מקום נמצאת ירושלים? ובאיזה עיר בארץ ירדו כבר 90% מהממוצע השנתי?"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Man swept away by flash flood found dead",
+      "url": "https://www.timesofisrael.com/man-swept-away-by-flash-flood-found-dead/",
+      "image": null,
+      "published_at": "2025-12-30T09:43:50.000Z",
+      "summary": "Tamer Alzagarneh, 21, from Bedouin town Hura, was seen being carried off Monday near Hebron; body recovered 25 kilometers away, close to Beersheba\nThe post Man swept away by flash flood found dead appeared first on The Times of Israel.\n"
+    },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
@@ -10,6 +90,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7403/live/aaf57e70-e499-11f0-9890-3187c4f9b06f.jpg",
       "published_at": "2025-12-30T09:40:58.000Z",
       "summary": "Ador says it has dropped NewJeans member Danielle Marsh while the return of Minji remains uncertain."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "China holds second day of live-fire drills around Taiwan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/china-holds-second-day-of-live-fire-drills-around-taiwan?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-30T09:38:54.000Z",
+      "summary": "China is engaged in a second day of live-fire military exercises encircling Taiwan."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -22,6 +112,16 @@
       "summary": "According to the Israel Police, the man was last seen attempting to extricate a vehicle stuck in water when he slipped in and was swept away by the current."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Yemen’s presidential council cancels UAE defence deal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/yemens-presidential-council-cancels-uae-defence-deal?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-30T09:27:01.000Z",
+      "summary": "Yemen’s presidential council, backed by Saudi Arabia, says Emirati-backed forces must leave Yemen within 24 hours. "
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -29,7 +129,7 @@
       "url": "https://www.haaretz.com/israel-news/2025-12-30/ty-article/.premium/far-right-minister-smotrich-reiterates-call-for-violence-against-top-court-president/0000019b-6e49-db5f-adfb-eed9e0740000",
       "image": "https://img.haarets.co.il/bs/0000019b-6e43-d303-a7df-6efb750f0001/82/5c/60b3a9614a5b89c2c20a88fedf83/smot.webp?height=81",
       "published_at": "2025-12-30T09:18:23.000Z",
-      "summary": "Smotrich refused to apologize for calling the Supreme Court president 'a violent, ruthless megalomaniac.' His remarks come amid escalating right-wing criticism of Israel's Supreme Court and judicial system"
+      "summary": "Smotrich refused to apologize for calling the Supreme Court president 'a violent, ruthless megalomaniac.' His remarks come amid escalating right-wing criticism of Israel's Supreme Court and judicial system. A former Supreme Court president warns: 'This is a level of incitement that can endanger live"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -475,7 +575,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Fergal Keane: I've seen firsthand how growing up in war really affects a child",
+      "title": "What growing up in war does to a child's brain - and how it really affects them years later",
       "url": "https://www.bbc.com/news/articles/cre3pdxde7vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/775d/live/9c1778d0-dc25-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2025-12-30T03:25:02.000Z",
@@ -495,11 +595,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Trump, top aides express concern over Israel&#8217;s West Bank policies in meeting with PM",
+      "title": "Smotrich doubles down on attack on Supreme Court president: &#8216;This is not democracy&#8217;",
       "url": "https://www.timesofisrael.com/liveblog-december-30-2025/",
       "image": null,
       "published_at": "2025-12-30T03:15:28.000Z",
-      "summary": "US official confirms president and his advisers took particular issue with unchecked settler violence, withholding of PA tax revenues as Israeli official touts Trump-Netanyahu confab as their 'best' meeting yet\nThe post Trump, top aides express concern over Israel&#8217;s West Bank policies in meeti"
+      "summary": "Iranian president calls on government to listen to ‘legitimate demands’ of protesters * Yesh Atid seeks High Court action against transfer of some NIS 1 billion to Haredi schools\nThe post Smotrich doubles down on attack on Supreme Court president: &#8216;This is not democracy&#8217; appeared first o"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -962,16 +1062,6 @@
       "summary": "Prime Minister Netanyahu spent 2025 turning Israel into a pariah state and thwarting U.S. President Trump's dream deals in the Middle East. Could 2026 be the year Netanyahu surrenders to Trump's new world order, or even loses an election to the broad coalition hoping to unseat him?"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Knesset legal adviser accuses committee chair of misconduct, pushing votes without debate",
-      "url": "https://www.timesofisrael.com/knesset-legal-adviser-accuses-committee-chair-of-misconduct-pushing-votes-without-debate/",
-      "image": null,
-      "published_at": "2025-12-29T21:36:35.000Z",
-      "summary": "MK Milwidsky faces widespread condemnation for attack on Finance Committee legal adviser and opposition members, who left meeting in protest\nThe post Knesset legal adviser accuses committee chair of misconduct, pushing votes without debate appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -990,16 +1080,6 @@
       "image": null,
       "published_at": "2025-12-29T21:08:58.000Z",
       "summary": "אגדת הקולנוע שמתה בגיל 91 תיזכר גם בשל עמדותיה על מהגרים. בין השאר יצאה נגד \"פלישת המוסלמים\", אמרה שהם \"משספים גרונות של נשים\", וכעסה על טקסי חג הקורבן: \"יכתימו את אדמת צרפת\". היא האמינה שהימין הקיצוני הוא התרופה, ותמכה בלה פן לנשיאות: \"האישה היחידה שיש לה ביצים\". בשמאל לא כולם ביכו את לכתה: \"דמות צ"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Syrian authorities release Jewish antiquities dealer, dismiss charges against him",
-      "url": "https://www.timesofisrael.com/syrian-authorities-release-jewish-antiquities-dealer-dismiss-charges-against-him/",
-      "image": null,
-      "published_at": "2025-12-29T20:54:03.000Z",
-      "summary": "Salim Hamadani, one of a handful of Jews remaining in the country, was falsely accused of illegal trading, activist says\nThe post Syrian authorities release Jewish antiquities dealer, dismiss charges against him appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1075,7 +1155,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "This will be the most fateful event in Europe in 2026",
+      "title": "Why Hungary's April elections will be the most fateful event in Europe in 2026",
       "url": "https://www.haaretz.com/world-news/2025-12-29/ty-article-magazine/.premium/this-will-be-the-most-fateful-event-in-europe-in-2026/0000019b-6a9f-d303-a7df-6effcc7c0000",
       "image": "https://img.haarets.co.il/bs/0000019b-6ab6-d173-adbf-6abe6acc0000/e8/33/8d80bf554e84a37d3bbb255a7580/108666.jpg?height=81",
       "published_at": "2025-12-29T20:06:56.000Z",
@@ -1122,16 +1202,6 @@
       "summary": "Trump said he would back military action if Iran continued building up its nuclear capabilities. He also said he hopes to move to the next stage of the Gaza cease-fire 'quickly,' and that there 'has to be a disarmament of Hamas.' According to Trump, he and Netanyahu 'don't agree 100 percent' on West"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "טראמפ? כבדהו וחשדהו",
-      "url": "https://www.ynet.co.il/news/article/h1m0bux4zx",
-      "image": null,
-      "published_at": "2025-12-29T19:33:18.000Z",
-      "summary": "ייתכן שנדמה לטראמפ שנתניהו הוא פרטנר מצוין, משום שהוא לא ארדואן ואפילו לא זלנסקי. הוא ניתן לכיפוף. וכך, אפשר גם לומר לנתניהו שהוא מנהיג חזק שהציל את ישראל, וגם להכתיב לו כל גחמה"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1140,16 +1210,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-6b32-dc84-a3bb-7fba40ad0002/1c/8d/51a54f3f4cb38f6ca8171da7d69a/img-9028-2.jpg?height=81",
       "published_at": "2025-12-29T19:30:41.000Z",
       "summary": "Clashes in the village of Tarabin al-Sana began on Friday, when police patrol cars entered the village in search of a stolen horse. Residents said the raid felt like war: 'There's a police helicopter here, horses, a water cannon'"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "‘We’ll knock the hell out of them’: Trump threatens Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/29/well-knock-the-hell-out-of-them-trump-threatens-iran?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-29T19:25:40.000Z",
-      "summary": "Donald Trump threatened Iran and said “we’ll knock the hell out of them” if Tehran rebuilds its military forces."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1182,26 +1242,6 @@
       "summary": "Until now, visits have taken place almost exclusively at night, coordinated by the Israeli military and conducted under heavy security escort."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump threatens Hamas, warns Iran of more strikes after Netanyahu talks",
-      "url": "https://www.aljazeera.com/news/2025/12/29/trump-says-us-would-back-strikes-against-irans-missile-programme?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-29T18:48:19.000Z",
-      "summary": "US president says Hamas will pay if it fails to disarm, and threatens new strikes on Iran over its nuclear programme. "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "החות'ים מתאמנים לסבב הבא, ומזהירים: \"ישראל - סכנה לאזור\"",
-      "url": "https://www.ynet.co.il/news/article/sym2sc1v11x",
-      "image": null,
-      "published_at": "2025-12-29T18:06:28.000Z",
-      "summary": "שלוחי איראן בתימן אומרים כי \"אין ספק שהסבבים הקרובים עם האויב הישראלי\" יגיעו, ומעבירים מסר לפיו הם \"במצב גיוס ומוכנות חסרי תקדים\". בעקבות ההכרה הישראלית בסומלילנד תקף בכיר החות'ים: \"ניסיון ישראלי להשיג דריסת רגל בסומליה - כדי לפגוע באזור ולפצל את מדינותיו\""
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1220,16 +1260,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a0c/live/93a33bf0-e4d9-11f0-8a85-09a10e143343.jpg",
       "published_at": "2025-12-29T17:51:21.000Z",
       "summary": "The pledge was welcomed by the UN, but comes after previous major cuts to US funding for humanitarian operations. "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "טראמפ נפגש עם משפחת גואילי במאר א-לאגו: \"אני מבטיח לכם, אני אחזיר אותו\"",
-      "url": "https://www.ynet.co.il/news/article/sy8ck4l4zg",
-      "image": null,
-      "published_at": "2025-12-29T17:45:37.000Z",
-      "summary": "לפני הפגישה בין נתניהו לטראמפ, נועד הנשיא האמריקני עם משפחתו של החלל החטוף האחרון שנותר בעזה רן גואילי - והבטיח להם שהוא ישיב אותו. קודם לכן נפגשו בני המשפחה עם נתניהו ורעייתו, וגם עם רוביו, וויטקוף וקושנר, שהבהירו: \"הכי חשוב כרגע לטראמפ זה החזרה של רן הביתה\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1700,16 +1730,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-6789-d347-abbf-f7db567a0000/7e/db/0cd3c26d439fa711b8d8e3b8651f/231643.jpg?height=81",
       "published_at": "2025-12-29T04:14:49.000Z",
       "summary": "Israel's recognition might grant the country a military presence in the Horn of Africa, but it will find itself constrained by the UAE and its regional commitments to its neighbors. For Somaliland, the 'deal' with Israel may include a promise that its biggest prize – Trump – will follow"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Former Gaza hostages Matan Zangauker, Ilana Gritzwesky announce engagement",
-      "url": "https://www.jpost.com/israel-news/article-881641",
-      "image": null,
-      "published_at": "2025-12-29T04:14:03.000Z",
-      "summary": "\"My victory, Matan and Ilana,\" published Einav Zangauker, mother of the former hostage, alongside a picture of the couple and a large sign that read \"Will you marry me?\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2390,26 +2410,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-5ad5-d02f-a7ff-dadf6bb00004/b7/67/feca4cc34bc1b4bd6e688068d9b2/235978.jpg?height=81",
       "published_at": "2025-12-26T20:05:55.000Z",
       "summary": "Netanyahu's cross-examination in his criminal trials has been plagued by unprecedented disruptions. Of nearly 60 scheduled hearings, only 15 went ahead without being canceled or cut short. While Netanyahu has at times offered dubious excuses, his judges also bear part of the responsibility"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Analysis | Palestinian politics at a crossroads: Can Fatah's pragmatism win out over Hamas' nihilism?",
-      "url": "https://www.haaretz.com/israel-news/2025-12-26/ty-article-magazine/.premium/palestinian-politics-at-a-crossroads-can-fatahs-pragmatism-win-out-over-hamas-nihilism/0000019b-5ab4-d2b2-affb-5efe8cb10000",
-      "image": "https://img.haarets.co.il/bs/0000019b-5ac7-d02f-a7ff-dadf2d0e0001/b4/c2/537040ea48a49a676f2ee1ea41b4/053097.jpg?height=81",
-      "published_at": "2025-12-26T18:36:27.000Z",
-      "summary": "However flawed, Fatah operates according to reasoned assessments, while Hamas considers no amount of death, suffering or defeat too great in pursuit of its millenarian ends. Both Hamas and Israel's far-right government must not be allowed to sabotage the Gaza cease-fire"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Maybe Bennett, an annexationist at heart, doesn't really want to beat Netanyahu?",
-      "url": "https://www.haaretz.com/opinion/2025-12-26/ty-article-opinion/.premium/maybe-bennett-an-annexationist-at-heart-doesnt-really-want-to-beat-netanyahu/0000019b-5b7a-d02f-a7ff-dbfb86dd0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-5b8e-d2b2-affb-5feea4b70001/0f/bd/dfd1f78c443dac1b8d4a8bb2c37c/830447.jpg?height=81",
-      "published_at": "2025-12-26T17:52:48.000Z",
-      "summary": "Maybe the former prime minister prefers a government with Netanyahu to 'betraying' right-wing values, but there is nothing right-wing about racism against the Arab Israeli community"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
