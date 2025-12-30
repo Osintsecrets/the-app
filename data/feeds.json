@@ -1,6 +1,36 @@
 {
-  "generated_at": "2025-12-30T05:43:41.505Z",
+  "generated_at": "2025-12-30T06:15:44.207Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Khaleda Zia: Slain leader's widow who became Bangladesh's first PM",
+      "url": "https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ab/live/cae69740-0962-11f0-9401-656920122950.jpg",
+      "published_at": "2025-12-30T06:12:02.000Z",
+      "summary": "The country's first female prime minister governed in periods of violent unrest and economic hardship."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"כן, מאם!\": כשהכתבים הישראלים עברו טירונות במאר-א-לאגו - והאירוח המפואר",
+      "url": "https://www.ynet.co.il/news/article/r1ac4sgezl",
+      "image": null,
+      "published_at": "2025-12-30T05:56:03.000Z",
+      "summary": "הבדיקות הביטחוניות היו מחמירות במיוחד, העיתונאים הוזהרו פן ייפגעו יצירות האומנות היקרות - ואז זכו לארוחת צהריים אמריקנית לפי הספר, מלבד מנת החזיר שהוצאה מהתפריט. בקרוב בווילה בקיסריה?"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"בית לבן חורפי\", בשווי 500,000,000 דולר: זו האחוזה שבה מתגורר טראמפ",
+      "url": "https://www.ynet.co.il/news/article/bjj6hlg411x",
+      "image": null,
+      "published_at": "2025-12-30T05:42:08.000Z",
+      "summary": "הוא רכש אותה ב-85', הקים בה מועדון יוקרתי - והפך אותה לסמל: אחוזת מאר-א-לאגו נבנתה לפני כ-100 שנה עבור אשת עסקים מיליונרית, שהציעה להפוך את המקום למעון נשיאותי נוסף אחרי מותה. הממשל ויתר בשל אילוצים, אך טראמפ הפך את החלום למציאות. מה מקור השם? כמה חדרים יש? ומה הקשר לאפשטיין?"
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -210,16 +240,6 @@
       "image": null,
       "published_at": "2025-12-30T03:00:00.000Z",
       "summary": "שר התקשורת לא מסתיר שהצעדים שהוא מקדם בתקשורת הם פוליטיים ואינם מקצועיים בלבד. במקביל, בג\"ץ הוציא צו על תנאי לעצירת הצעדים של ישראל כ\"ץ לקראת סגירת גל\"צ. לדברי נחמן שי, מדובר בניסיון של שניהם להשתיק ולדכא את התקשורת ונותר רק לקוות שהצעדים האלה לא יתממשו"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Khaleda Zia: Slain leader's widow who became Bangladesh's first PM",
-      "url": "https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ab/live/cae69740-0962-11f0-9401-656920122950.jpg",
-      "published_at": "2025-12-30T02:58:13.000Z",
-      "summary": "The country's first female prime minister governed in periods of violent unrest and economic hardship."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1310,26 +1330,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-6aa7-d173-adbf-6abf86c10000/91/3d/72d695f042248c22be4c3763a98f/231861-2.jpg?height=81",
       "published_at": "2025-12-29T15:06:38.000Z",
       "summary": "The president's failure to directly confront Netanyahu over Gaza cease-fire violations and delays in its second phase is all the more puzzling given how often he's pulled the proverbial trigger on Israel during his second term"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "800 מטרים מהגדר, מול כיסופים: מנהרה גדולה נחשפה לאחר קריסת קרקע בסערה",
-      "url": "https://www.ynet.co.il/news/article/r1yqpegvbg",
-      "image": null,
-      "published_at": "2025-12-29T15:05:09.000Z",
-      "summary": "פרסום ראשון: לוחמי גולני זיהו חלל תת-קרקעי גדול, לאחר קריסת קרקע עקב הגשמים הכבדים. הם בודדו את הזירה, ובצה\"ל חושדים שמדובר במנהרה משמעותית של חמאס שלא התגלתה עד היום - ובודקים את התוואי שלה"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ההכבדה על המשרתים: \"קשובים למילואימניקים, אבל משימת ההגנה קודמת לכל\"",
-      "url": "https://www.ynet.co.il/news/article/h1fkvlxvzg",
-      "image": null,
-      "published_at": "2025-12-29T14:59:09.000Z",
-      "summary": "בצה\"ל התייחסו לראשונה ל\"גזירות\" שהוטלו על המילואיניקים לקראת 2026, והרעת תנאיהם עקב שנת \"הבט\"ש המוגבר\" שבפתח. לפי צה\"ל, מצב המלחמה צפוי להימשך, וכוננויות גבוהות בגזרות עלולות רק להחמיר. היום נערך כנס תא\"לים בראשות הרמטכ\"ל, להתנעת תחקירי התמרונים, כפי שנחשף ב-ynet"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
