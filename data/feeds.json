@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-30T13:50:49.305Z",
+  "generated_at": "2025-12-30T14:10:19.129Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Failures in Tel Aviv rail constructions could cost public tens of billions, lead to massive delays",
+      "url": "https://www.jpost.com/israel-news/article-881807",
+      "image": null,
+      "published_at": "2025-12-30T16:00:29.000Z",
+      "summary": "Continued delays and mismanagement could significantly inflate costs, disrupt the lives of millions of residents, and postpone the project’s expected economic benefits for years."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -32,6 +42,16 @@
       "summary": "Sam Spiegel, ranked among the top 15 international film schools, aims to turn students from \"storytellers to storyshowers\" with new AI curriculum."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Iran warns of ‘severe’ response in wake of Trump’s new strikes threat",
+      "url": "https://www.aljazeera.com/news/2025/12/30/iran-warns-of-severe-response-in-wake-of-trumps-new-strikes-threat?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-30T13:54:39.000Z",
+      "summary": "US president says he would back attacks if Tehran rebuilds nuclear or missile programmes."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -52,10 +72,50 @@
       "summary": "Le Shuttle has also had to suspend services between Folkestone and Calais over a \"power supply issue\"."
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "After the Hezbollah attack, the world wants Israel's exploding pagers. There's one problem",
+      "url": "https://www.haaretz.com/israel-news/security-aviation/2025-12-30/ty-article-magazine/.premium/the-cyber-weapon-states-want-to-buy-from-israel-doesnt-exist/0000019b-65c9-d347-abbf-f5db49010000",
+      "image": "https://gif.haarets.co.il/bs/0000019b-68c3-d25b-a3db-fcd79f100004/84/2b/be0b35314688a631109d5b0793af/pager-homepage.gif?height=81",
+      "published_at": "2025-12-30T13:46:00.000Z",
+      "summary": "Since Israel's pager bomb operation against Hezbollah, private defense contractors have gotten requests for 'kinetic cyber' tools able to turn electronic devices into bombs. They don't exist"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Have Russian claims of Ukraine attack on Putin home ended hopes for peace?",
+      "url": "https://www.aljazeera.com/news/2025/12/30/have-russian-claims-of-ukraine-attack-on-putin-home-ended-hopes-for-peace?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-30T13:45:22.000Z",
+      "summary": "Ukrainian President Zelenskyy denies that Kyiv attacked the Novgorod residence of Russian President Putin."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump threatens Hamas while praising Israel on Gaza ceasefire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/trump-threatens-hamas-while-praising-israel-on-gaza-ceasefire?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-30T13:42:25.000Z",
+      "summary": "Trump says Israel has complied with the Gaza ceasefire as he urges Netanyahu to move to phase two."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "New Syrian banknotes unveiled amid push to rebuild economy",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/30/new-syrian-banknotes-unveiled-amid-push-to-rebuild-economy?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-30T13:33:45.000Z",
+      "summary": "President Ahmed al-Sharaa has unveiled Syria’s revamped currency in Damascus. "
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "גל מחאות באיראן, שמנסה לפייס את המפגינים: \"יש משבר כלכלי\"",
+      "title": "מחאות וקריאות \"מוות לדיקטטור\" באיראן, שמנסה לפייס את המפגינים: \"יש משבר כלכלי\"",
       "url": "https://www.ynet.co.il/news/article/s1bap1111nbx",
       "image": null,
       "published_at": "2025-12-30T13:30:22.000Z",
@@ -715,11 +775,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Yemen’s presidential council cancels UAE defence deal",
+      "title": "LIVE: UAE says committed to Saudi security amid Yemen tensions",
       "url": "https://www.aljazeera.com/news/liveblog/2025/12/30/live-yemens-presidential-council-cancels-uae-defence-deal?traffic_source=rss",
       "image": null,
       "published_at": "2025-12-30T07:17:43.000Z",
-      "summary": "All UAE forces must leave Yemen within 24 hours, the Presidential Leadership Council says."
+      "summary": "Statement comes after Saudi accuses UAE of supporting separatists, strikes on southern Maukalla port."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -772,16 +832,6 @@
       "summary": "בלעדי: כלי טיס אמריקני תיעד את הכוחות הישראליים הפועלים ברצועה, בניגוד לנהלים שקבעו כי הצילומים מעזה יכללו רק את שיירות הסיוע. הצילומים הוקרנו בזמן תדריך בוקר בנוכחות גורמים ממדינות זרות, ובתקרית אחרת הטיח נציג אמריקני בקצין צה\"ל: \"אל תהיה פרנואיד\". מצה\"ל לא נמסרה תגובה"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "After Saudi Arabia’s Yemen strike, UAE rejects support for separatists",
-      "url": "https://www.aljazeera.com/news/2025/12/30/saudi-led-coalition-strikes-yemeni-port-over-unauthorised-weapons-shipment?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-30T06:26:18.000Z",
-      "summary": "The coalition carried out a strike at Yemen’s Mukalla port after accusing foreign-backed vessels of delivering weapons."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -810,16 +860,6 @@
       "image": null,
       "published_at": "2025-12-30T05:56:03.000Z",
       "summary": "הבדיקות הביטחוניות היו מחמירות במיוחד, העיתונאים הוזהרו פן ייפגעו יצירות האומנות היקרות - ואז זכו לארוחת צהריים אמריקנית לפי הספר, מלבד מנת החזיר שהוצאה מהתפריט. בקרוב בווילה בקיסריה?"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "World reacts to death of Khaleda Zia, Bangladesh’s first female leader",
-      "url": "https://www.aljazeera.com/news/2025/12/30/world-reacts-to-death-of-khaleda-zia-bangladeshs-first-female-leader?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-30T05:55:33.000Z",
-      "summary": "Tributes pour in from around the world as Bangladesh mourns Khaleda Zia. "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -920,26 +960,6 @@
       "image": null,
       "published_at": "2025-12-30T04:41:12.000Z",
       "summary": "Top cop in Australia says no evidence found showing father and son 'were part of a broader terrorist cell, or were directed by others' to perpetrate ISIS-inspired massacre\nThe post Bondi Beach terrorists ‘acted alone’ in attack on Hanukkah event — Australian police appeared first on The Times of Isr"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Russia-Ukraine war: List of key events, day 1,405",
-      "url": "https://www.aljazeera.com/news/2025/12/30/russia-ukraine-war-list-of-key-events-day-1405?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-30T04:12:18.000Z",
-      "summary": "These are the key developments from day 1,405 of Russia’s war on Ukraine."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "China fires several rockets around Taiwan during live military drills",
-      "url": "https://www.aljazeera.com/news/2025/12/30/china-kicks-off-second-day-of-military-drills-around-taiwan?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-30T03:56:28.000Z",
-      "summary": "Day two of the &#039;Justice Mission 2025&#039; drills will include 10 hours of live-fire exercises and a simulated blockade. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1612,16 +1632,6 @@
       "summary": "The doctors studied for their exams amid hunger, displacement and bombardment. The hospital's medical director said the ceremony defied Israeli efforts to dismantle Palestinian society: 'They sought to destroy Palestine's human capital ... but failed'"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israel's High Court hears petitions to halt comptroller's Oct. 7 probe, risking future inquiry",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-881677",
-      "image": null,
-      "published_at": "2025-12-29T12:05:42.000Z",
-      "summary": "The petitions were filed by the Military Defense Counsel and the NGO the Movement for Quality Government in Israel. The panel consisted of Justices Daphne Barak-Erez, David Mintz, and Alex Stein."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1740,16 +1750,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-68d8-d988-a59f-fbdc1d6b0000/7c/59/0bc887c44c9faae5673864a00005/187158.jpg?height=81",
       "published_at": "2025-12-29T07:01:40.000Z",
       "summary": "Victims' families renewed calls for a royal commission, saying the Australian government's response is 'not nearly enough,' while PM Albanese insisted that a faster review is needed, saying, 'We can't wait years for answers. We need to get on with any changes that are required'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "After the Hezbollah attack, the world wants Israel's exploding pagers. There's one problem",
-      "url": "https://www.haaretz.com/israel-news/security-aviation/2025-12-29/ty-article-magazine/.premium/the-cyber-weapon-states-want-to-buy-from-israel-doesnt-exist/0000019b-65c9-d347-abbf-f5db49010000",
-      "image": "https://gif.haarets.co.il/bs/0000019b-68c3-d25b-a3db-fcd79f100004/84/2b/be0b35314688a631109d5b0793af/pager-homepage.gif?height=81",
-      "published_at": "2025-12-29T06:24:12.000Z",
-      "summary": "Since Israel's pager bomb operation against Hezbollah, private defense contractors have gotten requests for 'kinetic cyber' tools able to turn electronic devices into bombs. They don't exist"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
