@@ -1,15 +1,55 @@
 {
-  "generated_at": "2025-12-30T12:18:52.251Z",
+  "generated_at": "2025-12-30T13:08:18.682Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "IDF: The debut of a new Abu Obeida is first step in Hamas’s 2026 election cycle",
+      "title": "World’s first AI screenwriting course launches at an Israeli film school",
+      "url": "https://www.jpost.com/israel-news/culture/article-881802",
+      "image": null,
+      "published_at": "2025-12-30T14:48:41.000Z",
+      "summary": "Sam Spiegel, ranked among the top 15 international film schools, aims to turn students from \"storytellers to storyshowers\" with new AI curriculum."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Hamas reavealing a new Abu Obeida shows it has no intention to disarm, IDF sources say",
       "url": "https://www.jpost.com/israel-news/article-881796",
       "image": null,
       "published_at": "2025-12-30T13:53:42.000Z",
       "summary": "Hamas finally breaks its silence on Abu Obeida’s elimination, debuting a masked successor to lead its psychological war. The IDF was not surprised by the move; it had expected it."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בנט: אנשי נתניהו חיבלו בכוונה ביחסים עם מצרים, עבירה שדינה מאסר עולם",
+      "url": "https://www.ynet.co.il/news/article/b1tp3bbn11g",
+      "image": null,
+      "published_at": "2025-12-30T13:00:30.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "IDF to expand support for the families of soldiers who died by suicide after Gaza service",
+      "url": "https://www.haaretz.com/israel-news/2025-12-30/ty-article/.premium/idf-to-expand-support-for-families-of-troops-who-died-by-suicide-after-gaza-war/0000019b-6ee2-d427-a9bb-6efebfc00000",
+      "image": "https://img.haarets.co.il/bs/0000019b-6ef7-d72b-a7db-6ef7ed7e0001/cf/38/abe80cb24b58a58ee3c77e5802b0/163129.jpg?height=81",
+      "published_at": "2025-12-30T12:35:45.000Z",
+      "summary": "The expanded support reflects recognition of the exceptional psychological burden placed on IDF soldiers since the outbreak of the war in Gaza, and the understanding that some carry mental injury even after discharge, which in many cases leads to suicidality"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Facing Gaza's reality, Hamas must choose between armed resistance to Israel and governing Palestinians",
+      "url": "https://www.haaretz.com/gaza/2025-12-30/ty-article/.premium/gazas-reality-leaves-hamas-at-a-crossroads-resisting-israel-or-governing-the-strip/0000019b-6eb8-d303-a7df-6efb60c00000",
+      "image": "https://img.haarets.co.il/bs/0000019b-6efd-d72b-a7db-6efd00070000/49/e2/8c7b866b489da43e707912c53eba/64280653.JPG?height=81",
+      "published_at": "2025-12-30T12:32:30.000Z",
+      "summary": "Hamas conveys 'business as usual' despite losing most of its leadership and control of around half of Gaza. However, its narrative is seen as disconnected by a public in dire need of basic humanitarian aid and leaders who value life over 'resistance and liberation'"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -20,6 +60,26 @@
       "image": null,
       "published_at": "2025-12-30T12:24:41.000Z",
       "summary": "Aliyah annual figures reach four-year high "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Thailand delays release ‍of Cambodian troops over alleged truce breaches",
+      "url": "https://www.aljazeera.com/news/2025/12/30/thailand-delays-release-of-cambodian-troops-over-alleged-truce-breaches?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-30T12:22:02.000Z",
+      "summary": "While the ceasefire has held since Saturday, Thailand says Cambodia violated deal with drone flights over the border."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "China’s drill around Taiwan shows it will “always respond forcefully”",
+      "url": "https://www.aljazeera.com/video/quotable/2025/12/30/chinas-drill-around-taiwan-shows-it-will-always-respond?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-30T12:18:28.000Z",
+      "summary": "&quot;China would not be happy with anyone trying to help Taiwan strengthen its defences.&quot;"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -152,11 +212,21 @@
       "summary": "בתחילת חקירת מתקפת הטרור נחשף הביקור המסתורי של המחבלים בפיליפינים, והחשד לקשר אפשרי לאנשי דאעש במדינה. השניים כמעט ולא יצאו מהמלון, האריכו את שהותם שוב ושוב וחזרו לאוסטרליה שבועיים לפני הפיגוע. מפקדת המשטרה עדכנה כי הם לא לקחו חלק באימונים בפיליפינים או קיבלו סיוע. היא אמרה שהם פעלו לבדם, אך ציינה "
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "French right pushes for national tribute to film star Brigitte Bardot",
+      "url": "https://www.bbc.com/news/articles/cp848g51zd3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7f2/live/62c21d50-e56d-11f0-978a-3510e7b058d9.jpg",
+      "published_at": "2025-12-30T11:20:27.000Z",
+      "summary": "A petition for a national homage to Brigitte Bardot - who died on Sunday - attracts more than 23,000 signatures."
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
       "title": "Syrian American Jews buy over $250 million in Jerusalem real estate amid growing diaspora investment in Israel's capital",
-      "url": "https://www.haaretz.com/israel-news/2025-12-30/ty-article-magazine/.premium/syrian-american-jews-buy-over-250-million-in-jerusalem-real-estate/0000019b-6e9a-dbc6-afff-febe25880000",
+      "url": "https://www.haaretz.com/israel-news/business/real-estate/2025-12-30/ty-article-magazine/.premium/syrian-american-jews-buy-over-250-million-in-jerusalem-real-estate/0000019b-6e9a-dbc6-afff-febe25880000",
       "image": "https://img.haarets.co.il/bs/0000019b-6edb-dbc6-afff-feff4e440002/7a/37/fce77d4f4ff4a98c06b0614c7e26/226444.jpg?height=81",
       "published_at": "2025-12-30T11:06:57.000Z",
       "summary": "Billion-shekel purchases by overseas buyers are fueling criticism that much of Jerusalem's new housing is beyond the reach of local residents, even as officials say rising antisemitism worldwide is driving demand from Jews abroad"
@@ -455,7 +525,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Trump, top advisers asked Netanyahu to change West Bank Policy during meeting - report",
+      "title": "Trump, top advisers asked Netanyahu to change West Bank policy during meeting - report",
       "url": "https://www.jpost.com/israel-news/article-881764",
       "image": null,
       "published_at": "2025-12-30T08:18:40.000Z",
@@ -882,16 +952,6 @@
       "summary": "Call comes as Australian leader announces terms of independent review into law enforcement and intelligence agencies."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Khaleda Zia, Bangladesh’s first woman PM: A life of power and resistance",
-      "url": "https://www.aljazeera.com/features/2025/12/30/khaleda-zia-bangladeshs-first-woman-pm-a-life-of-power-and-resistance?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-30T02:21:38.000Z",
-      "summary": "The 79-year-old fought to restore democracy after military takeover in 1980s, but corruption claims tainted her legacy."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -910,16 +970,6 @@
       "image": null,
       "published_at": "2025-12-30T02:16:01.000Z",
       "summary": "מועצת הביטחון של האו\"ם כינסה דיון בהחלטת ישראל להכיר רשמית בסומלילנד כמדינה עצמאית, וסגנית שגריר ארה\"ב ביקרה את ה\"סטנדרטים הכפולים\" של המועצה: \"לא כינסתם דיון על הכרה במדינה פלסטינית שלא קיימת\". שגריר סלובניה לאו\"ם תקף: \"פלסטין נכבשה\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Bangladesh mourns former leader Khaleda Zia, who died aged 79",
-      "url": "https://www.aljazeera.com/news/2025/12/30/bangladeshs-former-prime-minister-khaleda-zia-dies?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-30T01:44:20.000Z",
-      "summary": "Bangladesh&#039;s first female prime minister dies after a prolonged illness at a hospital in Dhaka."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -997,7 +1047,7 @@
       "topic": "News",
       "title": "Russia's losses in Ukraine rise faster than ever as US pushes for peace deal",
       "url": "https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5609/live/61ee4e60-e574-11f0-b0d9-0db50843eef2.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/825a/live/91bf3ca0-e57c-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2025-12-30T00:12:41.000Z",
       "summary": "A steep rise in soldiers' obituaries is documented by the BBC as part of its work in counting Russian war losses."
     },
@@ -1070,16 +1120,6 @@
       "image": null,
       "published_at": "2025-12-29T22:47:28.000Z",
       "summary": "Benjamin Netanyahu told Donald Trump he would receive the Israel Prize, but Education Ministry regulations raise questions over whether a non-Israeli citizen can be awarded the honor."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "טראמפ חשף מבצע חשאי? הנשיא דיבר על \"פיצוץ גדול בוונצואלה\", ה-CIA לא מגיב",
-      "url": "https://www.ynet.co.il/news/article/hy8cmugvwx",
-      "image": null,
-      "published_at": "2025-12-29T22:42:09.000Z",
-      "summary": "בריאיון לרדיו סיפר טראמפ על \"מתקן גדול שממנו באות ספינות\" ו\"הושבת\" בשבוע שעבר, ואמש הסביר לצד נתניהו כי היה זה פיצוץ ברציף שבו מועמסים סמים: \"הוא כבר לא קיים\". סוכנות הביון המרכזית וגופי ממשל סירבו להגיב, מה שמגביר את החשד שמדובר במבצע סודי. טראמפ: \"יודע בדיוק מי עשה את זה, אבל לא אגיד מי\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1592,16 +1632,6 @@
       "summary": "The drills come days after the US announced the sale of one of its largest weapons packages to Taiwan."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Border guards indicted in scheme to smuggle illegal immigrants into Israel",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-881665",
-      "image": null,
-      "published_at": "2025-12-29T11:34:24.000Z",
-      "summary": "According to the police, hundreds of illegal immigrants were allowed into the State of Israel by five security guards working for an independent security company at a road barrier in Givat Ze'ev."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1920,16 +1950,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-65ac-d347-abbf-f5fee1760000/da/c4/2d8bcec14e3aa88b220cb8378dd5/64269423.JPG?height=81",
       "published_at": "2025-12-28T17:11:26.000Z",
       "summary": "One day, this geological wonder world in Israel could be part of a national park, unless it collapses as Route 60 is widened right over its ceiling"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Spaniards hurl flour, eggs and fireworks in mock battle",
-      "url": "https://www.bbc.com/news/videos/c05834pp6jno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a4/live/6172f670-e40c-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2025-12-28T17:10:19.000Z",
-      "summary": "The annual food fight festival ''Els Enfarinats'' has left the Spanish town of Ibi covered in flour and egg shells."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2390,26 +2410,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-55f2-df6b-a7db-f5f7914b0007/f6/ac/ac535b7d4a109c1f80bb8d940ca1/yael2.jpg?height=81",
       "published_at": "2025-12-27T08:36:19.000Z",
       "summary": "Freedom of expression is shrinking, and Israel is increasingly resembling a grotesque dictatorship. The case of Yael Levkovitz is a warning sign"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Hamas is proud of its 'achievements' but hasn't convinced the Gazans who pay the price",
-      "url": "https://www.haaretz.com/middle-east-news/palestinians/2025-12-27/ty-article/.premium/hamas-is-proud-of-its-achievements-but-hasnt-convinced-the-gazans-who-pay-the-price/0000019b-5af1-d2b2-affb-5effab650000",
-      "image": "https://img.haarets.co.il/bs/0000019b-5afc-d866-abff-7afdef210000/54/11/b1ea8ed44e49b789b535f987834f/64256234.JPG?height=81",
-      "published_at": "2025-12-27T08:31:07.000Z",
-      "summary": "In a self-congratulatory document that the group published to mark the two-year anniversary of its October 7 attack, Hamas doesn't explain how the armed struggle that it says is necessary has never stopped colonialist Israel, as it defines it"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "UN Security Council to hold urgent Monday session on Israel's recognition of Somaliland",
-      "url": "https://www.haaretz.com/israel-news/2025-12-27/ty-article-live/senior-official-allegedly-told-ex-netanyahu-aide-he-could-silence-idf-leak-investigation/0000019b-5e11-d2b2-affb-5e7f114c0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-61aa-d2b2-affb-77ee3ee50000/8c/30/bcda440f400b89234c1f1089d12b/846162.jpg?height=81",
-      "published_at": "2025-12-27T04:43:05.000Z",
-      "summary": ""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
