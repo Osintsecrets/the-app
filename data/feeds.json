@@ -1,6 +1,16 @@
 {
-  "generated_at": "2025-12-31T16:12:07.372Z",
+  "generated_at": "2025-12-31T16:45:54.820Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "WATCH: Katz urges expanded IDF operations in West Bank refugee camps as Trump calls for restraint",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-881930",
+      "image": null,
+      "published_at": "2025-12-31T18:15:33.000Z",
+      "summary": "Katz said expanded IDF control of West Bank camps reduced terror, despite US calls to curb military activity."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -48,8 +58,48 @@
       "title": "Passenger describes 'chaos' after head-on Machu Picchu train collision",
       "url": "https://www.bbc.com/news/articles/c4gweww8rjro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df66/live/4a54d630-e663-11f0-8e2a-3df90dbf71c4.jpg",
-      "published_at": "2025-12-31T16:11:06.000Z",
+      "published_at": "2025-12-31T16:42:33.000Z",
       "summary": "Tourist Niels Honkoop says shattered glass littered the carriage floor and injured people were lying in the aisles."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בסידני עמדו דקת דומייה - ועברו לזיקוקים: שידור חי מחגיגות 2026 בעולם",
+      "url": "https://www.ynet.co.il/news/article/bkngl8fvwg",
+      "image": null,
+      "published_at": "2025-12-31T16:40:08.000Z",
+      "summary": "קיריבטי הייתה הראשונה לקבל את השנה החדשה, ומעט אחריה החלו לחגוג בניו זילנד וטונגה. ב-15:00 הגיע תור אוסטרליה, שציינתה את כניסתה של 2026 בצל הפיגוע בבונדיי ביץ', ועצרה בצהריים את המסיבות לצורך דקת דומייה. שני מיליון ירקדו בקופקבאנה בברזיל, ה-FBI נערך לסכל \"פיגועי בודדים\" בטיימס סקוור"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "U.S. Haredi donors say they won't give to yeshivas that 'delegitimize' IDF, marking rare rifft",
+      "url": "https://www.haaretz.com/jewish/2025-12-31/ty-article/.premium/american-ultra-orthodox-donors-say-they-wont-give-to-yeshivas-that-delegitimize-idf/0000019b-74de-d5ec-abdf-7edeadd70000",
+      "image": "https://img.haarets.co.il/bs/00000195-9ffe-d687-abb5-9fff94790000/8d/0d/685381a647f58f9d1dbc4b86d7e2/362966-1.jpg?height=81",
+      "published_at": "2025-12-31T16:32:10.000Z",
+      "summary": "The Coalition for Talmud Torah and Security declared they will only donate to Israeli Torah institutions that do not denounce the IDF, 'while they bear the burden of defending Jewish lives,' as U.S. ultra-Orthodox Jews have sent over $150 million in donations in the last two years"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "How is Trump’s Big Beautiful Bill changing US taxes and healthcare in 2026?",
+      "url": "https://www.aljazeera.com/economy/2025/12/31/how-is-trumps-big-beautiful-bill-changing-us-taxes-and-healthcare-in-2026?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-31T16:19:33.000Z",
+      "summary": "Big changes are coming in the new year as healthcare subsidies expire and requirements for food assistance take effect."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US jobless claims slow in last full week of 2025 amid weak labour market",
+      "url": "https://www.aljazeera.com/economy/2025/12/31/us-jobless-claims-slow-in-last-full-week-of-2025-amid-weak-labour-market?traffic_source=rss",
+      "image": null,
+      "published_at": "2025-12-31T16:12:11.000Z",
+      "summary": "November saw highest unemployment since 2021, largely attributed to federal worker reductions under Trump. "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -305,7 +355,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "נציב התלונות: נשיא העליון עמית פעל בניגוד עניינים, הוא אינו עבריין בנייה",
+      "title": "נציב התלונות: השופט עמית דן בעניין אישי של אחיו בלי גילוי נאות",
       "url": "https://www.ynet.co.il/news/article/hkdyl3gnbx",
       "image": null,
       "published_at": "2025-12-31T14:33:15.000Z",
@@ -440,16 +490,6 @@
       "image": null,
       "published_at": "2025-12-31T13:21:53.000Z",
       "summary": "During the session, Ben-Gvir clashed with opposition members and declared his attendance was “to give you a chance,” before promptly exiting."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בניו זילנד ואוסטרליה כבר 2026, בסידני עמדו דקת דומייה - ועברו לזיקוקים | צפו",
-      "url": "https://www.ynet.co.il/news/article/bkngl8fvwg",
-      "image": null,
-      "published_at": "2025-12-31T13:12:36.000Z",
-      "summary": "קיריבטי הייתה הראשונה לקבל את השנה החדשה, ומעט אחריה החלו לחגוג בניו זילנד וטונגה. ב-15:00 הגיע תור אוסטרליה, שמציינת את כניסתה של 2026 בצל הפיגוע בבונדיי ביץ', ועצרה בצהריים את המסיבות לצורך דקת דומייה. שני מיליון ירקדו בקופקבאנה בברזיל, ה-FBI נערך לסכל \"פיגועי בודדים\" בטיימס סקוור"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -972,16 +1012,6 @@
       "summary": "בדיון בוועדת החינוך הציע ח\"כ עמית הלוי להוסיף להצעת החוק שלו להקמת רשות עתיקות ביהודה ושומרון - גם סמכות לטפל בשטחי הרצועה. הנוסח המעודכן לא עלה לדיון, הייעוץ המשפטי הזהיר על ההצעה המקורית: \"יש רגישות בינלאומית\""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Protests, strikes after Iran’s economic situation rapidly deteriorates",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/31/protests-strikes-after-irans-economic-situation-rapidly-deteriorates-2?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-31T09:19:35.000Z",
-      "summary": "Protests erupted across Iran after the rial plunged to a record low against the US dollar. "
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1000,16 +1030,6 @@
       "image": null,
       "published_at": "2025-12-31T09:15:25.000Z",
       "summary": "MSF did not cooperate with a government-required registration process and declined to provide Israel’s Ministry of Diaspora Affairs with a list of its employees, as mandated by a government decision."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "War in Sudan: Humanitarian collapse, fighting, deadlock, December 2025",
-      "url": "https://www.aljazeera.com/news/2025/12/31/war-in-sudan-humanitarian-collapse-fighting-deadlock-december-2025?traffic_source=rss",
-      "image": null,
-      "published_at": "2025-12-31T09:06:23.000Z",
-      "summary": "Paramilitary RSF seize Heglig oilfield, Kordofan battles rage, and UN aid cuts prompt famine fears."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1470,16 +1490,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-6fd2-d01e-a99f-6fdad1df0001/36/d3/6ed4b6ee431ea55964644c9d8a7d/241271.jpg?height=81",
       "published_at": "2025-12-30T18:08:53.000Z",
       "summary": "The IDF told Israeli lawmakers it opposes operating the tribunal, even as the Knesset approved the bill's first reading with support from opposition lawmakers, while an anti-torture watchdog warns that 'the Knesset is racing to legislate the death penalty'"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF reveals 151 soldiers lost their lives in 2025, lowest annual toll since start of Gaza war",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-881831",
-      "image": null,
-      "published_at": "2025-12-30T18:06:56.000Z",
-      "summary": "The figures represent the lowest annual death toll since the war with Hamas began in 2023 and are less than half the number recorded in 2024."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2230,16 +2240,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-65d2-d988-a59f-ffd66ec20001/b1/b4/5402b6eb48e384d52caa87224635/whatsapp-image-2025-12-25-at-23-25-01.jpeg?height=81",
       "published_at": "2025-12-28T19:15:04.000Z",
       "summary": "This weekend, former hostage Romi Gonen shared her testimony of sexual assault in Hamas captivity. It had been in the minds of Israelis, informing the urgency of calls to 'bring them home' – horrors long feared but left unspoken"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Hundreds of Haredi protesters block central Israeli highway over draft evasion arrests",
-      "url": "https://www.haaretz.com/israel-news/2025-12-28/ty-article/.premium/hundreds-of-haredi-protesters-block-central-israel-highway-over-draft-evasion-arrests/0000019b-65cb-d295-a59b-6ddfcc9e0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-65cc-d295-a59b-6dde98260001/9f/5e/393fc9d8474893b1519ab7ac68be/227929.jpg?height=81",
-      "published_at": "2025-12-28T19:07:39.000Z",
-      "summary": "Three people were arrested at the protest, led by the extremist ultra-Orthodox Jerusalem Faction, which was joined by a diverse collection of Haredi groups. In response, the faction said that 'if you arrest Torah scholars, the state will also come to a halt'"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
