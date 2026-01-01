@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-01T15:39:41.943Z",
+  "generated_at": "2026-01-01T16:12:18.598Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "IDF's haredi Hashmonaim Brigade completes first operational activity in southern Syria",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-882052",
+      "image": null,
+      "published_at": "2026-01-01T17:50:03.000Z",
+      "summary": "Also on Thursday, soldiers of the IDF's Brigade 636 killed a terrorist who threw stones at them near the village of Luban al-Sharqiyya in the West Bank during an overnight ambush."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -50,6 +60,46 @@
       "image": null,
       "published_at": "2026-01-01T16:20:13.000Z",
       "summary": "Institute honors leading figures and organizations for advancing academia, industry, innovation, and community impact"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"סיור המשילות\" בנגב נמשך, בלי חשודים: \"עוצרים, מצלמים סרטון - ומשחררים\"",
+      "url": "https://www.ynet.co.il/news/article/bkw4xhx4wx",
+      "image": null,
+      "published_at": "2026-01-01T15:59:36.000Z",
+      "summary": "המשטרה ממשיכה לפעול ביישוב הבדואי, אך החשודים בהצתה בלהבים שוחררו. נשק? המשטרה לא מוסרת אם נתפס. \"שוברים דלתות, עוצרים אותך ומשחררים בכניסה לכפר. מצלמים כדי שיגידו שבן גביר עוצר אנשים\", טען אחד התושבים בריאיון לאולפן ynet. יוסי מלהבים: פעולה של שנת בחירות לא תחזיר שקט"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Several reported killed by authorities in Iran during protests over soaring inflation",
+      "url": "https://www.haaretz.com/israel-news/2026-01-01/ty-article/several-reported-killed-by-authorities-in-iran-during-protests-over-soaring-inflation/0000019b-7967-d379-a3bb-fb77c1710000",
+      "image": "https://img.haarets.co.il/bs/0000019b-6fb8-d7b3-afff-7ff940880000/79/f2/2c23c1f64f769402c4924037dcdc/235058.jpg?height=81",
+      "published_at": "2026-01-01T15:52:15.000Z",
+      "summary": "Iranian authorities confirmed the deaths as protests over the country's economic conditions spread across Iran earlier this week, marking the most intense demonstrations since the 2022 'Woman, Life, Freedom' protests"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "What we know about the Switzerland ski resort fire",
+      "url": "https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c2c/live/d88eef10-e719-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2026-01-01T15:50:40.000Z",
+      "summary": "Several dozen people are presumed to have died in the fire at a New Year party in the resort of Crans-Montana."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Somaliland rejects reports of resettling Gazans in exchange for Israeli recognition",
+      "url": "https://www.haaretz.com/world-news/asia-and-australia/2026-01-01/ty-article/.premium/somaliland-rejects-reports-of-resettling-gazans-in-exchange-for-israeli-recognition/0000019b-79f0-d487-a3bf-f9fd430f0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-7a19-d585-abdf-7ff944f00000/b7/70/e317e3b542aab67adb1e9cf75bbc/220643-5.jpg?height=81",
+      "published_at": "2026-01-01T15:47:56.000Z",
+      "summary": "Israel's formal recognition of Somaliland prompted claims by Somalia's president that Israel had reached an agreement with the breakaway republic to resettle Palestinians from Gaza or establish an Israeli military base there as part of an effort to destabilize the region. Somaliland rejected the ass"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -155,7 +205,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Southern Israeli communities welcome police operation in Bedouin village, demand deeper state involvement",
+      "title": "Southern Israelis back police raids on Bedouins, insist 'it's not nationalism'",
       "url": "https://www.haaretz.com/israel-news/2026-01-01/ty-article/.premium/southern-communities-welcome-police-raid-in-bedouin-village-seek-stronger-state-role/0000019b-79b5-d019-a9df-7fbf084d0000",
       "image": "https://img.haarets.co.il/bs/0000019b-79b8-d585-abdf-7ff98af80003/2b/e6/9b47b7a94379819bf6e41750c34e/248190.jpg?height=81",
       "published_at": "2026-01-01T15:00:26.000Z",
@@ -392,16 +442,6 @@
       "summary": "More than a month after floods hit Indonesia, survivors are still living in ruins and desperately trying to get by. "
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "What we know about the Switzerland ski resort fire",
-      "url": "https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c2c/live/d88eef10-e719-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2026-01-01T13:05:16.000Z",
-      "summary": "Several dozen people are presumed to have died in the fire at a New Year party in the resort of Crans-Montana."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -450,16 +490,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84bd/live/85a27650-e67e-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2026-01-01T12:54:04.000Z",
       "summary": "A currency collapse has led to protests breaking out across the country, with unrest reported in several cities."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"סיור המשילות\" בנגב נמשך, בלי חשודים: \"עוצרים, מצלמים סרטון - ומשחררים\"",
-      "url": "https://www.ynet.co.il/news/article/bkw4xhx4wx",
-      "image": null,
-      "published_at": "2026-01-01T12:43:48.000Z",
-      "summary": "המשטרה ממשיכה לפעול ביישוב הבדואי שממנו לפי החשד יצאו המציתים ללהבים - אך החשודים שוחררו. \"הם שוברים דלתות, עוצרים אותך ומשחררים בכניסה לכפר. מצלמים כדי שיגידו שבן גביר עוצר אנשים\", טען מחמוד בריאיון לאולפן ynet. יוסי מלהבים מחה: פעולה של שנת בחירות לא תחזיר את השקט"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1050,16 +1080,6 @@
       "image": null,
       "published_at": "2026-01-01T08:10:49.000Z",
       "summary": "Mali and Burkina Faso are the latest to issue &#039;tit-for-tat&#039; bans on visas for US citizens with immediate effect."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "'I could hear the carnage': Former hostage Elkana Bohbot recounts Nova massacre, Hamas captivity",
-      "url": "https://www.jpost.com/israel-news/article-881929",
-      "image": null,
-      "published_at": "2026-01-01T08:07:29.000Z",
-      "summary": "\"I produced the party. I brought a ton of people to that place, I begged people to come,\" said Bohbot, detailing the guilt he carries for inviting people to what turned into a massacre."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -2230,26 +2250,6 @@
       "image": "https://img.haarets.co.il/bs/00000196-9e41-d372-abf7-bfd714f70000/f2/cd/2be8ffe9469385828089b7bc6029/132033-2.jpg?height=81",
       "published_at": "2025-12-30T06:39:12.000Z",
       "summary": "The army has asked for 60,000 reservists to be mobilized next year – but the government has refused, agreeing to call up only 40,000"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Five Palestinians detained, one wounded after settlers enter West Bank village, sparking clashes",
-      "url": "https://www.haaretz.com/israel-news/2025-12-30/ty-article-live/witnesses-israeli-settlers-attack-palestinians-in-bedouin-community-in-west-bank/0000019b-6d40-d303-a7df-6dfb1f8e0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-70bf-d019-a9df-7fbf63860000/5a/ac/cb583ebc42b6a59b3b3c200dba23/226836.jpg?height=81",
-      "published_at": "2025-12-30T03:28:48.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Who will investigate the questions that will weigh on Israel for generations to come?",
-      "url": "https://www.haaretz.com/opinion/2025-12-30/ty-article-opinion/.premium/who-will-investigate-the-questions-which-will-weigh-on-israel-for-generations-to-come/0000019b-6bab-d616-a19b-7faf30dc0000",
-      "image": "https://img.haarets.co.il/bs/00000195-133a-d0af-a197-dbbfd0340001/3e/62/10a88cc340e29e25633d51ca5e76/581847.jpg?height=81",
-      "published_at": "2025-12-29T23:20:49.000Z",
-      "summary": "As Israel fixates on assigning blame for October 7, it avoids examining how Netanyahu alone shaped a war whose consequences, at home and abroad, will endure long after the fighting ends"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
