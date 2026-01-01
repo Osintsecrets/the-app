@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-01T20:41:56.647Z",
+  "generated_at": "2026-01-01T21:08:55.176Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "No Minister, no passport: Bureaucracy risks Israel’s 2026 Winter Olympic dreams",
+      "url": "https://www.jpost.com/israel-news/sports/article-882092",
+      "image": null,
+      "published_at": "2026-01-01T22:58:46.000Z",
+      "summary": "“If these athletes cannot represent Israel, the delegation will almost not exist. That would be a major failure and a crying shame for generations,” said an Israeli Olympic Committee official."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -22,6 +32,56 @@
       "summary": "Ben-Gvir responded during a police ceremony in Beit Shemesh, where he sharply criticized the attorney-general while awarding ranks and making senior appointments."
     },
     {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Construction masterplan for formerly-evacuated West Bank settlement gets preliminary approval",
+      "url": "https://www.timesofisrael.com/construction-masterplan-for-formerly-evacuated-west-bank-settlement-gets-preliminary-approval/",
+      "image": null,
+      "published_at": "2026-01-01T20:53:15.000Z",
+      "summary": "Plans include 126 housing units for Sa Nur, evacuated under 2005 Disengagement Plan; Smotrich: We are advancing de facto sovereignty to stop establishment of Arab state in West Bank\nThe post Construction masterplan for formerly-evacuated West Bank settlement gets preliminary approval appeared first "
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "New York Mayor Zohran Mamdani's historic inauguration celebrates diversity and immigration",
+      "url": "https://www.haaretz.com/us-news/2026-01-01/ty-article/.premium/new-york-mayor-zohran-mamdanis-historic-inauguration-celebrates-diversity-and-immigration/0000019b-7ab6-d585-abdf-7ff7b6ed0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-7af5-d487-a3bf-fbfd33650000/2d/21/11a07f584a07909b744347a6b01c/258057.jpg?height=81",
+      "published_at": "2026-01-01T20:48:58.000Z",
+      "summary": "'Where else could a Muslim kid like me grow up eating bagels and lox every Sunday?' the new mayor quipped. As New Yorkers braved freezing temperatures to celebrate his entry into office, Alexandria Ocasio-Cortez celebrated: 'Choosing this mayor and this vision is an ambitious pursuit'"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Around 40 dead in Swiss ski resort bar fire, police say",
+      "url": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87cc/live/d292cee0-e74d-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2026-01-01T20:42:25.000Z",
+      "summary": "A further 115 are injured, some severely, in a fire at Le Constellation bar in Crans-Montana ski resort, officials say."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "תיעוד ראשון: כך נראית המנהרה הגדולה מול כיסופים שנחשפה בקריסת הקרקע בסערה",
+      "url": "https://www.ynet.co.il/news/article/hkzxsbeewg",
+      "image": null,
+      "published_at": "2026-01-01T20:39:22.000Z",
+      "summary": "עם קיר מבטון מזוין, בגובה הליכה: לוחמי גולני חשפו השבוע קצה של תוואי תת-קרקעי גדול בקרבת הגבול, מול יישובים ישראלים ובמרחב שרווי בנתיבי חדירה לנגב המערבי. החשש: חמאס תכנן לנייד דרכה חטופים למחנה הפליטים הסמוך. צה\"ל: \"הכוחות ממשיכים לאתר מנהרות בצד של הקו הצהוב שבשליטתנו\""
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "New York's Mamdani is a mayor of firsts, and he's cleared the path for others to follow",
+      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-01-01/ty-article/.highlight/new-yorks-mamdani-is-a-mayor-of-firsts-and-hes-cleared-the-path-for-others-to-follow/0000019b-7a9f-d379-a3bb-fabf56d60000",
+      "image": "https://img.haarets.co.il/bs/0000019b-7b3d-d019-a9df-7fbf12940000/9b/ec/b2c09ce14e02bf1393dbdfd91f14/258737-2.jpg?height=81",
+      "published_at": "2026-01-01T20:39:14.000Z",
+      "summary": "Mamdani's inauguration signifies an American embrace of breaking from political convention to take a risk on someone inexperienced, but large in ambition. And on Israel, he's now created a new precedent for policy"
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -32,14 +92,24 @@
       "summary": "מניין ההרוגים הרשמי בשריפה במסיבת ליל השנה החדשה עומד על \"כ-40\" אך עלול להיות גבוה יותר, רבים מ-115 הפצועים במצב קשה. עוד ניצולים מעידים על מלצריות שיצאו עם בקבוקים ועליהם זיקוקים או נרות, שהציתו את תקרת העץ במרתף הבר וגרמו להתפשטות האש. אלכס בן ה-16 מפריז איבד חברים וסיפר: \"היה כאוס מוחלט\". חיפושים"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Around 40 dead in Swiss ski resort bar fire, police say",
-      "url": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87cc/live/d292cee0-e74d-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2026-01-01T20:20:57.000Z",
-      "summary": "A further 115 are injured, some severely, in a fire at Le Constellation bar in Crans-Montana ski resort, officials say."
+      "title": "‘My health is perfect’: Trump dismisses scrutiny of his age and fitness",
+      "url": "https://www.aljazeera.com/news/2026/1/1/my-health-is-perfect-trump-dismisses-scrutiny-of-his-age-and-fitness?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-01T20:28:54.000Z",
+      "summary": "By the end of his second term, Trump will be the oldest sitting president in US history, though he denies slowing down."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Zohran Mamdani inaugurated as mayor of New York City",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/zohran-mamdani-inaugurated-as-mayor-of-new-york-city?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-01T20:28:43.000Z",
+      "summary": "At a ceremony on the steps of City Hall, Zohran Mamdani has been inaugurated as mayor of New York."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -89,7 +159,7 @@
       "url": "https://www.ynet.co.il/news/article/rk1c6eeebe",
       "image": null,
       "published_at": "2026-01-01T20:00:10.000Z",
-      "summary": "בדיון ביטחוני בנושא עזה, הטיל רא\"ל זמיר ספק בכך שכוח הייצוב הבינלאומי אכן יצליח לפרז את חמאס - כפי שהאמריקנים רוצים. הצבא נערך לבצע בעצמו את המשימה במידת הצורך, אך נתניהו לא נתן מענה לשאלה מי ישלוט בשטח לאחר מכן. החשש ממצג שווא של פירוק מנשק - ומשיטת ה\"פרוסות\" לשיקום הרצועה"
+      "summary": "בדיון ביטחוני בנושא עזה, הטיל רא\"ל זמיר ספק בכך שכוח הייצוב הבינלאומי אכן יצליח לפרז את חמאס - כפי שהאמריקנים רוצים. הצבא נערך לבצע בעצמו את המשימה במידת הצורך, אך נתניהו לא נתן מענה לשאלה מי ישלוט בשטח לאחר מכן. חשש משיטת ה\"פרוסות\" לשיקום הרצועה"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -932,16 +1002,6 @@
       "summary": "Political reporters Sam Sokol and Ariela Karmel discuss government clash with High Court over ultra-Orthodox school funding, finance minister's threats and Jerusalem rabbinate battles\nThe post Daily Briefing Jan. 1: Day 818 &#8211; Coalition, Haredim and judiciary on collision course appeared first "
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Court orders state to justify law that allows firing teachers who support terror",
-      "url": "https://www.timesofisrael.com/court-orders-state-to-justify-law-that-allows-firing-teachers-who-support-terror/",
-      "image": null,
-      "published_at": "2026-01-01T12:26:04.000Z",
-      "summary": "Critics charge law empowers 'political entities' and deprives teachers of due process; Smotrich says judges 'trampling Israel's democracy and the security of its citizens'\nThe post Court orders state to justify law that allows firing teachers who support terror appeared first on The Times of Israel."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1162,16 +1222,6 @@
       "summary": "STC to maintain presence, but agrees to deployment of Riyadh-backed National Shield government forces in the areas."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "‘Dozens’ killed in Swiss ski resort blaze: What we know",
-      "url": "https://www.aljazeera.com/news/2026/1/1/dozens-killed-in-swiss-ski-resort-explosion-what-we-know?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-01T10:46:46.000Z",
-      "summary": "New Year&#039;s Eve fire in a Swiss resort in Crans-Montana has injured more than 100 people."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1190,16 +1240,6 @@
       "image": null,
       "published_at": "2026-01-01T10:40:37.000Z",
       "summary": "עידן חדש בתפוח הגדול: ראש העיר המוסלמי הראשון של ניו יורק, שהפך בתוך חודשים מאלמוני לכוכב פרוגרסיבי בינלאומי, נשבע אמונים בחצות לפי השעון המקומי - בטקס מצומצם בתחנת רכבת נטושה. הערב הוא יערוך חגיגת ענק עם ברני סנדרס ו-AOC, רבנים יערכו הפגנת נוכחות עם דגלי ישראל. סנאטור רפובליקני הזהיר ש\"האויב בתוך ש"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "UAE won’t lose “influence in Yemen” after withdrawal",
-      "url": "https://www.aljazeera.com/video/quotable/2026/1/1/uae-wont-lose-influence-in-yemen-after-withdrawal?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-01T10:36:40.000Z",
-      "summary": "Luciano Zaccara on the UAE’s decision to withdraw its forces from Yemen, which could alter its regional influence."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1312,16 +1352,6 @@
       "summary": "האישה, בשנות השישים לחייה, אותרה הבוקר בדירתה ללא רוח חיים. בתחילה לא עלה חשד לפלילים - אבל אחד הגברים לא שיתף פעולה באופן מלא ולאחר הגעת חוקרי הזיהוי הפלילי התחזק החשד לרצח"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אסון באלפים השווייצריים: כ-40 הרוגים בפיצוץ באתר סקי, בחגיגות השנה החדשה ",
-      "url": "https://www.ynet.co.il/news/article/h1k0yqxe11x",
-      "image": null,
-      "published_at": "2026-01-01T09:27:38.000Z",
-      "summary": "הפיצוץ והשריפה שהשתוללה אחריו אירעו בבר בעיירת הסקי הפופולרית קראנס-מונטנה, ולפי הרשויות עשרות נהרגו. עוד 100 נפצעו - ומצבם של רובם מוגדר קשה: \"בתי החולים מוצפים\". הסיבה לפיצוץ, שאירע לפי הדיווחים במרתף של המקום, טרם ברורה: \"ייתכן שנגרם מאמצעי פירוטכניקה בחגיגות, זו לא מתקפה\""
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1425,7 +1455,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "AG to top court: Netanyahu must explain why he isn't firing Ben-Gvir over abuse of office",
+      "title": "At least seven killed in Iran anti-gov't protests amid a deepening economic crisis",
       "url": "https://www.haaretz.com/israel-news/2026-01-01/ty-article-live/un-chief-condemns-israeli-law-blocking-electricity-water-for-unrwa-facilities/0000019b-779a-d5ec-abdf-7fdee70a0000",
       "image": "https://img.haarets.co.il/bs/0000019b-78e2-d379-a3bb-faf6f9f10000/02/1a/9e171be74d278fb0ad4d6ed7c0ae/219937.jpg?height=81",
       "published_at": "2026-01-01T03:41:00.000Z",
@@ -1560,16 +1590,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-5cff-df6b-a7db-fdff43b30000/21/d4/10bde27c43149c85596c284680cd/210949.jpg?height=81",
       "published_at": "2025-12-31T22:35:04.000Z",
       "summary": "At Mar-a-Lago, Trump's invitation to Netanyahu did not extend to two million people trudging through the mud and cold or the memory of about 100,000 dead. The only presence of the Gaza was Ran Gvili, the last remaining dead hostage held in the Strip."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Police make arrests in Bedouin community, find stolen IDF weapons in Rahat kindergarten",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-881947",
-      "image": null,
-      "published_at": "2025-12-31T22:31:14.000Z",
-      "summary": "Over the course of the day, motorcycle patrols wrote 108 traffic tickets and confiscated two ATVs and a dirt bike, which were transferred for forfeiture proceedings. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2240,26 +2260,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-6eb5-d303-a7df-6effe3a50001/b4/66/f713f9d9489db3986dd0231a03f4/551780.jpg?height=81",
       "published_at": "2025-12-30T14:59:15.000Z",
       "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Fire, fear and freedom: Israel in 2025, through the eyes of Haaretz photographers",
-      "url": "https://www.haaretz.com/israel-news/2025-12-30/ty-article-static/.premium/fire-fear-and-freedom-israel-in-2025-through-the-eyes-of-haaretz-photographers/0000019b-4f67-d2b2-affb-5f6f53c10000",
-      "image": "https://img.haarets.co.il/bs/0000019b-554f-df6b-a7db-f55f92cf0007/56/e1/bab247d34d5d8335033c720c5251/824830-6.jpg?height=81",
-      "published_at": "2025-12-30T14:09:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "After the Hezbollah attack, the world wants Israel's exploding pagers. There's one problem",
-      "url": "https://www.haaretz.com/israel-news/security-aviation/2025-12-30/ty-article-magazine/.premium/the-cyber-weapon-states-want-to-buy-from-israel-doesnt-exist/0000019b-65c9-d347-abbf-f5db49010000",
-      "image": "https://gif.haarets.co.il/bs/0000019b-68c3-d25b-a3db-fcd79f100004/84/2b/be0b35314688a631109d5b0793af/pager-homepage.gif?height=81",
-      "published_at": "2025-12-30T13:46:00.000Z",
-      "summary": "Since Israel's pager bomb operation against Hezbollah, private defense contractors have gotten requests for 'kinetic cyber' tools able to turn electronic devices into bombs. They don't exist"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
