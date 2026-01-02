@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T11:09:13.678Z",
+  "generated_at": "2026-01-02T11:34:23.780Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -32,6 +32,16 @@
       "summary": "The bill would formally recognize Israeli Sign Language while maintaining the status of other sign languages used in Israel. It would also require the state to preserve, develop, and promote ISL."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump warns Iranian authorities against killing protesters",
+      "url": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5148/live/09e4b940-e7ca-11f0-a951-db7efd6ff4fd.jpg",
+      "published_at": "2026-01-02T11:27:29.000Z",
+      "summary": "The US president says \"we are locked and loaded and ready to go\", amid continuing mass unrest in Iran."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -40,6 +50,56 @@
       "image": null,
       "published_at": "2026-01-02T11:27:23.000Z",
       "summary": "The administration said the decision was taken from the municipality due to Hebron’s “ongoing refusal” to approve a roofing project, stressing that the existing status quo would not be affected."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "&#8216;Locked and loaded&#8217;: Trump and Iranian officials exchange threats over protests",
+      "url": "https://www.timesofisrael.com/locked-and-loaded-trump-and-iranian-officials-exchange-threats-over-protests/",
+      "image": null,
+      "published_at": "2026-01-02T11:27:03.000Z",
+      "summary": "US president says America would come rescue peaceful protesters if Tehran kills them; senior Iranian security official says demonstrations stoked by US, Israel\nThe post &#8216;Locked and loaded&#8217;: Trump and Iranian officials exchange threats over protests appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "על גג רכב, בשיטפון, עם ילד קטן: צפו בחילוץ מנחל שילה - וזו התחזית המלאה",
+      "url": "https://www.ynet.co.il/news/article/rynhhivnzg",
+      "image": null,
+      "published_at": "2026-01-02T11:25:07.000Z",
+      "summary": "בחרמון נערמו 10 ס\"מ שלג במפלס העליון, הלילה נמדדו 43 מ\"מ גשם בקריית מלאכי, וגם בירושלים וים המלח ירדו כמויות נכבדות. היום קר יותר וצפויים גשמים מקומיים - ברובם קלים. בימים הקרובים לא צפוי גשם, בעוד שבוע הוא עשוי לחזור"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Culture minister says Gaza belongs to Israel, Palestinians merely &#8216;there as guests&#8217;",
+      "url": "https://www.timesofisrael.com/culture-minister-says-gaza-belongs-to-israel-palestinians-merely-there-as-guests/",
+      "image": null,
+      "published_at": "2026-01-02T11:22:49.000Z",
+      "summary": "The Likud lawmaker makes claim when asked about his response to the award-winning film 'The Sea,' which led him to establish alternative award ceremony and threaten funding cuts\nThe post Culture minister says Gaza belongs to Israel, Palestinians merely &#8216;there as guests&#8217; appeared first on"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "What we know about the Switzerland ski resort fire",
+      "url": "https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c2c/live/d88eef10-e719-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2026-01-02T11:17:21.000Z",
+      "summary": "Several dozen people are presumed to have died in the fire at a New Year party in the resort of Crans-Montana."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Why I am on hunger strike in solidarity with Pal Action detainees",
+      "url": "https://www.aljazeera.com/opinions/2026/1/2/why-i-am-on-hunger-strike-in-solidarity-with-pal-action-detainees?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-02T11:13:45.000Z",
+      "summary": "In the Pal Action detainees, I see my own story. I see clear evidence that Guantánamo did not end; it spread."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -60,6 +120,16 @@
       "image": null,
       "published_at": "2026-01-02T11:03:11.000Z",
       "summary": "Nathaniel Raymond of Yale School of Public Health warns of mass deaths in Sudan as UN visits el-Fasher"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Trump: U.S. 'Locked and loaded and ready' to protect Iran protesters from Regime",
+      "url": "https://www.haaretz.com/us-news/2026-01-02/ty-article/trump-u-s-locked-and-loaded-and-ready-to-protect-iran-protesters-from-regime/0000019b-7ded-d487-a3bf-fded78910000",
+      "image": "https://img.haarets.co.il/bs/0000019b-7dff-d487-a3bf-fdff6a040001/31/36/cd67445b4b4896c52e074fbcfedc/136360.jpg?height=81",
+      "published_at": "2026-01-02T11:00:08.000Z",
+      "summary": "A senior ‌adviser to Iran's Supreme ⁠Leader responded to Trump's threat, said ‍that U.S. interference in protests ‍would lead ‌to chaos across the region"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -125,7 +195,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Yemeni province launches operation to take bases back from separatist STC",
+      "title": "Yemen’s separatist STC accuses Saudi Arabia of bombing forces along border",
       "url": "https://www.aljazeera.com/news/2026/1/2/yemeni-province-launches-operation-to-take-bases-back-from-separatist-stc?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-02T10:31:40.000Z",
@@ -170,16 +240,6 @@
       "image": "https://img.haarets.co.il/bs/00000191-c2b0-d2ba-adb1-e6b9c2820000/64/d7/ae60ceb64a9a97f24f10abbca689/32925.jpg?height=81",
       "published_at": "2026-01-02T09:48:44.000Z",
       "summary": "The request came after Hamas made threats of violent escalation. Qatar had informed Israel that Hamas was seeking to maintain stability during talks with Israeli officials"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אחרי שנשלל הקשר שלו להיעלמות היימנוט: בן 62 נאשם במעשה מגונה בבת 13",
-      "url": "https://www.ynet.co.il/news/article/s1grqzb4bx",
-      "image": null,
-      "published_at": "2026-01-02T09:39:29.000Z",
-      "summary": "מנע ממנה לברוח ורדף אחריה במדרגות: ישמבל ביינה נאשם במעשה מגונה בנערה בדירתה בבאר שבע, ובניסיון למנוע מאמה להתלונן עליו. בחקירה עלה חשד למעורבותו בהיעלמות היימנוט קסאו, אבל חשד זה הוסר"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -435,11 +495,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Two arrested on suspicion of murder after woman found dead in Haifa apartment",
+      "title": "After investigation, police say no foul-play in death of woman in Haifa apartment",
       "url": "https://www.timesofisrael.com/two-arrested-on-suspicion-of-murder-after-woman-found-dead-in-haifa-apartment/",
       "image": null,
       "published_at": "2026-01-02T06:36:00.000Z",
-      "summary": "No outward signs of violence on body, but police said to suspect foul play after suspect refused to cooperate in first murder investigation of 2026\nThe post Two arrested on suspicion of murder after woman found dead in Haifa apartment appeared first on The Times of Israel.\n"
+      "summary": "Police initially suspected murder after man who was in the apartment at the time refused to cooperate with law enforcement\nThe post After investigation, police say no foul-play in death of woman in Haifa apartment appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -450,16 +510,6 @@
       "image": null,
       "published_at": "2026-01-02T06:34:35.000Z",
       "summary": "חודש בלבד אחרי שקודמו חתם על שימוש בסנקציות כלכליות נגד ספקים שמקדמים חרם על ישראל, ראש העיר שנשבע אתמול לתפקיד הפך את ההחלטה. גם הגדרת האנטישמיות שונתה, היהודים תקפו: \"סימן מטריד לכיוון העתידי\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "10 ס\"מ שלג נערמו במפלס העליון בחרמון: התחזית המלאה - ומתי שוב צפוי גשם?",
-      "url": "https://www.ynet.co.il/news/article/rynhhivnzg",
-      "image": null,
-      "published_at": "2026-01-02T06:31:57.000Z",
-      "summary": "43 מ\"מ נמדדו הלילה בקריית מלאכי, גם בירושלים ובאזור ים המלח ירדו כמויות גשם נכבדות - אבל לא בגוש דן. היום יהיה קר יותר וצפויים גשמים מקומיים - ברובם קלים. בימים הקרובים לא צפוי גשם, בעוד שבוע הוא עשוי לחזור"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -762,24 +812,14 @@
       "summary": "Dead include five members of a family in the Kabkan district in the province of Herat."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Deadly clashes between protesters and security forces as Iran unrest grows",
-      "url": "https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4486/live/1b001130-e729-11f0-b497-893ee467f2f6.jpg",
-      "published_at": "2026-01-02T02:08:41.000Z",
-      "summary": "Videos on social media showed cars set on fire during running battles as protests entered their fifth day."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "&#8216;Locked and loaded&#8217;: Trump threatens intervention if Iran kills peaceful protesters",
+      "title": "IDF strikes Hezbollah Radwan Force training site, weapons depots in southern Lebanon",
       "url": "https://www.timesofisrael.com/liveblog-january-2-2026/",
       "image": null,
       "published_at": "2026-01-02T02:05:42.000Z",
-      "summary": "Khamenei aide says US intervention would lead to regional chaos * IDF strikes Hezbollah Radwan Force training site, weapons depots in southern Lebanon * Chikli offers Israeli counterterror training to Australia in wake of Bondi shooting\nThe post &#8216;Locked and loaded&#8217;: Trump threatens inter"
+      "summary": "Saudi airstrikes hit UAE-backed separatist camp in Yemen * Chikli offers Israeli counterterror training to Australia in wake of Bondi shooting\nThe post IDF strikes Hezbollah Radwan Force training site, weapons depots in southern Lebanon appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -830,16 +870,6 @@
       "image": "https://img.haarets.co.il/bs/0000019a-ba16-db2f-afdf-be3e6d6d0001/09/e7/48dbc2df4a6eb75e5b53bb3db5b2/299766.jpg?height=81",
       "published_at": "2026-01-01T23:52:12.000Z",
       "summary": "The Hebron Municipality, which is run by Palestinians, petitioned Israel's High Court of Justice challenging both the expropriation of the site of the future roof and the limited transfer of planning authority. A hearing is expected to be held in the case next week"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "AG to High Court: Netanyahu should be made to explain why he hasn&#8217;t fired Ben Gvir",
-      "url": "https://www.timesofisrael.com/ag-to-high-court-netanyahu-should-be-made-to-explain-why-he-hasnt-fired-ben-gvir/",
-      "image": null,
-      "published_at": "2026-01-01T23:46:47.000Z",
-      "summary": "Minister systematically abuses his powers and PM hasn't sufficiently addressed issue, Baharav-Miara says in court filing; Ben Gvir responds: 'Crook, I don't care about you'\nThe post AG to High Court: Netanyahu should be made to explain why he hasn&#8217;t fired Ben Gvir appeared first on The Times o"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1022,36 +1052,6 @@
       "summary": "איך הכינה אותנו שנת 2025 לתחילתה של 2026"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "What we know about the Switzerland ski resort fire",
-      "url": "https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c2c/live/d88eef10-e719-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2026-01-01T21:54:54.000Z",
-      "summary": "Several dozen people are presumed to have died in the fire at a New Year party in the resort of Crans-Montana."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Tel Aviv exhibit joins Jewish concepts to role-playing games",
-      "url": "https://www.timesofisrael.com/tel-aviv-exhibit-joins-jewish-concepts-to-role-playing-games/",
-      "image": null,
-      "published_at": "2026-01-01T21:51:31.000Z",
-      "summary": "'Roll of Destiny,' on display at Neve Schechter Gallery, features six original games employing Jewish ideas\nThe post Tel Aviv exhibit joins Jewish concepts to role-playing games appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "How far will the latest protests go in Iran?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/1/1/how-far-will-the-latest-protests-go-in-iran?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-01T21:40:43.000Z",
-      "summary": "There have been angry protests across the country against economic hardships."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1150,6 +1150,16 @@
       "image": "https://img.haarets.co.il/bs/0000019b-0ef0-d153-abbf-eef74a440000/bc/46/3474d7094fb0b941bc55afd03783/674122.jpg?height=81",
       "published_at": "2026-01-01T20:05:53.000Z",
       "summary": "Responding to petitions arguing that Ben-Gvir must be ousted from his position as national security minister, Attorney General Gali Baharav-Miara wrote that it is currently 'impossible to protect the public from his systematic efforts to undermine the police's independence'"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "העימות בין ישראל ל\"רופאים ללא גבולות\" אחרי שנאסרה פעילותו בעזה: \"בארגון יש מחבלים\"",
+      "url": "https://www.ynet.co.il/news/article/r1hfqsvvzg",
+      "image": null,
+      "published_at": "2026-01-01T20:01:36.000Z",
+      "summary": "ישראל דורשת מארגונים בינלאומיים הפועלים ברצועת עזה להשלים את הליך הרישום שלהם, אחרי שהתברר כי בגופים יש עובדים שמעורבים בטרור. רישיון הפעילות של ארגון \"רופאים ללא גבולות\" נשלל, והוא מסר שהוא ממתין לחידוש. במתפ״ש טוענים שהארגון סירב למסור את רשימת העובדים, ופרסם שקרים על פעילותו ברצועה: \"לא צירוף מקר"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2210,16 +2220,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-7091-dd15-a3fb-f9f304c50001/56/81/55a363634eb2967cd4921fd1c0c9/bitrump.PNG?height=81",
       "published_at": "2025-12-30T19:03:30.000Z",
       "summary": "Netanyahu's decision to award Trump with this year's Israel Prize raises the question of whether it should be leveraged to pay homage to another country's head of state, on a day dedicated to the country's independence"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "If ministers truly cared about troops, they'd draft Haredim – not shut down the film industry and Army Radio",
-      "url": "https://www.haaretz.com/opinion/2025-12-30/ty-article-opinion/.premium/if-ministers-cared-about-the-troops-theyd-draft-haredim-instead-of-closing-army-radio/0000019b-7024-d5ec-abdf-7e6eda270000",
-      "image": "https://img.haarets.co.il/bs/0000019b-7057-d019-a9df-7fff66810000/29/f3/ae8d240f413e8ae89f2bf13fd780/254579.jpg?height=81",
-      "published_at": "2025-12-30T18:50:57.000Z",
-      "summary": "Ministers are silencing, intimidating, and using their power to undermine the government's critics while falsely worrying about the 'honor of IDF soldiers.' But those who truly care about the troops should first draft the Haredim"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
