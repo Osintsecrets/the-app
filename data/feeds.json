@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-02T08:48:13.950Z",
+  "generated_at": "2026-01-02T09:13:30.398Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Eight businesses employing over 50 illegal immigrants closed in police crackdown",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-882114",
+      "image": null,
+      "published_at": "2026-01-02T11:05:01.000Z",
+      "summary": "A book in Arabic featuring a picture of Adolf Hitler was also found at one of the sites. The illegal immigrant was arrested, and their employer was detained for questioning."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,16 @@
       "image": null,
       "published_at": "2026-01-02T10:46:03.000Z",
       "summary": "Movers and shakers in Israeli society."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "גופת אישה אותרה בקריית ים, בנה ובן הזוג נעצרו - אבל הנתיחה קבעה: זה לא רצח",
+      "url": "https://www.ynet.co.il/news/article/s1bnshqn11e",
+      "image": null,
+      "published_at": "2026-01-02T08:53:51.000Z",
+      "summary": "האישה, בשנות השישים לחייה, אותרה אתמול בדירתה ללא רוח חיים. השניים נעצרו לאחר שלא נתנו תשובות מספקות, בן הזוג אף הובא להארכת מעצר - אבל בתחילת הדיון עדכן נציג המשטרה: \"באבו כביר קבעו כי אין חשד לפלילים\""
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -79,7 +99,7 @@
       "url": "https://www.ynet.co.il/news/article/ryyasgrezx",
       "image": null,
       "published_at": "2026-01-02T08:05:52.000Z",
-      "summary": "אזעקה נשמעה ב-10 בבוקר בקיבוץ ברעם שבגליל העליון. בתיעוד מצפת נראה שובל של מיירט ששוגר לעבר מטרה חשודה, אך בהמשך התברר כי מדובר בפגיעה בלהקת ציפורים. חיזבאללה מיהר להתנער: \"אין לנו קשר\""
+      "summary": "אזעקה נשמעה ב-10 בבוקר בקיבוץ ברעם שבגליל העליון. בתיעוד מצפת נראה שובל של מיירט ששוגר לעבר מטרה חשודה, אך בהמשך התברר כי מדובר בהתרעת שווא בעקבות פגיעה בלהקת ציפורים. חיזבאללה מיהר להתנער: \"אין לנו קשר\""
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -245,7 +265,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "בזמן שישנתם: הגשמים העזים שירדו הלילה | כבישים נחסמו בדרום, זו התחזית המלאה",
+      "title": "10 ס\"מ שלג נערמו במפלס העליון בחרמון: התחזית המלאה - ומתי שוב צפוי גשם?",
       "url": "https://www.ynet.co.il/news/article/rynhhivnzg",
       "image": null,
       "published_at": "2026-01-02T06:31:57.000Z",
@@ -1112,16 +1132,6 @@
       "summary": ""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"עלה מציונות, חלם להתגייס\": ארי אותר ללא רוח חיים יום לפני השחרור מצה\"ל",
-      "url": "https://www.ynet.co.il/news/article/ryxrrpqebl",
-      "image": null,
-      "published_at": "2026-01-01T18:35:54.000Z",
-      "summary": "כ-3 שנים לאחר שהגיע לראשונה לישראל, ויממה לפני תום שירותו, ארי גולדברג נמצא ללא רוח חיים בדירה ששכר יחד עם אחיו הצעיר, שאותו עודד לעלות לארץ. חברו סיפר: \"הוא ליווה את אחיו לבקו\"ם רק ביום שני, זה לא נתפס\""
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1600,16 +1610,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-78cf-d6c7-afff-fedf8a9e0005/5a/21/daa48d124583b45cb8cd68445e72/149281.jpg?height=81",
       "published_at": "2026-01-01T09:08:16.000Z",
       "summary": "The service launches January 13 with HBO originals, blockbuster films and a premium 4K plan"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Knesset bill seeks military burial for Israelis whose suicide tied to IDF service",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-881967",
-      "image": null,
-      "published_at": "2026-01-01T08:20:47.000Z",
-      "summary": "Under the proposal, discharged soldiers and reservists who took their own lives as a result of combat stress or other psychological harm incurred during service would be eligible for military burial."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
