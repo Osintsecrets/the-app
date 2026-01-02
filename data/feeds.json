@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-02T05:15:43.271Z",
+  "generated_at": "2026-01-02T05:45:30.785Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Netanyahu's Mar-a-Lago visit, praise from Trump gives coalition two-seat bump - poll",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-882104",
+      "image": null,
+      "published_at": "2026-01-02T07:15:50.000Z",
+      "summary": "Parties that did not cross the electoral threshold in this survey were Blue and White (2%), Religious Zionism (2.8%), Balad (2%), and “the Reservists” list (3%)."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +20,16 @@
       "image": null,
       "published_at": "2026-01-02T06:38:15.000Z",
       "summary": "Defense Minister Israel Katz told the IDF to prepare for renewed fighting in Gaza as talks stall and Hamas refuses to disarm."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ישראל פנתה לקטאר ערב 7 באוקטובר כדי להגדיל את העברת הכסף לחמאס",
+      "url": "https://www.ynet.co.il/news/article/yokra14633928",
+      "image": null,
+      "published_at": "2026-01-02T05:23:23.000Z",
+      "summary": "חשיפה: ממשלת ישראל לא הסתפקה בלחץ על קטאר להמשיך את המימון לארגון הטרור. בספטמבר 2023 התקיימה פגישה חשאית בירושלים בין בכיר קטארי לבין נציגי ישראל. הבקשה: בהתאם לתביעת חמאס, להגדיל העברת כספים לרכישת דלקים - שהמכירה שלהם מימנה את המשך שלטונו ברצועת עזה"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -530,16 +550,6 @@
       "image": null,
       "published_at": "2026-01-01T22:00:00.000Z",
       "summary": "מאיה אמיר, שפונתה כמו רבים במהלך המלחמה, רצתה להביא את החוויה התל אביבית לבירת הגליל. אז היא פתחה את \"מאיולה\" - עגלת הקפה הראשונה אי פעם בעיר. \"כשפתאום נפתח מקום כזה צבעוני, זה עושה משהו לנשמה\", סיפרה"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הפגישה החשאית שבה ישראל ביקשה מקטאר עוד כסף לחמאס",
-      "url": "https://www.ynet.co.il/news/article/yokra14633928",
-      "image": null,
-      "published_at": "2026-01-01T22:00:00.000Z",
-      "summary": "ערב 7 באוקטובר ממשלת נתניהו ביקשה מקטאר להעביר עוד מימון לחמאס בעזה. הפגישה נערכה במלון ירושלמי כחודש לפני הטבח, בניסיון נואש של הדרג המדיני ומערכת הביטחון לקנות שקט בעזה. קטאר מסרה לבכירים הישראלים: חמאס לא רוצה הסלמה ביטחונית - פניו להסדרה"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1650,16 +1660,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-78e2-d379-a3bb-faf6f9f10000/02/1a/9e171be74d278fb0ad4d6ed7c0ae/219937.jpg?height=81",
       "published_at": "2026-01-01T03:41:00.000Z",
       "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israelis shop more online during wartime, Wolt 2025 Online Consumer Report shows",
-      "url": "https://www.jpost.com/israel-news/article-881958",
-      "image": null,
-      "published_at": "2026-01-01T03:24:32.000Z",
-      "summary": "In 2025, online shopping went from a convenience to a daily behaviour in Israelis' daily life. According to Wolt's survey, 78% of the population shopped online throughout the year."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
