@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-01-02T02:51:26.078Z",
+  "generated_at": "2026-01-02T03:57:29.814Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "פייק, עובדות ונשיא אחד: כך קרס קמפיין הדה־לגיטימציה לנשיא עמית",
+      "url": "https://www.ynet.co.il/news/article/bkrtsgvvzg",
+      "image": null,
+      "published_at": "2026-01-02T03:48:00.000Z",
+      "summary": "החלטת הנציב קולה מפרקת את רוב הטענות נגד נשיא העליון יצחק עמית, משיבה את הדיון לקרקע העובדתית ומציבה מראה בפני מי שביקשו לפגוע בבית המשפט העליון ובעומד בראשו. ועדיין, הם מנסים להיאחז בקביעה שולית ולנהל בשמה את המאבק נגדו"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "רודן ונצואלה משנה כיוון? \"מוכנים לדון עם ארה\"ב על הסכם שייאבק בסחר בסמים\"",
+      "url": "https://www.ynet.co.il/news/article/ryv02sv4wl",
+      "image": null,
+      "published_at": "2026-01-02T03:35:20.000Z",
+      "summary": "מדורו התחמק כשנשאל על התקיפה האמריקנית בוונצואלה, אך סיפק אמירה מעניינת כשאמר שמוכן לפתוח במשא ומתן עם ארה\"ב. \"אם היא רוצה נפט - אנחנו מוכנים לדבר בכל זמן, מקום ואופן\", אמר"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Kim Jong Un’s potential heir makes public visit to N Korean founder’s tomb",
+      "url": "https://www.aljazeera.com/news/2026/1/2/kim-jong-uns-potential-heir-makes-public-visit-to-n-korean-founders-tomb?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-02T03:28:16.000Z",
+      "summary": "Kim Ju Ae&#039;s first public visit to the Kumsusan Mausoleum added to speculation she may become the next in line."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "‘We will not wait’: Mamdani kicks off housing plans after inaugural party",
+      "url": "https://www.aljazeera.com/news/2026/1/2/we-will-not-wait-mamdani-kicks-off-housing-plans-after-inaugural-party?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-02T03:14:13.000Z",
+      "summary": "The inaugural ceremony broke with tradition, as large crowds and a public party greeted New York&#039;s new mayor."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Several reported killed in Iran protests over economic hardships",
+      "url": "https://www.haaretz.com/israel-news/2026-01-02/ty-article-live/several-reported-killed-in-iran-protests-over-economic-hardships/0000019b-7c93-d585-abdf-7ff3a66b0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-7c98-d585-abdf-7ff90a280001/a2/64/018f65ae4c4380400f012e2e3069/2025-12-31t035227z-658448394-rc20riadhiww-rtrmadp-3-iran-economy-protests.JPG?height=81",
+      "published_at": "2026-01-02T02:53:53.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Mamdani revokes IHRA antisemitism definition on day 1, amid broad rejection of Adams orders",
+      "url": "https://www.timesofisrael.com/mamdani-revokes-ihra-antisemitism-definition-on-day-1-amid-broad-rejection-of-adams-orders/",
+      "image": null,
+      "published_at": "2026-01-02T02:49:58.000Z",
+      "summary": "NYC mayor nullifies swath of predecessor's actions, including some related to Jewish community, while keeping Office to Combat Antisemitism\nThe post Mamdani revokes IHRA antisemitism definition on day 1, amid broad rejection of Adams orders appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Turkmenistan legalises crypto mining and exchanges in shift for economy",
+      "url": "https://www.aljazeera.com/news/2026/1/2/turkmenistan-legalises-crypto-mining-and-exchanges-in-shift-for-economy?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-02T02:49:26.000Z",
+      "summary": "Legislation signed by President Serdar Berdimuhamedov establishes a licensing scheme overseen by country&#039;s central bank."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -1072,26 +1142,6 @@
       "summary": "בשב\"ס בוחנים הקמה של כלא מוקף תנינים - שמזכיר את זה שהקים טראמפ בפלורידה. קצינים בארגון הגיעו לסיור בחווה בחמת גדר כדי ללמוד איך לטפל בהם. העלויות - והדמות שדוחפת את המהלך"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Syria says Islamic State plotted New Year&#8217;s Eve attacks on churches",
-      "url": "https://www.timesofisrael.com/syria-says-islamic-state-plotted-new-years-eve-attacks-on-churches/",
-      "image": null,
-      "published_at": "2026-01-01T15:13:58.000Z",
-      "summary": "Interior Ministry receives information that terror group planned suicide assaults targeting New Year's celebrations, particularly in Aleppo\nThe post Syria says Islamic State plotted New Year&#8217;s Eve attacks on churches appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Somali president: Israel deal with Somaliland tied to hosting Palestinians",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/somali-president-israel-deal-with-somaliland-tied-to-hosting-palestinians?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-01T15:07:07.000Z",
-      "summary": "Somalia’s president says Somaliland has agreed to accept displaced Palestinians in exchange of Israel&#039;s recognition."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1152,26 +1202,6 @@
       "summary": "The well-known medical organization is one of several dozen NGOs prohibited from operating in Gaza and the West Bank since January 1."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Enzo Maresca leaves Chelsea after just 18 months as manager",
-      "url": "https://www.aljazeera.com/sports/2026/1/1/chelsea-part-ways-with-manager-maresca?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-01T14:00:02.000Z",
-      "summary": "Maresca exits the club midway through a turbulent season with the team winning just one Premier League game in December."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Russia claims Ukrainian drone attack killed 24 people in Kherson",
-      "url": "https://www.aljazeera.com/news/2026/1/1/russia-claims-ukrainian-drone-attack-killed-24-people-in-kherson?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-01T13:59:27.000Z",
-      "summary": "Russia says those killed were celebrating in a cafe located in an area of southern Ukraine controlled by Moscow."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1180,26 +1210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d91/live/80a0c170-e70f-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2026-01-01T13:58:18.000Z",
       "summary": "Dr Dirk Brandherm and his colleagues have identified more than 600 suspected house platforms in the Brusselstown Ring."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"אלימות חסרת תקדים\" בחגיגות בהולנד, כנסייה נשרפה. הרוגים מזיקוקים גם בגרמניה",
-      "url": "https://www.ynet.co.il/news/article/sjgfpjn411l",
-      "image": null,
-      "published_at": "2026-01-01T13:57:24.000Z",
-      "summary": "באמסטרדם עלה באש בליל השנה החדשה מבנה ששימש ככנסייה יותר מ-100 שנה. נסיבות האירוע בבדיקה. במקביל, 2 נהרגו בהולנד בתאונות זיקוקים ודווח על \"כמות חסרת תקדים של אלימות נגד שוטרים\". בגרמניה: 2 נהרגו בעקבות \"שימוש בלתי נשלט באמצעים פירוטכניים\" "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "השר סמוטריץ' משיב אש - ותוקף את יאיר גולן: \"אין גבול לחוצפה שלו, איש בזוי\"",
-      "url": "https://www.ynet.co.il/news/article/sjfx8e44bl",
-      "image": null,
-      "published_at": "2026-01-01T13:54:57.000Z",
-      "summary": "יו\"ר הדמוקרטים חולל סערה כשאמר בריאיון ל\"120 ואחת\", הפודקאסט הפוליטי של ynet, כי \"הרוח החרד\"לית בזה למדינה\". שר האוצר הגיב: \"'הרוח החרד\"לית' ממלאת את בתי העלמין הצבאיים באחוזים גבוהים בהרבה מחלקה באוכלוסייה\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2250,16 +2260,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-6fb9-dd15-a3fb-fffb7abe0001/cb/f9/c285a01240c3a08b5abd7ce20db2/241553.jpg?height=81",
       "published_at": "2025-12-30T17:21:19.000Z",
       "summary": "The raid followed vandalism in nearby communities and officially aimed to catch suspects and illegal weapons, but residents said it felt like collective punishment, with some children briefly detained and homes searched"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israel recognizes Somaliland: The right move, for the wrong reasons",
-      "url": "https://www.haaretz.com/israel-news/2025-12-30/ty-article/.premium/israel-recognizes-somaliland-the-right-move-for-the-wrong-reasons/0000019b-6fe9-da0b-a1bf-fff90f180000",
-      "image": "https://img.haarets.co.il/bs/0000019b-6ff7-da0b-a1bf-ffffa6be0001/29/e0/65348c974e50b4527c21253992e0/242089.jpg?height=81",
-      "published_at": "2025-12-30T17:17:28.000Z",
-      "summary": "Israel's recognition is good for Somaliland and historically just. But while it represents yet another blow for the battered principle-based international system, and despite contradictory claims by Israel and the Trump administration, recognizing Somaliland should actually strengthen the argument f"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
