@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-01-02T20:40:59.766Z",
+  "generated_at": "2026-01-02T21:07:26.337Z",
   "items": [
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Countries demand Israel lift Gaza aid restrictions as Palestinians suffer",
+      "url": "https://www.aljazeera.com/news/2026/1/2/countries-demand-israel-lift-gaza-aid-restrictions-as-palestinians-suffer?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-02T20:53:59.000Z",
+      "summary": "Qatar, Turkiye and six other countries urge &#039;unimpeded&#039; humanitarian access to Gaza as Israel cracks down on aid groups."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Yemen's southern separatists call for path to independence amid fighting over key region",
+      "url": "https://www.haaretz.com/middle-east-news/2026-01-02/ty-article/.premium/yemens-southern-separatists-call-for-path-to-independence-amid-fighting-over-key-region/0000019b-8036-d019-a9df-afbffb9b0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-804a-d487-a3bf-f94f30650000/4d/a8/d977d91040fb8a4de3afb38bdb8d/246822.jpg?height=81",
+      "published_at": "2026-01-02T20:43:05.000Z",
+      "summary": "The surprise advance by the separatists in early December shifted power in Yemen, which has been at war for more than a decade, fracturing the coalition against the Houthis and laying bare divisions between Gulf allies Saudi Arabia and the UAE"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הצעירים שנעדרים בשווייץ, והמבלים שחגגו מול האש בשניות הקריטיות: \"מים לא עזרו\"",
+      "url": "https://www.ynet.co.il/news/article/ryfigthnzx",
+      "image": null,
+      "published_at": "2026-01-02T20:42:13.000Z",
+      "summary": "כ-40 נהרגו, עוד 119 נפגעו - אבל משפחות רבות, גם של בני 15 ו-16 - עדיין לא יודעות מה עלה בגורלם. עמוד אינסטגרם הוקם כדי לקשר בין הקרובים לבין מי שאולי שרד. פרדיננד תיעד את הרגעים הראשונים של הלהבות, ניסה לכבות - וברח: \"תפסתי את החברה ודחפתי במעלה המדרגות, היה כדור אש\". בין הנפגעים גם כדורגלן צעיר עם "
+    },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
@@ -230,6 +260,16 @@
       "image": null,
       "published_at": "2026-01-02T17:38:22.000Z",
       "summary": "The Foreign Ministry also said it's in contact with the woman's family and is working with local authorities to find her whereabouts."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Watch: Earthquake interrupts Mexico's president during press conference",
+      "url": "https://www.bbc.com/news/videos/ckgkn3v8mndo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b7/live/21ef4870-e7fc-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2026-01-02T17:37:25.000Z",
+      "summary": "The 6.5 magnitude trembler shook buildings and set off the country's earthquake alert system. "
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -839,7 +879,7 @@
       "url": "https://www.haaretz.com/us-news/2026-01-02/ty-article/trump-u-s-locked-and-loaded-and-ready-to-protect-iran-protesters-from-regime/0000019b-7ded-d487-a3bf-fded78910000",
       "image": "https://img.haarets.co.il/bs/0000019b-6fb8-d7b3-afff-7ff940880000/79/f2/2c23c1f64f769402c4924037dcdc/235058.jpg?height=81",
       "published_at": "2026-01-02T11:00:08.000Z",
-      "summary": "A senior ‌adviser to Iran's Supreme ⁠Leader responded to Trump's threat, said ‍that U.S. interference in protests ‍would lead ‌to chaos across the region"
+      "summary": "Iran's foreign minister responded by saying that given 'Trump's deployment of the National Guard within U.S. borders, he of all people should know that criminal attacks on public property cannot be tolerated'"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -990,16 +1030,6 @@
       "image": null,
       "published_at": "2026-01-02T08:23:37.000Z",
       "summary": "איום דרמטי של נשיא ארה\"ב, לאחר כמעט שבוע של גל הפגנות. \"אנחנו דרוכים ומוכנים לפעולה\", כתב טראמפ. יועצו של חמינאי: \"התערבות אמריקנית תוביל לכאוס באזור כולו. תדאגו לחיילים שלכם\". אתמול נהרגו לפי הדיווחים לפחות 5 בני אדם בעימותים, בהם מפגינים - ומוחים קראו \"יחי השאה\" בעיר הקדושה לשיעים"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Swiss officials face painful task of identifying victims of deadly bar fire",
-      "url": "https://www.aljazeera.com/news/2026/1/2/swiss-officials-face-painful-task-of-identifying-deadly-bar-fire-victims?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-02T08:12:45.000Z",
-      "summary": "Investigators warn that with some of the bodies badly burned, the identification process could take weeks."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1170,16 +1200,6 @@
       "image": null,
       "published_at": "2026-01-02T04:50:00.000Z",
       "summary": "הבחירות לרב העיר של הוד השרון היו תמונה עגומה של הכוחות שמתיימרים להיות ליברלים אבל נופלים לפוליטיקה קטנה - על חשבון הציבור כולו, ובפרט יוצאי ברית-המועצות. הבחירות הצפויות לרב העיר בתל אביב יכולות להיות פתח של תקווה לשינוי"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "העימות בין גפני לדרעי צריך להדאיג את כולנו",
-      "url": "https://www.ynet.co.il/news/article/rk9wi6qnwe",
-      "image": null,
-      "published_at": "2026-01-02T04:42:00.000Z",
-      "summary": "זה לא עוד קרה על אגו: כך נראית מערכת שלטונית כשמשרות ציבוריות הופכות למטבע עובר לסוחר, והציבור – הדתי והחילוני כאחד – נדחק לשוליים"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1772,16 +1792,6 @@
       "summary": "The Israeli Prime Minister sang the current U.S. President's praises as he concluded a visit where Trump offered public backing to his government's actions, and urged American Jews to 'fight back' against antisemitism"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Watch: Historic Amsterdam church engulfed by fire on New Year's Eve",
-      "url": "https://www.bbc.com/news/videos/ckgkn1xexnno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da0f/live/806b12a0-e6e7-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2026-01-01T11:08:19.000Z",
-      "summary": "The blaze was thought to have started just after midnight and was swiftly declared a major fire"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1880,16 +1890,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-7869-dd73-abff-7aed80b40000/f6/16/490bddc74d0a875fe36726c01e26/242363.jpg?height=81",
       "published_at": "2026-01-01T07:46:06.000Z",
       "summary": "Israel has pushed responsibility for Gaza's civilians onto international aid groups, then smeared, restricted and ultimately barred many of them"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Zohran Mamdani sworn in as first Muslim New York City Mayor",
-      "url": "https://www.bbc.com/news/videos/c4glvg5yrlyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac1/live/1e4a1310-e6dc-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2026-01-01T06:37:27.000Z",
-      "summary": "The Democratic politician took his oath over a Quran in the disused Old City Hall subway station."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2290,16 +2290,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-73f2-d22a-a1bb-77f39b870001/c1/7b/9f9da6b4458abdc799d4f38e87d4/capture.PNG?height=81",
       "published_at": "2025-12-31T10:30:27.000Z",
       "summary": "Ramzi Kassem, a former senior immigration policy adviser in the Biden administration who represented pro-Palestinian and anti-Gaza war activists detained under the Trump administration, will serve as Chief Counsel, guiding Zohran Mamdani's legal strategy"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "The two incarnations of Mohammad Bakri: The actor gave Israelis hope; the director they couldn't handle",
-      "url": "https://www.haaretz.com/life/2025-12-31/ty-article-magazine/.premium/the-two-incarnations-of-mohammad-bakri-one-gave-israelis-hope-the-other-couldnt-handle/0000019b-6a16-d1d0-a9bf-eed768be0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-6a25-dcc6-a5bb-7f3713bb0005/60/60/7dea6e184547b87d96bd6b10a477/64249204.JPG?height=81",
-      "published_at": "2025-12-31T10:02:11.000Z",
-      "summary": "On the screen he brought the noble and upright Palestinian to the Israeli audience. Behind the camera Bakri, who died last week at 72, tried to show Palestinian pain and trauma – and paid a price for it"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
