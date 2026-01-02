@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-01-02T14:09:47.297Z",
+  "generated_at": "2026-01-02T14:41:42.592Z",
   "items": [
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Man shot dead near Bedouin town in southern Israel in suspected crime feud",
+      "url": "https://www.haaretz.com/israel-news/2026-01-02/ty-article/.premium/man-shot-dead-near-bedouin-town-in-southern-israel-in-suspected-crime-feud/0000019b-7ee4-d585-abdf-7ff5c38e0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-7ef8-d585-abdf-7ff947ef0000/03/fb/ec7d768046acb1c2a53d67ac6c63/557825.jpg?height=81",
+      "published_at": "2026-01-02T14:16:52.000Z",
+      "summary": "The killing follows a record year that saw 249 crime-related deaths in Arab society and 308 homicides nationwide – the highest toll in Israel's history – during the tenure of National Security Minister Itamar Ben-Gvir"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Did Tony Blair influence trial of UK soldiers accused of killing Iraqi man?",
+      "url": "https://www.aljazeera.com/news/2026/1/2/did-tony-blair-influence-trial-of-uk-soldiers-accused-of-killing-iraqi-man?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-02T14:09:48.000Z",
+      "summary": "Government files suggest former UK prime minister pressured officials to prevent soldiers being tried in civil courts."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump says he takes more aspirin than recommended: Is that dangerous?",
+      "url": "https://www.aljazeera.com/news/2026/1/2/trump-says-he-takes-more-aspirin-than-recommended-is-that-dangerous?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-02T14:05:52.000Z",
+      "summary": "Revelations about Trump&#039;s use of the blood thinner emerge during a newspaper interview."
+    },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
@@ -435,7 +465,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Watch: Four men rescued from boat teetering on dam edge",
+      "title": "Sailors saved from going over edge of huge dam ",
       "url": "https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bda5/live/b1c7c660-e7b2-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2026-01-02T09:20:10.000Z",
@@ -566,7 +596,7 @@
       "source": "Haaretz — All Headlines",
       "topic": "News",
       "title": "Mamdani revokes BDS, synagogue protest bans in sweeping rollback of Adams orders",
-      "url": "https://www.haaretz.com/israel-news/2026-01-02/ty-article/bds-synagogue-protest-bans-revoked-as-mamdani-scraps-adams-era-orders/0000019b-7d82-d379-a3bb-ffb6487a0000",
+      "url": "https://www.haaretz.com/us-news/2026-01-02/ty-article/bds-synagogue-protest-bans-revoked-as-mamdani-scraps-adams-era-orders/0000019b-7d82-d379-a3bb-ffb6487a0000",
       "image": "https://img.haarets.co.il/bs/0000019b-7d8b-d585-abdf-7ffb84190000/cc/76/9e683d044484be6f0e5cd369b481/258873.jpg?height=81",
       "published_at": "2026-01-02T07:26:13.000Z",
       "summary": "The new mayor voided all Adams-era executive orders issued after his federal indictment, including the city's adoption of the IHRA definition of antisemitism, but pledged in his inaugural address to keep the Office to Combat Antisemitism open"
@@ -922,16 +952,6 @@
       "summary": "NYC mayor nullifies swath of predecessor's actions, including some related to Jewish community and one that opposed the campaign to boycott Israel; retains Office to Combat Antisemitism\nThe post Mamdani revokes IHRA antisemitism definition on day 1, amid broad rejection of Adams orders appeared firs"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Turkmenistan legalises crypto mining and exchanges in shift for economy",
-      "url": "https://www.aljazeera.com/news/2026/1/2/turkmenistan-legalises-crypto-mining-and-exchanges-in-shift-for-economy?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-02T02:49:26.000Z",
-      "summary": "Legislation signed by President Serdar Berdimuhamedov establishes a licensing scheme overseen by country&#039;s central bank."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -960,16 +980,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8d4/live/cb927110-df5d-11f0-a8dc-93c15fe68710.jpg",
       "published_at": "2026-01-02T02:15:28.000Z",
       "summary": "Millions around the world are living in the shadows as stateless people as they lack official papers."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "At least 17 dead as heavy rains trigger flash floods in Afghanistan",
-      "url": "https://www.aljazeera.com/news/2026/1/2/at-least-17-dead-as-heavy-rains-trigger-flash-floods-in-afghanistan?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-02T02:09:21.000Z",
-      "summary": "Dead include five members of a family in the Kabkan district in the province of Herat."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2210,16 +2220,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-70e8-d7b3-afff-7ae9f4770000/17/e4/8062a5834b03951619a022eb649c/291358.jpg?height=81",
       "published_at": "2025-12-30T22:07:43.000Z",
       "summary": "The anti-government demonstrators on Kaplan Street in Tel Aviv look to countries like Hungary to understand the transformation of Israel into an authoritarian regime. But the model for emulation is right under their noses"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israel has joined Iran, Lebanon and Syria as a state sponsor of terror. Just look at the West Bank",
-      "url": "https://www.haaretz.com/opinion/2025-12-31/ty-article-opinion/.premium/israel-has-joined-iran-lebanon-and-syria-as-a-state-sponsor-of-terror/0000019b-70c2-dd15-a3fb-f9e3ee2a0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-70de-da0b-a1bf-fcfef7390000/20/dc/d80fc7da4ded95039e001294c20c/938334.jpg?height=81",
-      "published_at": "2025-12-30T22:05:55.000Z",
-      "summary": ""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
