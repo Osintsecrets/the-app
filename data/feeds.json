@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-01-02T03:57:29.814Z",
+  "generated_at": "2026-01-02T04:35:02.149Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הבדיה בנתונים הדמוגרפיים על קצב הגידול באוכלוסייה",
+      "url": "https://www.ynet.co.il/news/article/rjz2cx4n11x",
+      "image": null,
+      "published_at": "2026-01-02T04:23:00.000Z",
+      "summary": "קשה להסביר כיצד הגיעו חוקרי מכון טאוב לטענה על בלימה בקצב צמיחת האוכלוסיה לפחות מ-1% בשנה, כאשר המספרים עצמם מספרים סיפור שונה לגמרי"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Israel offers help to Switzerland after deadly ski resort blaze kills dozens",
+      "url": "https://www.timesofisrael.com/israel-offers-help-to-switzerland-after-deadly-ski-resort-blaze-kills-dozens/",
+      "image": null,
+      "published_at": "2026-01-02T04:21:22.000Z",
+      "summary": "Three Jewish people said missing; Herzog offers condolences, notes Israeli experience in dealing with disasters; authorities still identifying victims, cause of fire\nThe post Israel offers help to Switzerland after deadly ski resort blaze kills dozens appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "72 מ\"מ בפחות מיממה: שיאנית הגשם, מתי הוא יחזור - והתחזית המלאה לסוף השבוע",
+      "url": "https://www.ynet.co.il/news/article/rynhhivnzg",
+      "image": null,
+      "published_at": "2026-01-02T04:19:30.000Z",
+      "summary": "גשמים מקומיים יוסיפו לרדת - אך ברובם יהיו קלים. תורגש ירידה קלה נוספת בטמפרטורות בעיקר במרכז ובדרום. בימים הקרובים כבר לא צפוי לרדת גשם, אך בכמה אתרים בעולם סבורים שהוא יחזור בשבוע הבא"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "The root of all evil: Bibi-ist gangs ignore the real stench and target Israel's chief justice",
+      "url": "https://www.haaretz.com/israel-news/2026-01-02/ty-article/.premium/the-root-of-all-evil-bibi-ist-gangs-ignore-the-real-stench-target-israels-chief-justice/0000019b-7b49-d379-a3bb-fb7daaf70000",
+      "image": "https://img.haarets.co.il/bs/0000019b-7b70-d487-a3bf-fb7dd50d0001/c3/99/a7e4158846c5ba89a8c9b217f0b1/biderman-verter.jpg?height=81",
+      "published_at": "2026-01-02T04:00:09.000Z",
+      "summary": "When it comes to Supreme Court President Isaac Amit, the Netanyahu purists suddenly care about conflicts of interest ■ The prime minister has adopted the same terminology used by the Kahanists in his coalition ■ And Avi Dichter hid behind a single word to justify breaking his promise"
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -295,16 +335,6 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "72 מ\"מ בפחות מיממה: שיאנית הגשם, מתי הוא יחזור - והתחזית המלאה לסוף השבוע",
-      "url": "https://www.ynet.co.il/news/article/rynhhivnzg",
-      "image": null,
-      "published_at": "2026-01-01T22:08:52.000Z",
-      "summary": "ברחבי הארץ ירדו גשמים רבים, ובחלק מהתחנות כמויות המשקעים היו גבוהות מ-60 מ\"מ. קרני שומרון מובילה את הטבלה עם יותר מ-72 מ\"מ, גם בגולן היה רטוב. הלילה צפויים גשמים מהצפון עד צפון הנגב, עם צפי לשיטפונות במדבר - וחשש מהצפות לאורך מישור החוף "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "ואלס עם זמיר / חנוך דאום",
       "url": "https://www.ynet.co.il/news/article/yokra14627489",
       "image": null,
@@ -385,11 +415,21 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "במלון בירושלים, כחודש לפני הטבח: ישראל ביקשה מבכיר קטארי עוד כספים לחמאס",
+      "title": "עגלת הקפה הראשונה בקריית שמונה: \"ראיתי את המפונים בת\"א, היה לי ויז'ן\"",
+      "url": "https://www.ynet.co.il/news/article/yokra14633536",
+      "image": null,
+      "published_at": "2026-01-01T22:00:00.000Z",
+      "summary": "מאיה אמיר, שפונתה כמו רבים במהלך המלחמה, רצתה להביא את החוויה התל אביבית לבירת הגליל. אז היא פתחה את \"מאיולה\" - עגלת הקפה הראשונה אי פעם בעיר. \"כשפתאום נפתח מקום כזה צבעוני, זה עושה משהו לנשמה\", סיפרה"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הפגישה החשאית שבה ישראל ביקשה מקטאר עוד כסף לחמאס",
       "url": "https://www.ynet.co.il/news/article/yokra14633928",
       "image": null,
       "published_at": "2026-01-01T22:00:00.000Z",
-      "summary": "ערב 7 באוקטובר ממשלת נתניהו ביקשה מקטאר להעביר עוד מימון לחמאס בעזה. הפגישה נערכה כחודש לפני הטבח, בניסיון נואש של הדרג המדיני ומערכת הביטחון לקנות שקט בעזה. קטאר מסרה לבכירים הישראלים: חמאס לא רוצה הסלמה ביטחונית - פניו להסדרה"
+      "summary": "ערב 7 באוקטובר ממשלת נתניהו ביקשה מקטאר להעביר עוד מימון לחמאס בעזה. הפגישה נערכה במלון ירושלמי כחודש לפני הטבח, בניסיון נואש של הדרג המדיני ומערכת הביטחון לקנות שקט בעזה. קטאר מסרה לבכירים הישראלים: חמאס לא רוצה הסלמה ביטחונית - פניו להסדרה"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1102,16 +1142,6 @@
       "summary": "Opening the gates for free at games' 20th minute is the first minute allowed by the African soccer federation – and it's a solution when unmoneyed fans can't simply hop in their cars or take a train to another country"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Somaliland denies it agreed to accept Gaza refugees or host Israeli military bases",
-      "url": "https://www.timesofisrael.com/somaliland-denies-it-agreed-to-accept-gaza-refugees-or-host-israeli-military-bases/",
-      "image": null,
-      "published_at": "2026-01-01T15:29:18.000Z",
-      "summary": "Hargeisa says accusation by Somalia's president aims to undermine its diplomatic progress, insists relations with Israel conducted with respect for international law\nThe post Somaliland denies it agreed to accept Gaza refugees or host Israeli military bases appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1130,16 +1160,6 @@
       "image": null,
       "published_at": "2026-01-01T15:20:05.000Z",
       "summary": "Those set to be charged are Marad Hariri, 41, from Umm el-Fahm; Nabil Arian, 31, from Arara; Yosef Hadidja, 33, from Kalansuwa; Mohammed Akel, 37, from Arara; and Murtada Akel, 26, also from Arara."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ללמוד לטפל בתנינים: סגן נציב שב\"ס הגיע עם צוות לחמת גדר",
-      "url": "https://www.ynet.co.il/news/article/b1bt311v4zl",
-      "image": null,
-      "published_at": "2026-01-01T15:17:03.000Z",
-      "summary": "בשב\"ס בוחנים הקמה של כלא מוקף תנינים - שמזכיר את זה שהקים טראמפ בפלורידה. קצינים בארגון הגיעו לסיור בחווה בחמת גדר כדי ללמוד איך לטפל בהם. העלויות - והדמות שדוחפת את המהלך"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1180,16 +1200,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-79e6-d487-a3bf-f9eff8bb0007/51/c4/3d2d5131475f8080bac390798587/757755-2.jpg?height=81",
       "published_at": "2026-01-01T14:51:38.000Z",
       "summary": "After first-term Trump ambassador Friedman was appointed chair of Pegasus-maker NSO as part of a takeover by a Hollywood producer, the CEO steps down amid a possible shift in U.S. spyware policy under Donald Trump"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "בחמאס טוענים: \"האמריקנים מבינים את המורכבות של סוגיית הנשק\"",
-      "url": "https://www.ynet.co.il/news/article/bjvigzvvwx",
-      "image": null,
-      "published_at": "2026-01-01T14:44:29.000Z",
-      "summary": "ב\"אל-ערבי אל-ג'דיד\" הקטארי דווח, מפי מקורות בחמאס, כי בפגישה שנערכה לפני כשבועיים במיאמי בין וויטקוף לגורמים מקטאר, מצרים וטורקיה - הוחלט להאיץ את שלב ב'. לטענות המקורות בארגון הטרור, \"הממשל האמריקני מבין את אופי סוגיית הנשק ואת מורכבותה\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2250,16 +2260,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d25/live/dd2a5d60-e59e-11f0-8bbe-6935d94eeebc.jpg",
       "published_at": "2025-12-30T17:33:40.000Z",
       "summary": "Two of the main sticking points involve territory and the fate of Europe's biggest nuclear plant, which is currently occupied by Russia."
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israeli National Guard chief says large-scale operation in Bedouin village is meant to 'send a message'",
-      "url": "https://www.haaretz.com/israel-news/2025-12-30/ty-article/.premium/israeli-national-guard-chief-says-operation-in-bedouin-village-meant-to-send-a-message/0000019b-6fb8-d019-a9df-6fbf34720000",
-      "image": "https://img.haarets.co.il/bs/0000019b-6fb9-dd15-a3fb-fffb7abe0001/cb/f9/c285a01240c3a08b5abd7ce20db2/241553.jpg?height=81",
-      "published_at": "2025-12-30T17:21:19.000Z",
-      "summary": "The raid followed vandalism in nearby communities and officially aimed to catch suspects and illegal weapons, but residents said it felt like collective punishment, with some children briefly detained and homes searched"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
