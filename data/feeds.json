@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-01-03T03:48:15.515Z",
+  "generated_at": "2026-01-03T04:22:07.090Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Saudi Arabia calls for Yemeni factions to attend 'dialogue' in Riyadh",
+      "url": "https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d0e/live/a89b47b0-e73f-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2026-01-03T04:16:21.000Z",
+      "summary": "It comes after clashes and an independence bid in southern Yemen bring Saudi and UAE-backed forces into confrontation."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "המערכת הגשומה מאחורינו, לקראת התחממות | התחזית המלאה",
+      "url": "https://www.ynet.co.il/news/article/w6vxcexmf",
+      "image": null,
+      "published_at": "2026-01-03T04:03:34.000Z",
+      "summary": "ימים ללא משקעים בפתח, ועם תחילת השבוע תחול גם עלייה הדרגתית בטמפרטורות. רוחות חזקות צפויות בהרי המרכז והצפון. ומתי הגשם עשוי לשוב?"
+    },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
@@ -772,16 +792,6 @@
       "summary": "הסוס השיקומי מהחווה במושב קלחים אותר בפזורה ויושב לבעליו. גניבתו הביאה לפשיטה המשטרתית על תראבין, שגררה פעולות נקם ביישובים יהודיים - ואחריה את המבצע ביישוב"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Yemen clashes bring Saudi- and UAE-backed forces into confrontation",
-      "url": "https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d0e/live/a89b47b0-e73f-11f0-b67b-690eb873de1b.jpg",
-      "published_at": "2026-01-02T14:59:53.000Z",
-      "summary": "The powerful Gulf allies back rival sides in an escalating conflict which threatens to divide Yemen. "
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1180,16 +1190,6 @@
       "image": null,
       "published_at": "2026-01-02T08:23:37.000Z",
       "summary": "איום דרמטי של נשיא ארה\"ב, לאחר כמעט שבוע של גל הפגנות. \"אנחנו דרוכים ומוכנים לפעולה\", כתב טראמפ. יועצו של חמינאי: \"התערבות אמריקנית תוביל לכאוס באזור כולו. תדאגו לחיילים שלכם\". אתמול נהרגו לפי הדיווחים לפחות 5 בני אדם בעימותים, בהם מפגינים - ומוחים קראו \"יחי השאה\" בעיר הקדושה לשיעים"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"מיין קאמפף\" בערבית עם תמונת היטלר: שב\"ח פלסטיני נעצר לצד ספר הצורר הנאצי",
-      "url": "https://www.ynet.co.il/news/article/rkxprlbvbl",
-      "image": null,
-      "published_at": "2026-01-02T08:10:06.000Z",
-      "summary": "שוטרי תחנת בת ים עצרו את השב\"ח באתר בנייה בעיר. מעסיקו עוכב לחקירה, המקום נסגר למשך 30 ימים"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
