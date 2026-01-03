@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-03T07:09:54.775Z",
+  "generated_at": "2026-01-03T07:36:08.438Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -20,6 +20,16 @@
       "image": null,
       "published_at": "2026-01-03T07:59:50.000Z",
       "summary": "Amit Weiss, an acting and cinema student at Sapir Academic College near Sderot, and Talia Novich, a technical writer in Haifa, are creatively inseparable."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Explosions heard over Venezuelan capital Caracas amid US tensions",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/explosions-heard-over-venezuelan-capital-caracas-amid-us-tensions-2?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-03T07:10:18.000Z",
+      "summary": "Explosions and smoke were reported across Venezuela’s capital Caracas, amid spiralling tensions with the US."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -65,11 +75,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "דרמה בוונצואלה: פיצוצים בבירה קראקס, דיווחים על מסוקים באוויר | תיעוד",
+      "title": "דרמה בוונצואלה: פיצוצים בבירה קראקס, דיווחים על מטוסים ומסוקים באוויר | תיעוד",
       "url": "https://www.ynet.co.il/news/article/bkxhd4ivzx",
       "image": null,
       "published_at": "2026-01-03T06:33:36.000Z",
-      "summary": "לפחות 7 פיצוצים נשמעו בבירת ונצואלה, ולפי דיווחים גם מסוקים נראו באוויר. ברקע: החשש שהביעו בוונצואלה מפלישה אמריקנית, אחרי שהנשיא טראמפ הבטיח מתקפות על אדמתה במסגרת הקמפיין להדחת הרודן ניקולס מדורו"
+      "summary": "לפחות שבעה פיצוצים נשמעו בבירת ונצואלה בסביבות 2 לפנות בוקר, אש תועדה בנמל תעופה וגם סמוך למטה משרד ההגנה, לפי דיווחים גם כלי טיס נראו באוויר. תושבים מבוהלים ברחו לרחובות, הפסקות חשמל נרחבות. ברקע: איומיו של נשיא ארה\"ב טראמפ לתקוף - כחלק מקמפיין הלחץ שלו להדחת הרודן ניקולס מדורו"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -110,6 +120,16 @@
       "image": null,
       "published_at": "2026-01-03T05:56:06.000Z",
       "summary": "Saudi Arabia&#039;s Foreign Ministry invites Yemen&#039;s southern factions to attend a &#039;dialogue&#039; in Riyadh."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Watch: Over 100 firefighters on the scene of Denver blaze",
+      "url": "https://www.bbc.com/news/videos/c9vxnn419mro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/923e/live/67dc09e0-e865-11f0-a8dc-93c15fe68710.jpg",
+      "published_at": "2026-01-03T05:38:51.000Z",
+      "summary": "No injuries have been reported as a result of the fire, with the cause still under investigation."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -395,7 +415,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Hundreds of billions or a trillion? The true cost of Israel's longest and most costly war",
+      "title": "Hundreds of billions or a trillion: What is the true cost of Israel's longest and most costly war?",
       "url": "https://www.haaretz.com/israel-news/2026-01-03/ty-article-magazine/.premium/what-did-israels-longest-and-most-expensive-war-really-cost/0000019b-801e-dd73-abff-92de43150000",
       "image": "https://img.haarets.co.il/bs/0000019b-5059-d2b2-affb-567fb14f0000/08/b7/08b213a24a3f88566849cfb81827/693716.jpg?height=81",
       "published_at": "2026-01-02T23:08:43.000Z",
@@ -1050,16 +1070,6 @@
       "image": null,
       "published_at": "2026-01-02T12:47:53.000Z",
       "summary": "האם אנחנו בדרך לתקדים משפטי בהרחבת ההתערבות של בג\"ץ בפיטורי שרים? בהרב-מיארה ביקשה להורות לרה\"מ על פיטורי השר לביטחון לאומי, בן גביר מצידו כינה את היועמ\"שית \"עבריינית\" וקרא לנתניהו להדיח דווקא אותה. הסכנה למשבר חוקתי תקדימי, ואתגר ראש מערכת אכיפת החוק מול עבר לא כל כך מוצלח בבג\"ץ"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "These are the competing groups controlling territory in Yemen",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/these-are-the-competing-groups-controlling-territory-in-yemen?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-02T12:47:11.000Z",
-      "summary": "Saudi-backed coalition forces in Yemen have launched air strikes targeting southern separatists."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
