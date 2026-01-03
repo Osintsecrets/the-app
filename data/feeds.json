@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-01-03T18:13:34.089Z",
+  "generated_at": "2026-01-03T18:47:11.110Z",
   "items": [
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israelis protest against Netanyahu gov't judicial haul, call for Oct. 7 inquiry",
+      "url": "https://www.haaretz.com/israel-news/2026-01-03/ty-article/.premium/anti-government-rallies-take-place-across-israel-as-anniversary-of-judical-overhaul-nears/0000019b-84b9-d487-a3bf-fdbdf6380000",
+      "image": "https://img.haarets.co.il/bs/0000019b-84fe-d019-a9df-afff5a680001/35/cf/2847eabe47699e0e86006fe22153/whatsapp-image-2026-01-03-at-19-44-41.jpeg?height=81",
+      "published_at": "2026-01-03T18:14:54.000Z",
+      "summary": "Protests in Tel Aviv mark three years since the launch of the judicial overhaul will feature the parents of slain hostage Itay Chen, while a right-wing counter-protest in Haifa is being held for the first time near the weekly march in northern Israel calling for an October 7 probe"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": " מי יחליף את ניקולס מדורו",
+      "url": "https://www.ynet.co.il/news/article/bkega684wl",
+      "image": null,
+      "published_at": "2026-01-03T18:12:11.000Z",
+      "summary": "טראמפ אמר כי לעת עתה ארה\"ב תנהל את ונצואלה עד להעברת שלטון מסודרת, אך לא הציג את הקריטריונים שלה וגם לא את מסגרת הזמנים. אלה המועמדים האפשריים להחלפת הרודן, שיצטרכו להסכים לדרישות הנפט של נשיא ארה\"ב"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אהרן ברק מכריז: \"ישראל אינה דמוקרטיה ליברלית, המשטר נשלט על-ידי אדם אחד\"",
+      "url": "https://www.ynet.co.il/news/article/sjzfwpivbg",
+      "image": null,
+      "published_at": "2026-01-03T18:08:29.000Z",
+      "summary": "נשיא בית המשפט העליון לשעבר אמר בהצהרה בהפגנה לציון 3 שנים למהפכה המשפטית כי הממשלה מנסה להשתלט על מערכת המשפט כדי לחולל את \"שלטון השלטון בחוק\", והזהיר: \"המשטרה מפעילה כוח בצורה לא שוויונית ולא מרוסנת\". עימותים בין מפגינים לפעילי ימין שנתמכים בידי הממשלה"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "‘Team’ from US to run Venezuela after ‘capture’ of Maduro",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/team-from-us-to-run-venezuela-after-capture-of-maduro?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-03T18:08:06.000Z",
+      "summary": "US President Donald Trump says a ‘team’ from the US will be running Venezuela."
+    },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
@@ -35,7 +75,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Israel commends US operation that led to capture of Venezuala's Maduro",
+      "title": "Israel commends US operation that led to capture of Venezuela's Maduro",
       "url": "https://www.jpost.com/israel-news/article-882170",
       "image": null,
       "published_at": "2026-01-03T17:57:51.000Z",
@@ -195,7 +235,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "טראמפ הכריז: \"ננהל את ונצואלה עד לחילופי שלטון בטוחים\"",
+      "title": "טראמפ הכריז, אחרי לכידת מדורו: \"ננהל את ונצואלה עד לחילופי שלטון בטוחים\"",
       "url": "https://www.ynet.co.il/news/article/ryf4uni4wl",
       "image": null,
       "published_at": "2026-01-03T16:01:36.000Z",
@@ -302,6 +342,16 @@
       "summary": "המשטרה הטילה צו איסור פרסום על ההתפתחות החדשה בפרשה, שנחקרת כתיק רצח ולא פוצחה במשך שלושה עשורים"
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Explosions and smoke at La Guaira port",
+      "url": "https://www.bbc.com/news/videos/c20zgq02jp0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a739/live/6d6968a0-e8b3-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2026-01-03T14:59:21.000Z",
+      "summary": "Venezuela has declared a national emergency, denouncing \"extremely serious military aggression\""
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -365,11 +415,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Senegal vs Sudan – AFCON 2025",
+      "title": "Senegal vs Sudan 3-1: AFCON 2025 – as it happened",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/1/3/live-senegal-vs-sudan-afcon-2025?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-03T13:33:21.000Z",
-      "summary": "Follow our live build-up with full team news, ahead of our text commentary stream of the last 16 tie."
+      "summary": "All the "
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -592,6 +642,16 @@
       "summary": "A 6.5-magnitude earthquake struck southern and central Mexico on Friday, killing and injuring several people."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Reporter in Caracas describes hearing loud bangs and planes",
+      "url": "https://www.bbc.com/news/videos/cx2x7e6xlwwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a61e/live/25e45450-e894-11f0-a8dc-93c15fe68710.jpg",
+      "published_at": "2026-01-03T10:02:36.000Z",
+      "summary": "Ana Vanessa Herrero is in Caracas and says she began hearing planes at 02:00 local time.\n\n"
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -600,16 +660,6 @@
       "image": null,
       "published_at": "2026-01-03T09:51:14.000Z",
       "summary": "הפיצוצים שנשמעו הלילה בקראקס לא היו אירוע נקודתי. הם היו שלב אחרון בתהליך. טראמפ כבר לא מאיים. הוא מבצע. פגיעות במתקני צבא, בנמלי תעופה ובמערכות חשמל לא נועדו להרתיע כנופיות אלא לשתק משטר"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump strikes Venezuela “to force Maduro out”",
-      "url": "https://www.aljazeera.com/video/quotable/2026/1/3/trump-strikes-venezuela-to-force-maduro-out?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-03T09:41:20.000Z",
-      "summary": "The US strikes in Venezuela aim at removing president Nicolas Maduro, says analyst Elias Ferrer"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -982,16 +1032,6 @@
       "summary": "The British news outlet said it was 'pleased to have reached an agreement' with the Horenstein family after they were paid an unwelcome visit by a BBC film crew after their Gaza border community home was attacked by Hamas terrorists on Oct. 7"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"הזיקוקים התקרבו לתקרה והציתו את האש\": ישראלית מנותקת קשר בשווייץ",
-      "url": "https://www.ynet.co.il/news/article/hkxhfis4bx",
-      "image": null,
-      "published_at": "2026-01-02T22:21:22.000Z",
-      "summary": "במשרד החוץ עדכנו כי בשריפה שבה נספו כ-40 בני אדם בקראנס-מונטנה, הייתה בעלת אזרחות ישראלית שמחזיקה אזרחות נוספת. הרשויות בשווייץ מעריכות: הזיקוקים על בקבוקי השמפניה גרמו לשריפה הקטלנית - כי התקרבו מדי לתקרה"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1000,16 +1040,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9616/live/48ee9c10-e7fb-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2026-01-02T22:20:53.000Z",
       "summary": "Inside the K-beauty industry that has made South Korea a major player in worldwide beauty market."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"ההגנה על יהודי העיר תהיה במוקד שלי\": ההבטחה של ממדאני אחרי סערת ביטול הצווים",
-      "url": "https://www.ynet.co.il/news/article/h1n0sshewg",
-      "image": null,
-      "published_at": "2026-01-02T22:17:29.000Z",
-      "summary": "ראש העיר הטרי של ניו יורק הצדיק את החלטתו לבטל את האיסור העירוני על החרמת ישראל ולמחוק את אימוץ הגדרת האנטישמיות הבינ\"ל - ולא חזר בו מהמהלך: \"נילחם בשנאה\". במשרד החוץ תקפו: \"זו לא מנהיגות, הוא מוסיף דלק אנטישמי לאש שכבר בוערת\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1112,26 +1142,6 @@
       "summary": "The 6.5 magnitude trembler shook buildings and set off the country's earthquake alert system. "
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Woman killed in suspected mountain lion attack in US",
-      "url": "https://www.bbc.com/news/articles/c9vxp4ng8d8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ec/live/c717a060-e7fa-11f0-bd80-5b82e99acd48.jpg",
-      "published_at": "2026-01-02T17:18:36.000Z",
-      "summary": "Colorado officials said that it would be the first time in more than 25 years that a mountain lion killed a person in the state, if confirmed."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Anthony Joshua's driver charged over Nigeria crash that killed two",
-      "url": "https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/445a/live/c2bcd920-e7f7-11f0-aae2-2191c0e48a3b.jpg",
-      "published_at": "2026-01-02T17:01:00.000Z",
-      "summary": "The former heavyweight champion was a passenger in the crash, which killed two of his team members on Monday."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1172,16 +1182,6 @@
       "summary": "Top military intelligence commander Amit Saar sent four warning letters to Netanyahu in 2023 that Israel's political and social crisis, which erupted due to the government's judicial coup efforts, was encouraging potential aggression from Iran, Hezbollah and Hamas. Saar died of cancer at the age of "
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "China's BYD overtakes Tesla as world's top EV seller",
-      "url": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc04/live/70e67190-e7db-11f0-aae2-2191c0e48a3b.jpg",
-      "published_at": "2026-01-02T15:03:38.000Z",
-      "summary": "It  marks the first time the Chinese firm has outpaced its American rival for annual sales."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1190,16 +1190,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-7f01-d487-a3bf-ff0d68280007/37/6f/a19d4ce5439387a57a1b8d7b716e/sara-2.jfif?height=81",
       "published_at": "2026-01-02T14:38:15.000Z",
       "summary": "The Israeli PM's office has distributed numerous altered photographs designed to present Sara Netanyahu more favorably over the past year, a practice that has caused embarrassment within the GPO because of the disparity between the original images and how historic moments were ultimately portrayed"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US slashes proposed tariffs on Italian pasta imports",
-      "url": "https://www.bbc.com/news/articles/c70lw7w89epo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2765/live/abc6c530-e7db-11f0-ab5d-b546e7209f13.jpg",
-      "published_at": "2026-01-02T14:20:35.000Z",
-      "summary": "The plan to impose steep tariffs on 13 producers could have seen major price rises for US consumers."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1272,16 +1262,6 @@
       "summary": "The bill would formally recognize Israeli Sign Language while maintaining the status of other sign languages used in Israel. It would also require the state to preserve, develop, and promote ISL."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Dozens missing after boat carrying 200 migrants sinks off Gambia ",
-      "url": "https://www.bbc.com/news/articles/clynvkwglx4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/831a/live/bca60aa0-e79f-11f0-850a-49d22c425bbf.jpg",
-      "published_at": "2026-01-02T11:46:34.000Z",
-      "summary": "It is the latest accident on one of the world’s most dangerous routes used by West Africans trying to reach Spain. "
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1320,16 +1300,6 @@
       "image": null,
       "published_at": "2026-01-02T10:46:03.000Z",
       "summary": "Movers and shakers in Israeli society."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump says he takes higher daily dose of aspirin than doctors recommend",
-      "url": "https://www.bbc.com/news/articles/c701z7g0ppro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f05e/live/4b73ba60-e779-11f0-aa4d-3b5649ab110b.jpg",
-      "published_at": "2026-01-02T09:57:49.000Z",
-      "summary": "In an interview about his health, the US president says: \"I don't want thick blood pouring through my heart\"."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2280,16 +2250,6 @@
       "image": "https://img.haarets.co.il/bs/00000195-9ffe-d687-abb5-9fff94790000/8d/0d/685381a647f58f9d1dbc4b86d7e2/362966-1.jpg?height=81",
       "published_at": "2025-12-31T16:32:10.000Z",
       "summary": "The Coalition for Talmud Torah and Security declared they will only donate to Israeli Torah institutions that do not denounce the IDF, 'while they bear the burden of defending Jewish lives,' as U.S. ultra-Orthodox Jews have sent over $150 million in donations in the last two years"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "'Rise up!': Former PM Bennett, two Israeli cabinet members, voice support for Iranian protesters",
-      "url": "https://www.haaretz.com/israel-news/2025-12-31/ty-article/.premium/rise-up-bennett-two-israeli-cabinet-members-voice-support-for-iranian-protesters/0000019b-74f9-da6c-a3df-7ef9422d0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-750b-d5ec-abdf-7f4f9f880001/63/3e/21c5406048b18e676abb56fb4c98/gila-gamliel-reza-palvi.jfif?height=81",
-      "published_at": "2025-12-31T16:12:24.000Z",
-      "summary": "Former Prime Minister Naftali Bennet encouraged the people of Iran to 'rise up!' in a video posted to X, as one sitting minister posted a message in Persian and another posted a selfie wearing a hat that read 'Make Iran Great Again'"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
