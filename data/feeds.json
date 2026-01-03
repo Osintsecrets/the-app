@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-03T20:40:18.544Z",
+  "generated_at": "2026-01-03T21:07:54.793Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Police arrest man accused of impersonating healthcare professional, selling false measles cure",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-882154",
+      "image": null,
+      "published_at": "2026-01-03T23:00:04.000Z",
+      "summary": "The arrest is part of the Health Ministry’s effort to combat misinformation and the dispensing of false medical treatments by unqualified individuals. "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,11 +25,31 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "שרלוט, ישראלית בת 15, והאחיות היהודיות אליסיה ודיאנה, נעדרות באסון בשוויץ",
+      "title": "רוסיה, סין, איראן, ישראל: \"הטרף הקל\" של טראמפ בחצר האחורית - וההשלכות בעולם",
+      "url": "https://www.ynet.co.il/news/article/skvghjvnzg",
+      "image": null,
+      "published_at": "2026-01-03T20:51:18.000Z",
+      "summary": "למבצע ללכידת הרודן מדורו היו סיבות כלכליות, אסטרטגיות ופוליטיות שרק חלקן מוצדקות. ארה\"ב לא רק \"ערפה את המשטר\", אלא כבשה למעשה את ונצואלה עד שיקום בה משטר פוליטי אחר. הדוקטרינה שמאחורי המהלך, העניין בעתודות הנפט של קראקס, המכות לפוטין ואיראן, האפשרות שסין \"תחקה\" - וגם הלקח לנתניהו"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israel welcomes Trump's attack on Venezuela as a blow to the Iranian axis",
+      "url": "https://www.haaretz.com/israel-news/2026-01-03/ty-article/.premium/israel-welcomes-trumps-attack-on-venezuela-as-a-blow-to-the-iranian-axis/0000019b-853a-d487-a3bf-fd3f6b2c0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-8566-d487-a3bf-fd6f83130001/83/99/d397448844faba57a3111b8e0349/267694.jpg?height=81",
+      "published_at": "2026-01-03T20:35:26.000Z",
+      "summary": "The Venezuelan regime, which severed ties with Jerusalem in 2009, long served as a key Iranian ally and a suspected hub for Hezbollah. Israeli officials hope Trump's attack will dismantle Tehran's influence and solidify South America's rightward turn"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "שרלוט, ישראלית בת 15, והאחיות היהודיות אליסיה ודיאנה, נעדרות באסון בשווייץ",
       "url": "https://www.ynet.co.il/news/article/rkpptlvvwe",
       "image": null,
       "published_at": "2026-01-03T20:33:56.000Z",
-      "summary": ""
+      "summary": "שרלוט נידהאם נעדרת מאז האסון בעיירת הסקי בהרי האלפים, שבו נספו לפי ההערכות כ-40 בני אדם. גם האחיות היהודיות אליסיה ודיאנה גונסט בנות ה-15 וה-14, שמוצאן איטלקי, נעדרות. חשש כבד לחיי שלושתן"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -845,11 +875,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Trump: 'U.S. is going to run Venezuela,' after president Maduro captured in 'large-scale' operation in Caracas",
+      "title": "Trump: 'U.S. is going to run Venezuela,' after President Maduro captured in 'large-scale' operation in Caracas",
       "url": "https://www.haaretz.com/world-news/2026-01-03/ty-article/smoke-rises-and-loud-noises-heard-in-venezuelan-capital-of-caracas/0000019b-82c0-d019-a9df-afef73eb0000",
       "image": "https://img.haarets.co.il/bs/0000019b-832f-d585-abdf-c7ffb0a70000/71/29/79dcf8da4fdc9eadb5fc1d0a68f0/260495.jpg?height=81",
       "published_at": "2026-01-03T07:33:00.000Z",
-      "summary": "U.S. Secretary of State Marco Rubio flagged Maduro's 'inviting Iran into his country' as a factor motivating the operation. Soldiers and civilians have been killed in the U.S. airstrikes, Venezuelan Vice President Delcy Rodríguez said, and Trump said some U.S. troops were wounded in the operation"
+      "summary": "Secretary of State Rubio flagged Maduro's 'inviting Iran into his country' as a factor motivating the operation. 'We're gonna make sure the country is run properly, we're not doing this in vain,' Trump said, accusing Venezuela of 'unilaterally seizing and selling U.S. oil'"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -980,16 +1010,6 @@
       "image": null,
       "published_at": "2026-01-03T02:15:00.000Z",
       "summary": "האם נמשיך לאפשר לפחד להיות אסטרטגיה, ולדימויים כמו \"ערבים שנוהרים באוטובוסים\" להחליף דיון רציני בכוח, בייצוג ובאחריות?"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "איפה \"שומר הסף\" הבטחוני במשרד ראש הממשלה?",
-      "url": "https://www.ynet.co.il/news/article/b1cdgrbv11g",
-      "image": null,
-      "published_at": "2026-01-03T02:02:00.000Z",
-      "summary": "מה עשה הקב\"ט במשרד רה\"מ? הגיש את אלי פלדשטיין לבדיקת התאמה בטחונית כמועמד למשרה מסווגת בלשכת ראש ממשלה, לאחר שקיבל הודעה משב\"כ על אי התאמתו, הוחלט להציב את פלדשטיין \"בתפקיד\" בלשכת ההסברה, תפקיד שאינו מחייב לכאורה, סיווג בטחוני"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1792,16 +1812,6 @@
       "summary": "A group exhibition examines ghosts, repression, and collective memory through contemporary artistic practice"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "HIT Holon Institute of Technology presents its first Special Appreciation Awards",
-      "url": "https://www.jpost.com/israel-news/culture/article-882035",
-      "image": null,
-      "published_at": "2026-01-01T16:20:13.000Z",
-      "summary": "Institute honors leading figures and organizations for advancing academia, industry, innovation, and community impact"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2250,16 +2260,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-7514-d379-a3bb-f734a5400000/b9/ce/dd665f444424b25074e7f81fc5cb/979644-3.jpg?height=81",
       "published_at": "2025-12-31T17:32:41.000Z",
       "summary": "A protester summoned for questioning at a police station was interrogated by Shin Bet operatives, in violation of a court order, Haaretz learned. In another case, an operative told an activist that a police car would pick him up. Around 20 protesters were contacted in the past two years, a rights gr"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "How Israel's recognition of Somaliland feeds into Trump's anti-Somali MAGA fervor",
-      "url": "https://www.haaretz.com/us-news/2025-12-31/ty-article-magazine/.premium/how-israels-recognition-of-somaliland-feeds-into-trumps-anti-somali-maga-fervor/0000019b-6a7b-d551-afbf-7eff06170000",
-      "image": "https://img.haarets.co.il/bs/0000019b-6a83-d1d0-a9bf-eec3ed600000/6e/71/ff77e70f485eb3b40027ee11ce61/230152-2.jpg?height=81",
-      "published_at": "2025-12-31T17:26:30.000Z",
-      "summary": "Republican Party hawks currently attacking Somalis in the U.S. have themselves advocated for Somaliland"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
