@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-01-02T23:36:21.855Z",
+  "generated_at": "2026-01-03T00:43:50.956Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Tom Shoval’s 'A Letter to David' to open Israel Film Festival in LA, features new ending for 2026",
+      "url": "https://www.jpost.com/israel-news/culture/article-882063",
+      "image": null,
+      "published_at": "2026-01-03T01:59:53.000Z",
+      "summary": "A Letter to David, directed by Tom Shoval, the winner of this year’s Ophir Award for Best Documentary, will open the 37th Israel Film Festival in Los Angeles next month."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "עם כאפייה ופטיש בסילבסטר: פרו-פלסטינים תקפו מפעל חלקי מטוסים",
+      "url": "https://www.ynet.co.il/news/article/s143kcbn11x",
+      "image": null,
+      "published_at": "2026-01-03T00:11:32.000Z",
+      "summary": "חצי שעה לתוך 2026: רעולי פנים תקפו את המפעל, סמוך לאדינבורו שבסקוטלנד, בקריאה לבטל קשרים לחברת לאונרדו - שנטען כי מייצרת רכיבי F-35 עבור ישראל. צפו בתיעוד שפרסמו הפעילים - שבו הם נראים משחיתים בפטישים ומרססים גרפיטי על מכונות: \"יש רק דרך אחת שבה זה נגמר\""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "IDF said planning to operate inspection site at Rafah Border Crossing when it reopens",
+      "url": "https://www.timesofisrael.com/idf-said-planning-to-operate-inspection-site-at-rafah-border-crossing-when-it-reopens/",
+      "image": null,
+      "published_at": "2026-01-02T23:48:09.000Z",
+      "summary": "Report says government expected to order reopening of crossing in both directions after PM holds security consultation on Sunday; IDF says it shot suspect who crossed Gaza ceasefire line\nThe post IDF said planning to operate inspection site at Rafah Border Crossing when it reopens appeared first on "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia-Ukraine war: List of key events, day 1,409",
+      "url": "https://www.aljazeera.com/news/2026/1/2/russia-ukraine-war-list-of-key-events-day-1409?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-02T23:32:32.000Z",
+      "summary": "These are the key developments from day 1,409 of Russia’s war on Ukraine."
+    },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
@@ -15,7 +55,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "CHKTesla loses place as world’s top electric vehicle seller to China’s BYD",
+      "title": "Tesla loses place as world’s top electric vehicle seller to China’s BYD",
       "url": "https://www.aljazeera.com/news/2026/1/2/chktesla-loses-place-as-worlds-top-electric-vehicle-seller-to-chinas-byd?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-02T23:16:49.000Z",
@@ -70,6 +110,16 @@
       "image": null,
       "published_at": "2026-01-02T22:21:22.000Z",
       "summary": "במשרד החוץ עדכנו כי בשריפה שבה נספו כ-40 בני אדם בקראנס-מונטנה, הייתה בעלת אזרחות ישראלית שמחזיקה אזרחות נוספת. הרשויות בשווייץ מעריכות: הזיקוקים על בקבוקי השמפניה גרמו לשריפה הקטלנית - כי התקרבו מדי לתקרה"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "How K-beauty went from a viral trend to an economic powerhouse",
+      "url": "https://www.bbc.com/news/articles/cj9y43mv332o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9616/live/48ee9c10-e7fb-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2026-01-02T22:20:53.000Z",
+      "summary": "Inside the K-beauty industry that has made South Korea a major player in worldwide beauty market."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -215,11 +265,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Prison officers tour crocodile farm as Ben Gvir said pushing for &#8216;Alligator Alcatraz&#8217;",
+      "title": "Prison officers tour a crocodile farm as Ben Gvir said pushing for &#8216;Alligator Alcatraz&#8217;",
       "url": "https://www.timesofisrael.com/prison-officers-tour-crocodile-farm-as-ben-gvir-said-pushing-for-alligator-alcatraz/",
       "image": null,
       "published_at": "2026-01-02T20:07:47.000Z",
-      "summary": "Delegation headed by Israel Prison Service deputy chief wanted to learn about animals' upkeep; 'Looks like they're doing serious work,' Hamat Gader CEO says\nThe post Prison officers tour crocodile farm as Ben Gvir said pushing for &#8216;Alligator Alcatraz&#8217; appeared first on The Times of Israe"
+      "summary": "Delegation headed by Israel Prison Service deputy chief wanted to learn about animals' upkeep; 'Looks like they're doing serious work,' Hamat Gader CEO says\nThe post Prison officers tour a crocodile farm as Ben Gvir said pushing for &#8216;Alligator Alcatraz&#8217; appeared first on The Times of Isr"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -902,16 +952,6 @@
       "summary": "The administration said the decision was taken from the municipality due to Hebron’s “ongoing refusal” to approve a roofing project, stressing that the existing status quo would not be affected."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "&#8216;Locked and loaded&#8217;: Trump and Iranian officials exchange threats over protests",
-      "url": "https://www.timesofisrael.com/locked-and-loaded-trump-and-iranian-officials-exchange-threats-over-protests/",
-      "image": null,
-      "published_at": "2026-01-02T11:27:03.000Z",
-      "summary": "US president says America would come rescue peaceful protesters if Tehran kills them; senior Iranian security official says demonstrations stoked by US, Israel\nThe post &#8216;Locked and loaded&#8217;: Trump and Iranian officials exchange threats over protests appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -950,16 +990,6 @@
       "image": null,
       "published_at": "2026-01-02T11:05:01.000Z",
       "summary": "A book in Arabic featuring a picture of Adolf Hitler was also found at one of the sites. The illegal immigrant was arrested, and their employer was detained for questioning."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Sudan’s el-Fasher now a “ghost town” after RSF takeover",
-      "url": "https://www.aljazeera.com/video/quotable/2026/1/2/sudans-el-fasher-now-a-ghost-town-after-rsf-takeover?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-02T11:03:11.000Z",
-      "summary": "Nathaniel Raymond of Yale School of Public Health warns of mass deaths in Sudan as UN visits el-Fasher"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1220,16 +1250,6 @@
       "image": null,
       "published_at": "2026-01-02T05:23:23.000Z",
       "summary": "חשיפה: ממשלת ישראל לא הסתפקה בלחץ על קטאר להמשיך את המימון לארגון הטרור. בספטמבר 2023 התקיימה פגישה חשאית בירושלים בין בכיר קטארי לבין נציגי ישראל. הבקשה: בהתאם לתביעת חמאס, להגדיל העברת כספים לרכישת דלקים - שהמכירה שלהם מימנה את המשך שלטונו ברצועת עזה"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הלקח מהחניה: למה צריך לייצר מבחנים לחוקים",
-      "url": "https://www.ynet.co.il/news/article/hkjtgtq411l",
-      "image": null,
-      "published_at": "2026-01-02T04:52:00.000Z",
-      "summary": "הלקח העיקרי מכך שחוק החניונים החדש הוביל רק להתייקרות תשלומי החניה הוא לא על החניה - אלא על כך שהמחוקקים שלנו פועלים על ידי פסיכולוגיה נאיבית"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1750,16 +1770,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/609e/live/086f8290-e7c3-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2026-01-01T13:58:18.000Z",
       "summary": "Dr Dirk Brandherm and his colleagues have identified more than 600 suspected house platforms in the Brusselstown Ring."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "What challenges will Israel face in the Middle East in the upcoming year? - analysis",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-882014",
-      "image": null,
-      "published_at": "2026-01-01T13:49:20.000Z",
-      "summary": "With 2025 coming to a close, many of Israel's issues remain unresolved. It’s worth examining 2026's challenges one at a time and assessing the hurdles Israel still faces."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
