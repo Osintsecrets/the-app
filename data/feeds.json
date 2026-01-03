@@ -1,15 +1,65 @@
 {
-  "generated_at": "2026-01-03T09:38:18.397Z",
+  "generated_at": "2026-01-03T10:09:06.717Z",
   "items": [
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "טראמפ הכריז: נשיא ונצואלה מדורו נלכד עם אשתו במתקפה האמריקנית הנרחבת - וסולק מהמדינה",
+      "title": "הסמים הם רק תירוץ: כך טראמפ חונק את ציר הנפט",
+      "url": "https://www.ynet.co.il/news/article/rjz34wl4bl",
+      "image": null,
+      "published_at": "2026-01-03T09:51:14.000Z",
+      "summary": "הפיצוצים שנשמעו הלילה בקראקס לא היו אירוע נקודתי. הם היו שלב אחרון בתהליך. טראמפ כבר לא מאיים. הוא מבצע. פגיעות במתקני צבא, בנמלי תעופה ובמערכות חשמל לא נועדו להרתיע כנופיות אלא לשתק משטר"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump strikes Venezuela “to force Maduro out”",
+      "url": "https://www.aljazeera.com/video/quotable/2026/1/3/trump-strikes-venezuela-to-force-maduro-out?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-03T09:41:20.000Z",
+      "summary": "The US strikes in Venezuela aim at removing president Nicolas Maduro, says analyst Elias Ferrer"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "גם אסדות הגז על הכוונת: המערכה שתשנה את פני המלחמה הבאה",
+      "url": "https://www.ynet.co.il/news/article/rjvcxbneze",
+      "image": null,
+      "published_at": "2026-01-03T09:38:46.000Z",
+      "summary": "צה\"ל מנצל את \"תקופת ההמתנה\" של הפסקות האש השבריריות לטובת שדרוג היכולות מול ציר ההתנגדות, שמחכה לסבב הבא שלפי החות'ים \"יגיע בוודאות\". במרכז המאמץ: זינוק ביכולות הימיות שהפכו לנכס קריטי - עם פעילות מבצעית במרחק של אלפי קילומטרים מחופי ישראל, ושדרוגים משמעותיים"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "במבצע קומנדו, בחסות ההפצצות הנרחבות: \"ארה\"ב לכדה את נשיא ונצואלה ניקולס מדורו\"",
       "url": "https://www.ynet.co.il/news/article/hkktxpie11g",
       "image": null,
       "published_at": "2026-01-03T09:28:23.000Z",
-      "summary": ""
+      "summary": "שעות אחרי ששלח את צבא ארה\"ב להפציץ שלל יעדים בבירת ונצואלה קראקס, הודיע טראמפ בהכרזה דרמטית: הרודן ניקולס מדורו - תומך של איראן וחיזבאללה, ששולט במדינה מאז 2013 - נלכד יחד עם אשתו סיליה ו\"הוטס אל מחוץ למדינה\". טראמפ יקיים ב-18:00 מסיבת עיתונאים. CBS דיווחה: הלכידה - במבצע נועז של \"כוח דלתא\". בוונצוא"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Venezuelan journalist describes moment of ‘targeted airstrikes’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/venezuelan-journalist-describes-moment-of-targeted-airstrikes?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-03T09:26:05.000Z",
+      "summary": "A journalist in Venezuela described explosions during what she says were ‘targeted airstrikes’ on Caracas."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "World reacts to US bombing of Venezuela",
+      "url": "https://www.aljazeera.com/news/2026/1/3/world-reacts-to-reported-us-bombing-of-venezuela?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-03T09:22:12.000Z",
+      "summary": "Donald Trump says the US has carried out a &#039;large-scale strike&#039; against Venezuela and captured its president."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -20,6 +70,16 @@
       "image": null,
       "published_at": "2026-01-03T09:22:07.000Z",
       "summary": "Handala group urges followers to 'stay tuned' as it publishes dozens of pictures of Shaked with family and friends in latest attack on an Israeli political figure\nThe post Iran-linked hackers claim they breached former minister Ayelet Shaked&#8217;s phone appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "A New Year for Gaza: Will life return?",
+      "url": "https://www.aljazeera.com/features/2026/1/3/a-new-year-for-gaza-will-life-return?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-03T09:18:43.000Z",
+      "summary": "Al Jazeera’s Maram Humaid reflects on a year of famine in Gaza, marked by hunger, loss, and relentless suffering."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -70,16 +130,6 @@
       "image": null,
       "published_at": "2026-01-03T08:30:15.000Z",
       "summary": "פיצוצים רבים נשמעו בבירת ונצואלה החל מ-01:50, אש תועדה בנמל תעופה וגם בבסיס מרכזי שבו מטה משרד ההגנה, לפי דיווחים גם מסוקים ומטוסים חגו באוויר. תושבים מבוהלים ברחו לרחובות, הפסקות חשמל נרחבות: \"כל האדמה רעדה, שמענו גם קולות ירי\". טראמפ טרם התייחס, בארה\"ב דווח: הוא הורה על הפצצות בהיקף נרחב. מדורו הכ"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Trump: U.S. has captured Venezuelan President Maduro in 'large-scale' operation in Caracas",
-      "url": "https://www.haaretz.com/world-news/2026-01-03/ty-article/.premium/smoke-rises-and-loud-noises-heard-in-venezuelan-capital-of-caracas/0000019b-82c0-d019-a9df-afef73eb0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-832f-d585-abdf-c7ffb0a70000/71/29/79dcf8da4fdc9eadb5fc1d0a68f0/260495.jpg?height=81",
-      "published_at": "2026-01-03T08:21:00.000Z",
-      "summary": "Videos circulating on social media showed multiple explosions across Caracas, while their cause remains unclear. Trump has accused the South American country of flooding the U.S. with drugs, and his administration has, for months, been bombing boats originating in South America"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -142,10 +192,20 @@
       "summary": "More than 10 South Sudanese have been captured in the North Kordofan State in central Sudan, sources say."
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Trump: U.S. has captured Venezuelan President Maduro in 'large-scale' operation in Caracas",
+      "url": "https://www.haaretz.com/world-news/2026-01-03/ty-article/smoke-rises-and-loud-noises-heard-in-venezuelan-capital-of-caracas/0000019b-82c0-d019-a9df-afef73eb0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-832f-d585-abdf-c7ffb0a70000/71/29/79dcf8da4fdc9eadb5fc1d0a68f0/260495.jpg?height=81",
+      "published_at": "2026-01-03T07:33:00.000Z",
+      "summary": "Videos circulating on social media showed multiple explosions across the Venezuelan capital. Trump has accused the South American country of flooding the U.S. with drugs, and his administration has, for months, been bombing boats originating in South America"
+    },
+    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Live: Venezuela accuses US of carrying out attacks in Caracas, other states",
+      "title": "Live: Trump claims Venezuela’s Maduro ‘captured’ after attacks",
       "url": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-loud-noises-heard-in-venezuelas-capital-amid-us-tensions?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-03T07:27:28.000Z",
@@ -205,11 +265,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Venezuela accuses US of bombing civilian, military installations",
+      "title": "Trump says Maduro captured after ‘large scale’ military strike on Venezuela",
       "url": "https://www.aljazeera.com/news/2026/1/3/explosions-heard-over-venezuelan-capital-caracas-amid-us-tensions?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-03T06:30:17.000Z",
-      "summary": "President Nicolas Maduro has declared a national state of emergency in Venezuela. "
+      "summary": "Earlier President Nicolas Maduro had declared a national state of emergency following the US attack in Caracas."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -365,11 +425,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Explosions rock Venezuela as US launches strikes; Maduro declares national emergency",
+      "title": "Trump says US captured Maduro after conducting &#8216;large-scale strike&#8217; on Venezuela",
       "url": "https://www.timesofisrael.com/liveblog-january-03-2026/",
       "image": null,
       "published_at": "2026-01-03T02:31:25.000Z",
-      "summary": "IRGC says Basij member killed in clash with protesters in western Iran * Palestinian man reportedly wounded during one of several Sabbath evening settler raids in West Bank\nThe post Explosions rock Venezuela as US launches strikes; Maduro declares national emergency appeared first on The Times of Is"
+      "summary": "IRGC says Basij member killed in clash with protesters in western Iran * Palestinian man reportedly wounded during one of several Sabbath evening settler raids in West Bank\nThe post Trump says US captured Maduro after conducting &#8216;large-scale strike&#8217; on Venezuela appeared first on The Tim"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -792,16 +852,6 @@
       "summary": "Protests are intensifying in Iran as an economic crisis fuels anger over soaring prices and falling living standards."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Angelina Jolie visits Egypt’s Rafah crossing that’s delivering aid to Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/angelina-jolie-visits-egypts-rafah-crossing-thats-delivering-aid-to-gaza?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-02T19:22:30.000Z",
-      "summary": "Actress Angelina Jolie visited the Egyptian side of the Rafah crossing, speaking with volunteers delivering aid to Gaza."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -822,16 +872,6 @@
       "summary": "Periodical confirms removing Catherine Almonte Da Costa from lead image of cover story on 'brain trust' of new NYC mayor\nThe post Mamdani aide ousted over antisemitic tweets scratched out of New York magazine cover appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US authorities arrest 18-year-old accused of plotting ISIL-inspired attack",
-      "url": "https://www.aljazeera.com/news/2026/1/2/us-authorities-arrest-18-year-old-accused-of-plotting-isil-inspired-attack?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-02T19:02:38.000Z",
-      "summary": "Officials announced the suspect has been charged with attempting to provide &#039;material support&#039; for &#039;terrorism&#039;."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -840,16 +880,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-7992-d379-a3bb-fbb6b8c70000/7a/1c/bce2d9944d8fb3496b0f9892b854/64299908.JPG?height=81",
       "published_at": "2026-01-02T19:00:29.000Z",
       "summary": "Sahelanthropus tchadensis was small and it looked like a chimp but new analysis of old bones, helped by feeling them, finds a feature no ape ever had"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Saudi-backed forces launch offensive against Yemen’s STC",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/saudi-backed-forces-launch-offensive-against-yemens-stc?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-02T18:46:00.000Z",
-      "summary": "Saudi Arabia bombed separatist STC positions in Yemen amid a push to take back control from the UAE-backed group."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -900,16 +930,6 @@
       "image": null,
       "published_at": "2026-01-02T17:25:46.000Z",
       "summary": "צה\"ל החליט לדלל באופן משמעותי את התקנים של חיילי המילואים ביישובים שחוו את האסון לפני שנתיים. המשמעות: כיתות הכוננות בבעיה, שערי היישובים פתוחים ללא שמירה קבועה. הרבש\"צים עדכנו על סיורים בלבד, תחושת הביטחון של התושבים נחלשה: \"אבסורד שזה קורה לפני שחמאס מפורק ומפורז\". צה\"ל: \"מספר חברי מחלקות ההגנה וכ"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Five things you need to know about protests in Iran",
-      "url": "https://www.aljazeera.com/news/2026/1/2/five-things-you-need-to-know-about-protests-in-iran-2?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-02T17:19:44.000Z",
-      "summary": "Mass protests are spreading across Iran, but what&#039;s driving them and where could they lead? Here&#039;s what we know."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1142,16 +1162,6 @@
       "summary": "לא איראן, לא עזה ולא לבנון – ביקורו \"המדיני\" של ראש הממשלה במיאמי שירת מטרות אחרות לגמרי – בקשת החנינה והבחירות המתקרבות. המחמאות באמריקה נעימות יותר מהמציאות בישראל"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אדוני ראש הממשלה, כאן ההיסטוריה. אנא תקוף באיראן - להלן הסיבות",
-      "url": "https://www.ynet.co.il/news/article/bkhd7ebvzl",
-      "image": null,
-      "published_at": "2026-01-02T12:20:15.000Z",
-      "summary": "מי שיתקוף כעת באיראן יביא להתמוטטות המשטר תוך ימים ספורים. ויזכה בתהילה כולה. לכן, נראה שגם ארה\"ב תצטרף גם הפעם לישראל"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1180,16 +1190,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/831a/live/bca60aa0-e79f-11f0-850a-49d22c425bbf.jpg",
       "published_at": "2026-01-02T11:46:34.000Z",
       "summary": "It is the latest accident on one of the world’s most dangerous routes used by West Africans trying to reach Spain. "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הרמטכ\"ל לשעבר כוכבי, בהלוויית רח\"ט מחקר: \"להקים ועדת חקירה ממלכתית ל-7/10\"",
-      "url": "https://www.ynet.co.il/news/article/rybcj7rnzl",
-      "image": null,
-      "published_at": "2026-01-02T11:30:46.000Z",
-      "summary": "בהספד שנשא לתא\"ל עמית סער, שנפטר מסרטן בגיל 47, אמר כוכבי כי \"חקירת אירועי 7/10 חייבת להיעשות בידי ועדה ממלכתית, בלתי תלויה וללא הטיה - שהמופיעים בפניה ירגישו שהם סומכים עליה\". נתניהו: \"סער היה קצין ישר דרך, שהביע דעתו ללא מורא\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
