@@ -1,15 +1,85 @@
 {
-  "generated_at": "2026-01-03T17:37:54.734Z",
+  "generated_at": "2026-01-03T18:13:34.089Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Why has Trump attacked Venezuela and taken Maduro?",
+      "url": "https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bbd/live/7d75a0a0-e8b9-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2026-01-03T18:06:23.000Z",
+      "summary": "The US has been ramping up pressure on the Venezuelan leader since Trump took office last January."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "South Africa manager to show ‘no mercy’ to Cameroon at AFCON 2025",
+      "url": "https://www.aljazeera.com/sports/2026/1/3/south-africa-manager-to-show-no-mercy-to-cameroon-at-afcon-2025?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-03T18:00:02.000Z",
+      "summary": "Hugo Broos lead Cameroon to the 2017 AFCON title but will have be no room for sentimentality with his South Africa side."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Israel expresses hope for resumption of Venezuela ties after Maduro&#8217;s deposal",
+      "url": "https://www.timesofisrael.com/israel-expresses-hope-for-resumption-of-venezuela-ties-after-maduros-deposal/",
+      "image": null,
+      "published_at": "2026-01-03T17:58:07.000Z",
+      "summary": "Foreign minister says US 'acted as the leader of the free world,' welcomes 'removal of the dictator'; Lapid says Iran should 'pay close attention' to Maduro's fate\nThe post Israel expresses hope for resumption of Venezuela ties after Maduro&#8217;s deposal appeared first on The Times of Israel.\n"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Israel commends US operation that led to capture of Venezuala's Maduro, FM Sa'ar announces",
+      "title": "Israel commends US operation that led to capture of Venezuala's Maduro",
       "url": "https://www.jpost.com/israel-news/article-882170",
       "image": null,
       "published_at": "2026-01-03T17:57:51.000Z",
       "summary": "“At this historic moment, Israel stands alongside the freedom-loving Venezuelan people, who have suffered under Maduro’s illegal tyranny,” Sa'ar wrote."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "המעקב הצמוד והמידע הקריטי שהביא לאור ירוק מטראמפ: כך נלכד מדורו, שלב אחר שלב",
+      "url": "https://www.ynet.co.il/news/article/sjwo0su4bg",
+      "image": null,
+      "published_at": "2026-01-03T17:53:25.000Z",
+      "summary": "שלטונו של ניקולס מדורו בא לקצו בפעולה נועזת של ארה\"ב, שתוכננה חודשים ביסודיות וכללה מעקב מודיעיני אחרי הרודן: \"ידענו לאן הוא נסע, מה אכל ומה לבש\". עיבוי הכוחות בים הקאריבי לרמה שלא נראתה זה עשורים, ההפצצות והרגעים הדרמטיים בלב קראקס: כל מה שידוע על המבצע, שבו השתתפו גם יותר מ-150 כלי טיס  "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "כמעט במקרה: השוטר הבחין ברכב חשוד - וחשף מצבור נשק ענק  | תיעוד ",
+      "url": "https://www.ynet.co.il/news/article/hjt1mh8vzx",
+      "image": null,
+      "published_at": "2026-01-03T17:41:08.000Z",
+      "summary": "שוטר זיהה רכב עומד בסמוך לשכונת מגורים בראש פינה, וכוחות שהגיעו למקום איתרו בתוכו אמצעי לחימה ובהם טילי כתף, מטענים, חומר נפץ, רימונים, אקדחים, כל נשק ארוכים ותחמושת. המשטרה פתחה בחקירה, כשעל פי החשד רוב הנשק נגנב מצה\"ל: \"מנענו אסון. אם הרכב הזה חלילה היה נדלק - הוא היה מתפוצץ\""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump on Venezuela: 'We are going to run the country'",
+      "url": "https://www.bbc.com/news/videos/c368px35ly8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d37/live/bd69bc30-e8c5-11f0-aae2-2191c0e48a3b.jpg",
+      "published_at": "2026-01-03T17:20:46.000Z",
+      "summary": "President Donald Trump announced that the US will run Venezuela until a 'proper transition can take place.'"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump: US ‘captures’ Maduro in ‘dead of night’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/trump-us-captures-maduro-in-dead-of?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-03T17:17:54.000Z",
+      "summary": "US President Donald Trump said the US will run Venezuela until there is a “safe and judicious” transition of power."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -49,7 +119,7 @@
       "url": "https://www.aljazeera.com/news/2026/1/3/trump-says-us-will-run-venezuela-after-nicolas-maduro-seized?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-03T16:57:15.000Z",
-      "summary": "This is a breaking news story."
+      "summary": "Trump says the US will &#039;run the country until such time as we can do a safe, proper and judicious transition&#039;."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -125,11 +195,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "טראמפ: \"ננהל את ונצואלה עד לחילופי שלטון בטוחים, חברות הנפט האמריקניות יגיעו\"",
+      "title": "טראמפ הכריז: \"ננהל את ונצואלה עד לחילופי שלטון בטוחים\"",
       "url": "https://www.ynet.co.il/news/article/ryf4uni4wl",
       "image": null,
       "published_at": "2026-01-03T16:01:36.000Z",
-      "summary": "נשיא ארה\"ב חשף פרטים מהמבצע ש\"כמוהו לא היה מאז מלחמת העולם השנייה\", נגד ה\"מבצר בלב קראקס\", וסיפר כי קודם הוחשכו האורות בבירת ונצואלה. טראמפ הכריז כי \"לא נאפשר למישהו שלא אכפת לו מהעם לשלוט במדינה\", וחשף תמונה של מדורו כפות בעיניים מכוסות: \"הוא ואשתו יעמדו לדין בניו יורק או בפלורידה\""
+      "summary": "הנשיא חשף פרטים מהמבצע נגד ה\"מבצר בלב קראקס\", וסיפר כי קודם לכן הוחשכו האורות בבירת ונצואלה. טראמפ הצהיר כי \"חברות נפט אמריקניות יגיעו, לא נאפשר למישהו שלא אכפת לו מהעם לשלוט\", וחשף תמונה של מדורו כפות בעיניים מכוסות: \"הוא ואשתו יעמדו לדין בניו יורק או בפלורידה\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -562,26 +632,6 @@
       "summary": "שעות אחרי ששלח את צבא ארה\"ב להפציץ שלל יעדים בבירת ונצואלה קראקס, הודיע טראמפ בהכרזה דרמטית: הרודן ניקולס מדורו - תומך של איראן וחיזבאללה, ששולט מאז 2013 - נלכד עם אשתו סיליה ו\"הוטס מחוץ למדינה\". CBS: הלכידה - במבצע של כוח דלתא. מדורו יובא לארה\"ב: \"יעמוד לדין על פשעיו\". סגניתו דרשה \"הוכחת חיים\", ודי"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Venezuelan journalist describes moment of ‘targeted airstrikes’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/venezuelan-journalist-describes-moment-of-targeted-airstrikes?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-03T09:26:05.000Z",
-      "summary": "A journalist in Venezuela described explosions during what she says were ‘targeted airstrikes’ on Caracas."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "World reacts to US bombing of Venezuela, ‘capture’ of Maduro",
-      "url": "https://www.aljazeera.com/news/2026/1/3/world-reacts-to-reported-us-bombing-of-venezuela?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-03T09:22:12.000Z",
-      "summary": "Donald Trump says the US has carried out a &#039;large scale strike&#039; against Venezuela and captured its president."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -655,7 +705,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Trump: 'U.S. is going to run Venezuela,' after president Naduro captured in 'large-scale' operation in Caracas",
+      "title": "Trump: 'U.S. is going to run Venezuela,' after president Maduro captured in 'large-scale' operation in Caracas",
       "url": "https://www.haaretz.com/world-news/2026-01-03/ty-article/smoke-rises-and-loud-noises-heard-in-venezuelan-capital-of-caracas/0000019b-82c0-d019-a9df-afef73eb0000",
       "image": "https://img.haarets.co.il/bs/0000019b-832f-d585-abdf-c7ffb0a70000/71/29/79dcf8da4fdc9eadb5fc1d0a68f0/260495.jpg?height=81",
       "published_at": "2026-01-03T07:33:00.000Z",
@@ -700,16 +750,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-8257-dd73-abff-92df214a0001/24/82/f8ae810847e6b8680bccc83da6a0/64302193.JPG?height=81",
       "published_at": "2026-01-03T06:18:06.000Z",
       "summary": "Twice in two months, settlers attacked the home of the Daramin family, bashing in the skulls of their animals, vandalizing their house and pepper-spraying their traumatized children"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "The oldest complete biblical scroll ever found was originally split in 2, scholar finds",
-      "url": "https://www.timesofisrael.com/the-oldest-complete-biblical-scroll-ever-found-was-originally-split-in-2-scholar-finds/",
-      "image": null,
-      "published_at": "2026-01-03T06:17:41.000Z",
-      "summary": "Study comes as 'Great Isaiah,'  a 24-foot-long text parchment found with the Dead Sea Scrolls, set to be displayed by the Israel Museum in full for the first time since 1968\nThe post The oldest complete biblical scroll ever found was originally split in 2, scholar finds appeared first on The Times o"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -905,9 +945,9 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Iranian hackers say they breached phone of Israel's former justice minister, threat data release",
+      "title": "IDF says it struck Hamas rocket launcher in Gaza 'ready to be launched' at Israel",
       "url": "https://www.haaretz.com/israel-news/2026-01-03/ty-article-live/idf-says-it-struck-hezbollah-targets-in-southern-lebanon/0000019b-80fa-d585-abdf-c7fbe3ee0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-7bfe-dd73-abff-7bfe9e710000/7f/87/8303265f431ba984fbc7c50d9f24/253572.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-84f2-dd73-abff-96fe61ff0000/ab/b1/785642d8413eb25947eda72436e9/295573.jpg?height=81",
       "published_at": "2026-01-02T23:22:00.000Z",
       "summary": ""
     },
@@ -970,26 +1010,6 @@
       "image": null,
       "published_at": "2026-01-02T22:17:29.000Z",
       "summary": "ראש העיר הטרי של ניו יורק הצדיק את החלטתו לבטל את האיסור העירוני על החרמת ישראל ולמחוק את אימוץ הגדרת האנטישמיות הבינ\"ל - ולא חזר בו מהמהלך: \"נילחם בשנאה\". במשרד החוץ תקפו: \"זו לא מנהיגות, הוא מוסיף דלק אנטישמי לאש שכבר בוערת\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "התיעודים מרחובות איראן, ואיומי המשטר אחרי הציוץ של טראמפ: \"יודעים לאן לכוון\"",
-      "url": "https://www.ynet.co.il/news/article/hk6zstb4wx",
-      "image": null,
-      "published_at": "2026-01-02T22:12:55.000Z",
-      "summary": "בכירי משטר האייתוללות יצאו בזה אחר זה נגד דבריו של נשיא ארה\"ב, שהבטיח להתערב אם \"מפגינים שלווים ייהרגו\". ברקע המחאות ששוטפות את המדינה, טען שר החוץ האיראני כי \"הכוחות יודעים לאן לכוון במקרה של הפרת ריבונות\", היועץ הקרוב של חמינאי איים גם. ברכת בן השאה הגולה, והמוחים שיצאו שוב להפגין"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הצעירים שנעדרים בשווייץ, והמבלים שחגגו מול האש בשניות הקריטיות: \"מים לא עזרו\"",
-      "url": "https://www.ynet.co.il/news/article/ryfigthnzx",
-      "image": null,
-      "published_at": "2026-01-02T22:09:58.000Z",
-      "summary": "כ-40 נהרגו, עוד 119 נפגעו - אבל משפחות רבות, גם של בני 15 ו-16 - עדיין לא יודעות מה עלה בגורלם. עמוד אינסטגרם הוקם כדי לקשר בין הקרובים לבין מי שאולי שרד. פרדיננד תיעד את הרגעים הראשונים של הלהבות, ניסה לכבות - וברח: \"תפסתי את החברה ודחפתי במעלה המדרגות, היה כדור אש\". בין הנפגעים גם כדורגלן צעיר עם "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
