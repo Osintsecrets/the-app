@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-03T08:45:51.237Z",
+  "generated_at": "2026-01-03T09:09:36.548Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'Living a nightmare': Families of teens missing after ski resort fire desperate for news",
+      "url": "https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3468/live/7c1f6810-e80c-11f0-a8dc-93c15fe68710.png",
+      "published_at": "2026-01-03T09:02:55.000Z",
+      "summary": "Families are appealing for information about children as young as 15 who are thought to have been at the bar."
+    },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
@@ -25,7 +35,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "U.S. forces strike Venezuela; Caracas declares national state of emergency",
+      "title": "U.S. forces strike Venezuela, officials say; Caracas declares national state of emergency",
       "url": "https://www.haaretz.com/world-news/2026-01-03/ty-article/.premium/smoke-rises-and-loud-noises-heard-in-venezuelan-capital-of-caracas/0000019b-82c0-d019-a9df-afef73eb0000",
       "image": "https://img.haarets.co.il/bs/0000019b-82c5-dd73-abff-92cd81910000/bf/b8/dad902f746dbbedadd386670c290/266461.jpg?height=81",
       "published_at": "2026-01-03T08:21:00.000Z",
@@ -315,11 +325,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Blasts witnessed across Venezuela as Trump said to order strikes on military sites",
+      "title": "Explosions rock Venezuela as US launches strikes; Maduro declares national emergency",
       "url": "https://www.timesofisrael.com/liveblog-january-03-2026/",
       "image": null,
       "published_at": "2026-01-03T02:31:25.000Z",
-      "summary": "Venezuelan government slams US 'military aggression' as Maduro declares national emergency * Palestinian man reportedly wounded during one of several Sabbath evening settler raids in West Bank\nThe post Blasts witnessed across Venezuela as Trump said to order strikes on military sites appeared first "
+      "summary": "IRGC says Basij member killed in clash with protesters in western Iran * Palestinian man reportedly wounded during one of several Sabbath evening settler raids in West Bank\nThe post Explosions rock Venezuela as US launches strikes; Maduro declares national emergency appeared first on The Times of Is"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -800,16 +810,6 @@
       "image": null,
       "published_at": "2026-01-02T18:46:00.000Z",
       "summary": "Saudi Arabia bombed separatist STC positions in Yemen amid a push to take back control from the UAE-backed group."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "'Living a nightmare': Families of teens missing after ski resort fire desperate for news",
-      "url": "https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3468/live/7c1f6810-e80c-11f0-a8dc-93c15fe68710.png",
-      "published_at": "2026-01-02T18:20:47.000Z",
-      "summary": "Families are appealing for information about children as young as 15 who are thought to have been at the bar."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
