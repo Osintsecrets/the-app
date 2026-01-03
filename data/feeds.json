@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-03T14:39:55.014Z",
+  "generated_at": "2026-01-03T15:08:16.614Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Swiss open criminal case against managers of ski resort bar after deadly fire",
+      "url": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb88/live/796cc260-e894-11f0-b4b3-f5118369b77f.jpg",
+      "published_at": "2026-01-03T14:53:38.000Z",
+      "summary": "It comes after a preliminary investigation found the likely cause was sparklers on champagne bottles being carried too close to the ceiling."
+    },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
@@ -30,16 +40,6 @@
       "image": null,
       "published_at": "2026-01-03T14:01:01.000Z",
       "summary": "Trump has added a particular layer of dementedness to the latest unprovoked US aggression."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Police identify first four victims of Swiss ski resort fire",
-      "url": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb88/live/796cc260-e894-11f0-b4b3-f5118369b77f.jpg",
-      "published_at": "2026-01-03T13:42:01.000Z",
-      "summary": "Bodies of two Swiss women aged 21 and 16, and two Swiss men aged 18 and 16 have been returned to their families."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -99,7 +99,7 @@
       "url": "https://www.ynet.co.il/news/article/ryjylqlvwx",
       "image": null,
       "published_at": "2026-01-03T13:02:18.000Z",
-      "summary": "נשיא ארה\"ב צפה בשידור חי במבצע הנועז שבו נלכד נשיא ונצואלה ניקולס מדורו בבסיס צבאי, בחסות הפצצות בבירה קראקס: \"חיילים נפצעו, אבל אין לנו הרוגים. זה היה מדהים\". משם הועבר מדורו לספינה, ויעמוד לדין בניו יורק יחד עם אשתו - לא רק בגין הברחת סמים, אלא גם על החזקת נשק. סגניתו שוהה ברוסיה"
+      "summary": "נשיא ארה\"ב צפה בשידור חי במבצע הנועז שבו נלכד נשיא ונצואלה ניקולס מדורו בבסיס צבאי, בחסות הפצצות בבירה קראקס: \"חיילים נפצעו, אבל אין לנו הרוגים\". ל-CIA היה מקור בממשלת ונצואלה, מדורו הועבר לספינה - ויעמוד לדין בניו יורק יחד עם אשתו לא רק בגין הברחת סמים, אלא גם על החזקת נשק"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -479,7 +479,7 @@
       "url": "https://www.haaretz.com/world-news/2026-01-03/ty-article/smoke-rises-and-loud-noises-heard-in-venezuelan-capital-of-caracas/0000019b-82c0-d019-a9df-afef73eb0000",
       "image": "https://img.haarets.co.il/bs/0000019b-832f-d585-abdf-c7ffb0a70000/71/29/79dcf8da4fdc9eadb5fc1d0a68f0/260495.jpg?height=81",
       "published_at": "2026-01-03T07:33:00.000Z",
-      "summary": "Soldiers and civilians have been killed in the U.S. airstrikes, Venezuelan Vice President Delcy Rodríguez says on state television. Maduro and his wife have been indicted in a New York district court, U.S. Attorney General Pam Bondi said"
+      "summary": "Maduro and his wife have been indicted in a New York district court, U.S. Attorney General Pam Bondi said. Soldiers and civilians have been killed in the U.S. airstrikes, Venezuelan Vice President Delcy Rodríguez said, and Trump said some U.S. troops were wounded"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
