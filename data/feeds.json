@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-03T16:11:00.144Z",
+  "generated_at": "2026-01-03T16:44:50.987Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -12,6 +12,56 @@
       "summary": "“At this historic moment, Israel stands alongside the freedom-loving Venezuelan people, who have suffered under Maduro’s illegal tyranny,” Sa'ar wrote."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "נפטר השוטר הגיבור איתמר אלוס, שחיסל מחבלים והגן בגופו על פצועים ב-7/10",
+      "url": "https://www.ynet.co.il/news/article/b1enhpivzg",
+      "image": null,
+      "published_at": "2026-01-03T16:39:53.000Z",
+      "summary": ""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump's move to topple Maduro is fraught with risk - what happens next is unclear",
+      "url": "https://www.bbc.com/news/articles/c0q4dg1kn8vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2953/live/35763f50-e8b2-11f0-b883-037c14a72405.jpg",
+      "published_at": "2026-01-03T16:29:50.000Z",
+      "summary": "Will the US push for elections or will it try to depose more members of the government, asks the BBC's Ione Wells. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מהסרט עם צ'אק נוריס ועד למבצע בלב קראקס: זה כוח הקומנדו שלכד את מדורו",
+      "url": "https://www.ynet.co.il/news/article/sya0ti8v11l",
+      "image": null,
+      "published_at": "2026-01-03T16:09:31.000Z",
+      "summary": "\"כוח דלתא\" היה \"הצוות המתאים היחיד\" למבצע החריג של ארה\"ב שבו נתפס נשיא ונצואלה. היחידה נודעה בפעולותיה הנועזות בשטחים עוינים, תחת סיכונים עצומים - מהפלת שליט פנמה ועד לפעולה הכושלת במוגדישו, שקשרה לנצח את אומץ חבריה למסוקי ה\"בלאק הוק\" שהשמידו המחבלים סומלים. זה סיפורה"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Foreign Ministry advises Israelis to avoid travel to Venezuela after US strikes",
+      "url": "https://www.timesofisrael.com/foreign-ministry-advises-israelis-to-avoid-travel-to-venezuela-after-us-strikes/",
+      "image": null,
+      "published_at": "2026-01-03T16:07:27.000Z",
+      "summary": "Updating its general warning, Israel now advises against all travel to country, including for dual Israeli-Venezuelan citizens; Caracas broke diplomatic ties with Jerusalem in 2009\nThe post Foreign Ministry advises Israelis to avoid travel to Venezuela after US strikes appeared first on The Times of"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "What&#8217;s known so far about the US strikes on Venezuela",
+      "url": "https://www.timesofisrael.com/whats-known-so-far-about-the-us-strikes-on-venezuela/",
+      "image": null,
+      "published_at": "2026-01-03T16:06:57.000Z",
+      "summary": "US claims military took Venezuelan President Maduro and his wife into custody, drawing widespread condemnation; unclear how many casualties in strikes on Caracas\nThe post What&#8217;s known so far about the US strikes on Venezuela appeared first on The Times of Israel.\n"
+    },
+    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -22,10 +72,20 @@
       "summary": "Maduro and his wife were taken from \"a house that was more like a fortress\", Donald Trump says."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Indonesia hire former Canada coach Herdman to replace Kluivert",
+      "url": "https://www.aljazeera.com/sports/2026/1/3/indonesia-hire-former-canada-coach-herdman-to-replace-kluivert?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-03T16:02:40.000Z",
+      "summary": "Former Canada coach John Herdman replaces Patrick Kluivert as Indonesia coach after failure to reach 2026 World Cup.\n"
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "שידור ישיר: הצהרת טראמפ על לכידת מדורו",
+      "title": "כפות בטרנינג, עם עיניים מכוסות: תמונה ראשונה של מדורו - שפרסם טראמפ | שידור ישיר מהצהרתו",
       "url": "https://www.ynet.co.il/news/article/ryf4uni4wl",
       "image": null,
       "published_at": "2026-01-03T16:01:36.000Z",
@@ -115,17 +175,17 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "יותר מ-10 הרוגים ו-100 עצורים באיראן, חמינאי \"מצא\" את האשמים בניסיון לפיוס",
+      "title": "איש משמרות המהפכה נוסף נהרג באיראן, חמינאי \"מצא\" אשמים - וניסה לפייס",
       "url": "https://www.ynet.co.il/news/article/bys3jr8n11g",
       "image": null,
       "published_at": "2026-01-03T15:17:17.000Z",
-      "summary": "המחאות באיראן נמשכות, וחמינאי ניצל את יום השנה למותו של קאסם סוליאמני כדי \"להזדהות\" עם המפגינים: \"מחאת הסוחרים מוצדקת, לא ההתפרעויות שמאחוריהן עומד המערב\". דיווחים על יותר מ-100 עצורים ועשרות פצועים, גם 2 אנשי כוחות הביטחון נהרגו. משמרות המהפכה: \"טראמפ מאיים עלינו מתוך ייאוש\""
+      "summary": "המחאות באיראן נמשכות, 3 אנשי כוחות הביטחון כבר נהרגו - וחמינאי ניצל את יום השנה למותו של סוליאמני כדי \"להזדהות\" עם המפגינים: \"מחאתם מוצדקת, לא ההתפרעויות שמאחוריהן עומד המערב\". דיווחים על יותר מ-10 הרוגים, 100 עצורים ועשרות פצועים. משמרות המהפכה: \"טראמפ מאיים עלינו מתוך ייאוש\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "פריצת דרך בפרשת היעלמות שנחקרת כ-30 שנה",
+      "title": "פריצת דרך בפרשת רצח שנחקרת כ-30 שנה",
       "url": "https://www.ynet.co.il/news/article/b1bdb28nbl",
       "image": null,
       "published_at": "2026-01-03T15:13:38.000Z",
@@ -160,16 +220,6 @@
       "image": null,
       "published_at": "2026-01-03T14:49:53.000Z",
       "summary": "Trump confirms Maduro has been captured and flown out of Venezuela during joint US operation lasting under 30 minutes."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump's move to topple Maduro is fraught with risk - what happens next is unclear",
-      "url": "https://www.bbc.com/news/articles/c0q4dg1kn8vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2953/live/35763f50-e8b2-11f0-b883-037c14a72405.jpg",
-      "published_at": "2026-01-03T14:41:21.000Z",
-      "summary": "Will the US push for elections or will it try to depose more members of the government, asks the BBC's Ione Wells. "
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -572,16 +622,6 @@
       "summary": "The Moshe Castel Museum of Art marks 15 years of presenting the works of underappreciated Israeli artists to the public."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Iranians face mounting hardship as protests intensify",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/iranians-face-mounting-hardship-as-protests-intensify?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-03T08:06:29.000Z",
-      "summary": "Protests have entered a second week across Iran, driven by anger over soaring prices, inflation, and a plunging currency"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -609,7 +649,7 @@
       "url": "https://www.haaretz.com/world-news/2026-01-03/ty-article/smoke-rises-and-loud-noises-heard-in-venezuelan-capital-of-caracas/0000019b-82c0-d019-a9df-afef73eb0000",
       "image": "https://img.haarets.co.il/bs/0000019b-832f-d585-abdf-c7ffb0a70000/71/29/79dcf8da4fdc9eadb5fc1d0a68f0/260495.jpg?height=81",
       "published_at": "2026-01-03T07:33:00.000Z",
-      "summary": "Maduro and his wife have been indicted in a New York district court, U.S. Attorney General Pam Bondi said. Soldiers and civilians have been killed in the U.S. airstrikes, Venezuelan Vice President Delcy Rodríguez said, and Trump said some U.S. troops were wounded"
+      "summary": "Maduro and his wife have been indicted in a New York district court, U.S. Attorney General Pam Bondi said. Soldiers and civilians have been killed in the U.S. airstrikes, Venezuelan Vice President Delcy Rodríguez said, and Trump said some U.S. troops were wounded in the operation"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -702,16 +742,6 @@
       "summary": "Russian officials say reports of the missile strike are untrue, suggesting the explosion was caused by Ukrainian ammunition."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "How the politics of Mamdani’s parents, both longtime BDS supporters, shaped NYC’s new mayor",
-      "url": "https://www.timesofisrael.com/how-the-politics-of-mamdanis-parents-both-longtime-bds-supporters-shaped-nycs-new-mayor/",
-      "image": null,
-      "published_at": "2026-01-03T04:48:10.000Z",
-      "summary": "Mahmood Mamdani boasted of being first faculty member to address 2024 encampment at Columbia; mayor's wife has also made pro-Palestinian, anti-Israel advocacy a focal point of her art\nThe post How the politics of Mamdani’s parents, both longtime BDS supporters, shaped NYC’s new mayor appeared first "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -750,16 +780,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-760f-d379-a3bb-f63f6bee0005/50/82/5bd7184b497abbebc89cde523140/237872-3.jpg?height=81",
       "published_at": "2026-01-03T04:00:00.000Z",
       "summary": "Behind Trump's headline diplomacy is a void: core questions on Israeli withdrawal, Hamas disarmament and Gaza's future governance are postponed or outsourced. This isn't a peace effort but conflict management, preserving the status quo and leaving Palestinians without a political horizon"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "BBC settles with Oct. 7 survivors after filming destroyed home ‘without permission’",
-      "url": "https://www.timesofisrael.com/bbc-settles-with-oct-7-survivors-after-filming-destroyed-home-without-permission/",
-      "image": null,
-      "published_at": "2026-01-03T03:25:51.000Z",
-      "summary": "Broadcaster to reportedly pay $37,000 to the Horensteins, who say that after terrorists tried to break into their house 'the BBC crew entered, this time with a camera as a weapon'\nThe post BBC settles with Oct. 7 survivors after filming destroyed home ‘without permission’ appeared first on The Times"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -905,11 +925,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "BBC pays £28K to Oct. 7 survivors after filming inside their destroyed home without consent",
+      "title": "BBC compensates Oct. 7 survivors after filming inside their destroyed home without consent",
       "url": "https://www.haaretz.com/israel-news/2026-01-03/ty-article/.premium/bbc-pays-28k-to-oct-7-survivors-after-filming-inside-their-destroyed-home-without-consent/0000019b-80ac-d019-a9df-afaff8d20000",
       "image": "https://img.haarets.co.il/bs/00000195-6107-da4c-a9f7-f98747bd0001/ff/7e/9508e1084ccea25e0bba63faabee/025017.jpg?height=81",
       "published_at": "2026-01-02T22:32:39.000Z",
-      "summary": "The British news outlet said it was 'pleased to have reached an agreement' with the Horenstein family, who were paid an unwelcome visit by a BBC film crew after their Gaza border community home was attacked by Hamas terrorists on Oct. 7"
+      "summary": "The British news outlet said it was 'pleased to have reached an agreement' with the Horenstein family and paid £28,000 ($37,700), after they were paid an unwelcome visit by a BBC film crew after their Gaza border community home was attacked by Hamas terrorists on Oct. 7"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1072,16 +1092,6 @@
       "summary": "The 6.5 magnitude trembler shook buildings and set off the country's earthquake alert system. "
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "צה\"ל מקצה פחות לוחמים לכוננות, אין ש\"ג ביישובים בעוטף: \"הולכים לעוד 7/10?\"",
-      "url": "https://www.ynet.co.il/news/article/h1rw0lhvbl",
-      "image": null,
-      "published_at": "2026-01-02T17:25:46.000Z",
-      "summary": "צה\"ל החליט לדלל באופן משמעותי את התקנים של חיילי המילואים ביישובים שחוו את האסון לפני שנתיים. המשמעות: כיתות הכוננות בבעיה, שערי היישובים פתוחים ללא שמירה קבועה. הרבש\"צים עדכנו על סיורים בלבד, תחושת הביטחון של התושבים נחלשה: \"אבסורד שזה קורה לפני שחמאס מפורק ומפורז\". צה\"ל: \"מספר חברי מחלקות ההגנה וכ"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1090,16 +1100,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ec/live/c717a060-e7fa-11f0-bd80-5b82e99acd48.jpg",
       "published_at": "2026-01-02T17:18:36.000Z",
       "summary": "Colorado officials said that it would be the first time in more than 25 years that a mountain lion killed a person in the state, if confirmed."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "באמצע מסיבת העיתונאים: האדמה רעדה - והנשיאה התפנתה | תיעוד",
-      "url": "https://www.ynet.co.il/news/article/b1ektpbnze",
-      "image": null,
-      "published_at": "2026-01-02T17:15:37.000Z",
-      "summary": "מקסיקו: רעידת אדמה בעוצמה 6.5 הורגשה בבירה - והוציאה תושבים רבים מהבתים בעיצומה של חופשת ראש השנה החדשה. גבר נהרג כשירד במדרגות בדרך החוצה מבניין, נזק לכבישים"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
