@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-01-03T10:09:06.717Z",
+  "generated_at": "2026-01-03T10:41:22.140Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "More than 100 shelter overnight in Japan shrine due to heavy snow",
+      "url": "https://www.bbc.com/news/articles/cj3vmekg7ddo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a132/live/4bc1d020-e886-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2026-01-03T10:18:03.000Z",
+      "summary": "Visitors of the Mitsumine Shrine spent the night there after roads around it were shut off."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Deadly earthquake rattles southern and central Mexico",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/deadly-earthquake-rattles-southern-and-central-mexico?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-03T10:07:43.000Z",
+      "summary": "A 6.5-magnitude earthquake struck southern and central Mexico on Friday, killing and injuring several people."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -39,7 +59,7 @@
       "url": "https://www.ynet.co.il/news/article/hkktxpie11g",
       "image": null,
       "published_at": "2026-01-03T09:28:23.000Z",
-      "summary": "שעות אחרי ששלח את צבא ארה\"ב להפציץ שלל יעדים בבירת ונצואלה קראקס, הודיע טראמפ בהכרזה דרמטית: הרודן ניקולס מדורו - תומך של איראן וחיזבאללה, ששולט במדינה מאז 2013 - נלכד יחד עם אשתו סיליה ו\"הוטס אל מחוץ למדינה\". טראמפ יקיים ב-18:00 מסיבת עיתונאים. CBS דיווחה: הלכידה - במבצע נועז של \"כוח דלתא\". בוונצוא"
+      "summary": "שעות אחרי ששלח את צבא ארה\"ב להפציץ שלל יעדים בבירת ונצואלה קראקס, הודיע טראמפ בהכרזה דרמטית: הרודן ניקולס מדורו - תומך של איראן וחיזבאללה, ששולט במדינה מאז 2013 - נלכד יחד עם אשתו סיליה ו\"הוטס אל מחוץ למדינה\". טראמפ יקיים ב-18:00 מסיבת עיתונאים. CBS: הלכידה - במבצע נועז של כוח דלתא. בוונצואלה דיווחו"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -55,11 +75,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "World reacts to US bombing of Venezuela",
+      "title": "World reacts to US bombing of Venezuela, ‘capture’ of Maduro",
       "url": "https://www.aljazeera.com/news/2026/1/3/world-reacts-to-reported-us-bombing-of-venezuela?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-03T09:22:12.000Z",
-      "summary": "Donald Trump says the US has carried out a &#039;large-scale strike&#039; against Venezuela and captured its president."
+      "summary": "Donald Trump says the US has carried out a &#039;large scale strike&#039; against Venezuela and captured its president."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -265,11 +285,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Trump says Maduro captured after ‘large scale’ military strike on Venezuela",
+      "title": "Trump says Venezuela’s Maduro captured after huge US military strikes",
       "url": "https://www.aljazeera.com/news/2026/1/3/explosions-heard-over-venezuelan-capital-caracas-amid-us-tensions?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-03T06:30:17.000Z",
-      "summary": "Earlier President Nicolas Maduro had declared a national state of emergency following the US attack in Caracas."
+      "summary": "President Nicolas Maduro had earlier declared a national state of emergency following the US attack on Caracas."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -429,7 +449,7 @@
       "url": "https://www.timesofisrael.com/liveblog-january-03-2026/",
       "image": null,
       "published_at": "2026-01-03T02:31:25.000Z",
-      "summary": "IRGC says Basij member killed in clash with protesters in western Iran * Palestinian man reportedly wounded during one of several Sabbath evening settler raids in West Bank\nThe post Trump says US captured Maduro after conducting &#8216;large-scale strike&#8217; on Venezuela appeared first on The Tim"
+      "summary": "IRGC says Basij member killed in clash with protesters in western Iran * 16-year-old Palestinian reportedly hurt by live fire during West Bank settler raid\nThe post Trump says US captured Maduro after conducting &#8216;large-scale strike&#8217; on Venezuela appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -540,6 +560,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c85d/live/e8a15370-e7e1-11f0-b44a-2d5156cff513.jpg",
       "published_at": "2026-01-03T00:46:58.000Z",
       "summary": "Can the Democratic socialist deliver on the big cost-of-living promises that propelled him to victory?"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "The year angry men dominated Bollywood - and what it means for India ",
+      "url": "https://www.bbc.com/news/articles/ce8n8eye1vjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e1/live/94a14320-e61a-11f0-bc37-99d14a64a534.png",
+      "published_at": "2026-01-03T00:12:34.000Z",
+      "summary": "Violent, male-driven films dominated the Indian box-office and cultural conversations in 2025."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -840,16 +870,6 @@
       "image": null,
       "published_at": "2026-01-02T19:36:50.000Z",
       "summary": "5 פגישות בין נתניהו לטראמפ הכין רון דרמר כשר לעניינים אסטרטגיים, אבל ממאר א-לאגו נעדר הפעם האיש שנחשב הכי קרוב לרה\"מ, גם אחרי שהתפטר. השניים שהחליפו אותו, והסיפוק בסביבת נתניהו: \"הוא לא היה מעורב - והתברר שיש לנו קשרים טובים בבית הלבן\". בהמשך יחזור כשליח סתרים? "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Iran faces growing protests amid deepening economic crisis",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/iran-faces-growing-protests-amid-deepening-economic-crisis?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-02T19:25:54.000Z",
-      "summary": "Protests are intensifying in Iran as an economic crisis fuels anger over soaring prices and falling living standards."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
