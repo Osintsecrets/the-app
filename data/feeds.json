@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-01-03T19:01:30.549Z",
+  "generated_at": "2026-01-03T19:31:22.633Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "What we know about Maduro's capture ",
+      "url": "https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32b8/live/434dba00-e8d9-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2026-01-03T19:23:08.000Z",
+      "summary": "Maduro and his wife were taken from \"a house that was more like a fortress\", Donald Trump says."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "טראמפ איים, הסגנית של מדורו מסרבת לעשות כרצונו: \"לא נהיה קולוניה\"",
+      "url": "https://www.ynet.co.il/news/article/sjod5ydebe",
+      "image": null,
+      "published_at": "2026-01-03T19:22:09.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "השריף החדש של העולם: האיתות של טראמפ להאג ולאיראן",
+      "url": "https://www.ynet.co.il/news/article/hjfexniezx",
+      "image": null,
+      "published_at": "2026-01-03T19:10:55.000Z",
+      "summary": "ב\"מלחמת 12 הימים\" נשיא ארה״ב הוכיח לעולם שהוא לא \"משתפן\" כשהפציץ את מתקני הגרעין באיראן, וכעת מעצרו חסר התקדים של נשיא ונצואלה שולח מסר נוסף לטהרן: הסכם גרעין עם אפס העשרת אורניום - או שזמנו של חמינאי קצר. וגם: איך זה ישפיע על האג, והסיבה שטראמפ לא שבר את הכלים כשלא זכה בנובל"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Breakthrough reported on 30-year-old murder case; court issues sweeping gag order",
+      "url": "https://www.timesofisrael.com/breakthrough-reported-on-30-year-old-murder-case-court-issues-sweeping-gag-order/",
+      "image": null,
+      "published_at": "2026-01-03T19:03:09.000Z",
+      "summary": "Nazareth Magistrate's Court order, valid until January 25, forbids publication of any details of case, or any details that could identify those involved\nThe post Breakthrough reported on 30-year-old murder case; court issues sweeping gag order appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli media's roast of Angelina Jolie's Rafah border visit redefines ignorance",
+      "url": "https://www.haaretz.com/israel-news/2026-01-03/ty-article/.premium/israeli-medias-roast-of-angelina-jolies-rafah-border-visit-redefines-ignorance/0000019b-8319-d019-a9df-afbf2fb10000",
+      "image": "https://img.haarets.co.il/bs/0000019b-848b-dd73-abff-96cf95680000/4f/4d/c88f2f8e4e5699912c6b63a17699/263736.jpg?height=81",
+      "published_at": "2026-01-03T18:56:04.000Z",
+      "summary": "Pundits on Israel's popular Friday night newscast 'debated' whether Angelina Jolie's visit to the Gaza-Egypt border was fueled by 'antisemitism or ignorance.' To them, no Gazan is innocent, and anyone she met was personally liable for the hostages' horrors"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Senegal beat Sudan to reach AFCON quarterfinals as Pape Gueye grabs brace",
+      "url": "https://www.aljazeera.com/sports/2026/1/3/senegal-beat-sudan-to-reach-afcon-quarterfinals-as-pape-gueye-grabs-brace?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-03T18:33:59.000Z",
+      "summary": "Senegal come from behind to ease past Sudan 3-1 ⁠and book their ‍place in the Africa Cup of Nations quarterfinals."
+    },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
@@ -9,7 +69,7 @@
       "url": "https://www.haaretz.com/israel-news/2026-01-03/ty-article/.premium/anti-government-rallies-take-place-across-israel-as-anniversary-of-judical-overhaul-nears/0000019b-84b9-d487-a3bf-fdbdf6380000",
       "image": "https://img.haarets.co.il/bs/0000019b-84fe-d019-a9df-afff5a680001/35/cf/2847eabe47699e0e86006fe22153/whatsapp-image-2026-01-03-at-19-44-41.jpeg?height=81",
       "published_at": "2026-01-03T18:14:54.000Z",
-      "summary": "Protests in Tel Aviv mark three years since the launch of the judicial overhaul will feature the parents of slain hostage Itay Chen, while a right-wing counter-protest in Haifa is being held for the first time near the weekly march in northern Israel calling for an October 7 probe"
+      "summary": "Former Supreme Court President Aharon Barak spoke in a video message screened in the protest, saying that Israel is under the rule of a single individual and that its system of government is no longer a liberal democracy; At least six right-wing activists were detained after a scuffle with protester"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -69,7 +129,7 @@
       "url": "https://www.timesofisrael.com/israel-expresses-hope-for-resumption-of-venezuela-ties-after-maduros-deposal/",
       "image": null,
       "published_at": "2026-01-03T17:58:07.000Z",
-      "summary": "Foreign minister says US 'acted as the leader of the free world,' welcomes 'removal of the dictator'; Lapid says Iran should 'pay close attention' to Maduro's fate\nThe post Israel expresses hope for resumption of Venezuela ties after Maduro&#8217;s deposal appeared first on The Times of Israel.\n"
+      "summary": "Foreign minister welcomes 'removal of the dictator'; Netanyahu, without mentioning Maduro, congratulates Trump for 'bold and historic leadership'\nThe post Israel expresses hope for resumption of Venezuela ties after Maduro&#8217;s deposal appeared first on The Times of Israel.\n"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -120,16 +180,6 @@
       "image": null,
       "published_at": "2026-01-03T17:17:54.000Z",
       "summary": "US President Donald Trump said the US will run Venezuela until there is a “safe and judicious” transition of power."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "What we know about Maduro's capture ",
-      "url": "https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7585/live/ee0b6c20-e8c6-11f0-afd0-e7d4ff442b4b.jpg",
-      "published_at": "2026-01-03T17:14:53.000Z",
-      "summary": "Maduro and his wife were taken from \"a house that was more like a fortress\", Donald Trump says."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -419,7 +469,7 @@
       "url": "https://www.aljazeera.com/sports/liveblog/2026/1/3/live-senegal-vs-sudan-afcon-2025?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-03T13:33:21.000Z",
-      "summary": "All the "
+      "summary": "All the updates as Senegal fight back from a goal down to knock out Sudan in the last 16 of the Africa Cup of Nations."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -632,16 +682,6 @@
       "summary": "Visitors of the Mitsumine Shrine spent the night there after roads around it were shut off."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Deadly earthquake rattles southern and central Mexico",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/deadly-earthquake-rattles-southern-and-central-mexico?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-03T10:07:43.000Z",
-      "summary": "A 6.5-magnitude earthquake struck southern and central Mexico on Friday, killing and injuring several people."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -770,16 +810,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13d3/live/f5f92d80-e86e-11f0-aee3-97fdc522fc20.jpg",
       "published_at": "2026-01-03T07:06:35.000Z",
       "summary": "The powerful earthquake shook southern and central Mexico on Friday, also leaving several people injured. "
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "The Reel Schmooze: &#8216;Marty Supreme&#8217; and the art of chutzpa",
-      "url": "https://www.timesofisrael.com/the-reel-schmooze-marty-supreme-and-the-art-of-chutzpa/",
-      "image": null,
-      "published_at": "2026-01-03T07:01:19.000Z",
-      "summary": "Movie maven Jordan Hoffman and host Amanda Borschel-Dan on the new supremely Jewish sports/comedy/drama starring Timothée Chalamet and a whole cast of NY characters\nThe post The Reel Schmooze: &#8216;Marty Supreme&#8217; and the art of chutzpa appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -942,16 +972,6 @@
       "summary": "ישראל היא המדינה השנואה בעולם, איך הגענו לזה, ומה צריך לעשות "
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "המעשה והמעשייה",
-      "url": "https://www.ynet.co.il/news/article/rjdz34s4wl",
-      "image": null,
-      "published_at": "2026-01-03T01:42:00.000Z",
-      "summary": "ארה\"ב תדרוש, תלחץ, במקביל הנשיא טראמפ יתן הצהרות מחבקות לראש הממשלה, אמירות חיוביות שמייצרות הישגים ובפועל, ככה כאילו מתחת לרדאר, ישראל מתיישרת עם של ארה\"ב"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -970,16 +990,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e1/live/94a14320-e61a-11f0-bc37-99d14a64a534.png",
       "published_at": "2026-01-03T00:12:34.000Z",
       "summary": "Violent, male-driven films dominated the Indian box-office and cultural conversations in 2025."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "עם כאפייה ופטיש בסילבסטר: פרו-פלסטינים תקפו מפעל חלקי מטוסים",
-      "url": "https://www.ynet.co.il/news/article/s143kcbn11x",
-      "image": null,
-      "published_at": "2026-01-03T00:11:32.000Z",
-      "summary": "חצי שעה לתוך 2026: רעולי פנים תקפו את המפעל, סמוך לאדינבורו שבסקוטלנד, בקריאה לבטל קשרים לחברת לאונרדו - שנטען כי מייצרת רכיבי F-35 עבור ישראל. צפו בתיעוד שפרסמו הפעילים - שבו הם נראים משחיתים בפטישים ומרססים גרפיטי על מכונות: \"יש רק דרך אחת שבה זה נגמר\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2240,16 +2250,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-74c1-d379-a3bb-f6f50f880007/83/df/861dea5347cebe5e347e546d6579/241646.jpg?height=81",
       "published_at": "2025-12-31T17:03:34.000Z",
       "summary": "Nearly 60 percent of Tarabin's residents voted for Likud in the last election. Four years after Netanyahu sat here and had coffee with locals, his coalition returned with tear gas and concrete barriers in a massive police crackdown. 'He drank coffee as a friend, now he sends us Ben-Gvir,' a resident"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "U.S. Haredi donors say they won't give to yeshivas that 'delegitimize' IDF, marking rare rift",
-      "url": "https://www.haaretz.com/jewish/2025-12-31/ty-article/.premium/american-ultra-orthodox-donors-say-they-wont-give-to-yeshivas-that-delegitimize-idf/0000019b-74de-d5ec-abdf-7edeadd70000",
-      "image": "https://img.haarets.co.il/bs/00000195-9ffe-d687-abb5-9fff94790000/8d/0d/685381a647f58f9d1dbc4b86d7e2/362966-1.jpg?height=81",
-      "published_at": "2025-12-31T16:32:10.000Z",
-      "summary": "The Coalition for Talmud Torah and Security declared they will only donate to Israeli Torah institutions that do not denounce the IDF, 'while they bear the burden of defending Jewish lives,' as U.S. ultra-Orthodox Jews have sent over $150 million in donations in the last two years"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
