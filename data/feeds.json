@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-01-03T08:12:42.108Z",
+  "generated_at": "2026-01-03T08:45:51.237Z",
   "items": [
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Saudi Arabia welcomes request from Yemen to help resolve southern battle",
+      "url": "https://www.aljazeera.com/news/2026/1/3/saudi-arabia-welcomes-request-from-yemen-to-help-resolve-southern-battle?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-03T08:36:07.000Z",
+      "summary": "Saudi foreign ministry calls on southern factions in Yemen to participate in the forum in Riyadh amid rising casualties."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "דרמה בוונצואלה: טראמפ פתח במתקפה נרחבת, פיצוצים בבירה קראקס, מטוסים ומסוקים תועדו באוויר",
+      "url": "https://www.ynet.co.il/news/article/bkxhd4ivzx",
+      "image": null,
+      "published_at": "2026-01-03T08:30:15.000Z",
+      "summary": "פיצוצים רבים נשמעו בבירת ונצואלה החל מ-01:50, אש תועדה בנמל תעופה וגם בבסיס מרכזי שבו מטה משרד ההגנה, לפי דיווחים גם מסוקים ומטוסים חגו באוויר. תושבים מבוהלים ברחו לרחובות, הפסקות חשמל נרחבות: \"כל האדמה רעדה, שמענו גם קולות ירי\". טראמפ טרם התייחס, בארה\"ב דווח: הוא הורה על הפצצות בהיקף נרחב. מדורו הכ"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "U.S. forces strike Venezuela; Caracas declares national state of emergency",
+      "url": "https://www.haaretz.com/world-news/2026-01-03/ty-article/.premium/smoke-rises-and-loud-noises-heard-in-venezuelan-capital-of-caracas/0000019b-82c0-d019-a9df-afef73eb0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-82c5-dd73-abff-92cd81910000/bf/b8/dad902f746dbbedadd386670c290/266461.jpg?height=81",
+      "published_at": "2026-01-03T08:21:00.000Z",
+      "summary": "Videos circulating on social media showed multiple explosions across Caracas, while their cause remains unclear. Trump has accused the South American country of flooding the U.S. with drugs, and his administration has, for months, been bombing boats originating in South America"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +40,16 @@
       "image": null,
       "published_at": "2026-01-03T08:08:41.000Z",
       "summary": "The Moshe Castel Museum of Art marks 15 years of presenting the works of underappreciated Israeli artists to the public."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Iranians face mounting hardship as protests intensify",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/iranians-face-mounting-hardship-as-protests-intensify?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-03T08:06:29.000Z",
+      "summary": "Protests have entered a second week across Iran, driven by anger over soaring prices, inflation, and a plunging currency"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -50,16 +90,6 @@
       "image": null,
       "published_at": "2026-01-03T07:44:21.000Z",
       "summary": "More than 10 South Sudanese have been captured in the North Kordofan State in central Sudan, sources say."
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "U.S. reportedly strikes Venezuela; Caracas declares national state of emergency",
-      "url": "https://www.haaretz.com/world-news/2026-01-03/ty-article/.premium/smoke-rises-and-loud-noises-heard-in-venezuelan-capital-of-caracas/0000019b-82c0-d019-a9df-afef73eb0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-82c5-dd73-abff-92cd81910000/bf/b8/dad902f746dbbedadd386670c290/266461.jpg?height=81",
-      "published_at": "2026-01-03T07:33:34.000Z",
-      "summary": "Videos circulating on social media showed multiple explosions across Caracas, while their cause remains unclear. Trump has accused the South American country of flooding the U.S. with drugs, and his administration has, for months, been bombing boats originating in South America"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -122,24 +152,14 @@
       "summary": "The US president earlier said if peaceful protesters are killed, Washington \"will come to their rescue\"."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "דרמה בוונצואלה: טראמפ פתח במתקפה, פיצוצים בבירה קראקס, מטוסים באוויר | תיעוד",
-      "url": "https://www.ynet.co.il/news/article/bkxhd4ivzx",
-      "image": null,
-      "published_at": "2026-01-03T06:33:36.000Z",
-      "summary": "פיצוצים רבים נשמעו בבירת ונצואלה בסביבות 2:00, אש תועדה בנמל תעופה וגם בבסיס מרכזי שבו מטה משרד ההגנה, לפי דיווחים גם מסוקים ומטוסים חגו באוויר. תושבים מבוהלים ברחו לרחובות, הפסקות חשמל נרחבות: \"האדמה רעדה, שמענו גם קולות ירי\". הבית הלבן טרם התייחס, בארה\"ב דווח: אלו הפצצות בהוראת טראמפ. מדורו הכריז "
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Explosions heard over Venezuelan capital Caracas amid US tensions",
+      "title": "Venezuela accuses US of bombing civilian, military installations",
       "url": "https://www.aljazeera.com/news/2026/1/3/explosions-heard-over-venezuelan-capital-caracas-amid-us-tensions?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-03T06:30:17.000Z",
-      "summary": "The southern area of ‌the ‌city, ⁠near a major military ‌base, is reportedly without electricity."
+      "summary": "President Nicolas Maduro has declared a national state of emergency in Venezuela. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -165,7 +185,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Live: Saudi Arabia invites Yemeni factions for ‘dialogue’ amid fighting",
+      "title": "Updates: Saudi Arabia invites Yemeni factions for ‘dialogue’ amid fighting",
       "url": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-saudi-arabia-invites-yemeni-factions-for-dialogue-amid-fighting?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-03T05:56:06.000Z",
@@ -420,6 +440,16 @@
       "image": null,
       "published_at": "2026-01-03T00:11:32.000Z",
       "summary": "חצי שעה לתוך 2026: רעולי פנים תקפו את המפעל, סמוך לאדינבורו שבסקוטלנד, בקריאה לבטל קשרים לחברת לאונרדו - שנטען כי מייצרת רכיבי F-35 עבור ישראל. צפו בתיעוד שפרסמו הפעילים - שבו הם נראים משחיתים בפטישים ומרססים גרפיטי על מכונות: \"יש רק דרך אחת שבה זה נגמר\""
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'Somewhere to put worker bees': Why Canada's micro-condos are losing their appeal",
+      "url": "https://www.bbc.com/news/articles/cqxq32zzq8eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec58/live/cb1ea8b0-e594-11f0-b67b-690eb873de1b.jpg",
+      "published_at": "2026-01-03T00:05:07.000Z",
+      "summary": "The condo market in Canada's biggest cities is undergoing a historic crash, with smaller units losing their value faster than any others."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -825,7 +855,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Watch: Earthquake interrupts Mexico's president during press conference",
+      "title": "Watch: Earthquake interrupts Mexico's president during news conference",
       "url": "https://www.bbc.com/news/videos/ckgkn3v8mndo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b7/live/21ef4870-e7fc-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2026-01-02T17:37:25.000Z",
@@ -912,16 +942,6 @@
       "summary": "Families face agonising wait as investigators work to identify at least 40 people killed, many others wounded in blaze."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Nigeria police charge Joshua driver with dangerous driving over fatal crash",
-      "url": "https://www.aljazeera.com/sports/2026/1/2/nigeria-police-charge-joshua-driver-in-fatal-crash-with-dangerous-driving?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-02T16:24:16.000Z",
-      "summary": "Crash kills two men and injures British boxer Anthony Joshua in Nigeria."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -990,16 +1010,6 @@
       "image": null,
       "published_at": "2026-01-02T14:53:27.000Z",
       "summary": "נווט הקרב הבין רק על הקרקע שהגבול נפרץ, טייס המסוקים קיבל פקודה לחסל את כל מי שנמצא בין הגדר ליישובים: רס\"ן ע' ואל\"ם א' שהיו בכוננות בבסיס רמון משחזרים את השעות הראשונות של טבח 7/10, את הכאוס שהלך והתבהר, את התקיפות בזמן שההורים נצורים בממ\"ד - ואת הרגעים שבהם נפל האסימון: \"מעל בארי הבנתי שזה גדול יו"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Pakistan court sentences journalists to life over 2023 pro-Khan protests",
-      "url": "https://www.aljazeera.com/news/2026/1/2/pakistan-court-sentences-journalists-to-life-over-2023-pro-khan-protests?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-02T14:52:06.000Z",
-      "summary": "Court sentences journalists in absentia over alleged links to violent unrest after ex-PM Imran Khan&#039;s May 2023 arrest."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1542,16 +1552,6 @@
       "summary": "Mamdani's inauguration signifies an American embrace of breaking from political convention to take a risk on someone inexperienced, but large in ambition. And on Israel, he's now created a new precedent for policy"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?",
-      "url": "https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b2/live/a55bf4a0-e712-11f0-a8dc-93c15fe68710.jpg",
-      "published_at": "2026-01-01T20:11:45.000Z",
-      "summary": "To succeed in office he will need to keep his supporters engaged with day-to-day governing, experts say."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1835,16 +1835,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Americans brace to start New Year without healthcare",
-      "url": "https://www.bbc.com/news/articles/c98n8lrj7y6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4b/live/c0f56fc0-e4fb-11f0-bbb4-738620fa9ed1.jpg",
-      "published_at": "2026-01-01T14:22:57.000Z",
-      "summary": "More than 20 million Americans are preparing for steeper healthcare costs in the New Year because of expiring subsidies. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "New discovery may challenge theory Vikings built first Irish towns - researcher",
       "url": "https://www.bbc.com/news/articles/clyw59v8978o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/609e/live/086f8290-e7c3-11f0-b67b-690eb873de1b.jpg",
@@ -2020,16 +2010,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-780b-d585-abdf-7ffbe9920000/25/57/2e6363364673bae9841d784195c2/252709.jpg?height=81",
       "published_at": "2026-01-01T06:13:20.000Z",
       "summary": "Mamdani, who is also the city's first Muslim mayor, used his grandfather's Quran and one that belonged to Arturo Schomburg, the Black writer and historian, for the swearing-in ceremony. He has faced backlash for his past statements on Israel and his vow to arrest Netanyahu"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "In pictures: New Year welcomed around the world",
-      "url": "https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7584/live/236109f0-e6d5-11f0-a8dc-93c15fe68710.jpg",
-      "published_at": "2026-01-01T05:48:26.000Z",
-      "summary": "From spectacular firework displays to chilly sea dips, nations celebrate the start of 2026."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2272,16 +2252,6 @@
       "summary": "Nearly 60 percent of Tarabin's residents voted for Likud in the last election. Four years after Netanyahu sat here and had coffee with locals, his coalition returned with tear gas and concrete barriers in a massive police crackdown. 'He drank coffee as a friend, now he sends us Ben-Gvir,' a resident"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Passenger describes 'chaos' after head-on Machu Picchu train collision",
-      "url": "https://www.bbc.com/news/articles/c4gweww8rjro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df66/live/4a54d630-e663-11f0-8e2a-3df90dbf71c4.jpg",
-      "published_at": "2025-12-31T16:42:33.000Z",
-      "summary": "Tourist Niels Honkoop says shattered glass littered the carriage floor and injured people were lying in the aisles."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2330,26 +2300,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-73cb-da0b-a1bf-fffbc70b0001/af/5a/698b9cd747c8a949e84ccd384d9a/237415.jpg?height=81",
       "published_at": "2025-12-31T15:21:11.000Z",
       "summary": "Trump's transactional politics, based on money, power and corruption, brought the Israeli hostages home from Gaza – and now he wants to secure a pardon for Netanyahu. How do we navigate our conscience in times like these? How do we stay sane inside a deluge of manipulations and lies?"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Saving South Africa's threatened albatross from lethal fishing lines",
-      "url": "https://www.bbc.com/news/articles/cwywv4ndwqxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b1d/live/a50d9fb0-e624-11f0-aae2-2191c0e48a3b.jpg",
-      "published_at": "2025-12-31T00:23:10.000Z",
-      "summary": "A task force is trying to save seabirds from getting caught and killed in fishing boat nets."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal",
-      "url": "https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d25/live/dd2a5d60-e59e-11f0-8bbe-6935d94eeebc.jpg",
-      "published_at": "2025-12-30T17:33:40.000Z",
-      "summary": "Two of the main sticking points involve territory and the fate of Europe's biggest nuclear plant, which is currently occupied by Russia."
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
