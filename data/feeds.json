@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-01-04T09:09:04.253Z",
+  "generated_at": "2026-01-04T09:37:19.858Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Police identify 16 more victims of Swiss bar fire",
+      "url": "https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5887/live/18e0d720-e94c-11f0-ba71-4b785691acc9.jpg",
+      "published_at": "2026-01-04T09:35:27.000Z",
+      "summary": "A criminal investigation has been launched into the fire, with families now facing an agonising wait to identify missing loved ones."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Maduro in NY jail after capture; Venezuela&#8217;s VP Rodriguez claims op had &#8216;Zionist tint&#8217;",
+      "url": "https://www.timesofisrael.com/maduro-in-ny-jail-after-capture-venezuelas-vp-rodriguez-claims-op-had-zionist-tint/",
+      "image": null,
+      "published_at": "2026-01-04T09:04:05.000Z",
+      "summary": "Venezuela's Supreme Court rules Rodriguez, whom Trump has indicated he could work with, to become interim leader; UN Security Council to meet Monday over US operation\nThe post Maduro in NY jail after capture; Venezuela&#8217;s VP Rodriguez claims op had &#8216;Zionist tint&#8217; appeared first on T"
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -9,7 +29,7 @@
       "url": "https://www.ynet.co.il/news/article/r1i2liw4wg",
       "image": null,
       "published_at": "2026-01-04T08:58:00.000Z",
-      "summary": "מח\"ש פתחה בחקירת הירי במוחמד חוסיין תראבין, והשוטר היורה מיחידת הגדעונים נחקר באזהרה. המשטרה טענה כי מוחמד סיכן את הכוח, בן דודו האשים בריאיון לאולפן ynet: \"זה חיסול בדם קר\""
+      "summary": "מח\"ש פתחה בחקירת הירי במוחמד חוסיין תראבין, והשוטר היורה מיחידת העילית נחקר באזהרה. המשטרה טענה כי מוחמד סיכן את הכוח, בן דודו האשים בריאיון לאולפן ynet: \"זה חיסול בדם קר\". בנו בן ה-11 העיד: \"הם ירו, גררו אותו למרפסת וניקו את הדם\". תושבים בכפר טענו: \"בן גביר עושה תג מחיר\""
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -27,7 +47,7 @@
       "topic": "News",
       "title": "Who's in charge of Venezuela and what happens next?",
       "url": "https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68de/live/f8510680-e93a-11f0-aae2-2191c0e48a3b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e79/live/cecd7e60-e94e-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2026-01-04T08:47:29.000Z",
       "summary": "Donald Trump says the US will \"run\" Venezuela until a \"safe\" transition after capturing its president and first lady."
     },
@@ -39,7 +59,7 @@
       "url": "https://www.ynet.co.il/news/article/s111b8ipn11g",
       "image": null,
       "published_at": "2026-01-04T08:45:04.000Z",
-      "summary": "נוירולוג בן 36 חשוד שרצח ביריות את אחיו בכר מחמוד יאסין בעראבה. הרקע, על פי החשד: ויכוחים בתוך המשפחה. לאחר הירי הוא נמלט - וכעבור שעות נתפס בדירת מסתור עם אקדח"
+      "summary": "נוירולוג בן 36 חשוד שרצח ביריות את אחיו בכר מחמוד יאסין בעראבה. הרקע, על פי החשד: ויכוחים בתוך המשפחה. לאחר הירי הוא נמלט - וכעבור שעות נתפס בדירת מסתור עם אקדח. במקרה אחר: נקבע מותו של בן 70 שנורה בערב השנה החדשה"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -275,7 +295,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "'Enough is enough': Gali and Ziv Berman detail moments from over two years in Hamas captivity",
+      "title": "‘They shot the dog, they shot Emily’: Berman twins reveal life and fear under Hamas",
       "url": "https://www.jpost.com/israel-news/article-882195",
       "image": null,
       "published_at": "2026-01-04T05:30:19.000Z",
@@ -445,21 +465,21 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "White House shares &#8216;perp walk&#8217; video of Maduro in New York City after capture",
+      "title": "Israel Police says it has handed over probe of Qatargate affair to state prosecutor",
       "url": "https://www.timesofisrael.com/liveblog-january-4-2026/",
       "image": null,
       "published_at": "2026-01-04T01:08:10.000Z",
-      "summary": "Venezuela’s Supreme Court rules VP Delcy Rodriguez will be interim president * Ben Gvir congratulates cops for shooting Bedouin suspect to death amid extended anti-crime raid\nThe post White House shares &#8216;perp walk&#8217; video of Maduro in New York City after capture appeared first on The Time"
+      "summary": "White House shares 'perp walk' video of Maduro in New York City after capture * Internal investigation launched into overnight fatal shooting of Bedouin man during police raid\nThe post Israel Police says it has handed over probe of Qatargate affair to state prosecutor appeared first on The Times of "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Ben-Gvir pledges 'full support' for police after resident killed in raid on Arab Israeli village",
+      "title": "Ben-Gvir pledges 'full support' for police after Arab Israeli killed in raid on Bedouin village",
       "url": "https://www.haaretz.com/israel-news/2026-01-04/ty-article/.premium/ben-gvir-pledges-full-support-after-police-kill-suspect-in-raid-on-arab-israeli-village/0000019b-865a-d585-abdf-c7fb31780000",
       "image": "https://img.haarets.co.il/bs/0000019b-760d-d019-a9df-7fafa9010000/11/b9/2f3cbc6546d69bde8294d77d0e1b/64297194.JPG?height=81",
       "published_at": "2026-01-04T00:54:56.000Z",
-      "summary": "Police said a resident slated for arrest 'threatened the forces' during an elite unit's raid in a Bedouin village in southern Israel. A police source said the man was shot when the forces raided his house overnight, and locals say he died after being shot once"
+      "summary": "Residents of Tarabin said that Mohammed Hussein Tarabin al-Sana, 35, a father of six, was shot in front of his family, with no struggle. 'The minute he opened the door, they shot him,' said his cousin. 'It was murder in every sense'"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1020,16 +1040,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce0a/live/d7d4dfd0-e877-11f0-bc7f-29a9366d9201.jpg",
       "published_at": "2026-01-03T15:37:17.000Z",
       "summary": "The family who survived the Hamas attack in 2023 call the incident an “intrusion”."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Who is Nicolas Maduro? Bus driver turned president led Venezuela with a heavy hand",
-      "url": "https://www.timesofisrael.com/who-is-nicolas-maduro-bus-driver-turned-president-led-venezuela-with-a-heavy-hand/",
-      "image": null,
-      "published_at": "2026-01-03T15:25:41.000Z",
-      "summary": "After succeeding Hugo Chavez in 2013, Maduro persecuted political opponents and repeatedly staged sham elections, while his supporters hailed him as a hero who stood up to the US\nThe post Who is Nicolas Maduro? Bus driver turned president led Venezuela with a heavy hand appeared first on The Times o"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
