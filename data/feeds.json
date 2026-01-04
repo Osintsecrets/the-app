@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-01-04T08:12:46.955Z",
+  "generated_at": "2026-01-04T08:45:31.154Z",
   "items": [
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Trump just sent a very dangerous message to Latin America",
+      "url": "https://www.aljazeera.com/opinions/2026/1/4/trump-just-sent-a-very-dangerous-message-to-latin-america?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-04T08:22:20.000Z",
+      "summary": "No one is safe from an immediate and violent US intervention."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Bernie Sanders condemns Trump’s attack on Venezuela",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/4/bernie-sanders-condemns-trumps-attack-on-venezuela?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-04T08:01:10.000Z",
+      "summary": "Bernie Sanders has condemned Trump’s attack on Venezuela accusing him of bypassing Congress to take the country into war"
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -39,7 +59,7 @@
       "url": "https://www.ynet.co.il/news/article/rkoqgfv411x",
       "image": null,
       "published_at": "2026-01-04T07:33:32.000Z",
-      "summary": "נשיא ונצואלה המודח מואשם בקשירת קשר ל\"טרור סמים\", החזקת נשק וייבוא קוקאין, ומי שישפוט אותו הוא אלווין הלרשטיין - יהודי שומר מצוות שפסק בעבר נגד טראמפ בנושא מהגרים. זה מתקן המעצר \"הבעייתי ביותר\" שבו מוחזק מדורו, אליו שופטים מסרבים לשלוח אסירים: \"מקום ברברי\""
+      "summary": "רודן ונצואלה מואשם בקשירת קשר ל\"טרור סמים\", החזקת נשק וייבוא קוקאין, ומי שישפוט אותו הוא אלווין הלרשטיין - יהודי שומר מצוות שפסק בעבר נגד טראמפ בנושא מהגרים. זה מתקן המעצר \"הבעייתי ביותר\" שבו מוחזק מדורו, אליו שופטים מסרבים לשלוח אסירים: \"מקום ברברי\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -415,11 +435,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Maduro at New York detention centre; Trump says US to ‘run’ Venezuela",
+      "title": "LIVE: Maduro being questioned in New York; Trump says US to ‘run’ Venezuela",
       "url": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-venezuelas-maduro-arrives-in-new-york-after-capture?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-03T23:50:46.000Z",
-      "summary": "The US has bombed Venezuela and toppled President Nicolas Maduro, who was seized and taken to New York."
+      "summary": "The US has bombed Venezuela and toppled President Nicolas Maduro, who was abducted with his wife and taken to New York."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -950,26 +970,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d37/live/bd69bc30-e8c5-11f0-aae2-2191c0e48a3b.jpg",
       "published_at": "2026-01-03T17:20:46.000Z",
       "summary": "President Donald Trump announced that the US will run Venezuela until a 'proper transition can take place.'"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump: US ‘captures’ Maduro in ‘dead of night’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/3/trump-us-captures-maduro-in-dead-of?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-03T17:17:54.000Z",
-      "summary": "US President Donald Trump said the US will run Venezuela until there is a “safe and judicious” transition of power."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Real Madrid to ‘push deadline’ for Mbappe to make Atletico Super Cup return",
-      "url": "https://www.aljazeera.com/sports/2026/1/3/real-madrid-to-push-deadline-for-mbappe-to-make-atletico-super-cup-return?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-03T17:14:50.000Z",
-      "summary": "Real Madrid&#039;s Kylian Mbappe out of Sunday&#039;s Real Betis clash in La Liga, and now in race for Atletico Super Cup derby."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1837,7 +1837,7 @@
       "topic": "News",
       "title": "Israel launches widescale enforcement operation in southern Bedouin village targeted by police",
       "url": "https://www.haaretz.com/israel-news/2026-01-01/ty-article/.premium/israel-launches-widescale-enforcement-operation-in-bedouin-village-targeted-by-police/0000019b-7ac7-d379-a3bb-faf753ab0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-7adf-d019-a9df-7fffa3680002/c2/ca/37e291d74083bb32addb21ce08c8/247799.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-8818-d487-a3bf-f91d5e470000/86/70/80f35e044a389a42b57cd68c9f39/6o9a4791.jpg?height=81",
       "published_at": "2026-01-01T19:24:04.000Z",
       "summary": "A senior police officer told Haaretz that the deterrence operation in southern Israel's Tarabin was meant to 'strengthen governability and to create friction with the population,' adding that 'the goal is primarily to be seen there and create deterrence among the criminals'"
     },
