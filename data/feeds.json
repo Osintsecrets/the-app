@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-01-04T17:07:55.288Z",
+  "generated_at": "2026-01-04T17:38:16.397Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "IDF investigating possible West Bank car ramming, one reportedly injured",
+      "title": "Goldknopf likens sanctions on haredi draft dodgers to placing 'yellow badge' on them at the Knesset",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-882291",
+      "image": null,
+      "published_at": "2026-01-04T19:32:11.000Z",
+      "summary": "“I beg you, exempt them from everything,” United Torah Judaism chairperson Goldknopf told the panel, before seeming to refer to the yellow star that Nazi’s placed on Jews during the Holocaust."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "13-year-old injured in West Bank possible car ramming attack, IDF investigates incident",
       "url": "https://www.jpost.com/israel-news/article-882287",
       "image": null,
       "published_at": "2026-01-04T18:33:03.000Z",
-      "summary": "The incident occured near Maayan Ateret, the military noted."
+      "summary": "The IDF set up roadblocks near Ramallah and Bir Zeit, and is searching for the suspect."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בן גביר מעכב מינוי דובר לאגף החקירות: \"נלקח בן ערובה במאבק השר בראש אח\"מ\"",
+      "url": "https://www.ynet.co.il/news/article/byshczu4be",
+      "image": null,
+      "published_at": "2026-01-04T17:16:24.000Z",
+      "summary": "השר לביטחון לאומי מסרב לחתום על מינויו של סנ״צ איציק אלפסי לתפקיד דובר אגף החקירות והמודיעין, אף שהקידום אושר בתוכנית השיבוצים של המשטרה - והוא כיהן בו טרם יציאתו לקורס פיקוד ומטה. בארגון מודאגים מכך שבאגף שעוסק בחקירות הרגישות ובהן קטאר-גייט אין דובר: ״פוגע ישירות ביכולתו לתפקד״"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "West Bank Palestinian arrested for lowering girl over barrier into Israel by rope",
+      "url": "https://www.timesofisrael.com/west-bank-palestinian-arrested-for-lowering-girl-over-barrier-into-israel-by-rope/",
+      "image": null,
+      "published_at": "2026-01-04T17:10:02.000Z",
+      "summary": "Police say man suspected of 'smuggling infiltrators' into Israel and 'abusing a helpless person'\nThe post West Bank Palestinian arrested for lowering girl over barrier into Israel by rope appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Has the US made peace with the rise of China?",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/1/4/has-the-us-made-peace-with-the-rise-of-china?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-04T17:06:21.000Z",
+      "summary": "China political analyst Victor Gao argues that the US has come to terms with China’s growing power."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -20,6 +60,16 @@
       "image": null,
       "published_at": "2026-01-04T17:01:54.000Z",
       "summary": "אם מישהו באמת מחפש מדד ליראת שמיים, הוא לא היכולת לדקלם \"שמע ישראל\" בעל-פה. הוא איך אנחנו מדברים על מי שלא חושב כמונו. ועד כמה זה באמת יהודי ואנושי"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "'Heightens alarm in Tehran': What Trump's attack on Venezuela means for Iran and MAGA isolationists",
+      "url": "https://www.haaretz.com/us-news/2026-01-04/ty-article/.premium/what-trumps-attack-on-venezuela-means-for-iran-and-maga-isolationists/0000019b-8913-dbf4-a79f-995b23e30000",
+      "image": "https://img.haarets.co.il/bs/0000019b-8923-db5e-adbf-ffb36b660000/81/67/6b4dd90e4a0d96e5a676dd008a72/274936.jpg?height=81",
+      "published_at": "2026-01-04T17:00:47.000Z",
+      "summary": "Trump's recent threats to Iran alongside Netanyahu in Mar-a-lago have taken on a new dimension with the seizure of Maduro – a signal to both Tehran and Trump's anti-interventionist base of how far his administration is willing to go with adversarial regimes"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -115,7 +165,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Far-Right MK pressures Education Ministry to purge Haaretz texts from high-school exams",
+      "title": "Far-right MK pressures Education Ministry to purge Haaretz articles from high-school exams",
       "url": "https://www.haaretz.com/israel-news/2026-01-04/ty-article/.premium/far-right-mk-pressures-education-ministry-to-purge-haaretz-texts-from-high-school-exams/0000019b-8965-db5e-adbf-fff5af6b0000",
       "image": "https://img.haarets.co.il/bs/0000019b-8981-d1a9-a1fb-ddcf15780000/53/22/3d2a5c944c04b83b48bbebfc7d53/198590.jpg?height=81",
       "published_at": "2026-01-04T16:10:32.000Z",
@@ -155,11 +205,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "זוהו האחיות היהודיות שנספו ב\"בר המוות\" בשווייץ, העבר האפל של הבעלים נחשף",
+      "title": "זוהתה האזרחית הישראלית שנספתה ב\"בר המוות\" בשווייץ, העבר האפל של הבעלים נחשף",
       "url": "https://www.ynet.co.il/news/article/hyuaul00ebe",
       "image": null,
       "published_at": "2026-01-04T15:52:28.000Z",
-      "summary": "נמשך ההליך המייסר של זיהוי הגופות בעיירת הסקי קראן-מונטנה, עד כה נמסרה הודעה למשפחותיהם של 24 נספים, רבים מהם בני נוער. בין ההרוגים אליסיה ודיאנה גונסט בנות ה-15 ו-14, האזרחית הישראלית שרלוט נידהאם עדיין מוגדרת נעדרת. חקירה פלילית נגד הבעלים של הבר ז'אק וג'סיקה מורטי, בצרפת מדווחים: הבעל נשלח ב-2005"
+      "summary": "נמשך ההליך המייסר של זיהוי הגופות בעיירת הסקי קראן-מונטנה, ועד כה נמסרה הודעה למשפחותיהם של 24 נספים, רבים מהם בני נוער. בין ההרוגים גם האזרחית הישראלית שרלוט נידהאם והאחיות היהודיות אליסיה ודיאנה גונסט, בנות 15 ו-14. חקירה פלילית נפתחה נגד הבעלים של הבר ז'אק וג'סיקה מורטי, בצרפת מדווחים: הבעל נשלח "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -782,16 +832,6 @@
       "summary": "“They&#039;re [China] working with other Latin American and Caribbean countries to say, This isn&#039;t right.”"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "British, French warplanes strike suspected ISIS weapons stockpile in Syria",
-      "url": "https://www.timesofisrael.com/british-french-warplanes-strike-suspected-isis-weapons-stockpile-in-syria/",
-      "image": null,
-      "published_at": "2026-01-04T11:02:02.000Z",
-      "summary": "Overnight strike on underground facility near Palmyra was meant to prevent any resurgence of Islamist group and posed no risk to civilians, say allies\nThe post British, French warplanes strike suspected ISIS weapons stockpile in Syria appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -845,7 +885,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Why Trump's Venezuela playbook won't work in Iran – and could spark civil war",
+      "title": "Why Trump's Venezuela playbook won't work in Iran",
       "url": "https://www.haaretz.com/middle-east-news/2026-01-04/ty-article/.premium/why-trumps-venezuela-playbook-wont-work-in-iran-and-could-spark-civil-war/0000019b-880b-d019-a9df-afaf41c90000",
       "image": "https://img.haarets.co.il/bs/0000019b-889e-d379-a3bb-fabec9d10000/1c/7f/4ea505ec460b94565efb21ef3db3/231824.jpg?height=81",
       "published_at": "2026-01-04T10:35:25.000Z",
@@ -1052,16 +1092,6 @@
       "summary": "No one is safe from an immediate and violent US intervention."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Bernie Sanders condemns Trump’s attack on Venezuela",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/4/bernie-sanders-condemns-trumps-attack-on-venezuela?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-04T08:01:10.000Z",
-      "summary": "Bernie Sanders has condemned Trump’s attack on Venezuela accusing him of bypassing Congress to take the country into war"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1070,16 +1100,6 @@
       "image": null,
       "published_at": "2026-01-04T07:58:23.000Z",
       "summary": "מאסר עולם נגזר על המחבל איברהים שלהוב מטול כרם, שהיה בעברו סייען של שב\"כ. עם סיום הפעלתו דקר למוות את לודמילה ליפובסקי מחוץ לדיור מוגן בהרצליה. השופטים קבעו: \"הנאשם ניצל את האישור לשהות בישראל וקטל חיים. הבת מצאה את אמה שותתת דם\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "היהודי בן ה-92 שישפוט את מדורו, ומתקן המעצר שבו יוחזק: \"גיהינום עלי אדמות\"",
-      "url": "https://www.ynet.co.il/news/article/rkoqgfv411x",
-      "image": null,
-      "published_at": "2026-01-04T07:33:32.000Z",
-      "summary": "רודן ונצואלה מואשם בקשירת קשר ל\"טרור סמים\", החזקת נשק וייבוא קוקאין, ומי שישפוט אותו הוא אלווין הלרשטיין - יהודי שומר מצוות שפסק בעבר נגד טראמפ בנושא מהגרים. זה מתקן המעצר \"הבעייתי ביותר\" שבו מוחזק מדורו, אליו שופטים מסרבים לשלוח אסירים: \"מקום ברברי\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1802,16 +1822,6 @@
       "summary": "The new mayor voided all Adams-era executive orders issued after his federal indictment, including the city's adoption of the IHRA definition of antisemitism, but pledged in his inaugural address to keep the Office to Combat Antisemitism"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Netanyahu's Mar-a-Lago visit, praise from Trump gives coalition two-seat bump - poll",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-882104",
-      "image": null,
-      "published_at": "2026-01-02T07:15:50.000Z",
-      "summary": "Parties that did not cross the electoral threshold in this survey were Blue and White (2%), Religious Zionism (2.8%), Balad (2%), and “the Reservists” list (3%)."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2200,16 +2210,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-792f-dd73-abff-7bef7fbc0005/ff/4b/a3e12da84e129be59fd4245479af/249296.jpg?height=81",
       "published_at": "2026-01-01T11:15:24.000Z",
       "summary": "The Israeli Prime Minister sang the current U.S. President's praises as he concluded a visit where Trump offered public backing to his government's actions, and urged American Jews to 'fight back' against antisemitism"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "General who headed key IDF intelligence unit on October 7 dies at 47",
-      "url": "https://www.haaretz.com/israel-news/2026-01-01/ty-article/general-who-headed-key-idf-intelligence-unit-on-october-7-dies-at-47/0000019b-792e-d7b1-af9f-793f00350000",
-      "image": "https://img.haarets.co.il/bs/0000019b-78d9-d019-a9df-7fff41c50000/45/6c/b169cef046adacf101cf980601bb/126602.jpg?height=81",
-      "published_at": "2026-01-01T10:55:04.000Z",
-      "summary": "Former IDF Chief of Staff Gadi Eisenkot said Amit Sa'ar, who died of cancer, served 'with deep pain and piercing self-criticism that were always evident on his face'"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
