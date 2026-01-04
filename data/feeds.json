@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-04T10:41:10.382Z",
+  "generated_at": "2026-01-04T11:07:51.511Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Qatargate: Police transfer case to prosecution, seek extension of restrictions on Urich",
+      "url": "https://www.jpost.com/israel-news/article-882253",
+      "image": null,
+      "published_at": "2026-01-04T12:47:41.000Z",
+      "summary": "With the Qatargate case now in prosecutors’ hands, decisions on indictments or further probes are pending."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -12,12 +22,72 @@
       "summary": "Sukkot stated that Haaretz has \"become a mouthpiece for anti-Zionist propaganda, and in some cases even includes content that encourages the delegitimization of IDF soldiers and the State of Israel."
     },
     {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "British, French warplanes strike suspected ISIS weapons stockpile in Syria",
+      "url": "https://www.timesofisrael.com/british-french-warplanes-strike-suspected-isis-weapons-stockpile-in-syria/",
+      "image": null,
+      "published_at": "2026-01-04T11:02:02.000Z",
+      "summary": "Overnight strike on underground facility near Palmyra was meant to prevent any resurgence of Islamist group and posed no risk to civilians, say allies\nThe post British, French warplanes strike suspected ISIS weapons stockpile in Syria appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli officials warn Iran may strike across the Middle East to quell protests",
+      "url": "https://www.haaretz.com/israel-news/2026-01-04/ty-article/.premium/israeli-officials-warn-iran-may-launch-regional-strikes-to-quell-protests/0000019b-8868-dd73-abff-9aecbf060000",
+      "image": "https://img.haarets.co.il/bs/0000019b-8885-d487-a3bf-f98d0bf40001/71/9b/464ccbbb4bf5b4879e1a4eac21d5/247758.jpg?height=81",
+      "published_at": "2026-01-04T10:55:36.000Z",
+      "summary": "Israeli diplomatic officials believe that to survive, the Iranian government will likely implement a series of reforms aimed at appeasing the public – including greater flexibility on the nuclear issue – in an effort to lift the international sanctions that are weighing heavily on its economy"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "נתניהו: \"פיטורי בן גביר לא יקרו\"",
+      "url": "https://www.ynet.co.il/news/article/rjmhn6d4zx",
+      "image": null,
+      "published_at": "2026-01-04T10:55:18.000Z",
+      "summary": "בתגובה ראשונה ליועמ\"שית, שקראה לו לפטר את השר לביטחון לאומי, הבהיר רה\"מ בישיבת הממשלה כי אין בכוונתו לעשות זאת: \"זה מביך. הטיעונים הזויים\". השרים ניצלו את ההזדמנות ותקפו את המשנה ליועמ\"שית לימון"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Palestinian jailed for life for stabbing Holocaust survivor to death in terror attack",
+      "url": "https://www.timesofisrael.com/palestinian-jailed-for-life-for-stabbing-holocaust-survivor-to-death-in-terror-attack/",
+      "image": null,
+      "published_at": "2026-01-04T10:52:05.000Z",
+      "summary": "Ibrahim Shalhoub from West Bank, an ex-Shin Bet informant, also ordered to pay damages for murdering 83-year-old Holocaust survivor Ludmila Lipovsky in Herzliya in December 2024\nThe post Palestinian jailed for life for stabbing Holocaust survivor to death in terror attack appeared first on The Times"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Who's in charge of Venezuela and what happens next?",
+      "url": "https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e79/live/cecd7e60-e94e-11f0-aae2-2191c0e48a3b.jpg",
+      "published_at": "2026-01-04T10:50:56.000Z",
+      "summary": "Donald Trump says the US will \"run\" Venezuela until a \"safe\" transition after capturing its president and first lady."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"חטיפות, מכות ואלפי טונות קוקאין\": האישום נגד הזוג מדורו - וההלם בעולם מטראמפ",
+      "url": "https://www.ynet.co.il/news/article/b1edm2dn11l",
+      "image": null,
+      "published_at": "2026-01-04T10:46:17.000Z",
+      "summary": "בעולם הגיבו בהלם ללכידת נשיא ונצואלה מדורו, ומבקריו של טראמפ מזהירים כי בדיבוריו על אכיפת דומיננטיות ב\"חצר האחורית\" של ארה\"ב הוא נותן אור ירוק לסין לפלוש לטייוואן ולרוסיה להמשיך בתוקפנותה כלפי אירופה: \"סמים? אז למה לא הפצצת את הקרטלים במקסיקו? המטרה היא הנפט, כהכנה לשינוי משטרי באיראן\", טענה למשל אש"
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
       "title": "Why Trump's Venezuela playbook won't work in Iran – and could spark civil war",
       "url": "https://www.haaretz.com/middle-east-news/2026-01-04/ty-article/.premium/why-trumps-venezuela-playbook-wont-work-in-iran-and-could-spark-civil-war/0000019b-880b-d019-a9df-afaf41c90000",
-      "image": "https://img.haarets.co.il/bs/0000019b-8879-dd73-abff-9afd249f0007/85/49/d944e84245be9f208c9f8a5a31de/64314243.JPG?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-889e-d379-a3bb-fabec9d10000/1c/7f/4ea505ec460b94565efb21ef3db3/231824.jpg?height=81",
       "published_at": "2026-01-04T10:35:25.000Z",
       "summary": "As Iran grapples with internal turmoil and economic woes, and any external attempts at regime change risk further instability, Trump's harsh stance on Tehran and Venezuela highlights his selective approach to global authoritarianism, with his administration appearing to target certain regimes while "
     },
@@ -39,7 +109,7 @@
       "url": "https://www.ynet.co.il/news/article/rybmc2we11e",
       "image": null,
       "published_at": "2026-01-04T10:21:57.000Z",
-      "summary": "ברשות שדות התעופה הודיעו כי צפויים עיכובים בהמראות ובנחיתות בנתב\"ג בעקבות תקלה בתדרי הרדיו ביוון - שגרמה לסגירת המרחב האווירי במדינה עד 16:00. חברות התעופה מנסות למצוא נתיבים עוקפים"
+      "summary": "ברשות שדות התעופה הודיעו כי צפויים עיכובים בהמראות ובנחיתות בנתב\"ג בעקבות תקלה בתדרי הרדיו ביוון - שגרמה לסגירת המרחב האווירי במדינה עד 16:00. מטוסים נאלצו לטוס דרך צפון מקדוניה, בולגריה וטורקיה כדי לשוב לישראל"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -220,16 +290,6 @@
       "image": null,
       "published_at": "2026-01-04T08:48:47.000Z",
       "summary": "Harlan Ullman, a senior advisor at Atlantic Council talks about Donald Trump’s plan to take over Venezuela."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Who's in charge of Venezuela and what happens next?",
-      "url": "https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e79/live/cecd7e60-e94e-11f0-aae2-2191c0e48a3b.jpg",
-      "published_at": "2026-01-04T08:47:29.000Z",
-      "summary": "Donald Trump says the US will \"run\" Venezuela until a \"safe\" transition after capturing its president and first lady."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -942,16 +1002,6 @@
       "summary": "On the screen he brought the noble and upright Palestinian to the Israeli audience. Behind the camera Bakri, who died last week at 72, tried to show Palestinian pain and trauma – and paid a price for it"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אישום חריג: 5 אחים הצטיידו באקדחים וחרבות בגלל טיקטוק - ורצחו את קרובי משפחתם",
-      "url": "https://www.ynet.co.il/news/article/sjfqsqlvzl",
-      "image": null,
-      "published_at": "2026-01-03T21:11:57.000Z",
-      "summary": "ג'הד, אסמא ועווד אבו מדיגם מואשמים כי רצחו את קרוב משפחת אשרף ואחיינו עבדאללה בתגובה לעלבונות שהטיח במשפחתם אשרף בסרטון טיקטוק: \"ירו לעברם במשך דקות ארוכות\". שני אחים נוספים החשודים במעורבות ברצח נמלטו ומבוקשים ע\"י המשטרה"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -980,16 +1030,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2953/live/35763f50-e8b2-11f0-b883-037c14a72405.jpg",
       "published_at": "2026-01-03T20:23:07.000Z",
       "summary": "Will the US push for elections or will it try to depose more members of the government, asks the BBC's Ione Wells. "
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הרגע שלו חיכו 7.7 מיליון מהגרים והחגיגות ברחבי העולם: \"נחזור לוונצואלה החופשית\"",
-      "url": "https://www.ynet.co.il/news/article/r1j84gvnbe",
-      "image": null,
-      "published_at": "2026-01-03T20:18:28.000Z",
-      "summary": "20% מהוונצואלים היגרו מארצם הענייה בעקבות שלטונו של ניקולס מדורו, וכעת - עם הדחתו על-ידי ארה\"ב - הם יצאו לחגוג בהמוניהם במדינות המארחות: \"שמחה שאבי נשאר בחיים לראות את הרגע הזה\". אבל הספקות שעדיין קיימים"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1022,16 +1062,6 @@
       "summary": "The Iranian-backed Handala group, which recently targeted Naftali Bennett and a top Netanyahu aide, claims to have breached the phone of former minister Ayelet Shaked and is threatening to release sensitive data on Hamas and others"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Breakthrough reported in 30-year-old murder case; court issues sweeping gag order",
-      "url": "https://www.timesofisrael.com/breakthrough-reported-on-30-year-old-murder-case-court-issues-sweeping-gag-order/",
-      "image": null,
-      "published_at": "2026-01-03T19:03:09.000Z",
-      "summary": "Nazareth Magistrate's Court order, valid until January 25, forbids publication of any details of case, or any details that could identify those involved\nThe post Breakthrough reported in 30-year-old murder case; court issues sweeping gag order appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1060,16 +1090,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bbd/live/7d75a0a0-e8b9-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2026-01-03T18:06:23.000Z",
       "summary": "The US has been ramping up pressure on the Venezuelan leader since Trump took office last January."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Israel expresses hope for resumption of Venezuela ties after Maduro&#8217;s deposal",
-      "url": "https://www.timesofisrael.com/israel-expresses-hope-for-resumption-of-venezuela-ties-after-maduros-deposal/",
-      "image": null,
-      "published_at": "2026-01-03T17:58:07.000Z",
-      "summary": "Foreign minister welcomes 'removal of the dictator'; Netanyahu congratulates Trump for 'bold and historic leadership,' without directly mentioning the operation\nThe post Israel expresses hope for resumption of Venezuela ties after Maduro&#8217;s deposal appeared first on The Times of Israel.\n"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1942,16 +1962,6 @@
       "summary": "In a string of recent Instagram posts his press office modestly labeled as AI-generated, Netanyahu can be seen brandishing a rifle as part of 'the AI team' alongside Trump, JD Vance and Marco Rubio, as well as taking a 'victory lap' with Trump aboard a B-2 bomber over Iran"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "FOZ founder Mike Evans tells Netanyahu evangelicals are ‘overwhelmingly united’ in Israel support",
-      "url": "https://www.jpost.com/israel-news/article-882058",
-      "image": null,
-      "published_at": "2026-01-01T18:16:45.000Z",
-      "summary": "Netanyahu framed the relationship as historically decisive, telling the group: “You are representatives of the Christian Zionists who made Jewish Zionism possible.”"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2289,16 +2299,6 @@
       "url": "https://www.haaretz.com/opinion/daily-cartoon/2025-12-31/ty-article-opinion/haaretz-cartoon/0000019b-7643-d379-a3bb-f6777e600000",
       "image": "https://img.haarets.co.il/bs/0000019b-764b-d5ec-abdf-7e4f9c1e0001/44/56/60f690cf4b1594c9bfbcb5d17c56/image-2025-12-31-132350879.png?height=81",
       "published_at": "2025-12-31T21:36:03.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "From Mamdani to Bondi, Trump to war crimes: Top Haaretz opinions of 2025",
-      "url": "https://www.haaretz.com/opinion/2025-12-31/ty-article-timeline/.premium/from-mamdani-to-bondi-trump-to-war-crimes-top-haaretz-opinions-of-2025/0000019b-7421-da0b-a1bf-fcb937950000",
-      "image": "https://img.haarets.co.il/bs/0000019b-750f-dd15-a3fb-fd6f6a390001/ec/75/f76138ca4ae2942c334b1ccf6af5/246592-2.jpg?height=81",
-      "published_at": "2025-12-31T21:19:01.000Z",
       "summary": ""
     },
     {
