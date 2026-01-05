@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-05T16:48:26.511Z",
+  "generated_at": "2026-01-05T17:12:55.755Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "State tells High Court it remains dangerous to allow journalists into Gaza without military escort",
+      "url": "https://www.jpost.com/israel-news/article-882415",
+      "image": null,
+      "published_at": "2026-01-05T18:51:40.000Z",
+      "summary": "In its updated response, the state acknowledged that the war has entered what it described as a “different factual phase,” following the October agreements and a fighting intensity reduction."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -32,6 +42,16 @@
       "summary": "Hundreds of farmers blocked roads nationwide, warning that proposed dairy reforms would shutter farms, undermine food security, and create dangerous reliance on imports."
     },
     {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Maduro arrives at New York court for first hearing since capture by US forces",
+      "url": "https://www.timesofisrael.com/maduro-arrives-at-new-york-court-for-first-hearing-since-capture-by-us-forces/",
+      "image": null,
+      "published_at": "2026-01-05T16:59:14.000Z",
+      "summary": "Deposed Venezuelan leader and his wife to appear before US federal court on narco-terrorism charges, just days after capture in unprecedented US military operation in Caracas\nThe post Maduro arrives at New York court for first hearing since capture by US forces appeared first on The Times of Israel."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -45,11 +65,31 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
+      "title": "Israel Police seek lawyers' correspondence as probe of ex-IDF legal chief nears end",
+      "url": "https://www.haaretz.com/israel-news/2026-01-05/ty-article/.premium/israel-police-seek-lawyers-correspondence-as-probe-of-ex-idf-legal-chief-nears-end/0000019b-8ea0-d974-a79b-bfbfab360000",
+      "image": "https://img.haarets.co.il/bs/0000019a-f8bc-d2e4-a1ff-ffbccfd30000/56/b5/548240ec4bdbb2ab97c8e352d44c/682394-5.jpg?height=81",
+      "published_at": "2026-01-05T16:54:11.000Z",
+      "summary": "Investigators are reviewing correspondence between Yifat Tomer-Yerushalmi and her attorneys, despite attorney-client privilege, as part of a probe tied to a leaked detainee-abuse video. Police Commissioner Danny Levy blocked public disclosure and postponed closing the investigation"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
       "title": "Four reported killed in strike on Gaza tent; IDF says it struck 'Hamas terrorist'",
       "url": "https://www.haaretz.com/israel-news/2026-01-05/ty-article/.premium/four-reported-killed-in-strike-on-gaza-tent-idf-says-it-struck-hamas-terrorist/0000019b-8ead-d57c-a9bb-eeafd98b0000",
       "image": "https://img.haarets.co.il/bs/0000019b-8ec6-dd67-a9ff-8ec716e40000/d8/d9/ac8d0f724e8c890768b5e6d08abb/281528.jpg?height=81",
       "published_at": "2026-01-05T16:37:05.000Z",
       "summary": "The IDF has killed on average three Palestinians in Gaza per day since the beginning of December. Last week, the United Kingdom, France, and Canada condemned Israel's decision to shutter dozens of international NGOs providing aid to Palestinians in Gaza"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Colombia’s Petro promises to defend homeland amid Trump threats",
+      "url": "https://www.aljazeera.com/news/2026/1/5/colombias-petro-promises-to-defend-homeland-amid-trump-threats?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-05T16:33:00.000Z",
+      "summary": "Petro criticizes Trump, calling US threats an undue interference in Colombian internal matters under international law."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -135,21 +175,21 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Jailed Palestine Action activist ends 60-day hunger strike as health fails",
-      "url": "https://www.aljazeera.com/news/2026/1/5/1819?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-05T15:55:01.000Z",
-      "summary": "Prisoners For Palestine says activist Teuta Hoxha needs hospitalisation but has been denied treatment while in prison."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
       "title": "Trump has made US militarism worse",
       "url": "https://www.aljazeera.com/opinions/2026/1/5/trump-has-made-us-militarism-worse?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-05T15:55:01.000Z",
       "summary": "US military action has long been shaped by policy and ideology. Now it is shaped by whim."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Jailed Palestine Action activist ends 60-day hunger strike as health fails",
+      "url": "https://www.aljazeera.com/news/2026/1/5/1819?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-05T15:55:01.000Z",
+      "summary": "Prisoners For Palestine says activist Teuta Hoxha needs hospitalisation but has been denied treatment while in prison."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -295,7 +335,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Israeli settlers consume water seven times more than Palestinians",
+      "title": "Israeli settlers consume seven times more water than Palestinians",
       "url": "https://www.aljazeera.com/features/2026/1/5/israeli-settlers-consume-water-seven-times-more-than-palestinians?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-05T14:52:08.000Z",
@@ -712,16 +752,6 @@
       "summary": "A Paris court found them guilty of \"malicious\" bullying towards the wife of the French president."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Daily Briefing Jan. 5: Day 822 &#8211; Media decry digitally altered official photos of PM&#8217;s wife",
-      "url": "https://www.timesofisrael.com/daily-briefing-jan-5-day-822-media-decry-digitally-altered-official-photos-of-pms-wife/",
-      "image": null,
-      "published_at": "2026-01-05T12:14:45.000Z",
-      "summary": "Political correspondent Ariela Karmel discusses problem with Sara Netanyahu photos; archaeology reporter Rossella Tercatin digs into bill on control of antiquities in the West Bank\nThe post Daily Briefing Jan. 5: Day 822 &#8211; Media decry digitally altered official photos of PM&#8217;s wife appear"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -765,7 +795,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "After warning civilians of strikes, IDF begins attacks on Hezbollah, Hamas targets in Lebanon",
+      "title": "After warning civilians of strikes, IDF conducts attacks on Hezbollah, Hamas targets in Lebanon",
       "url": "https://www.jpost.com/israel-news/defense-news/article-882348",
       "image": null,
       "published_at": "2026-01-05T11:50:46.000Z",
@@ -1020,16 +1050,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-8d80-dbf4-a79f-9dc8a4170001/43/e3/a10327cf484984099b62ed320f7e/image.png?height=81",
       "published_at": "2026-01-05T09:34:58.000Z",
       "summary": ""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "What is the US charging Nicolas Maduro with?",
-      "url": "https://www.aljazeera.com/news/2026/1/5/what-is-the-us-charging-nicolas-maduro-with?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-05T09:19:13.000Z",
-      "summary": "Maduro and five others are charged in the US with a number of crimes, including &#039;narco-terrorism&#039;."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1460,16 +1480,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-8923-db5e-adbf-ffb36b660000/81/67/6b4dd90e4a0d96e5a676dd008a72/274936.jpg?height=81",
       "published_at": "2026-01-04T17:00:47.000Z",
       "summary": "Trump's recent threats to Iran alongside Netanyahu in Mar-a-lago have taken on a new dimension with the seizure of Maduro – a signal to both Tehran and Trump's anti-interventionist base of how far his administration is willing to go with adversarial regimes"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "WATCH: IDF destroys two-kilometer-long Gaza terror tunnel in Beit Lahiya",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-882279",
-      "image": null,
-      "published_at": "2026-01-04T16:59:34.000Z",
-      "summary": "IDF soldiers destroyed a two-kilometer-long terror tunnel in northern Gaza as part of ongoing operations to dismantle Hamas infrastructure, the military said."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2250,16 +2260,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-7138-d5ec-abdf-7f7e20120000/32/2b/4577367c468aa75057b3dfeaa283/299774.jpg?height=81",
       "published_at": "2026-01-01T23:33:21.000Z",
       "summary": "Israel is on track to a violent civil war. We must embark on a firm, democratic and nonviolent civil protest"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Rabbi from religious nationalist group attacked in Jaffa; police probing possible racial motive",
-      "url": "https://www.haaretz.com/israel-news/2026-01-02/ty-article/.premium/rabbi-attacked-in-jaffa-police-probing-possible-racial-motive/0000019b-7bba-d019-a9df-7fbf21420000",
-      "image": "https://img.haarets.co.il/bs/0000019b-7bbf-dd73-abff-7bff73110002/f8/96/ed35f72c456fadb2b7ce4458b2a9/whatsapp-image-2026-01-01-at-21-35-36.jpeg?height=81",
-      "published_at": "2026-01-01T22:55:09.000Z",
-      "summary": "Tension between Jews and Arabs in Jaffa has intensified after a pregnant Arab woman was attacked with pepper spray early last month"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
