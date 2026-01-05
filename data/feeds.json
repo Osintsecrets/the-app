@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-05T08:52:41.948Z",
+  "generated_at": "2026-01-05T09:19:55.115Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Ra'am to open party to all Israelis, leader Abbas 'aims to recruits Jewish politicians'",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-882340",
+      "image": null,
+      "published_at": "2026-01-05T11:01:27.000Z",
+      "summary": "Abbas also accused National Security Minister Itamar Ben-Gvir of “smiling” when hearing about Arab citizens being murdered."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -12,6 +22,26 @@
       "summary": "The suspects, foreign residents aged 18 to 20, were taken for questioning and will be brought to court on Monday for a remand hearing, police said."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בלי האג או מלחמה: המעצר של מדורו, הדין הבינלאומי - וה\"פרשנות\" של טראמפ",
+      "url": "https://www.ynet.co.il/news/article/rjgtjkonbx",
+      "image": null,
+      "published_at": "2026-01-05T09:08:36.000Z",
+      "summary": "בלי החלטת מועצת הביטחון וללא הליך בהאג, המעצר של נשיא ונצואלה מעמיד במבחן עקרונות יסוד בדין הבינלאומי - ומדגיש את הפער ביניהם לבין מדיניות הממשל האמריקני. אז מה קובע המשפט הבינ\"ל לגבי מעצר נשיא מכהן, האם מדורו עומד בקריטריונים, מה ההבדל בינו לסדאם חוסיין - והאם לטראמפ בכלל אכפת?"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "גופת גבר נמשתה מהים ביפו, הנסיבות בבדיקה",
+      "url": "https://www.ynet.co.il/news/article/bkxdcgfewe",
+      "image": null,
+      "published_at": "2026-01-05T08:52:43.000Z",
+      "summary": "גבר בשנות ה-70 לחייו אותר ללא רוח חיים בין הסלעים באזור נמל יפו. המשטרה פתחה בבדיקת נסיבות המוות"
+    },
+    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -20,6 +50,26 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2b7/live/35cb27b0-ea13-11f0-9dba-414db1f4c9e8.jpg",
       "published_at": "2026-01-05T08:51:15.000Z",
       "summary": "Trade, regional security and Beijing's unofficial ban on Korean pop culture are on the agenda."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Mixed messages from Trump administration on US ‘running’ Venezuela",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/5/mixed-messages-from-trump-administration-on-us-running-venezuela?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-05T08:50:02.000Z",
+      "summary": "Donald Trump claimed the US will ‘run’ Venezuela, his top diplomat Marco Rubio insisted the US would not be in charge."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "49-year-old woman stabbed to death by husband in alleged femicide in Pardes Hannah",
+      "url": "https://www.haaretz.com/israel-news/2026-01-05/ty-article/.premium/49-year-old-woman-stabbed-to-death-by-husband-in-alleged-femicide-in-pardes-hannah/0000019b-8ced-dbf4-a79f-9ced3bb00000",
+      "image": "https://img.haarets.co.il/bs/0000019b-8ced-dbf4-a79f-9ced3bef0000/76/e6/7fb24771433eb9beff05f9dd643d/whatsapp-image-2026-01-05-at-05-44-06-2.jpeg?height=81",
+      "published_at": "2026-01-05T08:48:43.000Z",
+      "summary": "Two of the couple's five children were home during the murder, and a complaint had been filed against the husband for violence toward family members in the past. This marks the first femicide of 2026, as last year's murder rates reached a record-high of 307"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -535,11 +585,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "After Maduro’s ouster, Venezuela’s embattled Jewish community watches and waits",
+      "title": "After Maduro ouster, Venezuela’s embattled Jews watch cautiously from sideline",
       "url": "https://www.timesofisrael.com/after-maduros-ouster-venezuelas-embattled-jewish-community-watches-and-waits/",
       "image": null,
       "published_at": "2026-01-04T23:29:08.000Z",
-      "summary": "Decades of repression, antisemitic rhetoric and political violence leave Jewish leaders wary of celebrating regime change too soon\nThe post After Maduro’s ouster, Venezuela’s embattled Jewish community watches and waits appeared first on The Times of Israel.\n"
+      "summary": "Decades of repression from pro-Iran, anti-Zionist regime leave community wary of celebrating US raid, with deposed leader's deputy now in charge, but exiles hope for regime change\nThe post After Maduro ouster, Venezuela’s embattled Jews watch cautiously from sideline appeared first on The Times of I"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -952,16 +1002,6 @@
       "summary": "It is the latest in a spate of violent attacks in Niger state, and comes a day after officials said schools could reopen following a mass abduction last year."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Venezuela’s oil, not alleged drug trafficking, caught Trump’s eye",
-      "url": "https://www.aljazeera.com/news/2026/1/4/venezuelas-oil-not-alleged-drug-trafficking-caught-trumps-eye?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-04T19:49:16.000Z",
-      "summary": "Donald Trump now says he wants American companies to take over Venezuelan fields in order to extract and sell resources."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1072,16 +1112,6 @@
       "summary": "Follow the operation to seize the Venezuelan president through photos, satellite images and maps."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אחרי קיפאון: מתחדש המו\"מ להסכם ביטחוני עם סוריה - בלי ראש משלחת",
-      "url": "https://www.ynet.co.il/news/article/syrl5mdnbg",
-      "image": null,
-      "published_at": "2026-01-04T17:59:44.000Z",
-      "summary": "חודשיים אחרי שהופסקו, יחודשו מחר בפריז השיחות להסכם עם סוריה. נתניהו החליט שהצוות יכלול את המזכיר הצבאי גופמן, השגריר בארה\"ב לייטר ומ\"מ ראש המל\"ל רייך - וכל אחד יהיה אחראי על החלק שלו"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1090,16 +1120,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-89fa-d1a3-a1df-fdfad7630001/57/e1/23e48a754df2b185b1ea9d27e11d/471208693-10160766280521957-5415250932605546721-n.jpg?height=81",
       "published_at": "2026-01-04T17:49:25.000Z",
       "summary": "Chani and Chezi Lifshitz, who ran the facility for the past 20 years, are looking for a new place to rent and say they have no intention of leaving the Himalayan country"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "החשש בנגב מהיום שאחרי המבצע בתראבין, והזעם במגזר הבדואי: \"אנחנו לא אויבים\"",
-      "url": "https://www.ynet.co.il/news/article/hyeas11uv11x",
-      "image": null,
-      "published_at": "2026-01-04T17:46:52.000Z",
-      "summary": "\"אנחנו מוקפים בכוחות מיוחדים, אבל לא יכולים להמשיך לחיות ככה יותר\", אמרה תושבת גבעות בר שליד תראבין. שכניה תוהים: \"מה נעשה אחרי שהמשטרה תלך? גם בית המשפט והממשלה צריכים לעבוד\". במגזר הבדואי ערכו ישיבת חירום אחרי הרג החשוד בתג מחיר: \"בן גביר בוחן אותנו. מה שהוא עושה זה אסון לנגב\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1510,16 +1530,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-8946-d1a3-a1df-fd6ebc770000/70/63/693ab0d84f1e8b98e38a7f0da177/279760.jpg?height=81",
       "published_at": "2026-01-04T03:25:52.000Z",
       "summary": ""
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Grapevine: Hope from Hadassah",
-      "url": "https://www.jpost.com/israel-news/article-882162",
-      "image": null,
-      "published_at": "2026-01-04T02:30:57.000Z",
-      "summary": "Movers and shakers in Israeli society."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2240,16 +2250,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-7a51-d5cc-abfb-7a7713030000/76/cb/928664ae46e8a75458622957e017/190571.jpg?height=81",
       "published_at": "2026-01-01T16:32:30.000Z",
       "summary": "Israel's state prosecutor will decide whether to pursue a plea deal with four protesters accused of firing maritime flares at the prime minister's residence last year or to proceed with the case. Legal sources support the recommendation, saying the terrorism charges were driven by improper considera"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Beneath Israel's ultra-Orthodox draft crisis lies a far deeper rupture than anyone admits",
-      "url": "https://www.haaretz.com/israel-news/2026-01-01/ty-article-magazine/.highlight/beneath-the-haredi-draft-crisis-lies-a-far-deeper-rupture-than-anyone-admits/0000019b-79fc-dd73-abff-7bfc052f0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-79fc-dd73-abff-7bfc025d0000/db/69/f8aff876407ba977b03f9e5eecf8/64290291.JPG?height=81",
-      "published_at": "2026-01-01T16:08:51.000Z",
-      "summary": "The actions and rhetoric of the Haredi parties draw on a widening chasm – one that raises the question of whether we're looking at two religions, Jewish and Haredi, rather than a single tradition with internal disputes"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
