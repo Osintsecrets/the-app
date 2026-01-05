@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-05T09:19:55.115Z",
+  "generated_at": "2026-01-05T09:50:58.461Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -20,6 +20,46 @@
       "image": null,
       "published_at": "2026-01-05T09:42:11.000Z",
       "summary": "The suspects, foreign residents aged 18 to 20, were taken for questioning and will be brought to court on Monday for a remand hearing, police said."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"מחצית מהעזתים שעזבו רוצים לחזור\". בישראל מעריכים - פתיחת המעבר בקרוב",
+      "url": "https://www.ynet.co.il/news/article/rkbszkfewg",
+      "image": null,
+      "published_at": "2026-01-05T09:36:31.000Z",
+      "summary": "אחרי פסגת נתניהו-טראמפ, בערוצים ערביים דיווחו שישראל הסכימה לפתיחת מעבר רפיח. בירושלים עדיין לא מאשרים, אך לפי גורמים פלסטינים יש התקדמות לא רק סביב המעבר - אלא גם על ניהול הרצועה בכלל. העדכון המצרי שקיבלה הרשות, ההכנות שכבר החלו - והמכשול שישראל צפויה להערים"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Haaretz Cartoon",
+      "url": "https://www.haaretz.com/opinion/daily-cartoon/2026-01-05/ty-article/.premium/haaretz-cartoon/0000019b-8d7d-dbc2-a3df-8ffdc4fe0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-8d80-dbf4-a79f-9dc8a4170001/43/e3/a10327cf484984099b62ed320f7e/image.png?height=81",
+      "published_at": "2026-01-05T09:34:58.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "What is the US charging Nicolas Maduro with?",
+      "url": "https://www.aljazeera.com/news/2026/1/5/what-is-the-us-charging-nicolas-maduro-with?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-05T09:19:13.000Z",
+      "summary": "Maduro and five others are charged in the US with a number of crimes, including &#039;narco-terrorism&#039;."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Heed the call of former Supreme Court President Aharon Barak",
+      "url": "https://www.haaretz.com/opinion/editorial/2026-01-05/ty-article-opinion/.premium/heed-the-call-of-former-supreme-court-president-aharon-barak/0000019b-8d5f-dbf4-a79f-9d5f4f1a0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-8d62-d1a3-a1df-fd6ab0de0001/66/bb/2113f9eb4ab9891ad80688863e5a/capture.PNG?height=81",
+      "published_at": "2026-01-05T09:14:43.000Z",
+      "summary": "In a video message to anti-government protesters in Tel Aviv, Barak emphasized that the court alone cannot stop the Netanyahu government's destruction of Israeli democracy – the public must act, because 'our life's work is in danger'"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -405,7 +445,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Iran protest death toll reaches 19 as supreme leader blames 'foreign' interference",
+      "title": "IDF says two Hezbollah members involved in rearmament killed in southern Lebanon strike",
       "url": "https://www.haaretz.com/israel-news/2026-01-05/ty-article-live/iran-protest-death-toll-reaches-19-as-supreme-leader-blames-foreign-interference/0000019b-8c08-dbc2-a3df-8ec9e2f40005",
       "image": "https://img.haarets.co.il/bs/0000019b-8946-d1a3-a1df-fd6ebc770000/70/63/693ab0d84f1e8b98e38a7f0da177/279760.jpg?height=81",
       "published_at": "2026-01-05T02:43:51.000Z",
@@ -545,7 +585,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "PM Netanyahu briefs Security Cabinet on Trump meeting, Iran, sources told Post",
+      "title": "PM Netanyahu briefs Security Cabinet on Trump meeting, Iran, sources told 'Post'",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-882316",
       "image": null,
       "published_at": "2026-01-04T23:59:59.000Z",
@@ -585,11 +625,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "After Maduro ouster, Venezuela’s embattled Jews watch cautiously from sideline",
+      "title": "After Maduro ouster, Venezuela’s embattled Jews watch cautiously from sidelines",
       "url": "https://www.timesofisrael.com/after-maduros-ouster-venezuelas-embattled-jewish-community-watches-and-waits/",
       "image": null,
       "published_at": "2026-01-04T23:29:08.000Z",
-      "summary": "Decades of repression from pro-Iran, anti-Zionist regime leave community wary of celebrating US raid, with deposed leader's deputy now in charge, but exiles hope for regime change\nThe post After Maduro ouster, Venezuela’s embattled Jews watch cautiously from sideline appeared first on The Times of I"
+      "summary": "Decades of repression from pro-Iran, anti-Zionist regime leave community wary of celebrating US raid, with deposed leader's deputy now in charge, but exiles hope for regime change\nThe post After Maduro ouster, Venezuela’s embattled Jews watch cautiously from sidelines appeared first on The Times of "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -639,7 +679,7 @@
       "url": "https://www.timesofisrael.com/liveblog-january-5-2026/",
       "image": null,
       "published_at": "2026-01-04T22:59:28.000Z",
-      "summary": "Report: Trump didn’t boost Venezuelan opposition leader because she accepted Nobel Prize he coveted * Woman stabbed to death in Pardes Hanna, husband arrested\nThe post Iran accuses Israel of incitement, &#8216;seeking to undermine national unity&#8217; amid protests appeared first on The Times of Is"
+      "summary": "Abbas says Ra'am party will be open to Jewish candidates, in major shift * IDF says drone strike yesterday killed 2 Hezbollah operatives violating ceasefire\nThe post Iran accuses Israel of incitement, &#8216;seeking to undermine national unity&#8217; amid protests appeared first on The Times of Isra"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -942,16 +982,6 @@
       "summary": "To date, the IDF and the Shin Bet (Israel Security Agency) have succeeded in catching and stopping such efforts, but some of the rocket building efforts have progressed to later stages."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Here’s how the US imposed regime change overnight in Venezuela",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/4/heres-how-the-us-imposed-regime-change-overnight-in-venezuela?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-04T20:15:37.000Z",
-      "summary": "The US bombed Venezuela and abducted President Nicolas Maduro and his wife. Here’s how regime change unfolded overnight."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1090,16 +1120,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-89bf-db5e-adbf-ffbf97d90001/86/29/72a7fcc64cd4a6f2d6663d2bc7cc/1212.png?height=81",
       "published_at": "2026-01-04T18:22:57.000Z",
       "summary": "The map, titled 'Barcelonaz,' listed businesses in Catalonia with alleged ties to Israel or Judaism, even labeling a Jewish school. The European Jewish Congress said it was 'deeply alarmed,' warning that publicly identifying Jews can have 'dangerous consequences'"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אבידה גדולה. פרידה מבני שגיא ז\"ל",
-      "url": "https://www.ynet.co.il/news/article/sj9whxoewl",
-      "image": null,
-      "published_at": "2026-01-04T18:12:17.000Z",
-      "summary": "עוד בחייו הכל הסכימו ששגיא יגיע לעליון. ואני תמיד חשבתי שהוא כבר מזמן הגיע לשם - בקומת המרתף בבית המשפט בת\"א, באולמות המעצרים ובחדרי הגישור"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2230,26 +2250,6 @@
       "image": "https://img.haarets.co.il/bs/00000185-e417-d109-a7af-e537b58f0001/f1/1b/1c3eaa084701a5b71ff69272a7c1/50329395.JPG?height=81",
       "published_at": "2026-01-01T18:12:29.000Z",
       "summary": "Likud lawmaker Shlomo Karhi said that the video aired by Channel 12, which allegedly shows IDF reservists abusing a Palestinian detainee at the Sde Teiman detention facility, was 'false' and had severely harmed both the IDF and Israel's image"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "New far-right chairwoman of Knesset Health Committee renews push for Israel's withdrawal from the World Health Organization",
-      "url": "https://www.haaretz.com/israel-news/2026-01-01/ty-article/.premium/far-right-knesset-health-committee-chair-renews-push-for-israels-withdrawal-from-the-who/0000019b-7a70-d019-a9df-7fff18470000",
-      "image": "https://img.haarets.co.il/bs/0000019b-7a76-d487-a3bf-fb7f50c80001/77/da/93438f5842849efb1f242a0b030f/309097.jpg?height=81",
-      "published_at": "2026-01-01T17:32:25.000Z",
-      "summary": "During the war in Gaza, Limor Son Har-Melech of the Otzma Yehudit party pushed for Israel's withdrawal from the organization, arguing that the Geneva-based international agency is antisemitic and poses a threat to Israel and its sovereignty"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Mediator recommends judge drop terrorism charges against Israeli activists who shot flares at Netanyahu's home",
-      "url": "https://www.haaretz.com/israel-news/2026-01-01/ty-article/.premium/mediator-recommends-dropping-terrorism-charges-in-flare-incident-at-netanyahus-home/0000019b-7a2b-d487-a3bf-fb2f52020000",
-      "image": "https://img.haarets.co.il/bs/0000019b-7a51-d5cc-abfb-7a7713030000/76/cb/928664ae46e8a75458622957e017/190571.jpg?height=81",
-      "published_at": "2026-01-01T16:32:30.000Z",
-      "summary": "Israel's state prosecutor will decide whether to pursue a plea deal with four protesters accused of firing maritime flares at the prime minister's residence last year or to proceed with the case. Legal sources support the recommendation, saying the terrorism charges were driven by improper considera"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
