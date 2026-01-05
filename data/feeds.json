@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-05T15:12:05.363Z",
+  "generated_at": "2026-01-05T15:43:23.925Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "WATCH: Netanyahu addresses Knesset at 40-signature debate on ‘extremist government’",
+      "url": "https://www.jpost.com/israel-news/article-882404",
+      "image": null,
+      "published_at": "2026-01-05T17:11:56.000Z",
+      "summary": "Blue and White chairperson MK Benny Gantz opened the discussion, slamming Netanyahu on the topic of haredi (ultra-Orthodox) evasion from the military in the country."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,7 +25,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "'No time to blink': Gantz calls for regime change in Iran, urges Netanyahu to recruit Trump",
+      "title": "'We cannot hesitate': Gantz calls for regime change in Iran, urges Netanyahu to recruit Trump",
       "url": "https://www.jpost.com/israel-news/article-882402",
       "image": null,
       "published_at": "2026-01-05T16:58:42.000Z",
@@ -42,14 +52,64 @@
       "summary": ""
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Arkia launches Tel Aviv–Hanoi flights, opening Israel-Vietnam air link",
+      "url": "https://www.haaretz.com/israel-news/2026-01-05/ty-article/.premium/arkias-new-hanoi-route-marks-israel-vietnam-air-travel-milestone/0000019b-8e8b-db5e-adbf-ffbb923f0000",
+      "image": "https://img.haarets.co.il/bs/0000019a-7c22-d259-af9a-feff29d90001/e6/2f/74a4f4f54a858fbc30e7f1f0fbdd/186184.jpg?height=81",
+      "published_at": "2026-01-05T15:34:31.000Z",
+      "summary": "The new route could boost Israeli tourism and business ties with Vietnam, supporting joint ventures, cultural exchange, and travel for tech and trade sectors, as Hanoi strengthens its role as a Southeast Asian hub amid the country's record 21.2 million visitors in 2025"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Report: Erdoğan calls for Turkish return into U.S.-led F-35 program",
+      "url": "https://www.haaretz.com/middle-east-news/2026-01-05/ty-article/report-erdogan-calls-for-turkish-return-into-u-s-led-f-35-program/0000019b-8d4c-db5e-adbf-fffcad7a0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-8d57-dbc2-a3df-8fd7c03d0000/2f/96/e311ee03446387294003eae1a310/726227.jpg?height=81",
+      "published_at": "2026-01-05T15:27:30.000Z",
+      "summary": "President Erdoğan said, 'Turkey's receipt of the F-35 aircraft for which it has already paid,' adding that its reintegration is 'important' for NATO's defense. Israeli officials fear that the acquisition could erode Israel's long-standing qualitative military edge in the region"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Threatening graffiti sprayed outside Army Radio office: &#8216;Your days are numbered&#8217;",
+      "url": "https://www.timesofisrael.com/threatening-graffiti-sprayed-outside-army-radio-office-your-days-are-numbered/",
+      "image": null,
+      "published_at": "2026-01-05T15:07:40.000Z",
+      "summary": "Building vandalized as government seeks to shut down long-running station; IDF condemns 'serious and unacceptable act of incitement'\nThe post Threatening graffiti sprayed outside Army Radio office: &#8216;Your days are numbered&#8217; appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Pro-Palestinian activists break into and vandalize aerospace firm in Scotland",
+      "url": "https://www.haaretz.com/world-news/europe/2026-01-05/ty-article/.premium/pro-palestinian-activists-break-into-and-vandalize-aerospace-firm-in-scotland/0000019b-8e40-dbc2-a3df-8ec1ceab0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-8e70-dbc2-a3df-8ef143ec0001/04/36/dc48f95b418aa3faccd388dc0bc9/capture.PNG?height=81",
+      "published_at": "2026-01-05T15:05:22.000Z",
+      "summary": "Footage shows activists smashing servers and spray-painting 'drop Leonardo' and 'there's only one way this ends,' part of a growing wave of pro-Palestinian actions targeting European firms linked to Israeli defense"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Spanish map of Jewish and ‘Zionist’ businesses taken down amid uproar",
+      "url": "https://www.timesofisrael.com/spanish-map-of-jewish-and-zionist-businesses-taken-down-amid-uproar/",
+      "image": null,
+      "published_at": "2026-01-05T15:02:14.000Z",
+      "summary": "Numerous Jewish organizations complained about the project, which listed more than 150 Jewish and Israeli institutions, saying it 'echoed the darkest chapters in history'\nThe post Spanish map of Jewish and ‘Zionist’ businesses taken down amid uproar appeared first on The Times of Israel.\n"
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "טיבי לנתניהו בכנסת: \"את מדורו עצרו בלי צו, נגדך יש\" | ישיר",
+      "title": "נתניהו: אם נותקף מאיראן - ההשלכות יהיו חמורות מאוד | ישיר",
       "url": "https://www.ynet.co.il/news/article/h1jexhknzx",
       "image": null,
       "published_at": "2026-01-05T14:59:56.000Z",
-      "summary": "בצל סערת תראבין, אמר ח\"כ אחמד טיבי לראש הממשלה בדיון 40 חתימות בכנסת: \"אתה צעצוע של בן גביר? היית אצלם בבחירות, קראו לך 'אבו יאיר'. עכשיו אתה רוקד להם על הדם\". גנץ: \"פלדשטיין היה איתנו בבור, ראיתי אותו בעיניים. תפטר את מי שעבד עבור קטאר\""
+      "summary": "בדיון 40 חתימות בכנסת, ברקע הפגישה במאר א-לאגו, הבהיר ראש הממשלה כי טראמפ והוא \"מסכימים על רוב הדברים\". נתניהו הגן על חוק הפטור מגיוס, תקף את האופוזיציה וטען: \"אפילו לא יהיה צורך בסנקציות על החרדים\". הוא הביע תמיכה בלכידת נשיא ונצואלה, אחמד טיבי עקץ: \"את מדורו עצרו בלי צו, נגדך יש\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -545,11 +605,11 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "WATCH: IDF kills two Hezbollah terrorists in southern Lebanon amid ongoing disarmament talks",
+      "title": "After strikes in Gaza, Lebanon, IDF warns of imminent attack on Hezbollah infrastructure",
       "url": "https://www.jpost.com/israel-news/defense-news/article-882348",
       "image": null,
       "published_at": "2026-01-05T11:50:46.000Z",
-      "summary": "The IDF also announced that it had struck a Hamas terrorist in southern Gaza."
+      "summary": "Earlier, the IDFcondirmed that it had conducted a strike, killing two Hezbollah terrorists in al-Jumayjimah, southern Lebanon, on Sunday."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -660,16 +720,6 @@
       "image": null,
       "published_at": "2026-01-05T10:56:31.000Z",
       "summary": "Degel HaTorah spiritual leader Rabbi Dov Lando celebrates release of draft dodgers from military prison, claims Haredim 'find ourselves in exile among Jews'\nThe post Senior ultra-Orthodox rabbi: Those enforcing Haredi draft are fighting against God appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "IDF says two Hezbollah operatives killed in Sunday drone strike in southern Lebanon",
-      "url": "https://www.timesofisrael.com/idf-says-two-hezbollah-operatives-killed-in-sunday-drone-strike-in-southern-lebanon/",
-      "image": null,
-      "published_at": "2026-01-05T10:49:04.000Z",
-      "summary": "Beirut says the two were killed near Jmaijmeh, some 8 kilometers from the border, where, according to Israel, they were working to restore terror infrastructure\nThe post IDF says two Hezbollah operatives killed in Sunday drone strike in southern Lebanon appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1410,16 +1460,6 @@
       "image": "https://gif.haarets.co.il/bs/0000019b-8953-db5e-adbf-fff30ff10001/da/cb/a7fdca3d40a1b5eb894ee7046e36/culture-roundup-04-01-26-homepage.gif?height=81",
       "published_at": "2026-01-04T16:13:37.000Z",
       "summary": "After a successful run in Tel Aviv, the script of \"SHURA\" is now available in book form. Plus, Nadav Lapid's movie \"Yes!\" finally hits theaters, and the Tel Aviv Museum of Art goes back to 1945"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "The next Seventh of October could be socio-economic",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-882277",
-      "image": null,
-      "published_at": "2026-01-04T16:10:44.000Z",
-      "summary": "Loss of governance in the Negev and the North is not local malfunction but the result of a centralized and failing governmental structure. Neglecting the periphery leads to socio-political revolution"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2200,36 +2240,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-577e-d02f-a7ff-d7ff09400001/b1/b4/5402b6eb48e384d52caa87224635/whatsapp-image-2025-12-25-at-23-25-01.jpeg?height=81",
       "published_at": "2026-01-01T22:40:22.000Z",
       "summary": "Gonen - who spent 471 in captivity in Gaza - told Channel 12 that Izz al-Din al-Haddad, currently the head of Hamas' military wing in the Strip, spoke with her about the sexual assaults she experienced. 'I don't know how if he really intended to get me out,' she said"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "To beat the Bibi-Kahanist government, the opposition must include Arab parties",
-      "url": "https://www.haaretz.com/opinion/2026-01-01/ty-article-opinion/.premium/to-beat-the-bibi-kahanist-government-the-opposition-must-include-arab-parties/0000019b-7b4d-d487-a3bf-fb4d2d0b0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-7b6b-d585-abdf-7ffb3b100000/99/33/54870a974b8b9a9e65644c84ca64/055473-2.jpg?height=81",
-      "published_at": "2026-01-01T21:37:47.000Z",
-      "summary": "Oppositin leaders belonging to 'the left' like Naftali Bennett, Avigdor Lieberman and Yair Lapid are afraid to cooperate with Israeli-Arab parties not because they fear right-wingers, but because they fear Arabs"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israel's war on aid will only deepen Gaza's suffering",
-      "url": "https://www.haaretz.com/opinion/editorial/2026-01-01/ty-article-opinion/israels-war-on-aid-will-only-deepen-gazas-suffering/0000019b-7af0-d487-a3bf-fbfd44de0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-74de-d379-a3bb-f6fe1a320000/f9/30/5fa4419b4f5ba31a99dbe428cb8c/738056-2.jpg?height=81",
-      "published_at": "2026-01-01T21:20:40.000Z",
-      "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Haaretz Cartoon",
-      "url": "https://www.haaretz.com/opinion/daily-cartoon/2026-01-01/ty-article-opinion/haaretz-cartoon/0000019b-7b65-dd73-abff-7bed85910000",
-      "image": "https://img.haarets.co.il/bs/0000019b-7b66-d379-a3bb-fb76418f0000/19/8a/adf9232647baa634e0ca9c312718/image-2026-01-01-131120408.png?height=81",
-      "published_at": "2026-01-01T21:12:11.000Z",
-      "summary": ""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
