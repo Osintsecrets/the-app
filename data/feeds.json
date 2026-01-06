@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-06T18:14:58.362Z",
+  "generated_at": "2026-01-06T18:50:22.662Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Only one third of Israeli Arabs feel safe in Israel - poll",
+      "url": "https://www.jpost.com/israel-news/article-882546",
+      "image": null,
+      "published_at": "2026-01-06T20:21:23.000Z",
+      "summary": "Approximately three-quarters of Jewish respondents said they believe it is safer for Jews to live in Israel than abroad, while Arab respondents were split."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -25,7 +35,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "African Union condemns Israel recognition of Somaliland, Somalia condemns Sa'ar visit",
+      "title": "African Union calls on Israel to revoke Somaliland recognition amid Sa'ar visit",
       "url": "https://www.jpost.com/israel-news/article-882539",
       "image": null,
       "published_at": "2026-01-06T19:13:32.000Z",
@@ -62,6 +72,26 @@
       "summary": "Kasau, nine years old at the time of her disappearance, has been missing since February 2024. “I will personally take up the matter. We will bring her back,” Netanyahu told the family in the meeting."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "רכבים אוטונומיים, מטוסים קלים ולהקות רחפנים: הפתרונות החדשים להגנת הגבולות",
+      "url": "https://www.ynet.co.il/news/article/skr3yp54zx",
+      "image": null,
+      "published_at": "2026-01-06T18:37:43.000Z",
+      "summary": "התעשייה האווירית הציגה בפני מערכת הביטחון והדרג המדיני \"פתרון מערכתי חדשני להגנת גבולות ישראל\". לפי הודעת החברה, מדובר בסדרה של פיתוחים טכנולוגיים, חלקם מבוססי בינה מלאכותית, שנועדו לסגור מעגלים במהירות ולנטרל איומי טרור בטרם הגעתם למדינה. \"המערכות הוכיחו את עצמן\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"השיחות היו טובות\": אלה ההחלטות במו\"מ בין ישראל לסוריה ",
+      "url": "https://www.ynet.co.il/news/article/skmltk9vbx",
+      "image": null,
+      "published_at": "2026-01-06T18:30:44.000Z",
+      "summary": "יומיים של שיחות בפריז בתיווך אמריקני הגיעו לסיומם, וישראל וסוריה הסכימו לקיים שיחות תכופות יותר ולקדם צעדים בוני אמון, מתוך רצון להתקדם להסכם ביטחוני. בסיום השיחות פורסמה הודעה משותפת לארה\"ב, סוריה וישראל: זה \"הקו החם\" שיוקם"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -70,6 +100,36 @@
       "image": null,
       "published_at": "2026-01-06T18:16:47.000Z",
       "summary": "Hundreds of Israel and Border Police personnel were stationed in the area to \"maintain security, public order, and the safety of all participants and city residents.\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Man Utd manager talk ‘waste of time’ says favourite Glasner",
+      "url": "https://www.aljazeera.com/sports/2026/1/6/man-utd-manager-talk-waste-of-time-says-favourite-glasner?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-06T18:16:22.000Z",
+      "summary": "Manchester United have been heavily linked with Crystal Palace manager Oliver Glasner after sacking Ruben Amorim."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "'We saved the child from drowning': In Gaza, rain makes displacement even more deadly",
+      "url": "https://www.haaretz.com/middle-east-news/palestinians/2026-01-06/ty-article-magazine/.premium/we-saved-the-child-from-drowning-in-gaza-rain-makes-displacement-even-more-deadly/0000019b-93ce-dd39-a7ff-fbfea9b30000",
+      "image": "https://img.haarets.co.il/bs/0000019b-93e6-dd67-a9ff-9be7ad400001/34/a8/0b2e0adf4603aec48b699bc86e58/236739.jpg?height=81",
+      "published_at": "2026-01-06T18:15:51.000Z",
+      "summary": "Wind and rain are tearing apart Gaza's tents, collapsing buildings and flooding streets and shelters. With many winter supplies barred by Israel, black-market merchants are selling tents for up to $1,000. One Palestinian said, 'We don't know where we will sleep the next time it rains'"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Six dead and hundreds of flights cancelled as snow causes chaos across Europe",
+      "url": "https://www.bbc.com/news/articles/czjg37p34r3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e90/live/d6c37890-eb24-11f0-a6a3-53d02379137e.jpg",
+      "published_at": "2026-01-06T18:14:02.000Z",
+      "summary": "Hundreds of flights have been cancelled in Amsterdam and Paris, with thousands of people stranded."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -605,16 +665,6 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "\"השיחות היו טובות\": ההחלטות במו\"מ בין ישראל לסוריה - והרצון לקדם את חזון טראמפ",
-      "url": "https://www.ynet.co.il/news/article/skmltk9vbx",
-      "image": null,
-      "published_at": "2026-01-06T14:02:56.000Z",
-      "summary": "יומיים של שיחות בפריז בתיווך אמריקני הגיעו לסיומם, וישראל וסוריה הסכימו לקיים שיחות תכופות יותר ולקדם צעדים בוני אמון, מתוך רצון להתקדם להסכם ביטחוני. חידוש השיחות הגיע לאחר קיפאון של חודשיים במגעים - ובצל פערים משמעותיים שכבר מנעו הגעה להסכם בפעם הקודמת. זה \"הקו החם\" שיוקם"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "תלמידים לא הגיעו למרחב מוגן, ומה קרה לציוני הבגרות? | הדוח על החינוך במלחמה",
       "url": "https://www.ynet.co.il/news/article/b1wh5e54bg",
       "image": null,
@@ -725,7 +775,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Venezuelan security forces detain journalists as armed police patrol streets",
+      "title": "Venezuelan security forces detain journalists from foreign news organisations",
       "url": "https://www.bbc.com/news/articles/cd6w4y0eq70o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd03/live/f2bb2fd0-eafb-11f0-8e8e-7f477e15473f.jpg",
       "published_at": "2026-01-06T13:24:44.000Z",
@@ -1012,16 +1062,6 @@
       "summary": "Gideon Sa'ar vowed that mutual embassies would be opened, and the president said he had accepted Prime Minister Netanyahu's invitation to visit Israel. The trip comes about two weeks after Israel became the first UN member state to recognize the republic as an independent state"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Can China and South Korea reset complex ties after Xi-Lee summit?",
-      "url": "https://www.aljazeera.com/news/2026/1/6/can-china-and-south-korea-reset-complex-ties-after-xi-lee-summit?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-06T11:23:54.000Z",
-      "summary": "Analysts say both countries increasingly rely on each other for economic and security reasons amid geopolitical churn."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1222,16 +1262,6 @@
       "summary": "The food giant discovered some batches of SMA infant and follow-on formula could lead to vomiting"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "מהפך בפרשנות החוזים: הכנסת ביטלה את \"הלכת אפרופים\" ההיסטורית של אהרן ברק",
-      "url": "https://www.ynet.co.il/news/article/sjhnb4q4wg",
-      "image": null,
-      "published_at": "2026-01-06T08:37:06.000Z",
-      "summary": "באפריל 1995 פסק נשיא העליון דאז כי יש לפרש חוזה על פי תכליתו ולא על פי לשונו - פסיקה שהפכה להלכה מחייבת כחלק מה\"מהפכה החוקתית\" והאקטיביזם השיפוטי של ברק. המבקרים טענו לפגיעה בוודאות המסחרית, כעת נקבע כי אופן פרשנות החוזה יהיה \"ככל שיקבעו הצדדים\". לוין: \"זו בשורה לעולם העסקי\""
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1335,9 +1365,9 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Iran hints at preemptive strike on Israel if it sees 'indications of threats'",
+      "title": "Netanyahu says Israel, Syria resumed talks with U.S. backing 'in line with Trump vision'",
       "url": "https://www.haaretz.com/israel-news/2026-01-06/ty-article-live/netanyahu-warns-iran-of-very-severe-consequences-if-tehran-renews-nuclear-programs/0000019b-914a-d01b-a7db-955e9c0a0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-946a-d987-a59b-d47b5df00000/16/0b/de353a444d04b38c27d478e6e682/281274.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-9486-d171-adbb-bd97ee800000/09/16/cff868284e42b4633af6d7900b54/60339362.JPG?height=81",
       "published_at": "2026-01-06T03:23:28.000Z",
       "summary": ""
     },
@@ -1580,16 +1610,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-8e1b-d1a3-a1df-ff3b48aa0000/0b/83/87345c08499894c51c2133b47b3d/292705.jpg?height=81",
       "published_at": "2026-01-05T18:57:16.000Z",
       "summary": "Schloss, who endured Auschwitz and lifelong trauma, devoted decades to Holocaust education. Chief executive director of the Anne Frank Trust U.K, which she co-founded, said 'her legacy will continue to guide and empower young people to build a world free from hatred and discrimination'"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "State tells High Court it remains dangerous to allow journalists into Gaza without military escort",
-      "url": "https://www.jpost.com/israel-news/article-882415",
-      "image": null,
-      "published_at": "2026-01-05T18:51:40.000Z",
-      "summary": "In its updated response, the state acknowledged that the war has entered what it described as a “different factual phase,” following the October agreements and a fighting intensity reduction."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2240,16 +2260,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-84b9-d379-a3bb-f6bdd0000001/ed/58/c6fced5241868ba730c873783c2d/256289-2.jpg?height=81",
       "published_at": "2026-01-03T22:13:35.000Z",
       "summary": "The presence of the asbestos in the ground in the vicinity of the Paul Kor School in Petah Tikva was discovered during construction of a new road but was later found even closer to the school grounds. The parents say they learned of the problem by chance, but the municipality denies any wrongdoing"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "As Israel scrimps on funding for advanced research, Israeli academics face an international boycott alone",
-      "url": "https://www.haaretz.com/israel-news/2026-01-04/ty-article/.premium/as-israel-scrimps-on-academic-research-funding-researchers-are-on-their-own-facing-bds/0000019b-8584-d487-a3bf-fd8dc3060000",
-      "image": "https://img.haarets.co.il/bs/0000019b-8589-d585-abdf-c7f973ce0000/a3/19/52460bb64ede94293d0088e5f28f/256731.jpg?height=81",
-      "published_at": "2026-01-03T22:07:09.000Z",
-      "summary": "In its annual report, the Israel Academy of Sciences and Humanities noted that while most of the world's developed countries are spending more on academic research, Israel is spending less – and warned that this would have far-reaching consequences"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
