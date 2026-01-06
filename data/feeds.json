@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-06T23:09:31.661Z",
+  "generated_at": "2026-01-06T23:38:33.868Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -10,6 +10,36 @@
       "image": null,
       "published_at": "2026-01-07T01:06:57.000Z",
       "summary": "A 14-year-old haredi boy was killed in Jerusalem, prompting statements from President Herzog and ministers calling for a thorough police investigation."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "In Netanyahu's Israel, even bereavement has become politicized",
+      "url": "https://www.haaretz.com/opinion/editorial/2026-01-07/ty-article-opinion/in-netanyahus-israel-even-bereavement-has-become-politicized/0000019b-94d2-dd67-a9ff-9ed388cb0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-914a-d01b-a7db-955e7f780000/30/81/be5180ac4172b256cb67faa6ee47/297086.jpg?height=81",
+      "published_at": "2026-01-06T23:30:15.000Z",
+      "summary": ""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Teenager killed, others injured after bus runs over Haredi protesters in Jerusalem",
+      "url": "https://www.timesofisrael.com/teenager-killed-others-injured-after-bus-runs-over-haredi-protesters-in-jerusalem/",
+      "image": null,
+      "published_at": "2026-01-06T23:22:40.000Z",
+      "summary": "Victim named as Yosef Eisenthal, 14; Ben Gvir says police probing 'all investigatory angles' of incident, which occurred as tens of thousands rallied against military conscription\nThe post Teenager killed, others injured after bus runs over Haredi protesters in Jerusalem appeared first on The Times "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Why does Trump want Greenland and what could it mean for Nato?",
+      "url": "https://www.bbc.com/news/articles/c74x4m71pmjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7efb/live/385c8de0-ea48-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-06T23:18:37.000Z",
+      "summary": "The US president's repeated demands to control Greenland could threaten the Nato military alliance."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -185,11 +215,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הפתרון החרדי למשבר הגיוס: פסקת ההתגברות",
+      "title": "החרדים מגייסים את אחד מחוקי המהפכה המשפטית כדי להתמודד עם משבר הפטור",
       "url": "https://www.ynet.co.il/news/article/yokra14638461",
       "image": null,
       "published_at": "2026-01-06T22:00:00.000Z",
-      "summary": "נציגי המפלגות החרדיות מנסים לייצר מנופי לחץ על בג\"ץ. הדרישה: להחזיר לסדר היום את החקיקה שיכולה לבטל את פסיקת בית המשפט, במידה ויפסול את החוק שפוטר חרדים מגיוס. בקואליציה לא שוללים את האפשרות"
+      "summary": "בניסיון לייצר מנופי לחץ על בג\"ץ, המפלגות החרדיות דורשות להחזיר את אחד מהחוקים המרכזיים של המהפכה המשפטית, שנועד לבטל החלטה של בית המשפט, אם יפסול את חוק הפטור מגיוס. \"כדי שבג\"ץ יחשוב פעמיים\", הודה גורם פוליטי בכיר. בקואליציה לא שוללים את האפשרות"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -722,16 +752,6 @@
       "summary": "Foreign Press Association urges Supreme Court judges to put an end to 'charade'; EU condemns decision to ban dozens of aid groups from entering enclave\nThe post Foreign media group fumes as Israeli government says Gaza press ban must be upheld appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Lebanon claims Israeli strikes undermine efforts to prevent escalation",
-      "url": "https://www.timesofisrael.com/lebanon-claims-israeli-strikes-undermine-efforts-to-prevent-escalation/",
-      "image": null,
-      "published_at": "2026-01-06T17:47:33.000Z",
-      "summary": "President Aoun insists country's military is exerting authority over southern Lebanon amid repeated IDF targeting of Hezbollah, Hamas; Jerusalem says disarmament effort insufficient\nThe post Lebanon claims Israeli strikes undermine efforts to prevent escalation appeared first on The Times of Israel."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1110,16 +1130,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-937b-dd67-a9ff-9b7b7d720007/3f/e0/86cbf84747489c8908a486c7490b/296938-2.jpg?height=81",
       "published_at": "2026-01-06T13:36:57.000Z",
       "summary": "Maccabi Haifa fans are accused of displaying a banner that was a visual reproduction of a well-known internet meme originating in a pornographic video; Arab-Israeli team Bnei Sakhnin faces charges over chants invoking Jewish supremacist Meir Kahane"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Why does Trump want Greenland and what could it mean for Nato?",
-      "url": "https://www.bbc.com/news/articles/c74x4m71pmjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7efb/live/385c8de0-ea48-11f0-b5f7-49f0357294ff.jpg",
-      "published_at": "2026-01-06T13:33:24.000Z",
-      "summary": "The US president's repeated demands to control Greenland could threaten the Nato military alliance."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2270,16 +2280,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-50fb-d7a5-abbb-5aff58bc0001/1e/8c/fc8d94614a86a8165f501d55aedf/whatsapp-image-2025-12-24-at-4-25-29-pm.jpeg?height=81",
       "published_at": "2026-01-04T10:01:20.000Z",
       "summary": "Talik Gvili, whose son Ran's body remains in Gaza, said in an interview that Trump told her his team was committed to returning her son to Israel before proceeding to the next stage of the Gaza cease-fire"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "'It feels like someone is always there': In Gaza, IDF drones infiltrate every moment of Palestinians' lives",
-      "url": "https://www.haaretz.com/middle-east-news/palestinians/2026-01-04/ty-article-magazine/.premium/in-gaza-idf-drones-infiltrate-every-moment-of-palestinians-life/0000019b-7441-dd15-a3fb-fd630f9b0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-7442-d019-a9df-7fefcfb30001/4d/69/11be4e634a129e332c8588550659/drones-homepage.jpg?height=81",
-      "published_at": "2026-01-04T08:39:11.000Z",
-      "summary": "They follow people, moving back and forth through the streets and constantly humming, creating a new soundtrack that means one thing to Gazans: You are being watched. Palestinians in Gaza tell Haaretz what it's like to live under a watchful and potentially lethal eye"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
