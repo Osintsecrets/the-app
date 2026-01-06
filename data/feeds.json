@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T10:11:05.279Z",
+  "generated_at": "2026-01-06T10:46:03.063Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Foreign Minister Gideon Sa’ar lands in Somaliland in first Israeli visit since recognition - report",
+      "title": "Foreign Minister Gideon Sa’ar lands in Somaliland in first Israeli visit since recognition",
       "url": "https://www.jpost.com/israel-news/article-882477",
       "image": null,
       "published_at": "2026-01-06T11:58:22.000Z",
@@ -32,14 +32,64 @@
       "summary": "Sharabi told the radio station that he misses the everyday moments he once shared with his daughters, who were killed during the Hamas-led attacks on October 7, 2023."
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Trump discussed Turkey's role in postwar Gaza force with Netanyahu in Florida, source says",
+      "url": "https://www.haaretz.com/israel-news/2026-01-06/ty-article/.premium/trump-discussed-turkeys-role-in-postwar-gaza-force-with-netanyahu-in-florida-source-says/0000019b-92d4-d4d8-a19b-f3dc80780000",
+      "image": "https://img.haarets.co.il/bs/0000019b-92da-dcfc-addf-d7faf3550000/64/9b/80b1b0944dc9b958b561b8c1dd8b/242293.jpg?height=81",
+      "published_at": "2026-01-06T10:33:04.000Z",
+      "summary": "As Israel and the United States struggle to recruit foreign countries willing to send troops to the international stabilization force in Gaza, Israel continues to strongly oppose Turkey's participation in the initiative"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Nvidia unveils self-driving car tech as part of AI for hardware push",
+      "url": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295d/live/a5a12330-eab0-11f0-a636-7915f3591f99.jpg",
+      "published_at": "2026-01-06T10:30:23.000Z",
+      "summary": "The chip giant is looking for ways to move the AI revolution beyond software and into physical products."
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "ביקור ישראלי ראשון מאז ההכרה: \"שר החוץ סער מבקר בסומלילנד\"",
+      "title": "מי שמתנגד לחוקה הרזה מכריע ערכית בעד המשך הכאוס השלטוני והחברתי",
+      "url": "https://www.ynet.co.il/news/article/sjz1cuq411x",
+      "image": null,
+      "published_at": "2026-01-06T10:14:58.000Z",
+      "summary": "\"חוקה רזה\"  תייצב את הממשל, תחזק את אמון הציבור ברשויות, תנמיך את להבות הקיטוב החברתי ותעצור את ההתדרדרות לסף מלחמת אזרחים"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Ukraine’s top allies meet in Paris to push for Kyiv’s security guarantees",
+      "url": "https://www.aljazeera.com/news/2026/1/6/ukraines-top-allies-meet-in-paris-to-push-for-kyivs-security-guarantees?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-06T10:12:00.000Z",
+      "summary": "&#039;Coalition of the willing&#039; tries to lay groundwork for ceasefire and end to Russia&#039;s nearly four-year war in Ukraine."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israel police is turning a Bedouin village into a violent prison – even without bars",
+      "url": "https://www.haaretz.com/israel-news/2026-01-06/ty-article-magazine/.premium/israel-police-is-turning-a-bedouin-village-into-a-violent-prison-even-without-bars/0000019b-8ecc-dd39-a7ff-effe61160000",
+      "image": "https://img.haarets.co.il/bs/0000019b-8ed8-d01b-a7db-9edc8a180001/b7/19/7c8ed7464fdd97f5adc0351c3e48/279430-2.jpg?height=81",
+      "published_at": "2026-01-06T10:07:07.000Z",
+      "summary": "The shooting death of Mohammed Hussein Tarabin al-Sana by the police has left the village of Tarabin with little hope. Arrests of children and alleged collective punishment 'finally proved to me that we don't live in a democratic country,' one resident says"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ביקור ישראלי ראשון מאז ההכרה: \"שר החוץ סער נחת בסומלילנד\"",
       "url": "https://www.ynet.co.il/news/article/rjhj3u9nwe",
       "image": null,
       "published_at": "2026-01-06T10:01:52.000Z",
-      "summary": ""
+      "summary": "שבוע וחצי אחרי ההחלטה המפתיעה להכיר רשמית במדינה האפריקנית, בסומלילנד מדווחים על ביקור ישראלי ראשון. השר סער צפוי להיפגש עם הנשיא עבדילאהי"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -219,7 +269,7 @@
       "url": "https://www.ynet.co.il/news/article/syixzmq4wl",
       "image": null,
       "published_at": "2026-01-06T08:35:12.000Z",
-      "summary": "הרחפן RQ-170, ששימש למעקב מרחוק אחרי נשיא ונצואלה, תועד נוחת בפוארטו ריקו לאחר הפשיטה על קראקס. המטוסים והמפציצים תקפו בחסות החשכה - תוצאה כנראה של שימוש בלוחמת סייבר ובפצצה מיוחדת. \"האורות כובו בזכות מומחיות שיש לנו\", רמז טראמפ. פרטים חדשים: כך תקפו האמריקנים"
+      "summary": "הכטב\"ם RQ-170, ששימש למעקב מרחוק אחרי נשיא ונצואלה, תועד נוחת בפוארטו ריקו לאחר הפשיטה על קראקס. המטוסים והמפציצים תקפו בחסות החשכה - תוצאה כנראה של שימוש בלוחמת סייבר ובפצצה מיוחדת. \"האורות כבו בזכות מומחיות שיש לנו\", רמז טראמפ. פרטים חדשים: כך תקפו האמריקנים"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -622,16 +672,6 @@
       "summary": "PM, opposition leader argue over relations with US, October 7, Haredi draft exemption bill in so-called 40-signature debate called by Gantz about Netanyahu's 'extremist government'\nThe post &#8216;You were completely wrong&#8217;: Netanyahu and Lapid spar in stormy Knesset debate appeared first on T"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Nvidia unveils 'reasoning' AI technology for self-driving cars",
-      "url": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295d/live/a5a12330-eab0-11f0-a636-7915f3591f99.jpg",
-      "published_at": "2026-01-06T03:41:04.000Z",
-      "summary": "The chip giant is partnering with Mercedes-Benz to launch a driverless car powered by its 'Alpamayo' tech."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -742,16 +782,6 @@
       "summary": "As the IDF struggles to hit haredi enlistment goals, the military announced that it is making efforts to “expand the scope of recruitment from among the haredi public.”"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Russia-Ukraine war: List of key events, day 1,412",
-      "url": "https://www.aljazeera.com/news/2026/1/6/russia-ukraine-war-list-of-key-events-day-1412?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-06T02:02:19.000Z",
-      "summary": "These are the key developments from day 1,412 of Russia’s war on Ukraine."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -759,7 +789,7 @@
       "url": "https://www.timesofisrael.com/liveblog-january-6-2026/",
       "image": null,
       "published_at": "2026-01-06T01:36:41.000Z",
-      "summary": "Foreign Press Association: Israel’s ongoing ban on media access to Gaza ‘infringement of freedom of speech’ * Lebanon: Israeli strikes on Hezbollah, Hamas undermine efforts to stop escalation\nThe post Herzog: Violent crime in Arab society a &#8216;national challenge,&#8217; with inequality to blame "
+      "summary": "Reports: Sa'ar visiting Somaliland, meeting with president for 1st time since Israeli recognition * Urich and Netanyahu speak on phone after restrictions on Qatargate suspect expire\nThe post Herzog: Violent crime in Arab society a &#8216;national challenge,&#8217; with inequality to blame appeared f"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -775,7 +805,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Unbearably long wait for justice leaves South African families in limbo",
+      "title": "Long wait for justice leaves South African families in limbo",
       "url": "https://www.bbc.com/news/articles/cx2drqwg32do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8292/live/e2373430-ea4f-11f0-b385-5f48925de19a.jpg",
       "published_at": "2026-01-06T00:02:46.000Z",
@@ -950,16 +980,6 @@
       "image": null,
       "published_at": "2026-01-05T22:04:00.000Z",
       "summary": "תפיסת עולמו של גולדקנופף נמצאת בהלימה למה שהמדינה מסמנת: שהוא ומי שבשמו הוא מוחה נמצאים בסטטוס אחר"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הפעם אהרן ברק צודק",
-      "url": "https://www.ynet.co.il/news/article/yokra14637276",
-      "image": null,
-      "published_at": "2026-01-05T22:04:00.000Z",
-      "summary": "בימים אחרים, הייתי יוצא נגד הדברים שהשמיע נשיא בית המשפט העליון לשעבר. אבל בימים בהם כמעט כל ההחלטות שמקבלת הממשלה משרתות מיעוט דורסני, בראש סדר העדיפויות צריכה לעמוד החלפת הקואליציה  האנטי-ציונית. הביקורת על האליטה המשפטית עוד תחזור"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -2220,26 +2240,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-5059-d2b2-affb-567fb14f0000/08/b7/08b213a24a3f88566849cfb81827/693716.jpg?height=81",
       "published_at": "2026-01-02T23:08:43.000Z",
       "summary": "The longest and most expensive war in the country's history did not end on the battlefield, and it has left an open tab that will make significant charges on the state's budget for years to come"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "BBC compensates Oct. 7 survivors after filming inside their destroyed home without consent",
-      "url": "https://www.haaretz.com/israel-news/2026-01-03/ty-article/bbc-pays-28k-to-oct-7-survivors-after-filming-inside-their-destroyed-home-without-consent/0000019b-80ac-d019-a9df-afaff8d20000",
-      "image": "https://img.haarets.co.il/bs/00000195-6107-da4c-a9f7-f98747bd0001/ff/7e/9508e1084ccea25e0bba63faabee/025017.jpg?height=81",
-      "published_at": "2026-01-02T22:32:39.000Z",
-      "summary": "The British news outlet said it was 'pleased to have reached an agreement' with the Horenstein family after they were paid an unwelcome visit by a BBC film crew after their Gaza border community home was attacked by Hamas terrorists on Oct. 7"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Yemen's southern separatists call for path to independence amid fighting over key region",
-      "url": "https://www.haaretz.com/middle-east-news/2026-01-02/ty-article/.premium/yemens-southern-separatists-call-for-path-to-independence-amid-fighting-over-key-region/0000019b-8036-d019-a9df-afbffb9b0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-804a-d487-a3bf-f94f30650000/4d/a8/d977d91040fb8a4de3afb38bdb8d/246822.jpg?height=81",
-      "published_at": "2026-01-02T20:43:05.000Z",
-      "summary": "The surprise advance by the separatists in early December shifted power in Yemen, which has been at war for more than a decade, fracturing the coalition against the Houthis and laying bare divisions between Gulf allies Saudi Arabia and the UAE"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
