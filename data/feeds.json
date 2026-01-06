@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-06T17:14:17.310Z",
+  "generated_at": "2026-01-06T17:43:57.154Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "African Union condemns Israel recognition of Somaliland, Somalia condemns Sa'ar visit",
+      "url": "https://www.jpost.com/israel-news/article-882539",
+      "image": null,
+      "published_at": "2026-01-06T19:13:32.000Z",
+      "summary": "\"The (AU) Council strongly condemns, in the strongest terms, the unilateral recognition of the so-called 'Republic of Somaliland' by Israel,\" it said in a post on X after a ministerial meeting."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -39,7 +49,17 @@
       "url": "https://www.jpost.com/israel-news/article-882514",
       "image": null,
       "published_at": "2026-01-06T18:16:47.000Z",
-      "summary": "Hundreds of Israel and Border Police personnel will be stationed in the area to \"maintain security, public order, and the safety of all participants and city residents.\""
+      "summary": "Hundreds of Israel and Border Police personnel were stationed in the area to \"maintain security, public order, and the safety of all participants and city residents.\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "שוטר נהרג בהפגנות, איראן ברמז מאיים: לא נחכה לתקיפה מצד ארה\"ב או ישראל",
+      "url": "https://www.ynet.co.il/news/article/ry8im6c4wl",
+      "image": null,
+      "published_at": "2026-01-06T17:30:43.000Z",
+      "summary": "במחוז אילם במערב איראן נהרג שוטר שנורה לפי הדיווחים בידי מפגינים. גם בטהרן דווח על מחאות. מועצת ההגנה של איראן, גוף שהוקם אחרי מלחמת 12 הימים, פרסמה הצהרה מאיימת שרומזת לאפשרות למתקפת מנע: \"לא רואים עצמנו מוגבלים לתגובה רק אחרי מעשה, אינדיקציות לאיום - חלק מהמשוואה\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -55,11 +75,31 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
+      "title": "Israeli President Herzog bagged his confidant a job on right-wing Greek election campaign",
+      "url": "https://www.haaretz.com/israel-news/2026-01-06/ty-article/.premium/israeli-president-herzog-bagged-right-wing-greek-election-campaign-job-for-confidant/0000019b-940e-dd67-a9ff-9e0fa16d0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-9437-d01b-a7db-943f06790001/4a/7f/73d9dd694adb8ef34236605fe3b0/198385.jpg?height=81",
+      "published_at": "2026-01-06T17:15:16.000Z",
+      "summary": "Haaretz has learned that the company of Moti Sander worked on online influence operations for the Greek ruling party New Democracy's 2022 election campaign through Herzog's connections. Sander has since fallen out with the president and threatened to expose alleged understandings between Herzog and "
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
       "title": "Haaretz's Bar Peleg among four Israeli reporters honored for journalistic excellence",
       "url": "https://www.haaretz.com/israel-news/2026-01-06/ty-article/.premium/haaretzs-bar-peleg-wins-israel-press-institute-award-for-journalistic-excellence/0000019b-93a5-d4d8-a19b-f3fdc7ab0000",
       "image": "https://img.haarets.co.il/bs/0000019b-93da-dd39-a7ff-fbfa4e840001/74/83/ed41edc847f896dda1b2cd2973d1/056a7743-2.jpg?height=81",
       "published_at": "2026-01-06T17:11:12.000Z",
       "summary": "The 2025 Award for Journalistic Excellence, granted by the Israel Press Institute, totals 60,000 shekels (about $16,000) and will be divided among the four recipients, Bar Peleg, Roni Singer, Yossi Mizrahi and Doron Kadosh"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US Congressman Doug LaMalfa dies unexpectedly at 65",
+      "url": "https://www.bbc.com/news/articles/cgl8y4gx9lyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8da7/live/e302b6f0-eb12-11f0-992c-75363ad17690.jpg",
+      "published_at": "2026-01-06T17:05:21.000Z",
+      "summary": "The death of LaMalfa, a Trump ally, shaves the Republican majority in the US House of Representatives to just a few seats."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -165,6 +205,16 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
+      "title": "The painful questions for Nato and the EU as Trump threatens Greenland",
+      "url": "https://www.bbc.com/news/articles/cpwn2wjzwndo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1f/live/983a71a0-eb0b-11f0-b385-5f48925de19a.jpg",
+      "published_at": "2026-01-06T16:25:01.000Z",
+      "summary": "Were Trump to make good on his ambition to bring Greenland under US control, would it mark not just an existential threat to Nato but also a major crisis for the EU?"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
       "title": "Israel's foreign minister on historic visit to Somaliland",
       "url": "https://www.bbc.com/news/articles/cwyrexdgzn9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f7/live/c1c71e80-eb18-11f0-992c-75363ad17690.jpg",
@@ -185,11 +235,11 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Israeli hospitals still under threat of Iran missile strikes, report reveals",
+      "title": "Gov't failed on hospital defense even after Iran missile hit Beersheba",
       "url": "https://www.jpost.com/israel-news/article-882500",
       "image": null,
       "published_at": "2026-01-06T16:18:49.000Z",
-      "summary": "\"We must address the gaps in defending hospitals – the Iranian missile strike at Soroka should have caused the government to tremble,\" wrote Matanyahu Englman."
+      "summary": "The Soroka Hospital strike, injuring 80, should have \"caused the government to tremble,\" the comptroller's report found. \n"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -215,11 +265,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "אלפי חרדים מפגינים בירושלים נגד גיוס לצה\"ל: \"לבטל את הגזירה הרעה\"",
+      "title": "אלפים מפגינים בירושלים נגד גיוס, אחד הרבנים השווה לשואה: \"השמדה המונית\"",
       "url": "https://www.ynet.co.il/news/article/sjedgs9nzx",
       "image": null,
       "published_at": "2026-01-06T16:10:13.000Z",
-      "summary": "אלפים מפגינים באזור רחוב בר אילן בבירה, בעצרת שאותה יזמו ראשי ישיבות. \"העצרת הזאת היא הצלת נפשות, יהיו רצון שהיא תעזור לבטל את גזירת הגיוס\", אמר אחד הרבנים"
+      "summary": "אלפים מפגינים באזור רחוב בר אילן, בעצרת שאותה יזמו ראשי ישיבות. \"העצרת הזאת היא הצלת נפשות, יהיו רצון שהיא תעזור לבטל את גזירת הגיוס\", אמר אחד הרבנים. רב אחר השווה בין גיוס לצה\"ל לשואה: \"השמדה מוחלטת של העם היהודי\""
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -370,16 +420,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-938b-dcfc-addf-d7abe12b0003/6c/2f/4861c19641baa723bf65a33f110a/296404.jpg?height=81",
       "published_at": "2026-01-06T15:01:29.000Z",
       "summary": "Lawmaker Ahmad Tibi responded to the police's call to consider opening an investigation into him for calling the police spokesperson a 'nobody' and a 'punk' in a Monday televised interview"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump claims US oil firms could be 'up and running' in Venezuela within 18 months",
-      "url": "https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26af/live/bbdbc4a0-eaf3-11f0-8a5c-81e1c85f6b52.jpg",
-      "published_at": "2026-01-06T14:57:22.000Z",
-      "summary": "Trump is open about his ambitions for scaled-up US operations, but analysts say such plans would take time. "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -665,11 +705,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "LIVE: Deadly clashes erupt between Syrian army, SDF forces in Aleppo",
+      "title": "Updates: Seven killed in fighting between Syrian army, SDF forces in Aleppo",
       "url": "https://www.aljazeera.com/news/liveblog/2026/1/6/live-syrian-soldiers-injured-in-drone-attack-by-sdf-in-aleppo?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-06T13:09:30.000Z",
-      "summary": "At least seven people killed after clashes erupted between the Syrian army and the Kurdish-led forces in Aleppo."
+      "summary": "Syrian army and Kurdish-led forces trade blame for the deadly clashes, which came after SDF-gov&#039;t talks in Damascus."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -1152,26 +1192,6 @@
       "summary": "באפריל 1995 פסק נשיא העליון דאז כי יש לפרש חוזה על פי תכליתו ולא על פי לשונו - פסיקה שהפכה להלכה מחייבת כחלק מה\"מהפכה החוקתית\" והאקטיביזם השיפוטי של ברק. המבקרים טענו לפגיעה בוודאות המסחרית, כעת נקבע כי אופן פרשנות החוזה יהיה \"ככל שיקבעו הצדדים\". לוין: \"זו בשורה לעולם העסקי\""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "כטב\"ם חמקן וחשאי, \"פצצת האפלה\" ו-150 מטוסים: כלי הטיס שסייעו ללכידת מדורו",
-      "url": "https://www.ynet.co.il/news/article/syixzmq4wl",
-      "image": null,
-      "published_at": "2026-01-06T08:35:12.000Z",
-      "summary": "הכטב\"ם RQ-170, ששימש למעקב מרחוק אחרי נשיא ונצואלה, תועד נוחת בפוארטו ריקו לאחר הפשיטה על קראקס. המטוסים והמפציצים תקפו בחסות החשכה - תוצאה כנראה של שימוש בלוחמת סייבר ובפצצה מיוחדת. \"האורות כבו בזכות מומחיות שיש לנו\", רמז טראמפ. פרטים חדשים: כך תקפו האמריקנים"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Battle of the Sexes 'brought eyes on tennis'",
-      "url": "https://www.bbc.com/sport/tennis/articles/cm24e6rzmpeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f51d/live/5e93b470-ead4-11f0-97b7-3d2573360ffb.jpg",
-      "published_at": "2026-01-06T08:31:49.000Z",
-      "summary": "Women's world number one Aryna Sabalenka defends the 'Battle of the Sexes' match against Nick Kyrgios after opening her season with a crushing win in Brisbane."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1360,16 +1380,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-905f-d01b-a7db-945f2fa40001/49/2b/aaf3644d4e5397b54ddc9aa9485e/2026-01-05t113043z-1607425546-rc2zuiaqlmu0-rtrmadp-3-israel-palestinians-raid-funeral.JPG?height=81",
       "published_at": "2026-01-05T23:16:00.000Z",
       "summary": "Mohammed Hussein Tarabin al-Sana was killed on Saturday night by a policeman who had come to arrest him as part of a police operation in the village of Tarabin"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Canada's Chrystia Freeland to quit as MP and become adviser to Zelensky",
-      "url": "https://www.bbc.com/news/articles/c24gngzr4ero?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bfd/live/f96fd290-ea6f-11f0-b385-5f48925de19a.jpg",
-      "published_at": "2026-01-05T22:58:16.000Z",
-      "summary": "Freeland says she will exit parliament in \"the coming weeks\" as she becomes an economic development adviser for Kyiv."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1600,16 +1610,6 @@
       "image": null,
       "published_at": "2026-01-05T17:11:56.000Z",
       "summary": "PM defends haredi conscription bill, backs politically appointed probe into October 7 massacre."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Gantz urges Israel to topple Iran’s regime, says historic opportunity may not return",
-      "url": "https://www.jpost.com/israel-news/article-882402",
-      "image": null,
-      "published_at": "2026-01-05T16:58:42.000Z",
-      "summary": "\"We cannot blink or hesitate - Israel is obligated to prepare for the possibility of attacking very soon,\" said the former defense minister."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2240,16 +2240,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-6a25-dcc6-a5bb-7f3713bb0005/60/60/7dea6e184547b87d96bd6b10a477/64249204.JPG?height=81",
       "published_at": "2026-01-03T21:14:00.000Z",
       "summary": "On the screen he brought the noble and upright Palestinian to the Israeli audience. Behind the camera Bakri, who died last week at 72, tried to show Palestinian pain and trauma – and paid a price for it"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israel welcomes Trump's attack on Venezuela as a blow to the Iranian axis",
-      "url": "https://www.haaretz.com/israel-news/2026-01-03/ty-article/.premium/israel-welcomes-trumps-attack-on-venezuela-as-a-blow-to-the-iranian-axis/0000019b-853a-d487-a3bf-fd3f6b2c0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-8566-d487-a3bf-fd6f83130001/83/99/d397448844faba57a3111b8e0349/267694.jpg?height=81",
-      "published_at": "2026-01-03T20:35:26.000Z",
-      "summary": "The Venezuelan regime, which severed ties with Jerusalem in 2009, long served as a key Iranian ally and a suspected hub for Hezbollah. Israeli officials hope Trump's attack will dismantle Tehran's influence and solidify South America's rightward turn"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
