@@ -1,35 +1,65 @@
 {
-  "generated_at": "2026-01-06T00:47:23.230Z",
+  "generated_at": "2026-01-06T02:50:43.116Z",
   "items": [
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
       "topic": "News",
-      "title": "The vast majority of Israelis are worried about declining US support for Israel, survey finds",
-      "url": "https://www.jpost.com/israel-news/article-882436",
-      "image": null,
-      "published_at": "2026-01-06T02:44:30.000Z",
-      "summary": "The poll of 1,000 Jewish Israeli adults comes amid a notable decline in support for Israel across the American political spectrum over the course of the Israel-Hamas War."
+      "title": "Selfies and smiles: South Korea seeks 'new phase' in ties with China",
+      "url": "https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ae1/live/cbcde360-ea95-11f0-89cf-5d549b2a0601.jpg",
+      "published_at": "2026-01-06T02:44:22.000Z",
+      "summary": "South Korea's Lee Jae Myung snapped selfies with China's Xi Jinping as he pursues better ties with China in a four-day visit."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "IDF sees largest single-day haredi draft to date with over 530 new recruits, still far from goal",
-      "url": "https://www.jpost.com/israel-news/article-882434",
+      "title": "Alarms raised as Trump’s CDC cuts number of suggested vaccines for children",
+      "url": "https://www.aljazeera.com/news/2026/1/6/alarms-raised-as-trumps-cdc-cuts-number-of-suggested-vaccines-for-children?traffic_source=rss",
       "image": null,
-      "published_at": "2026-01-06T02:13:27.000Z",
-      "summary": "As the IDF struggles to hit haredi enlistment goals, the military announced that it is making efforts to “expand the scope of recruitment from among the haredi public.”"
+      "published_at": "2026-01-06T02:17:30.000Z",
+      "summary": "An American Academy of Pediatrics official warns that changes made by political appointees could harm children."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia-Ukraine war: List of key events, day 1,412",
+      "url": "https://www.aljazeera.com/news/2026/1/6/russia-ukraine-war-list-of-key-events-day-1412?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-06T02:02:19.000Z",
+      "summary": "These are the key developments from day 1,412 of Russia’s war on Ukraine."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Israel grants 4G access to Palestinian West Bank cell companies after delay due to war",
+      "title": "At least 35 people, including 4 children, killed in Iran protests, rights group says",
+      "url": "https://www.timesofisrael.com/liveblog-january-6-2026/",
+      "image": null,
+      "published_at": "2026-01-06T01:36:41.000Z",
+      "summary": "Delegation led by Yemen’s main separatist group to travel to Saudi Arabia, sources say * Turkey’s Erdogan talks to Trump about Gaza, Venezuela, ties\nThe post At least 35 people, including 4 children, killed in Iran protests, rights group says appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מלחמת השחרור של ברהי טדסה: צה\"ל מעכב את העברת גופת הפליט למשפחתו",
+      "url": "https://www.ynet.co.il/news/article/yokra14636231",
+      "image": null,
+      "published_at": "2026-01-06T01:27:24.000Z",
+      "summary": "כבר כמעט שנה שברהי טדסה נאבק כדי להביא את אביו לקבורה באריתריאה, אלא שבמחנה שורה ‑ לשם הובאה הגופה אחרי שהאב נורה בידי צה\"ל כשניסה לחצות את הגבול לישראל ‑ לא משתפים פעולה. \"זאת לא גופת מחבל שיש אינטרס להחזיק בה\", אומרים בארגון הסיוע לפליטים, \"במשפחה רק רוצים לסגור מעגל\""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Israel grants 4G access to Palestinian West Bank cell companies after war delay",
       "url": "https://www.timesofisrael.com/israel-grants-4g-access-to-palestinian-west-bank-cell-companies-after-delay-due-to-war/",
       "image": null,
       "published_at": "2026-01-06T00:26:19.000Z",
-      "summary": "Communications Ministry ratifies deals inked by Israeli, Palestinian telecom firms; implementation expected to take 4-6 months; move won't cover Gaza, where networks stuck on 2G\nThe post Israel grants 4G access to Palestinian West Bank cell companies after delay due to war appeared first on The Time"
+      "summary": "Communications Ministry ratifies deals inked by Israeli, Palestinian telecom firms; implementation expected to take 4-6 months; move won't cover Gaza, where networks stuck on 2G\nThe post Israel grants 4G access to Palestinian West Bank cell companies after war delay appeared first on The Times of Is"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -225,21 +255,21 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הפעם אהרן ברק צודק",
-      "url": "https://www.ynet.co.il/news/article/yokra14637276",
-      "image": null,
-      "published_at": "2026-01-05T22:04:00.000Z",
-      "summary": "בימים אחרים, הייתי יוצא נגד הדברים שהשמיע נשיא בית המשפט העליון לשעבר. אבל בימים בהם כמעט כל ההחלטות שמקבלת הממשלה משרתות מיעוט דורסני, בראש סדר העדיפויות צריכה לעמוד החלפת הקואליציה  האנטי-ציונית. הביקורת על האליטה המשפטית עוד תחזור"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "גולדקנופף לא מנותק",
       "url": "https://www.ynet.co.il/news/article/yokra14637105",
       "image": null,
       "published_at": "2026-01-05T22:04:00.000Z",
       "summary": "תפיסת עולמו של גולדקנופף נמצאת בהלימה למה שהמדינה מסמנת: שהוא ומי שבשמו הוא מוחה נמצאים בסטטוס אחר"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הפעם אהרן ברק צודק",
+      "url": "https://www.ynet.co.il/news/article/yokra14637276",
+      "image": null,
+      "published_at": "2026-01-05T22:04:00.000Z",
+      "summary": "בימים אחרים, הייתי יוצא נגד הדברים שהשמיע נשיא בית המשפט העליון לשעבר. אבל בימים בהם כמעט כל ההחלטות שמקבלת הממשלה משרתות מיעוט דורסני, בראש סדר העדיפויות צריכה לעמוד החלפת הקואליציה  האנטי-ציונית. הביקורת על האליטה המשפטית עוד תחזור"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -422,16 +452,6 @@
       "summary": "If it winds up on the international money laundering 'gray list,' Israel could see a drop in investments and more expensive bank transactions. If you think that banks charge excessive fees now, be prepared for a big increase – and this time, the banks won't be to blame"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Bennett pushes for billions of shekels to be redirected to reservists over draft dodgers",
-      "url": "https://www.jpost.com/israel-news/article-882423",
-      "image": null,
-      "published_at": "2026-01-05T20:44:42.000Z",
-      "summary": "Bennett discussed his outline for the draft law, which would grant benefits to active reservists, including assistance with apartment purchases and benefits regarding daycare and state services."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -572,16 +592,6 @@
       "summary": "During the 40-minute arraignment, Maduro and his wife, Cilia Flores, pleaded not guilty to drugs and weapon charges."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Can Israel stay in the top tier of the quantum arms race alongside US, China?",
-      "url": "https://www.jpost.com/israel-news/article-882417",
-      "image": null,
-      "published_at": "2026-01-05T19:33:23.000Z",
-      "summary": "Much like the space race of 60-70 years ago, the winners of this arms race will establish all new power and influence on the military, economic, and scientific fronts."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -640,16 +650,6 @@
       "image": null,
       "published_at": "2026-01-05T18:52:26.000Z",
       "summary": "המשטרה תפנה ליועמ\"שית בהרב-מיארה בבקשה לחקור את טיבי על העלבת עובד ציבור. במהלך ריאיון, אחרי שנצ\"מ אריה דורון אמר לו \"תתבייש\" על כך שכינה את המשטרה מאפיה, השיב טיבי: \"פקיד מושתן, עסקן ליכוד\""
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "State tells High Court it remains dangerous to allow journalists into Gaza without military escort",
-      "url": "https://www.jpost.com/israel-news/article-882415",
-      "image": null,
-      "published_at": "2026-01-05T18:51:40.000Z",
-      "summary": "In its updated response, the state acknowledged that the war has entered what it described as a “different factual phase,” following the October agreements and a fighting intensity reduction."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -715,11 +715,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Venezuela’s abducted leader Nicolas Maduro, wife appear in NYC court",
+      "title": "‘I am innocent,’ says Venezuela’s abducted leader, Maduro, in US court",
       "url": "https://www.aljazeera.com/news/2026/1/5/venezuelas-abducted-leader-maduro-wife-to-appear-in-nyc-court?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-05T18:20:45.000Z",
-      "summary": "Pair led handcuffed and under heavy guard to court two days after abduction from Caracas by US special forces."
+      "summary": "Maduro and wife were led handcuffed, under heavy guard, to court days after abduction from Caracas by US special forces."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -750,16 +750,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba5b/live/0e7126c0-ea5d-11f0-abe2-ab0fb32e3a9d.jpg",
       "published_at": "2026-01-05T18:02:12.000Z",
       "summary": "US Attorney General Pam Bondi has said Maduro was brought to the US to \"face justice\". Some experts have concerns."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF to investigate soldier filmed firing into Gaza on New Year’s Eve",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-882407",
-      "image": null,
-      "published_at": "2026-01-05T17:55:04.000Z",
-      "summary": "“The soldier documented in the video acted contrary to procedures, firing unprofessionally and not following orders,” the IDF stated in response to the 'Post’ 's request for comment."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -832,26 +822,6 @@
       "summary": "The UN warned Venezuela could face deeper instability after the US abduction of President Nicolas Maduro."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Netanyahu vows to block Iran's nuclear ambitions, accuses opposition of courting Muslim Brotherhood",
-      "url": "https://www.jpost.com/israel-news/article-882404",
-      "image": null,
-      "published_at": "2026-01-05T17:11:56.000Z",
-      "summary": "PM defends haredi conscription bill, backs politically appointed probe into October 7 massacre."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israeli farmers protest Smotrich's proposed dairy reform, warn of 400 farm closures",
-      "url": "https://www.jpost.com/israel-news/article-882360",
-      "image": null,
-      "published_at": "2026-01-05T17:08:44.000Z",
-      "summary": "Hundreds of farmers blocked roads nationwide, warning that proposed dairy reforms would shutter farms, undermine food security, and create dangerous reliance on imports."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -870,16 +840,6 @@
       "image": null,
       "published_at": "2026-01-05T16:59:14.000Z",
       "summary": "Deposed Venezuelan leader Maduro led into courtroom wearing a blue jail uniform along with his co-defendant wife, tells judge, 'I'm a decent man, president of my country'\nThe post Maduro pleads not guilty at NYC court in first appearance since capture by US forces appeared first on The Times of Isra"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Gantz urges Israel to topple Iran’s regime, says historic opportunity may not return",
-      "url": "https://www.jpost.com/israel-news/article-882402",
-      "image": null,
-      "published_at": "2026-01-05T16:58:42.000Z",
-      "summary": "\"We cannot blink or hesitate - Israel is obligated to prepare for the possibility of attacking very soon,\" said the former defense minister."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -972,16 +932,6 @@
       "summary": "נכון לעכשיו, היועמ\"ש ממונה ל-6 שנים ללא קשר לבחירות. במסגרת הדיונים על החוק פיצול התפקיד, מציע יו\"ר ועדת החוקה כי ממשלה נבחרת תוכל למנות יועץ משפטי כבר ביומה הראשון. האופוזיציה: \"הסרתם את המסכה, אתם רוצים עו\"ד פוליטי לממשלה\""
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Pardes Hanna woman murdered in first femicide case in Israel in 2026, husband arrested",
-      "url": "https://www.jpost.com/israel-news/article-882388",
-      "image": null,
-      "published_at": "2026-01-05T15:57:51.000Z",
-      "summary": "Police said the initial investigation indicates the killing stemmed from a family dispute."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -990,36 +940,6 @@
       "image": null,
       "published_at": "2026-01-05T15:55:19.000Z",
       "summary": "Spanish team says game has been declared 'high risk' as hundreds of organizations call for anti-Israel rally outside Movistar Arena on Thursday\nThe post Real Madrid to face Maccabi Tel Aviv in basketball match without fans, citing protests appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump has made US militarism worse",
-      "url": "https://www.aljazeera.com/opinions/2026/1/5/trump-has-made-us-militarism-worse?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-05T15:55:01.000Z",
-      "summary": "US military action has long been shaped by policy and ideology. Now it is shaped by whim."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Jailed Palestine Action activist ends 60-day hunger strike as health fails",
-      "url": "https://www.aljazeera.com/news/2026/1/5/1819?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-05T15:55:01.000Z",
-      "summary": "Prisoners For Palestine says activist Teuta Hoxha needs hospitalisation but has been denied treatment while in prison."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Tel Aviv University launches Global Young Leadership Community",
-      "url": "https://www.jpost.com/israel-news/article-882389",
-      "image": null,
-      "published_at": "2026-01-05T15:50:27.000Z",
-      "summary": "New initiative brings together emerging leaders from Israel and abroad to foster global engagement, leadership, and societal impact."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -1052,16 +972,6 @@
       "summary": "President Erdoğan said, 'Turkey's receipt of the F-35 aircraft for which it has already paid,' adding that its reintegration is 'important' for NATO's defense. Israeli officials fear that the acquisition could erode Israel's long-standing qualitative military edge in the region"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Threatening graffiti sprayed outside Army Radio office: &#8216;Your days are numbered&#8217;",
-      "url": "https://www.timesofisrael.com/threatening-graffiti-sprayed-outside-army-radio-office-your-days-are-numbered/",
-      "image": null,
-      "published_at": "2026-01-05T15:07:40.000Z",
-      "summary": "Building vandalized as government seeks to shut down long-running station; IDF condemns 'serious and unacceptable act of incitement'\nThe post Threatening graffiti sprayed outside Army Radio office: &#8216;Your days are numbered&#8217; appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1092,26 +1002,6 @@
       "summary": "Cuba's president said military and intelligence operatives were providing protection to captured leader Nicolás Maduro."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF condemns incitement graffiti at Army Radio building in Jaffa",
-      "url": "https://www.jpost.com/israel-news/article-882377",
-      "image": null,
-      "published_at": "2026-01-05T14:39:37.000Z",
-      "summary": "These incitement messages take place against the backdrop of a move by Defense Minister Israel Katz to try to close Army Radio by March 1."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Faith under persecution: Yad Vashem exhibit on keeping the Jewish calendar in the Shoah opens",
-      "url": "https://www.jpost.com/israel-news/article-882375",
-      "image": null,
-      "published_at": "2026-01-05T14:25:15.000Z",
-      "summary": "Handwritten calendars, prayer books, and testimonies at Yad Vashem show how Jewish life and tradition endured during the Holocaust."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1132,16 +1022,6 @@
       "summary": "Forty people were killed when a fire swept through a busy bar in Crans-Montana on New Year's Eve."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הזמנה לדריסה",
-      "url": "https://www.ynet.co.il/news/article/s1d1rhynwl",
-      "image": null,
-      "published_at": "2026-01-05T14:08:53.000Z",
-      "summary": "כששנאה מנומקת פוגשת שתיקה מערכתית מהדהדת – נקל לשמוע את קריסת הערכים "
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1150,16 +1030,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/b80291e0-ea1e-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2026-01-05T14:07:49.000Z",
       "summary": "The US president has repeatedly said he wants the island to become a part of the US."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Shin Bet Chief Zini electronic ankle cuffs idea for Jewish extremists approved after long delay",
-      "url": "https://www.jpost.com/israel-news/article-882369",
-      "image": null,
-      "published_at": "2026-01-05T13:40:24.000Z",
-      "summary": "The 'Post' has learned that the Attorney-General's Office has already approved the tool, though it is not expected to be deployed in the near term."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1172,36 +1042,6 @@
       "summary": "Recent elections across South America and Trump's invasion of Venezuela have prompted Israel to court governments across the continent. But key countries remain hostile, and Netanyahu's declaring a 'sweeping turnaround' may be premature"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Prosecution presses Netanyahu on Nir Hefetz ties as cross-examination in Case 4000 intensifies",
-      "url": "https://www.jpost.com/israel-news/benjamin-netanyahu/article-882365",
-      "image": null,
-      "published_at": "2026-01-05T13:25:48.000Z",
-      "summary": "Testimony by Hefetz, portions of which were read in court, describes Netanyahu as the driving force behind attempts to encourage the creation of a privately owned news channel."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israeli indicted in Iranian espionage plot targeting former PM Naftali Bennett",
-      "url": "https://www.jpost.com/israel-news/article-882364",
-      "image": null,
-      "published_at": "2026-01-05T13:16:32.000Z",
-      "summary": "The suspect, Lachao Damsash, was in contact with Iranian intelligence elements and carried out a range of tasks at their direction in exchange for payment."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Shas threatens to vote down 2026 state budget if haredi draft law not passed",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-882362",
-      "image": null,
-      "published_at": "2026-01-05T12:59:35.000Z",
-      "summary": "Without the support of Shas lawmakers, Prime Minister Benjamin Netanyahu’s government could lack the votes needed to pass the budget."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1212,16 +1052,6 @@
       "summary": "Authorities say perpetrators set fire to a building belonging to Andreas Büttner, and painted a red triangle resembling the Hamas symbol on an adjacent shed. The commissioner responded that such attacks 'do not lead to me becoming quieter – they only strengthen my resolve'"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Prosecutors file intent to indict Abu Latif crime boss, others in ‘Prince’ extortion affair",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-882356",
-      "image": null,
-      "published_at": "2026-01-05T12:43:10.000Z",
-      "summary": "Police say the probe uncovered a network of extortion and financial offenses involving millions of shekels, carried out over a period of roughly five years."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1230,16 +1060,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-8d03-dbf4-a79f-9d4bb6400001/43/d6/98b7a39344dd8b9b92110a6aa648/latif.PNG?height=81",
       "published_at": "2026-01-05T12:28:11.000Z",
       "summary": "Police say a year-long covert operation into the Abu Latif crime family relied on a state witnesswho infiltrated the network and helped amass evidence against senior figures. Authorities described the organization as one of the country's most violent, tied to years of deadly turf wars"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Judge rules Qatargate restrictions on Urich expired after police missed deadline",
-      "url": "https://www.jpost.com/israel-news/article-882352",
-      "image": null,
-      "published_at": "2026-01-05T12:28:11.000Z",
-      "summary": "Restrictions tied to separate Bild affair remain in force, court says.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1272,16 +1092,6 @@
       "summary": "By opening the United Arab List to Jewish candidates and breaking from the Islamic Movement, party chair Mansour Abbas seeks to recast the party as a cross-community, civic force, while ruling out Likud alliances and positioning it as a critic of extremist government policies affecting Arab citizens"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "After warning civilians of strikes, IDF conducts attacks on Hezbollah, Hamas targets in Lebanon",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-882348",
-      "image": null,
-      "published_at": "2026-01-05T11:50:46.000Z",
-      "summary": "Earlier, the IDF confirmed that it had conducted a strike, killing two Hezbollah terrorists in al-Jumayjimah, southern Lebanon, on Sunday."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1310,16 +1120,6 @@
       "image": "https://img.haarets.co.il/bs/00000197-1bed-d97f-afb7-5fed47f20007/54/9e/b3fb25ce4c99ae3b820329afbc99/759666-4.jpg?height=81",
       "published_at": "2026-01-05T11:21:15.000Z",
       "summary": "The top officials are set to be summoned over difficulties investigating lobbyist Jay Footlik, to better understand the connection between the ministers and senior officials and the American businessman who served as a lobbyist for Qatar"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Ra'am to open party to all Israelis, leader Abbas 'aims to recruits Jewish politicians'",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-882340",
-      "image": null,
-      "published_at": "2026-01-05T11:01:27.000Z",
-      "summary": "Abbas also accused National Security Minister Itamar Ben-Gvir of “smiling” when hearing about Arab citizens being murdered."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1352,16 +1152,6 @@
       "summary": "The threatening graffiti comes amid a government push to close Army Radio due to its 'political and divisive content', and broader coalition efforts to circumscribe freedom of the press in Israel. Late last year, similar grafitti turned up on Haaretz's building and on Channel 13's studio"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Four arrested for vandalism, destruction of cemetery near Old City",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-882330",
-      "image": null,
-      "published_at": "2026-01-05T09:42:11.000Z",
-      "summary": "The suspects, foreign residents aged 18 to 20, were taken for questioning and will be brought to court on Monday for a remand hearing, police said."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1382,16 +1172,6 @@
       "summary": "In a video message to anti-government protesters in Tel Aviv, Barak emphasized that the court alone cannot stop the Netanyahu government's destruction of Israeli democracy – the public must act, because 'our life's work is in danger'"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "South Korea's Lee Jae Myung meets China's Xi as he seeks to reset ties",
-      "url": "https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a006/live/cffa0380-ea2a-11f0-bee8-cb37bc70a803.jpg",
-      "published_at": "2026-01-05T08:51:15.000Z",
-      "summary": "Trade, regional security and Beijing's unofficial ban on Korean pop culture are on the agenda."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1410,26 +1190,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aae5/live/b1027960-ea09-11f0-b696-4d18e91c1002.jpg",
       "published_at": "2026-01-05T08:19:49.000Z",
       "summary": "The 243kg fish went to a man known as the Tuna King, who said \"the year's first tuna brings good luck\"."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF issues demolition order for home of terrorist who murdered two in northern Israel",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-882324",
-      "image": null,
-      "published_at": "2026-01-05T08:08:16.000Z",
-      "summary": "According to the military, the demolition notice was delivered after security forces completed the sealing of the attacker’s home. "
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Police officer shoots man who opened door for them during raid, Ben-Gvir bounces off criticism",
-      "url": "https://www.jpost.com/israel-news/article-882322",
-      "image": null,
-      "published_at": "2026-01-05T06:15:09.000Z",
-      "summary": "The raid during which the attack occurred was part of an ongoing push by Israeli law enforcement to crack down on various crimes, including illegal immigration and illegal weapon possession."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1502,16 +1262,6 @@
       "summary": "Sciences Po Saint-Germain near Paris trains current French secret agents and potential new recruits."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "PM Netanyahu briefs Security Cabinet on Trump meeting, Iran",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-882316",
-      "image": null,
-      "published_at": "2026-01-04T23:59:59.000Z",
-      "summary": "The meeting, called by Prime Minister Netanyahu on Sunday, ended after several hours and included discussions over the situation in Iran."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1542,26 +1292,6 @@
       "summary": "The prime minister said policy changes led by the national security minister allowing Jewish prayer at the Al-Aqsa/Temple Mount compound were coordinated with him, dismissing warnings that the moves breach decades-old arrangements"
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "'Modest and humble': Beersheba District Court president Benny Sagi dies in Highway 6 car crash",
-      "url": "https://www.jpost.com/israel-news/article-882309",
-      "image": null,
-      "published_at": "2026-01-04T23:12:53.000Z",
-      "summary": "Beersheba District Court President Benny Sagi was killed in a car crash on Highway 6, with police investigating the incident and leaders across Israel mourning his death."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Iran’s friends vanishing: Why Maduro’s arrest matters for Israel - analysis",
-      "url": "https://www.jpost.com/israel-news/article-882304",
-      "image": null,
-      "published_at": "2026-01-04T22:18:59.000Z",
-      "summary": "While Venezuela was not an Iranian proxy in the Syrian or Hezbollah mold, it functioned as an enabler, providing funds that helped sustain Iran’s proxies."
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1572,26 +1302,6 @@
       "summary": "There are tears and hugs at a special Mass for the victims of the blaze on New Year’s Eve."
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Ultra-Orthodox protests erupt across Israel on haredi IDF enlistment day",
-      "url": "https://www.jpost.com/israel-news/article-882301",
-      "image": null,
-      "published_at": "2026-01-04T20:28:06.000Z",
-      "summary": "Disturbances occurred when protesters attempted to block vehicles by lying on the roadway in Kiryat Ono, Israel Police said."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Israeli-Syrian meeting to be held over next two days, source tells 'Post'",
-      "url": "https://www.jpost.com/israel-news/article-882302",
-      "image": null,
-      "published_at": "2026-01-04T20:26:25.000Z",
-      "summary": "Senior Israeli and Syrian officials will meet Monday and Tuesday in US-mediated talks led by envoy Tom Barrack, the first such meetings since President Ahmed al-Sharaa’s visit to Washington."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1600,16 +1310,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-85ad-d379-a3bb-f7bd14cb0001/ed/ff/e4e7a65d4d1ca2e3304dd10312af/269888.jpg?height=81",
       "published_at": "2026-01-04T20:25:32.000Z",
       "summary": "America's attempted takedown of Venezuela's leadership appears to many in Jerusalem – certainly within Netanyahu's orbit – as a straightforward win for Israel. Yet a world of cruel realism and naked power politics is dangerous for Israel in the long term"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF: Staying in West Bank refugee camps will quell lone-wolf terror",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-882300",
-      "image": null,
-      "published_at": "2026-01-04T20:20:13.000Z",
-      "summary": "To date, the IDF and the Shin Bet (Israel Security Agency) have succeeded in catching and stopping such efforts, but some of the rocket building efforts have progressed to later stages."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
