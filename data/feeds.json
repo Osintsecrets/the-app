@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-06T13:52:13.080Z",
+  "generated_at": "2026-01-06T14:11:53.474Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "State audit reveals Israel unprepared for war, one-third of population lacks access to shelters",
+      "url": "https://www.jpost.com/israel-news/article-882515",
+      "image": null,
+      "published_at": "2026-01-06T16:05:50.000Z",
+      "summary": "The comptroller's ninth report on the Israel-Hamas war found that approximately 3.2 million Israeli lacked access to standard protective spaces. "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,11 +25,71 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
+      "title": "Iran anti-government protests spread to majority of provinces, videos show",
+      "url": "https://www.bbc.com/news/articles/cre28d2j2zxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daad/live/412890b0-eaf5-11f0-b385-5f48925de19a.png",
+      "published_at": "2026-01-06T14:07:08.000Z",
+      "summary": "Videos show that unrest has spread to more than 40 towns and cities, including pro-government heartlands."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"השיחות היו טובות\": ההחלטות במו\"מ בין ישראל לסוריה - והרצון לקדם את חזון טראמפ",
+      "url": "https://www.ynet.co.il/news/article/skmltk9vbx",
+      "image": null,
+      "published_at": "2026-01-06T14:02:56.000Z",
+      "summary": "יומיים של שיחות בפריז בתיווך אמריקני הגיעו לסיומם, וישראל וסוריה הסכימו לקיים שיחות תכופות יותר ולקדם צעדים בוני אמון, מתוך רצון להתקדם להסכם ביטחוני. חידוש השיחות הגיע לאחר קיפאון של חודשיים במגעים בין הצדדים - ובצל פערים משמעותיים שכבר מנעו הגעה להסכם בפעם הקודמת"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "תלמידים לא הגיעו למרחב מוגן, ומה קרה לציוני הבגרות? | הדוח על החינוך במלחמה",
+      "url": "https://www.ynet.co.il/news/article/b1wh5e54bg",
+      "image": null,
+      "published_at": "2026-01-06T13:59:43.000Z",
+      "summary": "מבקר המדינה מצא שלמרות הניסיון שנצבר בתקופת הקורונה, המערכת לא הפיקה את הלקחים הנדרשים לקראת מצב החירום. התוצאה: פגיעה באפקטיביות של הלימודים בזמן חרבות ברזל. מה הקשה על הלמידה הדיגיטלית? מה חסר במרחבים המוגנים בבתי הספר? ולמה מפקפק מתניהו אנגלמן בציוני הבגרות הגבוהים?"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אנגלמן מזהיר: שליש מהישראלים עדיין לא מוגנים מטילים; ליקויים גם בבתי החולים  ",
+      "url": "https://www.ynet.co.il/news/article/rjpxdxqezl",
+      "image": null,
+      "published_at": "2026-01-06T13:59:18.000Z",
+      "summary": "דוח מבקר המדינה מעלה שאף שהכשלים מוכרים מ-2018, לכ-3.2 מיליון תושבים עדיין אין מיגון תקני, כולל בעוטף עזה. מאות אלפי תלמידים שהו בבתי ספר ללא הגנה ראויה, ובתי חולים נאלצו לצמצם פעילות. בכ-11.7% מהמקלטים הציבוריים בישראל לא ניתן לשהות. נמצא כי רק 0.3% מהמקלטים בארץ נמצאים ביישובים ערביים. אנגלמן על ה"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ביקור ישראלי ראשון מאז ההכרזה: סער נחת בסומלילנד, מדינות נוספות יצטרפו להכרה?",
+      "url": "https://www.ynet.co.il/news/article/rjhj3u9nwe",
+      "image": null,
+      "published_at": "2026-01-06T13:57:06.000Z",
+      "summary": "שבוע וחצי אחרי ההחלטה המפתיעה להכיר רשמית במדינה האפריקנית: שר החוץ הגיע לסומלילנד ונפגש עם הנשיא עבדילאהי. הוא הכריז שתיפתח גם שגרירות ישראלית שם. בין המדינות שעשויות להכיר גם כן בסומלינד: איחוד האמירויות, הודו, אתיופיה, מרוקו וקניה"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
       "title": "European allies back Denmark over Trump's threat to annex Greenland",
       "url": "https://www.bbc.com/news/articles/c07xkeee2k3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/b80291e0-ea1e-11f0-b67b-690eb873de1b.jpg",
       "published_at": "2026-01-06T13:43:10.000Z",
-      "summary": "Donald Trump has refused to rule out using of force to annex Greenland - a scenario that would spell the end of Nato, according to Denmark."
+      "summary": "Donald Trump has refused to rule out using force to annex Greenland - a scenario that would spell the end of Nato, according to Denmark."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Who decides what’s true in the digital age?",
+      "url": "https://www.aljazeera.com/video/doha-debates/2026/1/6/who-decides-whats-true-in-the-digital-age?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-06T13:39:10.000Z",
+      "summary": "Who decides what’s true in the digital age? "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -175,11 +245,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Live: Deadly clashes erupt between Syrian army, SDF in Aleppo",
+      "title": "Live: Deadly clashes erupt between Syrian army, SDF forces in Aleppo",
       "url": "https://www.aljazeera.com/news/liveblog/2026/1/6/live-syrian-soldiers-injured-in-drone-attack-by-sdf-in-aleppo?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-06T13:09:30.000Z",
-      "summary": "Syria&#039;s Defence Ministry says it will respond to the &#039;aggression in an appropriate manner&#039;."
+      "summary": "At least four people killed after clashes erupted between the Syrian army and the Kurdish-led forces in Aleppo."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -329,7 +399,7 @@
       "url": "https://www.timesofisrael.com/central-elections-committee-to-work-on-combating-ai-influence-on-vote/",
       "image": null,
       "published_at": "2026-01-06T11:57:15.000Z",
-      "summary": "Director of CEC tells Knesset hearing it is assembling a team of experts to address issue ahead of upcoming national vote, which is to be held by October\nThe post Central Elections Committee to work on combating AI influence on vote appeared first on The Times of Israel.\n"
+      "summary": "Director of body that administers vote tells Knesset hearing it is assembling a team of experts to address issue ahead of national ballot slated for October\nThe post Central Elections Committee to work on combating AI influence on vote appeared first on The Times of Israel.\n"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -575,21 +645,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israel police is turning a Bedouin village into a violent prison – even without bars",
+      "title": "How a quiet Bedouin village in Israel's south turned into Ben-Gvir's supremacist playground",
       "url": "https://www.haaretz.com/israel-news/2026-01-06/ty-article-magazine/.premium/israel-police-is-turning-a-bedouin-village-into-a-violent-prison-even-without-bars/0000019b-8ecc-dd39-a7ff-effe61160000",
-      "image": "https://img.haarets.co.il/bs/0000019b-8ed8-d01b-a7db-9edc8a180001/b7/19/7c8ed7464fdd97f5adc0351c3e48/279430-2.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-8ed8-d01b-a7db-9edc89810001/c8/f5/489c62eb4d369a874ccb116b8d56/279440.jpg?height=81",
       "published_at": "2026-01-06T10:07:07.000Z",
-      "summary": "The shooting death of Mohammed Hussein Tarabin al-Sana by the police has left the village of Tarabin with little hope. Arrests of children and alleged collective punishment 'finally proved to me that we don't live in a democratic country,' one resident says"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "ביקור ישראלי ראשון מאז ההכרזה: סער נחת בסומלילנד, מדינות נוספות יצטרפו להכרה?",
-      "url": "https://www.ynet.co.il/news/article/rjhj3u9nwe",
-      "image": null,
-      "published_at": "2026-01-06T10:01:52.000Z",
-      "summary": "שבוע וחצי אחרי ההחלטה המפתיעה להכיר רשמית במדינה האפריקנית: שר החוץ הגיע לסומלילנד וייפגש היום עם הנשיא עבדילאהי. בין המדינות שעשויות להכיר גם כן בסומלינד: איחוד האמירויות, הודו, אתיופיה, מרוקו וקניה"
+      "summary": "'What we saw in Gaza and the West Bank has reached us, too,' says a relative of Mohammed al-Sana, who was fatally shot by Israel Police officers in Tarabin. Residents say the killing shattered hopes in the village, amid arrests of children and what they describe as collective punishment. 'It proved "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -812,16 +872,6 @@
       "summary": "Houston Rockets edge out the 100-97 victory, while OKC Thunder are handed a shock loss by the lowly Charlotte Hornets."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "US abduction of Maduro has “serious implications”",
-      "url": "https://www.aljazeera.com/video/quotable/2026/1/6/us-abduction-of-maduro-has-serious-implications?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-06T07:59:55.000Z",
-      "summary": "&quot;You could probably use that same indictment against any prime minister or president in the world.&quot;"
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -1030,36 +1080,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-91e0-d253-a3ff-f7e3e69d0000/6a/25/b2aa023a422bbc4d18669ecf68b8/296722.jpg?height=81",
       "published_at": "2026-01-06T03:23:28.000Z",
       "summary": ""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "טמפרטורות גבוהות בהרים, התקררות במישור החוף - ומתי יחזור הגשם?",
-      "url": "https://www.ynet.co.il/news/article/qhm1977vw",
-      "image": null,
-      "published_at": "2026-01-06T03:10:51.000Z",
-      "summary": "היום יהיה בהיר עד מעונן חלקית והטמפרטורות בהרים ובפנים הארץ יהיו גבוהות מהרגיל לעונה. במישור החוף ובשפלה תחול ירידה קלה בטמפרטורות. במהלך הלילה ישרור ערפל. ביום שישי הגשם חוזר"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "עד כמה גל המחאות באיראן מסכן את יציבות המשטר?",
-      "url": "https://www.ynet.co.il/news/theheadline/article/h1wlezy4we",
-      "image": null,
-      "published_at": "2026-01-06T03:00:00.000Z",
-      "summary": "גל המחאות באיראן שפרץ על רקע אינפלציה קיצונית, קריסת המטבע ושחיקה חריפה ברמת החיים - מתפשט ברחבי המדינה ומדיר שינה מעייניהם של אנשי המשטר. המפגינים אלימים ואמיצים יותר ביחס לגלי מחאה קודמים, ונראה שהפעם הם מצליחים לערער את יציבות המשטר. ד\"ר תמר עילם גינדין מסבירה במה שונה המחאה הנוכחית ממחאת החיג'אב"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "איך זה נראה כשבכנסת הנוכחית מנסים ללמד על \"מיניות בריאה\"",
-      "url": "https://www.ynet.co.il/news/article/rkemv00f4bx",
-      "image": null,
-      "published_at": "2026-01-06T02:56:00.000Z",
-      "summary": "בכנס של “עד החתונה” נעשה שימוש בדימויים בוטים כמו השוואת אישה שקיימה יחסי מין לפני החתונה למדבקה שאיבדה את כושר ההדבקה שלה, או הצגת מיניות מחוץ לנישואין כ\"ג’אנק פוד\" זמין וזול שגורם לנזקים ארוכי טווח, לעומת \"אוכל בריא\" בתוך נישואין"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1550,16 +1570,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-8d1f-db5e-adbf-ffbf24910001/10/53/872f36a34f919ee633d5ee78ae8b/screenshot-2026-01-05-094616.png?height=81",
       "published_at": "2026-01-05T12:44:51.000Z",
       "summary": "Authorities say perpetrators set fire to a building belonging to Andreas Büttner, and painted a red triangle resembling the Hamas symbol on an adjacent shed. The commissioner responded that such attacks 'do not lead to me becoming quieter – they only strengthen my resolve'"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Prosecutors file intent to indict Abu Latif crime boss, others in ‘Prince’ extortion affair",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-882356",
-      "image": null,
-      "published_at": "2026-01-05T12:43:10.000Z",
-      "summary": "Police say the probe uncovered a network of extortion and financial offenses involving millions of shekels, carried out over a period of roughly five years."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
