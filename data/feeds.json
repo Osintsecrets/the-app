@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-07T13:53:25.579Z",
+  "generated_at": "2026-01-07T14:12:40.545Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Court extends detention of bus driver who rammed into ultra-Orthodox protesters",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-882625",
+      "image": null,
+      "published_at": "2026-01-07T15:58:45.000Z",
+      "summary": "The court ordered the suspect held until January 15 to allow investigators to complete inquiries into the circumstances of the incident."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -32,6 +42,16 @@
       "summary": "Does Offir's decision indicate readiness to be strict in the Sde Teiman case, or to split the difference on controversies?"
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "שליחת טראמפ \"זרקה\" את בעלה היהודי לטובת טייקון לבנוני עם קשרים לחיזבאללה",
+      "url": "https://www.ynet.co.il/news/article/sjxvuasv11e",
+      "image": null,
+      "published_at": "2026-01-07T13:59:28.000Z",
+      "summary": "מורגן אורטגוס, שהייתה עד לאחרונה סגניתו של סטיב וויטקוף, התגרשה מבעלה ונמצאת בזוגיות עם הטייקון הלבנוני אנטון סחנאווי. הבנק שבראשו עומד הטייקון הואשם בעבר בסיוע לחיזבאללה, מקורבי סחנאווי טוענים: \"הוא ציוני מוצהר\""
+    },
+    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -42,14 +62,44 @@
       "summary": "Abubakar Malami was one of the most influential figures in the administration of former President Buhari."
     },
     {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Arsenal vs Liverpool: Premier League – team news, start time, lineups",
+      "url": "https://www.aljazeera.com/sports/2026/1/7/arsenal-vs-liverpool-premier-league-team-news-start-time-lineups?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-07T13:45:03.000Z",
+      "summary": "Arsenal finished last term as runners up in the EPL to Liverpool, but now lead the way as the holders toil this term."
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
       "title": "This hit Israeli TV talent show is letting Arab performers sing for themselves",
-      "url": "https://www.haaretz.com/israel-news/culture/2026-01-07/ty-article-magazine/.premium/an-arabic-language-music-talent-ahow-is-a-aurprise-hit-on-israeli-tv/0000019b-94bb-dcfc-addf-d5bbd17a0000",
+      "url": "https://www.haaretz.com/israel-news/culture/2026-01-07/ty-article-magazine/.premium/an-arabic-language-music-talent-show-is-a-surprise-hit-on-israeli-tv/0000019b-94bb-dcfc-addf-d5bbd17a0000",
       "image": "https://img.haarets.co.il/bs/0000019b-94be-dd67-a9ff-9ebf2ac40001/63/f0/caeca56c4e55a37126e3803c3e12/64314507.JPG?height=81",
       "published_at": "2026-01-07T13:42:47.000Z",
       "summary": "The new Arabic-language music talent show 'The Mic is Yours' on Israeli TV is a hit among local Arabs. Most of the participants aren't really looking to connect with a Jewish audience"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US attempting to seize Venezuela-linked Russian oil tanker: Reports",
+      "url": "https://www.aljazeera.com/news/2026/1/7/us-attempting-to-seize-venezuela-linked-russian-oil-tanker-reports?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-07T13:39:43.000Z",
+      "summary": "Russian submarine and warship are in the vicinity as the US operation unfolds, news report says."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Ukraine reports ‘concrete results’ from talks with Western allies",
+      "url": "https://www.aljazeera.com/news/2026/1/7/ukraine-reports-concrete-results-from-talks-with-western-allies?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-07T13:30:30.000Z",
+      "summary": "Chief of staff Kyrylo Budanov says progress has been made at key Paris summit."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -902,16 +952,6 @@
       "summary": "Likud officials have accused the channel of harming IDF reservists after it leaked footage of a Palestinian detainee being abused at Sde Teiman detention center. The boycott is amplified by Channel 14, whose broadcasts have called for 'total annihilation' in Gaza. The channel says 95 percent of Liku"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "LIVE: Saudi-led coalition targets Yemen; STC head dismissed from gov’t",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-yemens-stc-leader-al-zubaidi-dismissed-after-fleeing-overnight?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-07T06:05:24.000Z",
-      "summary": "Leader of Yemen&#039;s STC removed from government with the Saudi-led coalition saying he &#039;fled to unknown location&#039;."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -932,16 +972,6 @@
       "summary": "2026 רק התחילה, ובחברה הערבית נרצחו כבר 11 בני אדם: 3 גברים נרצחו ביריות בבוקר באתר בנייה בשפרעם, מותם נקבע במקום. בערערה שבנגב נרצח בלילה מחמוד ג'אסר אבו עראר (20), שהגיע רק אתמול לחופשה מלימודי הרפואה בגאורגיה"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "LIVE: Trump says Venezuela to hand over up to 50m barrels of oil to US",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-trump-says-venezuela-to-hand-over-up-to-50mn-barrels-of-oil-to-us?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-07T05:45:36.000Z",
-      "summary": "US president says he will control oil sales, proceeds, as Venezuela&#039;s Rodriguez pledges no &#039;foreign agent&#039; is in charge."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -952,16 +982,6 @@
       "summary": "Iranian judiciary's media outlet says Ali Ardestani committed 'espionage in favor of the Mossad intelligence service'; he's at least the 12th person executed since June war\nThe post Iran executes another man accused of spying for Israel, as protests roil country appeared first on The Times of Israel"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "China bans export of dual-use items to Japan amid tensions over Taiwan",
-      "url": "https://www.aljazeera.com/news/2026/1/7/china-bans-export-of-dual-use-items-to-japan-amid-tensions-over-taiwan?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-07T05:29:40.000Z",
-      "summary": "Japan calls for the ban&#039;s withdrawal, calling the measures &#039;absolutely unacceptable&#039; and &#039;deeply regrettable&#039;."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -970,16 +990,6 @@
       "image": null,
       "published_at": "2026-01-07T05:12:14.000Z",
       "summary": "בהשתתפות ראשי מערכת הביטחון כינס רה\"מ דיון מצומצם, והציג את ההבנות שאיתן שב מהפגישה עם טראמפ. במערכת הביטחון נערכים לפעולה בכל אחת מהזירות, חלקן אף במקביל - ועוסקים במאמץ המודיעין, בבניית תוכניות התקיפה ובחיזוק מערך ההגנה. וגם: המוכנות לתקיפה בלבנון - והיחידות שפרס חיזבאללה"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"בלי קולות הערבים לא יפילו את ביבי. מה הם מחפשים, ח\"כ ערבי ציוני?\"",
-      "url": "https://www.ynet.co.il/news/article/yokra14631822",
-      "image": null,
-      "published_at": "2026-01-07T04:20:55.000Z",
-      "summary": "החרם שהכריזו המפלגות היהודיות על הרשימות הערביות פוגש את תומכיהן ברחוב מיואשים ופסימיים | \"הבעיה היא לא בן גביר, אלא שאין בישראל הבדל בין ימין ושמאל\", אומר ד\"ר וליד חדאד משפרעם |  ולוקאס מבטא את עמדת הצעירים: \"בשביל מה להצביע? בכל מקרה יעשו הכל כדי שהערבים לא יצליחו\" | אבל הפוליטיקאים למודי הניסיון "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1450,16 +1460,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32fb/live/ee3d5460-eaf1-11f0-8a5c-81e1c85f6b52.jpg",
       "published_at": "2026-01-06T16:20:15.000Z",
       "summary": "Lego says its new tech-enabled products are its \"most revolutionary innovation\" since it launched its mini-figurines in 1978."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Gov't failed on hospital defense even after Iran missile hit Beersheba",
-      "url": "https://www.jpost.com/israel-news/article-882500",
-      "image": null,
-      "published_at": "2026-01-06T16:18:49.000Z",
-      "summary": "The Soroka Hospital strike, injuring 80, should have \"caused the government to tremble,\" the comptroller's report found. \n"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
