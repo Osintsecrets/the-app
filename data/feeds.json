@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-07T11:09:52.714Z",
+  "generated_at": "2026-01-07T11:37:51.268Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Hapoel Tel Aviv beats Dubai, Maccabi falls in Barcelona",
+      "url": "https://www.jpost.com/israel-news/sports/article-882600",
+      "image": null,
+      "published_at": "2026-01-07T13:12:24.000Z",
+      "summary": "Blakeney, Micic power first-place Reds against Dubai • Yellow-and-blue drops to 8-12 in Euroleague"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -32,6 +42,56 @@
       "summary": "The coordination with Israel allows Hamas to continue the search on the IDF's side of the Yellow Line."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Plot to kill Burkina Faso leader foiled, says junta",
+      "url": "https://www.bbc.com/news/articles/clyz4dzyq7po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3106/live/7d39a470-ebab-11f0-a370-2789d390a94d.jpg",
+      "published_at": "2026-01-07T11:30:54.000Z",
+      "summary": "The security minister accuses neighbouring Ivory Coast of funding the plan to kill Capt Traoré. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Russia sends navy to guard oil tanker being pursued by US forces",
+      "url": "https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/074a/live/594265e0-eb9a-11f0-b28e-9b17195bb0de.jpg",
+      "published_at": "2026-01-07T11:28:47.000Z",
+      "summary": "US officials say that American forces plan to seize the Russian-flagged ship, which is accused of breaking sanctions."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Daily Briefing Jan. 7: Day 824 &#8211; Chaos and death at a Haredi anti-IDF protest",
+      "url": "https://www.timesofisrael.com/daily-briefing-jan-7-day-824-chaos-and-death-at-a-haredi-anti-idf-protest/",
+      "image": null,
+      "published_at": "2026-01-07T11:24:08.000Z",
+      "summary": "Political correspondent Sam Sokol discusses the tragic end of a raucous, extreme demonstration in Jerusalem against military conscription of the ultra-Orthodox\nThe post Daily Briefing Jan. 7: Day 824 &#8211; Chaos and death at a Haredi anti-IDF protest appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "From Macron to OpenAI's Sam Altman: An Iranian hack opened an Israeli intelligence gold mine",
+      "url": "https://www.haaretz.com/israel-news/security-aviation/2026-01-07/ty-article-magazine/.premium/from-macron-to-openais-altman-an-iranian-hack-opened-an-israeli-intelligence-gold-mine/0000019b-92ca-d01b-a7db-96de4d6d0000",
+      "image": "https://gif.haarets.co.il/bs/0000019b-92fb-dcfc-addf-d7fb1d2e0001/55/35/d5e969b8462eae405992ba2f74f7/phone-leak-homepage-eng.gif?height=81",
+      "published_at": "2026-01-07T11:21:00.000Z",
+      "summary": "An Iranian-backed hack-and-leak operation that compromised the phones of figures including former Prime Minister Naftali Bennett and Prime Minister Netanyahu's chief of staff allowed hackers to extract contact lists containing Israeli security officials and world leaders, raising fears of surveillan"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אחרי הברקס של הרמטכ\"ל: צה\"ל יפעיל פיילוט חדש להכשרת לוחמות חי\"ר ניוד",
+      "url": "https://www.ynet.co.il/news/article/hk00d0ioe11g",
+      "image": null,
+      "published_at": "2026-01-07T11:06:18.000Z",
+      "summary": "כ-30 נשים השתלבו בפיילוט שנעצר בשנה שעברה בעקבות אי-עמידתן ברף הכושר הגופני והקרבי הנדרש למסלול. ל-ynet נודע כי כבר בחודש הקרוב יחלו המיונים לצד התאמות להשתלבות בפיילוט החדש שצפוי לצאת לדרך בנובמבר"
+    },
+    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -47,9 +107,19 @@
       "topic": "News",
       "title": "Families shocked Swiss ski bar was not inspected for years before deadly fire",
       "url": "https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b8b/live/b0b74a30-ebb7-11f0-bbde-4d6c2b8f31bb.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70ee/live/69884cb0-ebba-11f0-b385-5f48925de19a.jpg",
       "published_at": "2026-01-07T10:54:33.000Z",
       "summary": "The New Year's Eve fire at a bar in Crans-Montana killed 40 people and injured 116. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Everything you need to know about the Syria – Israel deal in Paris",
+      "url": "https://www.aljazeera.com/news/2026/1/7/everything-you-need-to-know-about-the-syria-israel-deal-in-paris?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-07T10:46:18.000Z",
+      "summary": "Syria and Israel agreed to form a joint mechanism aimed at sharing intelligence and military deescalation."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -130,26 +200,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-9736-dd39-a7ff-ff3e3d0e0000/fb/c3/964d52df419e85cf8be0435a29ad/311999.jpg?height=81",
       "published_at": "2026-01-07T10:17:57.000Z",
       "summary": "The demonstrators are protesting against far-right minister Bezalel Smotrich, who last week said Supreme Court President Isaac Amit is a 'violent, ruthless, megalomaniac,' adding that he would be 'run over'"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Plot to kill Burkina Faso leader foiled, says junta",
-      "url": "https://www.bbc.com/news/articles/clyz4dzyq7po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3106/live/7d39a470-ebab-11f0-a370-2789d390a94d.jpg",
-      "published_at": "2026-01-07T10:17:56.000Z",
-      "summary": "The security minister accuses neighbouring Ivory Coast of funding the plan to kill Capt Traoré. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Russia sends navy to guard oil tanker being pursued by US forces",
-      "url": "https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/074a/live/594265e0-eb9a-11f0-b28e-9b17195bb0de.jpg",
-      "published_at": "2026-01-07T10:17:08.000Z",
-      "summary": "US officials say that American forces plan to seize the Russian-flagged ship, which is accused of breaking sanctions."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -842,16 +892,6 @@
       "summary": "Government issues tender for 3,401 housing units in E1 area, which both critics and proponents say will effectively divide West Bank and block a contiguous Palestinian state\nThe post Last hurdle cleared to start controversial settlement project near Jerusalem appeared first on The Times of Israel.\n"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Zamir: IDF building strategy around &#8216;surprise war,&#8217; civilian resilience key to success",
-      "url": "https://www.timesofisrael.com/zamir-idf-building-strategy-around-surprise-war-civilian-resilience-key-to-success/",
-      "image": null,
-      "published_at": "2026-01-07T01:34:43.000Z",
-      "summary": "Top general vows 'there will be no more containment,' says that since Oct. 7 the military has 'made changes to readiness, to orders' and 'addressed operational gaps'\nThe post Zamir: IDF building strategy around &#8216;surprise war,&#8217; civilian resilience key to success appeared first on The Time"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -912,16 +952,6 @@
       "summary": "US president says oil will be sold at market prices and that he will control the resulting revenues."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Iran army chief threatens response to Trump and Netanyahu’s ‘hostile rhetoric’",
-      "url": "https://www.timesofisrael.com/liveblog-january-07-2026/",
-      "image": null,
-      "published_at": "2026-01-07T00:09:16.000Z",
-      "summary": "PM vows to ‘thoroughly investigate’ death of 14-year-old Haredi protester hit by bus * 4 anti-judicial overhaul activists arrested for blocking road near Supreme Court in Jerusalem\nThe post Iran army chief threatens response to Trump and Netanyahu’s ‘hostile rhetoric’ appeared first on The Times of "
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -940,16 +970,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-92d4-d4d8-a19b-f3dc10170000/1a/6d/09d4251c4460a54b714803223286/308155.jpg?height=81",
       "published_at": "2026-01-06T23:55:29.000Z",
       "summary": ""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Price hikes, queues and tension: Venezuela shoppers uneasy after US bombing",
-      "url": "https://www.aljazeera.com/news/2026/1/6/price-hikes-queues-and-tension-venezuela-shoppers-uneasy-after-us-bombing?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-06T23:53:00.000Z",
-      "summary": "Residents of the capital Caracas remain rattled after the US abduction of Maduro, leading some to stock up on supplies."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1070,16 +1090,6 @@
       "image": null,
       "published_at": "2026-01-06T22:05:00.000Z",
       "summary": "מקווה שלא ניתקל שוב מול ממשל הנשיא טראמפ אחרי המפגש במחלוקות פרשניות שיתישו את כולנו. ישראל מאופיינת לא אחת באלתור ופרטץ' - רישול קשה - מן היד לפה. בעניינים לאומיים חשובים הפרטץ' הוא הרה אסון. נדרוש מראשי המדינה שעוזריהם יתעדו. תיתכן לכך חיוניות ביום פקודה"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אין עתיד ליהודי בריטניה",
-      "url": "https://www.ynet.co.il/news/article/yokra14637810",
-      "image": null,
-      "published_at": "2026-01-06T22:04:00.000Z",
-      "summary": " יהודי בריטניה - קהילה מושרשת, דור שלישי, רביעי וחמישי, שבנתה קריירות, מוסדות קהילתיים ואימצה באופן האינטימי ביותר את הזהות הבריטית — חשים נבגדים ומגיעים למסקנה קשה: העתיד שלהם בממלכה הולך ואוזל"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1442,16 +1452,6 @@
       "summary": "Lawmaker Ahmad Tibi responded to the police's call to consider opening an investigation into him for calling the police spokesperson a 'nobody' and a 'punk' in a Monday televised interview"
     },
     {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "From Macron to OpenAI's Sam Altman: An Iranian hack opened an Israeli intelligence gold mine",
-      "url": "https://www.haaretz.com/israel-news/security-aviation/2026-01-06/ty-article-magazine/.premium/from-macron-to-openais-altman-an-iranian-hack-opened-an-israeli-intelligence-gold-mine/0000019b-92ca-d01b-a7db-96de4d6d0000",
-      "image": "https://gif.haarets.co.il/bs/0000019b-92fb-dcfc-addf-d7fb1d2e0001/55/35/d5e969b8462eae405992ba2f74f7/phone-leak-homepage-eng.gif?height=81",
-      "published_at": "2026-01-06T14:45:24.000Z",
-      "summary": "An Iranian-backed hack-and-leak operation that compromised the phones of figures including former Prime Minister Naftali Bennett and Prime Minister Netanyahu's chief of staff allowed hackers to extract contact lists containing Israeli security officials and world leaders, raising fears of surveillan"
-    },
-    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
@@ -1540,16 +1540,6 @@
       "image": "https://img.haarets.co.il/bs/0000017f-ebc2-d4cd-af7f-ebfab39e0000/c8/40/7760ccb018c08285e49e114b8cc6/1770231834.jpg?height=81",
       "published_at": "2026-01-06T12:23:16.000Z",
       "summary": "The team, led by the Shin Bet and Israel's Elections Committee, will work with private companies and vendors in the defensive cybersecurity field and combat threats posed by AI on social media"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "In first visit, Sa'ar says Somaliland 'not a virtual state' in jab at Palestinian state recognition",
-      "url": "https://www.jpost.com/israel-news/article-882477",
-      "image": null,
-      "published_at": "2026-01-06T11:58:22.000Z",
-      "summary": "Sa'ar is the first Israeli official to visit Somaliland since Jerusalem recognized its independence on December 26."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
