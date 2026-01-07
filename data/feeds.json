@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-01-07T07:15:31.698Z",
+  "generated_at": "2026-01-07T07:42:24.829Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Three shot dead in Shfaram as Arab society murder toll reaches 11 since start of 2026",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-882575",
+      "image": null,
+      "published_at": "2026-01-07T09:31:12.000Z",
+      "summary": "The triple killing occurred shortly after 7:00 a.m., when reports of gunfire reached the Magen David Adom (MDA) emergency hotline in the Carmel region."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "אלימות במגזר? הממשלה נוקטת במופע בן-גביריסטי",
-      "url": "https://www.ynet.co.il/news/article/yokra14638183",
+      "title": "אלטרנטיבה חיובית",
+      "url": "https://www.ynet.co.il/news/article/yokra14637864",
       "image": null,
-      "published_at": "2026-01-07T07:10:44.000Z",
-      "summary": "לצד כל הגימיקים, מועבר מסר מסוכן של חתירה להטלת ממשל צבאי על החברה הערבית והכנסתה לשיח הטרור. כך שוברים דמוקרטיה"
+      "published_at": "2026-01-07T07:34:59.000Z",
+      "summary": "מפלגה ערבית-ציונית תוכל סוף סוף לייצג באמת את המיעוט הערבי הנאמן למדינה, ולשרת אותו לא בסיסמאות אלא במעשים: בתקציבים הוגנים, בשיקום תשתיות מוזנחות, בחינוך איכותי, ובמאבק אמיתי על ביטחון אישי ברחובות, בכפרים ובערים. היא תוכל להוביל שותפות אזרחית עמוקה, הכוללת שירות אזרחי וצבאי כדרך חיים מחייבת "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -17,9 +27,39 @@
       "topic": "News",
       "title": "US discussing options to acquire Greenland, including use of military, says White House",
       "url": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e1/live/8b61cb40-eb92-11f0-b5f7-49f0357294ff.jpg",
-      "published_at": "2026-01-07T07:02:50.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d24/live/0b62f150-eb9a-11f0-b385-5f48925de19a.jpg",
+      "published_at": "2026-01-07T07:26:05.000Z",
       "summary": "It came as European allies rallied behind Denmark, which is pushing back against Trump's ambitions for the Arctic island. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "כל הכפתורים שלנו לחוצים",
+      "url": "https://www.ynet.co.il/news/article/yokra14638424",
+      "image": null,
+      "published_at": "2026-01-07T07:14:54.000Z",
+      "summary": "כמדינה וכעם היינו אמורים להיות במקום אחר, בשיקום ובנייה. לא רק חיצונית, פנימית. הנפש צועקת לזה. מגיע לנו הזמן הזה. אבל כמו שלא דאגו לתוכנית היום שאחרי בעזה, אין היום שאחרי בישראל"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "פשיעה בחברה הערבית? הממשלה נוקטת במופע בן-גביריסטי",
+      "url": "https://www.ynet.co.il/news/article/yokra14638183",
+      "image": null,
+      "published_at": "2026-01-07T07:10:44.000Z",
+      "summary": "לצד כל הגימיקים, מועבר מסר מסוכן של חתירה להטלת ממשל צבאי על החברה הערבית והכנסתה לשיח הטרור. כך שוברים דמוקרטיה"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israel’s continued attacks on Lebanon could derail Hezbollah disarmament",
+      "url": "https://www.aljazeera.com/features/2026/1/7/israels-continued-attacks-on-lebanon-could-derail-hezbollah-disarmament?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-07T07:05:11.000Z",
+      "summary": "Analysts believe Hezbollah will not accept the disarmament&#039;s second phase as long as Israel continues attacking Lebanon."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -47,7 +87,7 @@
       "topic": "News",
       "title": "Triple homicide in northern town of Shefa-Amr: Three men shot dead",
       "url": "https://www.haaretz.com/israel-news/2026-01-07/ty-article/.premium/three-men-killed-in-shefa-amr-as-israels-2026-murder-toll-rises-to-10/0000019b-970b-d171-adbb-bf1f53c30000",
-      "image": "https://img.haarets.co.il/bs/0000019b-970b-d01b-a7db-971f9c0b0001/46/2c/fde2a22149e29d5003a115d1448f/whatsapp-image-2026-01-07-at-07-49-22.jpeg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-970b-d01b-a7db-971f9c0b0001/06/92/81ea43594191bfd1411e6c1db84f/312198.webp?height=81",
       "published_at": "2026-01-07T06:35:30.000Z",
       "summary": "Police suspect the three men were shot dead amid a dispute between two local crime groups in northern Israel. Emergency services said the victims were around 50. Nine of the year's 10 homicide victims are Arab Israelis"
     },
@@ -76,7 +116,7 @@
       "source": "Haaretz — All Headlines",
       "topic": "News",
       "title": "Likud party expands boycott against Channel 12, fueled by pro-Netanyahu Channel 14",
-      "url": "https://www.haaretz.com/israel-news/2026-01-07/ty-article/netanyahus-likud-party-boycotts-israeli-channel-12/0000019b-9429-d01b-a7db-943d994d0000",
+      "url": "https://www.haaretz.com/israel-news/2026-01-07/ty-article/netanyahus-likud-party-boycotts-israeli-channel-12-egged-on-by-right-wing-network/0000019b-9429-d01b-a7db-943d994d0000",
       "image": "https://img.haarets.co.il/bs/0000018d-a867-d0cb-a5ef-bb6ffbae0002/b7/ed/11ce1db948ae8c32495bc72b06ea/55469597.JPG?height=81",
       "published_at": "2026-01-07T06:06:49.000Z",
       "summary": "Likud officials have accused the channel of harming IDF reservists after it leaked footage of a Palestinian detainee being abused at Sde Teiman detention center. The boycott is amplified by Channel 14, whose broadcasts have called for 'total annihilation' in Gaza. The channel says 95 percent of Liku"
@@ -187,7 +227,7 @@
       "topic": "News",
       "title": "Russia sends navy ships to guard oil tanker being pursued by US forces",
       "url": "https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4b4/live/9da22de0-eb83-11f0-a389-d768df3901fe.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/074a/live/594265e0-eb9a-11f0-b28e-9b17195bb0de.jpg",
       "published_at": "2026-01-07T04:13:08.000Z",
       "summary": "US officials say that American forces plan to seize the Russian-flagged ship accused of breaking sanctions."
     },
@@ -517,7 +557,7 @@
       "topic": "News",
       "title": "Trump's Venezuela raid has created chaos - and that is a risk for China",
       "url": "https://www.bbc.com/news/articles/cly92dkxqvko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7188/live/3766f820-eae9-11f0-8a5c-81e1c85f6b52.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6eb/live/d13a3870-eb9a-11f0-b385-5f48925de19a.jpg",
       "published_at": "2026-01-06T23:01:19.000Z",
       "summary": "The US's seizure of Nicolás Maduro carries uncertainty for China, which is is no fan of chaos."
     },
@@ -695,21 +735,21 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "\"ככה נראה סיפוח\": המהלך שהמתנחלים מקווים שימוטט את המדינה הפלסטינית",
-      "url": "https://www.ynet.co.il/news/article/yokra14638067",
-      "image": null,
-      "published_at": "2026-01-06T22:00:00.000Z",
-      "summary": "המטרה - רצף טריטוריאלי. האמצעים: משפחות שלמות שיובאו ליו\"ש ויבנו את הקהילה עד שיוקמו מגורי קבע. עד כה, יותר מ-25 אלף דונם הוכרזו כאדמות מדינה, וכ-45 אלף יחידות דיור חדשות אושרו. גורם בהתנחלויות: \"הריבונות קיימת בשטח, זה עוד יגיע\". תנועת \"שלום עכשיו\": \"אסון, חייבים לעצור את זה\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "הפתרון החרדי למשבר הגיוס: חוק מהמהפכה המשפטית",
       "url": "https://www.ynet.co.il/news/article/yokra14638461",
       "image": null,
       "published_at": "2026-01-06T22:00:00.000Z",
       "summary": "פרסום ראשון: בניסיון לייצר מנופי לחץ על בג\"ץ, המפלגות החרדיות דורשות להחזיר לסדר היום את פסקת ההתגברות, שנועדה לבטל החלטה של בית המשפט, אם יפסול את חוק הפטור מגיוס. \"כדי שבג\"ץ יחשוב פעמיים\", הודה גורם פוליטי בכיר"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"ככה נראה סיפוח\": המהלך שהמתנחלים מקווים שימוטט את המדינה הפלסטינית",
+      "url": "https://www.ynet.co.il/news/article/yokra14638067",
+      "image": null,
+      "published_at": "2026-01-06T22:00:00.000Z",
+      "summary": "המטרה - רצף טריטוריאלי. האמצעים: משפחות שלמות שיובאו ליו\"ש ויבנו את הקהילה עד שיוקמו מגורי קבע. עד כה, יותר מ-25 אלף דונם הוכרזו כאדמות מדינה, וכ-45 אלף יחידות דיור חדשות אושרו. גורם בהתנחלויות: \"הריבונות קיימת בשטח, זה עוד יגיע\". תנועת \"שלום עכשיו\": \"אסון, חייבים לעצור את זה\""
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -920,16 +960,6 @@
       "image": null,
       "published_at": "2026-01-06T19:52:37.000Z",
       "summary": "ח\"כ פנינה תמנו שטה יזמה דיון בנוגע לאלימות משטרתית כלפי בני הקהילה האתיופית, ובמהלכו התעמתה עם דובר המשטרה. \"הרסו את החיים לקהילה. דופקים להם מכות, שמים במעצרים\", אמרה. במהלך הדיון שיתפו בני הקהילה על אירועים שעברו. \"שוטרים הרביצו לבן שלי - בן 12. שלפו על ילדים נשקים\", סיפרו"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Birzeit University raid seen as warning against Palestinian defiance",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/6/birzeit-university-raid-seen-as-warning-against-palestinian-defiance?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-06T19:39:52.000Z",
-      "summary": "Israeli forces raided Birzeit University in the occupied West Bank during a solidarity event for Palestinian prisoners."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1302,16 +1332,6 @@
       "summary": "Lawmaker Ahmad Tibi responded to the police's call to consider opening an investigation into him for calling the police spokesperson a 'nobody' and a 'punk' in a Monday televised interview"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "יאיר גולן הודיע: פעילי מחאה מרכזיים מצטרפים למפלגה - וגם דני אלגרט",
-      "url": "https://www.ynet.co.il/news/article/rjakywcvzl",
-      "image": null,
-      "published_at": "2026-01-06T14:54:51.000Z",
-      "summary": "יו\"ר הדמוקרטים מסר הצהרה שבה הודיע כי משה רדמן ועמי דרור, ממובילי המחאה, יתמודדו בפריימריז. \"המחאה היא בשר מבשרנו, חלק מעמוד השדרה שלנו\", אמר גולן. למפלגה מצטרפים גם מורן מישל, הדס רגולסקי, תומר אביטל, לי הופמן, קטי פיאסצקי - ואח החטוף שנרצח בשבי והפך לקול בולט נגד הממשלה"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1320,16 +1340,6 @@
       "image": "https://gif.haarets.co.il/bs/0000019b-92fb-dcfc-addf-d7fb1d2e0001/55/35/d5e969b8462eae405992ba2f74f7/phone-leak-homepage-eng.gif?height=81",
       "published_at": "2026-01-06T14:45:24.000Z",
       "summary": "An Iranian-backed hack-and-leak operation that compromised the phones of figures including former Prime Minister Naftali Bennett and Prime Minister Netanyahu's chief of staff allowed hackers to extract contact lists containing Israeli security officials and world leaders, raising fears of surveillan"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "קצינת משטרה הוכרה כנכה בשל צפייה בסרטוני 7/10: \"חשבתי שאני הולכת למות\"",
-      "url": "https://www.ynet.co.il/news/article/h1jdioqebg",
-      "image": null,
-      "published_at": "2026-01-06T14:43:30.000Z",
-      "summary": "קצינה בלהב 433 התבקשה במסגרת תפקידה לאסוף ראיות נגד מחבלי נוחבה. אחרי צפייה בסרטונים מהטבח היא התקשתה לתפקד, וכבר שנה שלא מגיעה לעבודתה. משרד הביטחון הכיר בה כעת כנכה שלקתה בפוסט טראומה "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1570,16 +1580,6 @@
       "image": null,
       "published_at": "2026-01-06T05:40:54.000Z",
       "summary": "Seven members of the Bakri crime organization were arrested following an investigation carried out by multiple law enforcement agencies, including Lahav 433 and the Tax Authority."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Netanyahu sends message to Iran through Putin: 'Israel doesn't want war' - KAN",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-882440",
-      "image": null,
-      "published_at": "2026-01-06T04:19:01.000Z",
-      "summary": "The report, which cited diplomatic sources, stated that Netanyahu called Putin to deliver the message to Iran after a recent rise in tensions between Tehran and Jerusalem."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
