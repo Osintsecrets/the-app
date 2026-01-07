@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-01-07T09:46:18.406Z",
+  "generated_at": "2026-01-07T10:11:55.596Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump says Venezuela will be 'turning over' up to 50 million barrels of oil to US",
+      "url": "https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26af/live/bbdbc4a0-eaf3-11f0-8a5c-81e1c85f6b52.jpg",
+      "published_at": "2026-01-07T10:10:24.000Z",
+      "summary": "Earlier the president said US oil firms could be \"up and running\" in the country within 18 months."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Opposition leader Machado says her coalition should lead Venezuela ",
+      "url": "https://www.bbc.com/news/articles/c0er4qd3115o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19f7/live/e5571f10-eb92-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-07T10:07:52.000Z",
+      "summary": "President Trump has publicly dismissed the Nobel winner Machado saying she doesn't have local support and respect."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +30,56 @@
       "image": null,
       "published_at": "2026-01-07T10:04:32.000Z",
       "summary": "The two were convicted of four counts of attempted murder in the context of a terrorist act and related offenses, following a combined attack involving a car ramming and an attempted shooting."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "רוצח הסטודנטים והפיזיקאי מ-MIT השאיר סרטונים: \"לא מתנצל. אני חיה, וגם טראמפ\"",
+      "url": "https://www.ynet.co.il/news/article/skdzlsi411g",
+      "image": null,
+      "published_at": "2026-01-07T10:02:00.000Z",
+      "summary": "משרד המשפטים חשף כי ליד גופתו של קלאודיו נבש ולנטה – שהרג בחודש שעבר שני סטודנטים באוניברסיטת בראון, ירה למוות בפרופסור נונו לוריירו ואותר רק אחרי מצוד בן 5 ימים – נמצא מכשיר עם סרטונים שהקליט בזמן שהסתתר. הוא לא הביע בהם חרטה ולא סיפק מניע, אך אמר: \"בימי חיי איש לא התנצל בכנות בפניי. לא רוצה להיות "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הבת השכולה זעקה מול נתניהו בנגב: \"מנותק, תסתכל לנו בעיניים!\"",
+      "url": "https://www.ynet.co.il/news/article/s12iwjo4wx",
+      "image": null,
+      "published_at": "2026-01-07T09:57:49.000Z",
+      "summary": "יתומים מהמלחמה ותושבים בדרום הגיעו למחות נגד רה\"מ והשר לביטחון לאומי, שביקרו בנגב, בדרישה להקמת ועדת חקירה ממלכתית. שיר, שהוריה נרצחו בטבח: \"נתניהו לא התנצל\". בתה של לילי קייסמן שנרצחה: \"גילינו שהגיעו דרך שמועות\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מבנה קרס במפעל בדרום, כבאות והצלה: \"אירוע דליפת חומרים מסוכנים\"",
+      "url": "https://www.ynet.co.il/news/article/bjq6cjjv11g",
+      "image": null,
+      "published_at": "2026-01-07T09:46:01.000Z",
+      "summary": "לפי דיווח ראשוני, אין נפגעים בקריסת המבנה במפעל פניציה בירוחם. כוחות הכיבוי פעלו לבודד את המתחם, הציבור התבקש להימנע מהגעה לאזור"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Police probe bus driver for murder after fatal ramming at Haredi protest in Jerusalem",
+      "url": "https://www.haaretz.com/israel-news/2026-01-07/ty-article/.premium/police-probe-bus-driver-for-murder-after-fatal-ramming-at-haredi-protest-in-jerusalem/0000019b-97ab-dd67-a9ff-9fabe53c0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-97c8-d171-adbb-bfdffb930000/32/e0/04f17a9b42b58ccf00cec5699633/312185.jpg?height=81",
+      "published_at": "2026-01-07T09:45:38.000Z",
+      "summary": "An initial police probe found that the driver, an East Jerusalem resident, was attacked by protesters before running over and killing a Haredi teen. Police are expected to seek a 15-day remand. Likud MKs labeled the incident a murder, with one calling it 'a clear terror attack'"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Police set to charge bus driver who ran over Haredi protester with aggravated murder",
+      "url": "https://www.timesofisrael.com/police-set-to-charge-bus-driver-who-ran-over-haredi-protester-with-aggravated-murder/",
+      "image": null,
+      "published_at": "2026-01-07T09:43:47.000Z",
+      "summary": "Driver's attorney says suspect felt his life was in danger as demonstrators gathered around bus; 14-year-old killed and three injured in incident\nThe post Police set to charge bus driver who ran over Haredi protester with aggravated murder appeared first on The Times of Israel.\n"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -139,7 +209,7 @@
       "url": "https://www.timesofisrael.com/three-men-gunned-down-in-shfaram-taking-toll-in-arab-community-to-11-in-a-week/",
       "image": null,
       "published_at": "2026-01-07T09:00:09.000Z",
-      "summary": "Police suspect victims slain as part of ongoing war between crime families; hours earlier, medical doctor shot dead in feud between Bedouin families in Negev\nThe post Three men gunned down in Shfaram, taking toll in Arab community to 11 in a week appeared first on The Times of Israel.\n"
+      "summary": "Police suspect victims slain as part of ongoing war between crime families; hours earlier, medical student shot dead in feud between Bedouin families in Negev\nThe post Three men gunned down in Shfaram, taking toll in Arab community to 11 in a week appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -340,16 +410,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-970b-d01b-a7db-971f9c0b0001/06/92/81ea43594191bfd1411e6c1db84f/312198.webp?height=81",
       "published_at": "2026-01-07T06:35:30.000Z",
       "summary": "Police suspect the three men were shot dead amid a dispute between two local crime groups in northern Israel. Emergency services said the victims were around 50. Nine of the year's 10 homicide victims are Arab Israelis"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Opposition leader Machado says she should be in charge of Venezuela ",
-      "url": "https://www.bbc.com/news/articles/c0er4qd3115o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19f7/live/e5571f10-eb92-11f0-b5f7-49f0357294ff.jpg",
-      "published_at": "2026-01-07T06:34:38.000Z",
-      "summary": "President Trump has publicly dismissed the Nobel winner Machado saying she doesn't have local support and respect."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -575,7 +635,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Four anti-government protesters arrested after blocking road near Supreme Court",
+      "title": "Gaza reports: Search for deceased Israeli hostage Ran Gvili renewed",
       "url": "https://www.haaretz.com/israel-news/2026-01-07/ty-article-live/after-netanyahu-backs-regime-change-iran-hints-at-preemptive-strike-on-israel/0000019b-95da-dd67-a9ff-9fdb34b70000",
       "image": "https://img.haarets.co.il/bs/0000019b-9734-dcfc-addf-d73614190000/ac/bd/ee8c0c0d4c5292f69525cb2b7565/312008.jpg?height=81",
       "published_at": "2026-01-07T03:20:05.000Z",
@@ -692,16 +752,6 @@
       "summary": "A 14-year-old haredi boy was killed in Jerusalem, prompting statements from Prime Minister Netanyahu, President Herzog, and ministers calling for a thorough police investigation."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump says Venezuela will be 'turning over' up to 50 million barrels of oil to US",
-      "url": "https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26af/live/bbdbc4a0-eaf3-11f0-8a5c-81e1c85f6b52.jpg",
-      "published_at": "2026-01-07T00:24:38.000Z",
-      "summary": "Earlier the president said US oil firms could be \"up and running\" in the country within 18 months."
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -715,11 +765,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Netanyahu vows to ‘thoroughly investigate’ death of 14-year-old Haredi protester",
+      "title": "Iran army chief threatens response to Trump and Netanyahu’s ‘hostile rhetoric’",
       "url": "https://www.timesofisrael.com/liveblog-january-07-2026/",
       "image": null,
       "published_at": "2026-01-07T00:09:16.000Z",
-      "summary": "Preliminary police probe finds bus driver was attacked before running over teen * 4 protesters against judicial overhaul arrested for blocking road near Supreme Court in Jerusalem\nThe post Netanyahu vows to ‘thoroughly investigate’ death of 14-year-old Haredi protester appeared first on The Times of"
+      "summary": "PM vows to ‘thoroughly investigate’ death of 14-year-old Haredi protester hit by bus * 4 anti-judicial overhaul activists arrested for blocking road near Supreme Court in Jerusalem\nThe post Iran army chief threatens response to Trump and Netanyahu’s ‘hostile rhetoric’ appeared first on The Times of "
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -942,16 +992,6 @@
       "summary": "המטרה - רצף טריטוריאלי. האמצעים: משפחות שלמות שיובאו ליו\"ש ויבנו את הקהילה עד שיוקמו מגורי קבע. עד כה, יותר מ-25 אלף דונם הוכרזו כאדמות מדינה, וכ-45 אלף יחידות דיור חדשות אושרו. גורם בהתנחלויות: \"הריבונות קיימת בשטח, זה עוד יגיע\". תנועת \"שלום עכשיו\": \"אסון, חייבים לעצור את זה\""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "יו\"ר לשכת עורכי הדין הכריז על הנצחת נספי 7/10 - ולא הקצה לכך שקל",
-      "url": "https://www.ynet.co.il/news/article/yokra14635900",
-      "image": null,
-      "published_at": "2026-01-06T22:00:00.000Z",
-      "summary": "עמית בכר, יו\"ר לשכת עורכי הדין, הכריז על הקמת ועדה מיוחדת להנצחת עורכי הדין שנספו ב-7 באוקטובר. שנה עברה, והוועדה טרם הוקמה - אך מחלקת חו\"ל זכתה לתקציב שיא. הוועדה תתכנס בעקבות פניית ynet ו\"ידיעות אחרונות\", לשכת עורכי הדין: \"ההנצחה אינה מתוקצבת בנפרד\""
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -965,11 +1005,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Luxury living steps from the sea &#8211; construction officially underway - Sponsored Content",
+      "title": "The last 2 homes in Tel Aviv’s most coveted project steps from the sea - Sponsored Content",
       "url": "https://www.timesofisrael.com/spotlight/luxury-living-steps-from-the-sea-construction-officially-underway/",
       "image": null,
       "published_at": "2026-01-06T21:43:43.000Z",
-      "summary": "An exclusive opportunity to own a rare garden apartment or a breathtaking penthouse in one of Tel Aviv’s most sought-after locations.\nThe post Luxury living steps from the sea &#8211; construction officially underway appeared first on The Times of Israel.\n"
+      "summary": "Eduard Bernstein 12: A Boutique Masterpiece – Construction Officially Underway\nThe post The last 2 homes in Tel Aviv’s most coveted project steps from the sea appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -980,16 +1020,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-953d-d171-adbb-bd3f41830001/6a/a1/245ee9f74783b638ee70a339e0f6/eran-cartoon.jpg?height=81",
       "published_at": "2026-01-06T21:38:06.000Z",
       "summary": ""
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "BBC draws fire after airing Holocaust cello repair story that does not mention Jews",
-      "url": "https://www.timesofisrael.com/bbc-draws-fire-after-airing-holocaust-cello-repair-story-that-does-not-mention-jews/",
-      "image": null,
-      "published_at": "2026-01-06T21:35:10.000Z",
-      "summary": "Instrument was brought to England on Kindertransport by Martin Landau as a child; remarks in show by guest Helen Mirren appear cut to avoid mentioning Jews, UK media reports\nThe post BBC draws fire after airing Holocaust cello repair story that does not mention Jews appeared first on The Times of Is"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1010,16 +1040,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dcf/live/65d8c160-eb3a-11f0-a422-4ba8a094a8fa.jpg",
       "published_at": "2026-01-06T20:59:10.000Z",
       "summary": "The BBC's Cuba correspondent, Will Grant, explains what's the nature of the relationship between Venezuela and Cuba."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "מחוץ ל-100 הראשונים, בדירוג הנמוך אי פעם: מכון ויצמן צנח במדד המחקר היוקרתי",
-      "url": "https://www.ynet.co.il/news/article/r14tct5ewx",
-      "image": null,
-      "published_at": "2026-01-06T20:40:02.000Z",
-      "summary": "מכון ויצמן למדע דורג במקום ה-111 בקטגוריית המוסדות האקדמיים ובמקום ה-122 בטבלה הכללית של מדד Nature הנחשב. מדובר בירידה חדה, על רקע החרם האקדמי על ישראל ופגיעת הטילים האיראניים במקום ביוני אשתקד. מי במקום הראשון - ובאילו מקומות מדורגות אוניברסיטאות ישראליות אחרות - שירדו כולן?"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1070,16 +1090,6 @@
       "image": null,
       "published_at": "2026-01-06T20:09:45.000Z",
       "summary": "The potential cooperation between the two countries and Eliyahu's visit will emphasize \"shared values and respect for religious and cultural heritage.\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "תקפו ילדים, הכו נכה צה\"ל: העדויות בכנסת על אלימות שוטרים נגד יוצאי אתיופיה",
-      "url": "https://www.ynet.co.il/news/article/bkx3t6qebl",
-      "image": null,
-      "published_at": "2026-01-06T19:52:37.000Z",
-      "summary": "ח\"כ פנינה תמנו שטה יזמה דיון בנוגע לאלימות משטרתית כלפי בני הקהילה האתיופית, ובמהלכו התעמתה עם דובר המשטרה. \"הרסו את החיים לקהילה. דופקים להם מכות, שמים במעצרים\", אמרה. במהלך הדיון שיתפו בני הקהילה על אירועים שעברו. \"שוטרים הרביצו לבן שלי - בן 12. שלפו על ילדים נשקים\", סיפרו"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2270,16 +2280,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-88ec-dbc2-a3df-8aedd9ec0007/b8/50/8898bff04e7bb93ffac1ff7f7a26/267117.jpg?height=81",
       "published_at": "2026-01-04T13:00:41.000Z",
       "summary": "Human rights organizations reported that violent clashes overnight raised the death toll to 15 as Iranian authorities have reportedly restricted internet access. On Saturday, Iran's leader distinguished between protesters and rioters while also blaming 'foreign forces' for interference"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "In this Israeli rabbi's cult, separating children from parents is just one means of control",
-      "url": "https://www.haaretz.com/israel-news/2026-01-04/ty-article-magazine/.premium/in-this-israeli-rabbis-cult-separating-kids-from-parents-is-just-one-means-of-control/0000019b-5609-d2b2-affb-566f935f0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-5611-d2b2-affb-567f4e2f0000/0d/7d/c9a4f75247abad54bad707bd9279/208829.jpg?height=81",
-      "published_at": "2026-01-04T12:40:10.000Z",
-      "summary": "Rabbi Menachem Mendel Hager forbids his followers from forming ties outside his Hasidic community, dictates whom they may marry, coerces them to hand over their money and stokes violence against his opponents. In the rebbe's 'holy method,' God takes a back seat"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
