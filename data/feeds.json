@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-01-07T06:53:53.567Z",
+  "generated_at": "2026-01-07T07:15:31.698Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "אלימות במגזר? הממשלה נוקטת במופע בן-גביריסטי",
+      "url": "https://www.ynet.co.il/news/article/yokra14638183",
+      "image": null,
+      "published_at": "2026-01-07T07:10:44.000Z",
+      "summary": "לצד כל הגימיקים, מועבר מסר מסוכן של חתירה להטלת ממשל צבאי על החברה הערבית והכנסתה לשיח הטרור. כך שוברים דמוקרטיה"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US discussing options to acquire Greenland, including use of military, says White House",
+      "url": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e1/live/8b61cb40-eb92-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-07T07:02:50.000Z",
+      "summary": "It came as European allies rallied behind Denmark, which is pushing back against Trump's ambitions for the Arctic island. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Which teams are in the AFCON 2025 quarterfinals, and what’s the schedule?",
+      "url": "https://www.aljazeera.com/sports/2026/1/7/which-teams-are-in-the-afcon-2025-quarterfinals-and-whats-the-schedule?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-07T06:53:13.000Z",
+      "summary": "From qualified teams to match schedule and top goalscorers - here&#039;s what you need to know about the AFCON quarterfinals."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -75,7 +105,7 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "משאיות הכסף לחמאס: מאות מיליונים מוסתרים במנהרות - ותופחים בסיוע ישראלי",
+      "title": "\"משאיות הכסף\" לחמאס: מאות מיליונים מוסתרים במנהרות - ותופחים בסיוע ישראלי | חשיפה",
       "url": "https://www.ynet.co.il/news/article/yokra14638116",
       "image": null,
       "published_at": "2026-01-07T05:51:38.000Z",
@@ -182,6 +212,16 @@
       "summary": "Prominent activists from Israel's protest movement have joined Yair Golan's Democrats party, making it more difficult for Gadi Eisenkot and Yair Lapid to unite with him in the upcoming election. Meanwhile, the situation with the Arab parties is very much still up in the air"
     },
     {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli President Herzog bagged his confidant a job on right-wing Greek election campaign",
+      "url": "https://www.haaretz.com/israel-news/2026-01-07/ty-article/.premium/israeli-president-herzog-bagged-right-wing-greek-election-campaign-job-for-confidant/0000019b-940e-dd67-a9ff-9e0fa16d0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-9437-d01b-a7db-943f06790001/4a/7f/73d9dd694adb8ef34236605fe3b0/198385.jpg?height=81",
+      "published_at": "2026-01-07T04:00:00.000Z",
+      "summary": "Haaretz has learned that the company of Moti Sander worked on online influence operations for the Greek ruling party New Democracy's 2023 election campaign through Herzog's connections. Sander has since fallen out with the president and threatened to expose alleged understandings between Herzog and "
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -272,16 +312,6 @@
       "summary": "These are the key developments from day 1,413 of Russia’s war on Ukraine."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US discussing options to acquire Greenland, including use of military, says White House",
-      "url": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e1/live/8b61cb40-eb92-11f0-b5f7-49f0357294ff.jpg",
-      "published_at": "2026-01-07T03:07:21.000Z",
-      "summary": "It came as European allies rallied behind Denmark, which is pushing back against Trump's ambitions for the Arctic island. "
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -297,7 +327,7 @@
       "topic": "News",
       "title": "Aldrich Ames, CIA agent who sold secrets to the Soviets, dies aged 84",
       "url": "https://www.bbc.com/news/articles/cj0n29395j3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90b1/live/65cb12b0-eb6f-11f0-a422-4ba8a094a8fa.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/8a8de730-eb97-11f0-a422-4ba8a094a8fa.jpg",
       "published_at": "2026-01-07T02:54:47.000Z",
       "summary": "The double agent compromised more than 100 operations and betrayed more than 30 agents spying for the West."
     },
@@ -375,7 +405,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Trump says Venezuela will be 'turning over' up to 50m barrels of oil to US",
+      "title": "Trump says Venezuela will be 'turning over' up to 50 million barrels of oil to US",
       "url": "https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26af/live/bbdbc4a0-eaf3-11f0-8a5c-81e1c85f6b52.jpg",
       "published_at": "2026-01-07T00:24:38.000Z",
@@ -909,17 +939,7 @@
       "url": "https://www.ynet.co.il/news/article/sjedgs9nzx",
       "image": null,
       "published_at": "2026-01-06T19:34:58.000Z",
-      "summary": "לאזור רחוב בר אילן בבירה הגיעו אלפים רבים של חרדים, להפגנה נגד הגיוס ביוזמת ראשי ישיבות. נהג אוטובוס תועד דורס מפגינים אחרי שהותקף, יוסף איזנטל בן ה-14 נהרג לאחר שנגרר עשרות מטרים. 3 נוספים נפצעו, הנהג נעצר. אחד הרבנים השווה בין גיוס לצה\"ל לשואה: \"השמדה מוחלטת של העם היהודי\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Dramatic late Algeria winner sets up Nigeria quarterfinal at 2025 AFCON",
-      "url": "https://www.aljazeera.com/sports/2026/1/6/dramatic-late-algeria-winner-sets-up-nigeria-quarterfinal-at-2025-afcon?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-06T19:33:24.000Z",
-      "summary": "Algeria beat DR Congo in extra time and will face Nigeria on Saturday in the quarterfinals of the Africa Cup of Nations."
+      "summary": "לאזור רחוב בר אילן בבירה הגיעו אלפים רבים של חרדים, להפגנה נגד הגיוס ביוזמת ראשי ישיבות. נהג אוטובוס תועד דורס מפגינים אחרי שהותקף, יוסף אייזנטל בן ה-14 נהרג לאחר שנגרר עשרות מטרים. 3 נוספים נפצעו, הנהג נעצר. אחד הרבנים השווה בין גיוס לצה\"ל לשואה: \"השמדה מוחלטת של העם היהודי\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1060,16 +1080,6 @@
       "image": null,
       "published_at": "2026-01-06T17:30:03.000Z",
       "summary": "“I call on all Arab parties: let us unite, all of us. Let us bring 17 mandates,” MK Ayman Odeh said.\n"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Israeli President Herzog bagged his confidant a job on right-wing Greek election campaign",
-      "url": "https://www.haaretz.com/israel-news/2026-01-06/ty-article/.premium/israeli-president-herzog-bagged-right-wing-greek-election-campaign-job-for-confidant/0000019b-940e-dd67-a9ff-9e0fa16d0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-9437-d01b-a7db-943f06790001/4a/7f/73d9dd694adb8ef34236605fe3b0/198385.jpg?height=81",
-      "published_at": "2026-01-06T17:15:16.000Z",
-      "summary": "Haaretz has learned that the company of Moti Sander worked on online influence operations for the Greek ruling party New Democracy's 2023 election campaign through Herzog's connections. Sander has since fallen out with the president and threatened to expose alleged understandings between Herzog and "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1330,16 +1340,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc7c/live/71974590-eafd-11f0-8e8e-7f477e15473f.jpg",
       "published_at": "2026-01-06T14:26:46.000Z",
       "summary": "The Ukrainian president has come under heavy criticism for his reshuffling of one the country's most successful security agencies."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "תלמידים לא הגיעו למרחב מוגן, ומה קרה לציוני הבגרות? | הדוח על החינוך במלחמה",
-      "url": "https://www.ynet.co.il/news/article/b1wh5e54bg",
-      "image": null,
-      "published_at": "2026-01-06T13:59:43.000Z",
-      "summary": "מבקר המדינה מצא שלמרות הניסיון שנצבר בתקופת הקורונה, המערכת לא הפיקה את הלקחים הנדרשים לקראת מצב החירום. התוצאה: פגיעה באפקטיביות של הלימודים בזמן חרבות ברזל. מה הקשה על הלמידה הדיגיטלית? מה חסר במרחבים המוגנים בבתי הספר? ולמה מפקפק מתניהו אנגלמן בציוני הבגרות הגבוהים?"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
