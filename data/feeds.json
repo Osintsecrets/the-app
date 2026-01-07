@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-07T15:45:05.811Z",
+  "generated_at": "2026-01-07T16:14:53.477Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Knesset rejects Yesh Atid bill to nationalize KKL, Lapid accuses rivals of 'corruption'",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-882652",
+      "image": null,
+      "published_at": "2026-01-07T18:01:45.000Z",
+      "summary": "Lapid cited systemic corruption “of the worst kind” as the reason for leaving."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -32,6 +42,36 @@
       "summary": "The vehicle contained a combat vest, several magazines, handgun holsters, and various tactical gear and personal items. "
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מפגינים הופשטו בתחנה ה\"בעייתית\": מה קובע החוק על חיפוש בעירום - והעדויות",
+      "url": "https://www.ynet.co.il/news/article/rkp0i6ovbg",
+      "image": null,
+      "published_at": "2026-01-07T16:08:56.000Z",
+      "summary": "\"אמרתי לו שזה לא חוקי, הוא ענה - 'תוריד את התחתונים'\": שוטרים בתחנת מוריה בירושלים ערכו חיפוש בעירום - ולא בפעם הראשונה - בשני מפגינים שנעצרו בעיר. נגד התחנה כבר כמה תביעות על הפשטה: \"זו חריגה קיצונית מסמכות, הגובלת בפלילים\". העדויות של המוחים - והקריטריונים בחוק שבהם לא עמדו"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Zelensky says he does not have clear security pledge from allies",
+      "url": "https://www.bbc.com/news/articles/cgm4yeexmg2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7841/live/db5d25e0-ebdd-11f0-b385-5f48925de19a.jpg",
+      "published_at": "2026-01-07T16:06:28.000Z",
+      "summary": "The comments come after the UK and France said they would deploy troops to Ukraine if a peace deal with Russia is agreed."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Gefen Bitton, Israeli critically wounded in Bondi attack, to be flown to Israel",
+      "url": "https://www.timesofisrael.com/gefen-bitton-israeli-critically-wounded-in-bondi-attack-to-be-flown-to-israel/",
+      "image": null,
+      "published_at": "2026-01-07T16:01:53.000Z",
+      "summary": "Bitton, who worked in Australia for years before attack and was shot while attempting to disarm attacker, recently woke from coma; PM Albanese urged to rescind invite to Herzog\nThe post Gefen Bitton, Israeli critically wounded in Bondi attack, to be flown to Israel appeared first on The Times of Isr"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -40,6 +80,56 @@
       "image": null,
       "published_at": "2026-01-07T15:58:45.000Z",
       "summary": "The court ordered the suspect held until January 15 to allow investigators to complete inquiries into the circumstances of the incident."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvb3lk",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Bondi Cannot Be Forgotten - Sponsored Content",
+      "url": "https://toi.li/oydH6P",
+      "image": null,
+      "published_at": "2026-01-07T15:53:57.000Z",
+      "summary": "Three weeks after the Bondi Beach attack, Yaakov speaks with Arsen Ostrovsky - not as an analyst, but as a survivor. This is a conversation we cannot allow to be forgotten.\nThe post Bondi Cannot Be Forgotten appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Venezuela's interim leader sacks general in charge of Maduro's guard",
+      "url": "https://www.bbc.com/news/articles/c8e5d9j66l0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c47/live/18472900-ebda-11f0-bb6f-d709b650ca8e.jpg",
+      "published_at": "2026-01-07T15:50:10.000Z",
+      "summary": "General Javier Marcano Tábata was the commander of the inner circle of guards tasked with protecting Maduro. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Big freeze causes travel chaos across western Europe",
+      "url": "https://www.bbc.com/news/articles/cy59k13e7eqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb7/live/1d0eee70-ebd3-11f0-b6c6-77a0b21e55ee.jpg",
+      "published_at": "2026-01-07T15:50:02.000Z",
+      "summary": "More than 700 flights were cancelled at Amsterdam's Schiphol Airport alone on Wednesday."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Bank of America recommends investing in Israel's four largest banks",
+      "url": "https://www.haaretz.com/israel-news/2026-01-07/ty-article/.premium/bank-of-america-recommends-investing-in-israels-four-largest-banks/0000019b-9880-d810-af9f-df803a2b0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-9880-dd81-a3bf-fed7af5d0000/b8/1a/dd894a654e9692df08c1aa37f014/540373.jpg?height=81",
+      "published_at": "2026-01-07T15:46:45.000Z",
+      "summary": "Analysts call Israeli banks a 'Goldilocks environment' – inflation under control and a healthy growth rate – mentioning the small number of actors and 'reasonable competition.' The bank also mentions 'the threat of higher taxation,' and risks of geopolitical volatility"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Spanish El País daily apologizes for saying Maduro trial judge impartial 'despite being Jewish'",
+      "url": "https://www.haaretz.com/jewish/2026-01-07/ty-article/.premium/el-pais-apologizes-for-saying-maduro-trial-judge-impartial-despite-jewish-identity/0000019b-98da-d01b-a7db-9cde6a250000",
+      "image": "https://img.haarets.co.il/bs/0000019b-98e4-d01b-a7db-9cfc88ab0000/c3/38/50bb2ae94f318f9c0e39275c4995/307924.jpg?height=81",
+      "published_at": "2026-01-07T15:38:54.000Z",
+      "summary": "The characterization of 92-year-old U.S. District Judge Alvin Hellerstein, who is an Orthodox Jew, was online in Spanish and English for several hours before the sentence was removed"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -70,6 +160,16 @@
       "image": null,
       "published_at": "2026-01-07T15:19:02.000Z",
       "summary": "מפלגתו של הנשיא עלולה להצטרך לשרוד חודשים של הצבעות עם רוב דחוק של 5 מחוקקים בבית הנבחרים, בעקבות מותו הפתאומי של דאג לה-מלפה מקליפורניה. טראמפ ספד לו: \"הצביע איתי 100% מהזמן, לא הייתי צריך להתקשר\". המשמעות: הרפובליקנים יכולים להרשות לעצמם רק שני עריקים או נעדרים בהצבעות חשובות"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Do Russia and China pose a national security threat to the US in Greenland?",
+      "url": "https://www.aljazeera.com/news/2026/1/7/do-russia-and-china-pose-a-national-security-threat-to-the-us-in-greenland?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-07T15:14:25.000Z",
+      "summary": "White House says President Donald Trump still wants to buy Greenland, but has said military means are an option, too. "
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -169,7 +269,7 @@
       "url": "https://www.ynet.co.il/news/article/b1ibfjnn11l",
       "image": null,
       "published_at": "2026-01-07T14:43:10.000Z",
-      "summary": "תחילה, המשטרה ייחסה עבירה של \"רצח בנסיבות מחמירות\" לפאחרי חטיב, נהג האוטובוס שחשוד בדריסת הנער יוסף אייזנטל בהפגנה נגד הגיוס - אך בביהמ\"ש החשד כבר שונה ל\"גרימת מוות באדישות\". החרדים זעמו על הודעה משטרתית לציבור שהתמקדה בפורעים, דובר במשטרה למגזר התנצל: \"היה צריך ניסוח אחר\""
+      "summary": "תחילה, המשטרה ייחסה עבירה של \"רצח בנסיבות מחמירות\" לפאחרי חטיב, נהג האוטובוס שחשוד בדריסת הנער יוסף אייזנטל בהפגנה נגד הגיוס. בביהמ\"ש החשד כבר שונה ל\"גרימת מוות באדישות\" - והנהג ערער על הארכת מעצרו. החרדים זעמו על הודעה משטרתית לציבור שהתמקדה בפורעים, דובר במשטרה למגזר התנצל: \"היה צריך ניסוח אחר\""
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -249,7 +349,7 @@
       "url": "https://www.aljazeera.com/news/2026/1/7/us-attempting-to-seize-venezuela-linked-russian-oil-tanker-reports?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-07T13:39:43.000Z",
-      "summary": "Russian submarine and warship were in the vicinity of the Marinera as the US operation unfolded, news report says."
+      "summary": "Russia says US seizure of the Marinera vessel in North Atlantic constitutes violation of international maritime law."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -962,16 +1062,6 @@
       "summary": "הסלמה נוספת בקרע במחנה של מתנגדי החות'ים בתימן: סעודיה ערכה סדרת תקיפות אוויריות נגד מחנה של \"מועצת המעבר הדרומית\" - קבוצה בדלנית שעד לאחרונה לחמה לצד כוחות הממשלה, אך בהמשך יצאה למסע כיבושים. ריאד זימנה את מנהיג הבדלנים לשיחות - אך הוא סירב להגיע: \"נמלט למקום לא ידוע ומואשם בבגידה\". הבדלנים הודיעו "
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "After Venezuela raid, protest-hit Iran wary of possible US plot against its rulers",
-      "url": "https://www.timesofisrael.com/after-venezuela-raid-protest-hit-iran-wary-of-possible-us-plot-against-its-rulers/",
-      "image": null,
-      "published_at": "2026-01-07T08:01:48.000Z",
-      "summary": "Expert warns Washington should be careful if thinking to carry out similar attack, with IRGC capable of strong response, and Tehran still in possession of nuclear material\nThe post After Venezuela raid, protest-hit Iran wary of possible US plot against its rulers appeared first on The Times of Israe"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1012,26 +1102,6 @@
       "summary": "מפלגה ערבית-ציונית תוכל סוף סוף לייצג באמת את המיעוט הערבי הנאמן למדינה, ולשרת אותו לא בסיסמאות אלא במעשים: בתקציבים הוגנים, בשיקום תשתיות מוזנחות, בחינוך איכותי, ובמאבק אמיתי על ביטחון אישי ברחובות, בכפרים ובערים. היא תוכל להוביל שותפות אזרחית עמוקה, הכוללת שירות אזרחי וצבאי כדרך חיים מחייבת "
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Manner in which the US abducted Maduro “was a shock” to China",
-      "url": "https://www.aljazeera.com/video/quotable/2026/1/7/manner-in-which-the-us-abducted-maduro-was-a-shock-to-china?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-07T07:22:28.000Z",
-      "summary": "“The region [Latin America] is a pillar of China’s Global South strategy.”"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "כל הכפתורים שלנו לחוצים",
-      "url": "https://www.ynet.co.il/news/article/yokra14638424",
-      "image": null,
-      "published_at": "2026-01-07T07:14:54.000Z",
-      "summary": "כמדינה וכעם היינו אמורים להיות במקום אחר, בשיקום ובנייה. לא רק חיצונית, פנימית. הנפש צועקת לזה. מגיע לנו הזמן הזה. אבל כמו שלא דאגו לתוכנית היום שאחרי בעזה, אין היום שאחרי בישראל"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1065,11 +1135,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Netanyahu camp is ready for an election as Israel's divided opposition makes the same old mistakes",
+      "title": "Why is Netanyahu's opposition again giving him such an easy ride before the elections?",
       "url": "https://www.haaretz.com/israel-news/2026-01-07/ty-article/.premium/netanyahu-camp-is-ready-for-an-election-as-israels-opposition-makes-the-same-old-mistakes/0000019b-952f-d01b-a7db-953f3d440000",
-      "image": "https://img.haarets.co.il/bs/0000019b-9583-d01b-a7db-959fc80b0000/db/a4/49bde5004c6fb9484f1014c03f03/305316.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-992b-dcfc-addf-dd2bf7ac0001/17/a8/c0a221134bf2801b7eac9b946c25/64338646.JPG?height=81",
       "published_at": "2026-01-07T04:03:00.000Z",
-      "summary": "Prominent activists from Israel's protest movement have joined Yair Golan's Democrats party, making it more difficult for Gadi Eisenkot and Yair Lapid to unite with him in the upcoming election. Meanwhile, the situation with the Arab parties is very much still up in the air"
+      "summary": "Netanyahu's far-right religious bloc is tightly organized, while his center-left and right-wing opponents remain divided. Anti-Netanyahu protest leaders joining Yair Golan's Democrats have further complicated potential alliances with Gadi Eisenkot and Yair Lapid, as an Arab merger remains uncertain"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1100,16 +1170,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-985f-d171-adbb-b95f47d10000/e7/f6/5951b890423f81f65276f31736ef/744929-2.jpg?height=81",
       "published_at": "2026-01-07T03:20:05.000Z",
       "summary": ""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Aldrich Ames, CIA agent who sold secrets to the Soviets, dies aged 84",
-      "url": "https://www.bbc.com/news/articles/cj0n29395j3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/8a8de730-eb97-11f0-a422-4ba8a094a8fa.jpg",
-      "published_at": "2026-01-07T02:54:47.000Z",
-      "summary": "The double agent compromised more than 100 operations and betrayed more than 30 agents spying for the West."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1500,16 +1560,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f7/live/c1c71e80-eb18-11f0-992c-75363ad17690.jpg",
       "published_at": "2026-01-06T16:23:19.000Z",
       "summary": "In a controversial move, Israel became the first nation to acknowledge Somaliland as an independent state."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF strikes Hezbollah terrorists in south Lebanon in response to 'continued ceasefire violations'",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-882516",
-      "image": null,
-      "published_at": "2026-01-06T16:21:33.000Z",
-      "summary": "According to the IDF, the strike came in response to \"Hezbollah's continued violations of the ceasefire understandings.\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -2250,26 +2300,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-89bf-db5e-adbf-ffbf97d90001/86/29/72a7fcc64cd4a6f2d6663d2bc7cc/1212.png?height=81",
       "published_at": "2026-01-04T18:22:57.000Z",
       "summary": "The map, titled 'Barcelonaz,' listed businesses in Catalonia with alleged ties to Israel or Judaism, even labeling a Jewish school. The European Jewish Congress said it was 'deeply alarmed,' warning that publicly identifying Jews can have 'dangerous consequences'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Famed Chabad house in Kathmandu shutters after landlord 'doesn't want Israeli presence'",
-      "url": "https://www.haaretz.com/jewish/2026-01-04/ty-article/.premium/famed-chabad-house-in-kathmandu-shutters-after-landlord-does-not-want-israeli-presence/0000019b-89c0-de2a-a7db-c9fea1860000",
-      "image": "https://img.haarets.co.il/bs/0000019b-89fa-d1a3-a1df-fdfad7630001/57/e1/23e48a754df2b185b1ea9d27e11d/471208693-10160766280521957-5415250932605546721-n.jpg?height=81",
-      "published_at": "2026-01-04T17:49:25.000Z",
-      "summary": "Chani and Chezi Lifshitz, who ran the facility for the past 20 years, are looking for a new place to rent and say they have no intention of leaving the Himalayan country"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "'Heightens alarm in Tehran': What Trump's attack on Venezuela means for Iran and MAGA isolationists",
-      "url": "https://www.haaretz.com/us-news/2026-01-04/ty-article/.premium/what-trumps-attack-on-venezuela-means-for-iran-and-maga-isolationists/0000019b-8913-dbf4-a79f-995b23e30000",
-      "image": "https://img.haarets.co.il/bs/0000019b-8923-db5e-adbf-ffb36b660000/81/67/6b4dd90e4a0d96e5a676dd008a72/274936.jpg?height=81",
-      "published_at": "2026-01-04T17:00:47.000Z",
-      "summary": "Trump's recent threats to Iran alongside Netanyahu in Mar-a-lago have taken on a new dimension with the seizure of Maduro – a signal to both Tehran and Trump's anti-interventionist base of how far his administration is willing to go with adversarial regimes"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
