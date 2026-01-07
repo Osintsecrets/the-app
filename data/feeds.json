@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-07T19:37:47.486Z",
+  "generated_at": "2026-01-07T20:11:20.031Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Israeli students caught after making approx. NIS 600,000 selling bagrut cheat sheets",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-882683",
+      "image": null,
+      "published_at": "2026-01-07T21:58:13.000Z",
+      "summary": "The two girls, Shuruk and Wafa Tza'alok, collected and distributed the questions and answers to approximately 20 different bagrut exams for a fee. "
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -32,14 +42,24 @@
       "summary": "Israel Police raided an apartment in Tel Aviv’s Kfar Shalem, seizing 42.5 kilograms of suspected cannabis, while separate operations in Haifa led to additional arrests and drug seizures."
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "UN rights chief says Israeli policy in West Bank 'resembles apartheid system'",
-      "url": "https://www.bbc.com/news/articles/cly9erv6p15o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e53/live/f3964cb0-ebef-11f0-8608-ef259671aea9.jpg",
-      "published_at": "2026-01-07T19:28:45.000Z",
-      "summary": "Israel says Volker Türk's office makes \"absurd\" accusations in a report that details what the UN calls \"systemic discrimination\" against Palestinians."
+      "title": "Why I, a Palestinian citizen, don't vote in Israeli elections",
+      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-01-07/ty-article/.highlight/why-i-a-palestinian-citizen-dont-vote-in-israeli-elections/0000019b-9916-dd67-a9ff-9b17f9340000",
+      "image": "https://img.haarets.co.il/bs/0000019b-99c7-d01b-a7db-9ddfccf50000/76/8f/7977bf6c472c86553bcd2014644a/541824.jpg?height=81",
+      "published_at": "2026-01-07T19:49:02.000Z",
+      "summary": "This Israeli election year, my vote as a Palestinian remains a favor, not a right. The state treats my safety as optional and my humanity as negotiable. Why be grateful for crumbs?"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Saudi-led coalition targets Yemen separatists after leader skips talks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-targets-yemen-separatists-after-leader-skips-talks?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-07T19:46:03.000Z",
+      "summary": "Yemeni secessionist leader didn&#039;t attend scheduled peace talks in Saudi Arabia."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -48,8 +68,38 @@
       "title": "Trump actively discussing potentially buying Greenland, White House says",
       "url": "https://www.bbc.com/news/articles/cly39pgmvrzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be08/live/84b88910-ebf0-11f0-8608-ef259671aea9.jpg",
-      "published_at": "2026-01-07T19:27:20.000Z",
+      "published_at": "2026-01-07T19:39:42.000Z",
       "summary": "Both Greenland and its owner Denmark have repeatedly stressed the island was not for sale."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israel ‘asphyxiating’ Palestinians for ‘apartheid system’ in West Bank: UN",
+      "url": "https://www.aljazeera.com/news/2026/1/7/israel-asphyxiating-palestinians-for-apartheid-system-in-west-bank-un?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-07T19:35:06.000Z",
+      "summary": "Volker Turk&#039;s description of West Bank situation as &#039;apartheid&#039; marks first time a UN human rights chief has used term. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Gaza babies ‘suffering from severe cold’ as Israel keeps blocking aid",
+      "url": "https://www.aljazeera.com/news/2026/1/7/gaza-babies-suffering-from-severe-cold-as-israel-keeps-blocking-aid-msf?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-07T19:34:42.000Z",
+      "summary": "Doctors Without Borders says Israel continues to block deliveries of tents and temporary housing to war-ravaged enclave."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "UN rights chief says Israeli policy in West Bank 'resembles apartheid system'",
+      "url": "https://www.bbc.com/news/articles/cly9erv6p15o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e53/live/f3964cb0-ebef-11f0-8608-ef259671aea9.jpg",
+      "published_at": "2026-01-07T19:28:45.000Z",
+      "summary": "Israel says Volker Türk's office makes \"absurd\" accusations in a report that details what the UN calls \"systemic discrimination\" against Palestinians."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -89,7 +139,7 @@
       "url": "https://www.ynet.co.il/news/article/bkvgwmhvwg",
       "image": null,
       "published_at": "2026-01-07T19:16:35.000Z",
-      "summary": "בכנס חירום אצל הרצוג קראו ראשי רשויות מהנגב נגד המבצע בתראבין, והבהירו: \"אנחנו בעד המשטרה, אך זה קמפיין בחירות\". ראש העיר ב\"ש קרא לרה\"מ להיפגש איתם, אך בעודם בי-ם - הוא סייר עם כ\"ץ ובן גביר בנגב. \"לא ידעתי ולא הוזמנתי\", אמר ראש העיר רהט, ששיתף גם כי הושפל על ידי מאי גולן: \"מה אני, יצור זר?\""
+      "summary": "בכנס חירום אצל הרצוג ביקרו ראשי רשויות מהנגב את המבצע בתראבין, והבהירו: \"אנחנו בעד המשטרה, אך זה קמפיין בחירות\". ראש העיר ב\"ש קרא לרה\"מ להיפגש איתם, אך בזמן שהם הגיעו לירושלים - הוא סייר עם בן גביר בנגב. \"לא ידעתי ולא הוזמנתי\", אמר ראש העיר רהט, ששיתף כי הושפל על ידי מאי גולן: \"מה אני יצור?\""
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
@@ -159,7 +209,7 @@
       "url": "https://www.timesofisrael.com/as-zohran-mamdani-takes-office-two-us-cities-see-first-time-orthodox-jewish-mayors/",
       "image": null,
       "published_at": "2026-01-07T18:46:25.000Z",
-      "summary": "Michele Weiss and Justin Brasch are inaugurated in University Heights, Ohio, and White Plains, New York, respectively, pledging to improve life for all constituents\nThe post As Zohran Mamdani takes office, two US cities see first-time Orthodox Jewish mayors appeared first on The Times of Israel.\n"
+      "summary": "Michele Weiss and Justin Brasch are inaugurated in University Heights, Ohio, and White Plains, New York, respectively, pledging to improve life for all their constituents\nThe post As Zohran Mamdani takes office, two US cities see first-time Orthodox Jewish mayors appeared first on The Times of Israe"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -639,7 +689,7 @@
       "url": "https://www.timesofisrael.com/in-rare-move-knesset-panel-moves-to-overturn-smotrichs-150-vat-exemption-order/",
       "image": null,
       "published_at": "2026-01-07T15:01:59.000Z",
-      "summary": "Likud elements led by Finance Committee chair MK Milwidsky argue that doubling VAT exemption on personal imports from $75 penalizes local businesses\nThe post In rare move, Knesset panel moves to overturn Smotrich’s $150 VAT exemption order appeared first on The Times of Israel.\n"
+      "summary": "Likud elements led by Finance Committee chair MK Hanoch Milwidsky argue that doubling VAT exemption on personal imports from $75 penalizes local businesses\nThe post In rare move, Knesset panel moves to overturn Smotrich’s $150 VAT exemption order appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -819,7 +869,7 @@
       "url": "https://www.timesofisrael.com/iran-army-chief-threatens-response-to-trump-and-netanyahus-hostile-rhetoric/",
       "image": null,
       "published_at": "2026-01-07T13:18:57.000Z",
-      "summary": "Country's top judge says there will be 'no leniency' for growing demonstrations, while President Pezeshkian orders security forces not to crack down on unarmed protesters\nThe post Iran army chief threatens response to Trump and Netanyahu’s ‘hostile rhetoric’ appeared first on The Times of Israel.\n"
+      "summary": "Country's top judge says there will be 'no leniency' for growing demonstrations, while President Masoud Pezeshkian orders security forces not to crack down on unarmed protesters\nThe post Iran army chief threatens response to Trump and Netanyahu’s ‘hostile rhetoric’ appeared first on The Times of Isr"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1132,16 +1182,6 @@
       "summary": "The New Year's Eve fire at a bar in Crans-Montana killed 40 people and injured 116. "
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Everything you need to know about the Syria – Israel deal in Paris",
-      "url": "https://www.aljazeera.com/news/2026/1/7/everything-you-need-to-know-about-the-syria-israel-deal-in-paris?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-07T10:46:18.000Z",
-      "summary": "Syria and Israel agreed to form a joint mechanism aimed at sharing intelligence and military deescalation."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1170,16 +1210,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-8dd8-db5e-adbf-fff855da0001/5e/af/776461c8495e962ec313d57cee35/730257-2.jpg?height=81",
       "published_at": "2026-01-07T10:38:08.000Z",
       "summary": "This year, the Israeli movie industry will likely continue to feel the effects of its extreme government's actions both at home and abroad. Meanwhile, Netflix and the Saudis flex their muscles internationally"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Who is Diosdado Cabello, Maduro’s interior minister and militia boss?",
-      "url": "https://www.aljazeera.com/news/2026/1/7/who-is-diosdado-cabello-maduros-interior-minister-and-militia-boss?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-07T10:32:46.000Z",
-      "summary": "Cabello, who rose to power under Hugo Chavez, has been accused by a UN rights mission of cracking down on dissent."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1242,20 +1272,10 @@
       "summary": "משרד המשפטים חשף כי ליד גופתו של קלאודיו נבש ולנטה – שהרג בחודש שעבר שני סטודנטים באוניברסיטת בראון, ירה למוות בפרופסור נונו לוריירו ואותר רק אחרי מצוד בן 5 ימים – נמצא מכשיר עם סרטונים שהקליט בזמן שהסתתר. הוא לא הביע בהם חרטה ולא סיפק מניע, אך אמר: \"בימי חיי איש לא התנצל בכנות בפניי. לא רוצה להיות "
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Who is Aidarous al-Zubaidi? Yemen’s ‘traitor’ chief",
-      "url": "https://www.aljazeera.com/features/2026/1/7/who-is-aidarous-al-zubaidi-yemens-traitor-chief?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-07T09:58:07.000Z",
-      "summary": "From governor to fugitive: Who is al-Zubaidi, the southern leader accused of &#039;high treason&#039; in Yemen?"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israel Police attribute murder to bus driver who ran over protester in Jerusalem",
+      "title": "Israel Police attribute murder to Palestinian bus driver who ran over protester in Jerusalem",
       "url": "https://www.haaretz.com/israel-news/2026-01-07/ty-article/.premium/police-investigate-bus-driver-after-protester-is-fatally-run-over-retract-murder-charge/0000019b-97ab-dd67-a9ff-9fabe53c0000",
       "image": "https://img.haarets.co.il/bs/0000019b-97c8-d171-adbb-bfdffb930000/32/e0/04f17a9b42b58ccf00cec5699633/312185.jpg?height=81",
       "published_at": "2026-01-07T09:45:38.000Z",
@@ -1355,7 +1375,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "IDF says it targeted senior Hamas militant over alleged cease-fire violation in north Gaza",
+      "title": "Two Palestinians killed in northern Gaza after IDF targets senior Hamas militant over alleged cease-fire violation",
       "url": "https://www.haaretz.com/israel-news/2026-01-07/ty-article-live/after-netanyahu-backs-regime-change-iran-hints-at-preemptive-strike-on-israel/0000019b-95da-dd67-a9ff-9fdb34b70000",
       "image": "https://img.haarets.co.il/bs/0000019b-95d0-dd67-a9ff-9fd3fb490000/e2/4b/d650d4e74e74993e5e1200b6fd15/305436.jpg?height=81",
       "published_at": "2026-01-07T03:20:05.000Z",
@@ -1590,16 +1610,6 @@
       "image": null,
       "published_at": "2026-01-06T19:13:32.000Z",
       "summary": "\"The (AU) Council strongly condemns, in the strongest terms, the unilateral recognition of the so-called 'Republic of Somaliland' by Israel,\" it said in a post on X after a ministerial meeting."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF, Border Police break up terror gathering at West Bank university",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-882536",
-      "image": null,
-      "published_at": "2026-01-06T19:00:29.000Z",
-      "summary": "The forces responded with \"precise fire\" and further riot dispersal means against the inciting individuals. "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2250,16 +2260,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-8b74-de2a-a7db-cb7eb5b90001/c0/6a/59552c164082ae0a4541da5fa73b/whatsapp-image-2026-01-04-at-17-50-41.jpg?height=81",
       "published_at": "2026-01-05T00:18:08.000Z",
       "summary": "The court president died Sunday after colliding with an off-road vehicle on Route 6. He was 54 and remembered for his decades-long legal career and high-profile rulings"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "IDF prepares for rebuilding of West Bank settlements dismantled in 2005",
-      "url": "https://www.haaretz.com/israel-news/2026-01-05/ty-article/.premium/idf-deploys-to-northern-west-bank-to-facilitate-settlers-return/0000019b-8a34-d1a3-a1df-ff3c86380000",
-      "image": "https://img.haarets.co.il/bs/0000019b-8a87-de2a-a7db-cabfc90e0001/6a/b6/6a2ebdb14d608fbb75de197b1207/262219.jpg?height=81",
-      "published_at": "2026-01-04T23:59:19.000Z",
-      "summary": "The IDF is establishing new bases in the northern West Bank to secure settlements expected to be established in the region following the repeal of the 2005 Disengagement Act, a move Finance Minister Bezalel Smotrich said will 'erase the shame of expulsion'"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
