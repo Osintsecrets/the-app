@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-08T07:14:57.140Z",
+  "generated_at": "2026-01-08T07:41:53.942Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -12,6 +12,26 @@
       "summary": "The suspects were reportedly detained for questioning on violence and weapons offenses, which included two pistols, two rifles, stun grenades, and seized ammunition."
     },
     {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Uri Lupolianski, only ultra-Orthodox mayor of Jerusalem, dies at 74",
+      "url": "https://www.timesofisrael.com/uri-lupolianski-only-ultra-orthodox-mayor-of-jerusalem-dies-at-74/",
+      "image": null,
+      "published_at": "2026-01-08T07:28:09.000Z",
+      "summary": "Lupolianski, who received multiple honors for founding the Yad Sarah medical equipment charity, suffered a recent deterioration in health\nThe post Uri Lupolianski, only ultra-Orthodox mayor of Jerusalem, dies at 74 appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Cambodia extradites alleged scam mastermind to China after arrest",
+      "url": "https://www.bbc.com/news/articles/cy4q8e88n2vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d76/live/4f1afe20-b01b-11f0-b2a1-6f537f66f9aa.png",
+      "published_at": "2026-01-08T07:15:19.000Z",
+      "summary": "Chen Zhi is charged with turning his business into a front for fraud hubs that stole from people around the world."
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -19,7 +39,7 @@
       "url": "https://www.ynet.co.il/news/article/sj10tahv11g",
       "image": null,
       "published_at": "2026-01-08T07:10:41.000Z",
-      "summary": "ראש האופוזיציה לפיד, שמפלגתו הגישה אתה עתירה, הגיע לדיון ותקף: \"כשמישהו גונב לך כסף - אתה פונה לבית המשפט\". היועמ\"שית לקיש: \"מצב שבו המדינה ממשיכה לתקצב מוסדות שאינם עומדים בהוראות הדין אינו יכול להימשך\""
+      "summary": "ראש האופוזיציה לפיד, שמפלגתו הגישה את העתירה, הגיע לדיון ותקף: \"כשמישהו גונב לך כסף - אתה פונה לבית המשפט\". היועמ\"שית לקיש: \"מצב שבו המדינה ממשיכה לתקצב מוסדות שאינם עומדים בהוראות הדין אינו יכול להימשך\". שידור ישיר"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -50,6 +70,16 @@
       "image": null,
       "published_at": "2026-01-08T06:54:21.000Z",
       "summary": "בלשי משטרת נתב\"ג לכדו את הנוסע, תושב באר יעקב, וכעת ינסו להבין האם הוא רק ה\"בלדר\" - או גם האיש שעומד מאחורי ההברחה"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Australia to deport British man over alleged neo-Nazi links",
+      "url": "https://www.bbc.com/news/articles/cgez1drnzxdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ece4/live/f35844c0-ec5c-11f0-80ef-5766be1266f4.jpg",
+      "published_at": "2026-01-08T06:50:06.000Z",
+      "summary": "Ryan Turner's visa was cancelled over claims he is part of the National Socialist Network"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -90,16 +120,6 @@
       "image": null,
       "published_at": "2026-01-08T06:21:46.000Z",
       "summary": "Army commander to brief government on the progress of the mission to disarm Hezbollah. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Cambodia extradites alleged scam mastermind to China after arrest",
-      "url": "https://www.bbc.com/news/articles/cy4q8e88n2vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d76/live/4f1afe20-b01b-11f0-b2a1-6f537f66f9aa.png",
-      "published_at": "2026-01-08T06:17:42.000Z",
-      "summary": "Chen Zhi is charged with turning his business into a front for fraud hubs that stole from people around the world."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -215,11 +235,11 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Analysis: Why Trump chose Delcy, not Machado",
+      "title": "Analysis: Why Trump chose Maduro's VP over Nobel winner",
       "url": "https://www.bbc.com/news/articles/c77krp7m362o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e83/live/622f4b10-ec2f-11f0-b5f7-49f0357294ff.jpg",
       "published_at": "2026-01-08T04:20:37.000Z",
-      "summary": "What is it about Delcy Rodríguez, deputy to ousted dictator Nicolás Maduro, that caught the eye of the Trump administration?"
+      "summary": "What is it about Delcy Rodríguez that caught the eye of the Trump administration?"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -295,7 +315,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Austalia's PM Albanese announces Royal Commission inquiry into Bondi Beach shooting",
+      "title": "Lebanese Army says it has 'operational control' over south of country amid efforts to disarm Hezbollah",
       "url": "https://www.haaretz.com/israel-news/2026-01-08/ty-article-live/two-palestinians-killed-in-northern-gaza-after-idf-targets-senior-hamas-militant/0000019b-9b99-dd39-a7ff-fbbbbf140000",
       "image": "https://img.haarets.co.il/bs/0000019b-9b12-dd39-a7ff-fb3a855e0000/06/d2/5f9314a844e2933b461d2c17ae81/317175-3.jpg?height=81",
       "published_at": "2026-01-08T03:31:56.000Z",
@@ -487,7 +507,7 @@
       "topic": "News",
       "title": "Inside the sub-zero lair of the world's most powerful computer",
       "url": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70da/live/bbab2190-ec0d-11f0-b5f7-49f0357294ff.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5021/live/e9b32fb0-ec62-11f0-a422-4ba8a094a8fa.jpg",
       "published_at": "2026-01-08T00:04:43.000Z",
       "summary": "Faisal Islam gets rare access to Willow - Google's quantum computer."
     },
@@ -625,7 +645,7 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Watch: Police chief describes how Minneapolis shooting unfolded",
+      "title": "Police chief describes how Minneapolis shooting unfolded",
       "url": "https://www.bbc.com/news/videos/cx2ypz4zjvxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67e5/live/db14f450-ec14-11f0-b385-5f48925de19a.jpg",
       "published_at": "2026-01-07T22:53:45.000Z",
@@ -1140,16 +1160,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-98f4-db92-a59f-fbfe9b660000/c9/b3/c0b2b609489e899f209d97d5aeb4/277811-2.jpg?height=81",
       "published_at": "2026-01-07T18:10:50.000Z",
       "summary": "The officer claimed the footage reinforces his account, saying the Tarabin resident opened the door 'aggressively.' Netanyahu toured the Negev following a weeks-long law enforcement operation, with 30 suspects detained or arrested, and called to 'return the Negev to the State of Israel'"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Warner Bros. rejects Paramount takeover, tells shareholders to stay with Netflix bid",
-      "url": "https://www.timesofisrael.com/warner-bros-rejects-paramount-takeover-tells-shareholders-to-stay-with-netflix-bid/",
-      "image": null,
-      "published_at": "2026-01-07T18:08:54.000Z",
-      "summary": "Media giant cites 'insufficient value' and 'risks' of Paramount's hostile bid attempt, which capped off at $77.9 billion, some $6 million more than Netflix offered\nThe post Warner Bros. rejects Paramount takeover, tells shareholders to stay with Netflix bid appeared first on The Times of Israel.\n"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
