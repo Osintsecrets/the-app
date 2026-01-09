@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-01-09T17:13:51.977Z",
+  "generated_at": "2026-01-09T17:43:13.407Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Fatal kitesurfing accident at Bat Yam’s Tayo Beach: One dead, two injured due to extreme winds",
+      "url": "https://www.jpost.com/israel-news/article-882867",
+      "image": null,
+      "published_at": "2026-01-09T19:27:00.000Z",
+      "summary": "A 46-year-old kitesurfer was killed and two others injured at Bat Yam’s Tayo Beach after extreme winds threw them into rocks. Authorities are investigating the tragic incident."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Owner of Swiss ski bar held in custody after deadly New Year's Eve fire",
+      "url": "https://www.bbc.com/news/articles/c4g0mq520zeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75c5/live/b24ddce0-ed71-11f0-b385-5f48925de19a.jpg",
+      "published_at": "2026-01-09T17:42:06.000Z",
+      "summary": " Jacques Moretti is being held as a potential flight risk, Swiss media reports say."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "מ\"רציחות השרשרת\" ל\"מחאת החיג'אב\": ההפגנות שניסו לערער את המשטר באיראן",
+      "url": "https://www.ynet.co.il/news/article/rynak5rnwg",
+      "image": null,
+      "published_at": "2026-01-09T17:24:14.000Z",
+      "summary": "מאז המהפכה האיסלאמית ב-1979, אזרחי איראן ניסו כמה פעמים לערער את שלטון האייתוללות, אך בכל פעם המשטר הצליח לדכא באלימות את המחאות. ממחאת הסטודנטים הראשונה, דרך \"התנועה הירוקה\" שהוציאה מיליונים לרחובות - ועד מהסא אמיני. וגם: כך הסלימה \"מחאת הריאל\" הנוכחית"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Owner of Swiss bar where 40 died in New Year&#8217;s blaze ordered into custody",
+      "url": "https://www.timesofisrael.com/owner-of-swiss-bar-where-40-died-in-new-years-blaze-ordered-into-custody/",
+      "image": null,
+      "published_at": "2026-01-09T17:11:11.000Z",
+      "summary": "Jacques and Jessica Moretti appear at prosecutor's office; Switzerland holds day of mourning; Swiss president says those responsible must be brought to account 'without delay or leniency'\nThe post Owner of Swiss bar where 40 died in New Year&#8217;s blaze ordered into custody appeared first on The T"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Deadly trash avalanche in Filipino landfill leaves dozens missing",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/deadly-trash-avalanche-in-filipino-landfill-leaves-dozens-missing?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T17:10:32.000Z",
+      "summary": "A collapse of trash at a landfill in Cebu city, Philippines killed one worker, injured at least 12 and left 27 missing."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -15,21 +65,21 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Owner of Swiss ski bar held in custody after deadly New Year's Eve fire",
-      "url": "https://www.bbc.com/news/articles/c4g0mq520zeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75c5/live/b24ddce0-ed71-11f0-b385-5f48925de19a.jpg",
-      "published_at": "2026-01-09T17:06:07.000Z",
-      "summary": " Jacques Moretti is being held as a potential flight risk, Swiss media reports say."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Government to back Ofcom if it blocks X in UK over Grok AI deepfakes",
+      "title": "Decide on X ban within days, government tells regulator",
       "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa6/live/1942dce0-ed34-11f0-b984-81fd88ec25bf.jpg",
       "published_at": "2026-01-09T17:05:16.000Z",
       "summary": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/9/is-the-us-unlocking-venezuelas-oil-wealth-or-exploiting-it?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T17:00:00.000Z",
+      "summary": "President Donald Trump aims to control and revive Venezuela&#039;s oil industry. Critics call it modern-day colonialism."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -175,7 +225,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Nigeria coach steers clear of Osimhen fallout and unpaid bonus rumours",
+      "title": "AFCON 2025: Nigeria face Osimhen and bonus questions ahead of Algeria clash",
       "url": "https://www.aljazeera.com/sports/2026/1/9/nigeria-coach-steers-clear-of-osimhen-fall-out-and-unpaid-bonuses-rumours?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-09T16:09:13.000Z",
@@ -215,11 +265,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "רות השאירה פתק, יצאה מבית אימה - ולא נראתה חודש: \"חוסר הוודאות - גיהינום\"",
+      "title": "רות השאירה פתק, יצאה מבית אמה - ולא נראתה חודש: \"חוסר הוודאות - גיהינום\"",
       "url": "https://www.ynet.co.il/news/article/h1m11eocnbl",
       "image": null,
       "published_at": "2026-01-09T15:36:11.000Z",
-      "summary": "ב-5 בדצמבר רות פלת, עובדת סוציאלית, כתבה לאימה שיצאה להליכה ותשוב תוך 3 שעות, אך מאז נעלמו עקבותיה. אימה סיפרה כי היא רצתה לעבור לגור איתה לאחר שחוותה קשיים נפשיים: \"רות אדם עדין וטוב. היא נתקלה במקרים קשים ועזרה לאנשים מכספה. 7/10 השפיע עליה מאוד. אני חייבת לדעת מה קרה לה\""
+      "summary": "ב-5 בדצמבר רות פלת, עובדת סוציאלית, כתבה לאמה שיצאה להליכה ותשוב תוך 3 שעות, אך מאז נעלמו עקבותיה. אמה סיפרה כי היא רצתה לעבור לגור איתה לאחר שחוותה קשיים נפשיים: \"רות אדם עדין וטוב. היא נתקלה במקרים קשים ועזרה לאנשים מכספה. 7/10 השפיע עליה מאוד. אני חייבת לדעת מה קרה לה\""
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -460,16 +510,6 @@
       "image": null,
       "published_at": "2026-01-09T13:04:23.000Z",
       "summary": "Three weeks after the Bondi Beach attack, Yaakov speaks with Arsen Ostrovsky - not as an analyst, but as a survivor. \nThe post Bondi can not be forgotten appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvNnNq",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "What it means to be Jewish &#8211; with Jonah Platt - Sponsored Content",
-      "url": "https://toi.li/6sjToz",
-      "image": null,
-      "published_at": "2026-01-09T13:02:32.000Z",
-      "summary": "Noam and Jonah sit down in LA to talk about identity, Israel, Hollywood, and why October 7 turned him into what he calls an “October 8th activist.” \nThe post What it means to be Jewish &#8211; with Jonah Platt appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -782,16 +822,6 @@
       "summary": "Professor Caren Myers Morrison says the political climate will likely lead to an indictment in the Minneapolis shooting"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "‘I didn’t set out to break records’: Pakistan’s first female MMA fighter",
-      "url": "https://www.aljazeera.com/sports/2026/1/9/i-didnt-set-out-to-break-records-pakistans-first-female-mma-fighter?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T09:24:38.000Z",
-      "summary": "Anita Karim retraces her journey into combat sports ahead of the country’s first ever professional women’s MMA fight."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -810,16 +840,6 @@
       "image": null,
       "published_at": "2026-01-09T09:19:21.000Z",
       "summary": "גם אחרי ליל מחאות המוניות במיוחד, מנהיג איראן לא משנה כיוון - ותוקף את נשיא ארה\"ב. \"קוראים לו להתמקד בבעיות הפנימיות של ארצו. העם האיראני ינצח את כל אויביו\", אמר חמינאי - בזמן שכבר יותר מחצי יממה אין אינטרנט באיראן. טיסות לטהרן ולערים נוספות בוטלו, ישראל עוקבת מקרוב ונזהרת לא להתערב"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Iran internet cuts a “classic ploy” by leadership",
-      "url": "https://www.aljazeera.com/video/quotable/2026/1/9/iran-internet-cuts-a-classic-ploy-by-leadership?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T09:18:46.000Z",
-      "summary": "Sina Azodi on Iran’s escalating protests and the use of internet shutdowns to silence dissent."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1220,16 +1240,6 @@
       "image": null,
       "published_at": "2026-01-08T22:44:10.000Z",
       "summary": "אחרי ויכוח בכביש, שריף מופק חדיד נפצע אנושות מירי סמוך למחלף עין תות. צוותי מד\"א חברו אליו באזור מחלף יגור, והחלו בביצוע פעולות החייאה - אך בבית החולים רמב\"ם נאלצו לקבוע את מותו. החייל נעצר ומצ\"ח מעורבת בחקירה"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "מי מנסה להבעיר את מדורת השבט?",
-      "url": "https://www.ynet.co.il/news/article/hkuoabt4we",
-      "image": null,
-      "published_at": "2026-01-08T22:43:00.000Z",
-      "summary": "\"חשיפה\" של נתניהו: ראש הממשלה הצהיר השבוע בנגב שהקואליציה תחזיר אותו למדינה. מי איבד את הנגב? | הציניות והבחירות: נתניהו מעצים את השיח סביב הציבור הערבי כדי לפסול שותפות של המפלגות שמייצגות אותו בקואליציה של גוש השינוי | את בן גביר ישרת עימות קטלני בין שוטרים לערבים  "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1750,16 +1760,6 @@
       "image": null,
       "published_at": "2026-01-08T12:04:27.000Z",
       "summary": "In the opinion sent to Education Minister Yoav Kisch, the Attorney-General’s Office stated that the continued funding of institutions that do not meet statutory obligations “cannot persist.”"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "IDF strikes Gaza after terror rocket aimed at Israel falls near hospital",
-      "url": "https://www.jpost.com/israel-news/article-882729",
-      "image": null,
-      "published_at": "2026-01-08T11:58:05.000Z",
-      "summary": "The military noted that it detected the launch coming from Gaza City and that it quickly responded by striking the source of the fire."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
