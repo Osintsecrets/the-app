@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-09T13:52:02.894Z",
+  "generated_at": "2026-01-09T14:12:38.360Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Highway 6 victim's brother contradicts IDF soldier's claim of self-defense",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-882854",
+      "image": null,
+      "published_at": "2026-01-09T16:11:25.000Z",
+      "summary": "Sharif Mufak Hadid, a 26-year-old from Daliat al-Carmel, was fatally shot on Highway 6 by Shalev Hajaj, a 21-year-old off-duty IDF soldier who was in civilian clothes at the time."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -20,6 +30,36 @@
       "image": null,
       "published_at": "2026-01-09T14:13:12.000Z",
       "summary": "Movers and shakers in Israeli society."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Changes to Elon Musk's AI Grok 'insulting' to victims, says No 10",
+      "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa6/live/1942dce0-ed34-11f0-b984-81fd88ec25bf.jpg",
+      "published_at": "2026-01-09T13:58:38.000Z",
+      "summary": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Palestinians say Israeli settlers set classroom, cars on fire in two West Bank villages",
+      "url": "https://www.haaretz.com/west-bank/2026-01-09/ty-article/.premium/palestinians-say-israeli-settlers-set-classroom-cars-on-fire-in-two-west-bank-villages/0000019b-a295-d01b-a7db-b69dbf180000",
+      "image": "https://img.haarets.co.il/bs/0000019b-a1f2-dd39-a7ff-ebfac93a0001/97/b6/8c11d56c44c98b97c4795ad76204/6ba0cfc5-c81b-4a47-872b-b1d2385286ee.jfif?height=81",
+      "published_at": "2026-01-09T13:48:11.000Z",
+      "summary": "According to Palestinian reports, the assailants spray-painted the word 'revenge' in Hebrew and the names of two settlers wounded in past police shootings. Israeli security forces said they had opened investigations"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Algeria vs Nigeria: AFCON 2025 – team news, start time and lineups",
+      "url": "https://www.aljazeera.com/sports/2026/1/9/algeria-vs-nigeria-afcon-2025-team-news-start-time-lineups-osimhen-lookman-mahrez?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T13:41:07.000Z",
+      "summary": "The tournaments top-performing teams meet in a mouthwatering quarterfinal at the Africa Cup of Nations 2025."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -45,11 +85,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "IDF strikes Hezbollah weapons sites and launchers in southern Lebanon",
+      "title": "IDF strikes Hezbollah, day after Lebanese army said it had disarmed terror group in south",
       "url": "https://www.timesofisrael.com/idf-strikes-hezbollah-weapons-sites-and-launchers-in-southern-lebanon/",
       "image": null,
       "published_at": "2026-01-09T13:14:12.000Z",
-      "summary": "Airstrikes come day after Lebanon says it disarmed Hezbollah in south, in effort Israel called 'encouraging' but 'far from sufficient'; no immediate reports of casualties\nThe post IDF strikes Hezbollah weapons sites and launchers in southern Lebanon appeared first on The Times of Israel.\n"
+      "summary": "No immediate reports of casualties; as Araghchi visits Beirut, Lebanon FM urges Iran to find 'new approach' on Hezbollah\nThe post IDF strikes Hezbollah, day after Lebanese army said it had disarmed terror group in south appeared first on The Times of Israel.\n"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -100,16 +140,6 @@
       "image": null,
       "published_at": "2026-01-09T13:06:59.000Z",
       "summary": "Gidon Melmed, executive director of Hadassah in Israel, discusses Hadassah's response during the 2023 war, advances in oncology,  AI and surgical robotics.\nThe post Courage in Conflict appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Limiting Grok AI image edits to paid users 'insulting' to victims, says No 10",
-      "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa6/live/1942dce0-ed34-11f0-b984-81fd88ec25bf.jpg",
-      "published_at": "2026-01-09T13:06:11.000Z",
-      "summary": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly90b2kubGkvb21N",
@@ -760,16 +790,6 @@
       "image": "https://gif.haarets.co.il/bs/0000019b-9d36-dd67-a9ff-9f37b96c0001/7b/0f/fc25eff2490d804cca599a85d906/promotionsky.gif?height=81",
       "published_at": "2026-01-09T06:51:00.000Z",
       "summary": ""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Landfill collapse kills one and leaves dozens missing in Philippines",
-      "url": "https://www.aljazeera.com/news/2026/1/9/landfill-collapse-kills-one-and-leaves-dozens-missing-in-philippines?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T06:46:45.000Z",
-      "summary": "Rescuers retrieve eight people alive and are searching for more missing in Binaliw, Cebu city."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1772,16 +1792,6 @@
       "summary": ""
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Rabbi Uri Lupolianski, first haredi mayor of Jerusalem and Yad Sarah founder, dies at 74",
-      "url": "https://www.jpost.com/israel-news/article-882696",
-      "image": null,
-      "published_at": "2026-01-08T02:31:06.000Z",
-      "summary": "He served as mayor of Jerusalem from 2003 to 2008, becoming the first haredi (ultra-Orthodox) politician elected to the role."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -2290,16 +2300,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-953d-d171-adbb-bd3f41830001/6a/a1/245ee9f74783b638ee70a339e0f6/eran-cartoon.jpg?height=81",
       "published_at": "2026-01-06T21:38:06.000Z",
       "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Teenager killed, three people wounded as bus runs over Haredim at anti-draft protest in Jerusalem",
-      "url": "https://www.haaretz.com/israel-news/2026-01-06/ty-article/.premium/one-killed-three-wounded-as-bus-runs-over-haredi-protesters-in-jerusalem/0000019b-94b2-d01b-a7db-94beb2fa0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-94eb-d171-adbb-bdffc9d00001/6b/89/b97ebb9c4c8e972701506ce57908/whatsapp-image-2026-01-06-at-21-30-39-1.jpg?height=81",
-      "published_at": "2026-01-06T20:31:18.000Z",
-      "summary": "The incident took place as an estimated 15,000 ultra-Orthodox Jews protested against military conscription in Jerusalem. An eyewitness told Israeli media the protesters 'stopped the bus and spat on the driver and then he saw that he had no way out'"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
