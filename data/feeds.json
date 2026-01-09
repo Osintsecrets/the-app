@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-01-09T08:14:49.603Z",
+  "generated_at": "2026-01-09T08:50:07.610Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "'Hijacked by criminal gangs': How gangs, weapons took over Israel's Arab streets",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-882812",
+      "image": null,
+      "published_at": "2026-01-09T10:39:28.000Z",
+      "summary": "ARAB AFFAIRS: Gangs dominate Arab cities, violence has reached new heights, with daily murders and shootings. Fear and anxiety grip residents, with little hope for safety or justice."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Foreign minors arrested for Tel Aviv stabbing as police continue illegal immigrant crackdown",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-882847",
+      "image": null,
+      "published_at": "2026-01-09T10:39:01.000Z",
+      "summary": "Close to midnight, police received a report that the victim had been attacked as he exited a restaurant. Police arrived at the scene and caught the two suspects a few streets away from the incident."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -15,11 +35,101 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
+      "title": "עוד חלק בפאזל הסיפוח בצפון השומרון: חומש תחובר מחדש לחשמל",
+      "url": "https://www.ynet.co.il/news/article/sjzkz7c4ze",
+      "image": null,
+      "published_at": "2026-01-09T08:46:02.000Z",
+      "summary": "פרסום ראשון: אחרי הכפלת שטח הייישוב, חברת החשמל תחזיר את התשתיות לחומש. מהלך דומה יבוצע בסבסטיה, שם לאחרונה שאבה המדינה שטחים רבים מידי הפלסטינים. מנכ\"ל חברת החשמל בירך: \"יש לנו מחויבות כלפי כל תושבי ישראל. ככל שהמדינה תנחה, אנחנו נמתין עם החשמל לתושבים ולא להיפך\""
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"הכי פרו-ישראלית\": מדינת האיים שפותחת שגרירות בירושלים",
+      "url": "https://www.ynet.co.il/news/article/skv4un0e11g",
+      "image": null,
+      "published_at": "2026-01-09T08:44:24.000Z",
+      "summary": "ראש ממשלת סמואה שבאוקיינוס השקט הורה להתחיל בהכנות לפתיחת שגרירות בבירה. \"עומדים לצד ישראל\", אמר עם השבעתו. ישראלים שטיילו בסמואה סיפרו על האהבה שהורעפה עליהם: \"זה היה מטורף\". אבל פעילה מסמואה שגרה באוסטרליה אמרה: \"החלטה מזעזעת, אבותינו נלחמו לעצמאות משלטון קולוניאלי\""
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "As unrest in Iran spreads, leaders face legitimacy crisis with no easy way out",
+      "url": "https://www.timesofisrael.com/as-unrest-in-iran-spreads-leaders-face-legitimacy-crisis-with-no-easy-way-out/",
+      "image": null,
+      "published_at": "2026-01-09T08:39:58.000Z",
+      "summary": "US-based human rights group says 34 protesters, 4 security personnel killed, 2,200 arrested; huge Iranian flag taken down, ripped up by protesters in country's second-largest city\nThe post As unrest in Iran spreads, leaders face legitimacy crisis with no easy way out appeared first on The Times of I"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Trump says only limit on his power is his &#8216;own morality&#8217;",
+      "url": "https://www.timesofisrael.com/trump-says-only-limit-on-his-power-is-his-own-morality/",
+      "image": null,
+      "published_at": "2026-01-09T08:27:21.000Z",
+      "summary": "In interview with New York Times, US president says he does not need international law, calls for ownership of Greenland, and says his family can conduct foreign business deals\nThe post Trump says only limit on his power is his &#8216;own morality&#8217; appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "One dead, dozens trapped after giant landfill collapses in Philippines",
+      "url": "https://www.bbc.com/news/articles/c17zqz5pprwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3519/live/84246970-ed2f-11f0-b984-81fd88ec25bf.jpg",
+      "published_at": "2026-01-09T08:26:05.000Z",
+      "summary": "Rescuers have pulled 12 injured sanitation workers from debris at the private landfill in Cebu City."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Wawrinka handed Australian Open wildcard in final season",
+      "url": "https://www.bbc.com/sport/tennis/articles/cz9vn0vk7djo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d59f/live/d9e768c0-ed30-11f0-b984-81fd88ec25bf.jpg",
+      "published_at": "2026-01-09T08:13:54.000Z",
+      "summary": "Stan Wawrinka receives an Australian Open wildcard as he begins the final season of his career, but Australian Nick Kyrgios misses out."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Police fatally shoot Arab man in northern Israel; family denies he was armed",
+      "url": "https://www.haaretz.com/israel-news/2026-01-09/ty-article/.premium/police-fatally-shoot-arab-man-in-northern-israel-family-denies-he-was-armed/0000019b-a188-d01b-a7db-b59c86830000",
+      "image": "https://img.haarets.co.il/bs/0000019b-a16d-d171-adbb-b97fd19d0001/44/e0/c5e8ea42491fb1a978672d6fd838/whatsapp-image-2026-01-08-at-22-06-16-1.jpg?height=81",
+      "published_at": "2026-01-09T08:11:41.000Z",
+      "summary": "The deceased's family called the incident a 'summary execution,' adding that he was unarmed. Earlier this week, police officers fatally shot an Arab Israeli man during a joint police and IDF overnight raid in the Bedouin village of Tarabin in southern Israel"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Russia hits Ukraine with rarely-used Oreshnik missile in fresh strikes",
+      "url": "https://www.bbc.com/news/articles/cgqe9kv9xxvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0600/live/5d755580-ed2c-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-09T08:04:56.000Z",
+      "summary": "It is only the second time Moscow has deployed the hypersonic ballistic missile, which was first used to hit Dnipro in November."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
       "title": "\"3 ימים, 40 שעות, הצלת חיים אחת\": גפן שהסתער על מחבל בטבח סידני הוטס לארץ",
       "url": "https://www.ynet.co.il/news/article/hk2vfma4we",
       "image": null,
       "published_at": "2026-01-09T08:01:57.000Z",
       "summary": "הישראלי גפן ביטון, שהסתער על אחד המחבלים בטבח, נפגע מירי וקיבל מעמד של תושב קבע באוסטרליה בעקבות גבורתו, נחת להמשך טיפול בשיבא - בסיומו של מבצע פינוי רפואי מוטס שארך עשרות שעות ועלותו הייתה מאות אלפי דולרים"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Conservative lawmaker in Honduras injured after being hit with explosive",
+      "url": "https://www.aljazeera.com/news/2026/1/9/conservative-lawmaker-in-honduras-injured-after-being-hit-with-explosive?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T07:59:49.000Z",
+      "summary": "The incident underscores the tense political environment in Honduras in the wake of its contested presidential election."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -30,6 +140,16 @@
       "image": null,
       "published_at": "2026-01-09T07:58:06.000Z",
       "summary": "At least 21 people have been reported killed in the clashes that has seen tens of thousands of civilians displaced amid an impasse in political talks\nThe post Syria announces ceasefire after days of clashes with Kurdish fighters in Aleppo appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Somaliland recognition: Israel’s foothold in the Horn of Africa",
+      "url": "https://www.aljazeera.com/news/2026/1/9/somaliland-recognition-israels-foothold-in-the-horn-of-africa?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T07:51:38.000Z",
+      "summary": "Critics view Israel&#039;s moves in the Horn of Africa as part of Netanyahu&#039;s expansive conflict and influence agenda."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -195,9 +315,9 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "There is a 'real threat' of US military action against Colombia, president tells BBC",
+      "title": "Colombia sees 'real threat' of US military action, president tells BBC",
       "url": "https://www.bbc.com/news/articles/cwygjvkvpgro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae3d/live/61298c40-ed1e-11f0-b5f7-49f0357294ff.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef88/live/9a84b9f0-ed33-11f0-b5f7-49f0357294ff.png",
       "published_at": "2026-01-09T06:02:31.000Z",
       "summary": "Gustavo Petro tells the BBC's Ione Wells that the United States is treating other nations as part of a US \"empire\", after Trump threatened Colombia with military action."
     },
@@ -290,16 +410,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c057/live/4a536060-ecd6-11f0-9d35-971c224e6291.jpg",
       "published_at": "2026-01-09T04:23:49.000Z",
       "summary": "The US, which recently captured its President Nicolás Maduro, has long demanded the detainees be freed."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "One dead, 38 missing after massive landfill collapses in Philippines",
-      "url": "https://www.bbc.com/news/articles/c17zqz5pprwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9591/live/2be118f0-ed0f-11f0-ad80-d7f736b055b6.jpg",
-      "published_at": "2026-01-09T04:22:38.000Z",
-      "summary": "Rescuers have pulled 12 injured sanitation workers from debris at the private landfill in Cebu City."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -405,7 +515,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Trump says 59 countries willing to intervene in Gaza if Hamas refuses to disarm",
+      "title": "Medical officials in Gaza say 15 killed in Israeli attacks since Thursday",
       "url": "https://www.haaretz.com/israel-news/2026-01-09/ty-article-live/trump-says-59-countries-willing-to-intervene-in-gaza-if-hamas-refuses-to-disarm/0000019b-a0b5-dd39-a7ff-ebbfdc650000",
       "image": "https://img.haarets.co.il/bs/0000019b-a067-d724-a7fb-e477dc540000/b0/13/4b4ac09b4932a28e9bd1ee171d5e/325442.jpg?height=81",
       "published_at": "2026-01-09T03:19:33.000Z",
@@ -962,16 +1072,6 @@
       "summary": "Authorities say curfews to be in place &#039;until further notice&#039; after clashes between Syrian army and Kurdish-led forces."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Real Madrid to face Barcelona in Spanish Super Club after beating Atletico",
-      "url": "https://www.aljazeera.com/sports/2026/1/8/real-madrid-to-face-barcelona-in-spanish-super-club-after-beating-atletico?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-08T21:24:24.000Z",
-      "summary": "Real Madrid beat cross-city rivals Atletico Madrid in the Saudi-hosted Spanish Super Cup to set up Barcelona showdown."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -980,16 +1080,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-9f73-d01b-a7db-9f7f9f190001/6d/73/d8b73b6f4c55a38e6a98f8323e00/image-2026-01-08-131215823.png?height=81",
       "published_at": "2026-01-08T21:17:59.000Z",
       "summary": ""
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Netanyahu meets with former UN Mideast envoy tapped to represent Board of Peace",
-      "url": "https://www.timesofisrael.com/netanyahu-meets-with-former-un-mideast-envoy-tapped-to-represent-board-of-peace/",
-      "image": null,
-      "published_at": "2026-01-08T21:03:54.000Z",
-      "summary": "PM says Nickolay Mladenov has been 'designated' director-general of body overseeing implementation of Trump's Gaza deal; no immediate US confirmation on title\nThe post Netanyahu meets with former UN Mideast envoy tapped to represent Board of Peace appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1020,16 +1110,6 @@
       "image": "https://img.haarets.co.il/bs/00000197-9d10-d4d3-a1bf-bf5803530000/e8/a1/4d005df14e34ab044013c93842c1/105326-1.jpg?height=81",
       "published_at": "2026-01-08T20:36:33.000Z",
       "summary": "This prime minister is the fulcrum for many of the country's divisions. Now he's stuck in the polls, it would make sense for him to tap into a source of national unity: a regional conflict"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Snow blankets Italian alpine resort ahead of Winter Olympics",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/snow-blankets-italian-alpine-resort-ahead-of-winter-olympics?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-08T20:33:11.000Z",
-      "summary": "Fresh snowfall hit Italy’s Alpine resort of Livigno less than a month before the 2026 Milano Cortina Winter Olympics."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1072,16 +1152,6 @@
       "summary": "According to reports, Iranians nationwide took to the streets after country's exiled crown prince Reza Pahlavi called for a mass demonstration on Thursday and Friday"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Internet, phone lines cut across Iran as thousands rally in Tehran; death toll at 45",
-      "url": "https://www.timesofisrael.com/internet-phone-lines-cut-across-iran-as-thousands-rally-in-tehran-death-toll-at-45/",
-      "image": null,
-      "published_at": "2026-01-08T19:58:41.000Z",
-      "summary": "Communications networks go dark right after start of Tehran protests urged on by exiled crown prince; protesters chant 'death to the dictator' and 'death to the Islamic Republic'\nThe post Internet, phone lines cut across Iran as thousands rally in Tehran; death toll at 45 appeared first on The Times"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1100,16 +1170,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-9ec5-d724-a7fb-ded551ca0000/ca/84/f474ff6d4fa2b94869e1ee579642/647552-2.jpg?height=81",
       "published_at": "2026-01-08T19:54:43.000Z",
       "summary": "The retirement of longtime AIPAC champion Steny Hoyer is perhaps the most emblematic loss for Israel's congressional allies in recent memory, and a blow to the status quo"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"חבורת המשתמטים החליטה להדיר נשים\": הזעם בעקבות השינויים בחוק הפטור מגיוס",
-      "url": "https://www.ynet.co.il/news/article/hj87qk6e11l",
-      "image": null,
-      "published_at": "2026-01-08T19:44:48.000Z",
-      "summary": "בכירות לשעבר במערכת הביטחון זעמו על השינויים בחוק של ביסמוט, שמאפשרים פגיעה במעמד הנשים בצבא, והאשימו בניסיון להרחיק נשים מצה\"ל. \"החוק הבזוי ייזרק בקרוב לפח\", תקפה תא\"ל (במיל') ברביבאי. \"נשים ימשיכו לתרום לביטחון המדינה יותר מרוב הח\"כים והשרים בממשלה המטורללת הזאת\""
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1142,16 +1202,6 @@
       "summary": "The incident is threatening to inflame a deeply contentious debate over immigration enforcement."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "כוכבת הרשת הפרו-ישראלית: \"טראמפ החזיק לי את היד ואמר, 'אני אוהב את נתניהו'\"",
-      "url": "https://www.ynet.co.il/news/article/r10ojza4bx",
-      "image": null,
-      "published_at": "2026-01-08T18:51:12.000Z",
-      "summary": "עם מיליוני עוקבים ברשתות החברתיות, הפכה בשנים האחרונות אושיית הרשת היהודייה-אמריקנית אמילי אוסטין לדמות חשובה בקמפיין ההסברה הישראלי ובמאבק לשחרור החטופים. היא אף נפגשה עם טראמפ, שהבטיח לה: \"כל עוד אני הנשיא שלך - ישראל בידיים טובות\". וגם: האנשים שעוצרים אותה ברחוב בישראל"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1182,36 +1232,6 @@
       "summary": "A new U.S.-sponsored Israeli-Syrian security deal has sparked strong online backlash from Palestinian commentators. Some say it undermines Syrian sovereignty and ignores issues like the Israeli occupation of the Golan Heights"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "One million spent hours without heat and water after Russian strikes, Ukraine says",
-      "url": "https://www.bbc.com/news/articles/cgk8jv4r8nmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4108/live/f5ca2990-ec24-11f0-b5f7-49f0357294ff.jpg",
-      "published_at": "2026-01-08T17:58:04.000Z",
-      "summary": "Efforts are continuing to restore services in Dnipropetrovsk, officials say, after wide-spread attacks in the southeast. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Algeria apologises after player mocks Congolese superfan dressed as pan-African hero",
-      "url": "https://www.bbc.com/news/articles/cj0nqqgy77ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28d8/live/94bc1a00-ecb0-11f0-b5f7-49f0357294ff.jpg",
-      "published_at": "2026-01-08T17:57:49.000Z",
-      "summary": "Michel Nkuka Mboladinga stood motionless throughout DR Congo's Afcon matches in tribute to Patrice Lumumba."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US involvement in Venezuela could last years, Trump says",
-      "url": "https://www.bbc.com/news/articles/cx20gyn8qvvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c22/live/2e0fa410-ec93-11f0-bed4-4bc64ed151a7.jpg",
-      "published_at": "2026-01-08T17:37:19.000Z",
-      "summary": "The US president says only time would tell how long his administration will be involved in the running of the country."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1230,16 +1250,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-94be-dd67-a9ff-9ebf2ac40001/63/f0/caeca56c4e55a37126e3803c3e12/64314507.JPG?height=81",
       "published_at": "2026-01-08T17:09:00.000Z",
       "summary": "The new Arabic-language music talent show 'The Mic is Yours' on Israeli TV is a huge hit among local Arabs"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Saudi-led coalition says UAE helped smuggle separatist leader out of Yemen",
-      "url": "https://www.bbc.com/news/articles/c5y2mvp3r2do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/370a/live/88d79c10-ec91-11f0-a422-4ba8a094a8fa.jpg",
-      "published_at": "2026-01-08T16:59:34.000Z",
-      "summary": "Aidarous al-Zubaidi, head of the UAE-backed Southern Transitional Council, fled to Somaliland by boat before flying to Abu Dhabi, according to the coalition."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1335,31 +1345,11 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "US halts assistance to Somalia over claims food aid was illegally seized",
-      "url": "https://www.bbc.com/news/articles/ckgn1lpq52ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d01e/live/cffdb100-ec6f-11f0-aeac-3969add4eca5.jpg",
-      "published_at": "2026-01-08T15:50:33.000Z",
-      "summary": "Somalia denies the claims and says the 76 tonnes of aid is still in the hands of the World Food Programme."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Who was Renee Nicole Good, the woman killed by ICE?",
       "url": "https://www.bbc.com/news/articles/c1jepdjy256o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bd7/live/0df09270-ec89-11f0-b5f7-49f0357294ff.jpg",
       "published_at": "2026-01-08T15:48:37.000Z",
       "summary": "A mother of three and award-winning poet, Good's sudden death sparks protests across the US."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Lebanese army says it has taken over security in Hezbollah-dominated south",
-      "url": "https://www.bbc.com/news/articles/cj4ln977w0jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/178c/live/d1d37d40-ec81-11f0-a422-4ba8a094a8fa.jpg",
-      "published_at": "2026-01-08T15:29:06.000Z",
-      "summary": "The army says it has met its goal of clearing the area of non-state weapons but Israel calls the move \"insufficient\"."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1490,6 +1480,16 @@
       "image": "https://img.haarets.co.il/bs/0000019b-9da6-dd67-a9ff-9fa7d40c0001/c2/43/53aa6cec42e790c8bd92944fe8fe/303155.webp?height=81",
       "published_at": "2026-01-08T13:39:38.000Z",
       "summary": "The researcher's attorney accused the police and Israel's Population Authority of acting in a way that 'is reminiscent of dark regimes with lists of \"undesirables,\"' after he was deported without the hearing by law for temporary residents"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Benfica players sleep at training ground after loss",
+      "url": "https://www.bbc.com/sport/football/articles/c07xzzn3j39o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d35/live/073f76c0-ec94-11f0-bed4-4bc64ed151a7.jpg",
+      "published_at": "2026-01-08T13:35:04.000Z",
+      "summary": "Jose Mourinho takes his players to stay at Benfica's training ground after they lose against Braga in the League Cup semi-final."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1660,16 +1660,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a036/live/320f3220-ec79-11f0-b385-5f48925de19a.jpg",
       "published_at": "2026-01-08T08:03:50.000Z",
       "summary": "Faisal Islam gets rare access to Willow - Google's quantum computer."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Australia PM announces royal commission into Bondi shooting",
-      "url": "https://www.bbc.com/news/articles/c8x94lz0gevo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d396/live/f0c692d0-ec5b-11f0-80ef-5766be1266f4.jpg",
-      "published_at": "2026-01-08T07:53:16.000Z",
-      "summary": "Anthony Albanese had previously resisted such an inquiry despite pressure from the Jewish community."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1902,16 +1892,6 @@
       "summary": "A new think tank report posits that \"even extensive efforts to reduce collateral damage can lead to a loss of diplomatic support if the information environment is not actively managed.\""
     },
     {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "WATCH: Israel Police raid cannabis dens in Tel Aviv apartment, find drug bags in Haifa vehicle",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-882669",
-      "image": null,
-      "published_at": "2026-01-07T20:31:29.000Z",
-      "summary": "Israel Police raided an apartment in Tel Aviv’s Kfar Shalem, seizing 42.5 kilograms of suspected cannabis, while separate operations in Haifa led to additional arrests and drug seizures."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1930,16 +1910,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-99c7-d01b-a7db-9ddfccf50000/76/8f/7977bf6c472c86553bcd2014644a/541824.jpg?height=81",
       "published_at": "2026-01-07T19:49:02.000Z",
       "summary": "This Israeli election year, my vote as a Palestinian remains a favor, not a right. The state treats my safety as optional and my humanity as negotiable. Why be grateful for crumbs?"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Knesset advances bill to create national memorial day of Oct. 7 attacks",
-      "url": "https://www.jpost.com/israel-news/article-882664",
-      "image": null,
-      "published_at": "2026-01-07T19:23:03.000Z",
-      "summary": "The bill passed unanimously, with 18 votes in favor and none against. It will now move to Knesset committee discussions and must pass two additional readings before becoming law."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2330,16 +2300,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e47e/live/543174d0-eb25-11f0-b5f7-49f0357294ff.jpg",
       "published_at": "2026-01-06T17:48:59.000Z",
       "summary": "Donald Trump has said several times that he wants to acquire Greenland. \nBut does the US have the right to take it? "
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Rep. Dan Goldman defends pro-Israel stance and attacks Brad Lander as New York primary poised to test Jewish voters",
-      "url": "https://www.haaretz.com/jewish/2026-01-06/ty-article/democrat-dan-goldman-backs-pro-israel-record-as-ny-primary-becomes-test-for-jewish-voters/0000019b-93eb-d987-a59b-d3fbd35f0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-942a-dcfc-addf-d52aa5ce0000/66/4a/9fdc237c42139b246bf5613c9e17/089797-2.jpg?height=81",
-      "published_at": "2026-01-06T17:45:53.000Z",
-      "summary": "The Democratic congressman used a New York Times interview to affirm his position as a moderate, pro-Israel candidate in contrast to Lander, whom he criticized for his activist tendencies"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
