@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-09T06:16:20.739Z",
+  "generated_at": "2026-01-09T06:54:01.086Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -10,6 +10,56 @@
       "image": null,
       "published_at": "2026-01-09T07:50:34.000Z",
       "summary": "The poll also found that appointing Brig.-Gen. (res.) Ofir Winter to head Religious Zionist Party in place of Bezalel Smotrich would allow the party to cross the threshold with six seats."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"סוס עבודה\" מול \"מכונת מודיעין\": דילמת ההצטיידות של חיל האוויר - F-35 או F-15I",
+      "url": "https://www.ynet.co.il/news/article/yokra14640944",
+      "image": null,
+      "published_at": "2026-01-09T06:28:37.000Z",
+      "summary": "בזמן שבעולם מתנהל מרוץ חימוש מטורף, ומחירי מערכות הנשק מגיעים לסכומי עתק, למערכת הביטחון הוקצו 350 מיליארד שקל לבניין הכוח לעשור הקרוב. ההתלבטות העיקרית: טייסת נוספת של החמקן F-35, שמתאים במיוחד למכת פתיחה, או טייסת של F-15I המתקדם – שמסוגל לשאת חימושים כבדים למרחקים. התשובה: שילוב בין חמקנות לבין כ"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Hamas agency says 13 killed by Israeli strikes in Gaza after failed missile launch",
+      "url": "https://www.timesofisrael.com/hamas-agency-says-13-killed-by-israeli-strikes-in-gaza-after-failed-missile-launch/",
+      "image": null,
+      "published_at": "2026-01-09T06:21:34.000Z",
+      "summary": "Five children among casualties, according to terror group's civil defense agency; IDF and Shin Bet confirmed strikes were in response to attempted rocket launch\nThe post Hamas agency says 13 killed by Israeli strikes in Gaza after failed missile launch appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Leading Religious Zionist rabbi: Extremist settler violence must be stopped from the pulpit",
+      "url": "https://www.timesofisrael.com/leading-religious-zionist-rabbi-extremist-settler-violence-must-be-stopped-from-the-pulpit/",
+      "image": null,
+      "published_at": "2026-01-09T06:17:48.000Z",
+      "summary": "Rabbi Mosheh Lichtenstein, co-head of Yeshivat Har Etzion in the West Bank settlement of Alon Shvut, discusses the challenges facing his community and the country as a whole\nThe post Leading Religious Zionist rabbi: Extremist settler violence must be stopped from the pulpit appeared first on The Tim"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia-Ukraine war: List of key events, day 1,415",
+      "url": "https://www.aljazeera.com/news/2026/1/9/russia-ukraine-war-list-of-key-events-day-1415?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T06:11:23.000Z",
+      "summary": "These are the key developments from day 1,415 of Russia’s war on Ukraine."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "There is a 'real threat' of US military action against Colombia, president tells BBC",
+      "url": "https://www.bbc.com/news/articles/cwygjvkvpgro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae3d/live/61298c40-ed1e-11f0-b5f7-49f0357294ff.png",
+      "published_at": "2026-01-09T06:02:31.000Z",
+      "summary": "Gustavo Petro tells the BBC's Ione Wells that the United States is treating other nations as part of a US \"empire\", after Trump threatened Colombia with military action."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -25,7 +75,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Syria live: Ceasefire in Aleppo after at least 22 killed since Tuesday",
+      "title": "Syria live: Ceasefire ends in Aleppo after at least 22 killed since Tuesday",
       "url": "https://www.aljazeera.com/news/liveblog/2026/1/9/syria-live-ceasefire-in-aleppo-after-at-least-22-killed-since-tuesday?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-09T05:51:23.000Z",
@@ -445,7 +495,7 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Right to Listen Launches in Israel, Framing Listening as an Active Force for Change",
+      "title": "'Right to Listen' launches in Israel, framing listening as an active force for change",
       "url": "https://www.jpost.com/israel-news/culture/article-882820",
       "image": null,
       "published_at": "2026-01-08T22:51:42.000Z",
@@ -585,21 +635,21 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "ועדת אחרי-קלפי",
-      "url": "https://www.ynet.co.il/news/article/yokra14639866",
-      "image": null,
-      "published_at": "2026-01-08T22:01:00.000Z",
-      "summary": "בקואליציה שוקלים: חוק ועדת החקירה הפוליטית ייושם רק אחרי הבחירות. הרעיון הוא להעביר אותו בקריאה שלישית בכנסת הנוכחית ולדחות את האיוש. וגם: קרעי מעלה הילוך נגד הנשיא עמית ובהרב-מיארה"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "הסוף לתחנות המרכזיות המיושנות: הצצה למתחמי הענק העתידיים שישנו פה הכל",
       "url": "https://www.ynet.co.il/news/article/b13ppvcnwx",
       "image": null,
       "published_at": "2026-01-08T22:01:00.000Z",
       "summary": "לא עוד \"תחנה מרכזית\", אלא מתח\"ם שבו ייפגשו הרכבת, האוטובוס והמטרו: עם 7 מרכזי ענק לאורך איילון, אוטובוסים חשמליים ומסופים חדשים בכל הארץ, תוכנית שקורמת עור וגידים בימים אלה עתידה לחולל מהפכה בתחבורה הציבורית - ולהפוך את התחנות המרכזיות מ\"החצר האחורית\" של הערים ללב הפועם שלהן"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ועדת אחרי-קלפי",
+      "url": "https://www.ynet.co.il/news/article/yokra14639866",
+      "image": null,
+      "published_at": "2026-01-08T22:01:00.000Z",
+      "summary": "בקואליציה שוקלים: חוק ועדת החקירה הפוליטית ייושם רק אחרי הבחירות. הרעיון הוא להעביר אותו בקריאה שלישית בכנסת הנוכחית ולדחות את האיוש. וגם: קרעי מעלה הילוך נגד הנשיא עמית ובהרב-מיארה"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -680,16 +730,6 @@
       "image": null,
       "published_at": "2026-01-08T22:00:00.000Z",
       "summary": "המהומות באיראן והקריאות \"מוות לדיקטטור\" עדיין לא מסכנות את המשטר | אבל מול האיומים שמשגר טראמפ, ואחרי המהלומה שספג במבצע עם כלביא, יש לחמינאי סיבה לחשוש | פרופ' ליאור שטרנפלד, שהוציא בימים אלה ספר על החיים ברפובליקה האיסלאמית, מדגיש את חלקם של סוחרי הבזאר בהפגנות ומעריך: \"גם אם הסבב הנוכחי ידעך, ההת"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"סוס עבודה\" מול \"מכונת מודיעין\": דילמת ההצטיידות של חיל האוויר לעשור הקרוב",
-      "url": "https://www.ynet.co.il/news/article/yokra14640944",
-      "image": null,
-      "published_at": "2026-01-08T22:00:00.000Z",
-      "summary": "בזמן שבעולם מתנהל מרוץ חימוש מטורף, ומחירי מערכות הנשק מגיעים לסכומי עתק, למערכת הביטחון הוקצו רק כ-350 מיליארד שקל לבניין הכוח לעשור הקרוב. ההתלבטות העיקרית: טייסת נוספת של החמקן F-35, שמתאים במיוחד למכת פתיחה, או טייסת של F-15I המתקדם – שמסוגל לשאת חימושים כבדים למרחקים. התשובה: שילוב בין חמקנות ל"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1102,26 +1142,6 @@
       "summary": "A new U.S.-sponsored Israeli-Syrian security deal has sparked strong online backlash from Palestinian commentators. Some say it undermines Syrian sovereignty and ignores issues like the Israeli occupation of the Golan Heights"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Protesters, law enforcement clash in Minneapolis after immigration agent kills woman",
-      "url": "https://www.timesofisrael.com/protesters-law-enforcement-clash-in-minneapolis-after-immigration-agent-kills-woman/",
-      "image": null,
-      "published_at": "2026-01-08T18:18:56.000Z",
-      "summary": "Trump administration derides 37-year-old mother Renee Nicole Good as 'deranged leftist,' claims she tried to kill officers with her car; Mayor: allegations are 'bullshit'\nThe post Protesters, law enforcement clash in Minneapolis after immigration agent kills woman appeared first on The Times of Isra"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "New York’s Cooper Union settles campus antisemitism case, pledges reforms",
-      "url": "https://www.timesofisrael.com/new-yorks-cooper-union-settles-campus-antisemitism-case-pledges-reforms/",
-      "image": null,
-      "published_at": "2026-01-08T18:18:33.000Z",
-      "summary": "College reaches settlement with 10 Jewish students who were locked in a library amid unruly anti-Israel protest weeks after October 7 attack\nThe post New York’s Cooper Union settles campus antisemitism case, pledges reforms appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1160,16 +1180,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28d8/live/94bc1a00-ecb0-11f0-b5f7-49f0357294ff.jpg",
       "published_at": "2026-01-08T17:57:49.000Z",
       "summary": "Michel Nkuka Mboladinga stood motionless throughout DR Congo's Afcon matches in tribute to Patrice Lumumba."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Injured arrive at Aleppo hospital amid intense artillery fire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/8/injured-arrive-at-aleppo-hospital-amid-intense-artillery-fire?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-08T17:55:46.000Z",
-      "summary": "Al Jazeera witnessed injured civilians arriving at an Aleppo hospital as SDF and Syrian army forces fought."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
