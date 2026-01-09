@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-09T14:45:36.177Z",
+  "generated_at": "2026-01-09T15:11:15.258Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "HBO Max arrives in Israel while Anderson’s film sparks controversy",
+      "url": "https://www.jpost.com/israel-news/culture/article-882778",
+      "image": null,
+      "published_at": "2026-01-09T16:52:54.000Z",
+      "summary": "TV TIME: HBO Max launches in Israel with a full slate of hit series and films, while Paul Thomas Anderson’s 'One Battle After Another' draws sharp criticism for its politics and plot."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -22,6 +32,76 @@
       "summary": "Sharif Mufak Hadid, a 26-year-old from Daliat al-Carmel, was fatally shot on Highway 6 by Shalev Hajaj, a 21-year-old off-duty IDF soldier who was in civilian clothes at the time."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Owner of Swiss ski resort held in custody after deadly New Year's Eve fire",
+      "url": "https://www.bbc.com/news/articles/c4g0mq520zeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "published_at": "2026-01-09T15:10:26.000Z",
+      "summary": " Jacques Moretti is being held as a potential flight risk, Swiss media reports say."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Changes to Elon Musk's AI Grok 'insulting' to victims, says No 10",
+      "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa6/live/1942dce0-ed34-11f0-b984-81fd88ec25bf.jpg",
+      "published_at": "2026-01-09T15:04:37.000Z",
+      "summary": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Powerful storm kills kitesurfer; plane reportedly hit by lightening, lands safely",
+      "url": "https://www.timesofisrael.com/powerful-storm-kills-kitesurfer-plane-reportedly-hit-by-lightening-lands-safely/",
+      "image": null,
+      "published_at": "2026-01-09T14:48:21.000Z",
+      "summary": "Heavy rainfall, strong winds reaching 105 km/h (65 mph) nationwide bring down trees, causing a number of injuries; El Al flight reportedly struck in storm: 'The plane was shaking'\nThe post Powerful storm kills kitesurfer; plane reportedly hit by lightening, lands safely appeared first on The Times o"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "“Very fragile security situation” in Syria amid rising tensions",
+      "url": "https://www.aljazeera.com/video/quotable/2026/1/9/very-fragile-security-situation-in-syria-amid-rising-tensions?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T14:46:11.000Z",
+      "summary": "Labib al-Nahhas on fighting between the Kurdish-led SDF and Syrian forces, reviving the debate over autonomy and unity."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump warns of more Nigeria strikes if Christians 'continue to be killed'",
+      "url": "https://www.bbc.com/news/articles/cly3vl3yp2do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faf6/live/b0d4d9d0-ed63-11f0-a422-4ba8a094a8fa.jpg",
+      "published_at": "2026-01-09T14:42:08.000Z",
+      "summary": "The US president made the comment after being asked if the Christmas Day strikes were part of a broader campaign."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "The continued mysteries surrounding the intelligence operation to capture Maduro",
+      "url": "https://www.bbc.com/news/articles/cp37yr2xq7no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7169/live/265e5230-ed69-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-09T14:39:15.000Z",
+      "summary": "From intelligence sources to intricate mission plans, some details are becoming clearer - but many questions remain unanswered."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Elon Musk’s AI bot Grok limits image generation amid deepfakes backlash",
+      "url": "https://www.aljazeera.com/news/2026/1/9/elon-musks-ai-bot-grok-limits-image-generation-amid-deepfakes-backlash?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T14:37:24.000Z",
+      "summary": "UK PM Keir Starmer&#039;s office says move to limit access to paying subscribers &#039;insulting&#039; to victims and &#039;not a solution&#039;."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -30,6 +110,26 @@
       "image": null,
       "published_at": "2026-01-09T14:36:41.000Z",
       "summary": "Police closed Highway 90 between Dragot Junction and the Dead Sea hotel district in both directions due to flooding and warned travelers of serious danger."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Israeli team pioneers bacteria &#8216;factories&#8217; to produce medicine inside the body",
+      "url": "https://www.timesofisrael.com/israeli-team-pioneers-bacteria-factories-to-produce-medicine-inside-the-body/",
+      "image": null,
+      "published_at": "2026-01-09T14:33:25.000Z",
+      "summary": "In peer-reviewed study on mice, Technion scientists say novel method using harmless microneedle patches 'opens the door' to treat war wounds, diabetes, and inflammatory skin diseases\nThe post Israeli team pioneers bacteria &#8216;factories&#8217; to produce medicine inside the body appeared first on"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US seizes fifth oil tanker as Venezuela pressure campaign continues",
+      "url": "https://www.aljazeera.com/news/2026/1/9/us-seizes-fifth-oil-tanker-as-venezuela-pressure-campaign-continue?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T14:29:26.000Z",
+      "summary": "Operation comes days after US seized Russian-flagged tanker; US pledges to continue blockade following Maduro abduction."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -60,16 +160,6 @@
       "image": null,
       "published_at": "2026-01-09T14:00:18.000Z",
       "summary": "Even economic success may not save Europe’s last socialist government from defeat."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Changes to Elon Musk's AI Grok 'insulting' to victims, says No 10",
-      "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa6/live/1942dce0-ed34-11f0-b984-81fd88ec25bf.jpg",
-      "published_at": "2026-01-09T13:58:38.000Z",
-      "summary": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -265,11 +355,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "&#8216;All are in the streets&#8217;: Iranians defiant as protests grow",
+      "title": "&#8216;All are in the streets&#8217;: Iranians defiant as protests grow despite crackdown",
       "url": "https://www.timesofisrael.com/all-are-in-the-streets-iranians-defiant-as-protests-grow/",
       "image": null,
       "published_at": "2026-01-09T12:24:28.000Z",
-      "summary": "'We know that if we go out there, we might not survive, but we are going and we will go out there to have a better future,' demonstrator says as protests swell despite mounting crackdown\nThe post &#8216;All are in the streets&#8217;: Iranians defiant as protests grow appeared first on The Times of I"
+      "summary": "'We know that if we go out there, we might not survive, but we are going and we will go out there to have a better future,' demonstrator says as protests swell\nThe post &#8216;All are in the streets&#8217;: Iranians defiant as protests grow despite crackdown appeared first on The Times of Israel.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -309,7 +399,7 @@
       "url": "https://www.bbc.com/news/articles/c041n3ng03no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd1/live/eb492840-ec7e-11f0-b385-5f48925de19a.jpg",
       "published_at": "2026-01-09T12:11:35.000Z",
-      "summary": "The turbocharged events in Venezuela through to discussions about Greenland all nods to the US’s shifting vision of the world order. And it leaves the EU with a pressing decision about whose influence to shelter under"
+      "summary": "The turbocharged events of the last week - and the new US National Security Strategy - raise pressing questions about the new world order, and what it means for Europe"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -420,16 +510,6 @@
       "image": null,
       "published_at": "2026-01-09T11:04:13.000Z",
       "summary": "מחוץ למשרדים של ג'וליאנו קסטרנצה, שידוע בתמיכתו בישראל, רוססה הכתובת \"לעצור את רצח העם\" - ומפגינים ניסו לחדור פנימה ותלו שלטים על החלונות. במשטרה אמרו כי מדובר בפעילים בתשלום, אך אף שזהותם ידועה איש לא נעצר. איש העסקים: \"זו התקפה אישית על משפחתי\". צפו בתיעוד ממצלמות האבטחה"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Hundreds protest Israeli recognition of Somaliland in Mogadishu",
-      "url": "https://www.timesofisrael.com/hundreds-protest-israeli-recognition-of-somaliland-in-mogadishu/",
-      "image": null,
-      "published_at": "2026-01-09T10:46:30.000Z",
-      "summary": "Demonstrators wave Somali flags and chant patriotic songs at third such event since Jerusalem became first UN state to recognize independent Somaliland\nThe post Hundreds protest Israeli recognition of Somaliland in Mogadishu appeared first on The Times of Israel.\n"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -760,36 +840,6 @@
       "image": null,
       "published_at": "2026-01-09T07:32:34.000Z",
       "summary": "Former Venezuelan opposition candidate Enrique Marquez is among &#039;large number&#039; of prisoners released."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Europe should prepare for Greenland’s annexation and end of NATO: Experts",
-      "url": "https://www.aljazeera.com/news/2026/1/9/europe-should-prepare-for-greenlands-annexation-and-end-of-nato-experts?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T07:32:22.000Z",
-      "summary": "US and Russian ideologies would be in alignment, leaving Europe as an island of liberalism, according to analysts."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Jazz close out Mavericks to end 5-game losing streak; Pacers beat Hornets",
-      "url": "https://www.aljazeera.com/sports/2026/1/9/jazz-close-out-mavericks-to-end-5-game-losing-streak-pacers-beat-hornets?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T07:20:42.000Z",
-      "summary": "Anthony Edwards becomes third-youngest player in NBA to reach 10,000 career points as Wolves hold off Cavs."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Street protests grow in Iran as the country faces an internet blackout",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/street-protests-grow-in-iran-as-the-country-faces-an-internet-blackout?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T07:18:23.000Z",
-      "summary": "Protests across Iran are growing as thousands of people voice anger at the dire state of the country’s economy."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -1475,16 +1525,6 @@
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
-      "title": "Spain's Catholic Church signs deal on sexual abuse compensation",
-      "url": "https://www.bbc.com/news/articles/c78e99pzr25o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf17/live/1d504e10-eca0-11f0-b385-5f48925de19a.jpg",
-      "published_at": "2026-01-08T15:28:24.000Z",
-      "summary": "The accord follows complaints that religious leaders had failed to tackle the issue adequately."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
       "title": "Vance criticises Denmark and Europe's handling of 'critical' Greenland ",
       "url": "https://www.bbc.com/news/articles/c2lgjd51v95o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e05/live/080bb350-ec87-11f0-b385-5f48925de19a.jpg",
@@ -1680,16 +1720,6 @@
       "image": null,
       "published_at": "2026-01-08T11:58:05.000Z",
       "summary": "The military noted that it detected the launch coming from Gaza City and that it quickly responded by striking the source of the fire."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Netzah Yehuda: Bridging faith, service, and national unity",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-882724",
-      "image": null,
-      "published_at": "2026-01-08T11:57:48.000Z",
-      "summary": "The IDF battalion’s leadership will take the stage at The Jerusalem Post Miami Summit\nto discuss integrating faith, military service, and social cohesion."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
