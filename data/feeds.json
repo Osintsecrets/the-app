@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-09T10:45:39.085Z",
+  "generated_at": "2026-01-09T11:09:47.037Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -20,6 +20,46 @@
       "image": null,
       "published_at": "2026-01-09T11:35:28.000Z",
       "summary": "Zhai Jun, special envoy of the Chinese government on the Middle East issue, was in Israel from Tuesday to Thursday and held talks with Israeli officials, including Foreign Minister Gideon Sa'ar."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "\"לא יפחידו אותי\": יהלומן איטלקי שנשוי לישראלית במוקד מחאה פרו-פלסטינית | צפו",
+      "url": "https://www.ynet.co.il/news/article/s1fmaernzg",
+      "image": null,
+      "published_at": "2026-01-09T11:04:13.000Z",
+      "summary": "מחוץ למשרדים של ג'וליאנו קסטרנצה, שידוע בתמיכתו בישראל, רוססה הכתובת \"לעצור את רצח העם\" - ומפגינים ניסו לחדור פנימה ותלו שלטים על החלונות. במשטרה אמרו כי מדובר בפעילים בתשלום, אך אף שזהותם ידועה איש לא נעצר. איש העסקים: \"זו התקפה אישית על משפחתי\". צפו בתיעוד ממצלמות האבטחה"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Hundreds protest Israeli recognition of Somaliland in Mogadishu",
+      "url": "https://www.timesofisrael.com/hundreds-protest-israeli-recognition-of-somaliland-in-mogadishu/",
+      "image": null,
+      "published_at": "2026-01-09T10:46:30.000Z",
+      "summary": "Demonstrators wave Somali flags and chant patriotic songs at third such event since Jerusalem became first UN state to recognize independent Somaliland\nThe post Hundreds protest Israeli recognition of Somaliland in Mogadishu appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Elon Musk's Grok AI image editing limited to paid X users after deepfakes",
+      "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa6/live/1942dce0-ed34-11f0-b984-81fd88ec25bf.jpg",
+      "published_at": "2026-01-09T10:46:15.000Z",
+      "summary": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "US to support Cambodian-Thai ceasefire with $45m aid pledge",
+      "url": "https://www.aljazeera.com/news/2026/1/9/us-to-support-cambodian-thai-ceasefire-with-45m-aid-pledge?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T10:39:47.000Z",
+      "summary": "The aid is earmarked to help support both countries in border stabilisation efforts. "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -49,7 +89,27 @@
       "url": "https://www.ynet.co.il/news/article/skj0mkae11x",
       "image": null,
       "published_at": "2026-01-09T10:36:39.000Z",
-      "summary": "גשם יורד מהבוקר מהצפון ועד צפון הנגב, בירושלים נמדדו 20 מ\"מ. באשקלון נפצע נהג באורח בינוני בעקבות קריסת עץ, באזור הר כנען נמדדה ברוח בעוצמה גבוהה מ-100 קמ\"ש. מחר כל זה כבר יהיה מאחורינו: מה צפוי בסיומה של סערת הבזק?"
+      "summary": "גשם יורד מהבוקר מהצפון ועד צפון הנגב, בירושלים נמדדו 20 מ\"מ. באשקלון נפצע נהג באורח בינוני בעקבות קריסת עץ, בבני ברק פגע עץ ברכב נוסע וברכבים חונים. בצפת נמדדה ברוח בעוצמה גבוהה מ-100 קמ\"ש. ומה צפוי אחרי סערת הבזק?"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israeli strikes kill Palestinians across Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/israeli-strikes-kill-palestinians-across-gaza?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T10:32:39.000Z",
+      "summary": "Israeli strikes killed at least 14 Palestinians across Gaza on Thursday, including several children. "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Iran’s Khamenei lashes out as Tehran struggles to quell protests",
+      "url": "https://www.aljazeera.com/news/2026/1/9/irans-khamenei-lashes-out-as-tehran-struggles-to-quell-protests?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T10:31:43.000Z",
+      "summary": "Supreme leader warns against foreign enemies and reiterates threat that authorities will crack down on the unrest."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -75,7 +135,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Yemen’s separatist Southern Transitional Council announces its dissolution",
+      "title": "Yemen’s main southern separatists to disband, senior STC official says",
       "url": "https://www.aljazeera.com/news/2026/1/9/yemens-separatist-southern-transitional-council-announces-its-dissolution?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-09T10:00:56.000Z",
@@ -90,16 +150,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-a1d8-d01b-a7db-b5dc13700000/e5/42/8a83e1d145e382c3d2fae7d0b6b9/335823.jpg?height=81",
       "published_at": "2026-01-09T09:58:06.000Z",
       "summary": "Iranian state media broke its silence Friday over the protests, alleging  U.S. and Israeli 'terrorist agents' set fires and sparked violence. Violence in the protests has killed at least 42 people while more than 2,270 others have been detained, according to activists"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Elon Musk's Grok AI image editing limited to paid X users after deepfakes",
-      "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa6/live/1942dce0-ed34-11f0-b984-81fd88ec25bf.jpg",
-      "published_at": "2026-01-09T09:48:22.000Z",
-      "summary": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -209,7 +259,7 @@
       "url": "https://www.ynet.co.il/news/article/syvgzb0vbe",
       "image": null,
       "published_at": "2026-01-09T09:13:07.000Z",
-      "summary": "שריף מופק חדיד, בן 26 מדליית אל כרמל, נורה למוות ליד מחלף עין תות. אחיו אמיר, שהיה איתו ברכב, סיפר כי בניגוד לטענת החייל שהיה בחופשה ונעצר - שריף לא ניסה לדקור אותו. \"היינו בלי שום כלי הגנה, והוא ירה 5 כדורים\", אמר. הוארך מעצר החייל ואחיו, חשודים גם בהעלמת ראיות"
+      "summary": "שריף מופק חדיד, בן 26 מדליית אל כרמל, נורה למוות ליד מחלף עין תות. אחיו אמיר, שהיה איתו ברכב, סיפר כי בניגוד לטענת החייל שלו חג'ג' ששב מטקס השבעתה של אחותו - שריף לא ניסה לדקור אותו. \"היינו בלי שום כלי הגנה, והוא ירה 5 כדורים\", אמר. הוארך מעצר החייל ואחיו, הם חשודים גם בהעלמת ראיות"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -612,16 +662,6 @@
       "summary": "The 15th Jerusalem Marathon, scheduled for March 27, offers special discounts for IDF reservists and security forces."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump will not meet Iran’s ‘Crown Prince’ Pahlavi as protests intensify",
-      "url": "https://www.aljazeera.com/news/2026/1/9/trump-says-meeting-irans-crown-prince-pahlavi-would-not-be-appropriate?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T04:14:59.000Z",
-      "summary": "US president signals he is not ready to back the Israel-aligned opposition figure to lead Iran in case of regime change."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -650,16 +690,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-9f62-d01b-a7db-9f7e326e0001/61/5a/e2920bd843d0962517cbcbbfb453/329793.jpg?height=81",
       "published_at": "2026-01-09T04:00:00.000Z",
       "summary": "Desperation is driving Iranians into the streets, where they're shouting 'Death to Khamenei.' The roots of these intensifying protests lie both in decades of deficits and sanctions to the panic that hit markets after last year's 12 day war with Israel"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Brazil’s President Lula vetoes bill to trim Bolsonaro prison sentence",
-      "url": "https://www.aljazeera.com/news/2026/1/9/brazils-president-lula-vetoes-bill-to-trim-bolsonaro-prison-sentence?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T03:58:25.000Z",
-      "summary": "The opposition-controlled Congress voted in December to pass a bill that would reduce Bolsonaro&#039;s 27-year sentence."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -705,9 +735,9 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Israeli settlers raid school, set class, cars ablaze in two West Bank villages",
+      "title": "IDF says it is targeting Hezbollah in wave of strikes in Lebanon",
       "url": "https://www.haaretz.com/israel-news/2026-01-09/ty-article-live/trump-says-59-countries-willing-to-intervene-in-gaza-if-hamas-refuses-to-disarm/0000019b-a0b5-dd39-a7ff-ebbfdc650000",
-      "image": "https://img.haarets.co.il/bs/0000019b-a1f2-dd39-a7ff-ebfac93a0001/97/b6/8c11d56c44c98b97c4795ad76204/6ba0cfc5-c81b-4a47-872b-b1d2385286ee.jfif?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-a25f-d724-a7fb-e65f086b0001/4e/d4/bf9971824305ab929897ac92ef77/whatsapp-image-2026-01-09-at-12-33-20-pm.jpeg?height=81",
       "published_at": "2026-01-09T03:19:33.000Z",
       "summary": ""
     },
@@ -800,16 +830,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b7/live/b3db60c0-ec6b-11f0-b5f7-49f0357294ff.jpg",
       "published_at": "2026-01-09T01:20:32.000Z",
       "summary": "The murder of Anjel Chakma has triggered protests in India and revived demands for an anti-racism law."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump says he doesn’t need international law amid aggressive US policies",
-      "url": "https://www.aljazeera.com/news/2026/1/9/trump-says-he-doesnt-need-international-law-amid-aggressive-us-policies?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T01:19:25.000Z",
-      "summary": "UN rapporteur tells Al Jazeera she is concerned that the world may be returning to an &#039;age of imperialism&#039;."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -952,16 +972,6 @@
       "summary": "\"חשיפה\" של נתניהו: ראש הממשלה הצהיר השבוע בנגב שהקואליציה תחזיר אותו למדינה. מי איבד את הנגב? | הציניות והבחירות: נתניהו מעצים את השיח סביב הציבור הערבי כדי לפסול שותפות של המפלגות שמייצגות אותו בקואליציה של גוש השינוי | את בן גביר ישרת עימות קטלני בין שוטרים לערבים  "
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Jewish mayor of Minneapolis returns to the spotlight after deadly ICE shooting",
-      "url": "https://www.timesofisrael.com/jewish-mayor-of-minneapolis-returns-to-the-spotlight-after-deadly-ice-shooting/",
-      "image": null,
-      "published_at": "2026-01-08T22:39:01.000Z",
-      "summary": "Jacob Frey, whose city was epicenter of 2020 unrest amid George Floyd killing, calls on federal immigration agency to 'get the f–k out' after woman shot dead by officer\nThe post Jewish mayor of Minneapolis returns to the spotlight after deadly ICE shooting appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1080,16 +1090,6 @@
       "image": null,
       "published_at": "2026-01-08T22:00:00.000Z",
       "summary": "היכולת לחוש מה שני צידי המתרס הפוליטי מרגישים יכולה להיות ברכה, אבל גם קללה"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "תושבי בארי הכריעו: הבית היחיד בקיבוץ שלא ייהרס. זהו סיפורו",
-      "url": "https://www.ynet.co.il/news/article/yokra14635750",
-      "image": null,
-      "published_at": "2026-01-08T22:00:00.000Z",
-      "summary": "שריד אחרון מהטבח: הבתים השרופים ברחבי בארי ייהרסו בזה אחר זה, אך בית אחד בקיבוץ יישאר על תילו"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
