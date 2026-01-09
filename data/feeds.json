@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-09T16:12:39.544Z",
+  "generated_at": "2026-01-09T16:49:56.592Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -22,6 +22,86 @@
       "summary": "A bold new Jewish-Arab comedy, “Bella,” uses humor to explore shared pain."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US seizes fifth oil tanker linked to Venezuela, officials say ",
+      "url": "https://www.bbc.com/news/articles/cdxj28xd542o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/036b/live/8172cd70-ed70-11f0-a422-4ba8a094a8fa.jpg",
+      "published_at": "2026-01-09T16:33:56.000Z",
+      "summary": "The tanker, the Olina, is on multiple countries' sanctions list and is \"suspected of carrying embargoed oil\", US officials say.\n"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Israeli man from Bnei Brak sentenced to eight years for abuse of seven vulnerable women",
+      "url": "https://www.haaretz.com/israel-news/2026-01-09/ty-article/.premium/bnei-brak-man-sentenced-to-eight-years-for-abuse-of-seven-vulnerable-women/0000019b-a34d-d01b-a7db-b75d0ab80000",
+      "image": "https://img.haarets.co.il/bs/0000019b-a377-d724-a7fb-e7771cde0001/48/c7/61e7c721479bb37f5cf05baf4a80/599455.jpg?height=81",
+      "published_at": "2026-01-09T16:32:25.000Z",
+      "summary": "Avraham Ya'akov Perlmutter confessed to multiple serious offenses, many committed after drugging his victims into unconsciousness, including shaving the hair of three women – a 'sadistic act intended to humiliate, erase identity, and inflict psychological and aesthetic harm,' according to the judge"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump's grand plan to reshape the world order leaves Europe with a difficult choice to make",
+      "url": "https://www.bbc.com/news/articles/c041n3ng03no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd1/live/eb492840-ec7e-11f0-b385-5f48925de19a.jpg",
+      "published_at": "2026-01-09T16:30:41.000Z",
+      "summary": "The turbocharged events of the last week - and the new US National Security Strategy - raise pressing questions about the new world order, and what it means for Europe"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Kurdish leader urges dialogue to avoid ‘real disaster in Aleppo’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/kurdish-leader-urges-dialogue-to-avoid-real-disaster-in?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T16:28:11.000Z",
+      "summary": "Kurdish political leader Ahmad Suleiman is urging dialogue between the Syrian army and the Kurdish-led SDF."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Kibbutz Alumim members gather in Tel Aviv, call for return of hostage Ran Gvili’s body",
+      "url": "https://www.timesofisrael.com/kibbutz-alumim-members-gather-in-tel-aviv-call-for-return-of-hostage-ran-gvilis-body/",
+      "image": null,
+      "published_at": "2026-01-09T16:27:07.000Z",
+      "summary": "Gvili's father rejects regional council head's apology for death of son, who came to kibbutz to fight on Oct. 7: 'Rani went there to fight. He knew where he was going'\nThe post Kibbutz Alumim members gather in Tel Aviv, call for return of hostage Ran Gvili’s body appeared first on The Times of Israe"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Aleppo clashes highlight challenge of SDF integration for Syria",
+      "url": "https://www.aljazeera.com/news/2026/1/9/aleppo-clashes-highlight-challenge-of-sdf-integration-for-syria?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T16:25:19.000Z",
+      "summary": "Analysts say a temporary ceasefire may bring relief, but the complex issues behind the violence must be addressed."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Chinese, Russian and Iranian warships arrive for drills in South Africa",
+      "url": "https://www.aljazeera.com/news/2026/1/9/chinese-russian-and-iranian-warships-arrive-for-drills-in-south-africa?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T16:24:58.000Z",
+      "summary": "Naval exercises come as tensions run high after US military intervention in Venezuela, seizures of several oil tankers."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Dissolution of Yemen’s separatists was “only a matter of time”",
+      "url": "https://www.aljazeera.com/video/quotable/2026/1/9/dissolution-of-yemens-separatists-was-only-a-matter-of?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T16:11:50.000Z",
+      "summary": "&quot;The [Southern Transitional Council in Yemen] has now become just too poisonous.&quot;"
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -30,6 +110,26 @@
       "image": null,
       "published_at": "2026-01-09T16:11:25.000Z",
       "summary": "Sharif Mufak Hadid, a 26-year-old from Daliat al-Carmel, was fatally shot on Highway 6 by Shalev Hajaj, a 21-year-old off-duty IDF soldier who was in civilian clothes at the time."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Nigeria coach steers clear of Osimhen fallout and unpaid bonus rumours",
+      "url": "https://www.aljazeera.com/sports/2026/1/9/nigeria-coach-steers-clear-of-osimhen-fall-out-and-unpaid-bonuses-rumours?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T16:09:13.000Z",
+      "summary": "Nigeria are dealing with reports of unpaid bonuses and Victor Osimhen spat before facing Algeria in AFCON quarterfinal."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "LIVE: Cameroon vs Morocco – 2025 AFCON quarterfinal",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/1/9/live-cameroon-vs-morocco-2025-afcon-quarterfinal?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-09T16:00:42.000Z",
+      "summary": "Follow our live build-up, with team news coverage, ahead of our full text commentary stream of the last-eight match."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -52,6 +152,16 @@
       "summary": " Jacques Moretti is being held as a potential flight risk, Swiss media reports say."
     },
     {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trial starts of man accused of inciting teenagers to harm themselves online",
+      "url": "https://www.bbc.com/news/articles/cje1vjpwje4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661f/live/aa428600-ab5d-11f0-b0f1-8b73bbc9408d.jpg",
+      "published_at": "2026-01-09T15:42:38.000Z",
+      "summary": "Prosecutors in Hamburg accuse him of grooming children and teenagers to harm  themselves live online. "
+    },
+    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -60,16 +170,6 @@
       "image": null,
       "published_at": "2026-01-09T15:36:11.000Z",
       "summary": "ב-5 בדצמבר רות פלת, עובדת סוציאלית, כתבה לאימה שיצאה להליכה ותשוב תוך 3 שעות, אך מאז נעלמו עקבותיה. אימה סיפרה כי היא רצתה לעבור לגור איתה לאחר שחוותה קשיים נפשיים: \"רות אדם עדין וטוב. היא נתקלה במקרים קשים ועזרה לאנשים מכספה. 7/10 השפיע עליה מאוד. אני חייבת לדעת מה קרה לה\""
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US seizes another oil tanker linked to Venezuela, officials say ",
-      "url": "https://www.bbc.com/news/articles/cdxj28xd542o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/036b/live/8172cd70-ed70-11f0-a422-4ba8a094a8fa.jpg",
-      "published_at": "2026-01-09T15:34:43.000Z",
-      "summary": "The tanker, the Olina, is on multiple countries' sanctions list and is \"suspected of carrying embargoed oil\", US officials said.\n"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -225,7 +325,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Algeria vs Nigeria: AFCON 2025 – team news, start time and lineups",
+      "title": "Nigeria vs Algeria: AFCON 2025 quarterfinal – team news, start and lineups",
       "url": "https://www.aljazeera.com/sports/2026/1/9/algeria-vs-nigeria-afcon-2025-team-news-start-time-lineups-osimhen-lookman-mahrez?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-09T13:41:07.000Z",
@@ -442,16 +542,6 @@
       "summary": "IDF soldiers were deployed to the scene in the outskirts of Jalud, a village under the jurisdiction of the Samaria Brigade, but found no suspects. "
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump's grand plan to reshape the world order leaves Europe with a difficult choice to make",
-      "url": "https://www.bbc.com/news/articles/c041n3ng03no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd1/live/eb492840-ec7e-11f0-b385-5f48925de19a.jpg",
-      "published_at": "2026-01-09T12:11:35.000Z",
-      "summary": "The turbocharged events of the last week - and the new US National Security Strategy - raise pressing questions about the new world order, and what it means for Europe"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -460,16 +550,6 @@
       "image": null,
       "published_at": "2026-01-09T12:11:23.000Z",
       "summary": "משבי רוח של 100 קמ\"ש באזור החוף, נזקים כבדים - וטרגדיה בחוף תאיו: גולש עף מהים למרחק של יותר מ-150 מטר, הוטח בסלע - ונהרג. \"נקלענו לטורנדו\", העיד חברו. עצים רבים קרסו, באשקלון ובראשל\"צ נפצעו נוסעים ברכב. עיכובים בנחיתות בנתב\"ג, מטוסים חגים באוויר. כל העדכונים מהסערה - ומכ\"ם הגשם"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Amid protests, Khamenei digs in, vows Iran won’t ‘back down’ to &#8216;vandals and saboteurs&#8217;",
-      "url": "https://www.timesofisrael.com/amid-protests-khamenei-digs-in-vows-iran-wont-back-down-to-vandals-and-saboteurs/",
-      "image": null,
-      "published_at": "2026-01-09T12:10:44.000Z",
-      "summary": "Islamic Republic's supreme leader says Trump, who's threatened to hit Iran if demonstrators are killed, has hands 'stained with the blood of Iranians' and will be 'overthrown'\nThe post Amid protests, Khamenei digs in, vows Iran won’t ‘back down’ to &#8216;vandals and saboteurs&#8217; appeared first "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -752,16 +832,6 @@
       "summary": "According to the sources, four were killed in a strike in the Zeitoun neighborhood of Gaza City. The IDF said it targeted Hamas operatives and terror infrastructure in response to a failed rocket launch from Gaza City toward Israel"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "It’s not the oil. It’s Florida",
-      "url": "https://www.aljazeera.com/opinions/2026/1/9/its-not-the-oil-its-florida?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T08:49:46.000Z",
-      "summary": "Nicolas Maduro’s kidnapping is about the US state&#039;s politics, not Venezuela’s oil."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -790,16 +860,6 @@
       "image": null,
       "published_at": "2026-01-09T08:44:24.000Z",
       "summary": "ראש ממשלת סמואה שבאוקיינוס השקט הורה להתחיל בהכנות לפתיחת שגרירות בבירה. \"עומדים לצד ישראל\", אמר עם השבעתו. ישראלים שטיילו בסמואה סיפרו על האהבה שהורעפה עליהם: \"זה היה מטורף\". אבל פעילה מסמואה שגרה באוסטרליה אמרה: \"החלטה מזעזעת, אבותינו נלחמו לעצמאות משלטון קולוניאלי\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Ukraine calls on allies to raise pressure as Russia fires Oreshnik missile",
-      "url": "https://www.aljazeera.com/news/2026/1/9/ukraine-calls-on-allies-to-raise-pressure-as-russia-fires-oreshnik-missile?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T08:28:10.000Z",
-      "summary": "Kyiv labelled the use of the weapon close to the EU and NATO border a &#039;grave threat&#039; to European security."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -832,26 +892,6 @@
       "summary": "הישראלי גפן ביטון, שהסתער על אחד המחבלים בטבח, נפגע מירי וקיבל מעמד של תושב קבע באוסטרליה בעקבות גבורתו, נחת להמשך טיפול בשיבא - בסיומו של מבצע פינוי רפואי מוטס שארך עשרות שעות ועלותו הייתה מאות אלפי דולרים"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Conservative lawmaker in Honduras injured after being hit with explosive",
-      "url": "https://www.aljazeera.com/news/2026/1/9/conservative-lawmaker-in-honduras-injured-after-being-hit-with-explosive?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T07:59:49.000Z",
-      "summary": "The incident underscores the tense political environment in Honduras in the wake of its contested presidential election."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Somaliland recognition: Israel’s foothold in the Horn of Africa",
-      "url": "https://www.aljazeera.com/news/2026/1/9/somaliland-recognition-israels-foothold-in-the-horn-of-africa?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T07:51:38.000Z",
-      "summary": "Critics view Israel&#039;s moves in the Horn of Africa as part of Netanyahu&#039;s expansive conflict and influence agenda."
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -860,26 +900,6 @@
       "image": null,
       "published_at": "2026-01-09T07:50:34.000Z",
       "summary": "The poll also found that appointing Brig.-Gen. (res.) Ofir Winter to head Religious Zionist Party in place of Bezalel Smotrich would allow the party to cross the threshold with six seats."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Heavy fighting in Aleppo, Syria, after talks with SDF collapse",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/heavy-fighting-in-aleppo-syria-after-talks-with-sdf-collapse?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T07:33:00.000Z",
-      "summary": "Clashes began in Aleppo after talks on integrating the Syrian Democratic Forces into the national army stalled."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Venezuela releases imprisoned political figures in Trump-approved move",
-      "url": "https://www.aljazeera.com/news/2026/1/9/venezuela-releases-imprisoned-political-figures-in-trump-approved-move?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T07:32:34.000Z",
-      "summary": "Former Venezuelan opposition candidate Enrique Marquez is among &#039;large number&#039; of prisoners released."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -949,7 +969,7 @@
       "url": "https://www.haaretz.com/israel-news/2026-01-09/ty-article/.premium/netanyahu-and-his-poison-machines-war-against-israels-heroic-ag-is-reaching-zero-hour/0000019b-9f50-dd39-a7ff-ff7a7cde0000",
       "image": "https://img.haarets.co.il/bs/0000019b-9faf-dd67-a9ff-9faf9a890001/e2/97/dfb431e64f408f88ab20b2961bed/biderman-verter.jpg?height=81",
       "published_at": "2026-01-09T04:02:16.000Z",
-      "summary": "Gali Baharav-Miara continues to display rare mental fortitude in the face of attacks by the coalition and the poison machine, while those around her are disappointed that the public hasn't gone out into the streets as it did two years ago"
+      "summary": "Gali Baharav-Miara continues to display rare mental fortitude in the face of attacks by the governing coalition and the prime minister's poison machine, but associates of hers are disappointed that Israelis haven't gone out into the streets as they did two years ago"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2300,16 +2320,6 @@
       "image": "https://img.haarets.co.il/bs/00000197-874b-de6d-a3b7-f7cbf1ca0001/d2/e4/15fa4d4a4ce481ba3aa0dd2436ca/img-8674.webp?height=81",
       "published_at": "2026-01-06T22:21:24.000Z",
       "summary": "Differentials in rates of protection are especially large in the country's periphery, even though hospitals there are closer to the border and provide the first line of care to security forces and civilians caught up in war"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Haaretz Cartoon",
-      "url": "https://www.haaretz.com/opinion/daily-cartoon/2026-01-06/ty-article-opinion/haaretz-cartoon/0000019b-953c-d171-adbb-bd3fc07d0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-953d-d171-adbb-bd3f41830001/6a/a1/245ee9f74783b638ee70a339e0f6/eran-cartoon.jpg?height=81",
-      "published_at": "2026-01-06T21:38:06.000Z",
-      "summary": ""
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
