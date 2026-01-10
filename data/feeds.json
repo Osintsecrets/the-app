@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-01-10T15:37:46.247Z",
+  "generated_at": "2026-01-10T16:10:29.246Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "ליאור הוא הגולש שנהרג בבת ים: \"אהבת כל כך את הרוח, בסוף היא לקחה אותך\"",
+      "url": "https://www.ynet.co.il/news/article/syc7z3ybzg",
+      "image": null,
+      "published_at": "2026-01-10T16:00:31.000Z",
+      "summary": "ליאור דדון, גולש קייט, נהרג בחוף הים בעקבות מזג האוויר הסוער ביום שישי. חבריו הדליקו נר לזכרו במועדון הגולשים בחוף תאיו, חברו: \"נקלענו לתוך טורנדו רוח קיצונית, והוא עף כ-200 מטר ונחבט בסלע\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Thousands of Irish farmers protest EU’s Mercosur trade deal",
+      "url": "https://www.aljazeera.com/news/2026/1/10/thousands-of-irish-farmers-protest-eu-mercosur-trade-deal?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-10T15:54:06.000Z",
+      "summary": "Farmers flood the streets of Athlone to raise concerns over the trade deal&#039;s impact on Ireland&#039;s beef industry."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Milano Cortina Winter Olympics threatened by Cloudflare funding withdrawal",
+      "url": "https://www.aljazeera.com/sports/2026/1/10/milano-cortina-winter-olympics-threatened-by-cloudfare-funding-withdrawal?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-10T15:49:44.000Z",
+      "summary": "Cloudflare CEO threatens withdrawal of Milano Cortina Olympics funding following fine by Italy communications watchdog."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Einav Zangauker considering entering politics &#8216;to send home&#8217; Netanyahu",
+      "url": "https://www.timesofisrael.com/einav-zangauker-considering-entering-politics-to-send-home-netanyahu/",
+      "image": null,
+      "published_at": "2026-01-10T15:46:27.000Z",
+      "summary": "Prominent activist and mother of freed captive Matan Zangauker declares her 'life's mission' is to remove from power those 'had their hand on the wheel' on Oct. 7\nThe post Einav Zangauker considering entering politics &#8216;to send home&#8217; Netanyahu appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Yemen evacuates stranded tourists from remote island after UAE troop pullout amid Saudi rift",
+      "url": "https://www.haaretz.com/middle-east-news/2026-01-10/ty-article/yemen-evacuates-stranded-tourists-from-remote-island-after-uae-troop-pullout/0000019b-a884-dd39-a7ff-ebbe09d40000",
+      "image": "https://img.haarets.co.il/bs/0000019b-a88b-dd39-a7ff-ebbb18270000/a8/4d/be5d7ace4946882deeadcf7b4176/305511.jpg?height=81",
+      "published_at": "2026-01-10T15:45:07.000Z",
+      "summary": "Aden airport was closed last week by the separatist Southern Transitional Council amid a worsening rift between the UAE and Saudi Arabia, which now support rival factions in the country's civil war. More than 600 stranded tourists were evacuated"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Morocco coach angrily rejects AFCON ref bias for hosts before semifinals",
+      "url": "https://www.aljazeera.com/sports/2026/1/10/morocco-coach-angrily-rejects-afcon-ref-bias-ahead-of-semifinals?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-10T15:33:19.000Z",
+      "summary": "Morocco progressed to the semifinals beating Cameroon 2-0 but Indominable Lions felt they had two clear penalties."
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -89,7 +149,7 @@
       "url": "https://www.aljazeera.com/news/2026/1/10/drone-hits-aleppo-governorate-building-after-syrian-army-declares-ceasefire?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-10T14:50:15.000Z",
-      "summary": "The strike marks a widening of hostilities which had been contained to Ashrafieh and Sheikh Maqsoud neighbourhoods."
+      "summary": "The strike marks a widening of hostilities that had been contained to Ashrafieh and Sheikh Maqsoud neighbourhoods."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -97,7 +157,7 @@
       "topic": "News",
       "title": "Video emerges of Minneapolis shooting filmed by ICE agent who opened fire",
       "url": "https://www.bbc.com/news/articles/cz7yv4524gqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6635/live/3ff88ca0-ed9c-11f0-b385-5f48925de19a.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba49/live/3d8a3990-ee3d-11f0-a422-4ba8a094a8fa.jpg",
       "published_at": "2026-01-10T14:42:37.000Z",
       "summary": "The clip shows the moments before gunfire rang out on a Minneapolis street."
     },
@@ -542,16 +602,6 @@
       "summary": "Al Jazeera&#039;s Resul Serdar Atas recounts scenes from Aleppo amid escalating clashes between the Syrian army and the SDF."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "New video on Minnesota ICE shooting emerges as public anger grows across US",
-      "url": "https://www.aljazeera.com/news/2026/1/10/new-video-on-minnesota-ice-shooting-emerges-as-public-anger-grows-across-us?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-10T08:22:47.000Z",
-      "summary": "The 47-second video shows the shooting from the perspective of ICE officer Jonathan Ross, who fired the shots."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -560,16 +610,6 @@
       "image": null,
       "published_at": "2026-01-10T07:23:41.000Z",
       "summary": "ב\"טיים\" האמריקני דווח על לפחות 217 הרוגים תוך יומיים רק בטהרן, ורופא בעיר ציין כי חלקם נורו למוות באמצעות מקלעים מחוץ לתחנת משטרה. דיווחים נוספים על בתי חולים \"מוצפים\". משמרות המהפכה הזהירו את המוחים, יורש העצר הגולה קרא: \"לכבוש מרכזי ערים\". טראמפ איים שוב: \"יהרגו כמו בעבר? נכה חזק מאוד\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump meets US oil bosses to discuss Venezuela extraction",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/10/trump-meets-us-oil-bosses-to-discuss-venezuela-extraction?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-10T07:05:24.000Z",
-      "summary": "President Donald Trump said his administration will decide which oil companies are allowed to operate in Venezuela."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -600,16 +640,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ac7/live/2f966e60-ebd3-11f0-b385-5f48925de19a.jpg",
       "published_at": "2026-01-10T06:19:34.000Z",
       "summary": "The New Year's Eve fire at a bar in Crans-Montana killed 40 people and injured 116. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "India-Bangladesh tensions rock cricket, as sport turns diplomatic weapon",
-      "url": "https://www.aljazeera.com/news/2026/1/10/india-bangladesh-tensions-rock-cricket-as-sport-turns-diplomatic-weapon?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-10T06:17:04.000Z",
-      "summary": "Indian league dumps Bangladeshi bowler amid bilateral tensions, prompting cricket&#039;s latest political crisis. "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -765,11 +795,11 @@
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
-      "title": "Khamenei said to put IRGC on highest state of alert as protests enter 14th day",
+      "title": "Iran&#8217;s AG warns anyone involved in protests could face death penalty, be labeled &#8216;enemy of God&#8217;",
       "url": "https://www.timesofisrael.com/liveblog-january-10-2026/",
       "image": null,
       "published_at": "2026-01-10T01:19:56.000Z",
-      "summary": "State Department slams ‘delusional’ Iran FM after he claims US and Israel fueling protests * GOP's Lindsey Graham welcomes PM's talk of forgoing US military aid, calls to speed up timeline\nThe post Khamenei said to put IRGC on highest state of alert as protests enter 14th day appeared first on The T"
+      "summary": "X replaces Islamic Republic flag emoji with Shah-era Iran flag amid mass protests * Syria began transferring Kurdish fighters from Aleppo to northeast, state media says\nThe post Iran&#8217;s AG warns anyone involved in protests could face death penalty, be labeled &#8216;enemy of God&#8217; appeared"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -890,16 +920,6 @@
       "image": null,
       "published_at": "2026-01-09T21:54:20.000Z",
       "summary": "רוסיה שיגרה בפעם השנייה בלבד את הטיל הבליסטי ההיפרסוני \"אורשניק\" במתקפה על מערב אוקראינה - 60 ק\"מ בלבד מגבול פולין. הטיל מסוגל לפגוע בכל אירופה ולשאת תיאורטית נשק גרעיני, עם ראש קרב שמתפצל ל-6 ראשים - שמתפצלים בתורם ל-6 תתי-חימושים. לפי מוסקבה זוהי נקמה על ניסיון פגיעה לכאורה במעונו של פוטין - טענה "
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Trump says Iran in &#8216;big trouble,&#8217; US will &#8216;get involved&#8217; if regime kills protesters",
-      "url": "https://www.timesofisrael.com/trump-says-iran-in-big-trouble-us-will-get-involved-if-regime-kills-protesters/",
-      "image": null,
-      "published_at": "2026-01-09T21:50:56.000Z",
-      "summary": "US president says 'that doesn't mean boots on the ground'; Macron, Starmer and Merz issue joint statement condemning killing of demonstrators, urge Tehran to exercise 'restraint'\nThe post Trump says Iran in &#8216;big trouble,&#8217; US will &#8216;get involved&#8217; if regime kills protesters appe"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1090,16 +1110,6 @@
       "image": null,
       "published_at": "2026-01-09T17:24:14.000Z",
       "summary": "מאז המהפכה האיסלאמית ב-1979, אזרחי איראן ניסו כמה פעמים לערער את שלטון האייתוללות, אך בכל פעם המשטר הצליח לדכא באלימות את המחאות. ממחאת הסטודנטים הראשונה, דרך \"התנועה הירוקה\" שהוציאה מיליונים לרחובות - ועד מהסא אמיני. וגם: כך הסלימה \"מחאת הריאל\" הנוכחית"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "החיבוק של שורד השבי עם הורי החטוף האחרון: \"נשיב את רן - ונסיים את הפרק הארור\"",
-      "url": "https://www.ynet.co.il/news/article/r1ub2iavbe",
-      "image": null,
-      "published_at": "2026-01-09T17:07:51.000Z",
-      "summary": "826 ימים אחרי שנחטף רן גואילי, משפחתו וחברי הקיבוץ שבקרב עליו נפל התכנסו בכיכר בת\"א. במזג אוויר אוויר סוער הם דרשו: בלי החזרת החטוף האחרון - אין מעבר לשלב ב'. בר קופרשטיין סיפר על השבת שנתנה לו כוח גם בשבי, והבטיח להמשיך להיאבק: \"לא אתן לאף משפחה להרגיש את תחושת הייסורים\""
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2270,16 +2280,6 @@
       "image": "https://gif.haarets.co.il/bs/0000019b-8953-db5e-adbf-fff30ff10001/da/cb/a7fdca3d40a1b5eb894ee7046e36/culture-roundup-04-01-26-homepage.gif?height=81",
       "published_at": "2026-01-07T14:46:00.000Z",
       "summary": "After a successful run in Tel Aviv, the script of \"SHURA\" is now available in book form. Plus, Nadav Lapid's movie \"Yes!\" finally hits theaters, and the Tel Aviv Museum of Art goes back to 1945"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Court renews ban on Qatargate suspect from meeting Netanyahu after restrictions expire",
-      "url": "https://www.haaretz.com/israel-news/2026-01-07/ty-article/.premium/court-renews-ban-on-qatargate-suspect-from-meeting-netanyahu-after-restrictions-expire/0000019b-9833-d171-adbb-b937b1de0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-986b-d810-af9f-dfeb6d1f0000/8a/64/d37a6b9647fd8d4c3d61f228ece8/300888-2.jpg?height=81",
-      "published_at": "2026-01-07T13:16:19.000Z",
-      "summary": "The decision comes after a judge rejected a police motion to extend the restrictions, stating that 'this is a failure' on their part, as they 'submitted the request less than two hours before the restricitons expired'"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
