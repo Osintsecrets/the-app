@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-10T10:09:06.368Z",
+  "generated_at": "2026-01-10T10:41:17.957Z",
   "items": [
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -10,6 +10,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8bd/live/9d536610-edfe-11f0-b5f7-49f0357294ff.jpg",
       "published_at": "2026-01-10T09:51:28.000Z",
       "summary": "There were signs authorities were intensifying their crackdown as protests continued."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Death toll in Philippines landfill collapse hits 4, dozens still trapped",
+      "url": "https://www.aljazeera.com/news/2026/1/10/death-toll-in-philippines-landfill-collapse-hits-4-dozens-still-trapped?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-10T09:50:05.000Z",
+      "summary": "Dozens of rescuers race against time to find more survivors in dangerous conditions in the rubble."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -39,7 +49,7 @@
       "url": "https://www.timesofisrael.com/netanyahu-says-he-seeks-to-end-us-military-aid-to-israel-within-a-decade/",
       "image": null,
       "published_at": "2026-01-10T09:08:31.000Z",
-      "summary": "PM tells Economist he won't seek full renewal of 10-year assistance package in 2028; key Trump ally Graham welcomes comments, amid growing MAGA skepticism of funds to Jerusalem\nThe post Netanyahu says he seeks to end US military aid to Israel within a decade appeared first on The Times of Israel.\n"
+      "summary": "PM tells Economist he won't seek full renewal of 10-year assistance package in 2028; key Trump ally Graham says why wait so long, amid growing MAGA skepticism of funds to Jerusalem\nThe post Netanyahu says he seeks to end US military aid to Israel within a decade appeared first on The Times of Israel"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -75,11 +85,11 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "הדיווח על מאות הרוגים בטהרן, והאיום החוזר של טראמפ: \"איראן בצרה גדולה\"",
+      "title": "דיווח על מאות הרוגים בטהרן; האיום החוזר של טראמפ - וה\"קו האדום\" של משמרות המהפכה",
       "url": "https://www.ynet.co.il/news/article/h1mnf001swe",
       "image": null,
       "published_at": "2026-01-10T07:23:41.000Z",
-      "summary": "ב\"טיים\" האמריקני דווח על לפחות 217 הרוגים תוך יומיים רק בטהרן, ורופא בעיר ציין כי חלקם נורו למוות באמצעות מקלעים מחוץ לתחנת משטרה. באיראן דווח על הרוגים גם ממשמרות המהפכה, ויורש העצר הגולה קרא \"להשבית את המשק ולכבוש מרכזי ערים\". טראמפ איים שוב: \"אם יהרגו כמו בעבר - נכה חזק מאוד\""
+      "summary": "ב\"טיים\" האמריקני דווח על לפחות 217 הרוגים תוך יומיים רק בטהרן, ורופא בעיר ציין כי חלקם נורו למוות באמצעות מקלעים מחוץ לתחנת משטרה. דיווחים נוספים על בתי חולים \"מוצפים\". משמרות המהפכה הזהירו את המוחים, יורש העצר הגולה קרא: \"לכבוש מרכזי ערים\". טראמפ איים שוב: \"יהרגו כמו בעבר? נכה חזק מאוד\""
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -880,16 +890,6 @@
       "image": null,
       "published_at": "2026-01-09T17:48:35.000Z",
       "summary": "זו דילמה אכזרית עבור ההורים: כשהמצב של הבן או הבת מתמודדי הנפש מידרדר, והם הופכים מסוכנים, הפתרון היחיד הוא להזעיק משטרה ולהסתכן במעצר אלים וטראומתי - שלעיתים נגמר בטרגדיה. הסיפור של א' שקם משינה לשוטרים בדירה, והמודל החדש שמנסה לתקן את הבעיה אבל פעיל רק בתל אביב: \"המשטרה פשוט לא יכולה להציע פתרון. "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "New video said to show Syrian army shelling Aleppo’s Sheikh Maqsoud area",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/new-video-said-to-show-syrian-army-shelling-aleppos-sheikh-maqsoud-area?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T17:44:28.000Z",
-      "summary": "The Kurdish-led Syrian Democratic Forces have shared new video of the Syrian army shelling a large weapons depot."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
