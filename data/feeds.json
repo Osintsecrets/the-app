@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-10T13:03:27.318Z",
+  "generated_at": "2026-01-10T13:43:48.847Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -32,14 +32,84 @@
       "summary": "During the meeting, Netanyahu insisted that \"Hamas must be disarmed and the Gaza Strip must be demilitarized in accordance with the 20-point plan of US President Donald Trump.\""
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "תיעוד חריג: השוטרים פרצו לחתונה - ונחשפו לילד שרוקד עם אקדח",
+      "url": "https://www.ynet.co.il/news/article/h1buf01bbg",
+      "image": null,
+      "published_at": "2026-01-10T13:32:20.000Z",
+      "summary": "בחתונה שהתקיימה באלעיזריה שליד מעלה אדומים תפסו לוחמי מג\"ב ושוטרי מחוז ש\"י שני אקדחים ורובה מסוג M-16. החתן ואביו נעצרו יחד עם 4 חוגגים נוספים, אחרי שאפילו פעוט הונף על הידיים בעודו אוחז באקדח: \"סיכנו חיי אדם\""
+    },
+    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
       "title": "US film stars Meagan Good and Jonathan Majors become Guinea citizens after DNA tests",
       "url": "https://www.bbc.com/news/articles/c8d04zp8m26o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e14/live/db898020-ee19-11f0-8692-012f383b8e06.jpg",
-      "published_at": "2026-01-10T12:56:21.000Z",
+      "published_at": "2026-01-10T13:28:08.000Z",
       "summary": "The pair join other US celebrities reconnecting with their African heritage and taking up citizenship."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Iran&#8217;s internet remains cut off after 36 hours amid deadly anti-regime protests",
+      "url": "https://www.timesofisrael.com/irans-internet-remains-cut-off-after-36-hours-amid-deadly-anti-regime-protests/",
+      "image": null,
+      "published_at": "2026-01-10T13:28:04.000Z",
+      "summary": "Khamenei said to put IRGC on highest alert as protests enter 14th day; unconfirmed report claims hundreds killed; Iran blames violence on US, Israel\nThe post Iran&#8217;s internet remains cut off after 36 hours amid deadly anti-regime protests appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Iran medics describe overwhelmed hospitals as protests continue",
+      "url": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e5/live/c59827a0-ee21-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-10T13:12:36.000Z",
+      "summary": "There were signs authorities were intensifying their crackdown as protests continued."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Israel issues demolition order for occupied West Bank football pitch",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/10/israel-issues-demolition-order-for-occupied-west-bank-football-pitch?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-10T13:11:47.000Z",
+      "summary": "Israeli authorities have issued a demolition order against a football pitch in a Palestinian refugee camp."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Sabalenka’s Australian Open prep sets up Brisbane final against Kostyuk",
+      "url": "https://www.aljazeera.com/sports/2026/1/10/sabalenkas-australian-open-prep-sets-up-brisbane-final-against-kostyuk?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-10T13:09:23.000Z",
+      "summary": "Aryna ‌Sabalenka beats Karolina Muchova to reach Brisbane Open final where she will defend title against Marta Kostyuk."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "In search of Sweden’s lost empathy",
+      "url": "https://www.aljazeera.com/opinions/2026/1/10/in-search-of-swedens-lost-empathy?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-10T13:08:23.000Z",
+      "summary": "The Sweden that welcomed me as a Bosnian refugee in 1993 is no longer. I wish it would come back."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "LIVE: Algeria vs Nigeria – AFCON 2025 quarterfinal",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/1/10/live-algeria-vs-nigeria-afcon-2025-quarterfinal?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-10T13:00:00.000Z",
+      "summary": "Follow the build-up, analysis and live text commentary of the game as Algeria play Nigeria for a place in the last four."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -49,7 +119,47 @@
       "url": "https://www.ynet.co.il/news/article/byvguayswe",
       "image": null,
       "published_at": "2026-01-10T12:55:53.000Z",
-      "summary": "א', בן העדה האתיופית, סירב להכניס לכותל רכב שבו נהג שוטר משום שלא החזיק באישור כניסה. בתגובה, הוא נעצר, פוטר, ונלקח ממנו נשקו: \"אני מטפל בהוריי, הייתי לוחם בגבעתי, התנדבתי שנים במשטרה. אני לא איש שמאיים\". השוטר נחקר במח\"ש בחשד לתלונת שווא, המשטרה: \"התלונה בדבר תלונת סרק אינה נכונה\""
+      "summary": "א', בן העדה האתיופית, סירב להכניס רכב שבו נהג השוטר למתחם - משום שלא החזיק באישור. בתגובה, הוא נעצר, פוטר, ונלקח ממנו נשקו: \"אני מטפל בהוריי, התנדבתי שנים במשטרה, הייתי לוחם. אני לא איש שמאיים\". נפתחה חקירה נגד השוטר בחשד לתלונת שווא, המשטרה: \"הטענות על תלונת סרק אינן נכונות\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Bangladesh cricket ‘affected’ by off-field tensions ahead of T20 World Cup",
+      "url": "https://www.aljazeera.com/sports/2026/1/10/bangladesh-cricket-affected-by-off-field-tensions-ahead-of-t20-world-cup?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-10T12:53:23.000Z",
+      "summary": "Bangladesh Test captain Najmul Hossain Shanto has spoken of the pressure on teammates as T20 World Cup looms in India."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Extreme cold kills another infant in Gaza as Israel blocks vital aid",
+      "url": "https://www.aljazeera.com/news/2026/1/10/extreme-cold-kills-another-infant-in-gaza-as-israel-blocks-vital-aid?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-10T12:52:28.000Z",
+      "summary": "Israel continues to block vital necessities, such as mobile homes, as Palestinian enclave is hit by harsh weather."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "What are potential ‘hard ways’ Trump could try to take Greenland?",
+      "url": "https://www.aljazeera.com/news/2026/1/10/what-are-potential-hard-ways-trump-could-try-to-take-greenland?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-10T12:50:50.000Z",
+      "summary": "From paying out Greenlanders or buying the territory or a military attack, we explore the options the US could consider."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia hits Ukraine with Oreshnik hypersonic missile: Why it matters",
+      "url": "https://www.aljazeera.com/news/2026/1/10/russia-hits-ukraine-with-oreshnik-hypersonic-missile-why-it-matters?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-10T12:49:56.000Z",
+      "summary": "The Oreshnik missile struck close to Ukraine&#039;s border with Poland, a NATO member. "
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -80,16 +190,6 @@
       "image": null,
       "published_at": "2026-01-10T12:21:10.000Z",
       "summary": "בימים שלפני המבצע ללכידת מדורו, לחצו בוותיקן על ארה\"ב להימנע מפעולה צבאית - ולאפשר לנשיא ונצואלה לצאת מהמדינה. ב\"וושינגטון פוסט\" נחשף כי על הפרק הייתה הצעה למקלט ברוסיה - כולל גישה של מדורו לכספו וערבות מפוטין. אך מדורו סירב, וכך גם ארה\"ב. וגם: כל הפרטים מרגעי הלכידה והכאוס, התמיכה האמריקנית בסגנית "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Iran medics describe overwhelmed hospitals as protests continue",
-      "url": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e5/live/c59827a0-ee21-11f0-b5f7-49f0357294ff.jpg",
-      "published_at": "2026-01-10T12:18:45.000Z",
-      "summary": "There were signs authorities were intensifying their crackdown as protests continued."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -229,7 +329,7 @@
       "url": "https://www.aljazeera.com/news/2026/1/10/irans-army-pledges-to-defend-national-interests-after-us-backs-protesters?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-10T10:49:40.000Z",
-      "summary": "Iran&#039;s ‍elite IRGC - which operates separately from army - also says safeguarding country&#039;s security is a &#039;red line&#039;."
+      "summary": "Iran&#039;s ‍elite IRGC, which operates separately from army, also says safeguarding country&#039;s security is a &#039;red line&#039;."
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -415,7 +515,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Syria live: Army announces ceasefire in Aleppo’s Sheikh Maqsoud area",
+      "title": "Syria live: Drone attack targets governorate building in Aleppo city centre",
       "url": "https://www.aljazeera.com/news/liveblog/2026/1/10/syria-live-fighting-resumes-in-aleppo-after-ceasefire-collapses?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-10T05:39:48.000Z",
@@ -752,16 +852,6 @@
       "summary": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Diaz scores again as Morocco edge out Cameroon in AFCON 2025 quarterfinal",
-      "url": "https://www.aljazeera.com/sports/2026/1/9/morocco-edge-out-cameroon-to-reach-afcon-2025-semifinals?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T21:36:33.000Z",
-      "summary": "Real Madrid&#039;s Brahim Diaz continues 2025 AFCON scoring streak as Morocco edge out Cameroon in quarterfinals."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -780,26 +870,6 @@
       "image": null,
       "published_at": "2026-01-09T21:27:06.000Z",
       "summary": "9 children said among those killed; security forces reportedly fire live rounds at protesters; reports say US, Israel reviewing assessments that demonstrations aren't posing threat to regime\nThe post Widespread Iran protests reach 13th day; rights group says at least 51 killed in crackdown appeared "
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Petro says Colombia cooperating with US ‘despite insults, threats’",
-      "url": "https://www.aljazeera.com/news/2026/1/9/petro-says-colombia-cooperating-with-us-despite-insults-threats?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T21:04:52.000Z",
-      "summary": "Speaking to Al Jazeera, Gustavo Petro calls for &#039;shared government through dialogue&#039; in Venezuela, leading to elections."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Trump threatens to take Greenland ‘the hard way’, citing Arctic strategy",
-      "url": "https://www.aljazeera.com/news/2026/1/9/greenland-should-take-the-lead-in-talks-with-us-foreign-minister-says?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T21:02:26.000Z",
-      "summary": "Danish PM warns US armed action in Greenland could destabilise NATO and threaten Arctic security cooperation."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -822,16 +892,6 @@
       "summary": "המרוץ למזכ\"ל האו\"ם הבא יוצא לדרך: תחת אנטוניו גוטרש הפך הארגון למרושש וחלש מאי-פעם - וכשהכסף והשרביט המכריע אצל טראמפ, המועמדים מחזרים גם אחרי השגריר הישראלי. מהכלכלנית היהודייה שקרוביה חיים ביו\"ש ושירתו בצה\"ל, דרך הכוכבת מניו זילנד ג'סינדה ארדרן - ועד דיפלומט הגרעין שקיבל איומים מאיראן: כל השמות הב"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "New video of Minneapolis ICE shooting surfaces",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/new-video-of-minneapolis-ice-shooting-surfaces?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T20:30:54.000Z",
-      "summary": "New video has emerged of the fatal shooting of Renee Nicole Good by an ICE agent in Minneapolis, Minnesota."
-    },
-    {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
       "source": "Times of Israel — All",
       "topic": "News",
@@ -842,26 +902,6 @@
       "summary": "After reaching maritime border deal with Jerusalem in 2022, Beirut has hoped potential gas discoveries in its waters will help it emerge from a severe economic crisis\nThe post Lebanon inks deal with international firms to explore gas in offshore area bordering Israel appeared first on The Times of I"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Nobel laureate Shirin Ebadi says Iran internet shutdown could hide possible &#8216;massacre&#8217;",
-      "url": "https://www.timesofisrael.com/nobel-laureate-shirin-ebadi-says-iran-internet-shutdown-could-hide-possible-massacre/",
-      "image": null,
-      "published_at": "2026-01-09T20:14:18.000Z",
-      "summary": "Peace prize winner says blackout is a tactic; exiled activist says she was told hundreds hospitalized with eye injuries from pellet gun fire; international phone calls also blocked\nThe post Nobel laureate Shirin Ebadi says Iran internet shutdown could hide possible &#8216;massacre&#8217; appeared fi"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "UN ‘gravely alarmed’ by fighting in Aleppo, urges protection of civilians",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/un-gravely-alarmed-by-fighting-in-aleppo-urges-protection-of-civilians?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T20:12:05.000Z",
-      "summary": "As a ceasefire between the Syrian army and the Kurdish-led SDF collapses, the UN is urging the protection of civilians."
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -870,16 +910,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-a321-dd67-a9ff-ab2384bd0001/4a/63/583b01ce46c5b8e2fd50f4a4aa31/64363823.JPG?height=81",
       "published_at": "2026-01-09T20:02:09.000Z",
       "summary": "Since the Assad regime fell, the Kurds in Syria have been vying for control with al-Sharaa. Israel's entry into the fray could lead to conflict with Turkey and the U.S."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Minnesotans mourn woman killed by ICE",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/minnesotans-mourn-woman-killed-by-ice?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T19:48:29.000Z",
-      "summary": "People paid tribute to 37-year-old Renee Nicole Good, who was killed in her car by ICE agents in Minneapolis, Minnesota."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -940,26 +970,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-a2c3-d01b-a7db-b6df5dce0001/83/4f/49f1f6484c0681f33ef309f718b7/356423.jpg?height=81",
       "published_at": "2026-01-09T19:13:55.000Z",
       "summary": "The Supreme Court's delays on the issue sustain an unlawful policy, with each postponement granting more time to a system that suppresses scrutiny of the Palestinians' plight"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Fate of Yemeni separatists unclear after STC ‘disbands’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/fate-of-yemeni-separatists-unclear-after-stc?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T19:10:54.000Z",
-      "summary": "An official with Yemen’s separatist Southern Transitional Council rejected an announcement that the group is disbanding."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Venezuela starts ‘exploratory process’ to re-establish formal ties with US",
-      "url": "https://www.aljazeera.com/news/2026/1/9/venezuela-starts-exploratory-process-to-re-establish-formal-ties-with-us?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-09T19:09:59.000Z",
-      "summary": "US State Department officials are visiting Caracas less than a week after the military abduction of Nicolas Maduro."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1200,16 +1210,6 @@
       "image": null,
       "published_at": "2026-01-09T12:47:13.000Z",
       "summary": "לקראת ביקורו של שר החוץ היפני, 15 חברים בפרלמנט הגיעו לארץ, ביקרו בכפר עזה ובאתר הנובה, שמעו עדויות של ניצולים מהטבח ואף התעקשו לצפות בסרטון הזוועות. ברקע הביקור: כוונת ממשלת יפן החדשה להדק את יחסיה עם ישראל"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "לא רק ברמזור: הסכנה של הברית האדומה-ירוקה לישראל ולדמוקרטיות ליברליות",
-      "url": "https://www.ynet.co.il/news/article/rjaco9av11l",
-      "image": null,
-      "published_at": "2026-01-09T12:20:00.000Z",
-      "summary": "שיתוף הפעולה בין גורמים איסלאמיסטיים לבין השמאל הרדיקלי הולך וגובר בשנים האחרונות וקוצר פירות על בסיס עבודת עומק שנבנתה לאורך שנים - בזמן שבישראל ממשיכים לעסוק ב״הסברה״ בלתי אפקטיבית שלא נוגעת בבעיות השורש"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
