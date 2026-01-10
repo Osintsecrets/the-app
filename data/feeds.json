@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-01-10T23:09:11.430Z",
+  "generated_at": "2026-01-10T23:37:02.741Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'Hermès of durian': The luxury fruit cashing in on China's billion-dollar appetite",
+      "url": "https://www.bbc.com/news/articles/cz7ndzw28v4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2d8/live/e6396e30-ed52-11f0-b5f7-49f0357294ff.png",
+      "published_at": "2026-01-10T23:06:39.000Z",
+      "summary": "A former gold mining town in Malaysia has seen its riches turn a new shade of yellow, thanks to this pungent fruit."
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -20,6 +30,16 @@
       "image": null,
       "published_at": "2026-01-10T23:00:54.000Z",
       "summary": "Netanyahu had IDF devise contingency plan to take over more of Strip's territory, as he doesn't believe US will manage to secure Hamas's disarment, Arab official tells ToI\nThe post Israel planning new Gaza City op in March, but will need okay from Trump &#8212; officials appeared first on The Times "
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Nicaragua frees dozens of prisoners amid pressure from Trump administration",
+      "url": "https://www.aljazeera.com/news/2026/1/10/nicaragua-frees-dozens-of-prisoners-amid-pressure-from-trump-administration?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-10T22:40:36.000Z",
+      "summary": "Opposition groups say release triggered by &#039;political chess moves&#039; following US abduction of Venezuela&#039;s Nicolas Maduro."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -892,16 +912,6 @@
       "summary": "From paying out Greenlanders or buying the territory or a military attack, we explore the options the US could consider."
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Russia hits Ukraine with Oreshnik hypersonic missile: Why it matters",
-      "url": "https://www.aljazeera.com/news/2026/1/10/russia-hits-ukraine-with-oreshnik-hypersonic-missile-why-it-matters?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-10T12:49:56.000Z",
-      "summary": "The Oreshnik missile struck close to Ukraine&#039;s border with Poland, a NATO member. "
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1370,16 +1380,6 @@
       "image": null,
       "published_at": "2026-01-09T14:36:41.000Z",
       "summary": "Police closed Highway 90 between Dragot Junction and the Dead Sea hotel district in both directions due to flooding and warned travelers of serious danger."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "The musician and the strongman leader - what you need to know about Uganda's election",
-      "url": "https://www.bbc.com/news/articles/c205dd7gjrpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711d/live/839800c0-ed57-11f0-a422-4ba8a094a8fa.jpg",
-      "published_at": "2026-01-09T14:25:35.000Z",
-      "summary": "Voters could propel a leader into a fifth decade in power or back a change candidate."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
