@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-01-11T08:12:56.543Z",
+  "generated_at": "2026-01-11T08:45:09.066Z",
   "items": [
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "שלום דומרני שוחרר למעצר בית: \"המשטרה ירדה מהעץ\"",
+      "url": "https://www.ynet.co.il/news/article/byhmd0gsze",
+      "image": null,
+      "published_at": "2026-01-11T08:34:47.000Z",
+      "summary": "אחרי שבית המשפט המחוזי הפך לבקשת המשטרה החלטה קודמת והורה להשאיר את ראש ארגון הפשע במעצר, היום שוחרר דומרני למעצר בית בהסכמת הצדדים. הוא חשוד במעורבות בהשלכת רימון רסס לחצר בית באשקלון"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Right-wing activist uses pepper spray on anti-government protesters",
+      "url": "https://www.timesofisrael.com/right-wing-activist-uses-pepper-spray-on-anti-government-protesters/",
+      "image": null,
+      "published_at": "2026-01-11T08:32:44.000Z",
+      "summary": "Police question two men on suspicion of assaulting each other at Tel Aviv rally; marchers project 'You are guilty' on wall of Netanyahu's party headquarters\nThe post Right-wing activist uses pepper spray on anti-government protesters appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "&#8216;Lords of the Sound&#8217; orchestra back for 2nd tour amid wartime boycott",
+      "url": "https://www.timesofisrael.com/lords-of-the-sound-orchestra-back-for-2nd-tour-amid-wartime-boycott/",
+      "image": null,
+      "published_at": "2026-01-11T08:32:27.000Z",
+      "summary": "Ensemble, made up mostly of Ukrainian artists,  performing 11 concerts across Israel\nThe post &#8216;Lords of the Sound&#8217; orchestra back for 2nd tour amid wartime boycott appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "15-year-old boy shot, killed in Nazareth after phone call telling him to leave house",
+      "url": "https://www.timesofisrael.com/15-year-old-boy-shot-killed-in-nazareth-after-phone-call-telling-him-to-leave-house/",
+      "image": null,
+      "published_at": "2026-01-11T08:31:58.000Z",
+      "summary": "Azmi Gharib is 2nd teen killed by gunfire in city within days; no arrests; separately, man dies after apparently being pushed from Haifa building, injured woman arrested\nThe post 15-year-old boy shot, killed in Nazareth after phone call telling him to leave house appeared first on The Times of Israe"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
@@ -10,6 +50,26 @@
       "image": null,
       "published_at": "2026-01-11T08:27:29.000Z",
       "summary": "Tzachi Braverman, who was approved as an ambassadorial candidate to the UK, was detained by police for questioning on suspicion of obstruction of justice."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Netanyahu's chief-of-staff detained for questioning over BibiLeaks affair",
+      "url": "https://www.haaretz.com/israel-news/2026-01-11/ty-article/.premium/netanyahus-chief-of-staff-detained-for-questioning-over-bibileaks-affair/0000019b-abe1-d8f9-a3ff-ffff439b0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-abd8-da2a-abdf-ebfb30da0000/c4/9b/a2434f4449b2b6f27c5ebedd527f/200295-3.jpg?height=81",
+      "published_at": "2026-01-11T08:24:36.000Z",
+      "summary": "Netanyahu's cabinet secretary, Tzachi Braverman, is a suspect in the affair involving the leak of classified documents to a German tabloid in an attempt to shift Israeli public opinion against protests calling for a Gaza cease-fire and hostage release deal in 2024"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Stopping wars or waging them?",
+      "url": "https://www.aljazeera.com/video/compare-contrast/2026/1/11/stopping-wars-or-waging-them?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-11T08:02:17.000Z",
+      "summary": "We compare and contrast Trump’s bid for a peacemaker legacy with the military strikes launched during his second term."
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -37,7 +97,7 @@
       "topic": "News",
       "title": "Iran protesters defy crackdown as videos show violent clashes",
       "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ffa/live/dc852db0-eea7-11f0-b5f7-49f0357294ff.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0efa/live/e83f7940-eec4-11f0-a422-4ba8a094a8fa.jpg",
       "published_at": "2026-01-11T07:46:15.000Z",
       "summary": "Hundreds of protesters are believed to have been killed or injured, and many more detained."
     },
@@ -175,7 +235,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Somali minister says Israel plans to displace Palestinians to Somaliland",
+      "title": "Somali minister says Israel plans to expel Gaza Palestinians to Somaliland",
       "url": "https://www.aljazeera.com/news/2026/1/11/somali-minister-says-israel-plans-to-displace-palestinians-to-somaliland?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-11T05:15:17.000Z",
@@ -576,7 +636,7 @@
       "source": "Haaretz — All Headlines",
       "topic": "News",
       "title": "A militia of troubled youth",
-      "url": "https://www.haaretz.com/opinion/editorial/2026-01-11/ty-article/.premium/a-militia-of-troubled-youth/0000019b-a95c-dd87-a1db-fdfceaf00000",
+      "url": "https://www.haaretz.com/opinion/editorial/2026-01-11/ty-article/a-militia-of-troubled-youth/0000019b-a95c-dd87-a1db-fdfceaf00000",
       "image": "https://img.haarets.co.il/bs/0000019b-979d-dcfc-addf-d7bff2030000/d8/fd/b3addc844295af6f05674c78db67/312279.jpg?height=81",
       "published_at": "2026-01-10T22:02:42.000Z",
       "summary": ""
@@ -812,16 +872,6 @@
       "summary": "Pinkas was paid from January 2024 through March 2025, while he was employed at Haaretz, funneled to him via businessman Gil Birger. According to Pinkas, the money was compensation for writing policy papers; he denies any familiarity with, or involvement in, the pro-Qatar campaign formulated by Footl"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Iran warns protesters could face death penalty as regime crackdown intensifies",
-      "url": "https://www.timesofisrael.com/iran-warns-protesters-could-face-death-penalty-as-regime-crackdown-intensifies/",
-      "image": null,
-      "published_at": "2026-01-10T18:38:54.000Z",
-      "summary": "Causalities mount as IRGC said to open fire on crowds, though exact toll unclear as internet blackout continues into 3rd day; EU says it backs protesters, Trump again issues threat\nThe post Iran warns protesters could face death penalty as regime crackdown intensifies appeared first on The Times of "
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -842,16 +892,6 @@
       "summary": "Medical sources in the Gaza Strip said harsh humanitarian conditions and a lack of heating led to the infant's death. The Israeli military also reportedly carried out a series of strikes at several locations on Saturday, including in Khan Yunis and Gaza City"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Health of hunger-striking anti-Israel activists in UK prison said &#8216;deteriorating&#8217;",
-      "url": "https://www.timesofisrael.com/health-of-detained-anti-israel-activists-in-uk-said-deteriorating-amid-hunger-strike/",
-      "image": null,
-      "published_at": "2026-01-10T18:17:25.000Z",
-      "summary": "Reports say two protesters have lost 10-16 kilograms, refusing to eat until Palestine Action is delisted as terror group, Britain halts arms transfers to Israel\nThe post Health of hunger-striking anti-Israel activists in UK prison said &#8216;deteriorating&#8217; appeared first on The Times of Israe"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -860,16 +900,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-9e2b-dd39-a7ff-ff3bdf8b0001/cf/d9/bb6506de42a78276eface062bf04/64128172.JPG?height=81",
       "published_at": "2026-01-10T18:02:54.000Z",
       "summary": "Husam Maarouf kept writing during the war, even as death surrpunded him. Now his powerful poems come out in a Hebrew-Arabic collection"
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Syria says Kurdish fighters being moved from Aleppo after days of deadly clashes",
-      "url": "https://www.timesofisrael.com/syria-says-kurdish-fighters-being-moved-from-aleppo-after-days-of-deadly-clashes/",
-      "image": null,
-      "published_at": "2026-01-10T17:46:23.000Z",
-      "summary": "Syrian government announces halt to military operations in Aleppo neighborhood following continued fighting in wake of ceasefire declaration\nThe post Syria says Kurdish fighters being moved from Aleppo after days of deadly clashes appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1012,16 +1042,6 @@
       "summary": "Morocco progressed to the semifinals beating Cameroon 2-0 but Indominable Lions felt they had two clear penalties."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "הרוגים רבים במחאות באיראן, המשטר מכין את \"ערי הטילים\" | כותרות השבת",
-      "url": "https://www.ynet.co.il/news/article/hjzfqjlbbl",
-      "image": null,
-      "published_at": "2026-01-10T15:31:58.000Z",
-      "summary": "ההפגנות באיראן מתגברות והמשטר מעלה כוננות לרמה \"גבוהה יותר מאשר במלחמה עם ישראל\" | נתניהו אמר כי הוא רוצה לבטל תוך עשור את הסיוע הצבאי מארה\"ב |  6 ישראלים נפצעו בתאונה בתאילנד, אחד מהם במצב אנוש | במשטרה מעריכים: כתב אישום יוגש נגד השרה מאי גולן"
-    },
-    {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
@@ -1047,7 +1067,7 @@
       "topic": "News",
       "title": "Israel on high alert for possible U.S. intervention in Iran over mass protests, sources say",
       "url": "https://www.haaretz.com/middle-east-news/2026-01-10/ty-article/iranians-reportedly-say-regime-has-killed-more-than-200-protesters-using-live-fire/0000019b-a838-dc61-addf-edb9c1dd0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-a86c-d724-a7fb-ec7d8fb00001/73/44/7faf82104bfe8782ec45c75fd4ef/350134-2.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-a840-d724-a7fb-ec5187570000/34/9a/0dab8690439291eb34f26317871f/335840.jpg?height=81",
       "published_at": "2026-01-10T15:18:13.000Z",
       "summary": "Tehran escalated its threats against protesters on Saturday, with Iranian officials warning that demonstrators will be considered an 'enemy of God,' a death penalty charge against those 'betraying the nation and creating insecurity' or seeking 'foreign domination'"
     },
@@ -1090,16 +1110,6 @@
       "image": null,
       "published_at": "2026-01-10T14:13:34.000Z",
       "summary": "A 23-year-old man was arrested for allegedly assaulting patients at Hadassah Ein Kerem Hospital. Authorities are investigating possible additional victims."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Why the once loyal bazaar merchants are now protesting in Iran",
-      "url": "https://www.aljazeera.com/opinions/2026/1/10/why-the-once-loyal-bazaar-merchants-are-now-protesting-in-iran?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-10T14:10:19.000Z",
-      "summary": "Two decades of economic changes have eroded the bazaar&#039;s economic power and political sway in Tehran."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2340,16 +2350,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-988e-dd81-a3bf-fedf490f0000/16/c6/78a77f424bdc86a70257eec21fe0/308256.jpg?height=81",
       "published_at": "2026-01-07T21:51:26.000Z",
       "summary": ""
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "How a quiet Bedouin village in Israel's south turned into Ben-Gvir's supremacist playground",
-      "url": "https://www.haaretz.com/israel-news/2026-01-07/ty-article-magazine/.premium/israel-police-is-turning-a-bedouin-village-into-a-violent-prison-even-without-bars/0000019b-8ecc-dd39-a7ff-effe61160000",
-      "image": "https://img.haarets.co.il/bs/0000019b-8ed8-d01b-a7db-9edc89810001/c8/f5/489c62eb4d369a874ccb116b8d56/279440.jpg?height=81",
-      "published_at": "2026-01-07T21:20:00.000Z",
-      "summary": "'What we saw in Gaza and the West Bank has reached us, too,' says a relative of Mohammed al-Sana, who was fatally shot by Israel Police officers in Tarabin. Residents say the killing shattered hopes in the village, amid arrests of children and what they describe as collective punishment. 'It proved "
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
