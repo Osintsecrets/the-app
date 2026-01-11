@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-01-11T09:10:10.035Z",
+  "generated_at": "2026-01-11T09:38:55.238Z",
   "items": [
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Samoan PM announces plans to establish embassy in Jerusalem",
+      "url": "https://www.jpost.com/israel-news/article-882961",
+      "image": null,
+      "published_at": "2026-01-11T11:17:23.000Z",
+      "summary": "Israel and Samoa deepen ties as Samoa plans embassy in Jerusalem, building on years of cooperation through MASHAV and UN support."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Iran protesters defy crackdown as videos show violent clashes",
+      "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0efa/live/e83f7940-eec4-11f0-a422-4ba8a094a8fa.jpg",
+      "published_at": "2026-01-11T09:29:19.000Z",
+      "summary": "Hundreds of protesters are believed to have been killed or injured, and many more detained."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "לאחר ההודעה על פתיחת השגרירות בירושלים: המנהיג שהוזמן לבקר בישראל ",
+      "url": "https://www.ynet.co.il/news/article/r1wlp1zrwg",
+      "image": null,
+      "published_at": "2026-01-11T09:28:30.000Z",
+      "summary": "שר החוץ גדעון סער בירך את ראש ממשלת סמואה על ההחלטה לפתוח שגרירות בבירה והזמין אותו לביקור. נציגי משרד החוץ של סמואה הוזמנו לירושלים במטרה לקדם את המהלך  "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הסתיים המבצע בתראבין: \"הימים הקרובים - מבחן לנורמליזציה\" | צפו בפינוי בטונדות",
+      "url": "https://www.ynet.co.il/news/article/rkpuq0erbx",
+      "image": null,
+      "published_at": "2026-01-11T09:20:56.000Z",
+      "summary": "גורם במשטרה הודיע כי המבצע הנרחב שנערך ביישוב הבדואי הגיע לסיומו: \"מוקדי הקשב המרכזיים בשלב זה, מלבד תראבין, הם ערערה, תל שבע ולקייה\". על פי הגורם, בעקבות הפעילות נרשם שקט ביישוב: \"הסכסוך הבא שירים את הראש יזכה למכה גדולה יותר\""
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Aryna Sabalenka wins Brisbane title ahead of Australian Open",
+      "url": "https://www.aljazeera.com/sports/2026/1/11/aryna-sabalenka-wins-brisbane-title-ahead-of-australian-open?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-11T09:11:08.000Z",
+      "summary": "World no 1 becomes back-to-back champion at the Brisbane International with a straight sets victory over Marta Kostyuk."
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הדרישה החריגה של יועמ\"שית הכנסת - שגילתה בבג\"ץ שכספים עוברים בניגוד לחוק",
+      "url": "https://www.ynet.co.il/news/article/skk0d0lhzx",
+      "image": null,
+      "published_at": "2026-01-11T09:08:35.000Z",
+      "summary": "פרסום ראשון: עו\"ד שגית אפיק יוצאת למתקפה חריגה על משרד האוצר - לאחר שבבג״ץ נחשף כי כספים הועברו בלי אישור של ועדת הכספים. במכתב חריף היא דורשת פירוט מלא של כל ההעברות שבוצעו כך ב-5 השנים האחרונות. לדבריה, מדובר ב\"פרקטיקה נפסדת\" שהוסתרה: \"שוקלים צעדים ביחס לעתיד וביחס לעבר\""
+    },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
@@ -22,12 +82,22 @@
       "summary": " קשה שלא לחייך נוכח הכותרות הדרמטיות וההצהרות שלפיהן התיקון האחרון לחוק החוזים, שקידמו ח\"כ שמחה רוטמן והשר יריב לוין, ביטל את הלכת אפרופים. הוא לא. גם לא קרוב לכך. למעשה, מי שקורא את התיקון בעיון מגלה כי הוא מניח כהנחת מוצא את מה שאפרופים קבעה כבר לפני שלושים שנה"
     },
     {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "As hostage-deal lobby disbands, a new group forms to home in on long road to recovery",
+      "url": "https://www.timesofisrael.com/as-hostage-deal-lobby-disbands-a-new-group-forms-to-home-in-on-long-road-to-recovery/",
+      "image": null,
+      "published_at": "2026-01-11T08:55:50.000Z",
+      "summary": "With almost everyone out of Gaza, 255 – The Hostages and Their Families Organization takes up mission of addressing unmet needs of those kidnapped on October 7 and their families\nThe post As hostage-deal lobby disbands, a new group forms to home in on long road to recovery appeared first on The Time"
+    },
+    {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
       "source": "BBC World",
       "topic": "News",
       "title": "One person dead and 300 buildings destroyed in Australia bushfires",
       "url": "https://www.bbc.com/news/articles/c75xdg2p36lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ffe/live/44388d50-eeba-11f0-bfff-15d08e6c241c.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467f/live/10b64620-eece-11f0-90b5-831176c6629d.jpg",
       "published_at": "2026-01-11T08:47:28.000Z",
       "summary": "A state of emergency has been declared in Victoria as thousands of firefighters battle the blaze."
     },
@@ -95,11 +165,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Netanyahu's chief-of-staff detained for questioning over BibiLeaks affair",
+      "title": "Netanyahu's chief of staff detained for questioning over BibiLeaks affair",
       "url": "https://www.haaretz.com/israel-news/2026-01-11/ty-article/.premium/netanyahus-chief-of-staff-detained-for-questioning-over-bibileaks-affair/0000019b-abe1-d8f9-a3ff-ffff439b0000",
       "image": "https://img.haarets.co.il/bs/0000019b-abd8-da2a-abdf-ebfb30da0000/c4/9b/a2434f4449b2b6f27c5ebedd527f/200295-3.jpg?height=81",
       "published_at": "2026-01-11T08:24:36.000Z",
-      "summary": "Netanyahu's cabinet secretary, Tzachi Braverman, is a suspect in the affair involving the leak of classified documents to a German tabloid in an attempt to shift Israeli public opinion against protests calling for a Gaza cease-fire and hostage release deal in 2024"
+      "summary": "Tzachi Braverman is suspected of breach of trust and obstruction of investigation, over the affair involving the leak of classified documents to a German tabloid in an attempt to shift Israeli public opinion against protests calling for a Gaza cease-fire and hostage release deal in 2024"
     },
     {
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
@@ -127,19 +197,9 @@
       "topic": "News",
       "title": "Thousands march and dozens arrested in Minneapolis protests against ICE ",
       "url": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1513/live/7c4e81b0-ee8b-11f0-b385-5f48925de19a.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73cd/live/f2d4d200-eecf-11f0-b5f7-49f0357294ff.jpg",
       "published_at": "2026-01-11T07:52:16.000Z",
       "summary": "Days after the death of Renee Good, protests continue in Minneapolis and cities across the US. "
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Iran protesters defy crackdown as videos show violent clashes",
-      "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0efa/live/e83f7940-eec4-11f0-a422-4ba8a094a8fa.jpg",
-      "published_at": "2026-01-11T07:46:15.000Z",
-      "summary": "Hundreds of protesters are believed to have been killed or injured, and many more detained."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -199,7 +259,7 @@
       "url": "https://www.ynet.co.il/news/article/bji9n2gswl",
       "image": null,
       "published_at": "2026-01-11T06:53:42.000Z",
-      "summary": "תושב רמאללה התחזה לפי החשד לישראלי מהצפון, והציע לרכוש מקורבנותיו מוצרים ברשת. לאחר מכן הוא שלח להם אישור מזויף על העברת הכסף - אך כשהמוכרים גילו זאת, היה כבר מאוחר מדי"
+      "summary": "תושב רמאללה התחזה לפי החשד לישראלי מהצפון, והציע לרכוש מקורבנותיו מוצרים ברשת. לאחר מכן הוא שלח להם אישור מזויף על העברת הכסף - אך כשהמוכרים גילו זאת, היה כבר מאוחר מדי. שוטרי מחוז ש\"י עצרו אותו בלב העיר הפלסטינית"
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -319,7 +379,7 @@
       "url": "https://www.timesofisrael.com/liveblog-january-11-2026/",
       "image": null,
       "published_at": "2026-01-11T04:39:45.000Z",
-      "summary": "PM's chief of staff said detained, home searched over suspected obstruction in leak probe * IDF soldier moderately wounded in Nablus shooting, manhunt underway\nThe post Iran threatens to hit Israel if US intervenes; Israel said to be on high alert appeared first on The Times of Israel.\n"
+      "summary": "Iran police chief says 'significant' arrests made * PM's chief of staff said detained, home searched in leak probe * IDF soldier moderately wounded in Nablus shooting\nThe post Iran threatens to hit Israel if US intervenes; Israel said to be on high alert appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -882,26 +942,6 @@
       "summary": "Protesters demand justice for Renee Nicole Good, a mother of three shot dead by an ICE agent in Minneapolis."
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "As Iranian regime shuts down internet, even Starlink seemingly being jammed",
-      "url": "https://www.timesofisrael.com/iran-appears-to-jam-starlink-after-shutting-down-comms-networks/",
-      "image": null,
-      "published_at": "2026-01-10T18:53:23.000Z",
-      "summary": "Receivers for satellite service face connectivity challenges, with an expert reporting that the Islamic Republic seems to be 'doing something beyond GPS jamming'\nThe post As Iranian regime shuts down internet, even Starlink seemingly being jammed appeared first on The Times of Israel.\n"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "טראמפ: \"איראן רוצה חופש, ארה\"ב מוכנה לעזור!!!\"; דיווח: בממשל דנו בתקיפת מטרות צבאיות",
-      "url": "https://www.ynet.co.il/news/article/b10maxesbl",
-      "image": null,
-      "published_at": "2026-01-10T18:47:08.000Z",
-      "summary": "חרף דיווחים על ירי חי במפגינים ועדויות על \"מאות גופות\" בטהרן, גם הערב יצאו האיראנים לרחובות עם קריאות נגד האייתוללות: \"לא הולכים לשום מקום!\". המשטר מנסה לגמד את היקף המחאה אך מאיים להוציא להורג \"בוגדים\" וסייעניהם, בטלוויזיה משדרים שוב ושוב תזמורת מלחמה - ובממשל טראמפ מקיימים דיונים על אתרים אפשריים "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -972,16 +1012,6 @@
       "summary": "The Southern Transitional Council is an umbrella organization established in 2017 for groups that seek to restore southern Yemen as an independent state, and has received financial and military support from the UAE."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"כדי לשחרר את איראן אשתף פעולה גם עם ישראל\": זה יורש העצר שמנהיג את המחאה מהגלות",
-      "url": "https://www.ynet.co.il/news/article/sy2rcgxbbg",
-      "image": null,
-      "published_at": "2026-01-10T16:50:13.000Z",
-      "summary": "רזא פהלווי, בנו של השאה האחרון, נתפס בעיני רבים כמנהיג המחאה באיראן. הוא מעביר מסרים להמונים וקורא להם לצאת לרחובות. פהלווי חי בגלות מאז המהפכה האיסלאמית ב-1979. \"יחי השאה! פהלווי יחזור!\", קוראים המפגינים האיראנים. פהלווי, שספג ביקורת על התמיכה בישראל במהלך \"מלחמת 12 הימים\", אמר בעבר כי הוא לא פוסל "
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -990,16 +1020,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-a8a1-dd39-a7ff-ebbb8f900000/87/9b/1ed1cbd34901992748214cf78353/349418.jpg?height=81",
       "published_at": "2026-01-10T16:40:11.000Z",
       "summary": "Clashes broke out earlier this week in predominantly Kurdish neighborhoods after the government and the Syrian Democratic Forces, the main Kurdish-led force, failed to make progress on how to merge troops into the national army. The fighting has displaced more than 140,000 and killed at least 22 peo"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "יובל כהן נפצע אנוש בתאונת מיניבוס בתאילנד: \"חייבים תרומות דם O מינוס\"",
-      "url": "https://www.ynet.co.il/news/article/rk0ln3ybzx",
-      "image": null,
-      "published_at": "2026-01-10T16:30:49.000Z",
-      "summary": "יובל (23) נפצע אנושות וחמישה נוספים נפצעו באורח קל-בינוני כשהמיניבוס שבו נסעו בצ'אנג מיי נקלע לתאונת דרכים. אחותו של יובל, רחלי, קוראת לבעלי סוג דם 0 מינוס ששוהים בתאילנד לסייע: \"הוא אחרי שנתיים מילואים\""
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1100,16 +1120,6 @@
       "image": null,
       "published_at": "2026-01-10T14:54:17.000Z",
       "summary": "The media reportage of the US attack on Venezuela is telling, from the Trumpian language to predictable narratives."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Relative calm in Syria’s Aleppo as Kurdish fighters disarm",
-      "url": "https://www.aljazeera.com/news/2026/1/10/drone-hits-aleppo-governorate-building-after-syrian-army-declares-ceasefire?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-10T14:50:15.000Z",
-      "summary": "Fighting winds down after earlier escalation, which saw governorate building hit by drone allegedly launched by SDF."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1960,16 +1970,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-9eaf-d171-adbb-bfbfe05b0000/0d/15/71be0fbe4dafbe618b03dd6532d3/241521-3.jpg?height=81",
       "published_at": "2026-01-08T19:59:30.000Z",
       "summary": "According to reports, Iranians nationwide took to the streets after country's exiled crown prince Reza Pahlavi called for a mass demonstration on Thursday and Friday"
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Katz says Palestinian trash burning nat'l security threat, okays rules for confiscating vehicles",
-      "url": "https://www.jpost.com/israel-news/article-882803",
-      "image": null,
-      "published_at": "2026-01-08T19:58:15.000Z",
-      "summary": "Reportedly, the Palestinians lack sufficient local landfill capacity, and according to an existing arrangement, they are supposed to use trucks to transport their trash to designated locations."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
