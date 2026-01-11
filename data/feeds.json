@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-11T16:44:33.769Z",
+  "generated_at": "2026-01-11T17:07:54.184Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -25,11 +25,51 @@
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "IDF strikes Hezbollah in southern Lebanon following evacuation order",
+      "title": "After warning civilians of imminent strikes, Israel hits Hezbollah infrastructure in south Lebanon",
       "url": "https://www.jpost.com/israel-news/defense-news/article-882991",
       "image": null,
       "published_at": "2026-01-11T17:09:56.000Z",
       "summary": "The Israeli military confirmed strikes on Hezbollah sites in Lebanon after Arabic spox. Col Avichay Adraee issued evacuation alerts to nearby civilians."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Iran warns it will retaliate if US attacks as protesters defy crackdown",
+      "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f96/live/25ea28f0-eef0-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-11T17:04:05.000Z",
+      "summary": "Medics at two hospitals tell the BBC more than 100 bodies have been brought in over a two day period."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Suspect arrested after a fire damages a historic Mississippi synagogue",
+      "url": "https://www.haaretz.com/us-news/2026-01-11/ty-article/.premium/suspect-arrested-after-a-fire-damages-a-historic-mississippi-synagogue/0000019b-adfd-d2d7-a79b-effd488f0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-adff-dd87-a1db-fdffd29a0000/87/28/adcb42c64ee6baf540373093c00a/362099.jpg?height=81",
+      "published_at": "2026-01-11T17:01:54.000Z",
+      "summary": "The synagogue, the largest in Mississippi, was the site of a Ku Klux Klan bombing in 1967 – a response to the congregation's role in civil rights activities"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "דיווח: יותר מ-10,000 עצורים באיראן. האופציות שישקול טראמפ - והבעיה האמריקנית",
+      "url": "https://www.ynet.co.il/news/article/syvdwszbze",
+      "image": null,
+      "published_at": "2026-01-11T16:59:37.000Z",
+      "summary": "לפי ארגון זכויות אדם, כבר יותר מ-538 נהרגו בהפגנות ויותר מ-10,000 נעצרו. ב\"וול סטריט ג'ורנל\" דווח כי טראמפ יתודרך מחרתיים על אפשרויות הפעולה, ובהן הטלת סנקציות, הפעלת נשקי סייבר חשאיים - וגם תקיפות צבאיות. אבל נושאת מטוסים אמריקנית לא נמצאת באזור, לאחר שזו הייתה הועברה לדרום אמריקה"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Germany’s double standard on peaceful protests",
+      "url": "https://www.aljazeera.com/video/compare-contrast/2026/1/11/germanys-double-standard-on-peaceful-protests?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-11T16:47:48.000Z",
+      "summary": "Germany’s double standard on peaceful protests"
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -100,16 +140,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-ad00-d2d7-a79b-efd461e00004/90/9e/71d63b704920b15013c65c41401e/64272007.JPG?height=81",
       "published_at": "2026-01-11T16:06:55.000Z",
       "summary": "Israel's LGBTQ Pride Archive documents decades of struggle, desire and community – while fighting for its own survival. 'The current government is drying up civil society organizations, including LGBTQ organizations,' a leader of the project says"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Iran warns it will retaliate if US attacks as protesters defy crackdown",
-      "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f96/live/25ea28f0-eef0-11f0-b5f7-49f0357294ff.jpg",
-      "published_at": "2026-01-11T16:04:02.000Z",
-      "summary": "Medics at two hospitals tell the BBC more than 100 bodies have been brought in over a two day period."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -569,7 +599,7 @@
       "url": "https://www.ynet.co.il/news/article/b16qj1111hzl",
       "image": null,
       "published_at": "2026-01-11T11:48:29.000Z",
-      "summary": "פרסום ראשון: הצעיר, שהיה בטיסת קונקשן לקמבודיה, נלקח לחקירה בדובאי בשל חוב כספי של ישראלי עם פרטים זהים. רק אחרי 9 ימים המקומיים הבינו את הטעות, התנצלו ורכשו כרטיס חדש לקמבודיה. עורך דינו תקף את משרד החוץ "
+      "summary": "פרסום ראשון: הצעיר, שהיה בטיסת קונקשן לקמבודיה, נלקח לחקירה בדובאי בשל חוב כספי של ישראלי עם פרטים זהים. רק אחרי 9 ימים המקומיים הבינו את הטעות, התנצלו ורכשו עבורו כרטיס חדש לקמבודיה. עורך דינו תקף את משרד החוץ "
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -782,16 +812,6 @@
       "summary": "The IDF said 58-year-old Shaker Falah Ahmed al-Jaabari sped up towards soldiers stationed in Hebron, who shot at him because they felt an 'immediate threat.' Palestinian media says his children were also in the vehicle, and the IDF said the incident is under investigation"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Foreign Ministry confirms Samoa will open embassy in Jerusalem this year",
-      "url": "https://www.timesofisrael.com/foreign-ministry-confirms-samoa-will-open-embassy-in-jerusalem-this-year/",
-      "image": null,
-      "published_at": "2026-01-11T10:22:46.000Z",
-      "summary": "Island nation set to become third South Pacific country to establish mission in capital; Sa'ar invites Samoan Prime Minister Laʻauli Leuatea Schmidt to visit Israel\nThe post Foreign Ministry confirms Samoa will open embassy in Jerusalem this year appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -872,16 +892,6 @@
       "summary": "As global attention drifts to Caracas and Tehran, Palestinians in Gaza describe continued military incursions and air strikes, and a shifting Yellow Line that make daily life as dangerous as ever"
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Rallies across US after ICE agent kills Renee Nicole Good in Minneapolis",
-      "url": "https://www.aljazeera.com/gallery/2026/1/11/rallies-across-us-after-ice-agent-kills-renee-nicole-good-in-minneapolis?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-11T09:38:30.000Z",
-      "summary": "Protests erupt after ICE agent fatally shoots mother of three, fuelling anger at Trump&#039;s hardline immigration crackdown."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -942,16 +952,6 @@
       "summary": "תסתכלו על הכנסת שלנו, עם כל הגועל נפש שלפעמים צף שם. שני ח\"כים צורחים אחד על השני בוועדת הכספים. זה אולי מכוער, אולי לא יעיל, אבל זה אנושי. מה האלטרנטיבה?"
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "שלום דומרני שוחרר למעצר בית: \"המשטרה ירדה מהעץ\"",
-      "url": "https://www.ynet.co.il/news/article/byhmd0gsze",
-      "image": null,
-      "published_at": "2026-01-11T08:34:47.000Z",
-      "summary": "אחרי שבית המשפט המחוזי הפך לבקשת המשטרה החלטה קודמת והורה להשאיר את ראש ארגון הפשע במעצר, היום שוחרר דומרני למעצר בית בהסכמת הצדדים. הוא חשוד במעורבות בהשלכת רימון רסס לחצר בית באשקלון"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -965,11 +965,11 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Netanyahu's former chief of staff detained for questioning over BibiLeaks affair",
+      "title": "Netanyahu's chief of staff detained for questioning over BibiLeaks affair",
       "url": "https://www.haaretz.com/israel-news/2026-01-11/ty-article/.premium/netanyahus-chief-of-staff-detained-for-questioning-over-bibileaks-affair/0000019b-abe1-d8f9-a3ff-ffff439b0000",
       "image": "https://img.haarets.co.il/bs/0000019b-abd8-da2a-abdf-ebfb30da0000/c4/9b/a2434f4449b2b6f27c5ebedd527f/200295-3.jpg?height=81",
       "published_at": "2026-01-11T08:24:36.000Z",
-      "summary": "Tzachi Braverman is suspected of breach of trust and obstruction of investigation, over the affair involving the leak of classified documents to a German tabloid in an attempt to shift Israeli public opinion against protests calling for a Gaza cease-fire and hostage release deal in 2024"
+      "summary": "Tzachi Braverman is suspected of breach of trust and obstruction of investigation, over an affair involving the leak of classified documents to a German tabloid in an attempt to shift Israeli public opinion against protests calling for a Gaza cease-fire and hostage release deal in 2024"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1035,9 +1035,9 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Six killed, nine wounded by IDF fire in 48 hours, Gaza Health Ministry says",
+      "title": "Death toll in Iran protests rises to 466, U.S. based rights group reports",
       "url": "https://www.haaretz.com/israel-news/2026-01-11/ty-article-live/.premium/trump-iran-looking-at-freedom-u-s-stands-ready-to-help-protesters/0000019b-ab41-dd87-a1db-fffdef890000",
-      "image": "https://img.haarets.co.il/bs/0000019b-acde-dd87-a1db-fcfe81380000/39/c9/7a5074eb460cabaca9d0fdad3689/350501.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-adfb-da2a-abdf-effbf0150000/1c/38/c58c527e435f969901f9a1d88da9/363526.jpg?height=81",
       "published_at": "2026-01-11T04:18:42.000Z",
       "summary": ""
     },
@@ -2330,16 +2330,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-9ceb-d171-adbb-bdff20950001/2f/fd/9f25041a4024b50e937648892a99/police-chief.PNG?height=81",
       "published_at": "2026-01-08T10:18:01.000Z",
       "summary": "West Midlands Police Chief Constable Craig Guildford is under fire after citing 'unsubstantiated or erroneous' security concerns to ban Maccabi Tel Aviv fans from a match against Aston Villa. Conservative leader Kemi Badenoch said the police 'capitulated and collaborated with Islamists'"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Poll: Netanyahu's Likud party is on top, but bloc still lacks majority to form government",
-      "url": "https://www.haaretz.com/israel-news/2026-01-08/ty-article/poll-netanyahus-likud-party-on-top-coalition-and-opposition-lack-majority/0000019b-9ca3-df61-afff-9ebbc1380000",
-      "image": "https://img.haarets.co.il/bs/0000019b-9cc0-d171-adbb-bdd74b860001/09/30/d9cdee97460fa57b05f115ab5683/296630-2.webp?height=81",
-      "published_at": "2026-01-08T10:04:48.000Z",
-      "summary": "Likud remains the largest party with 26 seats, according to the Channel 13 News poll, but Netanyahu's coalition does not have the majority necessary to form a government. Neither does the opposition, which cannot form a government without the Arab parties"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
