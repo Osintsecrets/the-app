@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-11T20:10:39.100Z",
+  "generated_at": "2026-01-11T20:40:27.629Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -32,12 +32,62 @@
       "summary": "Rapaport has become an outspoken advocate for Israel and against antisemitism since the outbreak of war on October 7, 2023."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הקדים תרופה למכה - מטראמפ: הסיבה שנתניהו הכריז על צמצום הסיוע מארה\"ב",
+      "url": "https://www.ynet.co.il/news/article/sjxiuzzsze",
+      "image": null,
+      "published_at": "2026-01-11T20:35:55.000Z",
+      "summary": "ההסכם עם ארה\"ב, שבמסגרתו מקבלת ישראל סיוע צבאי בהיקף של 3.8 מיליארד דולר בשנה, יפקע ב-2028 - ובירושלים כלל לא בטוחים שהנשיא טראמפ רוצה או מסוגל לחדש אותו. ברקע: התנגדות אפשרית בקונגרס מצד האגף הפרוגרסיבי אצל הדמוקרטים והאגף הבדלני אצל הרפובליקנים. כך מרוויחים האמריקנים מהסיוע"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "שריפות הענק בארגנטינה, מגישת הרדיו שהאשימה \"שני ישראלים\" - והגינוי של הנשיא",
+      "url": "https://www.ynet.co.il/news/article/bj4ivo11s11l",
+      "image": null,
+      "published_at": "2026-01-11T20:33:54.000Z",
+      "summary": "המגישה מרסלה פאודאלה טענה כי לשריפות בפטגוניה, שבהן עלו באש יותר מ-120 אלף דונם, \"אחראים, לפי מקורות טובים, שני ישראלים\". בקהילה היהודית גינו: \"אין ראיות, התנהגות שמלבה שנאה\". הנשיא מיליי: הצד החשוך של ארגנטינה"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Iran warns it will retaliate if US attacks, as hundreds killed in protests",
+      "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f96/live/25ea28f0-eef0-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-11T20:32:27.000Z",
+      "summary": "\"It's like a war zone, the streets are full of blood,\" a source in the capital Tehran tells the BBC."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Israel hits Hezbollah sites in two waves of major strikes across southern Lebanon",
+      "url": "https://www.timesofisrael.com/israel-hits-hezbollah-sites-in-two-waves-of-major-strikes-across-southern-lebanon/",
+      "image": null,
+      "published_at": "2026-01-11T20:32:21.000Z",
+      "summary": "After evacuation warnings, Lebanese media says targets hit in several towns, most north of the Litani; separately, IDF says it hit Hezbollah operative in apparent strike on vehicle\nThe post Israel hits Hezbollah sites in two waves of major strikes across southern Lebanon appeared first on The Times "
+    },
+    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Death toll from Iran protests reaches more than 500, rights group says",
+      "title": "Dozens protest Israeli restaurant Miznon in London over owners' former ties to Gaza aid fund",
+      "url": "https://www.haaretz.com/world-news/europe/2026-01-11/ty-article/.premium/dozens-protest-israeli-restaurant-miznon-in-london-over-owners-past-ties-to-gaza-aid-fund/0000019b-ae0c-d2d7-a79b-eedc1f7b0000",
+      "image": "https://img.haarets.co.il/bs/0000019b-ae76-d2d7-a79b-eef6628c0001/ca/3c/77a68d9b4d6fbdc82dcb60b74e1b/capture.PNG?height=81",
+      "published_at": "2026-01-11T20:11:16.000Z",
+      "summary": "One man was arrested for 'chants inciting hatred' during the protest, held outside the Notting Hill restaurant owned by Israeli chef Eyal Shani and his business partner, Shahar Segal. Segal previously served as a spokesperson for the Gaza Humanitarian Foundation"
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Iran protests: Rights group says death toll reaches 500, Over 10,000 arrested",
       "url": "https://www.haaretz.com/middle-east-news/iran/2026-01-11/ty-article/death-toll-from-iran-protests-reaches-more-than-500-rights-group-says/0000019b-ae3c-dfba-a5db-befe84360000",
-      "image": "https://img.haarets.co.il/bs/0000019b-acf2-dc97-a99b-aefa62f00001/ee/a5/a294f6574a41aa5c358d162a3760/329793-2.jpg?height=81",
+      "image": "https://img.haarets.co.il/bs/0000019b-acb3-d6a1-a5ff-afb70a950000/42/23/349f35f7445eb9fd6110cc855766/360184.jpg?height=81",
       "published_at": "2026-01-11T19:54:00.000Z",
       "summary": "A U.S.-based rights group said it had verified the deaths of 490 protesters and 48 security ‌personnel, with more than 10,600 people arrested in two weeks of unrest. State TV footage of dozens of body bags in Tehran said they were victims of events caused by 'armed terrorists'"
     },
@@ -160,16 +210,6 @@
       "image": null,
       "published_at": "2026-01-11T19:18:04.000Z",
       "summary": "Risk analyst Ian Bremmer argues that the US is undoing the global system that it built over decades.\n"
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Iran warns it will retaliate if US attacks as protesters defy crackdown",
-      "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f96/live/25ea28f0-eef0-11f0-b5f7-49f0357294ff.jpg",
-      "published_at": "2026-01-11T19:13:46.000Z",
-      "summary": "Medics at two hospitals tell the BBC more than 100 bodies have been brought in over a two day period."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -832,16 +872,6 @@
       "summary": "Shaked also said she was proud of diversifying the judicial bench during her tenure, arguing that a heterogeneous court better reflects Israeli society. "
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Over 50,000 Dutch tulips brighten Gaza border communities",
-      "url": "https://www.timesofisrael.com/over-50000-dutch-tulips-brighten-gaza-border-communities/",
-      "image": null,
-      "published_at": "2026-01-11T12:09:27.000Z",
-      "summary": "Bulbs supplied by Netherlands-based organization, Christians for Israel, which says flowers symbolize roots of Jewish people in the Land of Israel that cannot be pulled up\nThe post Over 50,000 Dutch tulips brighten Gaza border communities appeared first on The Times of Israel.\n"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -1082,16 +1112,6 @@
       "summary": "מאות מחו בבירה נגד \"מדיניות ההפקרה\" בצל גל האלימות בחברה הערבית, כשתוך 11 ימים נרצחו 15 בני אדם. אביו של עזמי גריב היה ליד בנו שנורה בנצרת: \"רצחו אותו מול העיניים שלי, צרחתי וניסיתי להציל אותו\". אחת ממארגנות ההפגנה: \"ההפקרות מצד המשטרה - יישום של מדיניות הממשלה\""
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "אחיו של החלל החטוף האחרון רן גואילי: \"הפחד קיים, אבל אנחנו לא מוותרים לרגע\"",
-      "url": "https://www.ynet.co.il/news/article/bka1naghwl",
-      "image": null,
-      "published_at": "2026-01-11T10:07:21.000Z",
-      "summary": "828 ימים אחרי שלוחם היס\"ם נחטף לעזה, אמר אחיו עומרי לאולפן ynet: \"סומכים על טראמפ, על הממשלה ועל כל הגורמים הרלוונטיים\""
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1100,16 +1120,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-ac71-dd87-a1db-fcfd229c0000/6f/be/8a7b0fb647f79408ddd324f78bd6/350442.jpg?height=81",
       "published_at": "2026-01-11T09:47:07.000Z",
       "summary": "As global attention drifts to Caracas and Tehran, Palestinians in Gaza describe continued military incursions and air strikes, and a shifting Yellow Line that make daily life as dangerous as ever"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "לאחר ההודעה על פתיחת השגרירות בירושלים: ר\"מ סמואה הוזמן לבקר בישראל ",
-      "url": "https://www.ynet.co.il/news/article/r1wlp1zrwg",
-      "image": null,
-      "published_at": "2026-01-11T09:28:30.000Z",
-      "summary": "שר החוץ גדעון סער בירך את ראש ממשלת סמואה על ההחלטה לפתוח שגרירות בבירה והזמין אותו לביקור. נציגי משרד החוץ של סמואה הוזמנו לירושלים במטרה לקדם את המהלך  "
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -2210,16 +2220,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-9dc9-d724-a7fb-ddd97bb70001/56/e5/66950ef242789ffe3828c3851f40/fff.PNG?height=81",
       "published_at": "2026-01-08T13:48:55.000Z",
       "summary": "Rep. Steny Hoyer of Maryland, the longest-serving Democrat in Congress, is the latest senior official stepping down as party members are increasingly critical of Israel's policies. Hoyer would routinely appear at AIPAC conferences to announce pro-Israel legislation"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Jewish American researcher denied entry to Israel over alleged 'anarchist activity' in West Bank",
-      "url": "https://www.haaretz.com/israel-news/2026-01-08/ty-article/.premium/jewish-american-researcher-denied-entry-to-israel-over-anarchist-activity-in-west-bank/0000019b-9d87-dd67-a9ff-9f87635d0000",
-      "image": "https://img.haarets.co.il/bs/0000019b-9da6-dd67-a9ff-9fa7d40c0001/c2/43/53aa6cec42e790c8bd92944fe8fe/303155.webp?height=81",
-      "published_at": "2026-01-08T13:39:38.000Z",
-      "summary": "The researcher's attorney accused the police and Israel's Population Authority of acting in a way that 'is reminiscent of dark regimes with lists of \"undesirables,\"' after he was deported without the hearing by law for temporary residents"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
