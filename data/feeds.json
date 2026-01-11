@@ -1,21 +1,11 @@
 {
-  "generated_at": "2026-01-11T14:40:06.144Z",
+  "generated_at": "2026-01-11T15:08:48.955Z",
   "items": [
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Netanyahu to convene security meeting with senior defense officials as Iran protests escalate",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-882987",
-      "image": null,
-      "published_at": "2026-01-11T16:35:01.000Z",
-      "summary": "\"We are monitoring developments in Iran. The protests are an internal Iranian matter, but the IDF continues to enhance operational readiness,\" the IDF said."
-    },
-    {
-      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
-      "source": "Jerusalem Post — Israel News",
-      "topic": "News",
-      "title": "Iranian unrest could make it harder for regime to fire missiles at Israel, ex-navy chief says",
+      "title": "Iranian unrest could make it harder for regime to fire missiles at Israel, ex-Navy chief says",
       "url": "https://www.jpost.com/israel-news/article-882967",
       "image": null,
       "published_at": "2026-01-11T15:51:43.000Z",
@@ -42,14 +32,74 @@
       "summary": "Domrani was arrested on suspicion of involvement in the overnight throwing of a fragmentation grenade into the yard of a private home in Ashkelon."
     },
     {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "טראמפ עוצר את הנפט לקובה, ומחכה שתקרוס: \"הנשיא מרקו רוביו? נשמע טוב!\"",
+      "url": "https://www.ynet.co.il/news/article/r1gi07zszg",
+      "image": null,
+      "published_at": "2026-01-11T15:00:18.000Z",
+      "summary": "אחרי שהשתלט על תעשיית הנפט של ונצואלה ווידא שכל תוצרתה תועבר לארה\"ב מודיע הנשיא שאפילו חבית אחת לא תסופק להוואנה, שמתמודדת עם קריסות אין סופיות של רשת החשמל ושנים נעזרה בקראקס למניעת התמוטטות מוחלטת. כעת הסיוע הזה נעלם, וטראמפ העריך: \"קובה מוכנה ליפול\". היום שיתף ציוץ שמציע את מזכיר המדינה שלו רוביו"
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Hunger strike for 70 days: How the body breaks down without food",
+      "url": "https://www.aljazeera.com/news/2026/1/11/hunger-strike-for-70-days-how-the-body-breaks-down-without-food?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-11T14:49:35.000Z",
+      "summary": "Medical estimates put survival without food at 45 to 61 days. Three UK activists are now pushing beyond that boundary. \n"
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Yair Netanyahu said to become a member of the powerful Likud Central Committee",
+      "url": "https://www.timesofisrael.com/yair-netanyahu-said-to-become-a-member-of-the-powerful-likud-central-committee/",
+      "image": null,
+      "published_at": "2026-01-11T14:48:55.000Z",
+      "summary": "Premier's son appears to have been appointed in an internal party agreement after a failed attempt to secure him a World Zionist Organization job last year\nThe post Yair Netanyahu said to become a member of the powerful Likud Central Committee appeared first on The Times of Israel.\n"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Iran warns it will retaliate if US attacks as protesters defy crackdown",
+      "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f96/live/25ea28f0-eef0-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-11T14:41:41.000Z",
+      "summary": "Medics at two hospitals tell the BBC more than 100 bodies have been brought in over a two day period."
+    },
+    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Zamir's view Iran protests are internal issue, but IDF ready to strike back at any moment",
+      "title": "Iran protests an internal issue but Israel ready to strike, IDF chief Eyal Zamir believes",
       "url": "https://www.jpost.com/israel-news/defense-news/article-882979",
       "image": null,
       "published_at": "2026-01-11T14:41:16.000Z",
       "summary": "If Tehran attacks Israel, the IDF plans to strike back with immense power to ensure the country is safe and secure."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Sudan announces government’s return to Khartoum from wartime capital",
+      "url": "https://www.aljazeera.com/news/2026/1/11/sudan-announces-governments-return-to-khartoum-from-wartime-capital?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-11T14:36:04.000Z",
+      "summary": "Army-aligned government returns to the capital, which was quickly overrun by the RSF in the early days of war in 2023."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Iran protests live: Tehran says it will hit back at US, Israel if attacked",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/1/11/iran-protests-live-tehran-says-it-will-hit-back-at-us-israel-if-attacked?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-11T14:34:37.000Z",
+      "summary": "Iranian president calls for unity as protests triggered by an economic crisis escalate into the worst unrest in years. "
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -90,6 +140,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467f/live/10b64620-eece-11f0-90b5-831176c6629d.jpg",
       "published_at": "2026-01-11T14:18:04.000Z",
       "summary": "A state of emergency has been declared in Victoria as thousands of firefighters battle the blaze."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Trump tells Cuba to 'make a deal, before it is too late'",
+      "url": "https://www.bbc.com/news/articles/cx2kv2gn62vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23a0/live/ec499660-eef1-11f0-9bba-e7a018685508.jpg",
+      "published_at": "2026-01-11T14:16:30.000Z",
+      "summary": "Trump has been turning his attention to Cuba since US forces seized Venezuelan leader Nicolás Maduro."
     },
     {
       "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
@@ -352,16 +412,6 @@
       "summary": "פרסום ראשון: הצעיר, שהיה בטיסת קונקשן לקמבודיה, נלקח לחקירה בדובאי בשל חוב כספי של ישראלי עם פרטים זהים. רק אחרי 9 ימים המקומיים הבינו את הטעות, התנצלו ורכשו כרטיס חדש לקמבודיה. עורך דינו תקף את משרד החוץ "
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Iran warns it will retaliate if US attacks as protesters defy crackdown",
-      "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f96/live/25ea28f0-eef0-11f0-b5f7-49f0357294ff.jpg",
-      "published_at": "2026-01-11T11:34:16.000Z",
-      "summary": "Medics at two hospitals tell the BBC more than 100 bodies have been brought in over a two day period."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -445,7 +495,7 @@
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
-      "title": "Trapped in a murderous cycle, Israeli Arabs protest in a desperate plea for Netanyahu to act",
+      "title": "Trapped in a murderous routine, Israeli Arabs protest in a desperate plea for Netanyahu to act",
       "url": "https://www.haaretz.com/israel-news/2026-01-11/ty-article/.premium/trapped-in-a-murderous-cycle-arabs-protest-in-a-desperate-plea-for-netanyahu-to-act/0000019b-ac5b-df16-a1bb-eefb24b50000",
       "image": "https://img.haarets.co.il/bs/0000019b-ac5b-df16-a1bb-eefb29920000/ad/df/6568cf1d44d096a2becbfa5065da/64375508.JPG?height=81",
       "published_at": "2026-01-11T11:19:27.000Z",
@@ -732,16 +782,6 @@
       "summary": " קשה שלא לחייך נוכח הכותרות הדרמטיות וההצהרות שלפיהן התיקון האחרון לחוק החוזים, שקידמו ח\"כ שמחה רוטמן והשר יריב לוין, ביטל את הלכת אפרופים. הוא לא. גם לא קרוב לכך. למעשה, מי שקורא את התיקון בעיון מגלה כי הוא מניח כהנחת מוצא את מה שאפרופים קבעה כבר לפני שלושים שנה"
     },
     {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "As hostage-deal lobby disbands, a new group forms to home in on long road to recovery",
-      "url": "https://www.timesofisrael.com/as-hostage-deal-lobby-disbands-a-new-group-forms-to-home-in-on-long-road-to-recovery/",
-      "image": null,
-      "published_at": "2026-01-11T08:55:50.000Z",
-      "summary": "With almost everyone out of Gaza, 255 – The Hostages and Their Families Organization takes up mission of addressing unmet needs of those kidnapped on October 7 and their families\nThe post As hostage-deal lobby disbands, a new group forms to home in on long road to recovery appeared first on The Time"
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -832,16 +872,6 @@
       "summary": "Police began their investigation after the suspect made a post on social media featuring the slogan \"This is jihad - victory or martyrdom.\""
     },
     {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Myanmar’s military holds second phase of elections amid civil war",
-      "url": "https://www.aljazeera.com/news/2026/1/11/myanmars-military-holds-second-phase-of-elections-amid-civil-war?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-11T07:07:35.000Z",
-      "summary": "Polls have opened in 100 townships across the country, with the military claiming 52 percent turnout in the first round."
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -860,26 +890,6 @@
       "image": null,
       "published_at": "2026-01-11T06:53:42.000Z",
       "summary": "תושב רמאללה התחזה לפי החשד לישראלי מהצפון, והציע לרכוש מקורבנותיו מוצרים ברשת. לאחר מכן הוא שלח להם אישור מזויף על העברת הכסף - אך כשהמוכרים גילו זאת, היה כבר מאוחר מדי. שוטרי מחוז ש\"י עצרו אותו בלב העיר הפלסטינית"
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Israeli forces raid Palestinian wedding in occupied East Jerusalem",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/11/israeli-forces-raid-palestinian-wedding-in-occupied-east-jerusalem?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-11T06:30:48.000Z",
-      "summary": "Israeli forces raided a Palestinian wedding ceremony in occupied East Jerusalem, firing live bullets and stun grenades."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Syria updates: SDF fighters pull out of Aleppo after deadly battles",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/1/11/syria-live-sdf-fighters-pull-out-of-aleppo-after-deadly-battles?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-11T06:27:24.000Z",
-      "summary": "Dozens of people have been killed in the clashes with more than 150,000 displaced."
     },
     {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
@@ -910,16 +920,6 @@
       "image": null,
       "published_at": "2026-01-11T05:50:23.000Z",
       "summary": "\"On the second day of the war,\" Netanyahu told McGraw, \"I knew we were not only dealing with Hamas or Hezbollah, we were dealing with Iran.\""
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "חילי טרופר שוקל לפרוש מכחול-לבן",
-      "url": "https://www.ynet.co.il/news/article/yokra14642246",
-      "image": null,
-      "published_at": "2026-01-11T04:56:42.000Z",
-      "summary": "פרסום ראשון: ח\"כ טרופר, האיש הקרוב ליו\"ר המפלגה בני גנץ, דורש לבדוק אם לכחול-לבן יש סיכוי לעבור את אחוז החסימה ולדעת אם תחבור למפלגות. לפי גורמים המעורים בנושא, אם טרופר יראה שאין היתכנות לכך - יפרוש. כדי למנוע משבר, המפלגה תעלה בקרוב קמפיין כדי להגדיל את כוחה ולאמוד את סיכוייה"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -1800,6 +1800,16 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef88/live/9a84b9f0-ed33-11f0-b5f7-49f0357294ff.png",
       "published_at": "2026-01-09T06:02:31.000Z",
       "summary": "Gustavo Petro tells the BBC's Ione Wells that the United States is treating other nations as part of a US \"empire\", after Trump threatened Colombia with military action."
+    },
+    {
+      "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
+      "source": "Jerusalem Post — Israel News",
+      "topic": "News",
+      "title": "Jerusalem marathon 2026 to offer special benefits for IDF reservists",
+      "url": "https://www.jpost.com/israel-news/sports/article-882831",
+      "image": null,
+      "published_at": "2026-01-09T04:49:02.000Z",
+      "summary": "The 15th Jerusalem Marathon, scheduled for March 27, offers special discounts for IDF reservists and security forces."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
