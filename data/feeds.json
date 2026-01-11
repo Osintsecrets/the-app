@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-01-11T00:53:25.448Z",
+  "generated_at": "2026-01-11T03:01:48.733Z",
   "items": [
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Bob Weir, Grateful Dead co-founder, dies aged 78",
+      "url": "https://www.bbc.com/news/articles/cly95x9qe4ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1522/live/735c89a0-ee89-11f0-988f-c15624cb706f.jpg",
+      "published_at": "2026-01-11T03:00:10.000Z",
+      "summary": "Weir was a fixture in the psychedelic rock group and its various spin-offs over 60 years. "
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "הערכות ש\"המונים\" נהרגו באיראן, דיווח: נתניהו שוחח עם רוביו על מחאות הענק",
+      "url": "https://www.ynet.co.il/news/article/skjgi00ghzl",
+      "image": null,
+      "published_at": "2026-01-11T02:54:56.000Z",
+      "summary": "הערוץ האופוזיציוני \"איראן אינטרנשיונל\" דיווח על \"הרג המוני שאינו מוגבל לערים בודדות\", עקב עדויות על אלימות קשה נגד מפגינים ותיעודים של \"גופות נופלות לקרקע\" ברחובות. לפי \"ניו יורק טיימס\" טראמפ שוקל לתקוף, והוצגו בפניו מגוון אפשרויות - מתקיפת מטרות שאינן צבאיות עד לפגיעה בשירותי הביטחון באיראן"
+    },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
-      "title": "Fire breaks out in eight story Ramat Beit Shemesh apartment building",
+      "title": "Fire breaks out in Ramat Beit Shemesh apt., no injuries reported",
       "url": "https://www.jpost.com/israel-news/article-882910",
       "image": null,
       "published_at": "2026-01-11T02:35:23.000Z",
-      "summary": "Firefighters responded to reports of the fire beginning in an electrical cabinet, having also been informed that smoke was rising towards the upper floors of the building."
+      "summary": "Firefighters responded to reports of a fire originating in an electrical cabinet and were informed that smoke was rising toward the building's upper floors."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Kurdish fighters leave Syria’s Aleppo after days of clashes",
+      "url": "https://www.aljazeera.com/news/2026/1/11/kurdish-fighters-leave-syrias-aleppo-after-days-of-clashes?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-11T02:27:47.000Z",
+      "summary": "Aleppo governor says last SDF fighters have left the city after the Syrian army took control of Sheikh Maqsoud district."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "IDF troops shoot Palestinian who accelerated car toward them; unclear if deliberate attack",
+      "url": "https://www.timesofisrael.com/idf-troops-shoot-palestinian-who-accelerated-car-toward-them-unclear-if-deliberate-attack/",
+      "image": null,
+      "published_at": "2026-01-11T02:14:58.000Z",
+      "summary": "Military says no soldiers hurt, attacker 'neutralized'; initial probe of incident in West Bank's Hebron doesn't find clear evidence it was an attempted ramming attempt\nThe post IDF troops shoot Palestinian who accelerated car toward them; unclear if deliberate attack appeared first on The Times of I"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -20,6 +60,76 @@
       "image": null,
       "published_at": "2026-01-11T02:10:04.000Z",
       "summary": "Police were called to the location after the suspects, a 45-year-old man from Ramat Gan and a 75-year-old man from Kiryat Tivon, were allegedly seen assaulting one another."
+    },
+    {
+      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
+      "source": "Haaretz — All Headlines",
+      "topic": "News",
+      "title": "Palestinian villagers leaving after 2 years of settler attacks",
+      "url": "https://www.haaretz.com/israel-news/2026-01-11/ty-article/.premium/palestinian-villagers-leaving-after-2-years-of-settler-attacks/0000019b-a9ba-da2a-abdf-ebbb80d20000",
+      "image": "https://img.haarets.co.il/bs/0000019b-aa88-dd87-a1db-febca2e00001/39/ec/b2ab03f840caa4b487328c95813e/330281.jpg?height=81",
+      "published_at": "2026-01-11T02:00:46.000Z",
+      "summary": "Despite decades on their land, villagers describe daily threats from settlers - including stolen livestock, blocked roads, and attacks on children - forcing families to leave. 'We can't go out to pasture anymore… I fear for our lives, for our children,' one resident said"
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "'I had no electricity for six months': American families struggle with soaring energy prices",
+      "url": "https://www.bbc.com/news/articles/c1dz0dz0zkvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7e8/live/ef5e1660-ed51-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-11T01:58:29.000Z",
+      "summary": "Rising electricity costs have emerged as a key cost-of-living concern, pushing families further into debt."
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "US military strikes Islamic State group targets in Syria, officials say",
+      "url": "https://www.bbc.com/news/articles/cly9597r4qpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d72/live/396e5270-ee6e-11f0-bf3e-abb5d510e05c.png",
+      "published_at": "2026-01-11T01:50:00.000Z",
+      "summary": "US President Donald Trump ordered the \"large-scale strikes\" on Saturday, US Central Command announced. "
+    },
+    {
+      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
+      "source": "BBC World",
+      "topic": "News",
+      "title": "Winners and Sinners: What to expect from the Golden Globes",
+      "url": "https://www.bbc.com/news/articles/c338d55p0k6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7615/live/75cc9000-ed5c-11f0-b385-5f48925de19a.jpg",
+      "published_at": "2026-01-11T01:42:16.000Z",
+      "summary": "Marty Supreme, Sinners and One Battle After Another are the films competing at this year's ceremony."
+    },
+    {
+      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
+      "source": "Al Jazeera — All News",
+      "topic": "News",
+      "title": "Russia-Ukraine war: List of key events, day 1,417",
+      "url": "https://www.aljazeera.com/news/2026/1/11/russia-ukraine-war-list-of-key-events-day-1417?traffic_source=rss",
+      "image": null,
+      "published_at": "2026-01-11T01:32:44.000Z",
+      "summary": "These are the key developments from day 1,417 of Russia’s war on Ukraine."
+    },
+    {
+      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
+      "source": "Times of Israel — All",
+      "topic": "News",
+      "title": "Report: Argentina halts Jerusalem embassy move over Falklands drilling dispute",
+      "url": "https://www.timesofisrael.com/report-argentina-halts-jerusalem-embassy-move-over-falklands-drilling-dispute/",
+      "image": null,
+      "published_at": "2026-01-11T01:08:58.000Z",
+      "summary": "Tensions between President Milei and Netanyahu reportedly flare due to Israeli-owned firm's plan for offshore drilling near disputed islands, raising concerns in Buenos Aires\nThe post Report: Argentina halts Jerusalem embassy move over Falklands drilling dispute appeared first on The Times of Israel"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "בנגלדש מעוניינת להצטרף לכוח הייצוב הבינלאומי בעזה",
+      "url": "https://www.ynet.co.il/news/article/h1gr6dlswx",
+      "image": null,
+      "published_at": "2026-01-11T00:52:02.000Z",
+      "summary": "היועץ לביטחון לאומי של בנגלדש נועד עם דיפלומטים אמריקנים, ובמדינתו הביעו בפני ארה\"ב נכונות לקחת חלק בכוח הייצוב. מלבד בנגלדש, בין המדינות שעשויות לשלוח חיילים לרצועה במסגרת כוח הייצוב נמצאות אינדונזיה, אזרבייג'ן ופקיסטן"
     },
     {
       "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
@@ -152,16 +262,6 @@
       "summary": "באסון בחוף בבת ים שבו נהרג ליאור דדון נפצע גם בינוני חברו דורון בס, שמבית החולים משחזר: \"מערבולת רוח מטורפת הגיעה משום מקום, נחתתי מטר-שניים מהסלעים. זה נס שאני בחיים\". לדבריו, מזג האוויר הסוער שלשום לא היה חריג עבור גולשי קייט: \"גלשנו בימים מטורפים יותר, מבחינתנו זה היה יום רגיל\""
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "US military strikes Islamic State group targets in Syria, officials say",
-      "url": "https://www.bbc.com/news/articles/cly9597r4qpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d72/live/396e5270-ee6e-11f0-bf3e-abb5d510e05c.png",
-      "published_at": "2026-01-10T22:21:36.000Z",
-      "summary": "US President Donald Trump ordered the \"large-scale strikes\" on Saturday, US Central Command announced. "
-    },
-    {
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
@@ -255,21 +355,21 @@
       "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
       "source": "Ynet (HE) — Headlines",
       "topic": "News",
-      "title": "טרופר שוקל לפרוש מכחול-לבן: \"צריך לקבל החלטות בתקופה הקרובה\"",
-      "url": "https://www.ynet.co.il/news/article/yokra14642246",
-      "image": null,
-      "published_at": "2026-01-10T22:00:00.000Z",
-      "summary": "ח\"כ חילי טרופר, האיש הקרוב ליו\"ר המפלגה בני גנץ, דורש לבדוק אם לכחול-לבן יש סיכוי לעבור את אחוז החסימה ולדעת אם תחבור למפלגות אחרות. לפי גורמים המעורים בנושא, אם טרופר יראה שאין היתכנות לכך - יפרוש. כדי למנוע את המשבר, המפלגה תעלה בקרוב קמפיין כדי להגדיל את כוחה ולאמוד את סיכוייה"
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
       "title": "צה\"ל והאוצר החליטו: קרביים ישרתו פחות ימי מילואים - אך יקבלו פחות חופשות",
       "url": "https://www.ynet.co.il/news/article/yokra14641589",
       "image": null,
       "published_at": "2026-01-10T22:00:00.000Z",
       "summary": "פרסום ראשון: צה\"ל ומשרד האוצר סיכמו על שירות מילואים לחיילים קרביים שיוגבל לחודשיים ב-2026, שלפי התוכנות יתבצע ברצף ולא בכמה סבבים. הבשורה הטובה: המענקים למילואימניקים מתקופת המלחמה יימשכו, והתנאים לקבלתם יהיו קלים יותר. הבשורה הרעה: כמות החופשות למשרתים תצטמצם"
+    },
+    {
+      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
+      "source": "Ynet (HE) — Headlines",
+      "topic": "News",
+      "title": "טרופר שוקל לפרוש מכחול-לבן: \"צריך לקבל החלטות בתקופה הקרובה\"",
+      "url": "https://www.ynet.co.il/news/article/yokra14642246",
+      "image": null,
+      "published_at": "2026-01-10T22:00:00.000Z",
+      "summary": "ח\"כ חילי טרופר, האיש הקרוב ליו\"ר המפלגה בני גנץ, דורש לבדוק אם לכחול-לבן יש סיכוי לעבור את אחוז החסימה ולדעת אם תחבור למפלגות אחרות. לפי גורמים המעורים בנושא, אם טרופר יראה שאין היתכנות לכך - יפרוש. כדי למנוע את המשבר, המפלגה תעלה בקרוב קמפיין כדי להגדיל את כוחה ולאמוד את סיכוייה"
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -565,11 +665,11 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Yemeni gov’t says southern areas ‘recaptured’ from separatist STC",
+      "title": "Yemen’s government says southern areas retaken from secessionist STC forces",
       "url": "https://www.aljazeera.com/news/2026/1/10/thousands-of-supporters-of-yemens-separatist-stc-rally-in-aden?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-10T17:18:36.000Z",
-      "summary": "Rashad al-Alimi says government forces have retaken Hadramout and al-Mahra provinces from Southern Transitional Council."
+      "summary": "Rashad al-Alimi&#039;s address came as thousands of people rallied in Aden in support of the Southern Transitional Council. "
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -785,7 +885,7 @@
       "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
       "source": "Al Jazeera — All News",
       "topic": "News",
-      "title": "Relative calm restored in Syria’s Aleppo as Kurdish fighters disarm",
+      "title": "Relative calm in Syria’s Aleppo as Kurdish fighters disarm",
       "url": "https://www.aljazeera.com/news/2026/1/10/drone-hits-aleppo-governorate-building-after-syrian-army-declares-ceasefire?traffic_source=rss",
       "image": null,
       "published_at": "2026-01-10T14:50:15.000Z",
@@ -942,46 +1042,6 @@
       "summary": "All the updates as Victor Osimhen and Akor ‍Adams ‍grab second-half goals to put Nigeria through to play Morocco."
     },
     {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "\"הגזענות עלתה לי בפרנסה\": מאבטח סירב להכניס שוטר לכותל ונעצר, מח\"ש חוקרת",
-      "url": "https://www.ynet.co.il/news/article/byvguayswe",
-      "image": null,
-      "published_at": "2026-01-10T12:55:53.000Z",
-      "summary": "א', בן העדה האתיופית, סירב להכניס רכב שבו נהג השוטר למתחם - משום שלא החזיק באישור. בתגובה, הוא נעצר, פוטר, ונלקח ממנו נשקו: \"אני מטפל בהוריי, התנדבתי שנים במשטרה, הייתי לוחם. אני לא איש שמאיים\". נפתחה חקירה נגד השוטר בחשד לתלונת שווא, המשטרה: \"הטענות על תלונת סרק אינן נכונות\""
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Bangladesh cricket ‘affected’ by off-field tensions ahead of T20 World Cup",
-      "url": "https://www.aljazeera.com/sports/2026/1/10/bangladesh-cricket-affected-by-off-field-tensions-ahead-of-t20-world-cup?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-10T12:53:23.000Z",
-      "summary": "Bangladesh Test captain Najmul Hossain Shanto has spoken of the pressure on teammates as T20 World Cup looms in India."
-    },
-    {
-      "id": "Al Jazeera — All News-aHR0cHM6Ly93d3cuYWxqYXpl",
-      "source": "Al Jazeera — All News",
-      "topic": "News",
-      "title": "Extreme cold kills another infant in Gaza as Israel blocks vital aid",
-      "url": "https://www.aljazeera.com/news/2026/1/10/extreme-cold-kills-another-infant-in-gaza-as-israel-blocks-vital-aid?traffic_source=rss",
-      "image": null,
-      "published_at": "2026-01-10T12:52:28.000Z",
-      "summary": "Israel continues to block vital necessities, such as mobile homes, as Palestinian enclave is hit by harsh weather."
-    },
-    {
-      "id": "Ynet (HE) — Headlines-aHR0cHM6Ly93d3cueW5ldC5j",
-      "source": "Ynet (HE) — Headlines",
-      "topic": "News",
-      "title": "נתניהו: רוצה לבטל תוך עשור את הסיוע הצבאי מארה\"ב. טראמפ יודע",
-      "url": "https://www.ynet.co.il/news/article/s1cfepyswx",
-      "image": null,
-      "published_at": "2026-01-10T12:29:05.000Z",
-      "summary": "בריאיון ל\"אקונומיסט\" טען ראש הממשלה כי בכוונתו להפסיק את הסיוע הביטחוני השנתי בגובה 3.8 מיליארד דולר שישראל מקבלת מהאמריקנים - עוד מימי אובמה: \"אמרתי את זה לטראמפ, זה כבר בעבודה\". הוא התייחס גם לגל המחאות באיראן, והאשים את חמאס בבידוד המדיני אליו נכנסה ישראל"
-    },
-    {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
       "source": "Haaretz — All Headlines",
       "topic": "News",
@@ -1020,16 +1080,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21eb/live/88b814c0-ee13-11f0-8692-012f383b8e06.jpg",
       "published_at": "2026-01-10T11:32:44.000Z",
       "summary": "The landslide happened when a mountain of rubbish collapsed at a landfill site in the central Philippines."
-    },
-    {
-      "id": "Times of Israel — All-aHR0cHM6Ly93d3cudGltZXNv",
-      "source": "Times of Israel — All",
-      "topic": "News",
-      "title": "Venezuela, US set to discuss restoring diplomatic ties after Maduro deposed",
-      "url": "https://www.timesofisrael.com/venezuela-says-in-talks-with-us-to-restore-diplomatic-ties-after-maduro-deposed/",
-      "image": null,
-      "published_at": "2026-01-10T11:10:25.000Z",
-      "summary": "Interim President Delcy Rodriguez condemns Washington's 'serious, criminal, illegal and illegitimate attack' but says she is exploring diplomatic process\nThe post Venezuela, US set to discuss restoring diplomatic ties after Maduro deposed appeared first on The Times of Israel.\n"
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -1352,16 +1402,6 @@
       "summary": "Avraham Ya'akov Perlmutter confessed to multiple serious offenses, many committed after drugging his victims into unconsciousness, including shaving the hair of three women – a 'sadistic act intended to humiliate, erase identity, and inflict psychological and aesthetic harm,' according to the judge"
     },
     {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Trump's grand plan to reshape the world order leaves Europe with a difficult choice to make",
-      "url": "https://www.bbc.com/news/articles/c041n3ng03no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd1/live/eb492840-ec7e-11f0-b385-5f48925de19a.jpg",
-      "published_at": "2026-01-09T16:30:41.000Z",
-      "summary": "The turbocharged events of the last week - and the new US National Security Strategy - raise pressing questions about the new world order, and what it means for Europe"
-    },
-    {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
       "source": "Jerusalem Post — Israel News",
       "topic": "News",
@@ -1370,16 +1410,6 @@
       "image": null,
       "published_at": "2026-01-09T16:11:25.000Z",
       "summary": "Sharif Mufak Hadid, a 26-year-old from Daliat al-Carmel, was fatally shot on Highway 6 by Shalev Hajaj, a 21-year-old off-duty IDF soldier who was in civilian clothes at the time."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "The continued mysteries surrounding the intelligence operation to seize Maduro",
-      "url": "https://www.bbc.com/news/articles/cp37yr2xq7no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7169/live/265e5230-ed69-11f0-b5f7-49f0357294ff.jpg",
-      "published_at": "2026-01-09T14:39:15.000Z",
-      "summary": "From intelligence sources to intricate mission plans, some details are becoming clearer - but many questions remain unanswered."
     },
     {
       "id": "Jerusalem Post — Israel News-aHR0cHM6Ly93d3cuanBvc3Qu",
@@ -1470,16 +1500,6 @@
       "image": null,
       "published_at": "2026-01-09T10:39:01.000Z",
       "summary": "Close to midnight, police received a report that the victim had been attacked as he exited a restaurant. Police arrived at the scene and caught the two suspects a few streets away from the incident."
-    },
-    {
-      "id": "BBC World-aHR0cHM6Ly93d3cuYmJjLmNv",
-      "source": "BBC World",
-      "topic": "News",
-      "title": "Venezuelan government begins releasing political prisoners",
-      "url": "https://www.bbc.com/news/articles/c0mkwl2g499o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c057/live/4a536060-ecd6-11f0-9d35-971c224e6291.jpg",
-      "published_at": "2026-01-09T10:18:09.000Z",
-      "summary": "The US, which recently captured its President Nicolás Maduro, has long demanded the detainees be freed."
     },
     {
       "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
@@ -2310,16 +2330,6 @@
       "image": "https://img.haarets.co.il/bs/0000019b-99be-d01b-a7db-9dbed9ca0001/c9/dc/88af70b04f8d91e1fefe77e04cd5/203317.jpg?height=81",
       "published_at": "2026-01-07T19:57:09.000Z",
       "summary": "Baharav-Miara's legal opinion will be forwarded to the Justice Ministry's Pardons Department, which is tasked with submitting its position to President Isaac Herzog. As Haaretz has previously reported, the department is not expected to recommend it be approved"
-    },
-    {
-      "id": "Haaretz — All Headlines-aHR0cHM6Ly93d3cuaGFhcmV0",
-      "source": "Haaretz — All Headlines",
-      "topic": "News",
-      "title": "Why I, a Palestinian citizen, don't vote in Israeli elections",
-      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-01-07/ty-article/.highlight/why-i-a-palestinian-citizen-dont-vote-in-israeli-elections/0000019b-9916-dd67-a9ff-9b17f9340000",
-      "image": "https://img.haarets.co.il/bs/0000019b-99c7-d01b-a7db-9ddfccf50000/76/8f/7977bf6c472c86553bcd2014644a/541824.jpg?height=81",
-      "published_at": "2026-01-07T19:49:02.000Z",
-      "summary": "This Israeli election year, my vote as a Palestinian remains a favor, not a right. The state treats my safety as optional and my humanity as negotiable. Why be grateful for crumbs?"
     },
     {
       "id": "Bellingcat-aHR0cHM6Ly93d3cuYmVsbGlu",
